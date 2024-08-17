@@ -28,16 +28,13 @@ try:
     with open(transcribed_text_file, 'r') as file:
         transcribed_text = file.read()
 
-    # Tokenize and check if the text is too long for the model
+    # Tokenizer for handling long texts
     tokenizer = classifier.tokenizer
-    inputs = tokenizer(transcribed_text, return_tensors='pt', truncation=False, padding=False)
-    if len(inputs['input_ids'][0]) > 512:
-        print("The text is too long and will be truncated.")
-        # Truncate the text to the first 512 tokens
-        transcribed_text = tokenizer.convert_tokens_to_string(tokenizer.convert_ids_to_tokens(inputs['input_ids'][0][:512]))
+    inputs = tokenizer(transcribed_text, return_tensors='pt', truncation=True, padding=False, max_length=512)
+    truncated_text = tokenizer.decode(inputs['input_ids'][0], skip_special_tokens=True)
 
-    # Classify the text
-    results = classifier(transcribed_text)
+    # Classify the truncated text
+    results = classifier(truncated_text)
 
     # Print results
     print(results)
