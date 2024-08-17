@@ -2,27 +2,37 @@ from transformers import pipeline
 
 # Initialize the classifier
 classifier = pipeline('text-classification', device=0)
-# Use the classifier
-test_text = "I love using GPUs for deep learning!"
-result = classifier(test_text)
-print ("\n")
-print (test_text)
-print(result)
 
-# Test classification with a simple text
-test_text = "I love using Hugging Face models!"
-results = classifier(test_text)
-print ("\n")
-print (test_text)
-print(result)
-print ("\n")
+def classify_text(text):
+    """Classify the given text and print results."""
+    result = classifier(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
 
-transcribed_text = "cleaned_text.txt"
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    classify_text(text)
+
+# Process text from file
+transcribed_text_file = "cleaned_text.txt"
 
 try:
     # Load transcribed text
-    with open(transcribed_text, 'r') as file:
+    with open(transcribed_text_file, 'r') as file:
         transcribed_text = file.read()
+
+    # Check if the text is too long for the model
+    if len(transcribed_text.split()) > 512:
+        print("The text is too long and will be truncated.")
+        # Truncate the text to the first 512 tokens (or any appropriate length)
+        transcribed_text = ' '.join(transcribed_text.split()[:512])
 
     # Classify the text
     results = classifier(transcribed_text)
@@ -31,10 +41,7 @@ try:
     print(results)
 
 except FileNotFoundError:
-    print("The file " + transcribed_text + "was not found.")
+    print(f"The file '{transcribed_text_file}' was not found.")
 
 except Exception as e:
     print(f"An error occurred: {e}")
-
-# Token indices sequence length is longer than the specified maximum sequence length for this model (944055 > 512). Running this sequence through the model will result in indexing errors
-# An error occurred: The size of tensor a (944055) must match the size of tensor b (512) at non-singleton dimension 1
