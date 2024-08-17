@@ -1,7 +1,10 @@
 from transformers import pipeline
 
 # Initialize the classifier
-classifier = pipeline('text-classification')
+classifier = pipeline('text-classification', device=0)
+# Use the classifier
+result = classifier("I love using GPUs for deep learning!")
+print(result)
 
 # Test classification with a simple text
 test_text = "I love using Hugging Face models!"
