@@ -44,3 +44,20 @@ except FileNotFoundError:
 
 except Exception as e:
     print(f"An error occurred: {e}")
+
+# ❯ python classify_text.py
+# /Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+#   warnings.warn(
+
+
+# I love using GPUs for deep learning!
+# [{'label': 'POSITIVE', 'score': 0.9990824460983276}]
+
+
+
+
+# I love using Hugging Face models!
+# [{'label': 'POSITIVE', 'score': 0.9992625117301941}]
+
+
+# [{'label': 'NEGATIVE', 'score': 0.9947984218597412}]
