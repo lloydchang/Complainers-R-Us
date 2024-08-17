@@ -1,6 +1,11 @@
 from transformers import pipeline, AutoModelForSequenceClassification, AutoTokenizer
 import torch
+print(torch.cuda.is_available())
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# Check CUDA availability
+if not torch.cuda.is_available():
+    raise RuntimeError("CUDA is not available. Ensure PyTorch is installed with CUDA support.")
 
 # Load model and tokenizer
 model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
