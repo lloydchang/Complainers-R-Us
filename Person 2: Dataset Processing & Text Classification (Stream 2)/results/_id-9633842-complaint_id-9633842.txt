@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9633842,
+  "complaint_id": "9633842",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a XXXX XXXX XXXX  Citi card, and forgot the password ( I had a huge line of folks behind me in the store and had to come up with something under pressure quickly ). I couldnt log in on line to make payments, and have tried to unlock my password, but they locked my account. When Ive called ( three times now ) I get the same run around - no problem sir, well take care of that oh, nothing is working, our system cant send your phone text messages. We will send you a code by mail meantime, I am going to miss a payment because they wont give me access to my account - no matter that Ive verified who I am, my birthdate, my card info, my address, Im using the same XXXX PHONE Ive used for the last six years and no other bank has a problem texting me. And nothing by mail. Im extremely frustrated and dont want my credit history to take a hit for this stupid bank not being able to reset a damned password.",
+  "date_sent_to_company": "2024-07-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "991XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-28T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I opened a XXXX XXXX XXXX  Citi card, and forgot the password ( I had a huge line of folks behind me in the store and had to come up with something under pressure quickly ). I couldnt log in on line to make payments, and have tried to unlock my password, but they locked my account. When Ive called ( three times now ) I get the same run around - no problem sir, well take care of that oh, nothing is working, our system cant send your phone text messages. We will send you a code by mail meantime, I am going to miss a payment because they wont give me access to my account - no matter that Ive verified who I am, my birthdate, my card info, my address, Im using the same XXXX PHONE Ive used for the last six years and no other bank has a problem texting me. And nothing by mail. Im extremely frustrated and dont want my credit history to take a hit for this stupid bank not being able to reset a damned password."
+}
+
+Chunk:
+i opened a xxxx xxxx xxxx citi card, and forgot the password ( i had a huge line of folks behind me in the store and had to come up with something under pressure quickly ). i couldnt log in on line to make payments, and have tried to unlock my password, but they locked my account. when ive called ( three times now ) i get the same run around - no problem sir, well take care of that oh, nothing is working, our system cant send your phone text messages. we will send you a code by mail meantime, i am going to miss a payment because they wont give me access to my account - no matter that ive verified who i am, my birthdate, my card info, my address, im using the same xxxx phone ive used for the last six years and no other bank has a problem texting me. and nothing by mail. im extremely frustrated and dont want my credit history to take a hit for this stupid bank not being able to reset a damned password.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995511174201965
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9046156,
+  "complaint_id": "9046156",
+  "product": "Credit card",
+  "complaint_what_happened": "I received the notification on my Credit monitoring stating that I had a new inquiry today XX/XX/XXXX this morning at XXXX. The inquiry States CBNA pulled my credit. Ive had an issue a month or two ago with someone tried to apply for a credit card under my name without my authorization. I did not authorize anybody to apply for anything nor did I attempt to apply for any product with Citibank. I am not sure if they were approved or declined for whatever they applied for so I would like some clarification on that as well because if an account was open, I would like it closed immediately.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11572",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received the notification on my Credit monitoring stating that I had a new inquiry today XX/XX/XXXX this morning at XXXX. The inquiry States CBNA pulled my credit. Ive had an issue a month or two ago with someone tried to apply for a credit card under my name without my authorization. I did not authorize anybody to apply for anything nor did I attempt to apply for any product with Citibank. I am not sure if they were approved or declined for whatever they applied for so I would like some clarification on that as well because if an account was open, I would like it closed immediately."
+}
+
+Chunk:
+i received the notification on my credit monitoring stating that i had a new inquiry today xx / xx / xxxx this morning at xxxx. the inquiry states cbna pulled my credit. ive had an issue a month or two ago with someone tried to apply for a credit card under my name without my authorization. i did not authorize anybody to apply for anything nor did i attempt to apply for any product with citibank. i am not sure if they were approved or declined for whatever they applied for so i would like some clarification on that as well because if an account was open, i would like it closed immediately.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991243481636047
+}

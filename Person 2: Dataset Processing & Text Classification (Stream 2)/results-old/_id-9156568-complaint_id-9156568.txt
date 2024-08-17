@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156568,
+  "complaint_id": "9156568",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, I was awarded a new Living Spaces account through Synchrony Bank which was 18 months NO INTEREST. A friend brought my attention to one of his XXXX agreements where they changed ( rather, added ) interest fees to a no-interest promotional purchase at {$2.00} per {$100.00} balance. My agreement had the same note, and said the charges would begin XX/XX/XXXX, and that I could opt out of the new changes but would not be able to make any new purchases on the account. But they've already retroactively charged this fee for the last two months on my account. \nPLUS they have added a {$2.00} paper statement fee to my account when I have opted for electronic communication! This feels like a breach of contract.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "890XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "In XX/XX/XXXX, I was awarded a new Living Spaces account through Synchrony Bank which was 18 months NO INTEREST. A friend brought my attention to one of his XXXX agreements where they changed ( rather, added ) interest fees to a no-interest promotional purchase at {$2.00} per {$100.00} balance. My agreement had the same note, and said the charges would begin XX/XX/XXXX, and that I could opt out of the new changes but would not be able to make any new purchases on the account. But they've already retroactively charged this fee for the last two months on my account. \nPLUS they have added a {$2.00} paper statement fee to my account when I have opted for electronic communication! This feels like a breach of contract."
+}
+
+Chunk:
+in xx / xx / xxxx, i was awarded a new living spaces account through synchrony bank which was 18 months no interest. a friend brought my attention to one of his xxxx agreements where they changed ( rather, added ) interest fees to a no - interest promotional purchase at { $ 2. 00 } per { $ 100. 00 } balance. my agreement had the same note, and said the charges would begin xx / xx / xxxx, and that i could opt out of the new changes but would not be able to make any new purchases on the account. but they've already retroactively charged this fee for the last two months on my account. plus they have added a { $ 2. 00 } paper statement fee to my account when i have opted for electronic communication! this feels like a breach of contract.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971610307693481
+}

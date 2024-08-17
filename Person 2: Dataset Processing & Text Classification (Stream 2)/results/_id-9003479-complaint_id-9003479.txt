@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9003479,
+  "complaint_id": "9003479",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I received a merchandise refund in the amount of {$140.00} which was refunded to the credit card that I originally used to make the purchase. The credit card company, Tomo Credit, has disabled the use of their credit cards however, and I am unable to spend my merchandise refund money and I am also unable to transfer the balance to my bank account. I've contacted Tomo Credit about this issue multiple times through email, submitted a help ticket on their website, and called their customer service line and still have not received a response from the company.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48237",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TomoCredit Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "On XX/XX/year> I received a merchandise refund in the amount of {$140.00} which was refunded to the credit card that I originally used to make the purchase. The credit card company, Tomo Credit, has disabled the use of their credit cards however, and I am unable to spend my merchandise refund money and I am also unable to transfer the balance to my bank account. I've contacted Tomo Credit about this issue multiple times through email, submitted a help ticket on their website, and called their customer service line and still have not received a response from the company."
+}
+
+Chunk:
+on xx / xx / year > i received a merchandise refund in the amount of { $ 140. 00 } which was refunded to the credit card that i originally used to make the purchase. the credit card company, tomo credit, has disabled the use of their credit cards however, and i am unable to spend my merchandise refund money and i am also unable to transfer the balance to my bank account. i've contacted tomo credit about this issue multiple times through email, submitted a help ticket on their website, and called their customer service line and still have not received a response from the company.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995835423469543
+}

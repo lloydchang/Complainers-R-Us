@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9121234,
+  "complaint_id": "9121234",
+  "product": "Credit card",
+  "complaint_what_happened": "purchased XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX with an invoice from a customer in XXXX ma, filed dispute with capital one and they refused my claim",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94132",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "purchased XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX with an invoice from a customer in XXXX ma, filed dispute with capital one and they refused my claim"
+}
+
+Chunk:
+purchased xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx with an invoice from a customer in xxxx ma, filed dispute with capital one and they refused my claim
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9957882761955261
+}

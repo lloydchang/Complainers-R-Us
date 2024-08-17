@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143997,
+  "complaint_id": "9143997",
+  "product": "Credit card",
+  "complaint_what_happened": "I withdrew my points from my Wells Fargo XXXX XXXX XXXX card on XX/XX/XXXX. As of today, XX/XX/XXXX, it has been XXXX business days and I still have not received the funds in my checking account. Despite multiple inquiries, there has been no satisfactory resolution or information provided. \n\nXXXX XXXX from the escalations team specifically stated that she would not provide any information until the investigation was complete. This lack of transparency is frustrating, especially since on a separate call, I was informed by another Wells Fargo representative that this is a known issue. \n\nWells Fargo 's failure to address this problem promptly and provide clear communication has been incredibly disappointing. As a customer, I expect better service and accountability from one of the country 's largest financial institutions. This situation has caused significant inconvenience, and I urge the CFPB to investigate Wells Fargo 's handling of this matter.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "66061",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "KS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I withdrew my points from my Wells Fargo XXXX XXXX XXXX card on XX/XX/XXXX. As of today, XX/XX/XXXX, it has been XXXX business days and I still have not received the funds in my checking account. Despite multiple inquiries, there has been no satisfactory resolution or information provided. \n\nXXXX XXXX from the escalations team specifically stated that she would not provide any information until the investigation was complete. This lack of transparency is frustrating, especially since on a separate call, I was informed by another Wells Fargo representative that this is a known issue. \n\nWells Fargo 's failure to address this problem promptly and provide clear communication has been incredibly disappointing. As a customer, I expect better service and accountability from one of the country 's largest financial institutions. This situation has caused significant inconvenience, and I urge the CFPB to investigate Wells Fargo 's handling of this matter."
+}
+
+Chunk:
+i withdrew my points from my wells fargo xxxx xxxx xxxx card on xx / xx / xxxx. as of today, xx / xx / xxxx, it has been xxxx business days and i still have not received the funds in my checking account. despite multiple inquiries, there has been no satisfactory resolution or information provided. xxxx xxxx from the escalations team specifically stated that she would not provide any information until the investigation was complete. this lack of transparency is frustrating, especially since on a separate call, i was informed by another wells fargo representative that this is a known issue. wells fargo's failure to address this problem promptly and provide clear communication has been incredibly disappointing. as a customer, i expect better service and accountability from one of the country's largest financial institutions. this situation has caused significant inconvenience, and i urge the cfpb to investigate wells fargo's handling of this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996514320373535
+}

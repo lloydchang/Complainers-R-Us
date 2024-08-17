@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017591,
+  "complaint_id": "9017591",
+  "product": "Credit card",
+  "complaint_what_happened": "I contacted Venmo about a {$6.00} charge, the representative did nothing about it, and I told them that I called XXXX and spoke to a representative about this charge of {$6.00}. The representative from XXXX said that they could not locate the charge on their end and gave authorization to Venmo to remove the transaction on their end. The representative from XXXX sent me an email to send to Venmo which I did. I still haven't been reimbursed for XXXX. I am get charged twice now. I've made several complaints on here and nothing seems to be done and Venmo still is allowing these charges to go through. Can this be expedited to a manager so they can review why Venmo hasn't removed it and continues to allow these charges. I want my money back along with any fees or interest I had to pay because of this.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94503",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I contacted Venmo about a {$6.00} charge, the representative did nothing about it, and I told them that I called XXXX and spoke to a representative about this charge of {$6.00}. The representative from XXXX said that they could not locate the charge on their end and gave authorization to Venmo to remove the transaction on their end. The representative from XXXX sent me an email to send to Venmo which I did. I still haven't been reimbursed for XXXX. I am get charged twice now. I've made several complaints on here and nothing seems to be done and Venmo still is allowing these charges to go through. Can this be expedited to a manager so they can review why Venmo hasn't removed it and continues to allow these charges. I want my money back along with any fees or interest I had to pay because of this."
+}
+
+Chunk:
+i contacted venmo about a { $ 6. 00 } charge, the representative did nothing about it, and i told them that i called xxxx and spoke to a representative about this charge of { $ 6. 00 }. the representative from xxxx said that they could not locate the charge on their end and gave authorization to venmo to remove the transaction on their end. the representative from xxxx sent me an email to send to venmo which i did. i still haven't been reimbursed for xxxx. i am get charged twice now. i've made several complaints on here and nothing seems to be done and venmo still is allowing these charges to go through. can this be expedited to a manager so they can review why venmo hasn't removed it and continues to allow these charges. i want my money back along with any fees or interest i had to pay because of this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986326098442078
+}

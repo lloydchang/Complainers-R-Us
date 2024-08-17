@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9203878,
+  "complaint_id": "9203878",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged {$96.00} on my Capital One Quicksilver card on XX/XX/year>. This was for an automatic renewal of a service I had with XXXX. They stated that it was automatically renewed since I didnt cancel it in advance, stating they had sent me a reminder of automatic renewal on XX/XX/year>. I never received this notification. I have reviewed both my inbox, SPAM folder and trash folder and have found no reminder via email. I called them on XX/XX/year> to ask for a refund since I no longer wanted the service. They told me it wasnt their policy to issue refunds. I have asked them twice to actually produce the said email with no response. They just gave me the supposed date of the email. Again, no proof that it was actually sent. I told them I wanted to see the email for the date and time stamp. Again, no response. All I am asking for is my refund of {$96.00}. I have also reported this to my credit card company.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20715",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I was charged {$96.00} on my Capital One Quicksilver card on XX/XX/year>. This was for an automatic renewal of a service I had with XXXX. They stated that it was automatically renewed since I didnt cancel it in advance, stating they had sent me a reminder of automatic renewal on XX/XX/year>. I never received this notification. I have reviewed both my inbox, SPAM folder and trash folder and have found no reminder via email. I called them on XX/XX/year> to ask for a refund since I no longer wanted the service. They told me it wasnt their policy to issue refunds. I have asked them twice to actually produce the said email with no response. They just gave me the supposed date of the email. Again, no proof that it was actually sent. I told them I wanted to see the email for the date and time stamp. Again, no response. All I am asking for is my refund of {$96.00}. I have also reported this to my credit card company."
+}
+
+Chunk:
+i was charged { $ 96. 00 } on my capital one quicksilver card on xx / xx / year >. this was for an automatic renewal of a service i had with xxxx. they stated that it was automatically renewed since i didnt cancel it in advance, stating they had sent me a reminder of automatic renewal on xx / xx / year >. i never received this notification. i have reviewed both my inbox, spam folder and trash folder and have found no reminder via email. i called them on xx / xx / year > to ask for a refund since i no longer wanted the service. they told me it wasnt their policy to issue refunds. i have asked them twice to actually produce the said email with no response. they just gave me the supposed date of the email. again, no proof that it was actually sent. i told them i wanted to see the email for the date and time stamp. again, no response. all i am asking for is my refund of { $ 96. 00 }. i have also reported this to my credit card company.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993900060653687
+}

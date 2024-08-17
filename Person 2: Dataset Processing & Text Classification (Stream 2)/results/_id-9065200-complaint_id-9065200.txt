@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065200,
+  "complaint_id": "9065200",
+  "product": "Credit card",
+  "complaint_what_happened": "Originally opened the dispute with Apple credit card by Goldman Sachs on XX/XX/XXXX. Hired a company to do a repair on my gas stove which was backed by a 1 year warranty. The work was completed in XX/XX/XXXX. I reached out to the provider several times to let me know that the burners they replaced on the gas stove wasn't working. The technician set an appointment to come back out and check it under warranty but never showed up. I ended up having to replace the gas range and I filed a dispute with Apple/Goldman Sachs regarding the warranty not be honored and provided evidence and screenshot contacting the merchant verifying the appointment even have video evidence of the appliance not working and somehow they still sided with the merchant by them providing confirmation I made the purchase. That isn't the issue with the dispute. The problem is that I paid for a service that was supposed to be warrantied and the company failed to remedy the issue.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77373",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Originally opened the dispute with Apple credit card by Goldman Sachs on XX/XX/XXXX. Hired a company to do a repair on my gas stove which was backed by a 1 year warranty. The work was completed in XX/XX/XXXX. I reached out to the provider several times to let me know that the burners they replaced on the gas stove wasn't working. The technician set an appointment to come back out and check it under warranty but never showed up. I ended up having to replace the gas range and I filed a dispute with Apple/Goldman Sachs regarding the warranty not be honored and provided evidence and screenshot contacting the merchant verifying the appointment even have video evidence of the appliance not working and somehow they still sided with the merchant by them providing confirmation I made the purchase. That isn't the issue with the dispute. The problem is that I paid for a service that was supposed to be warrantied and the company failed to remedy the issue."
+}
+
+Chunk:
+originally opened the dispute with apple credit card by goldman sachs on xx / xx / xxxx. hired a company to do a repair on my gas stove which was backed by a 1 year warranty. the work was completed in xx / xx / xxxx. i reached out to the provider several times to let me know that the burners they replaced on the gas stove wasn't working. the technician set an appointment to come back out and check it under warranty but never showed up. i ended up having to replace the gas range and i filed a dispute with apple / goldman sachs regarding the warranty not be honored and provided evidence and screenshot contacting the merchant verifying the appointment even have video evidence of the appliance not working and somehow they still sided with the merchant by them providing confirmation i made the purchase. that isn't the issue with the dispute. the problem is that i paid for a service that was supposed to be warrantied and the company failed to remedy the issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999382734298706
+}

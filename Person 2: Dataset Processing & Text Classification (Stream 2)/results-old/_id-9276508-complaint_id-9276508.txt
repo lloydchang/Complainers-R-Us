@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9276508,
+  "complaint_id": "9276508",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX  I opened a line of credit for XXXXXXXX XXXX XXXX. This line of credit was through Fortiva. This was not a credit card. It was purely for the equipment. Recently, I checked my credit report and I saw that the line of credit had been closed and a Fortiva Mastercard account had been opened ( with the balanced transferred ). This caused my credit score to drop nearly XXXX points ( I am trying to buy a house, so it looks like I took out a credit card and I did not ). I called the company and they explained that they sent out a notice and if the customer did not respond the account was automatically switched. They also sent out an email, however, this email was deactivated. I have not had any interactions with this company because my bill is on autopay. I did not receive a paper notice. My bills are electronic ( assuming because I do not receive mail from them ). \nI have not bothered with it since it is on autopay. \nI paid off the remaining balance and expressed that this was for the closed XXXX  account and not the Fortiva credit card that I did not apply for or want. After talking to a manager, it seemed that it was alright, ( although they were very pushy in wanting me to keep this account- sayings like, \" are you sure, you can use it anywhere ''. Again it was not my desire to have another credit card as I am trying to get myself into a position to buy a house, which I should have been there, but this has caused a setback. I am now waiting another 30-60 days for my score to update so I can continue looking for a home. \nI got another call today and they said that they can not remove the credit card from my report, they can only close it. After research online, this is not a new thing with Fortiva. Just bad business.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "79762",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "In XXXX  I opened a line of credit for XXXXXXXX XXXX XXXX. This line of credit was through Fortiva. This was not a credit card. It was purely for the equipment. Recently, I checked my credit report and I saw that the line of credit had been closed and a Fortiva Mastercard account had been opened ( with the balanced transferred ). This caused my credit score to drop nearly XXXX points ( I am trying to buy a house, so it looks like I took out a credit card and I did not ). I called the company and they explained that they sent out a notice and if the customer did not respond the account was automatically switched. They also sent out an email, however, this email was deactivated. I have not had any interactions with this company because my bill is on autopay. I did not receive a paper notice. My bills are electronic ( assuming because I do not receive mail from them ). \nI have not bothered with it since it is on autopay. \nI paid off the remaining balance and expressed that this was for the closed XXXX  account and not the Fortiva credit card that I did not apply for or want. After talking to a manager, it seemed that it was alright, ( although they were very pushy in wanting me to keep this account- sayings like, \" are you sure, you can use it anywhere ''. Again it was not my desire to have another credit card as I am trying to get myself into a position to buy a house, which I should have been there, but this has caused a setback. I am now waiting another 30-60 days for my score to update so I can continue looking for a home. \nI got another call today and they said that they can not remove the credit card from my report, they can only close it. After research online, this is not a new thing with Fortiva. Just bad business."
+}
+
+Chunk:
+in xxxx i opened a line of credit for xxxxxxxx xxxx xxxx. this line of credit was through fortiva. this was not a credit card. it was purely for the equipment. recently, i checked my credit report and i saw that the line of credit had been closed and a fortiva mastercard account had been opened ( with the balanced transferred ). this caused my credit score to drop nearly xxxx points ( i am trying to buy a house, so it looks like i took out a credit card and i did not ). i called the company and they explained that they sent out a notice and if the customer did not respond the account was automatically switched. they also sent out an email, however, this email was deactivated. i have not had any interactions with this company because my bill is on autopay. i did not receive a paper notice. my bills are electronic ( assuming because i do not receive mail from them ). i have not bothered with it since it is on autopay. i paid off the remaining balance and expressed that this was for the closed xxxx account and not the fortiva credit card that i did not apply for or want. after talking to a manager, it seemed that it was alright, ( although they were very pushy in wanting me to keep this account - sayings like, " are you sure, you can use it anywhere''. again it was not my desire to have another credit card as i am trying to get myself into a position to buy a house, which i should have been there, but this has caused a setback. i am now waiting another 30 - 60 days for my score to update so i can continue looking for a home. i got another call today and they said that they can not remove the credit card from my report, they can only close it. after research online, this is not a new thing with fortiva. just bad business.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977186918258667
+}

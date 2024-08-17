@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9658089,
+  "complaint_id": "9658089",
+  "product": "Credit card",
+  "complaint_what_happened": "Today, XX/XX/year> I received a letter in the mail stating that the APR on my card would be increasing to 34.24 %. I have had this card for around 30 years and my credit rating is around XXXX. I have almost never made late payments, none is the past 5 years. I called to request a lower rate and I was told that everyone paid the same rate and it was not negotiable at this time. I feel this rate is grossly unfair and has no basis for an increase.",
+  "date_sent_to_company": "2024-08-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "321XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Today, XX/XX/year> I received a letter in the mail stating that the APR on my card would be increasing to 34.24 %. I have had this card for around 30 years and my credit rating is around XXXX. I have almost never made late payments, none is the past 5 years. I called to request a lower rate and I was told that everyone paid the same rate and it was not negotiable at this time. I feel this rate is grossly unfair and has no basis for an increase."
+}
+
+Chunk:
+today, xx / xx / year > i received a letter in the mail stating that the apr on my card would be increasing to 34. 24 %. i have had this card for around 30 years and my credit rating is around xxxx. i have almost never made late payments, none is the past 5 years. i called to request a lower rate and i was told that everyone paid the same rate and it was not negotiable at this time. i feel this rate is grossly unfair and has no basis for an increase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994970560073853
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071065,
+  "complaint_id": "9071065",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX XXXX XXXX, Kentucky XXXX CELTIC BANK/CONTFINCO XXXX XXXX XXXX XXXX XXXX XXXX, DE XXXX XX/XX/2024 Subject : Request for Goodwill Adjustment - Account : CELTIC BANK/CONTFINCO XXXX Account Number : XXXX Dear CELTIC BANK/CONTFINCO, I am writing to address the late payments reported on my most recent credit report for my CELTIC BANK/CONTFINCO account, with the account number XXXX. I acknowledge the importance of timely payments and understand the challenges it presents to your operations. \nI want to bring to your attention the circumstances that led to the missed payment on my account. Unfortunately, I experienced severe illness and hospitalization, resulting in missed payments. These late payment remarks have adversely impacted my life, causing missed job opportunities and preventing me from closing on a home for my family, all exacerbated by the challenges posed by the XXXX pandemic. I sincerely apologize for any inconvenience caused and want to assure you that steps will be taken to prevent a recurrence. \nI recognize the responsibility for these late payments lies with me, and I deeply regret the situation. I value our business relationship and have committed to ensuring timely payments moving forward. \nConsidering the challenges I faced, I kindly request your understanding and goodwill in removing the late payment remarks from my credit reports. This gesture will significantly contribute to rebuilding my credit score and maintaining a positive standing with your company. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "40517",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account status incorrect",
+  "text": "XXXX XXXX XXXX XXXX XXXX XXXX, Kentucky XXXX CELTIC BANK/CONTFINCO XXXX XXXX XXXX XXXX XXXX XXXX, DE XXXX XX/XX/2024 Subject : Request for Goodwill Adjustment - Account : CELTIC BANK/CONTFINCO XXXX Account Number : XXXX Dear CELTIC BANK/CONTFINCO, I am writing to address the late payments reported on my most recent credit report for my CELTIC BANK/CONTFINCO account, with the account number XXXX. I acknowledge the importance of timely payments and understand the challenges it presents to your operations. \nI want to bring to your attention the circumstances that led to the missed payment on my account. Unfortunately, I experienced severe illness and hospitalization, resulting in missed payments. These late payment remarks have adversely impacted my life, causing missed job opportunities and preventing me from closing on a home for my family, all exacerbated by the challenges posed by the XXXX pandemic. I sincerely apologize for any inconvenience caused and want to assure you that steps will be taken to prevent a recurrence. \nI recognize the responsibility for these late payments lies with me, and I deeply regret the situation. I value our business relationship and have committed to ensuring timely payments moving forward. \nConsidering the challenges I faced, I kindly request your understanding and goodwill in removing the late payment remarks from my credit reports. This gesture will significantly contribute to rebuilding my credit score and maintaining a positive standing with your company. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx xxxx, kentucky xxxx celtic bank / contfinco xxxx xxxx xxxx xxxx xxxx xxxx, de xxxx xx / xx / 2024 subject : request for goodwill adjustment - account : celtic bank / contfinco xxxx account number : xxxx dear celtic bank / contfinco, i am writing to address the late payments reported on my most recent credit report for my celtic bank / contfinco account, with the account number xxxx. i acknowledge the importance of timely payments and understand the challenges it presents to your operations. i want to bring to your attention the circumstances that led to the missed payment on my account. unfortunately, i experienced severe illness and hospitalization, resulting in missed payments. these late payment remarks have adversely impacted my life, causing missed job opportunities and preventing me from closing on a home for my family, all exacerbated by the challenges posed by the xxxx pandemic. i sincerely apologize for any inconvenience caused and want to assure you that steps will be taken to prevent a recurrence. i recognize the responsibility for these late payments lies with me, and i deeply regret the situation. i value our business relationship and have committed to ensuring timely payments moving forward. considering the challenges i faced, i kindly request your understanding and goodwill in removing the late payment remarks from my credit reports. this gesture will significantly contribute to rebuilding my credit score and maintaining a positive standing with your company. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9930828809738159
+}

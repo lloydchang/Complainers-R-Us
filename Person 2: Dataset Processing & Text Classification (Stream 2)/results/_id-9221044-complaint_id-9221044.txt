@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9221044,
+  "complaint_id": "9221044",
+  "product": "Credit card",
+  "complaint_what_happened": "My card was stolen and I reported it and a atm withdrawal was made and the company refused to refund my money when they were aware of the stolen card and the fraudulent transactions that were made on the card. The company closed my account and made it way more difficult to get my money back",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20785",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "My card was stolen and I reported it and a atm withdrawal was made and the company refused to refund my money when they were aware of the stolen card and the fraudulent transactions that were made on the card. The company closed my account and made it way more difficult to get my money back"
+}
+
+Chunk:
+my card was stolen and i reported it and a atm withdrawal was made and the company refused to refund my money when they were aware of the stolen card and the fraudulent transactions that were made on the card. the company closed my account and made it way more difficult to get my money back
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997689127922058
+}

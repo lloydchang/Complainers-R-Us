@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9170753,
+  "complaint_id": "9170753",
+  "product": "Credit card",
+  "complaint_what_happened": "Macys fraudulently without our knowledge or approval, changed our delivery/home account address on or before XX/XX/XXXX till XX/XX/XXXX, after which our account was sent to collections for a unpaid debt. ( {$12.00} charge plus {$190.00} in fees ). I was ONLY notified of this by a phone call from a debt collector on XX/XX/XXXX. Immediately contacted MACYS to correct their error of the address and subsequent charges, but received no response, only referred back to XXXX XXXX XXXX. On XX/XX/XXXX received copies of the bills in question stating WRONG ADDRESS. We mailed copies of XXXX utility, water, tax bills- ( XXXX pages of docs ) proving there was no change of address ( corresponding to the dates on bills that XXXX 's changed address ) back to XXXX XXXX and XXXX XXXX. \n\nTO DATE THERE HAS BEEN NO RESPONSE. Have attempted to pay {$12.00}. charge with MACYS and are unable to do so. XXXX were alerted when applying for a Mortgage, that MACY 'S is reporting a CHARGED OFF/CLOSED BY XXXX XXXX. XXXXThis is negatively affecting our credit ( over {$12.00} ) and MACYS and UNITED COLLECTIONS have not corrected the error. Letter dated to MACYS XXXX. XXXX, NO RESPONSE. PLEASE correct this on our CREDIT FILE.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "08755",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Macys fraudulently without our knowledge or approval, changed our delivery/home account address on or before XX/XX/XXXX till XX/XX/XXXX, after which our account was sent to collections for a unpaid debt. ( {$12.00} charge plus {$190.00} in fees ). I was ONLY notified of this by a phone call from a debt collector on XX/XX/XXXX. Immediately contacted MACYS to correct their error of the address and subsequent charges, but received no response, only referred back to XXXX XXXX XXXX. On XX/XX/XXXX received copies of the bills in question stating WRONG ADDRESS. We mailed copies of XXXX utility, water, tax bills- ( XXXX pages of docs ) proving there was no change of address ( corresponding to the dates on bills that XXXX 's changed address ) back to XXXX XXXX and XXXX XXXX. \n\nTO DATE THERE HAS BEEN NO RESPONSE. Have attempted to pay {$12.00}. charge with MACYS and are unable to do so. XXXX were alerted when applying for a Mortgage, that MACY 'S is reporting a CHARGED OFF/CLOSED BY XXXX XXXX. XXXXThis is negatively affecting our credit ( over {$12.00} ) and MACYS and UNITED COLLECTIONS have not corrected the error. Letter dated to MACYS XXXX. XXXX, NO RESPONSE. PLEASE correct this on our CREDIT FILE."
+}
+
+Chunk:
+macys fraudulently without our knowledge or approval, changed our delivery / home account address on or before xx / xx / xxxx till xx / xx / xxxx, after which our account was sent to collections for a unpaid debt. ( { $ 12. 00 } charge plus { $ 190. 00 } in fees ). i was only notified of this by a phone call from a debt collector on xx / xx / xxxx. immediately contacted macys to correct their error of the address and subsequent charges, but received no response, only referred back to xxxx xxxx xxxx. on xx / xx / xxxx received copies of the bills in question stating wrong address. we mailed copies of xxxx utility, water, tax bills - ( xxxx pages of docs ) proving there was no change of address ( corresponding to the dates on bills that xxxx's changed address ) back to xxxx xxxx and xxxx xxxx. to date there has been no response. have attempted to pay { $ 12. 00 }. charge with macys and are unable to do so. xxxx were alerted when applying for a mortgage, that macy's is reporting a charged off / closed by xxxx xxxx. xxxxthis is negatively affecting our credit ( over { $ 12. 00 } ) and macys and united collections have not corrected the error. letter dated to macys xxxx. xxxx, no response. please correct this on our credit file.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994833469390869
+}

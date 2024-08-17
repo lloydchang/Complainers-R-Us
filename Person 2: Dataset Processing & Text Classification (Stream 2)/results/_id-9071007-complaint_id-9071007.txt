@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071007,
+  "complaint_id": "9071007",
+  "product": "Credit card",
+  "complaint_what_happened": "I have made over 14 calls trying to get this charged removed. I was immediately sent a text with the fraud alert when the charge was made in XX/XX/year>. I immediately responded to the text advising that the charge was not mine and called the number for the bank and spoke with an agent. The next month I received the charge on my statement and immediately called the bank. The charge was shown as a credit, however I later received a letter from the bank on XXXX advising me that the charge was validated and the charge reversed back to me. I called them several times again and they said they would look into it. \nThe paperwork I received from the bank as proof of the charge XXXX XXXX  being delivered to a XXXX XXXX at XXXX XXXX XXXXXXXX XXXX XXXX to a master card number ending in XXXX. That is not even my credit card number. \n\nThis needs to be taken care of and the bank has done nothing about it.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have made over 14 calls trying to get this charged removed. I was immediately sent a text with the fraud alert when the charge was made in XX/XX/year>. I immediately responded to the text advising that the charge was not mine and called the number for the bank and spoke with an agent. The next month I received the charge on my statement and immediately called the bank. The charge was shown as a credit, however I later received a letter from the bank on XXXX advising me that the charge was validated and the charge reversed back to me. I called them several times again and they said they would look into it. \nThe paperwork I received from the bank as proof of the charge XXXX XXXX  being delivered to a XXXX XXXX at XXXX XXXX XXXXXXXX XXXX XXXX to a master card number ending in XXXX. That is not even my credit card number. \n\nThis needs to be taken care of and the bank has done nothing about it."
+}
+
+Chunk:
+i have made over 14 calls trying to get this charged removed. i was immediately sent a text with the fraud alert when the charge was made in xx / xx / year >. i immediately responded to the text advising that the charge was not mine and called the number for the bank and spoke with an agent. the next month i received the charge on my statement and immediately called the bank. the charge was shown as a credit, however i later received a letter from the bank on xxxx advising me that the charge was validated and the charge reversed back to me. i called them several times again and they said they would look into it. the paperwork i received from the bank as proof of the charge xxxx xxxx being delivered to a xxxx xxxx at xxxx xxxx xxxxxxxx xxxx xxxx to a master card number ending in xxxx. that is not even my credit card number. this needs to be taken care of and the bank has done nothing about it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990960359573364
+}

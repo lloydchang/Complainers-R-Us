@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167312,
+  "complaint_id": "9167312",
+  "product": "Credit card",
+  "complaint_what_happened": "I took my XXXX  for a XXXX on XX/XX/XXXX and was billed on the XXXX for the same amounted I was charged on the XXXX by XXXX XXXX XXXX, on my Capital One QuickSilver Card. \nI have tried disputing this multiple times with more than enough information, and they have denied me. \nCapital One was the one who told me to hold off on opening a dispute until I contacted the merchant. \nThats what I did for months even showing them proof of my contact and no response from the merchant They want to reapply the charge of XXXX",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "184XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I took my XXXX  for a XXXX on XX/XX/XXXX and was billed on the XXXX for the same amounted I was charged on the XXXX by XXXX XXXX XXXX, on my Capital One QuickSilver Card. \nI have tried disputing this multiple times with more than enough information, and they have denied me. \nCapital One was the one who told me to hold off on opening a dispute until I contacted the merchant. \nThats what I did for months even showing them proof of my contact and no response from the merchant They want to reapply the charge of XXXX"
+}
+
+Chunk:
+i took my xxxx for a xxxx on xx / xx / xxxx and was billed on the xxxx for the same amounted i was charged on the xxxx by xxxx xxxx xxxx, on my capital one quicksilver card. i have tried disputing this multiple times with more than enough information, and they have denied me. capital one was the one who told me to hold off on opening a dispute until i contacted the merchant. thats what i did for months even showing them proof of my contact and no response from the merchant they want to reapply the charge of xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989728927612305
+}

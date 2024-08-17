@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9233842,
+  "complaint_id": "9233842",
+  "product": "Credit card",
+  "complaint_what_happened": "I've recently applied for a business credit card/auto loan with Capital One and received a letter ( paraphrasing ) that part of the denial is that I had other accounts that I didn't keep in working order and have tried to rectify and cure those accounts. One of the bullet points mentioned that I wasn't made to be a suitable member of Capital One? again I'm paraphrasing this here.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01844",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I've recently applied for a business credit card/auto loan with Capital One and received a letter ( paraphrasing ) that part of the denial is that I had other accounts that I didn't keep in working order and have tried to rectify and cure those accounts. One of the bullet points mentioned that I wasn't made to be a suitable member of Capital One? again I'm paraphrasing this here."
+}
+
+Chunk:
+i've recently applied for a business credit card / auto loan with capital one and received a letter ( paraphrasing ) that part of the denial is that i had other accounts that i didn't keep in working order and have tried to rectify and cure those accounts. one of the bullet points mentioned that i wasn't made to be a suitable member of capital one? again i'm paraphrasing this here.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99538654088974
+}

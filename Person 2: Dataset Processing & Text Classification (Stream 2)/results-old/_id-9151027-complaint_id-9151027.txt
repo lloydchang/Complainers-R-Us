@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151027,
+  "complaint_id": "9151027",
+  "product": "Credit card",
+  "complaint_what_happened": "My daughter and I called Citi bank today around XXXX XXXX  ET to discuss options available to avoid defaulting on my credit card. Due to my health drastically declining, I am unable to work full time. This has resulted in a substantial loss of income. I am still current on my accounts but will not be able to make the payment in XXXX. Citi bank would not discuss or offer payment assistance because I am current on my account. When I asked to speak with a manager, they told me no managers are available on Sunday but I could speak with another agent. I said I would like to speak with another agent and she said to hold, then the line was disconnected. She also refused to speak with my daughter, who is helping me and I gave verbal consent for her to discuss my credit card situation with my daughter.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28078",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "My daughter and I called Citi bank today around XXXX XXXX  ET to discuss options available to avoid defaulting on my credit card. Due to my health drastically declining, I am unable to work full time. This has resulted in a substantial loss of income. I am still current on my accounts but will not be able to make the payment in XXXX. Citi bank would not discuss or offer payment assistance because I am current on my account. When I asked to speak with a manager, they told me no managers are available on Sunday but I could speak with another agent. I said I would like to speak with another agent and she said to hold, then the line was disconnected. She also refused to speak with my daughter, who is helping me and I gave verbal consent for her to discuss my credit card situation with my daughter."
+}
+
+Chunk:
+my daughter and i called citi bank today around xxxx xxxx et to discuss options available to avoid defaulting on my credit card. due to my health drastically declining, i am unable to work full time. this has resulted in a substantial loss of income. i am still current on my accounts but will not be able to make the payment in xxxx. citi bank would not discuss or offer payment assistance because i am current on my account. when i asked to speak with a manager, they told me no managers are available on sunday but i could speak with another agent. i said i would like to speak with another agent and she said to hold, then the line was disconnected. she also refused to speak with my daughter, who is helping me and i gave verbal consent for her to discuss my credit card situation with my daughter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996143579483032
+}

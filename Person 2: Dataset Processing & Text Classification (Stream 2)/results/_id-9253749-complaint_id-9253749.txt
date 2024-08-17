@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9253749,
+  "complaint_id": "9253749",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I called wells Fargo to get clarification about using the balance transfer promo that I had used before! I asked about the fee and if any interest would be charged! I was told that there would be a 3 percent fee but no interest for the promo period ending in XX/XX/XXXX. So I requested the transfer and gave my consent! Months later, I noticed that interest was being charged each month. So in XXXX, I called wells Fargo to find out why. I was told that it was for purchases, because that's what it appeared to be on the statement. Very confusing.! So I objectedand was placed on hold, and the representative came back and asked me if I had done a balance transfer over the phone or online. So I said to her that it was done over the phone. I requested that the interest be taken off of my account. So she said that wells Fargo would investigate and I would hear back in about 5 days. I didn't hear back for a about 10 days so I caked back and was told again that they were investigating. I kept calling for about a month before a gentlemen called to say that he heard my conversation in XXXX with their representative and he said that the XXXX time she mentioned the interest charge for the balance transfer. I disagreed with him. He said that the terms were mailed to me recently. But I hadn't received it until a week later. I have requested that the interest be removed and I also want the late charges removed while this matter is being resolved. I sent this request by email on XX/XX/XXXX!",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75219",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "On XX/XX/XXXX I called wells Fargo to get clarification about using the balance transfer promo that I had used before! I asked about the fee and if any interest would be charged! I was told that there would be a 3 percent fee but no interest for the promo period ending in XX/XX/XXXX. So I requested the transfer and gave my consent! Months later, I noticed that interest was being charged each month. So in XXXX, I called wells Fargo to find out why. I was told that it was for purchases, because that's what it appeared to be on the statement. Very confusing.! So I objectedand was placed on hold, and the representative came back and asked me if I had done a balance transfer over the phone or online. So I said to her that it was done over the phone. I requested that the interest be taken off of my account. So she said that wells Fargo would investigate and I would hear back in about 5 days. I didn't hear back for a about 10 days so I caked back and was told again that they were investigating. I kept calling for about a month before a gentlemen called to say that he heard my conversation in XXXX with their representative and he said that the XXXX time she mentioned the interest charge for the balance transfer. I disagreed with him. He said that the terms were mailed to me recently. But I hadn't received it until a week later. I have requested that the interest be removed and I also want the late charges removed while this matter is being resolved. I sent this request by email on XX/XX/XXXX!"
+}
+
+Chunk:
+on xx / xx / xxxx i called wells fargo to get clarification about using the balance transfer promo that i had used before! i asked about the fee and if any interest would be charged! i was told that there would be a 3 percent fee but no interest for the promo period ending in xx / xx / xxxx. so i requested the transfer and gave my consent! months later, i noticed that interest was being charged each month. so in xxxx, i called wells fargo to find out why. i was told that it was for purchases, because that's what it appeared to be on the statement. very confusing.! so i objectedand was placed on hold, and the representative came back and asked me if i had done a balance transfer over the phone or online. so i said to her that it was done over the phone. i requested that the interest be taken off of my account. so she said that wells fargo would investigate and i would hear back in about 5 days. i didn't hear back for a about 10 days so i caked back and was told again that they were investigating. i kept calling for about a month before a gentlemen called to say that he heard my conversation in xxxx with their representative and he said that the xxxx time she mentioned the interest charge for the balance transfer. i disagreed with him. he said that the terms were mailed to me recently. but i hadn't received it until a week later. i have requested that the interest be removed and i also want the late charges removed while this matter is being resolved. i sent this request by email on xx / xx / xxxx!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985694885253906
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9450126,
+  "complaint_id": "9450126",
+  "product": "Credit card",
+  "complaint_what_happened": "Wells Fargo keeps reporting to my credit that I have or had an account with them. I have provided them with the police report and the FTC report but they still think the account belongs to me. I have never banked with them, nor has my credit ever been good enough to get an account like that. I have disputed this with the credit agencies and they have done nothing. Wells Fargo does not have a valid ID on file.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94085",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "Wells Fargo keeps reporting to my credit that I have or had an account with them. I have provided them with the police report and the FTC report but they still think the account belongs to me. I have never banked with them, nor has my credit ever been good enough to get an account like that. I have disputed this with the credit agencies and they have done nothing. Wells Fargo does not have a valid ID on file."
+}
+
+Chunk:
+wells fargo keeps reporting to my credit that i have or had an account with them. i have provided them with the police report and the ftc report but they still think the account belongs to me. i have never banked with them, nor has my credit ever been good enough to get an account like that. i have disputed this with the credit agencies and they have done nothing. wells fargo does not have a valid id on file.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992800354957581
+}

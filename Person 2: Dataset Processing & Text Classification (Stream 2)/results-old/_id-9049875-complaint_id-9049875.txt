@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049875,
+  "complaint_id": "9049875",
+  "product": "Credit card",
+  "complaint_what_happened": "Company said I was pre approved and they pull my credit report twice with XXXX and I was told to upload my ID and and take a picture and record a video and within 30 mins my application was denied and they wouldnt removed the double credit inquiry on my credit report and I have good credit history and they refused to review my application for XXXXXXXX XXXX XXXX and scam me for two double hard inquiry.. I want them removed or I will take legal actions..",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "75134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Company said I was pre approved and they pull my credit report twice with XXXX and I was told to upload my ID and and take a picture and record a video and within 30 mins my application was denied and they wouldnt removed the double credit inquiry on my credit report and I have good credit history and they refused to review my application for XXXXXXXX XXXX XXXX and scam me for two double hard inquiry.. I want them removed or I will take legal actions.."
+}
+
+Chunk:
+company said i was pre approved and they pull my credit report twice with xxxx and i was told to upload my id and and take a picture and record a video and within 30 mins my application was denied and they wouldnt removed the double credit inquiry on my credit report and i have good credit history and they refused to review my application for xxxxxxxx xxxx xxxx and scam me for two double hard inquiry.. i want them removed or i will take legal actions..
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989128112792969
+}

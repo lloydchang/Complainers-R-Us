@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049863,
+  "complaint_id": "9049863",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/2024 placed an order on XXXX for XXXX XXXX jackets for myself, total {$3000.00}, used my Chase XXXX XXXX credit card, paid through XXXX. \nXX/XX/2024 my credit card was charged for the total amount. \nXX/XX/2024 the package arrived, and XXXX jacket ( {$1900.00} ) is mens. \nXX/XX/2024 I returned the wrong jacket through XXXX XX/XX/2024 filed dispute with Chase as I was working with the merchant to get my refund XX/XX/2024 received the email confirmation from XXXX that they have issued refund of {$1900.00} to XXXX ( XXXX emails attached ) Since then, I have called both Chased and XXXX countless times. Each time they just kicked the ball to the other side citing some regulatory constraints. \n\nAs the result of this, as of today, the refund has not been received.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "077XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/2024 placed an order on XXXX for XXXX XXXX jackets for myself, total {$3000.00}, used my Chase XXXX XXXX credit card, paid through XXXX. \nXX/XX/2024 my credit card was charged for the total amount. \nXX/XX/2024 the package arrived, and XXXX jacket ( {$1900.00} ) is mens. \nXX/XX/2024 I returned the wrong jacket through XXXX XX/XX/2024 filed dispute with Chase as I was working with the merchant to get my refund XX/XX/2024 received the email confirmation from XXXX that they have issued refund of {$1900.00} to XXXX ( XXXX emails attached ) Since then, I have called both Chased and XXXX countless times. Each time they just kicked the ball to the other side citing some regulatory constraints. \n\nAs the result of this, as of today, the refund has not been received."
+}
+
+Chunk:
+xx / xx / 2024 placed an order on xxxx for xxxx xxxx jackets for myself, total { $ 3000. 00 }, used my chase xxxx xxxx credit card, paid through xxxx. xx / xx / 2024 my credit card was charged for the total amount. xx / xx / 2024 the package arrived, and xxxx jacket ( { $ 1900. 00 } ) is mens. xx / xx / 2024 i returned the wrong jacket through xxxx xx / xx / 2024 filed dispute with chase as i was working with the merchant to get my refund xx / xx / 2024 received the email confirmation from xxxx that they have issued refund of { $ 1900. 00 } to xxxx ( xxxx emails attached ) since then, i have called both chased and xxxx countless times. each time they just kicked the ball to the other side citing some regulatory constraints. as the result of this, as of today, the refund has not been received.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998859167098999
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023272,
+  "complaint_id": "9023272",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX I looked at my credit report because my score dropped and saw XXXX new credit cards ( Macys and Home Depot ) opened under XXXX different names. I called the number provided by the credit report and they assisted me with closing the account. On XX/XX/XXXX, I got a letter stating I am responsible for the payment and called the number provided, XXXX. I believe this is a fraudulent number provided and I gave my social security number, birthday and address. I believe my information has been compromised.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11356",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XXXX I looked at my credit report because my score dropped and saw XXXX new credit cards ( Macys and Home Depot ) opened under XXXX different names. I called the number provided by the credit report and they assisted me with closing the account. On XX/XX/XXXX, I got a letter stating I am responsible for the payment and called the number provided, XXXX. I believe this is a fraudulent number provided and I gave my social security number, birthday and address. I believe my information has been compromised."
+}
+
+Chunk:
+on xxxx i looked at my credit report because my score dropped and saw xxxx new credit cards ( macys and home depot ) opened under xxxx different names. i called the number provided by the credit report and they assisted me with closing the account. on xx / xx / xxxx, i got a letter stating i am responsible for the payment and called the number provided, xxxx. i believe this is a fraudulent number provided and i gave my social security number, birthday and address. i believe my information has been compromised.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983927607536316
+}

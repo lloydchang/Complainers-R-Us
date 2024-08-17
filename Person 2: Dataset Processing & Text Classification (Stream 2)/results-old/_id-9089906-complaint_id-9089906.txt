@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9089906,
+  "complaint_id": "9089906",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXXXXXX XXXX I filed a bankruptcy with one entity on the application It was made clear on the application that any entity not listed on the application would not be a part of the application. Thus it would be necessary to pay all other creditors not listed, I tried to pay my account with JP Morgan Chase ending in XXXX. Only to be told that they are refusing payment because of the application, that the account was being Charged Off and I didn't have to pay and they refused to accept payment for the account that was XXXX percent on time and not in arrears. I tried repeatedly to find someone to accept payment but was turned down, they then closed the account, falsely reporting it to credit bureaus as deliquescent which is not true. There was as NO reason to close the account, because I offered to pay outside of the application. This false reporting has caused plenty of damage. All conversations with them are recorded and I wish a correction to all credit bureaus asap.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11520",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "In XXXXXXXX XXXX I filed a bankruptcy with one entity on the application It was made clear on the application that any entity not listed on the application would not be a part of the application. Thus it would be necessary to pay all other creditors not listed, I tried to pay my account with JP Morgan Chase ending in XXXX. Only to be told that they are refusing payment because of the application, that the account was being Charged Off and I didn't have to pay and they refused to accept payment for the account that was XXXX percent on time and not in arrears. I tried repeatedly to find someone to accept payment but was turned down, they then closed the account, falsely reporting it to credit bureaus as deliquescent which is not true. There was as NO reason to close the account, because I offered to pay outside of the application. This false reporting has caused plenty of damage. All conversations with them are recorded and I wish a correction to all credit bureaus asap."
+}
+
+Chunk:
+in xxxxxxxx xxxx i filed a bankruptcy with one entity on the application it was made clear on the application that any entity not listed on the application would not be a part of the application. thus it would be necessary to pay all other creditors not listed, i tried to pay my account with jp morgan chase ending in xxxx. only to be told that they are refusing payment because of the application, that the account was being charged off and i didn't have to pay and they refused to accept payment for the account that was xxxx percent on time and not in arrears. i tried repeatedly to find someone to accept payment but was turned down, they then closed the account, falsely reporting it to credit bureaus as deliquescent which is not true. there was as no reason to close the account, because i offered to pay outside of the application. this false reporting has caused plenty of damage. all conversations with them are recorded and i wish a correction to all credit bureaus asap.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995743632316589
+}

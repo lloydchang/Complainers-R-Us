@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9526408,
+  "complaint_id": "9526408",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for the US Bank XXXX XXXX XXXX XXXX credit card in-person at the US Bank XXXX XXXX XXXXXXXX XXXX on XX/XX/year>. I received notification by phone call ( branch banker- XXXX, voicemail available ) that I was approved on XX/XX/XXXX. On XX/XX/XXXX, I received the US Bank Signature Connect credit card via USPS. This was not the credit card that I applied for, nor that I received disclosure notice documentation from the branch about. \n\nImmediately after opening the letter from US Bank and seeing this mistake, I repeatedly attempted to contact the bank branch between XXXX and their closing time at XXXX, nobody ever answered the phone. I called US Bank 's XXXX services number, and spoke with XXXX, a Credit Card supervisor ( call ref # XXXX ) who informed me that there is nothing they can do to replace the credit card and line of credit that I had applied for with the one that I received. They recommended that I take time off work to again visit the XXXXXXXX XXXX bank branch to try to work with the manager to resolve the mistake- which was likely made by the banker ( branch banker, XXXX XXXX who processed my application. I am told that most likely, I will need to close this account and go through the entire application process again, including unfreezing and pulling my credit history, and that I will need to contact the credit bureaus to dispute the credit pulls and the line of credit that was opened on my behalf without my consent.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55104",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "I applied for the US Bank XXXX XXXX XXXX XXXX credit card in-person at the US Bank XXXX XXXX XXXXXXXX XXXX on XX/XX/year>. I received notification by phone call ( branch banker- XXXX, voicemail available ) that I was approved on XX/XX/XXXX. On XX/XX/XXXX, I received the US Bank Signature Connect credit card via USPS. This was not the credit card that I applied for, nor that I received disclosure notice documentation from the branch about. \n\nImmediately after opening the letter from US Bank and seeing this mistake, I repeatedly attempted to contact the bank branch between XXXX and their closing time at XXXX, nobody ever answered the phone. I called US Bank 's XXXX services number, and spoke with XXXX, a Credit Card supervisor ( call ref # XXXX ) who informed me that there is nothing they can do to replace the credit card and line of credit that I had applied for with the one that I received. They recommended that I take time off work to again visit the XXXXXXXX XXXX bank branch to try to work with the manager to resolve the mistake- which was likely made by the banker ( branch banker, XXXX XXXX who processed my application. I am told that most likely, I will need to close this account and go through the entire application process again, including unfreezing and pulling my credit history, and that I will need to contact the credit bureaus to dispute the credit pulls and the line of credit that was opened on my behalf without my consent."
+}
+
+Chunk:
+i applied for the us bank xxxx xxxx xxxx xxxx credit card in - person at the us bank xxxx xxxx xxxxxxxx xxxx on xx / xx / year >. i received notification by phone call ( branch banker - xxxx, voicemail available ) that i was approved on xx / xx / xxxx. on xx / xx / xxxx, i received the us bank signature connect credit card via usps. this was not the credit card that i applied for, nor that i received disclosure notice documentation from the branch about. immediately after opening the letter from us bank and seeing this mistake, i repeatedly attempted to contact the bank branch between xxxx and their closing time at xxxx, nobody ever answered the phone. i called us bank's xxxx services number, and spoke with xxxx, a credit card supervisor ( call ref # xxxx ) who informed me that there is nothing they can do to replace the credit card and line of credit that i had applied for with the one that i received. they recommended that i take time off work to again visit the xxxxxxxx xxxx bank branch to try to work with the manager to resolve the mistake - which was likely made by the banker ( branch banker, xxxx xxxx who processed my application. i am told that most likely, i will need to close this account and go through the entire application process again, including unfreezing and pulling my credit history, and that i will need to contact the credit bureaus to dispute the credit pulls and the line of credit that was opened on my behalf without my consent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994993209838867
+}

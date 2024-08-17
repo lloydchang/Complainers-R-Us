@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085346,
+  "complaint_id": "9085346",
+  "product": "Credit card",
+  "complaint_what_happened": "I disputed a charge on my account that should not be there as a company owes me money for returned product and I was not given credit. It is a large amount. To dispute a charge you have to call and wait on hold FOREVER. It took almost an hour to get to an actual person then no one could help because they claim their system is slow and you can't understand what any of them are saying. Finally they sent me a link to upload documentation for my dispute, which I did immediately. I had no issues uploading the documentation after going through the hassle of putting everything into their weird format that doesn't allow large documents. Then the charge reappeared on my credit card statement. I tried calling again and was put on hold FOR OVER AN HOUR while everyone claims their system is slow and there are no notes from my previous call. This is ridiculous. Additionally, every time I log into my credit card online, it forces me to reset the password to a new password EVERY SINGLE TIME so it takes quite awhile to log in just to check. Then because I'm waiting on hold for so long I have to redo that multiple times while waiting on the phone. This is absolutely ridiculous, it's like their strategy is to frustrate you into giving up so you just pay the false charges. They need to fix this. Finally over two hours later they say they need a receipt for a service. What receipt for what service??? The whole point of the dispute is that that's not my charge. I uploaded the documentation already.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28806",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I disputed a charge on my account that should not be there as a company owes me money for returned product and I was not given credit. It is a large amount. To dispute a charge you have to call and wait on hold FOREVER. It took almost an hour to get to an actual person then no one could help because they claim their system is slow and you can't understand what any of them are saying. Finally they sent me a link to upload documentation for my dispute, which I did immediately. I had no issues uploading the documentation after going through the hassle of putting everything into their weird format that doesn't allow large documents. Then the charge reappeared on my credit card statement. I tried calling again and was put on hold FOR OVER AN HOUR while everyone claims their system is slow and there are no notes from my previous call. This is ridiculous. Additionally, every time I log into my credit card online, it forces me to reset the password to a new password EVERY SINGLE TIME so it takes quite awhile to log in just to check. Then because I'm waiting on hold for so long I have to redo that multiple times while waiting on the phone. This is absolutely ridiculous, it's like their strategy is to frustrate you into giving up so you just pay the false charges. They need to fix this. Finally over two hours later they say they need a receipt for a service. What receipt for what service??? The whole point of the dispute is that that's not my charge. I uploaded the documentation already."
+}
+
+Chunk:
+i disputed a charge on my account that should not be there as a company owes me money for returned product and i was not given credit. it is a large amount. to dispute a charge you have to call and wait on hold forever. it took almost an hour to get to an actual person then no one could help because they claim their system is slow and you can't understand what any of them are saying. finally they sent me a link to upload documentation for my dispute, which i did immediately. i had no issues uploading the documentation after going through the hassle of putting everything into their weird format that doesn't allow large documents. then the charge reappeared on my credit card statement. i tried calling again and was put on hold for over an hour while everyone claims their system is slow and there are no notes from my previous call. this is ridiculous. additionally, every time i log into my credit card online, it forces me to reset the password to a new password every single time so it takes quite awhile to log in just to check. then because i'm waiting on hold for so long i have to redo that multiple times while waiting on the phone. this is absolutely ridiculous, it's like their strategy is to frustrate you into giving up so you just pay the false charges. they need to fix this. finally over two hours later they say they need a receipt for a service. what receipt for what service??? the whole point of the dispute is that that's not my charge. i uploaded the documentation already.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994484782218933
+}

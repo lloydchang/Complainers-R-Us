@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064933,
+  "complaint_id": "9064933",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I had went to a XXXX XXXX location at XXXX XXXX XXXX XXXX, VA XXXX. At the time of check out I was asked if I was interested in the promotional 10 % savings when opening their credit card. I asked if this was a quick process, they replied yes, so I opted to open the account and save on my purchase. \n\nMy total in purchases was {$180.00}, so a {$18.00} savings would have been received. Upon the completion the cashier informed me that XXXX XXXX needed additional information, but it would be ok, you can return when you get the card and we will issue you the refund when you have the card -- Her name being, XXXX. \n\nWhen I returned 3 weeks later with the card, the manager would not honor the offer and I simply asked why this was the case. Her response is that the only way to do this is to return all the items, then repurchase the items with the card. I said, ok... well here is the receipt of the items I purchased, so please proceed with the refund to card A and charge to my new TJ Maxx Card. She responded, this was not possible being that you do not have the items with you. I said, for staters this is not what your cashier informed me 3 weeks ago, and second, why does it matter? You can clearly see the items I purchased are on the receipt and you just said you could return the items I purchased ( hence the receipt ) and reapply these items to my new CC.\n\nNow, to me this seems to me as a bait and switch credit card incentive, and the fact that they did not honor the 10 % offer is just poor management.\n\nYes, I would like them to honor the promotion, and close the account",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "22314",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year> I had went to a XXXX XXXX location at XXXX XXXX XXXX XXXX, VA XXXX. At the time of check out I was asked if I was interested in the promotional 10 % savings when opening their credit card. I asked if this was a quick process, they replied yes, so I opted to open the account and save on my purchase. \n\nMy total in purchases was {$180.00}, so a {$18.00} savings would have been received. Upon the completion the cashier informed me that XXXX XXXX needed additional information, but it would be ok, you can return when you get the card and we will issue you the refund when you have the card -- Her name being, XXXX. \n\nWhen I returned 3 weeks later with the card, the manager would not honor the offer and I simply asked why this was the case. Her response is that the only way to do this is to return all the items, then repurchase the items with the card. I said, ok... well here is the receipt of the items I purchased, so please proceed with the refund to card A and charge to my new TJ Maxx Card. She responded, this was not possible being that you do not have the items with you. I said, for staters this is not what your cashier informed me 3 weeks ago, and second, why does it matter? You can clearly see the items I purchased are on the receipt and you just said you could return the items I purchased ( hence the receipt ) and reapply these items to my new CC.\n\nNow, to me this seems to me as a bait and switch credit card incentive, and the fact that they did not honor the 10 % offer is just poor management.\n\nYes, I would like them to honor the promotion, and close the account"
+}
+
+Chunk:
+on xx / xx / year > i had went to a xxxx xxxx location at xxxx xxxx xxxx xxxx, va xxxx. at the time of check out i was asked if i was interested in the promotional 10 % savings when opening their credit card. i asked if this was a quick process, they replied yes, so i opted to open the account and save on my purchase. my total in purchases was { $ 180. 00 }, so a { $ 18. 00 } savings would have been received. upon the completion the cashier informed me that xxxx xxxx needed additional information, but it would be ok, you can return when you get the card and we will issue you the refund when you have the card - - her name being, xxxx. when i returned 3 weeks later with the card, the manager would not honor the offer and i simply asked why this was the case. her response is that the only way to do this is to return all the items, then repurchase the items with the card. i said, ok... well here is the receipt of the items i purchased, so please proceed with the refund to card a and charge to my new tj maxx card. she responded, this was not possible being that you do not have the items with you. i said, for staters this is not what your cashier informed me 3 weeks ago, and second, why does it matter? you can clearly see the items i purchased are on the receipt and you just said you could return the items i purchased ( hence the receipt ) and reapply these items to my new cc. now, to me this seems to me as a bait and switch credit card incentive, and the fact that they did not honor the 10 % offer is just poor management. yes, i would like them to honor the promotion, and close the account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996030926704407
+}

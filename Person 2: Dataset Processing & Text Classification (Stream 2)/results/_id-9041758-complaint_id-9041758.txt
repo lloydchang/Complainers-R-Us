@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041758,
+  "complaint_id": "9041758",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear CFPB, I am reporting an issue regarding the Lowes credit card ( Synchrony Bank ). Every time I log into my online account, the following error message appears : Our system is experiencing technical difficulties at the moment. Please try again later.\n\nIve tried calling and messaging their customer service, and the only way to bypass this error is to reset my password. Sometimes the password reset feature does not work, and I have to wait multiple days for the feature to work again. Having to reset my password each time I need to log into my account is not only a significant hassle but also prevents me from being able to see transactions and pay for them in a timely manner. \n\nIve asked Synchrony Bank to resolve this issue multiple times and they refuse to solve this issue. Can you please provide your support?",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "37664",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Dear CFPB, I am reporting an issue regarding the Lowes credit card ( Synchrony Bank ). Every time I log into my online account, the following error message appears : Our system is experiencing technical difficulties at the moment. Please try again later.\n\nIve tried calling and messaging their customer service, and the only way to bypass this error is to reset my password. Sometimes the password reset feature does not work, and I have to wait multiple days for the feature to work again. Having to reset my password each time I need to log into my account is not only a significant hassle but also prevents me from being able to see transactions and pay for them in a timely manner. \n\nIve asked Synchrony Bank to resolve this issue multiple times and they refuse to solve this issue. Can you please provide your support?"
+}
+
+Chunk:
+dear cfpb, i am reporting an issue regarding the lowes credit card ( synchrony bank ). every time i log into my online account, the following error message appears : our system is experiencing technical difficulties at the moment. please try again later. ive tried calling and messaging their customer service, and the only way to bypass this error is to reset my password. sometimes the password reset feature does not work, and i have to wait multiple days for the feature to work again. having to reset my password each time i need to log into my account is not only a significant hassle but also prevents me from being able to see transactions and pay for them in a timely manner. ive asked synchrony bank to resolve this issue multiple times and they refuse to solve this issue. can you please provide your support?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996242523193359
+}

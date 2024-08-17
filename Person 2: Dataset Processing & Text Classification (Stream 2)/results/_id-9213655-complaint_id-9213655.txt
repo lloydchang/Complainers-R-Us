@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9213655,
+  "complaint_id": "9213655",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase Ink changed my billing address without my consent or knowledge causing me interest and finance charges. I requested the missing statement and I have paid all the charges I made except the interest and finance charges. I closed the account. I continue to get a statement each much full of only interest and finance charges. I spoke top XXXX from the executive office but nothing happened. Chase ink has reported this account to the the credit bureaus ruining my excellent credit. I had excellent credit before chase did this!",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07055",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Chase Ink changed my billing address without my consent or knowledge causing me interest and finance charges. I requested the missing statement and I have paid all the charges I made except the interest and finance charges. I closed the account. I continue to get a statement each much full of only interest and finance charges. I spoke top XXXX from the executive office but nothing happened. Chase ink has reported this account to the the credit bureaus ruining my excellent credit. I had excellent credit before chase did this!"
+}
+
+Chunk:
+chase ink changed my billing address without my consent or knowledge causing me interest and finance charges. i requested the missing statement and i have paid all the charges i made except the interest and finance charges. i closed the account. i continue to get a statement each much full of only interest and finance charges. i spoke top xxxx from the executive office but nothing happened. chase ink has reported this account to the the credit bureaus ruining my excellent credit. i had excellent credit before chase did this!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992024302482605
+}

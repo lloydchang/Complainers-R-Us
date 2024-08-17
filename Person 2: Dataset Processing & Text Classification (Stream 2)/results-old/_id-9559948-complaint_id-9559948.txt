@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9559948,
+  "complaint_id": "9559948",
+  "product": "Credit card",
+  "complaint_what_happened": "I filed a claim against a merchant who failed to deliver the services as outlined in the contract. \n\nI had my last contact with the vendor and the credit card issuer ( Citibank ) today XX/XX/year>. They denied the claim saying that the service was rendered. The product they provided is inferior and unusable. \n\nThe charges total more than {$1200.00} and I have received no benefit from the charges and it is incumbent on the merchant to supply what is listed in the contract. They have failed to do that hence the dispute.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75212",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I filed a claim against a merchant who failed to deliver the services as outlined in the contract. \n\nI had my last contact with the vendor and the credit card issuer ( Citibank ) today XX/XX/year>. They denied the claim saying that the service was rendered. The product they provided is inferior and unusable. \n\nThe charges total more than {$1200.00} and I have received no benefit from the charges and it is incumbent on the merchant to supply what is listed in the contract. They have failed to do that hence the dispute."
+}
+
+Chunk:
+i filed a claim against a merchant who failed to deliver the services as outlined in the contract. i had my last contact with the vendor and the credit card issuer ( citibank ) today xx / xx / year >. they denied the claim saying that the service was rendered. the product they provided is inferior and unusable. the charges total more than { $ 1200. 00 } and i have received no benefit from the charges and it is incumbent on the merchant to supply what is listed in the contract. they have failed to do that hence the dispute.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996864795684814
+}

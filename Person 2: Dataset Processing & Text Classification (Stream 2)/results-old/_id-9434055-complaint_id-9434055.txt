@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9434055,
+  "complaint_id": "9434055",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year> SP XXXX XXXX XXXX - XXXX my card was charged for these transactions and CITI denied my dispute claiming the card had been physically swiped which was in my possession the entire time. I went to my precinct to file a police report and they advised me i need a denial letter from CITI, which I have repeatedly called and requested for and have not received. \n\nThere were charges that CITI did recognize as fraud from the same time period and they awarded me those disputes, but these XXXX charges above were not XX/XX/year> XXXX XXXX XXXX XXXXXXXX - {$350.00} XX/XX/year> XXXX XXXX XXXX - {$24.00} XX/XX/year> XXXX XXXX - {$75.00}",
+  "date_sent_to_company": "2024-07-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11215",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-05T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year> SP XXXX XXXX XXXX - XXXX my card was charged for these transactions and CITI denied my dispute claiming the card had been physically swiped which was in my possession the entire time. I went to my precinct to file a police report and they advised me i need a denial letter from CITI, which I have repeatedly called and requested for and have not received. \n\nThere were charges that CITI did recognize as fraud from the same time period and they awarded me those disputes, but these XXXX charges above were not XX/XX/year> XXXX XXXX XXXX XXXXXXXX - {$350.00} XX/XX/year> XXXX XXXX XXXX - {$24.00} XX/XX/year> XXXX XXXX - {$75.00}"
+}
+
+Chunk:
+xx / xx / year > xxxx xxxx xxxx xxxx xxxx xxxxxxxx xx / xx / year > xxxx xxxx xxxx xxxx xxxx xxxxxxxx xx / xx / year > sp xxxx xxxx xxxx - xxxx my card was charged for these transactions and citi denied my dispute claiming the card had been physically swiped which was in my possession the entire time. i went to my precinct to file a police report and they advised me i need a denial letter from citi, which i have repeatedly called and requested for and have not received. there were charges that citi did recognize as fraud from the same time period and they awarded me those disputes, but these xxxx charges above were not xx / xx / year > xxxx xxxx xxxx xxxxxxxx - { $ 350. 00 } xx / xx / year > xxxx xxxx xxxx - { $ 24. 00 } xx / xx / year > xxxx xxxx - { $ 75. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9931127429008484
+}

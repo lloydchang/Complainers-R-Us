@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9031427,
+  "complaint_id": "9031427",
+  "product": "Credit card",
+  "complaint_what_happened": "I was assessed an annual fee on XX/XX/XXXX for a card that I no longer use or need. I called Bank of America on XX/XX/XXXX after noticing the charge and requested the account be closed since I no longer used the card and didnt want to pay the annual fee. The customer representative agreed to close the account and did not make clear that he wasnt processing the fee removal as requested. Failing to waive an annual fee within the month that it posts, when the customer has not used the card or any of its provided benefits, is out of line with the general industry practice and it was deceptive of the customer representative not to make clear that he was not processing the fee waiver with the cancellation. \n\nFinally, the annual fee notice that was sent to me stated that the fee would be charged on my XX/XX/XXXX statement. This implies the date of the charge would be on that date, which I did call before. If Bank of America expects customers to cancel before the posting date, the annual fee posting date is what should be present on the letter, as this is otherwise a deceptive practice. Within the terms of the annual fee letter, it also specifically states that calling to cancel within 30 days of the statement in which the annual fee is posted will result in the fee being credited back. ( Attached )",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75078",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I was assessed an annual fee on XX/XX/XXXX for a card that I no longer use or need. I called Bank of America on XX/XX/XXXX after noticing the charge and requested the account be closed since I no longer used the card and didnt want to pay the annual fee. The customer representative agreed to close the account and did not make clear that he wasnt processing the fee removal as requested. Failing to waive an annual fee within the month that it posts, when the customer has not used the card or any of its provided benefits, is out of line with the general industry practice and it was deceptive of the customer representative not to make clear that he was not processing the fee waiver with the cancellation. \n\nFinally, the annual fee notice that was sent to me stated that the fee would be charged on my XX/XX/XXXX statement. This implies the date of the charge would be on that date, which I did call before. If Bank of America expects customers to cancel before the posting date, the annual fee posting date is what should be present on the letter, as this is otherwise a deceptive practice. Within the terms of the annual fee letter, it also specifically states that calling to cancel within 30 days of the statement in which the annual fee is posted will result in the fee being credited back. ( Attached )"
+}
+
+Chunk:
+i was assessed an annual fee on xx / xx / xxxx for a card that i no longer use or need. i called bank of america on xx / xx / xxxx after noticing the charge and requested the account be closed since i no longer used the card and didnt want to pay the annual fee. the customer representative agreed to close the account and did not make clear that he wasnt processing the fee removal as requested. failing to waive an annual fee within the month that it posts, when the customer has not used the card or any of its provided benefits, is out of line with the general industry practice and it was deceptive of the customer representative not to make clear that he was not processing the fee waiver with the cancellation. finally, the annual fee notice that was sent to me stated that the fee would be charged on my xx / xx / xxxx statement. this implies the date of the charge would be on that date, which i did call before. if bank of america expects customers to cancel before the posting date, the annual fee posting date is what should be present on the letter, as this is otherwise a deceptive practice. within the terms of the annual fee letter, it also specifically states that calling to cancel within 30 days of the statement in which the annual fee is posted will result in the fee being credited back. ( attached )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989964365959167
+}

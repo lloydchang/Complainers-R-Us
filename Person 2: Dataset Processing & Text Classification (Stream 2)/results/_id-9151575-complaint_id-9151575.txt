@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151575,
+  "complaint_id": "9151575",
+  "product": "Credit card",
+  "complaint_what_happened": "We had XXXX open disputes with Barclay 's credit card company. In both dispute cases, we did not receive custom made outfits that were not delivered to us. We still do not have the merchandise nor do we have a refund of our money from the merchant or the credit card company. Both of these transactions were made in XX/XX/XXXX, SUPPOSED to be delivered XX/XX/XXXX, but we still have nothing as of XX/XX/XXXX. We followed up with the credit card company multiple times. The first time, we were told the disputes were resolved in our favor and the refund would be posted to our account within a few business days. When we called again, they said that they denied both of our claims and we needed to take it up with the merchant but were not provided a reason. They just kept saying it is out of their hands. We then closed our accounts with Barclays due to the XXXX  of the company. They were unhelpful and had horrendous customer service that I would never trust anyone to bank with them again. Fast forward a week later we received ANOTHER letter in the mail with one of the same case IDs but a DIFFERENT merchant name and a different amount. This is now clear that Barclays is in the wrong. They clearly are not speaking to the right merchant nor do they care about trying to resolve disputes. They refused to give us our money back when it is their fault. We called again to see why we received this letter with incorrect information on it, and they again refused to transfer us to a supervisor or even help with our case.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "601XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "We had XXXX open disputes with Barclay 's credit card company. In both dispute cases, we did not receive custom made outfits that were not delivered to us. We still do not have the merchandise nor do we have a refund of our money from the merchant or the credit card company. Both of these transactions were made in XX/XX/XXXX, SUPPOSED to be delivered XX/XX/XXXX, but we still have nothing as of XX/XX/XXXX. We followed up with the credit card company multiple times. The first time, we were told the disputes were resolved in our favor and the refund would be posted to our account within a few business days. When we called again, they said that they denied both of our claims and we needed to take it up with the merchant but were not provided a reason. They just kept saying it is out of their hands. We then closed our accounts with Barclays due to the XXXX  of the company. They were unhelpful and had horrendous customer service that I would never trust anyone to bank with them again. Fast forward a week later we received ANOTHER letter in the mail with one of the same case IDs but a DIFFERENT merchant name and a different amount. This is now clear that Barclays is in the wrong. They clearly are not speaking to the right merchant nor do they care about trying to resolve disputes. They refused to give us our money back when it is their fault. We called again to see why we received this letter with incorrect information on it, and they again refused to transfer us to a supervisor or even help with our case."
+}
+
+Chunk:
+we had xxxx open disputes with barclay's credit card company. in both dispute cases, we did not receive custom made outfits that were not delivered to us. we still do not have the merchandise nor do we have a refund of our money from the merchant or the credit card company. both of these transactions were made in xx / xx / xxxx, supposed to be delivered xx / xx / xxxx, but we still have nothing as of xx / xx / xxxx. we followed up with the credit card company multiple times. the first time, we were told the disputes were resolved in our favor and the refund would be posted to our account within a few business days. when we called again, they said that they denied both of our claims and we needed to take it up with the merchant but were not provided a reason. they just kept saying it is out of their hands. we then closed our accounts with barclays due to the xxxx of the company. they were unhelpful and had horrendous customer service that i would never trust anyone to bank with them again. fast forward a week later we received another letter in the mail with one of the same case ids but a different merchant name and a different amount. this is now clear that barclays is in the wrong. they clearly are not speaking to the right merchant nor do they care about trying to resolve disputes. they refused to give us our money back when it is their fault. we called again to see why we received this letter with incorrect information on it, and they again refused to transfer us to a supervisor or even help with our case.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996028542518616
+}

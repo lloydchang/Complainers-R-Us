@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044877,
+  "complaint_id": "9044877",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, someone used my name to apply with CITICARDS CBNA ( Citibank ) for a credit card. I was alerted to this by XXXX and XXXX. With the help of an XXXX Restoration Specialist, I contacted the Citibank Fraud Department, who in turn went through the process of freezing the account. I have also sent this information to XXXX and am still waiting for a response from XXXX. I have also notified my local Police Department. Everything is currently still in motion, but so far nothing appears to be out of the ordinary with my bank accounts. My restoration specialist recommended that I should file a report with you as well.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "907XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "On XX/XX/XXXX, someone used my name to apply with CITICARDS CBNA ( Citibank ) for a credit card. I was alerted to this by XXXX and XXXX. With the help of an XXXX Restoration Specialist, I contacted the Citibank Fraud Department, who in turn went through the process of freezing the account. I have also sent this information to XXXX and am still waiting for a response from XXXX. I have also notified my local Police Department. Everything is currently still in motion, but so far nothing appears to be out of the ordinary with my bank accounts. My restoration specialist recommended that I should file a report with you as well."
+}
+
+Chunk:
+on xx / xx / xxxx, someone used my name to apply with citicards cbna ( citibank ) for a credit card. i was alerted to this by xxxx and xxxx. with the help of an xxxx restoration specialist, i contacted the citibank fraud department, who in turn went through the process of freezing the account. i have also sent this information to xxxx and am still waiting for a response from xxxx. i have also notified my local police department. everything is currently still in motion, but so far nothing appears to be out of the ordinary with my bank accounts. my restoration specialist recommended that i should file a report with you as well.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966784715652466
+}

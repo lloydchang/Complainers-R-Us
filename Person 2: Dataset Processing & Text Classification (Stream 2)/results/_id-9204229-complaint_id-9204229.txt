@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204229,
+  "complaint_id": "9204229",
+  "product": "Credit card",
+  "complaint_what_happened": "I bought a voucher on XXXX for a service, which I will attach here. It clearly states on the voucher that refunds can be provided. When I went online to make an appointment for the service I bought on XXXX, I realized that the service offered was not what was stated on XXXX, and the provider misrepresented themselves. \n\nI contacted groupon.com for a refund, which they only offered me credits for their site to puchase something else, which I dont want to buy anything else. I should get a refund. \n\nI tried to dispute this with my bank. I provided evidence that service I bought was NOT as described online. Synchrony bank denied my dispute in favor of groupon. Synchrony stated I \" entered an agreement with the merchant for the charge in question, and they set policies regarding cancellations, refunds and to deal with merchant directly. \n\nI have contacted merchant directly and they will not refund my money. I also did NOT receive the services I paid for. I can not use the service, because it was a lie that I bought... \n\nAlso, groupon.com sent Synchrony Bank statements that differ from the policies that they have posted online to their website. These policies that are on their website, which state that refunds are indeed available, I sent to Synchrony bank, and was totally ignored. I have seen on XXXX website many people having issues with sites like groupon, and their card issuer will give refunds. Synchrony Bank will not help me in any way with this and will always side with merchants no matter what situation ... that is what this looks like.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11221",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I bought a voucher on XXXX for a service, which I will attach here. It clearly states on the voucher that refunds can be provided. When I went online to make an appointment for the service I bought on XXXX, I realized that the service offered was not what was stated on XXXX, and the provider misrepresented themselves. \n\nI contacted groupon.com for a refund, which they only offered me credits for their site to puchase something else, which I dont want to buy anything else. I should get a refund. \n\nI tried to dispute this with my bank. I provided evidence that service I bought was NOT as described online. Synchrony bank denied my dispute in favor of groupon. Synchrony stated I \" entered an agreement with the merchant for the charge in question, and they set policies regarding cancellations, refunds and to deal with merchant directly. \n\nI have contacted merchant directly and they will not refund my money. I also did NOT receive the services I paid for. I can not use the service, because it was a lie that I bought... \n\nAlso, groupon.com sent Synchrony Bank statements that differ from the policies that they have posted online to their website. These policies that are on their website, which state that refunds are indeed available, I sent to Synchrony bank, and was totally ignored. I have seen on XXXX website many people having issues with sites like groupon, and their card issuer will give refunds. Synchrony Bank will not help me in any way with this and will always side with merchants no matter what situation ... that is what this looks like."
+}
+
+Chunk:
+i bought a voucher on xxxx for a service, which i will attach here. it clearly states on the voucher that refunds can be provided. when i went online to make an appointment for the service i bought on xxxx, i realized that the service offered was not what was stated on xxxx, and the provider misrepresented themselves. i contacted groupon. com for a refund, which they only offered me credits for their site to puchase something else, which i dont want to buy anything else. i should get a refund. i tried to dispute this with my bank. i provided evidence that service i bought was not as described online. synchrony bank denied my dispute in favor of groupon. synchrony stated i " entered an agreement with the merchant for the charge in question, and they set policies regarding cancellations, refunds and to deal with merchant directly. i have contacted merchant directly and they will not refund my money. i also did not receive the services i paid for. i can not use the service, because it was a lie that i bought... also, groupon. com sent synchrony bank statements that differ from the policies that they have posted online to their website. these policies that are on their website, which state that refunds are indeed available, i sent to synchrony bank, and was totally ignored. i have seen on xxxx website many people having issues with sites like groupon, and their card issuer will give refunds. synchrony bank will not help me in any way with this and will always side with merchants no matter what situation... that is what this looks like.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989951252937317
+}

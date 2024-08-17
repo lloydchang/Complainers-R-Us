@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9209465,
+  "complaint_id": "9209465",
+  "product": "Credit card",
+  "complaint_what_happened": "I HAVE CONTACTED CAPITAL TIME AND TIME AGAIN TRYING TO RESOLVE THE MATTER THERE GIVING ME THE RUN AROUND AND CAN NOT PROVIDE ANY OF THE INFORMATION IM ASKING FOR WITH THAT BEING SAID I KNOW FOR A FACT THIS IS INACCURATE REPORTING ON MY CONSUMER REPORT WHICH IS CAUSING DEFAMANATION TO MY NAME.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33441",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "I HAVE CONTACTED CAPITAL TIME AND TIME AGAIN TRYING TO RESOLVE THE MATTER THERE GIVING ME THE RUN AROUND AND CAN NOT PROVIDE ANY OF THE INFORMATION IM ASKING FOR WITH THAT BEING SAID I KNOW FOR A FACT THIS IS INACCURATE REPORTING ON MY CONSUMER REPORT WHICH IS CAUSING DEFAMANATION TO MY NAME."
+}
+
+Chunk:
+i have contacted capital time and time again trying to resolve the matter there giving me the run around and can not provide any of the information im asking for with that being said i know for a fact this is inaccurate reporting on my consumer report which is causing defamanation to my name.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997571110725403
+}

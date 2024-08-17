@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024312,
+  "complaint_id": "9024312",
+  "product": "Credit card",
+  "complaint_what_happened": "i was recently told by a letter from XXXX banks that all credit cards, such as XXXX, tjmax, lowes, sams club etc ... will be adding a XXXX fee for those whom do not do paper less. \n\nas well as increasing the interest to XXXX annual so my question is, what happens to those whom can not afford internet, or the elderly and those in remote areas that are not able to get internet... that was me last year, i had no way of getting internet .... \n\nis that not discriminatory. \n\n\nto force someone to go paperless.by adding a fee if not.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "553XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "i was recently told by a letter from XXXX banks that all credit cards, such as XXXX, tjmax, lowes, sams club etc ... will be adding a XXXX fee for those whom do not do paper less. \n\nas well as increasing the interest to XXXX annual so my question is, what happens to those whom can not afford internet, or the elderly and those in remote areas that are not able to get internet... that was me last year, i had no way of getting internet .... \n\nis that not discriminatory. \n\n\nto force someone to go paperless.by adding a fee if not."
+}
+
+Chunk:
+i was recently told by a letter from xxxx banks that all credit cards, such as xxxx, tjmax, lowes, sams club etc... will be adding a xxxx fee for those whom do not do paper less. as well as increasing the interest to xxxx annual so my question is, what happens to those whom can not afford internet, or the elderly and those in remote areas that are not able to get internet... that was me last year, i had no way of getting internet.... is that not discriminatory. to force someone to go paperless. by adding a fee if not.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9928176403045654
+}

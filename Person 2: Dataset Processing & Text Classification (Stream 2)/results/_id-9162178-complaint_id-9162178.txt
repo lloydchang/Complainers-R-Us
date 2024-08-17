@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9162178,
+  "complaint_id": "9162178",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX of 2018 my social security was used to a credit card without my consent. My mailing address is my parents home which i moved out early 2018 but my mail was still being sent there. My W2 was stolen by my parents tenant and he was able to gain access to my personal information. I wasnt. aware of this. issue until this year since i wasnt sent a letter from a lawyer firm suing me for XXXX.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11717",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAVALRY INVESTMENTS, LLC",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "In XXXX of 2018 my social security was used to a credit card without my consent. My mailing address is my parents home which i moved out early 2018 but my mail was still being sent there. My W2 was stolen by my parents tenant and he was able to gain access to my personal information. I wasnt. aware of this. issue until this year since i wasnt sent a letter from a lawyer firm suing me for XXXX."
+}
+
+Chunk:
+in xxxx of 2018 my social security was used to a credit card without my consent. my mailing address is my parents home which i moved out early 2018 but my mail was still being sent there. my w2 was stolen by my parents tenant and he was able to gain access to my personal information. i wasnt. aware of this. issue until this year since i wasnt sent a letter from a lawyer firm suing me for xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947463274002075
+}

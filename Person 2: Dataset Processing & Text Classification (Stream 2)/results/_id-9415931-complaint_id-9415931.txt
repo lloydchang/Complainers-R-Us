@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9415931,
+  "complaint_id": "9415931",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I contacted Ally as I was unable to log into my account. Back story, My Ollo credit card was transferred to Ally. I also gave an auto loan through Ally. They merged the accounts and now I cant log in to pay my auto or credit card.\n\nThe auto side transferred me to the credit card side. The credit card side showed that I have an account, but the credentials for a username and password were blank. A ticket was opened to correct the issue and was stated it could take up to ten days. In the meantime I had to pay over the telephone for an additional fee of {$4.00}. \n\nFast forward to today, XX/XX/2024, the matter was not resolved, another ticket submitted with an anticipated date of 2 days to repair the account, and another additional {$4.00} fee to use the telephone payment line. \n\nI am upset that this has taken over 30-days and the online accounts are not working, had to use the telephone payment line twice for an additional {$4.00} fee each time, and unable to see my accounts. I am unsure my automatic payment on my credit card will function this month either. \n\nXXXX",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55125",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On XX/XX/2024, I contacted Ally as I was unable to log into my account. Back story, My Ollo credit card was transferred to Ally. I also gave an auto loan through Ally. They merged the accounts and now I cant log in to pay my auto or credit card.\n\nThe auto side transferred me to the credit card side. The credit card side showed that I have an account, but the credentials for a username and password were blank. A ticket was opened to correct the issue and was stated it could take up to ten days. In the meantime I had to pay over the telephone for an additional fee of {$4.00}. \n\nFast forward to today, XX/XX/2024, the matter was not resolved, another ticket submitted with an anticipated date of 2 days to repair the account, and another additional {$4.00} fee to use the telephone payment line. \n\nI am upset that this has taken over 30-days and the online accounts are not working, had to use the telephone payment line twice for an additional {$4.00} fee each time, and unable to see my accounts. I am unsure my automatic payment on my credit card will function this month either. \n\nXXXX"
+}
+
+Chunk:
+on xx / xx / 2024, i contacted ally as i was unable to log into my account. back story, my ollo credit card was transferred to ally. i also gave an auto loan through ally. they merged the accounts and now i cant log in to pay my auto or credit card. the auto side transferred me to the credit card side. the credit card side showed that i have an account, but the credentials for a username and password were blank. a ticket was opened to correct the issue and was stated it could take up to ten days. in the meantime i had to pay over the telephone for an additional fee of { $ 4. 00 }. fast forward to today, xx / xx / 2024, the matter was not resolved, another ticket submitted with an anticipated date of 2 days to repair the account, and another additional { $ 4. 00 } fee to use the telephone payment line. i am upset that this has taken over 30 - days and the online accounts are not working, had to use the telephone payment line twice for an additional { $ 4. 00 } fee each time, and unable to see my accounts. i am unsure my automatic payment on my credit card will function this month either. xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994326233863831
+}

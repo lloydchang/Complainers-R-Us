@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9016358,
+  "complaint_id": "9016358",
+  "product": "Credit card",
+  "complaint_what_happened": "I called the customer service number on the back of my credit card yesterday XX/XX/year> at XXXX EST and spoke with a representative to report four fraudulent charges on my credit card. The representative stated she opened a case to investigate the fraud charges but I did not receive any email serving as confirmation that TD is aware of my report. Therefore, I am also opening this CFPB case to timely report these fraudulent charges in writing to TD Card Services. Please reference the letter attached to this complaint.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11432",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I called the customer service number on the back of my credit card yesterday XX/XX/year> at XXXX EST and spoke with a representative to report four fraudulent charges on my credit card. The representative stated she opened a case to investigate the fraud charges but I did not receive any email serving as confirmation that TD is aware of my report. Therefore, I am also opening this CFPB case to timely report these fraudulent charges in writing to TD Card Services. Please reference the letter attached to this complaint."
+}
+
+Chunk:
+i called the customer service number on the back of my credit card yesterday xx / xx / year > at xxxx est and spoke with a representative to report four fraudulent charges on my credit card. the representative stated she opened a case to investigate the fraud charges but i did not receive any email serving as confirmation that td is aware of my report. therefore, i am also opening this cfpb case to timely report these fraudulent charges in writing to td card services. please reference the letter attached to this complaint.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.987575113773346
+}

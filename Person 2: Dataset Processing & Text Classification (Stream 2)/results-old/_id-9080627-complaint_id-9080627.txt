@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9080627,
+  "complaint_id": "9080627",
+  "product": "Credit card",
+  "complaint_what_happened": "Please remove the inaccurate records being reported on my credit file.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "Please remove the inaccurate records being reported on my credit file."
+}
+
+Chunk:
+please remove the inaccurate records being reported on my credit file.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995393753051758
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041981,
+  "complaint_id": "9041981",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently it has been brought to my attention that Discover is claiming that I owe them {$150.00}, an amount which is entirely made up of bogus fees, charges, and supposed interest on a balance that does not exist. They claim I have missed payments, when the reality is, it never occured to me that I would be making payments, since the balance on the account should be {$0.00}. \n\nHere are the facts, so far : On XX/XX/year> I opened a new credit account with XXXX XXXX XXXXXXXX, and included a balance transfer request as part of that application. My Discover balance at the time was {$5300.00}. XXXX would only accept a full dollar amount for the balance transfer request, so that would leave the Discover balance at XXXX cents. \n\nThe balance transfer was processed by XXXX on XX/XX/year>. Pre-existing auto-payments to XXXX & XXXX XXXX XXXX Discover card added {$21.00} in new charges to that account, bringing the balance to {$21.00}. I applied a {$10.00} cashback to that balance, leaving a final balance of {$10.00}, which was paid off on XX/XX/year>. \n\nInstead, we have a case of Discover choosing not to process the balance transfer for several days after it cleared the XXXX  account, charging me a bogus late fee for \" missing '' a payment that I didn't miss and then adding interest charge on a balance that no longer exists. Discover has no way to dispute this type of bogus charges on their website, and attempts to reach them by phone are ridiculous, as is the case with any corporate phone center system, unfortunately. I would like to believe this entire situation is a mere bookkeeping error on their part, as opposed to deliberate malfeasance, but of course the additional result of this nightmare is that my credit rating has dropped by over XXXX points in the course of a month.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98501",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Recently it has been brought to my attention that Discover is claiming that I owe them {$150.00}, an amount which is entirely made up of bogus fees, charges, and supposed interest on a balance that does not exist. They claim I have missed payments, when the reality is, it never occured to me that I would be making payments, since the balance on the account should be {$0.00}. \n\nHere are the facts, so far : On XX/XX/year> I opened a new credit account with XXXX XXXX XXXXXXXX, and included a balance transfer request as part of that application. My Discover balance at the time was {$5300.00}. XXXX would only accept a full dollar amount for the balance transfer request, so that would leave the Discover balance at XXXX cents. \n\nThe balance transfer was processed by XXXX on XX/XX/year>. Pre-existing auto-payments to XXXX & XXXX XXXX XXXX Discover card added {$21.00} in new charges to that account, bringing the balance to {$21.00}. I applied a {$10.00} cashback to that balance, leaving a final balance of {$10.00}, which was paid off on XX/XX/year>. \n\nInstead, we have a case of Discover choosing not to process the balance transfer for several days after it cleared the XXXX  account, charging me a bogus late fee for \" missing '' a payment that I didn't miss and then adding interest charge on a balance that no longer exists. Discover has no way to dispute this type of bogus charges on their website, and attempts to reach them by phone are ridiculous, as is the case with any corporate phone center system, unfortunately. I would like to believe this entire situation is a mere bookkeeping error on their part, as opposed to deliberate malfeasance, but of course the additional result of this nightmare is that my credit rating has dropped by over XXXX points in the course of a month."
+}
+
+Chunk:
+recently it has been brought to my attention that discover is claiming that i owe them { $ 150. 00 }, an amount which is entirely made up of bogus fees, charges, and supposed interest on a balance that does not exist. they claim i have missed payments, when the reality is, it never occured to me that i would be making payments, since the balance on the account should be { $ 0. 00 }. here are the facts, so far : on xx / xx / year > i opened a new credit account with xxxx xxxx xxxxxxxx, and included a balance transfer request as part of that application. my discover balance at the time was { $ 5300. 00 }. xxxx would only accept a full dollar amount for the balance transfer request, so that would leave the discover balance at xxxx cents. the balance transfer was processed by xxxx on xx / xx / year >. pre - existing auto - payments to xxxx & xxxx xxxx xxxx discover card added { $ 21. 00 } in new charges to that account, bringing the balance to { $ 21. 00 }. i applied a { $ 10. 00 } cashback to that balance, leaving a final balance of { $ 10. 00 }, which was paid off on xx / xx / year >. instead, we have a case of discover choosing not to process the balance transfer for several days after it cleared the xxxx account, charging me a bogus late fee for " missing'' a payment that i didn't miss and then adding interest charge on a balance that no longer exists. discover has no way to dispute this type of bogus charges on their website, and attempts to reach them by phone are ridiculous, as is the case with any corporate phone center system, unfortunately. i would like to believe this entire situation is a mere bookkeeping error on their part, as opposed to deliberate malfeasance, but of course the additional result of this nightmare is that my credit rating has dropped by over xxxx points in the course of a month.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994680285453796
+}

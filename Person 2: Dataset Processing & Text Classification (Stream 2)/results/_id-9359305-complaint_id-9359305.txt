@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9359305,
+  "complaint_id": "9359305",
+  "product": "Credit card",
+  "complaint_what_happened": "My name is XXXX XXXX I am keeping reporting my this issues over and over to yall for years and months and ages and no resolve still yet I didnt open a account with yall everything time I dispute the account account with yall and yall say I open the account when I never did I never authorized a account with yall or sign no paperwork or did a signature with yall to open a account and to get a card with yall or did business with one yall service or vendor my picture id was lost and stolen and used for yall and and ssn was used and I never did a hand signature with yall or yall service or vendor or a electronic one online or by device with yall or service or vendor my informations was stolen and lost and used without my permission and my first name dont match on yall record it is XXXX not XXXX and account information is XXXX XXXX XXXX XXXX Pennsylvania XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Pennsylvania XXXX XXXX XXXX XXXX XXXX XXXX Pennsylvania XXXX and credit card account number ending in XXXX dispute need to be reopen or investigative or reinvestigated or make into a new dispute for yall to investigate again and for any other accounts y'all open for no reason need to be disputed as unauthorized and fraudulent and charges disputes to {$0.00} because I am not responsible for this accounts and charges and dont open no new accounts for me when I didnt request it when I just report this issue as fraudulent unauthorized account open in my name without my permission and I want this to be favored in my end this is the last time I report this to yall I am tried of contacting yall about this and yall aint helping me next step I will take yall to XXXX XXXX XXXX and then take yall to court for a lawsuit if I have to after XXXX XXXX XXXX if yall dont favor this in my end etc",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "17057",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My name is XXXX XXXX I am keeping reporting my this issues over and over to yall for years and months and ages and no resolve still yet I didnt open a account with yall everything time I dispute the account account with yall and yall say I open the account when I never did I never authorized a account with yall or sign no paperwork or did a signature with yall to open a account and to get a card with yall or did business with one yall service or vendor my picture id was lost and stolen and used for yall and and ssn was used and I never did a hand signature with yall or yall service or vendor or a electronic one online or by device with yall or service or vendor my informations was stolen and lost and used without my permission and my first name dont match on yall record it is XXXX not XXXX and account information is XXXX XXXX XXXX XXXX Pennsylvania XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Pennsylvania XXXX XXXX XXXX XXXX XXXX XXXX Pennsylvania XXXX and credit card account number ending in XXXX dispute need to be reopen or investigative or reinvestigated or make into a new dispute for yall to investigate again and for any other accounts y'all open for no reason need to be disputed as unauthorized and fraudulent and charges disputes to {$0.00} because I am not responsible for this accounts and charges and dont open no new accounts for me when I didnt request it when I just report this issue as fraudulent unauthorized account open in my name without my permission and I want this to be favored in my end this is the last time I report this to yall I am tried of contacting yall about this and yall aint helping me next step I will take yall to XXXX XXXX XXXX and then take yall to court for a lawsuit if I have to after XXXX XXXX XXXX if yall dont favor this in my end etc"
+}
+
+Chunk:
+my name is xxxx xxxx i am keeping reporting my this issues over and over to yall for years and months and ages and no resolve still yet i didnt open a account with yall everything time i dispute the account account with yall and yall say i open the account when i never did i never authorized a account with yall or sign no paperwork or did a signature with yall to open a account and to get a card with yall or did business with one yall service or vendor my picture id was lost and stolen and used for yall and and ssn was used and i never did a hand signature with yall or yall service or vendor or a electronic one online or by device with yall or service or vendor my informations was stolen and lost and used without my permission and my first name dont match on yall record it is xxxx not xxxx and account information is xxxx xxxx xxxx xxxx pennsylvania xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx pennsylvania xxxx xxxx xxxx xxxx xxxx xxxx pennsylvania xxxx and credit card account number ending in xxxx dispute need to be reopen or investigative or reinvestigated or make into a new dispute for yall to investigate again and for any other accounts y'all open for no reason need to be disputed as unauthorized and fraudulent and charges disputes to { $ 0. 00 } because i am not responsible for this accounts and charges and dont open no new accounts for me when i didnt request it when i just report this issue as fraudulent unauthorized account open in my name without my permission and i want this to be favored in my end this is the last time i report this to yall i am tried of contacting yall about this and yall aint helping me next step i will take yall to xxxx xxxx xxxx and then take yall to court for a lawsuit if i have to after xxxx xxxx xxxx if yall dont favor this in my end etc
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984709620475769
+}

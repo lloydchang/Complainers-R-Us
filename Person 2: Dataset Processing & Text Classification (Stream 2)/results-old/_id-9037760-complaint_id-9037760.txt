@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037760,
+  "complaint_id": "9037760",
+  "product": "Credit card",
+  "complaint_what_happened": "KeyBank Credit Card My father passed away XX/XX/XXXX. He had a KeyBank credit card with an approximate balance of {$2000.00}. I called KeyBank Customer Service days after his passing and was instructed to bring a death certificate to the local branch where we live in XXXX, NY. On XX/XX/XXXX I received death certificates and brought one to the branch as instructed. The representative said we were all set. I was instructed by my attorney not to pay bills until things from the estate are sold to pay debts. KeyBank has not sent any correspondence addressed to the estate acknowledging his death. They continue to send monthly billing statements addressed to my deceased father with a {$40.00} late fee assessed in XXXX and a {$40.00} late fee in XXXX. After seeing the late charge in XXXX I called Customer Service again. This time I was told they can't do anything until I have a court document stating I can act. On XX/XX/XXXX I received my Letters Testamentary and again as instructed brought a copy to the local branch. I was told there was nothing they could do about the late fees because the account was being sent to Collections ....??? The representative called their back office and submitted some sort of research request that would take time and someone would call me. I received a call from the branch manager the next day, she stated that there was nothing that can be done and the late fees are valid.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "144XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "KEYCORP",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "KeyBank Credit Card My father passed away XX/XX/XXXX. He had a KeyBank credit card with an approximate balance of {$2000.00}. I called KeyBank Customer Service days after his passing and was instructed to bring a death certificate to the local branch where we live in XXXX, NY. On XX/XX/XXXX I received death certificates and brought one to the branch as instructed. The representative said we were all set. I was instructed by my attorney not to pay bills until things from the estate are sold to pay debts. KeyBank has not sent any correspondence addressed to the estate acknowledging his death. They continue to send monthly billing statements addressed to my deceased father with a {$40.00} late fee assessed in XXXX and a {$40.00} late fee in XXXX. After seeing the late charge in XXXX I called Customer Service again. This time I was told they can't do anything until I have a court document stating I can act. On XX/XX/XXXX I received my Letters Testamentary and again as instructed brought a copy to the local branch. I was told there was nothing they could do about the late fees because the account was being sent to Collections ....??? The representative called their back office and submitted some sort of research request that would take time and someone would call me. I received a call from the branch manager the next day, she stated that there was nothing that can be done and the late fees are valid."
+}
+
+Chunk:
+keybank credit card my father passed away xx / xx / xxxx. he had a keybank credit card with an approximate balance of { $ 2000. 00 }. i called keybank customer service days after his passing and was instructed to bring a death certificate to the local branch where we live in xxxx, ny. on xx / xx / xxxx i received death certificates and brought one to the branch as instructed. the representative said we were all set. i was instructed by my attorney not to pay bills until things from the estate are sold to pay debts. keybank has not sent any correspondence addressed to the estate acknowledging his death. they continue to send monthly billing statements addressed to my deceased father with a { $ 40. 00 } late fee assessed in xxxx and a { $ 40. 00 } late fee in xxxx. after seeing the late charge in xxxx i called customer service again. this time i was told they can't do anything until i have a court document stating i can act. on xx / xx / xxxx i received my letters testamentary and again as instructed brought a copy to the local branch. i was told there was nothing they could do about the late fees because the account was being sent to collections....??? the representative called their back office and submitted some sort of research request that would take time and someone would call me. i received a call from the branch manager the next day, she stated that there was nothing that can be done and the late fees are valid.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988719820976257
+}

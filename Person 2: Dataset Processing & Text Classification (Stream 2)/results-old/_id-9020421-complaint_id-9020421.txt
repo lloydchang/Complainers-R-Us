@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020421,
+  "complaint_id": "9020421",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an account with Citi and my credit limit was reduced from {$12000.00} to {$5400.00}. I called the company and spoke with a supervisor who told me because I have delinquent accounts on my credit report. I told him the information was incorrect. The told me to call the credit bureau. The email from Citi stated ( Please note, other than providing information, the reporting agency played no part in our decision and is unable to supply the specific reasons why we decreased your credit limit ). So, why did he lie and said the credit bureau was showing delinquent accounts. I don't have the supervisors name, but I didn't like the manner in which he spoke to me. He clearly stated it was because of my credit bureau. I had just reviewed my XXXX credit file and there were no delinquent accounts on my file. The supervisor then says, he can submit a request to have my credit limit reinstated. He wanted to know my income and if I didn't disclose my income. The reinstatement could not be submitted. I told him I was not because my account should not have been adjusted. He stated, they wanted to know my income to verify if I would be able to make my payments. I have not missed a payment with Citi or any of my other accounts on my credit file. This was unjustly done, and I was first talked to badly by the representative and the supervisor. Trying to explain the information they are giving me is incorrect. I was talked to like I was XXXX. I take my credit very seriously and I would not have called if the information was incorrect. I have another account with Citi and was just given a credit increasement. This makes no sense. This is discrimination.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75078",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I have an account with Citi and my credit limit was reduced from {$12000.00} to {$5400.00}. I called the company and spoke with a supervisor who told me because I have delinquent accounts on my credit report. I told him the information was incorrect. The told me to call the credit bureau. The email from Citi stated ( Please note, other than providing information, the reporting agency played no part in our decision and is unable to supply the specific reasons why we decreased your credit limit ). So, why did he lie and said the credit bureau was showing delinquent accounts. I don't have the supervisors name, but I didn't like the manner in which he spoke to me. He clearly stated it was because of my credit bureau. I had just reviewed my XXXX credit file and there were no delinquent accounts on my file. The supervisor then says, he can submit a request to have my credit limit reinstated. He wanted to know my income and if I didn't disclose my income. The reinstatement could not be submitted. I told him I was not because my account should not have been adjusted. He stated, they wanted to know my income to verify if I would be able to make my payments. I have not missed a payment with Citi or any of my other accounts on my credit file. This was unjustly done, and I was first talked to badly by the representative and the supervisor. Trying to explain the information they are giving me is incorrect. I was talked to like I was XXXX. I take my credit very seriously and I would not have called if the information was incorrect. I have another account with Citi and was just given a credit increasement. This makes no sense. This is discrimination."
+}
+
+Chunk:
+i have an account with citi and my credit limit was reduced from { $ 12000. 00 } to { $ 5400. 00 }. i called the company and spoke with a supervisor who told me because i have delinquent accounts on my credit report. i told him the information was incorrect. the told me to call the credit bureau. the email from citi stated ( please note, other than providing information, the reporting agency played no part in our decision and is unable to supply the specific reasons why we decreased your credit limit ). so, why did he lie and said the credit bureau was showing delinquent accounts. i don't have the supervisors name, but i didn't like the manner in which he spoke to me. he clearly stated it was because of my credit bureau. i had just reviewed my xxxx credit file and there were no delinquent accounts on my file. the supervisor then says, he can submit a request to have my credit limit reinstated. he wanted to know my income and if i didn't disclose my income. the reinstatement could not be submitted. i told him i was not because my account should not have been adjusted. he stated, they wanted to know my income to verify if i would be able to make my payments. i have not missed a payment with citi or any of my other accounts on my credit file. this was unjustly done, and i was first talked to badly by the representative and the supervisor. trying to explain the information they are giving me is incorrect. i was talked to like i was xxxx. i take my credit very seriously and i would not have called if the information was incorrect. i have another account with citi and was just given a credit increasement. this makes no sense. this is discrimination.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993255138397217
+}

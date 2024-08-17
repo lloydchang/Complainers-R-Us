@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9207009,
+  "complaint_id": "9207009",
+  "product": "Credit card",
+  "complaint_what_happened": "I am having with the credit cards issued through Comenity Bank. I have multiple credit cards with them ( XXXX, Ann Taylor, Victoria 's Secret ) and I have been having an awful time with them for years now. \n\nIt's at the point where I can't take it anymore and I need to contact someone about them. I believe what they are doing to customers is fraudulent. I can not sign into any of credit card accounts. It's been like this for years now. When I call customer service they give me the same line that they are updating their system. \n\nHow many years does it take to update their system? The only way I can get on to my Victoria 's Secret account is if I create a new password every single time I sign on. I can't even get into my XXXX account. I put in my credit card #, SS and I get this message every single time : \" It looks like the details you entered don't match our records. Please ensure youre using the primary cardholders information and try again. '' Screenshot is. attached. Date it happened is today XX/XX/year>. \n\nThis is NOT normal. I think what this bank is doing is finding a way to make sure people can't pay their bills on time, which will result in numerous and hefty late fees! \n\nI am not the only one that is having issues with this bank. Please review their XXXX pages and see the comments : XXXX XXXX XXXX  There is a page actually called \" Beware of Comenity Bank XXXX XXXX : XXXX? XXXX XXXX XXXXXXXX",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "076XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I am having with the credit cards issued through Comenity Bank. I have multiple credit cards with them ( XXXX, Ann Taylor, Victoria 's Secret ) and I have been having an awful time with them for years now. \n\nIt's at the point where I can't take it anymore and I need to contact someone about them. I believe what they are doing to customers is fraudulent. I can not sign into any of credit card accounts. It's been like this for years now. When I call customer service they give me the same line that they are updating their system. \n\nHow many years does it take to update their system? The only way I can get on to my Victoria 's Secret account is if I create a new password every single time I sign on. I can't even get into my XXXX account. I put in my credit card #, SS and I get this message every single time : \" It looks like the details you entered don't match our records. Please ensure youre using the primary cardholders information and try again. '' Screenshot is. attached. Date it happened is today XX/XX/year>. \n\nThis is NOT normal. I think what this bank is doing is finding a way to make sure people can't pay their bills on time, which will result in numerous and hefty late fees! \n\nI am not the only one that is having issues with this bank. Please review their XXXX pages and see the comments : XXXX XXXX XXXX  There is a page actually called \" Beware of Comenity Bank XXXX XXXX : XXXX? XXXX XXXX XXXXXXXX"
+}
+
+Chunk:
+i am having with the credit cards issued through comenity bank. i have multiple credit cards with them ( xxxx, ann taylor, victoria's secret ) and i have been having an awful time with them for years now. it's at the point where i can't take it anymore and i need to contact someone about them. i believe what they are doing to customers is fraudulent. i can not sign into any of credit card accounts. it's been like this for years now. when i call customer service they give me the same line that they are updating their system. how many years does it take to update their system? the only way i can get on to my victoria's secret account is if i create a new password every single time i sign on. i can't even get into my xxxx account. i put in my credit card #, ss and i get this message every single time : " it looks like the details you entered don't match our records. please ensure youre using the primary cardholders information and try again.'' screenshot is. attached. date it happened is today xx / xx / year >. this is not normal. i think what this bank is doing is finding a way to make sure people can't pay their bills on time, which will result in numerous and hefty late fees! i am not the only one that is having issues with this bank. please review their xxxx pages and see the comments : xxxx xxxx xxxx there is a page actually called " beware of comenity bank xxxx xxxx : xxxx? xxxx xxxx xxxxxxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995954632759094
+}

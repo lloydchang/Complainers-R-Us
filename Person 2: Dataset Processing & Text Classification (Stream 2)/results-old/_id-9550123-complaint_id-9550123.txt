@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9550123,
+  "complaint_id": "9550123",
+  "product": "Credit card",
+  "complaint_what_happened": "We believe CitiCards dispute process is ineffective, unprofessional and generally a sham. Attached is a letter we sent Citicard regarding our dispute with a charge for a tour that was canceled by the merchant but not refunded. It outlines the dates, all the time, documentation and responses from CitiCard dispute. In response to our letter, we received a telephone call by a staff person from the office of the XXXX of CitiCard informing us that they would not reopen our case. We stated we did not believe we were treated fairly and repeated our frustration with Citicards dispute process and the inept staff responses we received, except for supervisors who agreed our case deserved more detailed review and were apparently ineffective in doing anything about it. \n\nWe request the Better Business Bureau undertake an oversight review of CitiCards dispute process that includes an investigation of what went wrong in our case. \n\nThank you for your time and consideration.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "We believe CitiCards dispute process is ineffective, unprofessional and generally a sham. Attached is a letter we sent Citicard regarding our dispute with a charge for a tour that was canceled by the merchant but not refunded. It outlines the dates, all the time, documentation and responses from CitiCard dispute. In response to our letter, we received a telephone call by a staff person from the office of the XXXX of CitiCard informing us that they would not reopen our case. We stated we did not believe we were treated fairly and repeated our frustration with Citicards dispute process and the inept staff responses we received, except for supervisors who agreed our case deserved more detailed review and were apparently ineffective in doing anything about it. \n\nWe request the Better Business Bureau undertake an oversight review of CitiCards dispute process that includes an investigation of what went wrong in our case. \n\nThank you for your time and consideration."
+}
+
+Chunk:
+we believe citicards dispute process is ineffective, unprofessional and generally a sham. attached is a letter we sent citicard regarding our dispute with a charge for a tour that was canceled by the merchant but not refunded. it outlines the dates, all the time, documentation and responses from citicard dispute. in response to our letter, we received a telephone call by a staff person from the office of the xxxx of citicard informing us that they would not reopen our case. we stated we did not believe we were treated fairly and repeated our frustration with citicards dispute process and the inept staff responses we received, except for supervisors who agreed our case deserved more detailed review and were apparently ineffective in doing anything about it. we request the better business bureau undertake an oversight review of citicards dispute process that includes an investigation of what went wrong in our case. thank you for your time and consideration.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998593270778656
+}

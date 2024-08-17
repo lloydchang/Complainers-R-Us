@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9216065,
+  "complaint_id": "9216065",
+  "product": "Credit card",
+  "complaint_what_happened": "Around XXXXXXXX XXXX Sears Citibank MC issued us replacement cards with new numbers. This apparently created some systemic problem that blocks me from accessing the rewards portal. I have used the online chat multiple times to no avail. Every time I call on the phone, they say it will be fixed in two to four more weeks. This has been going on for months. I have been patiently waiting to access the rewards and last time ( around XX/XX/XXXX - I wish I had dates for the other calls but I don't ) they swore up and down it would be fixed for sure by the start of XXXX but I just tried and got the exact same error loop as before. They are fully aware of it and though I ask - can I get new cards issued? Is there some other way to fix this? they say no, I just have to be patient. I now have like {$1500.00} work of points and I'm sure they're offering discounted e-gift cards I would want but as of now, no luck. And they refuse to issue e-cards with a phone request. \nThey are completely aware of my problem, know exactly what I'm seeing and experiencing on the Sear MC and Thankyou rewards Citi site, and have even acted exasperated previously when I happened to call when the site happened to be giving everyone a problem for a while. They tell me I am just an unlucky person and almost everyone else has had their access restored. Without knowing anyone else personally that has ThankYou Rewards, I have no way of knowing if that is true or not. \nMy account is in good standing and been paid off every month to XXXX timely since the XXXX So this has nothing to do with some failure on my part. Any help I can with this would be greatly appreciated",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95993",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "Around XXXXXXXX XXXX Sears Citibank MC issued us replacement cards with new numbers. This apparently created some systemic problem that blocks me from accessing the rewards portal. I have used the online chat multiple times to no avail. Every time I call on the phone, they say it will be fixed in two to four more weeks. This has been going on for months. I have been patiently waiting to access the rewards and last time ( around XX/XX/XXXX - I wish I had dates for the other calls but I don't ) they swore up and down it would be fixed for sure by the start of XXXX but I just tried and got the exact same error loop as before. They are fully aware of it and though I ask - can I get new cards issued? Is there some other way to fix this? they say no, I just have to be patient. I now have like {$1500.00} work of points and I'm sure they're offering discounted e-gift cards I would want but as of now, no luck. And they refuse to issue e-cards with a phone request. \nThey are completely aware of my problem, know exactly what I'm seeing and experiencing on the Sear MC and Thankyou rewards Citi site, and have even acted exasperated previously when I happened to call when the site happened to be giving everyone a problem for a while. They tell me I am just an unlucky person and almost everyone else has had their access restored. Without knowing anyone else personally that has ThankYou Rewards, I have no way of knowing if that is true or not. \nMy account is in good standing and been paid off every month to XXXX timely since the XXXX So this has nothing to do with some failure on my part. Any help I can with this would be greatly appreciated"
+}
+
+Chunk:
+around xxxxxxxx xxxx sears citibank mc issued us replacement cards with new numbers. this apparently created some systemic problem that blocks me from accessing the rewards portal. i have used the online chat multiple times to no avail. every time i call on the phone, they say it will be fixed in two to four more weeks. this has been going on for months. i have been patiently waiting to access the rewards and last time ( around xx / xx / xxxx - i wish i had dates for the other calls but i don't ) they swore up and down it would be fixed for sure by the start of xxxx but i just tried and got the exact same error loop as before. they are fully aware of it and though i ask - can i get new cards issued? is there some other way to fix this? they say no, i just have to be patient. i now have like { $ 1500. 00 } work of points and i'm sure they're offering discounted e - gift cards i would want but as of now, no luck. and they refuse to issue e - cards with a phone request. they are completely aware of my problem, know exactly what i'm seeing and experiencing on the sear mc and thankyou rewards citi site, and have even acted exasperated previously when i happened to call when the site happened to be giving everyone a problem for a while. they tell me i am just an unlucky person and almost everyone else has had their access restored. without knowing anyone else personally that has thankyou rewards, i have no way of knowing if that is true or not. my account is in good standing and been paid off every month to xxxx timely since the xxxx so this has nothing to do with some failure on my part. any help i can with this would be greatly appreciated
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987252354621887
+}

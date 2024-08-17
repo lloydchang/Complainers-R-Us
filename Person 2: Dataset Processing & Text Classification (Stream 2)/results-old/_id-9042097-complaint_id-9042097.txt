@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042097,
+  "complaint_id": "9042097",
+  "product": "Credit card",
+  "complaint_what_happened": "This is for my Amazon Store Card. It is managed by Synchrony Bank. I have entered into a CONTRACT with Synchrony to pay a FIXED AMOUNT of {$27.00} per month until paid in full. Per the website and what I agreed to ... .. '' Your account is now enrolled in our Customer Assistance Plan. As a part of this payment plan, if your account is not already closed it will be permanently closed. Upon enrollment and for the duration of the payment plan, Synchrony Bank will reduce your APR to 0 %. '' I was erroneously and CONTRARY to this CONTRACT charged {$200.00} in interest on XX/XX/2024 and I was charged {$140.00} in interest on XX/XX/2024. I have asked via direct message on the website to correct this error. The response given said that I needed to call in. I will not call this company. To protect my rights I shall only deal in writing. This company has a penchant for saying one thing and doing another. This is yet another example.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "75165",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "This is for my Amazon Store Card. It is managed by Synchrony Bank. I have entered into a CONTRACT with Synchrony to pay a FIXED AMOUNT of {$27.00} per month until paid in full. Per the website and what I agreed to ... .. '' Your account is now enrolled in our Customer Assistance Plan. As a part of this payment plan, if your account is not already closed it will be permanently closed. Upon enrollment and for the duration of the payment plan, Synchrony Bank will reduce your APR to 0 %. '' I was erroneously and CONTRARY to this CONTRACT charged {$200.00} in interest on XX/XX/2024 and I was charged {$140.00} in interest on XX/XX/2024. I have asked via direct message on the website to correct this error. The response given said that I needed to call in. I will not call this company. To protect my rights I shall only deal in writing. This company has a penchant for saying one thing and doing another. This is yet another example."
+}
+
+Chunk:
+this is for my amazon store card. it is managed by synchrony bank. i have entered into a contract with synchrony to pay a fixed amount of { $ 27. 00 } per month until paid in full. per the website and what i agreed to.....'' your account is now enrolled in our customer assistance plan. as a part of this payment plan, if your account is not already closed it will be permanently closed. upon enrollment and for the duration of the payment plan, synchrony bank will reduce your apr to 0 %.'' i was erroneously and contrary to this contract charged { $ 200. 00 } in interest on xx / xx / 2024 and i was charged { $ 140. 00 } in interest on xx / xx / 2024. i have asked via direct message on the website to correct this error. the response given said that i needed to call in. i will not call this company. to protect my rights i shall only deal in writing. this company has a penchant for saying one thing and doing another. this is yet another example.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974000453948975
+}

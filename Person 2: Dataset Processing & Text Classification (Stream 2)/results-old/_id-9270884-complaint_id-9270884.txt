@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270884,
+  "complaint_id": "9270884",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Macys/CBNA : I was shocked when I reviewed my credit report and found late payment on the dates below : XXXX and XX/XX/year> I am not sure how this happened, I believe that I had made my payments to you when I received my statements. My only thought is that my monthly statement did not get to me.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "02301",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "Dear Macys/CBNA : I was shocked when I reviewed my credit report and found late payment on the dates below : XXXX and XX/XX/year> I am not sure how this happened, I believe that I had made my payments to you when I received my statements. My only thought is that my monthly statement did not get to me."
+}
+
+Chunk:
+dear macys / cbna : i was shocked when i reviewed my credit report and found late payment on the dates below : xxxx and xx / xx / year > i am not sure how this happened, i believe that i had made my payments to you when i received my statements. my only thought is that my monthly statement did not get to me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978137016296387
+}

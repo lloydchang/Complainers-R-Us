@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9010857,
+  "complaint_id": "9010857",
+  "product": "Credit card",
+  "complaint_what_happened": "The late fee they are charging is 30.5 % of my monthly payment.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "33324",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "The late fee they are charging is 30.5 % of my monthly payment."
+}
+
+Chunk:
+the late fee they are charging is 30. 5 % of my monthly payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.989885687828064
+}

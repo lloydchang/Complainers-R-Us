@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173715,
+  "complaint_id": "9173715",
+  "product": "Credit card",
+  "complaint_what_happened": "I was a victim of fraud. Someone used my card and ran up thousands of dollars worth of charges that I didnt make. When I realized that I called the bank, I answered all their questions. I did everything that was asked of me. I was told that I would receive temporary credits and that I wouldnt be responsible for making payments on the Fraudulent transactions they said it was on a recorded line so they should have a copy of my original phone call. The temporary credits did show up, but there was never an adjustment to my minimum payment to so Im a little confused. Im not supposed to be responsible for making payments for the fraudulent transactions then why are they still being included in my minimum payment so I couldnt figure that out and theres no easy way to reach out to the bank other than calling so I called and I spoke with a young woman who was friendly but not knowledgeable. She didnt even know how the minimum payment was calculated on my account, she no clue all she did was say things that werent true to be completely honest and you should have a recording of this so then she transfers me and this guy just wasnt he didnt care what I had to say he come up with his conclusion before I even said a word which kind of wasnt what he said, but just the fact that he didnt even listen to my explanation question before coming up with a solution and even after I told him I feel like he still didnt give me accurate information and he didnt know how to fix the problem so Im left with paying a very large minimum payment that I shouldnt have to pay because I didnt charge any of those transactions this not being resolved before the due date and then you charging me fees which I dont think its fair because I could make one percent plus interest payment, but it wouldnt be enough and you would still say my account was late so why did minimum payment not reflect the investigation that is going on? I have a second question you sent me a letter stating that the transaction for the zoo was my responsibility even though I had not been to the zoo and I dont know when it started costing {$160.00} to go to the zoo to begin with but this transactions no different than the rest of the transactions so why do you think that I was at the zoo? Why do you think those charges belong to me? And last but not least why dont I have any rewards, I have a balance of {$21.00} and Ive never used any other rewards but I dont have any. Can you explain that to me?",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "490XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was a victim of fraud. Someone used my card and ran up thousands of dollars worth of charges that I didnt make. When I realized that I called the bank, I answered all their questions. I did everything that was asked of me. I was told that I would receive temporary credits and that I wouldnt be responsible for making payments on the Fraudulent transactions they said it was on a recorded line so they should have a copy of my original phone call. The temporary credits did show up, but there was never an adjustment to my minimum payment to so Im a little confused. Im not supposed to be responsible for making payments for the fraudulent transactions then why are they still being included in my minimum payment so I couldnt figure that out and theres no easy way to reach out to the bank other than calling so I called and I spoke with a young woman who was friendly but not knowledgeable. She didnt even know how the minimum payment was calculated on my account, she no clue all she did was say things that werent true to be completely honest and you should have a recording of this so then she transfers me and this guy just wasnt he didnt care what I had to say he come up with his conclusion before I even said a word which kind of wasnt what he said, but just the fact that he didnt even listen to my explanation question before coming up with a solution and even after I told him I feel like he still didnt give me accurate information and he didnt know how to fix the problem so Im left with paying a very large minimum payment that I shouldnt have to pay because I didnt charge any of those transactions this not being resolved before the due date and then you charging me fees which I dont think its fair because I could make one percent plus interest payment, but it wouldnt be enough and you would still say my account was late so why did minimum payment not reflect the investigation that is going on? I have a second question you sent me a letter stating that the transaction for the zoo was my responsibility even though I had not been to the zoo and I dont know when it started costing {$160.00} to go to the zoo to begin with but this transactions no different than the rest of the transactions so why do you think that I was at the zoo? Why do you think those charges belong to me? And last but not least why dont I have any rewards, I have a balance of {$21.00} and Ive never used any other rewards but I dont have any. Can you explain that to me?"
+}
+
+Chunk:
+rewards but i dont have any. can you explain that to me?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9956464171409607
+}

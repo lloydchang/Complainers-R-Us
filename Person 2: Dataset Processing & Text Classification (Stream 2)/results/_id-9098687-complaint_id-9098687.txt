@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9098687,
+  "complaint_id": "9098687",
+  "product": "Credit card",
+  "complaint_what_happened": "Discover is charging my account for fraudulent charges that were disputed from XXXX XXXX XXXX My balance went from XXXX something to XXXX something for what they said was reversal credits. I should not be charged anything reversal fraudulent charges Please look into this for me",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92592",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Discover is charging my account for fraudulent charges that were disputed from XXXX XXXX XXXX My balance went from XXXX something to XXXX something for what they said was reversal credits. I should not be charged anything reversal fraudulent charges Please look into this for me"
+}
+
+Chunk:
+discover is charging my account for fraudulent charges that were disputed from xxxx xxxx xxxx my balance went from xxxx something to xxxx something for what they said was reversal credits. i should not be charged anything reversal fraudulent charges please look into this for me
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9956810474395752
+}

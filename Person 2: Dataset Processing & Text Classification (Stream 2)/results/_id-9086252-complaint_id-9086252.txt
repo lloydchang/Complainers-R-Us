@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9086252,
+  "complaint_id": "9086252",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Verizon visa card issued by Synchrony bank. Synchrony recently notified me that it will start charging me a fee to mail me a paper statement and the only way to receive my statement at no charge is electronically. I do not have an email address to which I have regular access and I am at risk of missing my bill payments because of this. I want to continue receiving my bill in paper. How can Synchrony charge to send me a bill?",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I have a Verizon visa card issued by Synchrony bank. Synchrony recently notified me that it will start charging me a fee to mail me a paper statement and the only way to receive my statement at no charge is electronically. I do not have an email address to which I have regular access and I am at risk of missing my bill payments because of this. I want to continue receiving my bill in paper. How can Synchrony charge to send me a bill?"
+}
+
+Chunk:
+i have a verizon visa card issued by synchrony bank. synchrony recently notified me that it will start charging me a fee to mail me a paper statement and the only way to receive my statement at no charge is electronically. i do not have an email address to which i have regular access and i am at risk of missing my bill payments because of this. i want to continue receiving my bill in paper. how can synchrony charge to send me a bill?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993979930877686
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9109123,
+  "complaint_id": "9109123",
+  "product": "Credit card",
+  "complaint_what_happened": "I saw a promotional offer on my American Express credit card to get cash back for XXXX subscription. I enrolled in XXXX XXXX on XX/XX/XXXX, which gave me a 7-day free trial as a new customer, so the first charge occurred on XX/XX/XXXX. Although the Amex offer expired on XX/XX/XXXX, I did not think it would be a problem because there was a line explicitly saying If you are a new customer receiving a free trial, you must be enrolled in the free trial prior to the campaign end date to qualify. This line made believe that AMEX was aware that there is a free trial period and I would be fine as long as I enrolled in XXXXXXXX XXXX before the offer expired on XX/XX/XXXX, which I did enroll and sign up for XXXXXXXX XXXX on XX/XX/XXXX. And yet, AMEX declined to honor the offer and I did not get any cash back. I contacted AMEX first via online chat on XX/XX/XXXX, and then again on XX/XX/XXXX, and then called them on XX/XX/XXXX for 1 hour and 18 minutes. Each time I had to explain the situation to the representative all over again. There was a lot of frustration that they insisted that I can not get the rewards because first charge occurred XX/XX/XXXX, when the offer expired XX/XX/XXXX. And each representative declined to recognize that I should have been qualified because I enrolled XX/XX/XXXX before the offer expired according to their own marketing material.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07302",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I saw a promotional offer on my American Express credit card to get cash back for XXXX subscription. I enrolled in XXXX XXXX on XX/XX/XXXX, which gave me a 7-day free trial as a new customer, so the first charge occurred on XX/XX/XXXX. Although the Amex offer expired on XX/XX/XXXX, I did not think it would be a problem because there was a line explicitly saying If you are a new customer receiving a free trial, you must be enrolled in the free trial prior to the campaign end date to qualify. This line made believe that AMEX was aware that there is a free trial period and I would be fine as long as I enrolled in XXXXXXXX XXXX before the offer expired on XX/XX/XXXX, which I did enroll and sign up for XXXXXXXX XXXX on XX/XX/XXXX. And yet, AMEX declined to honor the offer and I did not get any cash back. I contacted AMEX first via online chat on XX/XX/XXXX, and then again on XX/XX/XXXX, and then called them on XX/XX/XXXX for 1 hour and 18 minutes. Each time I had to explain the situation to the representative all over again. There was a lot of frustration that they insisted that I can not get the rewards because first charge occurred XX/XX/XXXX, when the offer expired XX/XX/XXXX. And each representative declined to recognize that I should have been qualified because I enrolled XX/XX/XXXX before the offer expired according to their own marketing material."
+}
+
+Chunk:
+i saw a promotional offer on my american express credit card to get cash back for xxxx subscription. i enrolled in xxxx xxxx on xx / xx / xxxx, which gave me a 7 - day free trial as a new customer, so the first charge occurred on xx / xx / xxxx. although the amex offer expired on xx / xx / xxxx, i did not think it would be a problem because there was a line explicitly saying if you are a new customer receiving a free trial, you must be enrolled in the free trial prior to the campaign end date to qualify. this line made believe that amex was aware that there is a free trial period and i would be fine as long as i enrolled in xxxxxxxx xxxx before the offer expired on xx / xx / xxxx, which i did enroll and sign up for xxxxxxxx xxxx on xx / xx / xxxx. and yet, amex declined to honor the offer and i did not get any cash back. i contacted amex first via online chat on xx / xx / xxxx, and then again on xx / xx / xxxx, and then called them on xx / xx / xxxx for 1 hour and 18 minutes. each time i had to explain the situation to the representative all over again. there was a lot of frustration that they insisted that i can not get the rewards because first charge occurred xx / xx / xxxx, when the offer expired xx / xx / xxxx. and each representative declined to recognize that i should have been qualified because i enrolled xx / xx / xxxx before the offer expired according to their own marketing material.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992344379425049
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9453911,
+  "complaint_id": "9453911",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I scheduled a payment to Synchrony Bank for payment of my XXXX XXXX XXXX credit card. The payment was scheduled through my banks bill pay system, like I have done for about a year now. The payment is due on the XXXX  of each month. I discovered a few days after the due date that my payment had not been credited to my account, and I was charged a late fee. I contacted my bank first to make sure there wasnt a problem there. Then I contacted Synchrony concerning the issue. They claimed they had not received the payment even as of then. This was around the middle of the month. They opened an investigation ticket, and I sent them proof from my back that the payment had indeed been made. Eventually they found the payment and it was credited to my account along with a refund of all fees. I made my XXXX and XXXX payment without issue. I scheduled my XXXX payment to be delivered electronically on XX/XX/XXXX. Here again, the payment never got credited to my account. As of today, they still claim they dont know where my payment is. They opened another ticket and I sent the proof of payment in the same format as the last time. This time I actually called them, spoke to XXXX different agents in customer service, and called their dispute department as well after obtaining that number from the XXXX XXXX agent ( who was a supervisor of another supervisor I spoke to as well ). I have no idea of what is going on because apparently they dont know either. This is now beyond an annoyance, and I feel like something is wrong in their payment department. I also got the impression that Im not the only one having this issue. It seems to me that maybe they have found a way to charge late fees by claiming the payments are late.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "27295",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On XX/XX/year>, I scheduled a payment to Synchrony Bank for payment of my XXXX XXXX XXXX credit card. The payment was scheduled through my banks bill pay system, like I have done for about a year now. The payment is due on the XXXX  of each month. I discovered a few days after the due date that my payment had not been credited to my account, and I was charged a late fee. I contacted my bank first to make sure there wasnt a problem there. Then I contacted Synchrony concerning the issue. They claimed they had not received the payment even as of then. This was around the middle of the month. They opened an investigation ticket, and I sent them proof from my back that the payment had indeed been made. Eventually they found the payment and it was credited to my account along with a refund of all fees. I made my XXXX and XXXX payment without issue. I scheduled my XXXX payment to be delivered electronically on XX/XX/XXXX. Here again, the payment never got credited to my account. As of today, they still claim they dont know where my payment is. They opened another ticket and I sent the proof of payment in the same format as the last time. This time I actually called them, spoke to XXXX different agents in customer service, and called their dispute department as well after obtaining that number from the XXXX XXXX agent ( who was a supervisor of another supervisor I spoke to as well ). I have no idea of what is going on because apparently they dont know either. This is now beyond an annoyance, and I feel like something is wrong in their payment department. I also got the impression that Im not the only one having this issue. It seems to me that maybe they have found a way to charge late fees by claiming the payments are late."
+}
+
+Chunk:
+on xx / xx / year >, i scheduled a payment to synchrony bank for payment of my xxxx xxxx xxxx credit card. the payment was scheduled through my banks bill pay system, like i have done for about a year now. the payment is due on the xxxx of each month. i discovered a few days after the due date that my payment had not been credited to my account, and i was charged a late fee. i contacted my bank first to make sure there wasnt a problem there. then i contacted synchrony concerning the issue. they claimed they had not received the payment even as of then. this was around the middle of the month. they opened an investigation ticket, and i sent them proof from my back that the payment had indeed been made. eventually they found the payment and it was credited to my account along with a refund of all fees. i made my xxxx and xxxx payment without issue. i scheduled my xxxx payment to be delivered electronically on xx / xx / xxxx. here again, the payment never got credited to my account. as of today, they still claim they dont know where my payment is. they opened another ticket and i sent the proof of payment in the same format as the last time. this time i actually called them, spoke to xxxx different agents in customer service, and called their dispute department as well after obtaining that number from the xxxx xxxx agent ( who was a supervisor of another supervisor i spoke to as well ). i have no idea of what is going on because apparently they dont know either. this is now beyond an annoyance, and i feel like something is wrong in their payment department. i also got the impression that im not the only one having this issue. it seems to me that maybe they have found a way to charge late fees by claiming the payments are late.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994230270385742
+}

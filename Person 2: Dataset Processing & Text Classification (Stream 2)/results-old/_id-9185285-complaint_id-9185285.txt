@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9185285,
+  "complaint_id": "9185285",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank is charging customers {$1.00} per month for monthly paper statements to be mailed home. The specific cards that Synchrony Bank is requiring this is for their Care Credit, a medical credit card and XXXX 's, a store credit card. I should not have to pay extra to have a bill sent to me via the mail. This puts the onus on the customer to retrieve and print their own statements at home. It also means that I need to have wifi at home. Consumers also need paper copies of bills and statements to store safely in their home and not have to rely on retrieving digital copies of bills and statements. \n\nThis fee should not be tolerated!",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94087",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony Bank is charging customers {$1.00} per month for monthly paper statements to be mailed home. The specific cards that Synchrony Bank is requiring this is for their Care Credit, a medical credit card and XXXX 's, a store credit card. I should not have to pay extra to have a bill sent to me via the mail. This puts the onus on the customer to retrieve and print their own statements at home. It also means that I need to have wifi at home. Consumers also need paper copies of bills and statements to store safely in their home and not have to rely on retrieving digital copies of bills and statements. \n\nThis fee should not be tolerated!"
+}
+
+Chunk:
+synchrony bank is charging customers { $ 1. 00 } per month for monthly paper statements to be mailed home. the specific cards that synchrony bank is requiring this is for their care credit, a medical credit card and xxxx's, a store credit card. i should not have to pay extra to have a bill sent to me via the mail. this puts the onus on the customer to retrieve and print their own statements at home. it also means that i need to have wifi at home. consumers also need paper copies of bills and statements to store safely in their home and not have to rely on retrieving digital copies of bills and statements. this fee should not be tolerated!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.988349199295044
+}

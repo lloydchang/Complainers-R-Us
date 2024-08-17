@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042771,
+  "complaint_id": "9042771",
+  "product": "Credit card",
+  "complaint_what_happened": "At one point in time I filed for an apple credit card via Goldman Sachs and then closed the account. This was around 2022 when it closed and they still are showing up on my credit report and I do not know why? It says via XXXX that dings like this fall off after 3 months and few years later is still there. Its been eating away at my credit score ever since. I need it to be fixed and to show up as a technical error. Its also saying my oldest credit card account was from nine years ago but is also saying I closed that and still have XXXX  XXXX from 9 years ago. I should be getting rewarded credit for this and havent been. Changing to a new XXXX  XXXX card doesnt mean that I sold off my credit history from the previous XXXX years for the new card. Its still capital one and shouldnt change. Only the interest rate and fees should be charged if they ever do accrue! Its ruined my credit history because of this. My longest account by date should have me at 9 years still not 3 years. Apple credit card ding should be removed entirely",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02116",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "At one point in time I filed for an apple credit card via Goldman Sachs and then closed the account. This was around 2022 when it closed and they still are showing up on my credit report and I do not know why? It says via XXXX that dings like this fall off after 3 months and few years later is still there. Its been eating away at my credit score ever since. I need it to be fixed and to show up as a technical error. Its also saying my oldest credit card account was from nine years ago but is also saying I closed that and still have XXXX  XXXX from 9 years ago. I should be getting rewarded credit for this and havent been. Changing to a new XXXX  XXXX card doesnt mean that I sold off my credit history from the previous XXXX years for the new card. Its still capital one and shouldnt change. Only the interest rate and fees should be charged if they ever do accrue! Its ruined my credit history because of this. My longest account by date should have me at 9 years still not 3 years. Apple credit card ding should be removed entirely"
+}
+
+Chunk:
+at one point in time i filed for an apple credit card via goldman sachs and then closed the account. this was around 2022 when it closed and they still are showing up on my credit report and i do not know why? it says via xxxx that dings like this fall off after 3 months and few years later is still there. its been eating away at my credit score ever since. i need it to be fixed and to show up as a technical error. its also saying my oldest credit card account was from nine years ago but is also saying i closed that and still have xxxx xxxx from 9 years ago. i should be getting rewarded credit for this and havent been. changing to a new xxxx xxxx card doesnt mean that i sold off my credit history from the previous xxxx years for the new card. its still capital one and shouldnt change. only the interest rate and fees should be charged if they ever do accrue! its ruined my credit history because of this. my longest account by date should have me at 9 years still not 3 years. apple credit card ding should be removed entirely
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999725878238678
+}

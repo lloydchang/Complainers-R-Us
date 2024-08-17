@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9172933,
+  "complaint_id": "9172933",
+  "product": "Credit card",
+  "complaint_what_happened": "I tried to pay off my Wells Fargo credit card with a non Wells Fargo bank account through their app 's autopay feature on XX/XX/XXXX. This was rejected due to a configuration on the end of the Non Wells Fargo account, and led to a suspension on the usage of the Non Wells Fargo bank account. I fixed this configuration and called Wells Fargo to un-suspend the account. They were able to get this done within two different customer service calls, and said I was good to pay off my account. After this call I was told that I could use my account as normal as long as my issue with the configuration of the Non Wells Fargo bank account was resolved. I paid off my credit card using this Non Wells Fargo account successfully, but the account got re-suspended anyways. I called 3 times and each representative said that there shouldn't be any problems since I was able to pay off my card. I tried explaining that the issue was that the account was now suspended, but each said that there was no problems. I was eventually directed to the LineOfBusinessExecutiveOffice for support, which just redirected me to customer support. It's an endless loop that is tanking my credit score for an issue that I can not resolve myself in any way.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94109",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I tried to pay off my Wells Fargo credit card with a non Wells Fargo bank account through their app 's autopay feature on XX/XX/XXXX. This was rejected due to a configuration on the end of the Non Wells Fargo account, and led to a suspension on the usage of the Non Wells Fargo bank account. I fixed this configuration and called Wells Fargo to un-suspend the account. They were able to get this done within two different customer service calls, and said I was good to pay off my account. After this call I was told that I could use my account as normal as long as my issue with the configuration of the Non Wells Fargo bank account was resolved. I paid off my credit card using this Non Wells Fargo account successfully, but the account got re-suspended anyways. I called 3 times and each representative said that there shouldn't be any problems since I was able to pay off my card. I tried explaining that the issue was that the account was now suspended, but each said that there was no problems. I was eventually directed to the LineOfBusinessExecutiveOffice for support, which just redirected me to customer support. It's an endless loop that is tanking my credit score for an issue that I can not resolve myself in any way."
+}
+
+Chunk:
+i tried to pay off my wells fargo credit card with a non wells fargo bank account through their app's autopay feature on xx / xx / xxxx. this was rejected due to a configuration on the end of the non wells fargo account, and led to a suspension on the usage of the non wells fargo bank account. i fixed this configuration and called wells fargo to un - suspend the account. they were able to get this done within two different customer service calls, and said i was good to pay off my account. after this call i was told that i could use my account as normal as long as my issue with the configuration of the non wells fargo bank account was resolved. i paid off my credit card using this non wells fargo account successfully, but the account got re - suspended anyways. i called 3 times and each representative said that there shouldn't be any problems since i was able to pay off my card. i tried explaining that the issue was that the account was now suspended, but each said that there was no problems. i was eventually directed to the lineofbusinessexecutiveoffice for support, which just redirected me to customer support. it's an endless loop that is tanking my credit score for an issue that i can not resolve myself in any way.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991165995597839
+}

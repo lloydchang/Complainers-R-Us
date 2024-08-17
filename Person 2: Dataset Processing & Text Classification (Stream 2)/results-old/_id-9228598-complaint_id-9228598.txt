@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9228598,
+  "complaint_id": "9228598",
+  "product": "Credit card",
+  "complaint_what_happened": "On or about XX/XX/year> my HELOC Banker contacted Citi Master Card for a TOTAL PAY OFF OF THE CARD. \n\nTHE C/S Representative told her approx. {$17000.00}. \n\nThis was the total amount of the HELOC check mailed to citi Master card. \n\nI received a billing that did not show a XXXX  ( {$0.00} ) balance but approx. {$290.00} ( residual interest ) NOT DISCLOSED or EVER appearing on ANY monthly statement. Requesting a supervisor just resulted in a VERY \" hard headed '', no flexibility on their part REGARDLESS of not being informed of the \" residual interest \". \n\nTo add insult to injury, citi XXXX has treated the \" residual interest \" as a \" purchase balance '' to add on XXXX  % interest - even after receiving the {$17000.00} for the provided balance. Thus, adding {$130.00}, in additional interest. \n\nNew bill balance is {$430.00}. '' ============= I, in turn, tried to resolve over the phone with a C/S Representative ( XXXX XXXX XXXX XXXXXXXX ) I requested an internal \" complaint / issue '' letter be submitted on my behalf. Last week I received a DENIAL letter saying I don't meet their criteria, thus NO assistance would be considered or provided.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "64012",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On or about XX/XX/year> my HELOC Banker contacted Citi Master Card for a TOTAL PAY OFF OF THE CARD. \n\nTHE C/S Representative told her approx. {$17000.00}. \n\nThis was the total amount of the HELOC check mailed to citi Master card. \n\nI received a billing that did not show a XXXX  ( {$0.00} ) balance but approx. {$290.00} ( residual interest ) NOT DISCLOSED or EVER appearing on ANY monthly statement. Requesting a supervisor just resulted in a VERY \" hard headed '', no flexibility on their part REGARDLESS of not being informed of the \" residual interest \". \n\nTo add insult to injury, citi XXXX has treated the \" residual interest \" as a \" purchase balance '' to add on XXXX  % interest - even after receiving the {$17000.00} for the provided balance. Thus, adding {$130.00}, in additional interest. \n\nNew bill balance is {$430.00}. '' ============= I, in turn, tried to resolve over the phone with a C/S Representative ( XXXX XXXX XXXX XXXXXXXX ) I requested an internal \" complaint / issue '' letter be submitted on my behalf. Last week I received a DENIAL letter saying I don't meet their criteria, thus NO assistance would be considered or provided."
+}
+
+Chunk:
+on or about xx / xx / year > my heloc banker contacted citi master card for a total pay off of the card. the c / s representative told her approx. { $ 17000. 00 }. this was the total amount of the heloc check mailed to citi master card. i received a billing that did not show a xxxx ( { $ 0. 00 } ) balance but approx. { $ 290. 00 } ( residual interest ) not disclosed or ever appearing on any monthly statement. requesting a supervisor just resulted in a very " hard headed'', no flexibility on their part regardless of not being informed of the " residual interest ". to add insult to injury, citi xxxx has treated the " residual interest " as a " purchase balance'' to add on xxxx % interest - even after receiving the { $ 17000. 00 } for the provided balance. thus, adding { $ 130. 00 }, in additional interest. new bill balance is { $ 430. 00 }.'' = = = = = = = = = = = = = i, in turn, tried to resolve over the phone with a c / s representative ( xxxx xxxx xxxx xxxxxxxx ) i requested an internal " complaint / issue'' letter be submitted on my behalf. last week i received a denial letter saying i don't meet their criteria, thus no assistance would be considered or provided.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997292160987854
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9246004,
+  "complaint_id": "9246004",
+  "product": "Credit card",
+  "complaint_what_happened": "Onemain does not include a clear mail policy in the Credit Card User Agreement. They produce invoices which do not allow you to use that particular invoice to submit a payment. I mailed in a credit card payment on XX/XX/year> and it was received by their mailroom ( XXXX XXXX XXXX XXXX MA XXXX ) on XX/XX/year>. The Certified Mail tracking number is XXXX XXXX XXXX XXXX XXXX XXXX, which confirms the payment was indeed received by a person at this address on XX/XX/year>. \n\nOnemain charges late fees but they discriminate by not allowing printable statments that can be used by mail so people who pay with money orders using certified mail can be discouraged from sending payments. Yet, they allow payments by mail but the policy is so arbitrary and not clear.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "96792",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "OneMain Finance Corporation",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Onemain does not include a clear mail policy in the Credit Card User Agreement. They produce invoices which do not allow you to use that particular invoice to submit a payment. I mailed in a credit card payment on XX/XX/year> and it was received by their mailroom ( XXXX XXXX XXXX XXXX MA XXXX ) on XX/XX/year>. The Certified Mail tracking number is XXXX XXXX XXXX XXXX XXXX XXXX, which confirms the payment was indeed received by a person at this address on XX/XX/year>. \n\nOnemain charges late fees but they discriminate by not allowing printable statments that can be used by mail so people who pay with money orders using certified mail can be discouraged from sending payments. Yet, they allow payments by mail but the policy is so arbitrary and not clear."
+}
+
+Chunk:
+onemain does not include a clear mail policy in the credit card user agreement. they produce invoices which do not allow you to use that particular invoice to submit a payment. i mailed in a credit card payment on xx / xx / year > and it was received by their mailroom ( xxxx xxxx xxxx xxxx ma xxxx ) on xx / xx / year >. the certified mail tracking number is xxxx xxxx xxxx xxxx xxxx xxxx, which confirms the payment was indeed received by a person at this address on xx / xx / year >. onemain charges late fees but they discriminate by not allowing printable statments that can be used by mail so people who pay with money orders using certified mail can be discouraged from sending payments. yet, they allow payments by mail but the policy is so arbitrary and not clear.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992396831512451
+}

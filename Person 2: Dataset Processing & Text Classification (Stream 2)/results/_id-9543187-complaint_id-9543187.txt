@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9543187,
+  "complaint_id": "9543187",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened an Amtrak credit card issued by First National Bank Of Omaha XXXX  2024. I applied for the credit card because it was advertised that if {$2000.00} was spent within the first XXXX months ; the credit card holder would receive XXXX bonus points. The promotional advertisement said to APPLY NOW. So I did. After spending over {$2000.00} within the first XXXX months I received XXXX points ( the standard ). The first time I inquired, I was told the bonus points would be issued in increments. Months after not seeing my points on my account ; I contacted FNBO several more times. The last thing I was told was that I signed up on XX/XX/2024 & the promotion started XXXX XXXX, 2024. It was advertised on XXXX XXXX, 2024 that after spending {$2000.00} in the first XXXX  months the new card holder would receive XXXX bonus points. The advertisement stated APPLY NOW. I only applied for this credit card for the XXXX bonus points. This is false advertising ; the old bait & switch. FNBO should honor their promotion and operate their company with integrity & good customer service. I would like the other XXXX points owed to me. A little restitution is the order of the day. Thank you, XXXX XXXX.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10035",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I opened an Amtrak credit card issued by First National Bank Of Omaha XXXX  2024. I applied for the credit card because it was advertised that if {$2000.00} was spent within the first XXXX months ; the credit card holder would receive XXXX bonus points. The promotional advertisement said to APPLY NOW. So I did. After spending over {$2000.00} within the first XXXX months I received XXXX points ( the standard ). The first time I inquired, I was told the bonus points would be issued in increments. Months after not seeing my points on my account ; I contacted FNBO several more times. The last thing I was told was that I signed up on XX/XX/2024 & the promotion started XXXX XXXX, 2024. It was advertised on XXXX XXXX, 2024 that after spending {$2000.00} in the first XXXX  months the new card holder would receive XXXX bonus points. The advertisement stated APPLY NOW. I only applied for this credit card for the XXXX bonus points. This is false advertising ; the old bait & switch. FNBO should honor their promotion and operate their company with integrity & good customer service. I would like the other XXXX points owed to me. A little restitution is the order of the day. Thank you, XXXX XXXX."
+}
+
+Chunk:
+i opened an amtrak credit card issued by first national bank of omaha xxxx 2024. i applied for the credit card because it was advertised that if { $ 2000. 00 } was spent within the first xxxx months ; the credit card holder would receive xxxx bonus points. the promotional advertisement said to apply now. so i did. after spending over { $ 2000. 00 } within the first xxxx months i received xxxx points ( the standard ). the first time i inquired, i was told the bonus points would be issued in increments. months after not seeing my points on my account ; i contacted fnbo several more times. the last thing i was told was that i signed up on xx / xx / 2024 & the promotion started xxxx xxxx, 2024. it was advertised on xxxx xxxx, 2024 that after spending { $ 2000. 00 } in the first xxxx months the new card holder would receive xxxx bonus points. the advertisement stated apply now. i only applied for this credit card for the xxxx bonus points. this is false advertising ; the old bait & switch. fnbo should honor their promotion and operate their company with integrity & good customer service. i would like the other xxxx points owed to me. a little restitution is the order of the day. thank you, xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9787382483482361
+}

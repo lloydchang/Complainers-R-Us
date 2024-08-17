@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9649907,
+  "complaint_id": "9649907",
+  "product": "Credit card",
+  "complaint_what_happened": "I used my Bank of America Visa credit card to pay for the parking at XXXX XXXX in XXXX, MA on XX/XX/year>. The all day parking fee is {$20.00} paid at the entrance. The transaction was posted on my credit card the following day, XX/XX/XXXX. That is when I was able to see that, instead of {$20.00}, I was charged {$200.00}. I suppose it was a typo made by the parking attendant. I immediately filed a dispute with my credit card and explained what happened. The XXXX dispute department requested that I provide a receipt as an evidence. I called XXXX to explain that ( i ) I was not given a receipt, just a parking ticket showing that the parking was paid ( attached ) and ( ii ) even if I had a receipt, it would have shown the amount of {$200.00}, which is incorrect. After spending almost an hour on the phone with the dispute department representative, who kept repeating that without a receipt, they wouldn't be able to approve my claim, I escalated the issue to the supervisor 's level. The supervisor was more helpful ; he suggested that I provide a confirmation from the XXXX XXXX parking that the daily fee is indeed {$20.00}, as an evidence ( attached ). I did provide this and expected a quick resolution after that. Unfortunately, a few days after, I received a notification from XXXX that my claim was denied because I had not provided a receipt. I called the dispute department again and, after spending almost XXXX hours on the phone with the staff ( including the supervisor ), I was not able to get any understanding. Although admitting that a receipt would not be useful to prove my claim, the supervisor refused to consider anything else and to help in resolution of the case. \nEffectively, the credit card company sided with the vendor, refusing to accept that the vendor could have made a mistake and making a customer pay for this mistake. While my case doesn't seem that unusual - anybody could make a typo- the credit card company apparently doesn't have a solution for helping customers to correct this. A price confirmation from a vendor should be a valid evidence to rectify an erroneous transaction, but the XXXX doesn't seem to be interested in being helpful to its clients. \nAfter failing to get any resolution from XXXX, I also tried to contact XXXX XXXX parking, but have not succeeded.",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20854",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-29T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I used my Bank of America Visa credit card to pay for the parking at XXXX XXXX in XXXX, MA on XX/XX/year>. The all day parking fee is {$20.00} paid at the entrance. The transaction was posted on my credit card the following day, XX/XX/XXXX. That is when I was able to see that, instead of {$20.00}, I was charged {$200.00}. I suppose it was a typo made by the parking attendant. I immediately filed a dispute with my credit card and explained what happened. The XXXX dispute department requested that I provide a receipt as an evidence. I called XXXX to explain that ( i ) I was not given a receipt, just a parking ticket showing that the parking was paid ( attached ) and ( ii ) even if I had a receipt, it would have shown the amount of {$200.00}, which is incorrect. After spending almost an hour on the phone with the dispute department representative, who kept repeating that without a receipt, they wouldn't be able to approve my claim, I escalated the issue to the supervisor 's level. The supervisor was more helpful ; he suggested that I provide a confirmation from the XXXX XXXX parking that the daily fee is indeed {$20.00}, as an evidence ( attached ). I did provide this and expected a quick resolution after that. Unfortunately, a few days after, I received a notification from XXXX that my claim was denied because I had not provided a receipt. I called the dispute department again and, after spending almost XXXX hours on the phone with the staff ( including the supervisor ), I was not able to get any understanding. Although admitting that a receipt would not be useful to prove my claim, the supervisor refused to consider anything else and to help in resolution of the case. \nEffectively, the credit card company sided with the vendor, refusing to accept that the vendor could have made a mistake and making a customer pay for this mistake. While my case doesn't seem that unusual - anybody could make a typo- the credit card company apparently doesn't have a solution for helping customers to correct this. A price confirmation from a vendor should be a valid evidence to rectify an erroneous transaction, but the XXXX doesn't seem to be interested in being helpful to its clients. \nAfter failing to get any resolution from XXXX, I also tried to contact XXXX XXXX parking, but have not succeeded."
+}
+
+Chunk:
+but have not succeeded.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9910249710083008
+}

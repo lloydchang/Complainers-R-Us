@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9241439,
+  "complaint_id": "9241439",
+  "product": "Credit card",
+  "complaint_what_happened": "Order a pair of shoes online and had delivered to the XXXX XXXX XXXX location in XXXX XXXX XXXX, near me. Shoes arrived damaged so I contacted the merchant to return the shoes. I shipped the shoes back, merchant confirmed receipt but then claimed while the shoes would have been in transit, I also exchanged the same pair of shoes at a XXXX XXXX XXXX location in a totally different state. Merchant is in receipt of the shoes based on the tracking details. It appears from a receipt someone has exchanged another pair of shoes to my credit card while not present. I live in XXXX XXXX, the exchange was made in XXXX XXXX XXXX  at the same time the shoes were in transit to this store. Ive never been to that store or received another pair of shoes from this merchant. There is no additional shoe showing on my statement or the exchange transaction. my card was never present at another store and I never received the refund for the shoe I shipped back to the merchant. They have been refusing to resolve.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "19120",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Order a pair of shoes online and had delivered to the XXXX XXXX XXXX location in XXXX XXXX XXXX, near me. Shoes arrived damaged so I contacted the merchant to return the shoes. I shipped the shoes back, merchant confirmed receipt but then claimed while the shoes would have been in transit, I also exchanged the same pair of shoes at a XXXX XXXX XXXX location in a totally different state. Merchant is in receipt of the shoes based on the tracking details. It appears from a receipt someone has exchanged another pair of shoes to my credit card while not present. I live in XXXX XXXX, the exchange was made in XXXX XXXX XXXX  at the same time the shoes were in transit to this store. Ive never been to that store or received another pair of shoes from this merchant. There is no additional shoe showing on my statement or the exchange transaction. my card was never present at another store and I never received the refund for the shoe I shipped back to the merchant. They have been refusing to resolve."
+}
+
+Chunk:
+order a pair of shoes online and had delivered to the xxxx xxxx xxxx location in xxxx xxxx xxxx, near me. shoes arrived damaged so i contacted the merchant to return the shoes. i shipped the shoes back, merchant confirmed receipt but then claimed while the shoes would have been in transit, i also exchanged the same pair of shoes at a xxxx xxxx xxxx location in a totally different state. merchant is in receipt of the shoes based on the tracking details. it appears from a receipt someone has exchanged another pair of shoes to my credit card while not present. i live in xxxx xxxx, the exchange was made in xxxx xxxx xxxx at the same time the shoes were in transit to this store. ive never been to that store or received another pair of shoes from this merchant. there is no additional shoe showing on my statement or the exchange transaction. my card was never present at another store and i never received the refund for the shoe i shipped back to the merchant. they have been refusing to resolve.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992262125015259
+}

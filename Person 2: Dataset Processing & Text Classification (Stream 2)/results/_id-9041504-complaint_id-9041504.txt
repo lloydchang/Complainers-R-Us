@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041504,
+  "complaint_id": "9041504",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX XXXX, FL XXXX SSN : XXXX XXXX : XX/XX/XXXX XX/XX/XXXX Regions Bank XXXX XXXX XXXX XXXX XXXX XXXX AL XXXX Subject : Request for XXXX Paperwork for Charged Off Debt Account Number ( XXXX ) Dear Sir/Madam, I hope this letter finds you well. I am writing to request XXXX99 paperwork for a charged off debt account number associated with my account. The account number in question is XXXX. \nAs a responsible taxpayer, it is essential for me to ensure that all relevant tax documents are accurately filed. Given the change in the status of this debt account, I kindly request that Regions Bank provide me with the necessary 1099-C paperwork at your earliest convenience. \nPlease find the details of the account below : Account Holder Name : XXXX XXXX XXXX Account Number : XXXX I would appreciate it if you could expedite this request to ensure that I have ample time to include this information in my tax filings for the current year. If there are any additional forms or procedures required from my end to facilitate this process, please do not hesitate to inform me. \nYou can reach me at ( XXXX ] if there are any questions or if further information is needed regarding this matter. \nThank you for your prompt attention to this request. I look forward to receiving the necessary paperwork from Regions Bank soon. \nYours sincerely, XXXX XXXX XXXX XXXX : Consumer Financial Protection Bureau ( CFPB ) XXXX XXXX, P.A., XXXX XXXX XXXX, XXXX XXXX XXXX, FL XXXX",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33322",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "REGIONS FINANCIAL CORPORATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX XXXX, FL XXXX SSN : XXXX XXXX : XX/XX/XXXX XX/XX/XXXX Regions Bank XXXX XXXX XXXX XXXX XXXX XXXX AL XXXX Subject : Request for XXXX Paperwork for Charged Off Debt Account Number ( XXXX ) Dear Sir/Madam, I hope this letter finds you well. I am writing to request XXXX99 paperwork for a charged off debt account number associated with my account. The account number in question is XXXX. \nAs a responsible taxpayer, it is essential for me to ensure that all relevant tax documents are accurately filed. Given the change in the status of this debt account, I kindly request that Regions Bank provide me with the necessary 1099-C paperwork at your earliest convenience. \nPlease find the details of the account below : Account Holder Name : XXXX XXXX XXXX Account Number : XXXX I would appreciate it if you could expedite this request to ensure that I have ample time to include this information in my tax filings for the current year. If there are any additional forms or procedures required from my end to facilitate this process, please do not hesitate to inform me. \nYou can reach me at ( XXXX ] if there are any questions or if further information is needed regarding this matter. \nThank you for your prompt attention to this request. I look forward to receiving the necessary paperwork from Regions Bank soon. \nYours sincerely, XXXX XXXX XXXX XXXX : Consumer Financial Protection Bureau ( CFPB ) XXXX XXXX, P.A., XXXX XXXX XXXX, XXXX XXXX XXXX, FL XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx, fl xxxx ssn : xxxx xxxx : xx / xx / xxxx xx / xx / xxxx regions bank xxxx xxxx xxxx xxxx xxxx xxxx al xxxx subject : request for xxxx paperwork for charged off debt account number ( xxxx ) dear sir / madam, i hope this letter finds you well. i am writing to request xxxx99 paperwork for a charged off debt account number associated with my account. the account number in question is xxxx. as a responsible taxpayer, it is essential for me to ensure that all relevant tax documents are accurately filed. given the change in the status of this debt account, i kindly request that regions bank provide me with the necessary 1099 - c paperwork at your earliest convenience. please find the details of the account below : account holder name : xxxx xxxx xxxx account number : xxxx i would appreciate it if you could expedite this request to ensure that i have ample time to include this information in my tax filings for the current year. if there are any additional forms or procedures required from my end to facilitate this process, please do not hesitate to inform me. you can reach me at ( xxxx ] if there are any questions or if further information is needed regarding this matter. thank you for your prompt attention to this request. i look forward to receiving the necessary paperwork from regions bank soon. yours sincerely, xxxx xxxx xxxx xxxx : consumer financial protection bureau ( cfpb ) xxxx xxxx, p. a., xxxx xxxx xxxx, xxxx xxxx xxxx, fl xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9823281764984131
+}

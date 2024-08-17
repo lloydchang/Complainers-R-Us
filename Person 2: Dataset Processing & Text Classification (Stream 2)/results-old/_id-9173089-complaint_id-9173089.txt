@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173089,
+  "complaint_id": "9173089",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/scrub> 2024, I received XXXX ( XXXX ) separate letters from XXXX XXXX indicating my applications for credit cards were denied. However, I never applied for a credit card. I called the company on the phone number on their website to report the fraud. The representative told me they would investigate and get back to me in 60 days. The applications were for XXXX Destiny Mastercard and XXXX Milestone Mastercards.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "344XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/scrub> 2024, I received XXXX ( XXXX ) separate letters from XXXX XXXX indicating my applications for credit cards were denied. However, I never applied for a credit card. I called the company on the phone number on their website to report the fraud. The representative told me they would investigate and get back to me in 60 days. The applications were for XXXX Destiny Mastercard and XXXX Milestone Mastercards."
+}
+
+Chunk:
+on xx / xx / scrub > 2024, i received xxxx ( xxxx ) separate letters from xxxx xxxx indicating my applications for credit cards were denied. however, i never applied for a credit card. i called the company on the phone number on their website to report the fraud. the representative told me they would investigate and get back to me in 60 days. the applications were for xxxx destiny mastercard and xxxx milestone mastercards.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9939939379692078
+}

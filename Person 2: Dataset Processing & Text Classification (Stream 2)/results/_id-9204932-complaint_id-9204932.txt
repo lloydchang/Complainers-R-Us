@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204932,
+  "complaint_id": "9204932",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, my account with Home Depot consumer credit card by Citibank XXXX. was closed. I had called to see what I can do and it was explained to me the account was closed. No notice from them but on their site to make payments. I called at the end of XXXX to set up an autopay for the remainder of the balance for {$100.00} on the XXXX of each month. Spent XXXX mins on the phone setting it up and was even told that the last payment was going to be slightly more but I had time to change it if I wanted to. I explained that it was fine to keep it where it was and that when I get to the end of the pay back I would make an extra payment if need be. The XXXX, read me all the fine print about the autopay and I agreed to it. First payment came out on XX/XX/XXXX and that was it. XXXX today when I received a collection notice from XXXX XXXX XXXX. I called to explain that I had an autopay set up and wasnt sure why I received this letter. They told me to call Citibank back and try to figure this out with them. I called Citibank back and was told, autopay was cancelled. I asked by who ... .they dont know. I asked them to review the recorded conversation. They wouldnt do that. I asked to speak to a supervisor, was told there was nothing they can do. So now I have been sent to collections on something that I took care of XXXX months ago. Not once did the XXXX from Citibank look into the matter just kept telling me its out of their hands. I asked why no letter was sent, was told they dont do that. I asked again, why was it cancelled ... .and she did not know. Now I am sent to collections and have this reflected on my credit report on something I actually set up to pay.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "Store credit card",
+  "zip_code": "32837",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "In XX/XX/XXXX, my account with Home Depot consumer credit card by Citibank XXXX. was closed. I had called to see what I can do and it was explained to me the account was closed. No notice from them but on their site to make payments. I called at the end of XXXX to set up an autopay for the remainder of the balance for {$100.00} on the XXXX of each month. Spent XXXX mins on the phone setting it up and was even told that the last payment was going to be slightly more but I had time to change it if I wanted to. I explained that it was fine to keep it where it was and that when I get to the end of the pay back I would make an extra payment if need be. The XXXX, read me all the fine print about the autopay and I agreed to it. First payment came out on XX/XX/XXXX and that was it. XXXX today when I received a collection notice from XXXX XXXX XXXX. I called to explain that I had an autopay set up and wasnt sure why I received this letter. They told me to call Citibank back and try to figure this out with them. I called Citibank back and was told, autopay was cancelled. I asked by who ... .they dont know. I asked them to review the recorded conversation. They wouldnt do that. I asked to speak to a supervisor, was told there was nothing they can do. So now I have been sent to collections on something that I took care of XXXX months ago. Not once did the XXXX from Citibank look into the matter just kept telling me its out of their hands. I asked why no letter was sent, was told they dont do that. I asked again, why was it cancelled ... .and she did not know. Now I am sent to collections and have this reflected on my credit report on something I actually set up to pay."
+}
+
+Chunk:
+in xx / xx / xxxx, my account with home depot consumer credit card by citibank xxxx. was closed. i had called to see what i can do and it was explained to me the account was closed. no notice from them but on their site to make payments. i called at the end of xxxx to set up an autopay for the remainder of the balance for { $ 100. 00 } on the xxxx of each month. spent xxxx mins on the phone setting it up and was even told that the last payment was going to be slightly more but i had time to change it if i wanted to. i explained that it was fine to keep it where it was and that when i get to the end of the pay back i would make an extra payment if need be. the xxxx, read me all the fine print about the autopay and i agreed to it. first payment came out on xx / xx / xxxx and that was it. xxxx today when i received a collection notice from xxxx xxxx xxxx. i called to explain that i had an autopay set up and wasnt sure why i received this letter. they told me to call citibank back and try to figure this out with them. i called citibank back and was told, autopay was cancelled. i asked by who.... they dont know. i asked them to review the recorded conversation. they wouldnt do that. i asked to speak to a supervisor, was told there was nothing they can do. so now i have been sent to collections on something that i took care of xxxx months ago. not once did the xxxx from citibank look into the matter just kept telling me its out of their hands. i asked why no letter was sent, was told they dont do that. i asked again, why was it cancelled.... and she did not know. now i am sent to collections and have this reflected on my credit report on something i actually set up to pay.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985858201980591
+}

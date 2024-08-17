@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9480486,
+  "complaint_id": "9480486",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged an annual renewal fee for my XXXX XXXX XXXX card before a year was up. I had planned to cancel this card before a year had elapsed ( XX/XX/XXXX ). \n\nWhen I asked to have the fee refuneded because a year had not elapsed, the bank ( citibank ) said a standard policy was to switch the card over to a free version and refund the unduly charged fee. \n\nHowever, upon proceeding, after the conversion, I was told the refund the {$99.00} annual fee would take XXXX  days to refund! No information would be provided on why the refund duration was so long no matter how the question was asked. I think a fee refund that takes over XXXX billing cycle should not be allowed because it allows the bank to keep the funds hostage as a statement or negative balance on the card.",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27705",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I was charged an annual renewal fee for my XXXX XXXX XXXX card before a year was up. I had planned to cancel this card before a year had elapsed ( XX/XX/XXXX ). \n\nWhen I asked to have the fee refuneded because a year had not elapsed, the bank ( citibank ) said a standard policy was to switch the card over to a free version and refund the unduly charged fee. \n\nHowever, upon proceeding, after the conversion, I was told the refund the {$99.00} annual fee would take XXXX  days to refund! No information would be provided on why the refund duration was so long no matter how the question was asked. I think a fee refund that takes over XXXX billing cycle should not be allowed because it allows the bank to keep the funds hostage as a statement or negative balance on the card."
+}
+
+Chunk:
+i was charged an annual renewal fee for my xxxx xxxx xxxx card before a year was up. i had planned to cancel this card before a year had elapsed ( xx / xx / xxxx ). when i asked to have the fee refuneded because a year had not elapsed, the bank ( citibank ) said a standard policy was to switch the card over to a free version and refund the unduly charged fee. however, upon proceeding, after the conversion, i was told the refund the { $ 99. 00 } annual fee would take xxxx days to refund! no information would be provided on why the refund duration was so long no matter how the question was asked. i think a fee refund that takes over xxxx billing cycle should not be allowed because it allows the bank to keep the funds hostage as a statement or negative balance on the card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995580315589905
+}

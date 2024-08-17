@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042006,
+  "complaint_id": "9042006",
+  "product": "Credit card",
+  "complaint_what_happened": "Hi cash app wont allow me to have a account with them they said its restricted now how can I file a dispute with them to unlock it",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "141XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Block, Inc.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Delay in processing application",
+  "text": "Hi cash app wont allow me to have a account with them they said its restricted now how can I file a dispute with them to unlock it"
+}
+
+Chunk:
+hi cash app wont allow me to have a account with them they said its restricted now how can i file a dispute with them to unlock it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.5753281712532043
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041512,
+  "complaint_id": "9041512",
+  "product": "Credit card",
+  "complaint_what_happened": "Kolh 's is sending statements after bills are due. After my first complaint they said they would refund my late fee, but have not and they continue to send out statements to people after the bill is do They are also doing this to other people. Federal law requires statements to be sent out statements 21 days before the bill is due and they are not doing this.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "51503",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "IA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Kolh 's is sending statements after bills are due. After my first complaint they said they would refund my late fee, but have not and they continue to send out statements to people after the bill is do They are also doing this to other people. Federal law requires statements to be sent out statements 21 days before the bill is due and they are not doing this."
+}
+
+Chunk:
+kolh's is sending statements after bills are due. after my first complaint they said they would refund my late fee, but have not and they continue to send out statements to people after the bill is do they are also doing this to other people. federal law requires statements to be sent out statements 21 days before the bill is due and they are not doing this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9955768585205078
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9047218,
+  "complaint_id": "9047218",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a mistake paying {$5000.00} to Capital One credit card company. On XX/XX/XXXX, we called and stated the mistake. Their call center said that they will issue a check. After XXXX  days, XX/XX/XXXX, we did a follow up. We were told that it wasn't processed. We accepted our fate and were told to wait XXXX. It's now XX/XX/XXXX, we did another follow up and were told that they didn't process the issuance of the check coz it's too early on XX/XX/XXXX. So I asked the assigned XXXX named XXXX XXXX badge # XXXX ) what about XX/XX/XXXX? I didn't call just to say Hi? He couldn't tell me the history on that conversation for that date. But confirmed that a call was processed. It also clearly stated that it's a recorded conversation. Now he's telling me to wait another 10 days. It's not fair for that company to hold on to that money for this long while the other account is accumulating daily APR. We're retirees and money is tight for us. Their incompetence cost us great deal, financially and emotionally. Everyday waiting for that check to arrive. He even refused to expedite our request and insisted nothing he could do for \" their '' mistake. I'm extremely disappointed.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92543",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with customer service",
+  "text": "I made a mistake paying {$5000.00} to Capital One credit card company. On XX/XX/XXXX, we called and stated the mistake. Their call center said that they will issue a check. After XXXX  days, XX/XX/XXXX, we did a follow up. We were told that it wasn't processed. We accepted our fate and were told to wait XXXX. It's now XX/XX/XXXX, we did another follow up and were told that they didn't process the issuance of the check coz it's too early on XX/XX/XXXX. So I asked the assigned XXXX named XXXX XXXX badge # XXXX ) what about XX/XX/XXXX? I didn't call just to say Hi? He couldn't tell me the history on that conversation for that date. But confirmed that a call was processed. It also clearly stated that it's a recorded conversation. Now he's telling me to wait another 10 days. It's not fair for that company to hold on to that money for this long while the other account is accumulating daily APR. We're retirees and money is tight for us. Their incompetence cost us great deal, financially and emotionally. Everyday waiting for that check to arrive. He even refused to expedite our request and insisted nothing he could do for \" their '' mistake. I'm extremely disappointed."
+}
+
+Chunk:
+i made a mistake paying { $ 5000. 00 } to capital one credit card company. on xx / xx / xxxx, we called and stated the mistake. their call center said that they will issue a check. after xxxx days, xx / xx / xxxx, we did a follow up. we were told that it wasn't processed. we accepted our fate and were told to wait xxxx. it's now xx / xx / xxxx, we did another follow up and were told that they didn't process the issuance of the check coz it's too early on xx / xx / xxxx. so i asked the assigned xxxx named xxxx xxxx badge # xxxx ) what about xx / xx / xxxx? i didn't call just to say hi? he couldn't tell me the history on that conversation for that date. but confirmed that a call was processed. it also clearly stated that it's a recorded conversation. now he's telling me to wait another 10 days. it's not fair for that company to hold on to that money for this long while the other account is accumulating daily apr. we're retirees and money is tight for us. their incompetence cost us great deal, financially and emotionally. everyday waiting for that check to arrive. he even refused to expedite our request and insisted nothing he could do for " their'' mistake. i'm extremely disappointed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989705085754395
+}

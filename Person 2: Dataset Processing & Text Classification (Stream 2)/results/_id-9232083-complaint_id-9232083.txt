@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9232083,
+  "complaint_id": "9232083",
+  "product": "Credit card",
+  "complaint_what_happened": "I inadvertently double paid my balance for my Bank of America card ending in XXXX on XXXX and XXXX. Upon seeing the XXXX charge hit my bank account on XXXX, I immediately called Bank of America and requested that they refund the over-payment. They said it would take XXXX days to process. The credit on my card disappeared immediately after the call on XX/XX/year>, and my account since shows \" ACH credit refund '' dated XX/XX/year>. I waited XXXX days, called on XX/XX/year> and they said that there must be an issue, and they would \" reprocess '' the refund, and advised me to wait another XXXX  days. After XXXX  days ( XX/XX/XXXX ) I called back again and was told that XXXX days wasn't correct, that it would be XXXX business days. It is now XX/XX/year>, and has now been XXXX business days since that call and I still do not have a refund. \nI am now on hold with this company again. It has been XXXX weeks since they removed the credit balance from my credit card, and I still do not have a refund. I paid both payments via ACH, and asked that the refund be back to the same account from which I made the payments, and asked for the refund via ACH as I was told that would be the fastest way to receive my refund.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "723XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I inadvertently double paid my balance for my Bank of America card ending in XXXX on XXXX and XXXX. Upon seeing the XXXX charge hit my bank account on XXXX, I immediately called Bank of America and requested that they refund the over-payment. They said it would take XXXX days to process. The credit on my card disappeared immediately after the call on XX/XX/year>, and my account since shows \" ACH credit refund '' dated XX/XX/year>. I waited XXXX days, called on XX/XX/year> and they said that there must be an issue, and they would \" reprocess '' the refund, and advised me to wait another XXXX  days. After XXXX  days ( XX/XX/XXXX ) I called back again and was told that XXXX days wasn't correct, that it would be XXXX business days. It is now XX/XX/year>, and has now been XXXX business days since that call and I still do not have a refund. \nI am now on hold with this company again. It has been XXXX weeks since they removed the credit balance from my credit card, and I still do not have a refund. I paid both payments via ACH, and asked that the refund be back to the same account from which I made the payments, and asked for the refund via ACH as I was told that would be the fastest way to receive my refund."
+}
+
+Chunk:
+i inadvertently double paid my balance for my bank of america card ending in xxxx on xxxx and xxxx. upon seeing the xxxx charge hit my bank account on xxxx, i immediately called bank of america and requested that they refund the over - payment. they said it would take xxxx days to process. the credit on my card disappeared immediately after the call on xx / xx / year >, and my account since shows " ach credit refund'' dated xx / xx / year >. i waited xxxx days, called on xx / xx / year > and they said that there must be an issue, and they would " reprocess'' the refund, and advised me to wait another xxxx days. after xxxx days ( xx / xx / xxxx ) i called back again and was told that xxxx days wasn't correct, that it would be xxxx business days. it is now xx / xx / year >, and has now been xxxx business days since that call and i still do not have a refund. i am now on hold with this company again. it has been xxxx weeks since they removed the credit balance from my credit card, and i still do not have a refund. i paid both payments via ach, and asked that the refund be back to the same account from which i made the payments, and asked for the refund via ach as i was told that would be the fastest way to receive my refund.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993335604667664
+}

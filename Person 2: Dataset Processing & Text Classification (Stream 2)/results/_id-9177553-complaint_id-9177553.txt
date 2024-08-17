@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9177553,
+  "complaint_id": "9177553",
+  "product": "Credit card",
+  "complaint_what_happened": "All three of my accounts with Chase bank were closed by the company in late 2023. I received an email notification that the business credit card that was under my SSN was closed on or before XX/XX/year> with notes requesting flexible payment options but no prior notice of account pending closure. \n\nDuring the same timespan, my XXXX personal credit cards with Chase were closed in relation to the business account. I spoke with multiple agents when I called inquiring about the company closing the account - the reason sited on the call being due to delinquency on the business account despite making on-time payments on the personal cards, but to no avail I was informed nothing could be done and there was no one additional to speak to regarding the matter upon request. I was informed that I would receive an explanation in the mail that was \" never '' received which violates Part XXXX of Regulation B. The agent did provide the reason \" orally '' but written documentation was not provided even though I was told it would be sent in the mail. \n\nAfter researching 12 CFR 1002 Equal Opportunity Credit Act ( Regulation B ), I understood Chase Bank took \" adverse action '' against the accounts I had with them by terminating. Due to the actions willfully taken with no intent to correct, Chase 's action are viewed as discrimination against me.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "38118",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "All three of my accounts with Chase bank were closed by the company in late 2023. I received an email notification that the business credit card that was under my SSN was closed on or before XX/XX/year> with notes requesting flexible payment options but no prior notice of account pending closure. \n\nDuring the same timespan, my XXXX personal credit cards with Chase were closed in relation to the business account. I spoke with multiple agents when I called inquiring about the company closing the account - the reason sited on the call being due to delinquency on the business account despite making on-time payments on the personal cards, but to no avail I was informed nothing could be done and there was no one additional to speak to regarding the matter upon request. I was informed that I would receive an explanation in the mail that was \" never '' received which violates Part XXXX of Regulation B. The agent did provide the reason \" orally '' but written documentation was not provided even though I was told it would be sent in the mail. \n\nAfter researching 12 CFR 1002 Equal Opportunity Credit Act ( Regulation B ), I understood Chase Bank took \" adverse action '' against the accounts I had with them by terminating. Due to the actions willfully taken with no intent to correct, Chase 's action are viewed as discrimination against me."
+}
+
+Chunk:
+all three of my accounts with chase bank were closed by the company in late 2023. i received an email notification that the business credit card that was under my ssn was closed on or before xx / xx / year > with notes requesting flexible payment options but no prior notice of account pending closure. during the same timespan, my xxxx personal credit cards with chase were closed in relation to the business account. i spoke with multiple agents when i called inquiring about the company closing the account - the reason sited on the call being due to delinquency on the business account despite making on - time payments on the personal cards, but to no avail i was informed nothing could be done and there was no one additional to speak to regarding the matter upon request. i was informed that i would receive an explanation in the mail that was " never'' received which violates part xxxx of regulation b. the agent did provide the reason " orally'' but written documentation was not provided even though i was told it would be sent in the mail. after researching 12 cfr 1002 equal opportunity credit act ( regulation b ), i understood chase bank took " adverse action'' against the accounts i had with them by terminating. due to the actions willfully taken with no intent to correct, chase's action are viewed as discrimination against me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989476799964905
+}

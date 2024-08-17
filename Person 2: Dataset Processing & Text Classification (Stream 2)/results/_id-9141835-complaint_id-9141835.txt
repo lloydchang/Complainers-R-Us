@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9141835,
+  "complaint_id": "9141835",
+  "product": "Credit card",
+  "complaint_what_happened": "I WAS DENIED CREDIT CARD FOR AMERICAN EXPRESS.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75126",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I WAS DENIED CREDIT CARD FOR AMERICAN EXPRESS."
+}
+
+Chunk:
+i was denied credit card for american express.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980217218399048
+}

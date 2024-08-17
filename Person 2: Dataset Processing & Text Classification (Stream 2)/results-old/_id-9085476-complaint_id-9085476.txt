@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085476,
+  "complaint_id": "9085476",
+  "product": "Credit card",
+  "complaint_what_happened": "This company advertised a credit line and credit reporting & 2 months free with purchase of a membership I purchased the membership with that promise and never received a service! I reached out to the company multiple times they have no working phone number. I have went through great emotional distress over this.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "53216",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TomoCredit Inc.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "This company advertised a credit line and credit reporting & 2 months free with purchase of a membership I purchased the membership with that promise and never received a service! I reached out to the company multiple times they have no working phone number. I have went through great emotional distress over this."
+}
+
+Chunk:
+this company advertised a credit line and credit reporting & 2 months free with purchase of a membership i purchased the membership with that promise and never received a service! i reached out to the company multiple times they have no working phone number. i have went through great emotional distress over this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973527193069458
+}

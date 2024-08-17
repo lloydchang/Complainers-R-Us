@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9306351,
+  "complaint_id": "9306351",
+  "product": "Credit card",
+  "complaint_what_happened": "I was sent a Home Depot Store Credit Card ( Account Number : XXXX ) that I didn't apply for about 4 weeks ago. The day after I received it, I called their fraud department, as on the pamphlet that came with the card, it indicated a \" Fraud Protection Guarantee '' that saves me from any liability on unauthorized charges. When calling them, I spoke to a representative who said that there will be an investigation but my account will be closed and I would not be responsible for the {$600.00} balance that the card apparently had. \n\nThen, 2 days ago ( XX/XX/year> ), I received a letter in the mail from Home Depot regarding my fraud claim. They concluded that I am responsible for the account and the charges and that I opened the account. I never made the account nor spent {$600.00} at Home Depot with the card.\n\nAdditionally, the same day I received the Home Depot card, I received a XXXX XXXX XXXX. So, someone must have made multiple accounts in my name at both XXXX and Home Depot that day.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "I was sent a Home Depot Store Credit Card ( Account Number : XXXX ) that I didn't apply for about 4 weeks ago. The day after I received it, I called their fraud department, as on the pamphlet that came with the card, it indicated a \" Fraud Protection Guarantee '' that saves me from any liability on unauthorized charges. When calling them, I spoke to a representative who said that there will be an investigation but my account will be closed and I would not be responsible for the {$600.00} balance that the card apparently had. \n\nThen, 2 days ago ( XX/XX/year> ), I received a letter in the mail from Home Depot regarding my fraud claim. They concluded that I am responsible for the account and the charges and that I opened the account. I never made the account nor spent {$600.00} at Home Depot with the card.\n\nAdditionally, the same day I received the Home Depot card, I received a XXXX XXXX XXXX. So, someone must have made multiple accounts in my name at both XXXX and Home Depot that day."
+}
+
+Chunk:
+i was sent a home depot store credit card ( account number : xxxx ) that i didn't apply for about 4 weeks ago. the day after i received it, i called their fraud department, as on the pamphlet that came with the card, it indicated a " fraud protection guarantee'' that saves me from any liability on unauthorized charges. when calling them, i spoke to a representative who said that there will be an investigation but my account will be closed and i would not be responsible for the { $ 600. 00 } balance that the card apparently had. then, 2 days ago ( xx / xx / year > ), i received a letter in the mail from home depot regarding my fraud claim. they concluded that i am responsible for the account and the charges and that i opened the account. i never made the account nor spent { $ 600. 00 } at home depot with the card. additionally, the same day i received the home depot card, i received a xxxx xxxx xxxx. so, someone must have made multiple accounts in my name at both xxxx and home depot that day.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989175796508789
+}

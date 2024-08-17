@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9098946,
+  "complaint_id": "9098946",
+  "product": "Credit card",
+  "complaint_what_happened": "JP Morgan Chase XXXX XXXX ending in XXXX total points of XXXX for statement closing date XX/XX/XXXX - XX/XX/XXXX was not transferred to my XXXX account number again. \n\nPlease see CFPB complaint XXXX",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "JP Morgan Chase XXXX XXXX ending in XXXX total points of XXXX for statement closing date XX/XX/XXXX - XX/XX/XXXX was not transferred to my XXXX account number again. \n\nPlease see CFPB complaint XXXX"
+}
+
+Chunk:
+jp morgan chase xxxx xxxx ending in xxxx total points of xxxx for statement closing date xx / xx / xxxx - xx / xx / xxxx was not transferred to my xxxx account number again. please see cfpb complaint xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9921775460243225
+}

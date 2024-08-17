@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9544987,
+  "complaint_id": "9544987",
+  "product": "Credit card",
+  "complaint_what_happened": "pymt was made on time not pying late fees or inst chg",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "763XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with fees",
+  "text": "pymt was made on time not pying late fees or inst chg"
+}
+
+Chunk:
+pymt was made on time not pying late fees or inst chg
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982977509498596
+}

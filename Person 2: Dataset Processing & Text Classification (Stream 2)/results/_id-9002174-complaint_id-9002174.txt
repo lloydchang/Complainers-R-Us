@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9002174,
+  "complaint_id": "9002174",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an inquiry from SYNCB/AMAZON on my XXXX credit report. This is a hard pull and I no association with this company and I have never asked for any kind of services, nor asked to open an account with them. XXXX asked me to submit a report here and get a letter so they could remove it.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have an inquiry from SYNCB/AMAZON on my XXXX credit report. This is a hard pull and I no association with this company and I have never asked for any kind of services, nor asked to open an account with them. XXXX asked me to submit a report here and get a letter so they could remove it."
+}
+
+Chunk:
+i have an inquiry from syncb / amazon on my xxxx credit report. this is a hard pull and i no association with this company and i have never asked for any kind of services, nor asked to open an account with them. xxxx asked me to submit a report here and get a letter so they could remove it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998530387878418
+}

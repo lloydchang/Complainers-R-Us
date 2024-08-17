@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9397134,
+  "complaint_id": "9397134",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear CFPB, I am writing to seek your assistance with a matter concerning Wells Fargo Bank. Despite my efforts to resolve a dispute through the banks designated channels, I have encountered a series of challenges that suggest a deliberate neglect of my case. \n\nAfter initiating a dispute on XX/XX/XXXX and today I provided all necessary evidence to support my claim. However, instead of processing my dispute, Wells Fargo Bank has repeatedly requested that I call back and resubmit the same evidence, which I have already provided. This cycle has been ongoing, and each time I am assured that my evidence will be reviewed, only to be asked for it again later. \n\nThis pattern of behavior from Wells Fargo Bank is not only unprofessional but also feels like harassment. It appears to be an intentional tactic to delay and possibly deny the resolution of my dispute without just cause. \n\nTherefore, I am turning to the CFPB to request an intervention in this matter. I believe that Wells Fargo Banks actions are in violation of fair dispute resolution practices, and I seek your guidance on how to proceed to ensure that my dispute is handled appropriately and justly. \n\nEnclosed, please find copies of all the evidence and correspondence I have submitted to Wells Fargo Bank thus far. I am hopeful that with your involvement, this matter can be resolved swiftly and fairly. \n\nI look forward to your prompt response and thank you in advance for your attention to this urgent matter. \n\nSincerely,",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Dear CFPB, I am writing to seek your assistance with a matter concerning Wells Fargo Bank. Despite my efforts to resolve a dispute through the banks designated channels, I have encountered a series of challenges that suggest a deliberate neglect of my case. \n\nAfter initiating a dispute on XX/XX/XXXX and today I provided all necessary evidence to support my claim. However, instead of processing my dispute, Wells Fargo Bank has repeatedly requested that I call back and resubmit the same evidence, which I have already provided. This cycle has been ongoing, and each time I am assured that my evidence will be reviewed, only to be asked for it again later. \n\nThis pattern of behavior from Wells Fargo Bank is not only unprofessional but also feels like harassment. It appears to be an intentional tactic to delay and possibly deny the resolution of my dispute without just cause. \n\nTherefore, I am turning to the CFPB to request an intervention in this matter. I believe that Wells Fargo Banks actions are in violation of fair dispute resolution practices, and I seek your guidance on how to proceed to ensure that my dispute is handled appropriately and justly. \n\nEnclosed, please find copies of all the evidence and correspondence I have submitted to Wells Fargo Bank thus far. I am hopeful that with your involvement, this matter can be resolved swiftly and fairly. \n\nI look forward to your prompt response and thank you in advance for your attention to this urgent matter. \n\nSincerely,"
+}
+
+Chunk:
+dear cfpb, i am writing to seek your assistance with a matter concerning wells fargo bank. despite my efforts to resolve a dispute through the banks designated channels, i have encountered a series of challenges that suggest a deliberate neglect of my case. after initiating a dispute on xx / xx / xxxx and today i provided all necessary evidence to support my claim. however, instead of processing my dispute, wells fargo bank has repeatedly requested that i call back and resubmit the same evidence, which i have already provided. this cycle has been ongoing, and each time i am assured that my evidence will be reviewed, only to be asked for it again later. this pattern of behavior from wells fargo bank is not only unprofessional but also feels like harassment. it appears to be an intentional tactic to delay and possibly deny the resolution of my dispute without just cause. therefore, i am turning to the cfpb to request an intervention in this matter. i believe that wells fargo banks actions are in violation of fair dispute resolution practices, and i seek your guidance on how to proceed to ensure that my dispute is handled appropriately and justly. enclosed, please find copies of all the evidence and correspondence i have submitted to wells fargo bank thus far. i am hopeful that with your involvement, this matter can be resolved swiftly and fairly. i look forward to your prompt response and thank you in advance for your attention to this urgent matter. sincerely,
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.7880232334136963
+}

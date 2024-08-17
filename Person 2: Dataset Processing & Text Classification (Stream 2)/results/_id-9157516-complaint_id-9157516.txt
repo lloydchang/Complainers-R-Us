@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9157516,
+  "complaint_id": "9157516",
+  "product": "Credit card",
+  "complaint_what_happened": "I never miss a payment. I am certain of this. I dont get why this company is marking me late for some months. USC 1666b states that billing errors should be corrected and shown as paid on time.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60649",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I never miss a payment. I am certain of this. I dont get why this company is marking me late for some months. USC 1666b states that billing errors should be corrected and shown as paid on time."
+}
+
+Chunk:
+i never miss a payment. i am certain of this. i dont get why this company is marking me late for some months. usc 1666b states that billing errors should be corrected and shown as paid on time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9871829748153687
+}

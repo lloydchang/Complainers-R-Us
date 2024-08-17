@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9695279,
+  "complaint_id": "9695279",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I reached out to XXXX XXXX, CEO of Citibank to inquire, among other things, verification documents for my credit card account [ # XXXX ], via certified & return receipt mail. Although my request ( s ) affidavit ( s ) had been received by the company, no one responded. On XX/XX/XXXX & XXXX, respectively, I, again, sent another letter to the CEO requesting the same information. To date, no one has responded to any of my certified affidavits and letters. On XX/XX/year>, I accessed my online account to check to see if there was any ( possible adverse ) actions taken against me for my repeated request and I discovered that Citibank had closed my account. I believe this action, by Citibank, was retaliatory because I requested the information & verification I have been actively asking about my credit card bank accounts.",
+  "date_sent_to_company": "2024-08-02T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "53209",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-02T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year>, I reached out to XXXX XXXX, CEO of Citibank to inquire, among other things, verification documents for my credit card account [ # XXXX ], via certified & return receipt mail. Although my request ( s ) affidavit ( s ) had been received by the company, no one responded. On XX/XX/XXXX & XXXX, respectively, I, again, sent another letter to the CEO requesting the same information. To date, no one has responded to any of my certified affidavits and letters. On XX/XX/year>, I accessed my online account to check to see if there was any ( possible adverse ) actions taken against me for my repeated request and I discovered that Citibank had closed my account. I believe this action, by Citibank, was retaliatory because I requested the information & verification I have been actively asking about my credit card bank accounts."
+}
+
+Chunk:
+on xx / xx / year >, i reached out to xxxx xxxx, ceo of citibank to inquire, among other things, verification documents for my credit card account [ # xxxx ], via certified & return receipt mail. although my request ( s ) affidavit ( s ) had been received by the company, no one responded. on xx / xx / xxxx & xxxx, respectively, i, again, sent another letter to the ceo requesting the same information. to date, no one has responded to any of my certified affidavits and letters. on xx / xx / year >, i accessed my online account to check to see if there was any ( possible adverse ) actions taken against me for my repeated request and i discovered that citibank had closed my account. i believe this action, by citibank, was retaliatory because i requested the information & verification i have been actively asking about my credit card bank accounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985979199409485
+}

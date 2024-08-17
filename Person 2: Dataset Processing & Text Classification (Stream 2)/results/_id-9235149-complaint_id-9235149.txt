@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9235149,
+  "complaint_id": "9235149",
+  "product": "Credit card",
+  "complaint_what_happened": "I demand to see the original signed verification with my original signature, before its reported to all three credit bureaus and then sent to collection. First I have been robbed and have police report to show it and then again during the pandemic I was robbed of my information and reported it to all parties and charge is fraudulent unless they can prove otherwise. I demand all charges be immediately removed and my credit score raised effective immediately! \n\nI also demand you cease and dismiss from all calls and communications to my families.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10012",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Difficulty submitting a dispute or getting information about a dispute over the phone",
+  "text": "I demand to see the original signed verification with my original signature, before its reported to all three credit bureaus and then sent to collection. First I have been robbed and have police report to show it and then again during the pandemic I was robbed of my information and reported it to all parties and charge is fraudulent unless they can prove otherwise. I demand all charges be immediately removed and my credit score raised effective immediately! \n\nI also demand you cease and dismiss from all calls and communications to my families."
+}
+
+Chunk:
+i demand to see the original signed verification with my original signature, before its reported to all three credit bureaus and then sent to collection. first i have been robbed and have police report to show it and then again during the pandemic i was robbed of my information and reported it to all parties and charge is fraudulent unless they can prove otherwise. i demand all charges be immediately removed and my credit score raised effective immediately! i also demand you cease and dismiss from all calls and communications to my families.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975008368492126
+}

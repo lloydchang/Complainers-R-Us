@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9283145,
+  "complaint_id": "9283145",
+  "product": "Credit card",
+  "complaint_what_happened": "This concerns the persistent failure by XXXX XXXX XXXX to impartially resolve disputes XXXX and XXXX with XXXX  XXXX in compliance with Visa Rules : XXXX. As such, a card issuer is obligated to provide Cardholder all protections in compliance with applicable Visa Rules, laws and regulations. Therefore, the card issuer is responsible for acceptable due diligent reviews of disputes in accordance with Visa Rules and the Fair Credit Banking Act of XXXX [ 15 USC 1666 ] From this context, XXXX anonymously assigned professional case investigator noticeably failed to investigate [ review ] and execute fundamentally applicable Visa Rules for resolution of disputes XXXX and XXXX regarding XXXX XXXX. In this instance, Elans witting inaction allowed XXXX XXXX to function outside of the Fair Credit Banking Act and standard Visa Rule regulations with impunity as follows : [ 1 ] Willful failure to execute Visa Rule : 11.10.2.2 concerning improperly cancelled dispute XXXX, [ XXXX ] Willful failure to enforce Visa Rule : XXXX concerning recently and improperly cancelled dispute XXXX [ XXXX/XXXX/0224 ], [ XXXX ] Willful failure to return phone calls within XXXX to XXXX business hours in support of enhanced customer protocol pursuant Visa Rule : 11.1.2 and [ 4 ] Remiss dispute Provisional Credit reversals prior to due diligent review or research between the Merchant and Cardholder as required by Visa Rule : XXXX, etc.! \n\nStill in this regard, XXXX seemingly willful negligence on behalf of XXXX  was chronicled in a real time narration statement of Fact for further detail.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This concerns the persistent failure by XXXX XXXX XXXX to impartially resolve disputes XXXX and XXXX with XXXX  XXXX in compliance with Visa Rules : XXXX. As such, a card issuer is obligated to provide Cardholder all protections in compliance with applicable Visa Rules, laws and regulations. Therefore, the card issuer is responsible for acceptable due diligent reviews of disputes in accordance with Visa Rules and the Fair Credit Banking Act of XXXX [ 15 USC 1666 ] From this context, XXXX anonymously assigned professional case investigator noticeably failed to investigate [ review ] and execute fundamentally applicable Visa Rules for resolution of disputes XXXX and XXXX regarding XXXX XXXX. In this instance, Elans witting inaction allowed XXXX XXXX to function outside of the Fair Credit Banking Act and standard Visa Rule regulations with impunity as follows : [ 1 ] Willful failure to execute Visa Rule : 11.10.2.2 concerning improperly cancelled dispute XXXX, [ XXXX ] Willful failure to enforce Visa Rule : XXXX concerning recently and improperly cancelled dispute XXXX [ XXXX/XXXX/0224 ], [ XXXX ] Willful failure to return phone calls within XXXX to XXXX business hours in support of enhanced customer protocol pursuant Visa Rule : 11.1.2 and [ 4 ] Remiss dispute Provisional Credit reversals prior to due diligent review or research between the Merchant and Cardholder as required by Visa Rule : XXXX, etc.! \n\nStill in this regard, XXXX seemingly willful negligence on behalf of XXXX  was chronicled in a real time narration statement of Fact for further detail."
+}
+
+Chunk:
+this concerns the persistent failure by xxxx xxxx xxxx to impartially resolve disputes xxxx and xxxx with xxxx xxxx in compliance with visa rules : xxxx. as such, a card issuer is obligated to provide cardholder all protections in compliance with applicable visa rules, laws and regulations. therefore, the card issuer is responsible for acceptable due diligent reviews of disputes in accordance with visa rules and the fair credit banking act of xxxx [ 15 usc 1666 ] from this context, xxxx anonymously assigned professional case investigator noticeably failed to investigate [ review ] and execute fundamentally applicable visa rules for resolution of disputes xxxx and xxxx regarding xxxx xxxx. in this instance, elans witting inaction allowed xxxx xxxx to function outside of the fair credit banking act and standard visa rule regulations with impunity as follows : [ 1 ] willful failure to execute visa rule : 11. 10. 2. 2 concerning improperly cancelled dispute xxxx, [ xxxx ] willful failure to enforce visa rule : xxxx concerning recently and improperly cancelled dispute xxxx [ xxxx / xxxx / 0224 ], [ xxxx ] willful failure to return phone calls within xxxx to xxxx business hours in support of enhanced customer protocol pursuant visa rule : 11. 1. 2 and [ 4 ] remiss dispute provisional credit reversals prior to due diligent review or research between the merchant and cardholder as required by visa rule : xxxx, etc.! still in this regard, xxxx seemingly willful negligence on behalf of xxxx was chronicled in a real time narration statement of fact for further detail.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969762563705444
+}

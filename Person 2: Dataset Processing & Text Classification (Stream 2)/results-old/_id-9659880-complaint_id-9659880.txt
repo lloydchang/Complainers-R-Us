@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9659880,
+  "complaint_id": "9659880",
+  "product": "Credit card",
+  "complaint_what_happened": "This account represents a clear breach of contract and is fraudulent in nature. The bank failed to provide me with essential information regarding this fraudulent account, which is a direct violation of my rights as a consumer. Therefore, I urgently request the Consumer Financial Protection Bureau ( CFPB ) to handle this matter directly, as the bank 's actions have resulted in significant harm to my financial well-being. The account is : CITICARDS CBNA XXXX",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37122",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-31T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "This account represents a clear breach of contract and is fraudulent in nature. The bank failed to provide me with essential information regarding this fraudulent account, which is a direct violation of my rights as a consumer. Therefore, I urgently request the Consumer Financial Protection Bureau ( CFPB ) to handle this matter directly, as the bank 's actions have resulted in significant harm to my financial well-being. The account is : CITICARDS CBNA XXXX"
+}
+
+Chunk:
+this account represents a clear breach of contract and is fraudulent in nature. the bank failed to provide me with essential information regarding this fraudulent account, which is a direct violation of my rights as a consumer. therefore, i urgently request the consumer financial protection bureau ( cfpb ) to handle this matter directly, as the bank's actions have resulted in significant harm to my financial well - being. the account is : citicards cbna xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999541163444519
+}

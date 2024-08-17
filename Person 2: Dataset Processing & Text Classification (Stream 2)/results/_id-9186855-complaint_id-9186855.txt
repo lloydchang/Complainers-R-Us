@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186855,
+  "complaint_id": "9186855",
+  "product": "Credit card",
+  "complaint_what_happened": "In relation to a previous complaint, Amex responded \" Its important to note that we made several attempts to contact you prior to closing your account, because we needed to complete additional identity verification for your account. '' I found this concerning as I had no record of any correspondence at all from the company prior to my account closure. \n\nI've attempted to speak with support multiple times, including XX/XX/year> and XXXX on this issue, and previously had a ticket open with their support, which was closed without resolution or notice to me. \n\nEach time, Amex has insisted that they attempted to contact me, but failed to provide any information on the supposed attempts. Most recently, I was told they do have the information and can confirm that there were attempts, but that there system did not allow them to share the information with me. \n\nI find all of this extremely concerning, as I maintain an account with AmEx and may need to be contacted in the future. It seems that either A : American Express is attempting to contact someone other than me related to my account, or B : American Express Provided false information on my previous complaint and is unwilling to admit the mistake.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30084",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "In relation to a previous complaint, Amex responded \" Its important to note that we made several attempts to contact you prior to closing your account, because we needed to complete additional identity verification for your account. '' I found this concerning as I had no record of any correspondence at all from the company prior to my account closure. \n\nI've attempted to speak with support multiple times, including XX/XX/year> and XXXX on this issue, and previously had a ticket open with their support, which was closed without resolution or notice to me. \n\nEach time, Amex has insisted that they attempted to contact me, but failed to provide any information on the supposed attempts. Most recently, I was told they do have the information and can confirm that there were attempts, but that there system did not allow them to share the information with me. \n\nI find all of this extremely concerning, as I maintain an account with AmEx and may need to be contacted in the future. It seems that either A : American Express is attempting to contact someone other than me related to my account, or B : American Express Provided false information on my previous complaint and is unwilling to admit the mistake."
+}
+
+Chunk:
+in relation to a previous complaint, amex responded " its important to note that we made several attempts to contact you prior to closing your account, because we needed to complete additional identity verification for your account.'' i found this concerning as i had no record of any correspondence at all from the company prior to my account closure. i've attempted to speak with support multiple times, including xx / xx / year > and xxxx on this issue, and previously had a ticket open with their support, which was closed without resolution or notice to me. each time, amex has insisted that they attempted to contact me, but failed to provide any information on the supposed attempts. most recently, i was told they do have the information and can confirm that there were attempts, but that there system did not allow them to share the information with me. i find all of this extremely concerning, as i maintain an account with amex and may need to be contacted in the future. it seems that either a : american express is attempting to contact someone other than me related to my account, or b : american express provided false information on my previous complaint and is unwilling to admit the mistake.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982829093933105
+}

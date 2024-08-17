@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9136954,
+  "complaint_id": "9136954",
+  "product": "Credit card",
+  "complaint_what_happened": "Noted on Citi Credit card statement that amount due for payment was {$3800.00}. \n\nSpend/purchases for the billing period was {$3200.00} I Paid {$2500.00} before due date However CIti calculated interest ( {$80.00} ) based upon total total spent of $ XXXX@ 28.24 % APR for the 32 days billing period and not on the outstanding balance of of approximately {$1300.00} after payments were made. \n\nWhen questioned, Citi indicated that because the statement balance was not paid in full the interest was applied. \n\nI would expect the interest to be applied to the outstanding balance and not the full purchases for the billing period. \n\nI consider this illegal/criminal and unfair, and not consistent with accounting/financial principles. \n\nI complained to CITI and further indicated that i will be making a complaint to the Consumer Financial Protection Bureau. \n\nCiti response also that this method of calculating interest was their standard practice and also the practice across the credit card industry. \n\nI would like for the CFPB to intervene in this matter and if standard practice across the credit card industry to make changes to enforce that interest be calculated on outstanding balance after due date and not on the purchases during the billing period if the statement is not paid in full. \n\nAlso I would like for Citi to refund me the difference between interest charged on spend during period and that of balance outstanding after credit card payment has been made. \n\nAnticipating your soonest acknowledgement of receipt of this communication and your feedback.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "882XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NM",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Noted on Citi Credit card statement that amount due for payment was {$3800.00}. \n\nSpend/purchases for the billing period was {$3200.00} I Paid {$2500.00} before due date However CIti calculated interest ( {$80.00} ) based upon total total spent of $ XXXX@ 28.24 % APR for the 32 days billing period and not on the outstanding balance of of approximately {$1300.00} after payments were made. \n\nWhen questioned, Citi indicated that because the statement balance was not paid in full the interest was applied. \n\nI would expect the interest to be applied to the outstanding balance and not the full purchases for the billing period. \n\nI consider this illegal/criminal and unfair, and not consistent with accounting/financial principles. \n\nI complained to CITI and further indicated that i will be making a complaint to the Consumer Financial Protection Bureau. \n\nCiti response also that this method of calculating interest was their standard practice and also the practice across the credit card industry. \n\nI would like for the CFPB to intervene in this matter and if standard practice across the credit card industry to make changes to enforce that interest be calculated on outstanding balance after due date and not on the purchases during the billing period if the statement is not paid in full. \n\nAlso I would like for Citi to refund me the difference between interest charged on spend during period and that of balance outstanding after credit card payment has been made. \n\nAnticipating your soonest acknowledgement of receipt of this communication and your feedback."
+}
+
+Chunk:
+noted on citi credit card statement that amount due for payment was { $ 3800. 00 }. spend / purchases for the billing period was { $ 3200. 00 } i paid { $ 2500. 00 } before due date however citi calculated interest ( { $ 80. 00 } ) based upon total total spent of $ xxxx @ 28. 24 % apr for the 32 days billing period and not on the outstanding balance of of approximately { $ 1300. 00 } after payments were made. when questioned, citi indicated that because the statement balance was not paid in full the interest was applied. i would expect the interest to be applied to the outstanding balance and not the full purchases for the billing period. i consider this illegal / criminal and unfair, and not consistent with accounting / financial principles. i complained to citi and further indicated that i will be making a complaint to the consumer financial protection bureau. citi response also that this method of calculating interest was their standard practice and also the practice across the credit card industry. i would like for the cfpb to intervene in this matter and if standard practice across the credit card industry to make changes to enforce that interest be calculated on outstanding balance after due date and not on the purchases during the billing period if the statement is not paid in full. also i would like for citi to refund me the difference between interest charged on spend during period and that of balance outstanding after credit card payment has been made. anticipating your soonest acknowledgement of receipt of this communication and your feedback.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994519352912903
+}

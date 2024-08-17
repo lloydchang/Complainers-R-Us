@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9534334,
+  "complaint_id": "9534334",
+  "product": "Credit card",
+  "complaint_what_happened": "I have contacted Paypall before - no response.\n\nPaypall is asking me for my sign-in information and password to my bank account. I refuse to do this. Today it wouldn't let me make a payment without me giving this private information. \nPaypall adds other credit card information to my account. Today I was asked if I wanted to update another credit card because it had expired. I said no but WHY IS PAYPALL GOING INTO MY CREDIT? \nPaypall has screwed up my information so badly that now I am being denied credit. I have an exceptionally good credit card rating. There is absolutely no reason for me to be turned down from XXXX transfers, from XXXX to refuse to take payment from XXXX XXXX. i DON'T KNOW WHAT THEY ARE DOING BUT IT IS WRONG. \nWhen I call Paypall, the people say they aren't Paypall, they are synchrony bank.\n\nPappall has shifted two payments from them to another credit card. I can send this. I never authorized this. \nPlease stop them. They have screwed up my credit big time. They have no business with any of my other credit cards. \nWhat is happening is that they are connected to all my credit and if they put on a hold BECAUSE THEY THINK THERE WAS FRAUD, THEN ALL MY OTHER CREDIT CARDS ARE MESSED UP AUTOMATICALLY.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32927",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Privacy issues",
+  "text": "I have contacted Paypall before - no response.\n\nPaypall is asking me for my sign-in information and password to my bank account. I refuse to do this. Today it wouldn't let me make a payment without me giving this private information. \nPaypall adds other credit card information to my account. Today I was asked if I wanted to update another credit card because it had expired. I said no but WHY IS PAYPALL GOING INTO MY CREDIT? \nPaypall has screwed up my information so badly that now I am being denied credit. I have an exceptionally good credit card rating. There is absolutely no reason for me to be turned down from XXXX transfers, from XXXX to refuse to take payment from XXXX XXXX. i DON'T KNOW WHAT THEY ARE DOING BUT IT IS WRONG. \nWhen I call Paypall, the people say they aren't Paypall, they are synchrony bank.\n\nPappall has shifted two payments from them to another credit card. I can send this. I never authorized this. \nPlease stop them. They have screwed up my credit big time. They have no business with any of my other credit cards. \nWhat is happening is that they are connected to all my credit and if they put on a hold BECAUSE THEY THINK THERE WAS FRAUD, THEN ALL MY OTHER CREDIT CARDS ARE MESSED UP AUTOMATICALLY."
+}
+
+Chunk:
+i have contacted paypall before - no response. paypall is asking me for my sign - in information and password to my bank account. i refuse to do this. today it wouldn't let me make a payment without me giving this private information. paypall adds other credit card information to my account. today i was asked if i wanted to update another credit card because it had expired. i said no but why is paypall going into my credit? paypall has screwed up my information so badly that now i am being denied credit. i have an exceptionally good credit card rating. there is absolutely no reason for me to be turned down from xxxx transfers, from xxxx to refuse to take payment from xxxx xxxx. i don't know what they are doing but it is wrong. when i call paypall, the people say they aren't paypall, they are synchrony bank. pappall has shifted two payments from them to another credit card. i can send this. i never authorized this. please stop them. they have screwed up my credit big time. they have no business with any of my other credit cards. what is happening is that they are connected to all my credit and if they put on a hold because they think there was fraud, then all my other credit cards are messed up automatically.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999110996723175
+}

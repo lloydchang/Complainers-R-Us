@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9236614,
+  "complaint_id": "9236614",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I disputed the charges on this card as fraud and identity theft.I have been in XXXX  since XX/XX/XXXX and there is no way I could have made these charges from XXXX. I sent them a notorized affidavit for fraud and identity theft on XX/XX/XXXX. They replied that they couldn't do anything without a Police report. I explained to them that I could not file a report while in XXXX. Their last response was that their investigation found no evidence of fraud, even though I sent them a copy of my XXXX  ID Card. The Credit card account number is XXXX.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "39046",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "On XX/XX/XXXX I disputed the charges on this card as fraud and identity theft.I have been in XXXX  since XX/XX/XXXX and there is no way I could have made these charges from XXXX. I sent them a notorized affidavit for fraud and identity theft on XX/XX/XXXX. They replied that they couldn't do anything without a Police report. I explained to them that I could not file a report while in XXXX. Their last response was that their investigation found no evidence of fraud, even though I sent them a copy of my XXXX  ID Card. The Credit card account number is XXXX."
+}
+
+Chunk:
+on xx / xx / xxxx i disputed the charges on this card as fraud and identity theft. i have been in xxxx since xx / xx / xxxx and there is no way i could have made these charges from xxxx. i sent them a notorized affidavit for fraud and identity theft on xx / xx / xxxx. they replied that they couldn't do anything without a police report. i explained to them that i could not file a report while in xxxx. their last response was that their investigation found no evidence of fraud, even though i sent them a copy of my xxxx id card. the credit card account number is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980759620666504
+}

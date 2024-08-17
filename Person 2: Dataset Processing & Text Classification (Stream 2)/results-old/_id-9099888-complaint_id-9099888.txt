@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9099888,
+  "complaint_id": "9099888",
+  "product": "Credit card",
+  "complaint_what_happened": "I have always ensured payments on this account are made promptly, avoiding any overdue status. I'm uncertain about the reasons behind reports of late payment remarks on my accounts. Under 15 USC 1666b, billing errors should be addressed.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "760XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "I have always ensured payments on this account are made promptly, avoiding any overdue status. I'm uncertain about the reasons behind reports of late payment remarks on my accounts. Under 15 USC 1666b, billing errors should be addressed."
+}
+
+Chunk:
+i have always ensured payments on this account are made promptly, avoiding any overdue status. i'm uncertain about the reasons behind reports of late payment remarks on my accounts. under 15 usc 1666b, billing errors should be addressed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947680234909058
+}

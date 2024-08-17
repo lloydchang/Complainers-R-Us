@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9006488,
+  "complaint_id": "9006488",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a credit limit of around XXXX XXXX  I made a payment of total balance the first month of about XXXX XXXX ( payment was made XX/XX/XXXX ). Aside from the payment process taking 7-10 business days to process ( which they claimed was due to the large amount ), they froze the card and now I cant use it for 7-10 business days. I asked the person XXXX XXXX ) and he simply said its just an internal process. \nI asked him if I make a payment every month like this will the card not work for 7-10 business days every month? He responded yes, due to size of payments, its just an internal process. \nWhen I asked to speak to a manager, I was simply hung up on. The conservation with the credit card company was on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX \nThis smells fraudulent and just an attempt to limit ones ability to use the card.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "070XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I received a credit limit of around XXXX XXXX  I made a payment of total balance the first month of about XXXX XXXX ( payment was made XX/XX/XXXX ). Aside from the payment process taking 7-10 business days to process ( which they claimed was due to the large amount ), they froze the card and now I cant use it for 7-10 business days. I asked the person XXXX XXXX ) and he simply said its just an internal process. \nI asked him if I make a payment every month like this will the card not work for 7-10 business days every month? He responded yes, due to size of payments, its just an internal process. \nWhen I asked to speak to a manager, I was simply hung up on. The conservation with the credit card company was on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX \nThis smells fraudulent and just an attempt to limit ones ability to use the card."
+}
+
+Chunk:
+i received a credit limit of around xxxx xxxx i made a payment of total balance the first month of about xxxx xxxx ( payment was made xx / xx / xxxx ). aside from the payment process taking 7 - 10 business days to process ( which they claimed was due to the large amount ), they froze the card and now i cant use it for 7 - 10 business days. i asked the person xxxx xxxx ) and he simply said its just an internal process. i asked him if i make a payment every month like this will the card not work for 7 - 10 business days every month? he responded yes, due to size of payments, its just an internal process. when i asked to speak to a manager, i was simply hung up on. the conservation with the credit card company was on xx / xx / xxxxxxxx xxxx xxxx xxxx xxxx xxxx this smells fraudulent and just an attempt to limit ones ability to use the card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995949864387512
+}

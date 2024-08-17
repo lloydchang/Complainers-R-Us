@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9011784,
+  "complaint_id": "9011784",
+  "product": "Credit card",
+  "complaint_what_happened": "I have always been great paying my credit cards on time even during the pandemic. I am a XXXX XXXX XXXX. I have a great job steady job with XXXX XXXX, but when I was hired in XXXX, I was hired in XXXX and the opting in for the 10 month pay was closed. Therefore, I did not have income during the summer. I had to use my saving 's to pay to live. I called my credit cards and informed them and was very communicative about the matter. Several cards did not work with me and my credit has gone down. It seems after the XXXX  the minimum payment went higher and its just ridiculous. And the late fee is also ridiculous and some will only wave it once a year. I am utterly upset that I am a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX am there to provide services to every XXXX XXXX XXXX XXXX have worked so hard to get my credit up and during XXXX XXXX everything went down with no help.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "33308",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have always been great paying my credit cards on time even during the pandemic. I am a XXXX XXXX XXXX. I have a great job steady job with XXXX XXXX, but when I was hired in XXXX, I was hired in XXXX and the opting in for the 10 month pay was closed. Therefore, I did not have income during the summer. I had to use my saving 's to pay to live. I called my credit cards and informed them and was very communicative about the matter. Several cards did not work with me and my credit has gone down. It seems after the XXXX  the minimum payment went higher and its just ridiculous. And the late fee is also ridiculous and some will only wave it once a year. I am utterly upset that I am a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX am there to provide services to every XXXX XXXX XXXX XXXX have worked so hard to get my credit up and during XXXX XXXX everything went down with no help."
+}
+
+Chunk:
+i have always been great paying my credit cards on time even during the pandemic. i am a xxxx xxxx xxxx. i have a great job steady job with xxxx xxxx, but when i was hired in xxxx, i was hired in xxxx and the opting in for the 10 month pay was closed. therefore, i did not have income during the summer. i had to use my saving's to pay to live. i called my credit cards and informed them and was very communicative about the matter. several cards did not work with me and my credit has gone down. it seems after the xxxx the minimum payment went higher and its just ridiculous. and the late fee is also ridiculous and some will only wave it once a year. i am utterly upset that i am a xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx am there to provide services to every xxxx xxxx xxxx xxxx have worked so hard to get my credit up and during xxxx xxxx everything went down with no help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993873834609985
+}

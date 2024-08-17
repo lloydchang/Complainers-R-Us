@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247929,
+  "complaint_id": "9247929",
+  "product": "Credit card",
+  "complaint_what_happened": "These hard inquiries are reporting on my credit report and are inaccurate and I am a victim of identify theft from the following companies through Transunion XXXX XXXX XXXX Bank ) XX/XX/2024 XXXX XXXXXXXX ( Bank ) XX/XX/2024 XXXX XXXXXXXX ( Bank ) XX/XX/2024 Auto XXXX XXXX XXXX ( Bank ) XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX ( Auto ) XXXX XXXX XXXX XXXXXXXX XXXXXXXX XXXX XXXX ( Finance ) XXXX XXXX XXXX XXXX XXXX XXXX ( Finance ) XXXX XXXXXXXX XXXX XXXXXXXX XXXX ( Bank ) XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX ) XXXX XXXX XXXX XXXX XXXX XXXXi ( Finance ) XXXX XXXXXXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX Bank XXXX XXXX XXXXXXXX XXXX XXXX XXXX ( Bank ) XXXX XXXX 2024 XXXX XXXX XXXX ( Bank ) XX/XX/2024 XXXX XXXX XXXX ( Finance ) XX/XX/2024 XXXX XXXX XXXX XXXX ( Finance ) XX/XX/202XXXX XXXX",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30253",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "These hard inquiries are reporting on my credit report and are inaccurate and I am a victim of identify theft from the following companies through Transunion XXXX XXXX XXXX Bank ) XX/XX/2024 XXXX XXXXXXXX ( Bank ) XX/XX/2024 XXXX XXXXXXXX ( Bank ) XX/XX/2024 Auto XXXX XXXX XXXX ( Bank ) XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX ( Auto ) XXXX XXXX XXXX XXXXXXXX XXXXXXXX XXXX XXXX ( Finance ) XXXX XXXX XXXX XXXX XXXX XXXX ( Finance ) XXXX XXXXXXXX XXXX XXXXXXXX XXXX ( Bank ) XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX ) XXXX XXXX XXXX XXXX XXXX XXXXi ( Finance ) XXXX XXXXXXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX Bank XXXX XXXX XXXXXXXX XXXX XXXX XXXX ( Bank ) XXXX XXXX 2024 XXXX XXXX XXXX ( Bank ) XX/XX/2024 XXXX XXXX XXXX ( Finance ) XX/XX/2024 XXXX XXXX XXXX XXXX ( Finance ) XX/XX/202XXXX XXXX"
+}
+
+Chunk:
+these hard inquiries are reporting on my credit report and are inaccurate and i am a victim of identify theft from the following companies through transunion xxxx xxxx xxxx bank ) xx / xx / 2024 xxxx xxxxxxxx ( bank ) xx / xx / 2024 xxxx xxxxxxxx ( bank ) xx / xx / 2024 auto xxxx xxxx xxxx ( bank ) xxxx xxxxxxxx xxxx xxxx xxxx xxxx xxxx xxxx ( auto ) xxxx xxxx xxxx xxxxxxxx xxxxxxxx xxxx xxxx ( finance ) xxxx xxxx xxxx xxxx xxxx xxxx ( finance ) xxxx xxxxxxxx xxxx xxxxxxxx xxxx ( bank ) xxxx xxxx xxxx xxxx xxxxxxxx xxxx xxxx xxxx ) xxxx xxxx xxxx xxxx xxxx xxxxi ( finance ) xxxx xxxxxxxx xxxx xxxxxxxx xxxx xxxx xxxx xxxx bank xxxx xxxx xxxxxxxx xxxx xxxx xxxx ( bank ) xxxx xxxx 2024 xxxx xxxx xxxx ( bank ) xx / xx / 2024 xxxx xxxx xxxx ( finance ) xx / xx / 2024 xxxx xxxx xxxx xxxx ( finance ) xx / xx / 202xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988994598388672
+}

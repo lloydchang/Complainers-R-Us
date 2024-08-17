@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9562905,
+  "complaint_id": "9562905",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX On XXXX my XXXX XXXX XXXX XXXX XXXX Specialist called Citibank XXXX the issue on my XXXX Credit Report dated XX/XX/XXXX which indicated the following erroneous information ; a ) New Address was listed on my credit report for Citibank ( I lived in XXXX and has been residing in my current address for XXXX years ). \nb ) My Citicard account on my credit report indicated that I have a balance of {$62.00} dollars. It must be noted that my Citicard account had been closed since XX/XX/XXXX with XXXX balance. I had recalcitrant issues with my Citicard credit card in the past due to unauthorized/ fraudulent transactions. On XX/XX/XXXX, XXXX Citibank Fraud Dept representative reported to me that all the fraudulent / unauthorized transactions in my card have been reversed and my account had been closed as per my request with XXXX balance. \n\nMoreover, my aforementioned call on XX/XX/XXXX to Citibank yielded no definitive answers for the above issues. I had been transferred to almost XXXX different personnel and different departments from Customer Service to the Fraud Departments. All of them were just passing the buck and primarily deflecting that their respective departments don't have the information for my inquiries. These calls ( with multiple call disconnections ) lasted for almost an hour and a half and yielded no results. My XXXX XXXX Specialist advised me then to report this to CFPB for resolution to this ongoing issues with Citibank. \nThank you. \n\nXXXX XXXX",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60660",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account information incorrect",
+  "text": "XX/XX/XXXX On XXXX my XXXX XXXX XXXX XXXX XXXX Specialist called Citibank XXXX the issue on my XXXX Credit Report dated XX/XX/XXXX which indicated the following erroneous information ; a ) New Address was listed on my credit report for Citibank ( I lived in XXXX and has been residing in my current address for XXXX years ). \nb ) My Citicard account on my credit report indicated that I have a balance of {$62.00} dollars. It must be noted that my Citicard account had been closed since XX/XX/XXXX with XXXX balance. I had recalcitrant issues with my Citicard credit card in the past due to unauthorized/ fraudulent transactions. On XX/XX/XXXX, XXXX Citibank Fraud Dept representative reported to me that all the fraudulent / unauthorized transactions in my card have been reversed and my account had been closed as per my request with XXXX balance. \n\nMoreover, my aforementioned call on XX/XX/XXXX to Citibank yielded no definitive answers for the above issues. I had been transferred to almost XXXX different personnel and different departments from Customer Service to the Fraud Departments. All of them were just passing the buck and primarily deflecting that their respective departments don't have the information for my inquiries. These calls ( with multiple call disconnections ) lasted for almost an hour and a half and yielded no results. My XXXX XXXX Specialist advised me then to report this to CFPB for resolution to this ongoing issues with Citibank. \nThank you. \n\nXXXX XXXX"
+}
+
+Chunk:
+xx / xx / xxxx on xxxx my xxxx xxxx xxxx xxxx xxxx specialist called citibank xxxx the issue on my xxxx credit report dated xx / xx / xxxx which indicated the following erroneous information ; a ) new address was listed on my credit report for citibank ( i lived in xxxx and has been residing in my current address for xxxx years ). b ) my citicard account on my credit report indicated that i have a balance of { $ 62. 00 } dollars. it must be noted that my citicard account had been closed since xx / xx / xxxx with xxxx balance. i had recalcitrant issues with my citicard credit card in the past due to unauthorized / fraudulent transactions. on xx / xx / xxxx, xxxx citibank fraud dept representative reported to me that all the fraudulent / unauthorized transactions in my card have been reversed and my account had been closed as per my request with xxxx balance. moreover, my aforementioned call on xx / xx / xxxx to citibank yielded no definitive answers for the above issues. i had been transferred to almost xxxx different personnel and different departments from customer service to the fraud departments. all of them were just passing the buck and primarily deflecting that their respective departments don't have the information for my inquiries. these calls ( with multiple call disconnections ) lasted for almost an hour and a half and yielded no results. my xxxx xxxx specialist advised me then to report this to cfpb for resolution to this ongoing issues with citibank. thank you. xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994310736656189
+}

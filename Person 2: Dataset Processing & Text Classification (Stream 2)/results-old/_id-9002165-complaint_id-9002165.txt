@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9002165,
+  "complaint_id": "9002165",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to address an issue regarding my credit card account with your company. On XX/XX/2023, I received notification that my credit card ending in XXXX was closed due to No reason provided by the XXXX. However, I did not authorize nor request the closure of this account. \nThis action has caused significant inconvenience and concern for me, as this credit card account plays a crucial role in managing my financial affairs. I have been a loyal and responsible customer of Home Depot Credit Card for XXXX Years and have consistently maintained a good standing with timely payments and responsible credit usage. \nI request an immediate reversal of the decision to close my credit card account and reinstatement of all associated privileges. Additionally, I ask for a thorough investigation into why this action was taken without my authorization, as well as assurance that such errors will not occur in the future. \nI also request that you provide me with a formal written explanation of the circumstances surrounding the closure of my credit card account, as well as any documentation related to this matter. \nPlease consider this letter as a formal dispute of the adverse action taken against my credit card account. I expect a prompt resolution to this matter and request that you contact me at the earliest opportunity to confirm the reinstatement of my credit card account. \nFurthermore : In Pursuant to 15 U.S. Code 1615 If a consumer prepays in full the financed amount under any consumer credit transaction, the creditor shall promptly refund any unearned portion of the interest charge to the consumer. \nThank you for your attention to this matter. I look forward to your prompt response and resolution. \nNotice to Agent Notice Knowledge U.C.C 1-202 Respectfully, All Rights Reserved Without Prejudice - U.C.C. XXXX Name : By : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "33313",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I am writing to address an issue regarding my credit card account with your company. On XX/XX/2023, I received notification that my credit card ending in XXXX was closed due to No reason provided by the XXXX. However, I did not authorize nor request the closure of this account. \nThis action has caused significant inconvenience and concern for me, as this credit card account plays a crucial role in managing my financial affairs. I have been a loyal and responsible customer of Home Depot Credit Card for XXXX Years and have consistently maintained a good standing with timely payments and responsible credit usage. \nI request an immediate reversal of the decision to close my credit card account and reinstatement of all associated privileges. Additionally, I ask for a thorough investigation into why this action was taken without my authorization, as well as assurance that such errors will not occur in the future. \nI also request that you provide me with a formal written explanation of the circumstances surrounding the closure of my credit card account, as well as any documentation related to this matter. \nPlease consider this letter as a formal dispute of the adverse action taken against my credit card account. I expect a prompt resolution to this matter and request that you contact me at the earliest opportunity to confirm the reinstatement of my credit card account. \nFurthermore : In Pursuant to 15 U.S. Code 1615 If a consumer prepays in full the financed amount under any consumer credit transaction, the creditor shall promptly refund any unearned portion of the interest charge to the consumer. \nThank you for your attention to this matter. I look forward to your prompt response and resolution. \nNotice to Agent Notice Knowledge U.C.C 1-202 Respectfully, All Rights Reserved Without Prejudice - U.C.C. XXXX Name : By : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+i am writing to address an issue regarding my credit card account with your company. on xx / xx / 2023, i received notification that my credit card ending in xxxx was closed due to no reason provided by the xxxx. however, i did not authorize nor request the closure of this account. this action has caused significant inconvenience and concern for me, as this credit card account plays a crucial role in managing my financial affairs. i have been a loyal and responsible customer of home depot credit card for xxxx years and have consistently maintained a good standing with timely payments and responsible credit usage. i request an immediate reversal of the decision to close my credit card account and reinstatement of all associated privileges. additionally, i ask for a thorough investigation into why this action was taken without my authorization, as well as assurance that such errors will not occur in the future. i also request that you provide me with a formal written explanation of the circumstances surrounding the closure of my credit card account, as well as any documentation related to this matter. please consider this letter as a formal dispute of the adverse action taken against my credit card account. i expect a prompt resolution to this matter and request that you contact me at the earliest opportunity to confirm the reinstatement of my credit card account. furthermore : in pursuant to 15 u. s. code 1615 if a consumer prepays in full the financed amount under any consumer credit transaction, the creditor shall promptly refund any unearned portion of the interest charge to the consumer. thank you for your attention to this matter. i look forward to your prompt response and resolution. notice to agent notice knowledge u. c. c 1 - 202 respectfully, all rights reserved without prejudice - u. c. c. xxxx name : by : xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9842804670333862
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9319902,
+  "complaint_id": "9319902",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a truist business credit card which I applied for back in XX/XX/year> and was granted with a XXXX credit limit to my knowledge it shows on the XXXX website an offer of 0 % apr for 12 months so I thought perfect 12 months no interest after 12 months the card will start to accumulate interest. \n\nNot even 8 months after having the card the card started charging me interest back to back I called customer service representatives I sent emails and unresponsive back to back. I want the offer that I was given to be granted, that is all I'm seeking in writing this.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33175",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I have a truist business credit card which I applied for back in XX/XX/year> and was granted with a XXXX credit limit to my knowledge it shows on the XXXX website an offer of 0 % apr for 12 months so I thought perfect 12 months no interest after 12 months the card will start to accumulate interest. \n\nNot even 8 months after having the card the card started charging me interest back to back I called customer service representatives I sent emails and unresponsive back to back. I want the offer that I was given to be granted, that is all I'm seeking in writing this."
+}
+
+Chunk:
+i have a truist business credit card which i applied for back in xx / xx / year > and was granted with a xxxx credit limit to my knowledge it shows on the xxxx website an offer of 0 % apr for 12 months so i thought perfect 12 months no interest after 12 months the card will start to accumulate interest. not even 8 months after having the card the card started charging me interest back to back i called customer service representatives i sent emails and unresponsive back to back. i want the offer that i was given to be granted, that is all i'm seeking in writing this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9955915212631226
+}

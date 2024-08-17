@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9054972,
+  "complaint_id": "9054972",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I opened an account with XXXXXXXX XXXX XXXXXXXX, serviced by Synchrony Bank. \nI am not sure when the first payment was due because I never received a bill, but on XX/XX/2024, a {$30.00} late fee was incurred because a payment had not been made on time. On XX/XX/2024, I made a {$200.00} payment to cover XXXX and XXXX. On XX/XX/2024, a {$30.00} returned payment fee was incurred. On XX/XX/2024, I called customer service, they stated I placed a stop payment with my credit union, which I did not, but the {$30.00} late payment fee would be removed. I called my credit union and was told no request for payment was ever received from Synchrony Bank. The issue, as it was explained to me, is at their end, my banking information needs to be erased and manually entered by them. ( This apparently happens often ) I phoned customer service, spoke with XXXX, she erased my banking information, and I was told to re-enter it on the website, which I did. \nXX/XX/XXXX, I re-entered my banking information and made another {$200.00} payment. On XX/XX/2024, I was charged another {$30.00} for a returned payment. My payment was returned again! I received a voicemail on XX/XX/2024, from Synchrony Bank requesting a call back, this prompted me to check my account, that is how I found out the payment had been returned again. I immediately called customer service, but now I am flagged as being delinquent, so I am diverted to collections. I finally got transferred to customer service, spoke with XXXX, and they don't even want to try to fix the issue on their end. Seems they would rather continue piling on the {$30.00} fees ( which is more than my interest, they are really raking in the big bucks with me, {$60.00} per month! ) They are getting a late fee and a returned payment fee, and the issue is caused by them. Is this racketeering?\n\nI want my late fees and return payment fees reimbursed and the negative report on my credit reports removed. I also want the glitch in Synchrony 's online payment system to be fixed and stop blaming it on me!",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "76051",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On XX/XX/2024, I opened an account with XXXXXXXX XXXX XXXXXXXX, serviced by Synchrony Bank. \nI am not sure when the first payment was due because I never received a bill, but on XX/XX/2024, a {$30.00} late fee was incurred because a payment had not been made on time. On XX/XX/2024, I made a {$200.00} payment to cover XXXX and XXXX. On XX/XX/2024, a {$30.00} returned payment fee was incurred. On XX/XX/2024, I called customer service, they stated I placed a stop payment with my credit union, which I did not, but the {$30.00} late payment fee would be removed. I called my credit union and was told no request for payment was ever received from Synchrony Bank. The issue, as it was explained to me, is at their end, my banking information needs to be erased and manually entered by them. ( This apparently happens often ) I phoned customer service, spoke with XXXX, she erased my banking information, and I was told to re-enter it on the website, which I did. \nXX/XX/XXXX, I re-entered my banking information and made another {$200.00} payment. On XX/XX/2024, I was charged another {$30.00} for a returned payment. My payment was returned again! I received a voicemail on XX/XX/2024, from Synchrony Bank requesting a call back, this prompted me to check my account, that is how I found out the payment had been returned again. I immediately called customer service, but now I am flagged as being delinquent, so I am diverted to collections. I finally got transferred to customer service, spoke with XXXX, and they don't even want to try to fix the issue on their end. Seems they would rather continue piling on the {$30.00} fees ( which is more than my interest, they are really raking in the big bucks with me, {$60.00} per month! ) They are getting a late fee and a returned payment fee, and the issue is caused by them. Is this racketeering?\n\nI want my late fees and return payment fees reimbursed and the negative report on my credit reports removed. I also want the glitch in Synchrony 's online payment system to be fixed and stop blaming it on me!"
+}
+
+Chunk:
+glitch in synchrony's online payment system to be fixed and stop blaming it on me!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991914629936218
+}

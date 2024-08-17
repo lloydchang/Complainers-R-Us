@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9222207,
+  "complaint_id": "9222207",
+  "product": "Credit card",
+  "complaint_what_happened": "I pay an annual fee of approximately {$600.00} to chase for my XXXX XXXX  and my wifes. I pay this fee because of the trip delay and lost luggage benefits. I never made a claim before, but submitted my very first claim to be reimbursed for hotel, food, and incidentals because my flight to XXXX XXXX was delayed overnight by XXXX hours and we were stuck in XXXX. I think this benefit is fraudulent. Ive placed multiple phone calls and sent multiple emails and they always ask for a XXXX more piece of info and say it will be XXXX business days before they can respond. I believe they have XXXX intent of paying any claims and simply try to delay and west people down until they give up. My claim number is XXXX.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "193XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I pay an annual fee of approximately {$600.00} to chase for my XXXX XXXX  and my wifes. I pay this fee because of the trip delay and lost luggage benefits. I never made a claim before, but submitted my very first claim to be reimbursed for hotel, food, and incidentals because my flight to XXXX XXXX was delayed overnight by XXXX hours and we were stuck in XXXX. I think this benefit is fraudulent. Ive placed multiple phone calls and sent multiple emails and they always ask for a XXXX more piece of info and say it will be XXXX business days before they can respond. I believe they have XXXX intent of paying any claims and simply try to delay and west people down until they give up. My claim number is XXXX."
+}
+
+Chunk:
+i pay an annual fee of approximately { $ 600. 00 } to chase for my xxxx xxxx and my wifes. i pay this fee because of the trip delay and lost luggage benefits. i never made a claim before, but submitted my very first claim to be reimbursed for hotel, food, and incidentals because my flight to xxxx xxxx was delayed overnight by xxxx hours and we were stuck in xxxx. i think this benefit is fraudulent. ive placed multiple phone calls and sent multiple emails and they always ask for a xxxx more piece of info and say it will be xxxx business days before they can respond. i believe they have xxxx intent of paying any claims and simply try to delay and west people down until they give up. my claim number is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992871880531311
+}

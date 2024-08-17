@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9155488,
+  "complaint_id": "9155488",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a XXXX card run by Synchrony bank. This card is used for promotional musical purchases advertised as paying zero interest over promotional periods. I currently have three promotional purchases on my account... two of them are 2-year promotions and the other is a 4-year promotion. The advertised price and fine print clearly stated that there would be no interest charged over the duration of these purchases as long as all payments are made on time and balances are paid off in full before the promotional purchase deadline. Synchrony sent out emails that changes are being made on statements. I read the statement today to learn that \" some '' promotional purchases longer than 18 months ( which includes all three of mine ) will now be charged a 2 % monthly fee. They clearly stated that this is retroactive and will affect existing promotional purchases and will go into effect XX/XX/year>. I believe there is a way to opt out or \" reject '' this, but opting out will result in inability to engage in promotional purchases in the future. I am considering opting out. However, I do not wish to punish XXXX, an incredible company with excellent customer service, for the unethical behavior of Synchrony. I am guessing this is also a contract violation and could result in a class action lawsuit against Synchrony. If that is the case, I wish to be a part of this lawsuit.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "98155",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I have a XXXX card run by Synchrony bank. This card is used for promotional musical purchases advertised as paying zero interest over promotional periods. I currently have three promotional purchases on my account... two of them are 2-year promotions and the other is a 4-year promotion. The advertised price and fine print clearly stated that there would be no interest charged over the duration of these purchases as long as all payments are made on time and balances are paid off in full before the promotional purchase deadline. Synchrony sent out emails that changes are being made on statements. I read the statement today to learn that \" some '' promotional purchases longer than 18 months ( which includes all three of mine ) will now be charged a 2 % monthly fee. They clearly stated that this is retroactive and will affect existing promotional purchases and will go into effect XX/XX/year>. I believe there is a way to opt out or \" reject '' this, but opting out will result in inability to engage in promotional purchases in the future. I am considering opting out. However, I do not wish to punish XXXX, an incredible company with excellent customer service, for the unethical behavior of Synchrony. I am guessing this is also a contract violation and could result in a class action lawsuit against Synchrony. If that is the case, I wish to be a part of this lawsuit."
+}
+
+Chunk:
+i have a xxxx card run by synchrony bank. this card is used for promotional musical purchases advertised as paying zero interest over promotional periods. i currently have three promotional purchases on my account... two of them are 2 - year promotions and the other is a 4 - year promotion. the advertised price and fine print clearly stated that there would be no interest charged over the duration of these purchases as long as all payments are made on time and balances are paid off in full before the promotional purchase deadline. synchrony sent out emails that changes are being made on statements. i read the statement today to learn that " some'' promotional purchases longer than 18 months ( which includes all three of mine ) will now be charged a 2 % monthly fee. they clearly stated that this is retroactive and will affect existing promotional purchases and will go into effect xx / xx / year >. i believe there is a way to opt out or " reject'' this, but opting out will result in inability to engage in promotional purchases in the future. i am considering opting out. however, i do not wish to punish xxxx, an incredible company with excellent customer service, for the unethical behavior of synchrony. i am guessing this is also a contract violation and could result in a class action lawsuit against synchrony. if that is the case, i wish to be a part of this lawsuit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983965754508972
+}

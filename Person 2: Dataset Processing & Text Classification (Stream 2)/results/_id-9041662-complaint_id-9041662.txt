@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041662,
+  "complaint_id": "9041662",
+  "product": "Credit card",
+  "complaint_what_happened": "I have encountered several unethical interactions with Bank of America. Their ongoing deceptive practices aim to defraud customers by falsely reporting late payments. This tactic appears designed to sabotage customers ' credit lines, increase interest rates, and reduce credit limits. \n\nI possess supporting documents for these fraudulent actions. \n\nBank of America employs deceptive practices to create financial instruments that defraud their customers, akin to similar actions by other banks in the past. Despite having already paid fines for such conduct, the continued lack of government oversight perpetuates the erosion of trust. The deception and fraud persist unabated. \n\nAdditionally, the XXXX representative assigned to my recent cases has been completely inaccessible. I received a voicemail at XXXX XXXX  XXXX, but all my callbacks and emails have gone unanswered. \n\nI have reached out to my senator and congressman for assistance in navigating this matter, as I find the governing agency 's role in these proceedings to be duplicitous.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89141",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I have encountered several unethical interactions with Bank of America. Their ongoing deceptive practices aim to defraud customers by falsely reporting late payments. This tactic appears designed to sabotage customers ' credit lines, increase interest rates, and reduce credit limits. \n\nI possess supporting documents for these fraudulent actions. \n\nBank of America employs deceptive practices to create financial instruments that defraud their customers, akin to similar actions by other banks in the past. Despite having already paid fines for such conduct, the continued lack of government oversight perpetuates the erosion of trust. The deception and fraud persist unabated. \n\nAdditionally, the XXXX representative assigned to my recent cases has been completely inaccessible. I received a voicemail at XXXX XXXX  XXXX, but all my callbacks and emails have gone unanswered. \n\nI have reached out to my senator and congressman for assistance in navigating this matter, as I find the governing agency 's role in these proceedings to be duplicitous."
+}
+
+Chunk:
+i have encountered several unethical interactions with bank of america. their ongoing deceptive practices aim to defraud customers by falsely reporting late payments. this tactic appears designed to sabotage customers'credit lines, increase interest rates, and reduce credit limits. i possess supporting documents for these fraudulent actions. bank of america employs deceptive practices to create financial instruments that defraud their customers, akin to similar actions by other banks in the past. despite having already paid fines for such conduct, the continued lack of government oversight perpetuates the erosion of trust. the deception and fraud persist unabated. additionally, the xxxx representative assigned to my recent cases has been completely inaccessible. i received a voicemail at xxxx xxxx xxxx, but all my callbacks and emails have gone unanswered. i have reached out to my senator and congressman for assistance in navigating this matter, as i find the governing agency's role in these proceedings to be duplicitous.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989637136459351
+}

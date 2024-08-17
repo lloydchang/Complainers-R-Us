@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9043417,
+  "complaint_id": "9043417",
+  "product": "Credit card",
+  "complaint_what_happened": "I am stranded because they did not follow the travel notice",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "95961",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I am stranded because they did not follow the travel notice"
+}
+
+Chunk:
+i am stranded because they did not follow the travel notice
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996079802513123
+}

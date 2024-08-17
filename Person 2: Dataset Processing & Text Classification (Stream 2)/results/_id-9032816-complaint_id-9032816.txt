@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9032816,
+  "complaint_id": "9032816",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to express my frustration with handling my account for online payments. When the account was set up, the checking account number was keyed in incorrectly. Despite speaking with representatives on three different occasions, the representative did not mention the error of the incorrect checking account. As a result, late fees and insufficient fund charges were applied to my account. \n\nAfter the fourth attempt, I finally spoke with a representative who informed me of the issue with the checking account number. We made the necessary corrections, and I was assured that if I paid off all fees, a manager said the fees would be removed. I promptly paid the bill in XXXX, yet no fees were removed as promised. \n\nDespite providing detailed information and being told a case would be opened, the charges were not removed. After numerous calls over four months, the company refused to cancel the account and continued to call me relentlessly. TD Bank continues to add fees to the account. I requested back in XX/XX/2023 for the account to be closed. A representative told me that he would not close the account and that charges and calls would continue. \n\nI am disputing all charges and request that the calls cease immediately. I expect a resolution to this matter and a closure of the account without further inconvenience or negative impact on my credit score and report.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "39702",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I am writing to express my frustration with handling my account for online payments. When the account was set up, the checking account number was keyed in incorrectly. Despite speaking with representatives on three different occasions, the representative did not mention the error of the incorrect checking account. As a result, late fees and insufficient fund charges were applied to my account. \n\nAfter the fourth attempt, I finally spoke with a representative who informed me of the issue with the checking account number. We made the necessary corrections, and I was assured that if I paid off all fees, a manager said the fees would be removed. I promptly paid the bill in XXXX, yet no fees were removed as promised. \n\nDespite providing detailed information and being told a case would be opened, the charges were not removed. After numerous calls over four months, the company refused to cancel the account and continued to call me relentlessly. TD Bank continues to add fees to the account. I requested back in XX/XX/2023 for the account to be closed. A representative told me that he would not close the account and that charges and calls would continue. \n\nI am disputing all charges and request that the calls cease immediately. I expect a resolution to this matter and a closure of the account without further inconvenience or negative impact on my credit score and report."
+}
+
+Chunk:
+i am writing to express my frustration with handling my account for online payments. when the account was set up, the checking account number was keyed in incorrectly. despite speaking with representatives on three different occasions, the representative did not mention the error of the incorrect checking account. as a result, late fees and insufficient fund charges were applied to my account. after the fourth attempt, i finally spoke with a representative who informed me of the issue with the checking account number. we made the necessary corrections, and i was assured that if i paid off all fees, a manager said the fees would be removed. i promptly paid the bill in xxxx, yet no fees were removed as promised. despite providing detailed information and being told a case would be opened, the charges were not removed. after numerous calls over four months, the company refused to cancel the account and continued to call me relentlessly. td bank continues to add fees to the account. i requested back in xx / xx / 2023 for the account to be closed. a representative told me that he would not close the account and that charges and calls would continue. i am disputing all charges and request that the calls cease immediately. i expect a resolution to this matter and a closure of the account without further inconvenience or negative impact on my credit score and report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966388940811157
+}

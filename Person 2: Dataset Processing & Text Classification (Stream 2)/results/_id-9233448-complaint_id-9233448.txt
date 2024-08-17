@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9233448,
+  "complaint_id": "9233448",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX I pay off my account ( XXXX ) Though XXXX XXXX XXXX and I had a balance of {$1500.00} at the end which I personally paid Capital One. The Account is close. In XXXX XXXX XXXX I pay off my platinum card XXXX and close that account. So for XXXX ( XXXX ) show a XXXX Balance when I go into capital one. Now in XXXX it show a bal of XXXX XXXXXXXXso I call Capital one and ask they said Account was pay off .. LOL so you waited 2yrs to say the account wasn't pay off which I know it was for a fact.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11374",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "In XX/XX/XXXX I pay off my account ( XXXX ) Though XXXX XXXX XXXX and I had a balance of {$1500.00} at the end which I personally paid Capital One. The Account is close. In XXXX XXXX XXXX I pay off my platinum card XXXX and close that account. So for XXXX ( XXXX ) show a XXXX Balance when I go into capital one. Now in XXXX it show a bal of XXXX XXXXXXXXso I call Capital one and ask they said Account was pay off .. LOL so you waited 2yrs to say the account wasn't pay off which I know it was for a fact."
+}
+
+Chunk:
+in xx / xx / xxxx i pay off my account ( xxxx ) though xxxx xxxx xxxx and i had a balance of { $ 1500. 00 } at the end which i personally paid capital one. the account is close. in xxxx xxxx xxxx i pay off my platinum card xxxx and close that account. so for xxxx ( xxxx ) show a xxxx balance when i go into capital one. now in xxxx it show a bal of xxxx xxxxxxxxso i call capital one and ask they said account was pay off.. lol so you waited 2yrs to say the account wasn't pay off which i know it was for a fact.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972225427627563
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9367265,
+  "complaint_id": "9367265",
+  "product": "Credit card",
+  "complaint_what_happened": "I seek relief from SYNCHRONY BANK to cease reporting late payments or Charged Off status on my credit profile to agencies such as XXXX, XXXX, and XXXX for SYNCHRONY BANK Account XXXX in the My name XXXX XXXX XXXX Pursuant to 15 U.S. Code 1635-Right of rescission as to transactions, should the credit report reflect late payments or charge-offs, I will have no choice but to report it to the authorities and file a lawsuit for mental distress and damages. The damages I'm not able to qualify for a mortgage, car loan or personal loan.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11691",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "I seek relief from SYNCHRONY BANK to cease reporting late payments or Charged Off status on my credit profile to agencies such as XXXX, XXXX, and XXXX for SYNCHRONY BANK Account XXXX in the My name XXXX XXXX XXXX Pursuant to 15 U.S. Code 1635-Right of rescission as to transactions, should the credit report reflect late payments or charge-offs, I will have no choice but to report it to the authorities and file a lawsuit for mental distress and damages. The damages I'm not able to qualify for a mortgage, car loan or personal loan."
+}
+
+Chunk:
+i seek relief from synchrony bank to cease reporting late payments or charged off status on my credit profile to agencies such as xxxx, xxxx, and xxxx for synchrony bank account xxxx in the my name xxxx xxxx xxxx pursuant to 15 u. s. code 1635 - right of rescission as to transactions, should the credit report reflect late payments or charge - offs, i will have no choice but to report it to the authorities and file a lawsuit for mental distress and damages. the damages i'm not able to qualify for a mortgage, car loan or personal loan.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994181394577026
+}

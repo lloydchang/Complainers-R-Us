@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9637918,
+  "complaint_id": "9637918",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Citibank Costco Visa Card, and because of my purchases, I have accumulated around {$140.00} in cash back on the card. Citibank states that I will lose my cash back if I close my account. That is not right. They should send me a check for those rewards.",
+  "date_sent_to_company": "2024-07-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77498",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-28T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have a Citibank Costco Visa Card, and because of my purchases, I have accumulated around {$140.00} in cash back on the card. Citibank states that I will lose my cash back if I close my account. That is not right. They should send me a check for those rewards."
+}
+
+Chunk:
+i have a citibank costco visa card, and because of my purchases, i have accumulated around { $ 140. 00 } in cash back on the card. citibank states that i will lose my cash back if i close my account. that is not right. they should send me a check for those rewards.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994238615036011
+}

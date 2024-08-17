@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9207982,
+  "complaint_id": "9207982",
+  "product": "Credit card",
+  "complaint_what_happened": "I booked a ride in XXXX, XXXX from the XXXX XXXXXXXX, XXXX to XXXX XXXX XXXX XXXX  ) on XX/XX/XXXX through XXXX app. The driver XXXX XXXX accepted the booking and we started this trip at XXXX am on XX/XX/XXXX. In the middle of the ride, the driver started telling me that I would miss my plane if I don't cancel the booking with XXXX and I have to pay him off XXXX app if I want to get to the airport on time. I ( female ) was in a foreign country, in his car in the middle of a highway, with luggage, without phone service or wi-fi. I said : no, I can not cancel XXXX, I don't have wi-fi and I don't have cash. He asked me for my phone, connected it to his phone 's wi-fi and canceled his ride on XXXX app. He drove me to the airport and charged my credit card XXXX XXXX XXXX XXXX US {$67.00} ) when the XXXX estimate was XXXX Turkish Liras. I did not sign the receipt as the amount charged was incorrect. I filed the dispute with my credit card bank- Capital XXXX for overcharge, providing detailed information about the nature of the dispute, timeframe of the ride, screenshots from XXXX app, email communication with XXXX XXXX from the app that included XXXX 's identifications, time, route kilometrage, amount to be charged for this ride, official taxi fares in XXXX. According to Capital One, all my support is invalid but not signed receipt from the driver is valid. I asked the bank representative over the phone if the driver charged me XXXX XXXX would that receipt be valid without my signature. The representative replied : no, but they can not help in my case. When booking this ride I agreed to pay the highest estimate XXXXXXXX XXXX XXXX I did not agree to pay the amount that was charged to my credit card forcefully by deceit. Capital One does not do its due diligence to protect its customer from fraud.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30096",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I booked a ride in XXXX, XXXX from the XXXX XXXXXXXX, XXXX to XXXX XXXX XXXX XXXX  ) on XX/XX/XXXX through XXXX app. The driver XXXX XXXX accepted the booking and we started this trip at XXXX am on XX/XX/XXXX. In the middle of the ride, the driver started telling me that I would miss my plane if I don't cancel the booking with XXXX and I have to pay him off XXXX app if I want to get to the airport on time. I ( female ) was in a foreign country, in his car in the middle of a highway, with luggage, without phone service or wi-fi. I said : no, I can not cancel XXXX, I don't have wi-fi and I don't have cash. He asked me for my phone, connected it to his phone 's wi-fi and canceled his ride on XXXX app. He drove me to the airport and charged my credit card XXXX XXXX XXXX XXXX US {$67.00} ) when the XXXX estimate was XXXX Turkish Liras. I did not sign the receipt as the amount charged was incorrect. I filed the dispute with my credit card bank- Capital XXXX for overcharge, providing detailed information about the nature of the dispute, timeframe of the ride, screenshots from XXXX app, email communication with XXXX XXXX from the app that included XXXX 's identifications, time, route kilometrage, amount to be charged for this ride, official taxi fares in XXXX. According to Capital One, all my support is invalid but not signed receipt from the driver is valid. I asked the bank representative over the phone if the driver charged me XXXX XXXX would that receipt be valid without my signature. The representative replied : no, but they can not help in my case. When booking this ride I agreed to pay the highest estimate XXXXXXXX XXXX XXXX I did not agree to pay the amount that was charged to my credit card forcefully by deceit. Capital One does not do its due diligence to protect its customer from fraud."
+}
+
+Chunk:
+i booked a ride in xxxx, xxxx from the xxxx xxxxxxxx, xxxx to xxxx xxxx xxxx xxxx ) on xx / xx / xxxx through xxxx app. the driver xxxx xxxx accepted the booking and we started this trip at xxxx am on xx / xx / xxxx. in the middle of the ride, the driver started telling me that i would miss my plane if i don't cancel the booking with xxxx and i have to pay him off xxxx app if i want to get to the airport on time. i ( female ) was in a foreign country, in his car in the middle of a highway, with luggage, without phone service or wi - fi. i said : no, i can not cancel xxxx, i don't have wi - fi and i don't have cash. he asked me for my phone, connected it to his phone's wi - fi and canceled his ride on xxxx app. he drove me to the airport and charged my credit card xxxx xxxx xxxx xxxx us { $ 67. 00 } ) when the xxxx estimate was xxxx turkish liras. i did not sign the receipt as the amount charged was incorrect. i filed the dispute with my credit card bank - capital xxxx for overcharge, providing detailed information about the nature of the dispute, timeframe of the ride, screenshots from xxxx app, email communication with xxxx xxxx from the app that included xxxx's identifications, time, route kilometrage, amount to be charged for this ride, official taxi fares in xxxx. according to capital one, all my support is invalid but not signed receipt from the driver is valid. i asked the bank representative over the phone if the driver charged me xxxx xxxx would that receipt be valid without my signature. the representative replied : no, but they can not help in my case. when booking this ride i agreed to pay the highest estimate xxxxxxxx xxxx xxxx i did not agree to pay the amount that was charged to my credit card forcefully by deceit. capital one does not do its due diligence to protect its customer from fraud.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986757636070251
+}

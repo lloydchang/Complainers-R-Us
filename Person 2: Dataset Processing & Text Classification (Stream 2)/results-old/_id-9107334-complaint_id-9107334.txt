@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9107334,
+  "complaint_id": "9107334",
+  "product": "Credit card",
+  "complaint_what_happened": "I put it this dispute for XXXX XXXX XXXX, I informed Capital One that I was not doing business with this company and they have been charging me for months. Capital One stated that they would do a dispute investigation and if they needed anything from me, they would reach out. Theyve never reached out and as of today they sent me a letter stating that they asked me for proof and my claim was denied. Theyve never asked me for anything and I have all the letters from Capital One. The last correspondence I have from Capital One was XX/XX/XXXX which was the initiation of the dispute and the last letter that I received was XX/XX/XXXX stating that they attempted to contact me which is not true. I have on my profile the Capital One can only contact me by Mail due to the fact that theyve done this in the past where they claim to get in contact with somebody and they dont.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06902",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I put it this dispute for XXXX XXXX XXXX, I informed Capital One that I was not doing business with this company and they have been charging me for months. Capital One stated that they would do a dispute investigation and if they needed anything from me, they would reach out. Theyve never reached out and as of today they sent me a letter stating that they asked me for proof and my claim was denied. Theyve never asked me for anything and I have all the letters from Capital One. The last correspondence I have from Capital One was XX/XX/XXXX which was the initiation of the dispute and the last letter that I received was XX/XX/XXXX stating that they attempted to contact me which is not true. I have on my profile the Capital One can only contact me by Mail due to the fact that theyve done this in the past where they claim to get in contact with somebody and they dont."
+}
+
+Chunk:
+i put it this dispute for xxxx xxxx xxxx, i informed capital one that i was not doing business with this company and they have been charging me for months. capital one stated that they would do a dispute investigation and if they needed anything from me, they would reach out. theyve never reached out and as of today they sent me a letter stating that they asked me for proof and my claim was denied. theyve never asked me for anything and i have all the letters from capital one. the last correspondence i have from capital one was xx / xx / xxxx which was the initiation of the dispute and the last letter that i received was xx / xx / xxxx stating that they attempted to contact me which is not true. i have on my profile the capital one can only contact me by mail due to the fact that theyve done this in the past where they claim to get in contact with somebody and they dont.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989224672317505
+}

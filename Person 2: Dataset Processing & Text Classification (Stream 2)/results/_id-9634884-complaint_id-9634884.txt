@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9634884,
+  "complaint_id": "9634884",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> while making a purchase through PayPal Checkout I was prompted with a promotional message saying \" Get {$50.00} if approved for the PayPal Cashback Mastercard Credit Card '' I went ahead and hit \" Apply '' and was approved for the card PayPal Cashback Mastercard Credit Card on XX/XX/year>. \n\nI have talked to several PayPal customer service agents, and going back and forth between different departments, however they are unable to find any information regarding the {$50.00} promotion for getting approved for PayPal Mastercard credit card, and informed me that such a bonus does not exist, or are unaware of such promotion.",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33157",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year> while making a purchase through PayPal Checkout I was prompted with a promotional message saying \" Get {$50.00} if approved for the PayPal Cashback Mastercard Credit Card '' I went ahead and hit \" Apply '' and was approved for the card PayPal Cashback Mastercard Credit Card on XX/XX/year>. \n\nI have talked to several PayPal customer service agents, and going back and forth between different departments, however they are unable to find any information regarding the {$50.00} promotion for getting approved for PayPal Mastercard credit card, and informed me that such a bonus does not exist, or are unaware of such promotion."
+}
+
+Chunk:
+on xx / xx / year > while making a purchase through paypal checkout i was prompted with a promotional message saying " get { $ 50. 00 } if approved for the paypal cashback mastercard credit card'' i went ahead and hit " apply'' and was approved for the card paypal cashback mastercard credit card on xx / xx / year >. i have talked to several paypal customer service agents, and going back and forth between different departments, however they are unable to find any information regarding the { $ 50. 00 } promotion for getting approved for paypal mastercard credit card, and informed me that such a bonus does not exist, or are unaware of such promotion.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992654919624329
+}

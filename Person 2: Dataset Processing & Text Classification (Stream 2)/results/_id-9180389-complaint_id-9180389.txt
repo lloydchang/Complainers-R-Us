@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9180389,
+  "complaint_id": "9180389",
+  "product": "Credit card",
+  "complaint_what_happened": "I received XXXX letters from credit card companies that someone is trying to open credit card in my name. The cards were denied for further information required. I froze my credit with the XXXX credit bureaus, XXXX, XXXX, XXXX. Dates were XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01915",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I received XXXX letters from credit card companies that someone is trying to open credit card in my name. The cards were denied for further information required. I froze my credit with the XXXX credit bureaus, XXXX, XXXX, XXXX. Dates were XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+i received xxxx letters from credit card companies that someone is trying to open credit card in my name. the cards were denied for further information required. i froze my credit with the xxxx credit bureaus, xxxx, xxxx, xxxx. dates were xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999347984790802
+}

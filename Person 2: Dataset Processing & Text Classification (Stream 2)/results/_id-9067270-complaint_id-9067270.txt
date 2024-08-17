@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067270,
+  "complaint_id": "9067270",
+  "product": "Credit card",
+  "complaint_what_happened": "Citizens Bank XXXX XXXX XXXX XXXX  XXXX NY advertised a bonus for offering a credit card. When I went to apply for the card, I filled out the necessary forms. When I was denied the credit card, I learned that I must unfreeze my credit reports .... which I did for 7 days. However, Citizens Bank insisted that I must unfreeze for 30 days. I don't understand why 7 days isn't enough time for Citizens Bank to learn about my credit history.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "146XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIZENS FINANCIAL GROUP, INC.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "Citizens Bank XXXX XXXX XXXX XXXX  XXXX NY advertised a bonus for offering a credit card. When I went to apply for the card, I filled out the necessary forms. When I was denied the credit card, I learned that I must unfreeze my credit reports .... which I did for 7 days. However, Citizens Bank insisted that I must unfreeze for 30 days. I don't understand why 7 days isn't enough time for Citizens Bank to learn about my credit history."
+}
+
+Chunk:
+citizens bank xxxx xxxx xxxx xxxx xxxx ny advertised a bonus for offering a credit card. when i went to apply for the card, i filled out the necessary forms. when i was denied the credit card, i learned that i must unfreeze my credit reports.... which i did for 7 days. however, citizens bank insisted that i must unfreeze for 30 days. i don't understand why 7 days isn't enough time for citizens bank to learn about my credit history.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971693158149719
+}

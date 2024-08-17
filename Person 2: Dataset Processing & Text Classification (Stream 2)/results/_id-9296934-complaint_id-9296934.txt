@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9296934,
+  "complaint_id": "9296934",
+  "product": "Credit card",
+  "complaint_what_happened": "This issue is related to my Costco Citibank Visa credit card. \nEvents : XX/XX/XXXX : Completed a {$25000.00} balance transfer from XXXX XXXX XXXX XXXX card to Citibank XX/XX/XXXX : Charged {$25000.00} for payment to IRS for income tax XX/XX/XXXX : Citibank charged my card {$25000.00} with transaction \" REV PYMT POSTED IN ERROR '' and added it to my bill. However the balance transfer was not actually reversed - there was no credit sent back to XXXX XXXX. \nXXXX : Citibank took money from my bank account to pay for the full amount of the outstanding balance, repeatedly overdrawing it until I got a high interest personal loan to cover the payment XXXX : Have made 5 long calls to citibank customer service to get the issue resolved. Some customer service reps say to wait and see if it gets adjusted, some say there's nothing they can do, one said to physically send in my XXXX XXXX credit card statement showing the transfer ( which we did to no avail. ) Citibank customer service does not know why the payment was reversed ( and kept by citibank ), and says they have no way to get in touch with the department that initiates these transactions. I'm at a loss how to get them to return or locate my {$25000.00}",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "This issue is related to my Costco Citibank Visa credit card. \nEvents : XX/XX/XXXX : Completed a {$25000.00} balance transfer from XXXX XXXX XXXX XXXX card to Citibank XX/XX/XXXX : Charged {$25000.00} for payment to IRS for income tax XX/XX/XXXX : Citibank charged my card {$25000.00} with transaction \" REV PYMT POSTED IN ERROR '' and added it to my bill. However the balance transfer was not actually reversed - there was no credit sent back to XXXX XXXX. \nXXXX : Citibank took money from my bank account to pay for the full amount of the outstanding balance, repeatedly overdrawing it until I got a high interest personal loan to cover the payment XXXX : Have made 5 long calls to citibank customer service to get the issue resolved. Some customer service reps say to wait and see if it gets adjusted, some say there's nothing they can do, one said to physically send in my XXXX XXXX credit card statement showing the transfer ( which we did to no avail. ) Citibank customer service does not know why the payment was reversed ( and kept by citibank ), and says they have no way to get in touch with the department that initiates these transactions. I'm at a loss how to get them to return or locate my {$25000.00}"
+}
+
+Chunk:
+this issue is related to my costco citibank visa credit card. events : xx / xx / xxxx : completed a { $ 25000. 00 } balance transfer from xxxx xxxx xxxx xxxx card to citibank xx / xx / xxxx : charged { $ 25000. 00 } for payment to irs for income tax xx / xx / xxxx : citibank charged my card { $ 25000. 00 } with transaction " rev pymt posted in error'' and added it to my bill. however the balance transfer was not actually reversed - there was no credit sent back to xxxx xxxx. xxxx : citibank took money from my bank account to pay for the full amount of the outstanding balance, repeatedly overdrawing it until i got a high interest personal loan to cover the payment xxxx : have made 5 long calls to citibank customer service to get the issue resolved. some customer service reps say to wait and see if it gets adjusted, some say there's nothing they can do, one said to physically send in my xxxx xxxx credit card statement showing the transfer ( which we did to no avail. ) citibank customer service does not know why the payment was reversed ( and kept by citibank ), and says they have no way to get in touch with the department that initiates these transactions. i'm at a loss how to get them to return or locate my { $ 25000. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996606111526489
+}

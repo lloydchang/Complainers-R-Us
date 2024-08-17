@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9219982,
+  "complaint_id": "9219982",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> XXXXXXXX XXXX alerted me to a fraudulent account where a credit account for Bank of America ( Which I have never opened an account or interacted with ) for an amount of {$13000.00}. I am currently assigned as an authorized user on the account but I never approved nor was made aware of this. After going to the local Bank of America in order to remove myself the account they informed me the account does not even exist and my information do not exist in their system. As of now I have called XXXX secure lines through XXXXXXXX XXXX fraud department and gave the fraud complaint gentleman at XXXX the last XXXX digits of my social security number. Then I called the XXXX XXXX XXXX number XXXX to confirm the information was in fact there and was asked to give my social security number in full to confirm my identity. While I doubt either of these numbers is tied to any phishing or fraud the fact that an account was opened in my name leads me to believe that my SSN was compromised and used for fraudulent purposes on XX/XX/year>. Attached are the XXXX relevant photos taken from the Data Alert tab under XXXXXXXX XXXX, as well as the relevant number I called to file a fraud complaint with.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95123",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "On XX/XX/year> XXXXXXXX XXXX alerted me to a fraudulent account where a credit account for Bank of America ( Which I have never opened an account or interacted with ) for an amount of {$13000.00}. I am currently assigned as an authorized user on the account but I never approved nor was made aware of this. After going to the local Bank of America in order to remove myself the account they informed me the account does not even exist and my information do not exist in their system. As of now I have called XXXX secure lines through XXXXXXXX XXXX fraud department and gave the fraud complaint gentleman at XXXX the last XXXX digits of my social security number. Then I called the XXXX XXXX XXXX number XXXX to confirm the information was in fact there and was asked to give my social security number in full to confirm my identity. While I doubt either of these numbers is tied to any phishing or fraud the fact that an account was opened in my name leads me to believe that my SSN was compromised and used for fraudulent purposes on XX/XX/year>. Attached are the XXXX relevant photos taken from the Data Alert tab under XXXXXXXX XXXX, as well as the relevant number I called to file a fraud complaint with."
+}
+
+Chunk:
+on xx / xx / year > xxxxxxxx xxxx alerted me to a fraudulent account where a credit account for bank of america ( which i have never opened an account or interacted with ) for an amount of { $ 13000. 00 }. i am currently assigned as an authorized user on the account but i never approved nor was made aware of this. after going to the local bank of america in order to remove myself the account they informed me the account does not even exist and my information do not exist in their system. as of now i have called xxxx secure lines through xxxxxxxx xxxx fraud department and gave the fraud complaint gentleman at xxxx the last xxxx digits of my social security number. then i called the xxxx xxxx xxxx number xxxx to confirm the information was in fact there and was asked to give my social security number in full to confirm my identity. while i doubt either of these numbers is tied to any phishing or fraud the fact that an account was opened in my name leads me to believe that my ssn was compromised and used for fraudulent purposes on xx / xx / year >. attached are the xxxx relevant photos taken from the data alert tab under xxxxxxxx xxxx, as well as the relevant number i called to file a fraud complaint with.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987780451774597
+}

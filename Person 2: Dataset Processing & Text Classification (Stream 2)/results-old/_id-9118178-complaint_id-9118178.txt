@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9118178,
+  "complaint_id": "9118178",
+  "product": "Credit card",
+  "complaint_what_happened": "In case XXXX I asked for my credit card statements and the branch manager finally gave them to me, but I need to report the unauthorized transactions as fraud. When I call Bank of America, they ask for the phone number on the account in order to authenticate my account. but the phone number belongs to the lady that stole and used my credit card. This was the only option they gave me to authenticate my account over the phone. I went into a branch where the Branch Manager knows me and although he released my bank statements, he stated he couldn't initiate a fraud case unless I provided two forms of ID. I advised him the suspect that stole my credit card also stole all of my ID and there is a criminal case against her. Earlier this month I ordered my ID and social security card but never received it. I notified our mail carrier and the mail carrier stated that a lady named XXXX XXXX XXXX ( she is a resident here and our suspect ) advised her that she was going to be taken care of me and that I was going to be living with her and told her to divert all of my mail to her place. All not true. I filed a complaint with the postal inspector.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89103",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In case XXXX I asked for my credit card statements and the branch manager finally gave them to me, but I need to report the unauthorized transactions as fraud. When I call Bank of America, they ask for the phone number on the account in order to authenticate my account. but the phone number belongs to the lady that stole and used my credit card. This was the only option they gave me to authenticate my account over the phone. I went into a branch where the Branch Manager knows me and although he released my bank statements, he stated he couldn't initiate a fraud case unless I provided two forms of ID. I advised him the suspect that stole my credit card also stole all of my ID and there is a criminal case against her. Earlier this month I ordered my ID and social security card but never received it. I notified our mail carrier and the mail carrier stated that a lady named XXXX XXXX XXXX ( she is a resident here and our suspect ) advised her that she was going to be taken care of me and that I was going to be living with her and told her to divert all of my mail to her place. All not true. I filed a complaint with the postal inspector."
+}
+
+Chunk:
+in case xxxx i asked for my credit card statements and the branch manager finally gave them to me, but i need to report the unauthorized transactions as fraud. when i call bank of america, they ask for the phone number on the account in order to authenticate my account. but the phone number belongs to the lady that stole and used my credit card. this was the only option they gave me to authenticate my account over the phone. i went into a branch where the branch manager knows me and although he released my bank statements, he stated he couldn't initiate a fraud case unless i provided two forms of id. i advised him the suspect that stole my credit card also stole all of my id and there is a criminal case against her. earlier this month i ordered my id and social security card but never received it. i notified our mail carrier and the mail carrier stated that a lady named xxxx xxxx xxxx ( she is a resident here and our suspect ) advised her that she was going to be taken care of me and that i was going to be living with her and told her to divert all of my mail to her place. all not true. i filed a complaint with the postal inspector.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998737633228302
+}

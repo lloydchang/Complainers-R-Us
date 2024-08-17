@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9170046,
+  "complaint_id": "9170046",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for XXXX Credit Card with Synchrony bank based on promotion for XXXX  % cash back reward. However i only received XXXX  % cash back.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92108",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I applied for XXXX Credit Card with Synchrony bank based on promotion for XXXX  % cash back reward. However i only received XXXX  % cash back."
+}
+
+Chunk:
+i applied for xxxx credit card with synchrony bank based on promotion for xxxx % cash back reward. however i only received xxxx % cash back.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9943249821662903
+}

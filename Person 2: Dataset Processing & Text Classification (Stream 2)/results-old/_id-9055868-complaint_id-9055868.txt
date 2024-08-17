@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055868,
+  "complaint_id": "9055868",
+  "product": "Credit card",
+  "complaint_what_happened": "I was notified today ( XX/XX/24 ) by XXXX ( XXXX XXXX XXXX XXXX XXXX my credit report provided by XXXX on XXXX ( XX/XX/24 ) and decided to lower my credit. I also know that if I contact XXXX, they will tell me they have no influence on decisions made by credit credit card companies. It is a scam and a catch 22. I have never been late. I have never missed a payment. I stayed under 50 %. When I contacted XXXX today ( XX/XX/24 ) what I was told is that they review all credit cards, not just chase and they make a soft pull. I did not authorize this. They claim it is in the terms and conditions. I did not authorize a random pull of my credit, especially if I am paying as agreed. Im paying all my cards as agreed as they dont get to tell me how much I should use. Clearly if Im paying more that the minimum as agreed, I know what Im doing. Their arbitrary reduction of my credit line from {$7000.00} to {$3900.00}, causes my credit utilization increase significantly as I have a {$3500.00} balance on the card. So basically, the card in now maxed out from their actions and not mine. They should not be allowed to negatively impact and decrease my credit score. This is a huge negaive impact to me and has caused me hardship because my credit score will drop and I am trying to buy a home. The rep also stated, I have a 60 day reconsideration window that they will recheck my credit ( BUT I will have to authorize a hard pull which also reduces my score and stays on my report for years ). What recourse do I have? I want my account limit restored as I have paid as agreed but due to this reduction, I now appear to have maxed out my card. Chase has caused me a hardship. I believe it has to do with my demographic and race. Which they have access to from my application. I do not believe Chase is reducing the credit limits of XXXX XXXX XXXX XXXX XXXX XXXX card holders with similar credit profiles.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21060",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I was notified today ( XX/XX/24 ) by XXXX ( XXXX XXXX XXXX XXXX XXXX my credit report provided by XXXX on XXXX ( XX/XX/24 ) and decided to lower my credit. I also know that if I contact XXXX, they will tell me they have no influence on decisions made by credit credit card companies. It is a scam and a catch 22. I have never been late. I have never missed a payment. I stayed under 50 %. When I contacted XXXX today ( XX/XX/24 ) what I was told is that they review all credit cards, not just chase and they make a soft pull. I did not authorize this. They claim it is in the terms and conditions. I did not authorize a random pull of my credit, especially if I am paying as agreed. Im paying all my cards as agreed as they dont get to tell me how much I should use. Clearly if Im paying more that the minimum as agreed, I know what Im doing. Their arbitrary reduction of my credit line from {$7000.00} to {$3900.00}, causes my credit utilization increase significantly as I have a {$3500.00} balance on the card. So basically, the card in now maxed out from their actions and not mine. They should not be allowed to negatively impact and decrease my credit score. This is a huge negaive impact to me and has caused me hardship because my credit score will drop and I am trying to buy a home. The rep also stated, I have a 60 day reconsideration window that they will recheck my credit ( BUT I will have to authorize a hard pull which also reduces my score and stays on my report for years ). What recourse do I have? I want my account limit restored as I have paid as agreed but due to this reduction, I now appear to have maxed out my card. Chase has caused me a hardship. I believe it has to do with my demographic and race. Which they have access to from my application. I do not believe Chase is reducing the credit limits of XXXX XXXX XXXX XXXX XXXX XXXX card holders with similar credit profiles."
+}
+
+Chunk:
+i was notified today ( xx / xx / 24 ) by xxxx ( xxxx xxxx xxxx xxxx xxxx my credit report provided by xxxx on xxxx ( xx / xx / 24 ) and decided to lower my credit. i also know that if i contact xxxx, they will tell me they have no influence on decisions made by credit credit card companies. it is a scam and a catch 22. i have never been late. i have never missed a payment. i stayed under 50 %. when i contacted xxxx today ( xx / xx / 24 ) what i was told is that they review all credit cards, not just chase and they make a soft pull. i did not authorize this. they claim it is in the terms and conditions. i did not authorize a random pull of my credit, especially if i am paying as agreed. im paying all my cards as agreed as they dont get to tell me how much i should use. clearly if im paying more that the minimum as agreed, i know what im doing. their arbitrary reduction of my credit line from { $ 7000. 00 } to { $ 3900. 00 }, causes my credit utilization increase significantly as i have a { $ 3500. 00 } balance on the card. so basically, the card in now maxed out from their actions and not mine. they should not be allowed to negatively impact and decrease my credit score. this is a huge negaive impact to me and has caused me hardship because my credit score will drop and i am trying to buy a home. the rep also stated, i have a 60 day reconsideration window that they will recheck my credit ( but i will have to authorize a hard pull which also reduces my score and stays on my report for years ). what recourse do i have? i want my account limit restored as i have paid as agreed but due to this reduction, i now appear to have maxed out my card. chase has caused me a hardship. i believe it has to do with my demographic and race. which they have access to from my application. i do not believe chase is reducing the credit limits of xxxx xxxx xxxx xxxx xxxx xxxx card holders with similar credit profiles.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984011054039001
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055569,
+  "complaint_id": "9055569",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a Citi XXXX XXXX card XX/XX/XXXX and was denied for inquires. I have good credit and XXXX inquiry in XXXX",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "972XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for a Citi XXXX XXXX card XX/XX/XXXX and was denied for inquires. I have good credit and XXXX inquiry in XXXX"
+}
+
+Chunk:
+i applied for a citi xxxx xxxx card xx / xx / xxxx and was denied for inquires. i have good credit and xxxx inquiry in xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9392670392990112
+}

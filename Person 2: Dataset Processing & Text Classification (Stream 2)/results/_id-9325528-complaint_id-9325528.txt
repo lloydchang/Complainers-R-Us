@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9325528,
+  "complaint_id": "9325528",
+  "product": "Credit card",
+  "complaint_what_happened": "I had opened a Macy 's store card in XX/XX/XXXX. It had some balance. I called and paid it in full inclusive of interest charges and late fees in XX/XX/XXXX. I was told by agent on call that it was paid in full and I was uptodate. I then asked the agent to close the account. \n\nAfter that I got charged late fees and interest of {$85.00}. I called to resolve the issue. I spoke to an agent in XXXX and she said she can't remove the late fees or intesrest. If she can do something it will be removing {$20.00} but I am still responsible for {$65.00}. \n\nI asked for XXXX and she said no one is available. I repeatedly had to request that I speak to a XXXX and the XXXX 's name. She declined to provide the information. I was on call for more than XXXX minutes. She kept saying that the manager/any of the supervisors are not available. \n\nAfter XXXX minutes of arguing she got a XXXX on line. The XXXX said that they will remove the balance but if it actually happens remains to be seen. Once a customer pays full amount that was given to them on phone and closes the account after that, they should not be asked to pay late fees and interest charges on balance of XXXX. This is a financial scam.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "85249",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I had opened a Macy 's store card in XX/XX/XXXX. It had some balance. I called and paid it in full inclusive of interest charges and late fees in XX/XX/XXXX. I was told by agent on call that it was paid in full and I was uptodate. I then asked the agent to close the account. \n\nAfter that I got charged late fees and interest of {$85.00}. I called to resolve the issue. I spoke to an agent in XXXX and she said she can't remove the late fees or intesrest. If she can do something it will be removing {$20.00} but I am still responsible for {$65.00}. \n\nI asked for XXXX and she said no one is available. I repeatedly had to request that I speak to a XXXX and the XXXX 's name. She declined to provide the information. I was on call for more than XXXX minutes. She kept saying that the manager/any of the supervisors are not available. \n\nAfter XXXX minutes of arguing she got a XXXX on line. The XXXX said that they will remove the balance but if it actually happens remains to be seen. Once a customer pays full amount that was given to them on phone and closes the account after that, they should not be asked to pay late fees and interest charges on balance of XXXX. This is a financial scam."
+}
+
+Chunk:
+i had opened a macy's store card in xx / xx / xxxx. it had some balance. i called and paid it in full inclusive of interest charges and late fees in xx / xx / xxxx. i was told by agent on call that it was paid in full and i was uptodate. i then asked the agent to close the account. after that i got charged late fees and interest of { $ 85. 00 }. i called to resolve the issue. i spoke to an agent in xxxx and she said she can't remove the late fees or intesrest. if she can do something it will be removing { $ 20. 00 } but i am still responsible for { $ 65. 00 }. i asked for xxxx and she said no one is available. i repeatedly had to request that i speak to a xxxx and the xxxx's name. she declined to provide the information. i was on call for more than xxxx minutes. she kept saying that the manager / any of the supervisors are not available. after xxxx minutes of arguing she got a xxxx on line. the xxxx said that they will remove the balance but if it actually happens remains to be seen. once a customer pays full amount that was given to them on phone and closes the account after that, they should not be asked to pay late fees and interest charges on balance of xxxx. this is a financial scam.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991748929023743
+}

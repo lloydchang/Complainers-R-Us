@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9523624,
+  "complaint_id": "9523624",
+  "product": "Credit card",
+  "complaint_what_happened": "I have sent 3 letters to BarclaysXXXX XXXX XXXX XXXX did not authorize or approve the credit card account or the transaction of {$4300.00}. This transaction is related to a presentation to purchase a Vacation Ownership Plan. I did not accept the terms nor did I provide signatures/authorization on any documents. I've requested validation and evidence of acceptance/approval.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75088",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I have sent 3 letters to BarclaysXXXX XXXX XXXX XXXX did not authorize or approve the credit card account or the transaction of {$4300.00}. This transaction is related to a presentation to purchase a Vacation Ownership Plan. I did not accept the terms nor did I provide signatures/authorization on any documents. I've requested validation and evidence of acceptance/approval."
+}
+
+Chunk:
+i have sent 3 letters to barclaysxxxx xxxx xxxx xxxx did not authorize or approve the credit card account or the transaction of { $ 4300. 00 }. this transaction is related to a presentation to purchase a vacation ownership plan. i did not accept the terms nor did i provide signatures / authorization on any documents. i've requested validation and evidence of acceptance / approval.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991520643234253
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049056,
+  "complaint_id": "9049056",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for and received a truist credit card with a 0 % promotional rate for 12 months. When I set up the auto pay for some reason it didn't pay the minimum amount for the first payment and I received a late fee and lost my promotional rate. As soon as Truist contracted me I corrected the auto pay and paid the due amount and set up auto pay with their help. They admitted that its confusing because they have a card account to pay or the main corporate account to pay. One account was showing no balance and the other was showing a balance. I asked because of the confusion in setting it up if they would reinstate my promotional offer as that was the reason for getting the card and they said no and I believe the new rate they would take me to is XXXX which I think is unfair considering they know there billing process is confusing.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "190XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I applied for and received a truist credit card with a 0 % promotional rate for 12 months. When I set up the auto pay for some reason it didn't pay the minimum amount for the first payment and I received a late fee and lost my promotional rate. As soon as Truist contracted me I corrected the auto pay and paid the due amount and set up auto pay with their help. They admitted that its confusing because they have a card account to pay or the main corporate account to pay. One account was showing no balance and the other was showing a balance. I asked because of the confusion in setting it up if they would reinstate my promotional offer as that was the reason for getting the card and they said no and I believe the new rate they would take me to is XXXX which I think is unfair considering they know there billing process is confusing."
+}
+
+Chunk:
+i applied for and received a truist credit card with a 0 % promotional rate for 12 months. when i set up the auto pay for some reason it didn't pay the minimum amount for the first payment and i received a late fee and lost my promotional rate. as soon as truist contracted me i corrected the auto pay and paid the due amount and set up auto pay with their help. they admitted that its confusing because they have a card account to pay or the main corporate account to pay. one account was showing no balance and the other was showing a balance. i asked because of the confusion in setting it up if they would reinstate my promotional offer as that was the reason for getting the card and they said no and i believe the new rate they would take me to is xxxx which i think is unfair considering they know there billing process is confusing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996709823608398
+}

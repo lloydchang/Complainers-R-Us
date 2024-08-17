@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9030104,
+  "complaint_id": "9030104",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased electronics at the Best Buy store in XXXX, TX on XX/XX/XXXX. The salesperson persuaded me to take advantage of their interest-free financing offer through the Best Buy store credit card, which is issued in partnership with Citi Cards XXXX Due to their persistent encouragement, I opted for this financing option. Since then, I have consistently made all my monthly payments on time. \n\nHowever, in XX/XX/XXXX, Best Buy charged me an exorbitant interest amount of {$3800.00} for the year XXXX. Additionally, they charged another {$670.00} in interest for the period from XXXX to XX/XX/XXXX. The total interest charged so far amounts to {$4500.00}, which is more than the remaining balance on my credit card. \n\nTypically, financial institutions should apply monthly interest on the remaining balance starting from the end date of the promotional offer. In my case, the promotional offer was supposed to end in XX/XX/XXXX. However, it appears that the financial institution has retroactively applied interest from the beginning, despite my regular monthly payments. This practice seems unfair and exploitative. \n\nI seek your assistance in addressing this issue and reducing these excessive interest charges.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75035",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I purchased electronics at the Best Buy store in XXXX, TX on XX/XX/XXXX. The salesperson persuaded me to take advantage of their interest-free financing offer through the Best Buy store credit card, which is issued in partnership with Citi Cards XXXX Due to their persistent encouragement, I opted for this financing option. Since then, I have consistently made all my monthly payments on time. \n\nHowever, in XX/XX/XXXX, Best Buy charged me an exorbitant interest amount of {$3800.00} for the year XXXX. Additionally, they charged another {$670.00} in interest for the period from XXXX to XX/XX/XXXX. The total interest charged so far amounts to {$4500.00}, which is more than the remaining balance on my credit card. \n\nTypically, financial institutions should apply monthly interest on the remaining balance starting from the end date of the promotional offer. In my case, the promotional offer was supposed to end in XX/XX/XXXX. However, it appears that the financial institution has retroactively applied interest from the beginning, despite my regular monthly payments. This practice seems unfair and exploitative. \n\nI seek your assistance in addressing this issue and reducing these excessive interest charges."
+}
+
+Chunk:
+i purchased electronics at the best buy store in xxxx, tx on xx / xx / xxxx. the salesperson persuaded me to take advantage of their interest - free financing offer through the best buy store credit card, which is issued in partnership with citi cards xxxx due to their persistent encouragement, i opted for this financing option. since then, i have consistently made all my monthly payments on time. however, in xx / xx / xxxx, best buy charged me an exorbitant interest amount of { $ 3800. 00 } for the year xxxx. additionally, they charged another { $ 670. 00 } in interest for the period from xxxx to xx / xx / xxxx. the total interest charged so far amounts to { $ 4500. 00 }, which is more than the remaining balance on my credit card. typically, financial institutions should apply monthly interest on the remaining balance starting from the end date of the promotional offer. in my case, the promotional offer was supposed to end in xx / xx / xxxx. however, it appears that the financial institution has retroactively applied interest from the beginning, despite my regular monthly payments. this practice seems unfair and exploitative. i seek your assistance in addressing this issue and reducing these excessive interest charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974457025527954
+}

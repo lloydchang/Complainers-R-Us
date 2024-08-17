@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9171296,
+  "complaint_id": "9171296",
+  "product": "Credit card",
+  "complaint_what_happened": "I have the American Express Optima Card, which I am thankful for. I received the card after paying the balance of my American Express Hilton card ending in XXXX, albeit it was after the fact. About one month after receiving my card, I started dialoguing with American Express 's Credit Bureau Department about removing the \" paid chargeoff '' account that has numerous errors. On two separate occasions, not one but TWO representatives confirmed that the old account would be removed from the report both because of the errors and as a courtesy, stating that American Express believes in helping people who make their accounts whole with them again. To this day, American Express has not kept their word in removing the older account, and I want them to uphold their promise to remove that account ending in XXXX.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46902",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I have the American Express Optima Card, which I am thankful for. I received the card after paying the balance of my American Express Hilton card ending in XXXX, albeit it was after the fact. About one month after receiving my card, I started dialoguing with American Express 's Credit Bureau Department about removing the \" paid chargeoff '' account that has numerous errors. On two separate occasions, not one but TWO representatives confirmed that the old account would be removed from the report both because of the errors and as a courtesy, stating that American Express believes in helping people who make their accounts whole with them again. To this day, American Express has not kept their word in removing the older account, and I want them to uphold their promise to remove that account ending in XXXX."
+}
+
+Chunk:
+i have the american express optima card, which i am thankful for. i received the card after paying the balance of my american express hilton card ending in xxxx, albeit it was after the fact. about one month after receiving my card, i started dialoguing with american express's credit bureau department about removing the " paid chargeoff'' account that has numerous errors. on two separate occasions, not one but two representatives confirmed that the old account would be removed from the report both because of the errors and as a courtesy, stating that american express believes in helping people who make their accounts whole with them again. to this day, american express has not kept their word in removing the older account, and i want them to uphold their promise to remove that account ending in xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.993778645992279
+}

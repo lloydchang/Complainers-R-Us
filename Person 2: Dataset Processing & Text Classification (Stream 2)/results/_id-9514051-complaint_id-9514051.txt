@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9514051,
+  "complaint_id": "9514051",
+  "product": "Credit card",
+  "complaint_what_happened": "My bank made a payment on my behalf and Citi Bank has not posted the payment. The customer service representative stated that the payment had not been received, when payment was signed for upon delivery by an associate.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75216",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "My bank made a payment on my behalf and Citi Bank has not posted the payment. The customer service representative stated that the payment had not been received, when payment was signed for upon delivery by an associate."
+}
+
+Chunk:
+my bank made a payment on my behalf and citi bank has not posted the payment. the customer service representative stated that the payment had not been received, when payment was signed for upon delivery by an associate.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985349178314209
+}

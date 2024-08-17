@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9060093,
+  "complaint_id": "9060093",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express reduced my credit limit from {$10000.00} to {$2400.00} in XXXX XXXX. This action ruined my credit score and Im still being affected by it 6 months later. The reason in their message sent to me on XXXXXX/XX/year> was after a recent review, your credit limit has changed. \nI always made my payments on time and to this day Ive never been late with payments on any credit cards, but because of Amexs sudden and drastic action my credit score fell XXXX points and made my other credit card companies panic & lower my credit limit. \nI got cash advances from Amex while I was studying for a professional exam to get back to my higher paying professional career. I passed my exam and got a high paying job but Im still poor because I pay hundreds of dollars of interest every month and all my paychecks goes to paying bills. This is all because of American Express ruining my credit. No bank gives me 0 % transfer cards so that I can pay off my debt. All my cards are 29.99 % interest same as Am Ex. Ive paid American Express all my payments on time and at least {$500.00} in interest at 29.99 % rate so they made money off of me while they ruined my credit and made me lose so much money.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92656",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "American Express reduced my credit limit from {$10000.00} to {$2400.00} in XXXX XXXX. This action ruined my credit score and Im still being affected by it 6 months later. The reason in their message sent to me on XXXXXX/XX/year> was after a recent review, your credit limit has changed. \nI always made my payments on time and to this day Ive never been late with payments on any credit cards, but because of Amexs sudden and drastic action my credit score fell XXXX points and made my other credit card companies panic & lower my credit limit. \nI got cash advances from Amex while I was studying for a professional exam to get back to my higher paying professional career. I passed my exam and got a high paying job but Im still poor because I pay hundreds of dollars of interest every month and all my paychecks goes to paying bills. This is all because of American Express ruining my credit. No bank gives me 0 % transfer cards so that I can pay off my debt. All my cards are 29.99 % interest same as Am Ex. Ive paid American Express all my payments on time and at least {$500.00} in interest at 29.99 % rate so they made money off of me while they ruined my credit and made me lose so much money."
+}
+
+Chunk:
+american express reduced my credit limit from { $ 10000. 00 } to { $ 2400. 00 } in xxxx xxxx. this action ruined my credit score and im still being affected by it 6 months later. the reason in their message sent to me on xxxxxx / xx / year > was after a recent review, your credit limit has changed. i always made my payments on time and to this day ive never been late with payments on any credit cards, but because of amexs sudden and drastic action my credit score fell xxxx points and made my other credit card companies panic & lower my credit limit. i got cash advances from amex while i was studying for a professional exam to get back to my higher paying professional career. i passed my exam and got a high paying job but im still poor because i pay hundreds of dollars of interest every month and all my paychecks goes to paying bills. this is all because of american express ruining my credit. no bank gives me 0 % transfer cards so that i can pay off my debt. all my cards are 29. 99 % interest same as am ex. ive paid american express all my payments on time and at least { $ 500. 00 } in interest at 29. 99 % rate so they made money off of me while they ruined my credit and made me lose so much money.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996682405471802
+}

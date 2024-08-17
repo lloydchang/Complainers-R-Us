@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9336455,
+  "complaint_id": "9336455",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a notice stating I was in default of {$2100.00} for an account ending in XXXX on approximately XX/XX/XXXX. I did not recognize this account and sent a letter dated XX/XX/XXXX requesting documentation of this account. Approximately 2 weeks later I was informed that the account was fraudulently opened and to sign their affadavit attesting to this. I mailed this response approximately XX/XX/XXXX. Today I received a letter dated XX/XX/XXXX informing me that the account ending in XXXX belonged to me based on identifying information they confirmed. I called XXXX for the Fraud Investigation Team and XXXX informed me that this account was in XXXX and that she could not see details and would forward a request to an investigation at Synchrony. I also took down my Fraud file # XXXX and an address to continue with my complaint. In looking through my XXXX bankruptcy documents filed in XXXX, I located an account # ending in XXXX for Paypal with the same disputed amount. I had not heard from this company in years which is why I was surprised to hear about a deliquent balance since I have worked very hard to limit taking on any debt I can't afford. I need your assistance in resolving this matter for a discharged debt that Synchrony/Paypal is trying to recover almost 5 years later.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29229",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Filed for bankruptcy",
+  "text": "I received a notice stating I was in default of {$2100.00} for an account ending in XXXX on approximately XX/XX/XXXX. I did not recognize this account and sent a letter dated XX/XX/XXXX requesting documentation of this account. Approximately 2 weeks later I was informed that the account was fraudulently opened and to sign their affadavit attesting to this. I mailed this response approximately XX/XX/XXXX. Today I received a letter dated XX/XX/XXXX informing me that the account ending in XXXX belonged to me based on identifying information they confirmed. I called XXXX for the Fraud Investigation Team and XXXX informed me that this account was in XXXX and that she could not see details and would forward a request to an investigation at Synchrony. I also took down my Fraud file # XXXX and an address to continue with my complaint. In looking through my XXXX bankruptcy documents filed in XXXX, I located an account # ending in XXXX for Paypal with the same disputed amount. I had not heard from this company in years which is why I was surprised to hear about a deliquent balance since I have worked very hard to limit taking on any debt I can't afford. I need your assistance in resolving this matter for a discharged debt that Synchrony/Paypal is trying to recover almost 5 years later."
+}
+
+Chunk:
+i received a notice stating i was in default of { $ 2100. 00 } for an account ending in xxxx on approximately xx / xx / xxxx. i did not recognize this account and sent a letter dated xx / xx / xxxx requesting documentation of this account. approximately 2 weeks later i was informed that the account was fraudulently opened and to sign their affadavit attesting to this. i mailed this response approximately xx / xx / xxxx. today i received a letter dated xx / xx / xxxx informing me that the account ending in xxxx belonged to me based on identifying information they confirmed. i called xxxx for the fraud investigation team and xxxx informed me that this account was in xxxx and that she could not see details and would forward a request to an investigation at synchrony. i also took down my fraud file # xxxx and an address to continue with my complaint. in looking through my xxxx bankruptcy documents filed in xxxx, i located an account # ending in xxxx for paypal with the same disputed amount. i had not heard from this company in years which is why i was surprised to hear about a deliquent balance since i have worked very hard to limit taking on any debt i can't afford. i need your assistance in resolving this matter for a discharged debt that synchrony / paypal is trying to recover almost 5 years later.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981223940849304
+}

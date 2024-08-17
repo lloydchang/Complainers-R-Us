@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113868,
+  "complaint_id": "9113868",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone used my name and social security to open an account",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "Store credit card",
+  "zip_code": "553XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Old information reappears or never goes away",
+  "text": "Someone used my name and social security to open an account"
+}
+
+Chunk:
+someone used my name and social security to open an account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972387552261353
+}

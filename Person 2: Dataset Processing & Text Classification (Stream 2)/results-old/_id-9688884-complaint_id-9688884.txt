@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9688884,
+  "complaint_id": "9688884",
+  "product": "Credit card",
+  "complaint_what_happened": "Fortiva Credit I received a bill in the mail ... out of the clear blue ... for {$51.00} and annual fee and a paper statement fee. I NEVER APPLIED FOR this card. I called the number on the statement XXXX and spoke with XXXX on XX/XX/year> indicating that I never applied for the card, not sure why I'm getting a bill and an annual fee particularly for something for which I never applied. She stated the account as sent for {$1500.00} you know a credit card to shop for things. I told her as plainly and as direct that I could - that I did not apply for nor did I authorize a credit card. She said I understand ma'am and closed the account. I said what guarantee do I have that the account is closed, because I don't want to have to call back in again ... She assured me the account was closed. On XX/XX/year>, I received a text message (???? ) Fortiva Alert : Your Fortiva Credit Card payment of {$27.00} is scheduled to be processed on XX/XX/year>. I immediately picked up the phone to call them, where I was transferred 5 times ( XXXX, XXXX, XXXX, XXXX, and XXXX agent # XXXX or XXXX... which she would not confirm ) XXXX wanted me to verify by giving my dob, the last 4 of my social, my zip code ... which was a change from what was asked from the other agents. I immediately became even more suspicious - how did they get my information???!!!!",
+  "date_sent_to_company": "2024-08-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27545",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-08-02T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Sent card you never applied for",
+  "text": "Fortiva Credit I received a bill in the mail ... out of the clear blue ... for {$51.00} and annual fee and a paper statement fee. I NEVER APPLIED FOR this card. I called the number on the statement XXXX and spoke with XXXX on XX/XX/year> indicating that I never applied for the card, not sure why I'm getting a bill and an annual fee particularly for something for which I never applied. She stated the account as sent for {$1500.00} you know a credit card to shop for things. I told her as plainly and as direct that I could - that I did not apply for nor did I authorize a credit card. She said I understand ma'am and closed the account. I said what guarantee do I have that the account is closed, because I don't want to have to call back in again ... She assured me the account was closed. On XX/XX/year>, I received a text message (???? ) Fortiva Alert : Your Fortiva Credit Card payment of {$27.00} is scheduled to be processed on XX/XX/year>. I immediately picked up the phone to call them, where I was transferred 5 times ( XXXX, XXXX, XXXX, XXXX, and XXXX agent # XXXX or XXXX... which she would not confirm ) XXXX wanted me to verify by giving my dob, the last 4 of my social, my zip code ... which was a change from what was asked from the other agents. I immediately became even more suspicious - how did they get my information???!!!!"
+}
+
+Chunk:
+fortiva credit i received a bill in the mail... out of the clear blue... for { $ 51. 00 } and annual fee and a paper statement fee. i never applied for this card. i called the number on the statement xxxx and spoke with xxxx on xx / xx / year > indicating that i never applied for the card, not sure why i'm getting a bill and an annual fee particularly for something for which i never applied. she stated the account as sent for { $ 1500. 00 } you know a credit card to shop for things. i told her as plainly and as direct that i could - that i did not apply for nor did i authorize a credit card. she said i understand ma'am and closed the account. i said what guarantee do i have that the account is closed, because i don't want to have to call back in again... she assured me the account was closed. on xx / xx / year >, i received a text message (???? ) fortiva alert : your fortiva credit card payment of { $ 27. 00 } is scheduled to be processed on xx / xx / year >. i immediately picked up the phone to call them, where i was transferred 5 times ( xxxx, xxxx, xxxx, xxxx, and xxxx agent # xxxx or xxxx... which she would not confirm ) xxxx wanted me to verify by giving my dob, the last 4 of my social, my zip code... which was a change from what was asked from the other agents. i immediately became even more suspicious - how did they get my information???!!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976704716682434
+}

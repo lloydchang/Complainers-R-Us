@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9153256,
+  "complaint_id": "9153256",
+  "product": "Credit card",
+  "complaint_what_happened": "My APR on my credit card went from XXXX or so to XXXX %. I emailed them and let them know that this is predatory and I needed to find out what I needed to do to get it lowered, and they said nothing. Theres nothing I can do. XXXX XXXX APR on a credit card is absolutely, unheard of.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23323",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "My APR on my credit card went from XXXX or so to XXXX %. I emailed them and let them know that this is predatory and I needed to find out what I needed to do to get it lowered, and they said nothing. Theres nothing I can do. XXXX XXXX APR on a credit card is absolutely, unheard of."
+}
+
+Chunk:
+my apr on my credit card went from xxxx or so to xxxx %. i emailed them and let them know that this is predatory and i needed to find out what i needed to do to get it lowered, and they said nothing. theres nothing i can do. xxxx xxxx apr on a credit card is absolutely, unheard of.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990731477737427
+}

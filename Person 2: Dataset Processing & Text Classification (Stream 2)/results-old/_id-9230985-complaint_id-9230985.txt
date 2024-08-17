@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9230985,
+  "complaint_id": "9230985",
+  "product": "Credit card",
+  "complaint_what_happened": "I purcahsed XXXX item in XXXX online my order total was {$300.00} some of the items were backorder {$38.00} my credit card was charged {$410.00}. I have been calling the company since XXXX about this and wrote a letter on XXXX providing them with copies of my online order and the details. I have ask them for details as to what was in the orders that they are charging me for since the statement only has the amount being charged. I haven't received that information. I have paid the interest and late fees for the first month. Since I talked to them I don't feel I owe more late fees and interest charges, how can they expect me to pay for items that I never ordered or received. On XX/XX/year> I also ask for my credit card to be closed.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "217XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I purcahsed XXXX item in XXXX online my order total was {$300.00} some of the items were backorder {$38.00} my credit card was charged {$410.00}. I have been calling the company since XXXX about this and wrote a letter on XXXX providing them with copies of my online order and the details. I have ask them for details as to what was in the orders that they are charging me for since the statement only has the amount being charged. I haven't received that information. I have paid the interest and late fees for the first month. Since I talked to them I don't feel I owe more late fees and interest charges, how can they expect me to pay for items that I never ordered or received. On XX/XX/year> I also ask for my credit card to be closed."
+}
+
+Chunk:
+i purcahsed xxxx item in xxxx online my order total was { $ 300. 00 } some of the items were backorder { $ 38. 00 } my credit card was charged { $ 410. 00 }. i have been calling the company since xxxx about this and wrote a letter on xxxx providing them with copies of my online order and the details. i have ask them for details as to what was in the orders that they are charging me for since the statement only has the amount being charged. i haven't received that information. i have paid the interest and late fees for the first month. since i talked to them i don't feel i owe more late fees and interest charges, how can they expect me to pay for items that i never ordered or received. on xx / xx / year > i also ask for my credit card to be closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989369511604309
+}

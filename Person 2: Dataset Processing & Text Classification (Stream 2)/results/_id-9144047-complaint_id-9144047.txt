@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144047,
+  "complaint_id": "9144047",
+  "product": "Credit card",
+  "complaint_what_happened": "Ive tried to report fraud on the account and they are telling me because they alerted me and the charges were made in person they cant refund. I never made those purchases because the card was lost and the alerts were never set up on my phone. {$440.00} is the amount",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "12304",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Ive tried to report fraud on the account and they are telling me because they alerted me and the charges were made in person they cant refund. I never made those purchases because the card was lost and the alerts were never set up on my phone. {$440.00} is the amount"
+}
+
+Chunk:
+ive tried to report fraud on the account and they are telling me because they alerted me and the charges were made in person they cant refund. i never made those purchases because the card was lost and the alerts were never set up on my phone. { $ 440. 00 } is the amount
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998420238494873
+}

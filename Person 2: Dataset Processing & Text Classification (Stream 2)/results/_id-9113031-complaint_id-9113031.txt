@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113031,
+  "complaint_id": "9113031",
+  "product": "Credit card",
+  "complaint_what_happened": "My wife has a complex XXXX XXXX requiring a series of XXXX XXXX. \nWe were going from NY to MI for XXXX of these XXXX. \nWe booked via XXXX with the owner of a property and explained that the place needed to be kept up due to my wife 's severe XXXX. The owner assured us the property was well maintained and there would be no issues. \nI flew over to MI to check on the place after we booked it and found that it was covered in mold and had massive leaks throughout the home and was uninhabitable. \n\nI contacted XXXX and the property owner to cancel the reservation, but both refused despite the photographic evidence. I spent a total amount of XXXX minutes in the home. \n\nYet I am being charged {$6200.00}, even though I had to find another location for my wife and me for another {$8000.00}. \n\nWe disputed this with our credit card, and they refused to refund the amount even though the services promised were not rendered. No one is taking responsibility, and no one is liable, and this is unacceptable.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "214XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My wife has a complex XXXX XXXX requiring a series of XXXX XXXX. \nWe were going from NY to MI for XXXX of these XXXX. \nWe booked via XXXX with the owner of a property and explained that the place needed to be kept up due to my wife 's severe XXXX. The owner assured us the property was well maintained and there would be no issues. \nI flew over to MI to check on the place after we booked it and found that it was covered in mold and had massive leaks throughout the home and was uninhabitable. \n\nI contacted XXXX and the property owner to cancel the reservation, but both refused despite the photographic evidence. I spent a total amount of XXXX minutes in the home. \n\nYet I am being charged {$6200.00}, even though I had to find another location for my wife and me for another {$8000.00}. \n\nWe disputed this with our credit card, and they refused to refund the amount even though the services promised were not rendered. No one is taking responsibility, and no one is liable, and this is unacceptable."
+}
+
+Chunk:
+my wife has a complex xxxx xxxx requiring a series of xxxx xxxx. we were going from ny to mi for xxxx of these xxxx. we booked via xxxx with the owner of a property and explained that the place needed to be kept up due to my wife's severe xxxx. the owner assured us the property was well maintained and there would be no issues. i flew over to mi to check on the place after we booked it and found that it was covered in mold and had massive leaks throughout the home and was uninhabitable. i contacted xxxx and the property owner to cancel the reservation, but both refused despite the photographic evidence. i spent a total amount of xxxx minutes in the home. yet i am being charged { $ 6200. 00 }, even though i had to find another location for my wife and me for another { $ 8000. 00 }. we disputed this with our credit card, and they refused to refund the amount even though the services promised were not rendered. no one is taking responsibility, and no one is liable, and this is unacceptable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982343912124634
+}

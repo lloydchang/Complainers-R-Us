@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9132874,
+  "complaint_id": "9132874",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXXXXXX XXXX had an offer of XXXX  year. So I called today XX/XX/year>. They said the offer ended on XX/XX/year> so I have to pay XXXX XXXX XXXX of interest. Where does it state that? That is unfair, unjust/robbing people who can barely make a decent living. I let them know that I can pay the XXXX this week and they refused to work with me. I have NEVER been late on a payment and they saw that and still did not care or want to work with me.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "78046",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "XXXXXXXX XXXX had an offer of XXXX  year. So I called today XX/XX/year>. They said the offer ended on XX/XX/year> so I have to pay XXXX XXXX XXXX of interest. Where does it state that? That is unfair, unjust/robbing people who can barely make a decent living. I let them know that I can pay the XXXX this week and they refused to work with me. I have NEVER been late on a payment and they saw that and still did not care or want to work with me."
+}
+
+Chunk:
+xxxxxxxx xxxx had an offer of xxxx year. so i called today xx / xx / year >. they said the offer ended on xx / xx / year > so i have to pay xxxx xxxx xxxx of interest. where does it state that? that is unfair, unjust / robbing people who can barely make a decent living. i let them know that i can pay the xxxx this week and they refused to work with me. i have never been late on a payment and they saw that and still did not care or want to work with me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992809891700745
+}

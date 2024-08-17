@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025175,
+  "complaint_id": "9025175",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment to my Paypal mastercard on the website and the system made a double payment. I immediately look to cancel the payment which is a Federal Law that you are able to cancel a payment immediately and the website did not give me the option. I called the number on the back of the card and they told me to put a stop payment on it which I did and than I made another payment from another account I have so I would not be late. the company gave me a return fee for the payment and closed my account I called they will not reverse the payment. this is wrong in so many ways and they need to have an audit on their procedures I want the fee reverse and an apology I am a XXXX XXXX XXXX XXXX for XXXX XXXX. This kind of action is something we would not tolerate. The bank is Synchrony bank in charge of this credit card and they should be fine for not helping a customer, not having the right options to cancel the payment both on the website and over the phone. I also was paying it a week in advance. Poor complaints procedures etc.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "83605",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I made a payment to my Paypal mastercard on the website and the system made a double payment. I immediately look to cancel the payment which is a Federal Law that you are able to cancel a payment immediately and the website did not give me the option. I called the number on the back of the card and they told me to put a stop payment on it which I did and than I made another payment from another account I have so I would not be late. the company gave me a return fee for the payment and closed my account I called they will not reverse the payment. this is wrong in so many ways and they need to have an audit on their procedures I want the fee reverse and an apology I am a XXXX XXXX XXXX XXXX for XXXX XXXX. This kind of action is something we would not tolerate. The bank is Synchrony bank in charge of this credit card and they should be fine for not helping a customer, not having the right options to cancel the payment both on the website and over the phone. I also was paying it a week in advance. Poor complaints procedures etc."
+}
+
+Chunk:
+i made a payment to my paypal mastercard on the website and the system made a double payment. i immediately look to cancel the payment which is a federal law that you are able to cancel a payment immediately and the website did not give me the option. i called the number on the back of the card and they told me to put a stop payment on it which i did and than i made another payment from another account i have so i would not be late. the company gave me a return fee for the payment and closed my account i called they will not reverse the payment. this is wrong in so many ways and they need to have an audit on their procedures i want the fee reverse and an apology i am a xxxx xxxx xxxx xxxx for xxxx xxxx. this kind of action is something we would not tolerate. the bank is synchrony bank in charge of this credit card and they should be fine for not helping a customer, not having the right options to cancel the payment both on the website and over the phone. i also was paying it a week in advance. poor complaints procedures etc.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987818598747253
+}

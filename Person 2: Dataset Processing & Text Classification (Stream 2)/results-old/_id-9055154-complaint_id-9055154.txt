@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055154,
+  "complaint_id": "9055154",
+  "product": "Credit card",
+  "complaint_what_happened": "Total Visa closed my account on XX/XX/XXXX for high risk fraud. I was charged an annual fee of {$48.00} on XX/XX/XXXX for the period of XX/XX/XXXX thru XX/XX/XXXX. They are refusing to refund the annual fee. Account number XXXX",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90723",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST PORTFOLIO SERVICING INC",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Total Visa closed my account on XX/XX/XXXX for high risk fraud. I was charged an annual fee of {$48.00} on XX/XX/XXXX for the period of XX/XX/XXXX thru XX/XX/XXXX. They are refusing to refund the annual fee. Account number XXXX"
+}
+
+Chunk:
+total visa closed my account on xx / xx / xxxx for high risk fraud. i was charged an annual fee of { $ 48. 00 } on xx / xx / xxxx for the period of xx / xx / xxxx thru xx / xx / xxxx. they are refusing to refund the annual fee. account number xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9963635802268982
+}

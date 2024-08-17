@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9325650,
+  "complaint_id": "9325650",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment on my XXXX XXXX credit card of {$850.00} XXXX has my money but won't release it until 17 days from now, on XX/XX/XXXX. \nI asked why. They gave me no reason. \n\nI said, \" so, you penalize people who pay their bills. '' The rep said no they don't, but that is EXACTLY what they are doing. \n\nMy credit limit is {$900.00}. I need the {$850.00} to pay my internet bill and my cell phone.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I made a payment on my XXXX XXXX credit card of {$850.00} XXXX has my money but won't release it until 17 days from now, on XX/XX/XXXX. \nI asked why. They gave me no reason. \n\nI said, \" so, you penalize people who pay their bills. '' The rep said no they don't, but that is EXACTLY what they are doing. \n\nMy credit limit is {$900.00}. I need the {$850.00} to pay my internet bill and my cell phone."
+}
+
+Chunk:
+i made a payment on my xxxx xxxx credit card of { $ 850. 00 } xxxx has my money but won't release it until 17 days from now, on xx / xx / xxxx. i asked why. they gave me no reason. i said, " so, you penalize people who pay their bills.'' the rep said no they don't, but that is exactly what they are doing. my credit limit is { $ 900. 00 }. i need the { $ 850. 00 } to pay my internet bill and my cell phone.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987012147903442
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9221851,
+  "complaint_id": "9221851",
+  "product": "Credit card",
+  "complaint_what_happened": "I placed a dispute with my Wells Fargo Credit card for a purchased at XXXX XXXX XXXX  in the amount of {$17000.00} on XXXX XXXX. Wells Fargo denial my complaint on XX/XX/XXXX. The Merchant lied that I was explicately informed of \" no refunds or returns '', at no point of the sales was I verbally informed on this policy. The sales agent blindsided me into signed a form telling me this was \" for permission to email '' me about skincare information. At no time was I informed that this product was not eligible for \" Returnable for Refund ''. Also, when I talked to XXXX, sales agent on XX/XX/XXXX advising her about my \" returning the merchandise '', she never advised that this product was not eligible for refund or return. She advised that a manager will be in contact with me. This seems be their standard answer, as I am told a manager will call me every time I call the store. \nI return the merchandise to the store on XX/XX/XXXX after waiting for a response from management, which never came. The representative accepted the Merchandise Return and I was advised a Manager will contact me about a refund. Weeks went by with No Response. I reached back to the store, again I was told a Manager will contact me. To date merchant still has my returned merchandise and the credit card company is allowing the merchant to keep the merchandise and make me liable for the charged amount of {$1700.00} ... the first machine was defective and the exchanged product did hold a charge but I did not use it long enough to see if it any any other issues. It is a high price gadget to have any defectives. I was told that XXXX would pay the remaining balance of this product ... my portion was only {$1600.00} with tax. However, after I left the store, I realized they never asked for my medical insurance information. Again that was another lie. This merchant is not responsive and has not done anything to resolve the issues and Wells Fargo is allowing this merchant to defraud/scam me. I was lured into XXXX XXXX for a facial and I was high pressured into buying this LED machine that I was told it was XXXX XXXX XXXX XXXX XXXX was defective so, they exchanged it, and I informed them of my intention for to return the product on XX/XX/XXXX, a week after the purchase. I was well with in the time period for exchange or refund. Again I was NEVER informed verbally that this product was not eligible for return. I blindsided to signing that written form.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32129",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I placed a dispute with my Wells Fargo Credit card for a purchased at XXXX XXXX XXXX  in the amount of {$17000.00} on XXXX XXXX. Wells Fargo denial my complaint on XX/XX/XXXX. The Merchant lied that I was explicately informed of \" no refunds or returns '', at no point of the sales was I verbally informed on this policy. The sales agent blindsided me into signed a form telling me this was \" for permission to email '' me about skincare information. At no time was I informed that this product was not eligible for \" Returnable for Refund ''. Also, when I talked to XXXX, sales agent on XX/XX/XXXX advising her about my \" returning the merchandise '', she never advised that this product was not eligible for refund or return. She advised that a manager will be in contact with me. This seems be their standard answer, as I am told a manager will call me every time I call the store. \nI return the merchandise to the store on XX/XX/XXXX after waiting for a response from management, which never came. The representative accepted the Merchandise Return and I was advised a Manager will contact me about a refund. Weeks went by with No Response. I reached back to the store, again I was told a Manager will contact me. To date merchant still has my returned merchandise and the credit card company is allowing the merchant to keep the merchandise and make me liable for the charged amount of {$1700.00} ... the first machine was defective and the exchanged product did hold a charge but I did not use it long enough to see if it any any other issues. It is a high price gadget to have any defectives. I was told that XXXX would pay the remaining balance of this product ... my portion was only {$1600.00} with tax. However, after I left the store, I realized they never asked for my medical insurance information. Again that was another lie. This merchant is not responsive and has not done anything to resolve the issues and Wells Fargo is allowing this merchant to defraud/scam me. I was lured into XXXX XXXX for a facial and I was high pressured into buying this LED machine that I was told it was XXXX XXXX XXXX XXXX XXXX was defective so, they exchanged it, and I informed them of my intention for to return the product on XX/XX/XXXX, a week after the purchase. I was well with in the time period for exchange or refund. Again I was NEVER informed verbally that this product was not eligible for return. I blindsided to signing that written form."
+}
+
+Chunk:
+xx / xxxx, a week after the purchase. i was well with in the time period for exchange or refund. again i was never informed verbally that this product was not eligible for return. i blindsided to signing that written form.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9942885637283325
+}

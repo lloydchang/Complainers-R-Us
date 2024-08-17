@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9411853,
+  "complaint_id": "9411853",
+  "product": "Credit card",
+  "complaint_what_happened": "Hi There, I have a credit card though \" My Best Buy Credit Card ''. The minimum payment dueis based on the total amount that I own. I always pay the card on time and over the minimum due amount. \n\nThe issue : the current account statement ( XX/XX/XXXX ) shows the interest Charged is {$590.00} from the principal {$640.00}. The Statement doesn't explain any detailed information.\n\nI called the Account Inquiries on XX/XX/XXXX around XXXXXXXX XXXX ( mountain time ). The Customer Service said the interest will be charged from XXXX until now, which I already paid the Card on time. The Customer Service said I have to pay a totalbalance amount which is {$540.00} within XX/XX/XXXX to avoid the interestfees : $ XXXXNo that option I can do that through online. \n\nI also asked for more detailed information such as breakingdownthe interest charged fee : {$590.00}, The company policy, and the regulation which apply to this term. The Customer Service said No, she doesn't have the ability to provide us with that information and mentionedthe policy in the Website. I couldnot find those policies. \nI believe it might have some error system in there or if not, it isn't fair for the customer in this circumstance. \n\nPlease investigate or any help would be so appreciated! \n\nBest Regard,",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "80020",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Hi There, I have a credit card though \" My Best Buy Credit Card ''. The minimum payment dueis based on the total amount that I own. I always pay the card on time and over the minimum due amount. \n\nThe issue : the current account statement ( XX/XX/XXXX ) shows the interest Charged is {$590.00} from the principal {$640.00}. The Statement doesn't explain any detailed information.\n\nI called the Account Inquiries on XX/XX/XXXX around XXXXXXXX XXXX ( mountain time ). The Customer Service said the interest will be charged from XXXX until now, which I already paid the Card on time. The Customer Service said I have to pay a totalbalance amount which is {$540.00} within XX/XX/XXXX to avoid the interestfees : $ XXXXNo that option I can do that through online. \n\nI also asked for more detailed information such as breakingdownthe interest charged fee : {$590.00}, The company policy, and the regulation which apply to this term. The Customer Service said No, she doesn't have the ability to provide us with that information and mentionedthe policy in the Website. I couldnot find those policies. \nI believe it might have some error system in there or if not, it isn't fair for the customer in this circumstance. \n\nPlease investigate or any help would be so appreciated! \n\nBest Regard,"
+}
+
+Chunk:
+hi there, i have a credit card though " my best buy credit card''. the minimum payment dueis based on the total amount that i own. i always pay the card on time and over the minimum due amount. the issue : the current account statement ( xx / xx / xxxx ) shows the interest charged is { $ 590. 00 } from the principal { $ 640. 00 }. the statement doesn't explain any detailed information. i called the account inquiries on xx / xx / xxxx around xxxxxxxx xxxx ( mountain time ). the customer service said the interest will be charged from xxxx until now, which i already paid the card on time. the customer service said i have to pay a totalbalance amount which is { $ 540. 00 } within xx / xx / xxxx to avoid the interestfees : $ xxxxno that option i can do that through online. i also asked for more detailed information such as breakingdownthe interest charged fee : { $ 590. 00 }, the company policy, and the regulation which apply to this term. the customer service said no, she doesn't have the ability to provide us with that information and mentionedthe policy in the website. i couldnot find those policies. i believe it might have some error system in there or if not, it isn't fair for the customer in this circumstance. please investigate or any help would be so appreciated! best regard,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992319345474243
+}

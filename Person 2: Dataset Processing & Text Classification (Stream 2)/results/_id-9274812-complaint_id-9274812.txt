@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9274812,
+  "complaint_id": "9274812",
+  "product": "Credit card",
+  "complaint_what_happened": "Credit inquiry from XX/XX/year> without my consent or knowledge to open a credit card with Ally Financial",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "03053",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Credit inquiry from XX/XX/year> without my consent or knowledge to open a credit card with Ally Financial"
+}
+
+Chunk:
+credit inquiry from xx / xx / year > without my consent or knowledge to open a credit card with ally financial
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961463212966919
+}

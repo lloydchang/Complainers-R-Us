@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9685457,
+  "complaint_id": "9685457",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XX/XX/2024 I recieved a email from Home Depot / Citi about payment for account ending in XXXX. But I known that account not belong to Me, I file complaint to WA State Attorney Office and receive a repond from Citi bank with account ending in XXXX with the same amount I own them. Citi bank said they made investigation about account ending in XXXX and they report late payment to Credit bureaus, It's again Fair Credit Rporting Act. Citi bank call Me serveral times to ask Me some informations about account ending in XXXX, but I ask them send for Me all invoices & monthly statements belong 2 account ending in XXXX & XXXX but I did'nt receive yet. \n- I want to known why they report late payment to Credit bureaus when they made investigation? Violation with FCRA or not? \n- When I receive all Invoices & monthly statements of 2 accounts by email to : XXXX XXXX",
+  "date_sent_to_company": "2024-08-06T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-01T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "On XXXX XX/XX/2024 I recieved a email from Home Depot / Citi about payment for account ending in XXXX. But I known that account not belong to Me, I file complaint to WA State Attorney Office and receive a repond from Citi bank with account ending in XXXX with the same amount I own them. Citi bank said they made investigation about account ending in XXXX and they report late payment to Credit bureaus, It's again Fair Credit Rporting Act. Citi bank call Me serveral times to ask Me some informations about account ending in XXXX, but I ask them send for Me all invoices & monthly statements belong 2 account ending in XXXX & XXXX but I did'nt receive yet. \n- I want to known why they report late payment to Credit bureaus when they made investigation? Violation with FCRA or not? \n- When I receive all Invoices & monthly statements of 2 accounts by email to : XXXX XXXX"
+}
+
+Chunk:
+on xxxx xx / xx / 2024 i recieved a email from home depot / citi about payment for account ending in xxxx. but i known that account not belong to me, i file complaint to wa state attorney office and receive a repond from citi bank with account ending in xxxx with the same amount i own them. citi bank said they made investigation about account ending in xxxx and they report late payment to credit bureaus, it's again fair credit rporting act. citi bank call me serveral times to ask me some informations about account ending in xxxx, but i ask them send for me all invoices & monthly statements belong 2 account ending in xxxx & xxxx but i did'nt receive yet. - i want to known why they report late payment to credit bureaus when they made investigation? violation with fcra or not? - when i receive all invoices & monthly statements of 2 accounts by email to : xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975905418395996
+}

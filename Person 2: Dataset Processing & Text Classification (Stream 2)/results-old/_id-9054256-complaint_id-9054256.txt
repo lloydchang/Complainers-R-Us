@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9054256,
+  "complaint_id": "9054256",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a credit card for use as an everyday card for my new small business. Chase sent me a letter, saying I need to provide more information. I never received this letter, because Chase erroneously excluded the PMB number from the address. I didn't learn of the issue until my card declined. Once my card declined, I immediately called Chase. Chase said my account has been suspended, until I can provide more information. I asked what information they need, so I could send it immediately, and Chase said they could not tell me, I need to get a letter. Chase said they would resend the letter. I never received this letter either, so I called again. This person also refused to tell me what documentation I need to send in, so I hung up and called a third time. This person told me what documentation needed to be sent in, and I sent the documentation in on that same day. Chase decided that I took to long to send the documentation in, so they said my account is canceled, and that I have 30 days to use my rewards balance, which amounted to {$800.00}. I tried to use the rewards balance, but then Chase said that since my account has been closed for 30 days, I lost the rewards balance. In conclusion, Chase canceled my account without ever informing me of why. Chase continued to refuse to tell me what documentation was needed, until 30 days had gone by. Once 30 days had gone by, I had lost my rewards balance.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I opened a credit card for use as an everyday card for my new small business. Chase sent me a letter, saying I need to provide more information. I never received this letter, because Chase erroneously excluded the PMB number from the address. I didn't learn of the issue until my card declined. Once my card declined, I immediately called Chase. Chase said my account has been suspended, until I can provide more information. I asked what information they need, so I could send it immediately, and Chase said they could not tell me, I need to get a letter. Chase said they would resend the letter. I never received this letter either, so I called again. This person also refused to tell me what documentation I need to send in, so I hung up and called a third time. This person told me what documentation needed to be sent in, and I sent the documentation in on that same day. Chase decided that I took to long to send the documentation in, so they said my account is canceled, and that I have 30 days to use my rewards balance, which amounted to {$800.00}. I tried to use the rewards balance, but then Chase said that since my account has been closed for 30 days, I lost the rewards balance. In conclusion, Chase canceled my account without ever informing me of why. Chase continued to refuse to tell me what documentation was needed, until 30 days had gone by. Once 30 days had gone by, I had lost my rewards balance."
+}
+
+Chunk:
+i opened a credit card for use as an everyday card for my new small business. chase sent me a letter, saying i need to provide more information. i never received this letter, because chase erroneously excluded the pmb number from the address. i didn't learn of the issue until my card declined. once my card declined, i immediately called chase. chase said my account has been suspended, until i can provide more information. i asked what information they need, so i could send it immediately, and chase said they could not tell me, i need to get a letter. chase said they would resend the letter. i never received this letter either, so i called again. this person also refused to tell me what documentation i need to send in, so i hung up and called a third time. this person told me what documentation needed to be sent in, and i sent the documentation in on that same day. chase decided that i took to long to send the documentation in, so they said my account is canceled, and that i have 30 days to use my rewards balance, which amounted to { $ 800. 00 }. i tried to use the rewards balance, but then chase said that since my account has been closed for 30 days, i lost the rewards balance. in conclusion, chase canceled my account without ever informing me of why. chase continued to refuse to tell me what documentation was needed, until 30 days had gone by. once 30 days had gone by, i had lost my rewards balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997238516807556
+}

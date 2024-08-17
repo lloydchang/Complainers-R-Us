@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9129220,
+  "complaint_id": "9129220",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, XXXX I booked a room with XXXX by XXXX XXXX XXXX Va on XXXX XXXX XXXX I booked on line and then decided to stay somewhere else. I called the hotel and cancelled the reservation they said no problem, I then called Paypal to let them know I had cancelled the reservtion- this was around XXXX XXXX, I called the hotel back so they could return the payment to Paypal . \nI spoke with the Hotel today XX/XX/XXXX, and spoke with XXXX she said she return {$74.00} where is the rest of the money? I called paypal they said they have received nothing back I have been Woking on this for one month and can not get it resolved. \n\nI first opened a dispute with Paypal and they ruled in favor of the Hotel- HOW! \nI did not stay at the Hotel not even one night- It was all done on line and by telephone. \nI do not understand why they are not getting this. \nI need some help in this manner- I am not going to pay for service I did not receive I have spoken to about 10 different people at Paypal and the last person was XXXX and she refused to transfer me to a supervisor. They are awful! \nThanks",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20111",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX, XXXX I booked a room with XXXX by XXXX XXXX XXXX Va on XXXX XXXX XXXX I booked on line and then decided to stay somewhere else. I called the hotel and cancelled the reservation they said no problem, I then called Paypal to let them know I had cancelled the reservtion- this was around XXXX XXXX, I called the hotel back so they could return the payment to Paypal . \nI spoke with the Hotel today XX/XX/XXXX, and spoke with XXXX she said she return {$74.00} where is the rest of the money? I called paypal they said they have received nothing back I have been Woking on this for one month and can not get it resolved. \n\nI first opened a dispute with Paypal and they ruled in favor of the Hotel- HOW! \nI did not stay at the Hotel not even one night- It was all done on line and by telephone. \nI do not understand why they are not getting this. \nI need some help in this manner- I am not going to pay for service I did not receive I have spoken to about 10 different people at Paypal and the last person was XXXX and she refused to transfer me to a supervisor. They are awful! \nThanks"
+}
+
+Chunk:
+on xx / xx / xxxx, xxxx i booked a room with xxxx by xxxx xxxx xxxx va on xxxx xxxx xxxx i booked on line and then decided to stay somewhere else. i called the hotel and cancelled the reservation they said no problem, i then called paypal to let them know i had cancelled the reservtion - this was around xxxx xxxx, i called the hotel back so they could return the payment to paypal. i spoke with the hotel today xx / xx / xxxx, and spoke with xxxx she said she return { $ 74. 00 } where is the rest of the money? i called paypal they said they have received nothing back i have been woking on this for one month and can not get it resolved. i first opened a dispute with paypal and they ruled in favor of the hotel - how! i did not stay at the hotel not even one night - it was all done on line and by telephone. i do not understand why they are not getting this. i need some help in this manner - i am not going to pay for service i did not receive i have spoken to about 10 different people at paypal and the last person was xxxx and she refused to transfer me to a supervisor. they are awful! thanks
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994176626205444
+}

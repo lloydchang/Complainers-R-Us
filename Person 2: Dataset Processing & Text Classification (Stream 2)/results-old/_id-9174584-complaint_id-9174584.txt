@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174584,
+  "complaint_id": "9174584",
+  "product": "Credit card",
+  "complaint_what_happened": "Payment was made to Capital One in the amount of {$100.00} Confirmation # XXXX on XX/XX/year> and {$490.00} payment Confirmation # XXXX was made XX/XX/year>. Capital One still shows a balance reflecting {$490.00} refusing to credit the amounts paid.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32065",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "Payment was made to Capital One in the amount of {$100.00} Confirmation # XXXX on XX/XX/year> and {$490.00} payment Confirmation # XXXX was made XX/XX/year>. Capital One still shows a balance reflecting {$490.00} refusing to credit the amounts paid."
+}
+
+Chunk:
+payment was made to capital one in the amount of { $ 100. 00 } confirmation # xxxx on xx / xx / year > and { $ 490. 00 } payment confirmation # xxxx was made xx / xx / year >. capital one still shows a balance reflecting { $ 490. 00 } refusing to credit the amounts paid.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970372915267944
+}

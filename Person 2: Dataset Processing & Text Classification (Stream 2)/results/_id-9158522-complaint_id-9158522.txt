@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9158522,
+  "complaint_id": "9158522",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I received an email and notification that said there was a hard inquiry on my credit report that dropped my score XXXX points. I checked what it was and it said it was an inquiry made by Capital one. I called Capital One at XXXX to confirm that an account was opened under my name, SSN, etc., and the representative confirmed that a line of credit was approved under my name for {$1000.00}. The representative told me that they would open a fraud investigation and left it at that. I soon received an email telling me that a package which I did not purchase was being sent to my place by a company called XXXX. I looked them up and their website says \" XXXX provides deep industry expertise and best-in-class bankruptcy software solutions and services that help fiduciaries. '' As of now I am still waiting to hear back from Capital One. The number that I believe opened my account is XXXX.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20191",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/XXXX I received an email and notification that said there was a hard inquiry on my credit report that dropped my score XXXX points. I checked what it was and it said it was an inquiry made by Capital one. I called Capital One at XXXX to confirm that an account was opened under my name, SSN, etc., and the representative confirmed that a line of credit was approved under my name for {$1000.00}. The representative told me that they would open a fraud investigation and left it at that. I soon received an email telling me that a package which I did not purchase was being sent to my place by a company called XXXX. I looked them up and their website says \" XXXX provides deep industry expertise and best-in-class bankruptcy software solutions and services that help fiduciaries. '' As of now I am still waiting to hear back from Capital One. The number that I believe opened my account is XXXX."
+}
+
+Chunk:
+on xx / xx / xxxx i received an email and notification that said there was a hard inquiry on my credit report that dropped my score xxxx points. i checked what it was and it said it was an inquiry made by capital one. i called capital one at xxxx to confirm that an account was opened under my name, ssn, etc., and the representative confirmed that a line of credit was approved under my name for { $ 1000. 00 }. the representative told me that they would open a fraud investigation and left it at that. i soon received an email telling me that a package which i did not purchase was being sent to my place by a company called xxxx. i looked them up and their website says " xxxx provides deep industry expertise and best - in - class bankruptcy software solutions and services that help fiduciaries.'' as of now i am still waiting to hear back from capital one. the number that i believe opened my account is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9882777333259583
+}

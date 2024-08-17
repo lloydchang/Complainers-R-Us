@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042942,
+  "complaint_id": "9042942",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased 3 dresses from XXXX on XXXX for {$420.00}. I received the items in unusable, unwearable condition. They box and the items soaked in some toxic smelling oily substance. Aside from that, the dresses were made of cheap garbage, unfit for wear. I spoke with XXXX, and they tried to give me a partial refund of {$90.00}. I refused as that was not reasonable. Goldman Sachs sided on the company 's favor stating that because I refused the partial refund and did not ship the items back I was at fault. I refused to ship the items back to XXXX because XXXX was making me pay return postage for damaged goods all the way to XXXX. XXXX refused to guarantee me a refund at that point stating that \" Upon receipt of the package, the item ( s ) will be inspected for signs of wear or damage prior to any refund ''. I was not comfortable with this arrangement because I already showed them that the items arrived damaged. It was a trap, a trap that I was asked to pay return postage for. I refused to agree - as anyone would. I would've been left with no proof and down even more money because XXXX showed me an outrageous quote to ship to XXXX. Goldman Sachs has refused my disputes 2 times and I have a third pending claim open right now.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "117XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased 3 dresses from XXXX on XXXX for {$420.00}. I received the items in unusable, unwearable condition. They box and the items soaked in some toxic smelling oily substance. Aside from that, the dresses were made of cheap garbage, unfit for wear. I spoke with XXXX, and they tried to give me a partial refund of {$90.00}. I refused as that was not reasonable. Goldman Sachs sided on the company 's favor stating that because I refused the partial refund and did not ship the items back I was at fault. I refused to ship the items back to XXXX because XXXX was making me pay return postage for damaged goods all the way to XXXX. XXXX refused to guarantee me a refund at that point stating that \" Upon receipt of the package, the item ( s ) will be inspected for signs of wear or damage prior to any refund ''. I was not comfortable with this arrangement because I already showed them that the items arrived damaged. It was a trap, a trap that I was asked to pay return postage for. I refused to agree - as anyone would. I would've been left with no proof and down even more money because XXXX showed me an outrageous quote to ship to XXXX. Goldman Sachs has refused my disputes 2 times and I have a third pending claim open right now."
+}
+
+Chunk:
+i purchased 3 dresses from xxxx on xxxx for { $ 420. 00 }. i received the items in unusable, unwearable condition. they box and the items soaked in some toxic smelling oily substance. aside from that, the dresses were made of cheap garbage, unfit for wear. i spoke with xxxx, and they tried to give me a partial refund of { $ 90. 00 }. i refused as that was not reasonable. goldman sachs sided on the company's favor stating that because i refused the partial refund and did not ship the items back i was at fault. i refused to ship the items back to xxxx because xxxx was making me pay return postage for damaged goods all the way to xxxx. xxxx refused to guarantee me a refund at that point stating that " upon receipt of the package, the item ( s ) will be inspected for signs of wear or damage prior to any refund''. i was not comfortable with this arrangement because i already showed them that the items arrived damaged. it was a trap, a trap that i was asked to pay return postage for. i refused to agree - as anyone would. i would've been left with no proof and down even more money because xxxx showed me an outrageous quote to ship to xxxx. goldman sachs has refused my disputes 2 times and i have a third pending claim open right now.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994933605194092
+}

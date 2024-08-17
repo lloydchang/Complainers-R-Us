@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9597981,
+  "complaint_id": "9597981",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card for XXXX XXXX XXXX XXXX. It appears that the credit card is serviced by Barclay 's. I was trying to make a payment online. Their system did not give me an option to make a payment until I answered very intrusive questions related to my citizenship status, income, source of income, etc. I have no problem answering these questions. However, preventing people from making payment is not right. I wanted to bring this to your attention because there should be no barriers for people to make payments on their credit cards.",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-24T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have a credit card for XXXX XXXX XXXX XXXX. It appears that the credit card is serviced by Barclay 's. I was trying to make a payment online. Their system did not give me an option to make a payment until I answered very intrusive questions related to my citizenship status, income, source of income, etc. I have no problem answering these questions. However, preventing people from making payment is not right. I wanted to bring this to your attention because there should be no barriers for people to make payments on their credit cards."
+}
+
+Chunk:
+i have a credit card for xxxx xxxx xxxx xxxx. it appears that the credit card is serviced by barclay's. i was trying to make a payment online. their system did not give me an option to make a payment until i answered very intrusive questions related to my citizenship status, income, source of income, etc. i have no problem answering these questions. however, preventing people from making payment is not right. i wanted to bring this to your attention because there should be no barriers for people to make payments on their credit cards.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.985511302947998
+}

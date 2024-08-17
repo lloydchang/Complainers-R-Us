@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9260380,
+  "complaint_id": "9260380",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a customer for over XXXX years and this bank closed my account after I reported fraudulent charges they were charging me over the years. They never credited those charges. After they closed my account I have a money due bac however it's been months and they still haven't sent me a check for the amount they owe me. I have reached out to Office of Comptroller and they told me if this isn't resolved to reach back out to them. \n\nWhat they have been doing is illegal and I reach out to FTC and Office of Comptroller if this isn't resolved. I don't know how this bank that is regulated can get away with such fraudulent and illegal activity.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85255",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I have been a customer for over XXXX years and this bank closed my account after I reported fraudulent charges they were charging me over the years. They never credited those charges. After they closed my account I have a money due bac however it's been months and they still haven't sent me a check for the amount they owe me. I have reached out to Office of Comptroller and they told me if this isn't resolved to reach back out to them. \n\nWhat they have been doing is illegal and I reach out to FTC and Office of Comptroller if this isn't resolved. I don't know how this bank that is regulated can get away with such fraudulent and illegal activity."
+}
+
+Chunk:
+i have been a customer for over xxxx years and this bank closed my account after i reported fraudulent charges they were charging me over the years. they never credited those charges. after they closed my account i have a money due bac however it's been months and they still haven't sent me a check for the amount they owe me. i have reached out to office of comptroller and they told me if this isn't resolved to reach back out to them. what they have been doing is illegal and i reach out to ftc and office of comptroller if this isn't resolved. i don't know how this bank that is regulated can get away with such fraudulent and illegal activity.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998630166053772
+}

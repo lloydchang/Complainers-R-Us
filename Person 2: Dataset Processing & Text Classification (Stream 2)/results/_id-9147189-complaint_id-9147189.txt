@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9147189,
+  "complaint_id": "9147189",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XX/XX/year>, TD N.A. called both my home and cell phone to ask if I had applied for a credit card on XXXX XX/XX/year>- which I had not. TD N.A put me through to their fraud/card services department and closed the inquiry and informed me it would take 5-10 days to file the notification of fraud. When I returned home on the same day, I had 4 new alerts from XXXX that a total of 4 credit inquiries had been made on XXXX XX/XX/year> on my account. I logged into my Experian account and noted that they were TD N.A, XXXX Card, XXXXXXXX XXXX XXXXXXXX and XXXX XXXX XXXX. I called XXXX ( XXXX ) and they indicated that an application for a XXXX XXXX card had been submitted with my data. XXXX also stated that they had closed the inquiry on their end already but I would receive a notification of this incident in the mail in 5 - 10 days. I tried to call XXXXXXXX XXXX XXXXXXXX but the number listed on XXXX did not work so I called XXXX to manage disputing the inquiries as they were fraudulent. XXXX sent confirmation that my disputes have been opened and added a Fraud Alert to my account. XXXX also recommended that I log a complaint with FTC.gov.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01887",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XXXX XX/XX/year>, TD N.A. called both my home and cell phone to ask if I had applied for a credit card on XXXX XX/XX/year>- which I had not. TD N.A put me through to their fraud/card services department and closed the inquiry and informed me it would take 5-10 days to file the notification of fraud. When I returned home on the same day, I had 4 new alerts from XXXX that a total of 4 credit inquiries had been made on XXXX XX/XX/year> on my account. I logged into my Experian account and noted that they were TD N.A, XXXX Card, XXXXXXXX XXXX XXXXXXXX and XXXX XXXX XXXX. I called XXXX ( XXXX ) and they indicated that an application for a XXXX XXXX card had been submitted with my data. XXXX also stated that they had closed the inquiry on their end already but I would receive a notification of this incident in the mail in 5 - 10 days. I tried to call XXXXXXXX XXXX XXXXXXXX but the number listed on XXXX did not work so I called XXXX to manage disputing the inquiries as they were fraudulent. XXXX sent confirmation that my disputes have been opened and added a Fraud Alert to my account. XXXX also recommended that I log a complaint with FTC.gov."
+}
+
+Chunk:
+on xxxx xx / xx / year >, td n. a. called both my home and cell phone to ask if i had applied for a credit card on xxxx xx / xx / year > - which i had not. td n. a put me through to their fraud / card services department and closed the inquiry and informed me it would take 5 - 10 days to file the notification of fraud. when i returned home on the same day, i had 4 new alerts from xxxx that a total of 4 credit inquiries had been made on xxxx xx / xx / year > on my account. i logged into my experian account and noted that they were td n. a, xxxx card, xxxxxxxx xxxx xxxxxxxx and xxxx xxxx xxxx. i called xxxx ( xxxx ) and they indicated that an application for a xxxx xxxx card had been submitted with my data. xxxx also stated that they had closed the inquiry on their end already but i would receive a notification of this incident in the mail in 5 - 10 days. i tried to call xxxxxxxx xxxx xxxxxxxx but the number listed on xxxx did not work so i called xxxx to manage disputing the inquiries as they were fraudulent. xxxx sent confirmation that my disputes have been opened and added a fraud alert to my account. xxxx also recommended that i log a complaint with ftc. gov.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983924031257629
+}

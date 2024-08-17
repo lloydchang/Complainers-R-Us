@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024547,
+  "complaint_id": "9024547",
+  "product": "Credit card",
+  "complaint_what_happened": "Received mail. See doc. Pre approval. Filled out online forms on XX/XX/XXXX. Download to XXXX wallet. No hard copy cards issued. Purchased gas, dog food and tried to purchase groceries. Sale declined. Went to my car and called.provided SS number, name and phone number as the number was registered to this account. They said they would not authorize the release so I could purchase groceries. It was flagged for fraud? And this was for my protection. I said no, absent negligence on my part my liability was {$50.00} and this was for their protection. XXXX minute phone call. See documents. I told them I would cancel the card on Monday. I called Monday. See doc, canceled card. They offered me a {$25.00} credit not to cancel. I declined saying I didnt want to do business with them. I requested an email confirming I had canceled the account. They said they couldnt send an email but would mail a letter. No letter has been received.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97068",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "Received mail. See doc. Pre approval. Filled out online forms on XX/XX/XXXX. Download to XXXX wallet. No hard copy cards issued. Purchased gas, dog food and tried to purchase groceries. Sale declined. Went to my car and called.provided SS number, name and phone number as the number was registered to this account. They said they would not authorize the release so I could purchase groceries. It was flagged for fraud? And this was for my protection. I said no, absent negligence on my part my liability was {$50.00} and this was for their protection. XXXX minute phone call. See documents. I told them I would cancel the card on Monday. I called Monday. See doc, canceled card. They offered me a {$25.00} credit not to cancel. I declined saying I didnt want to do business with them. I requested an email confirming I had canceled the account. They said they couldnt send an email but would mail a letter. No letter has been received."
+}
+
+Chunk:
+received mail. see doc. pre approval. filled out online forms on xx / xx / xxxx. download to xxxx wallet. no hard copy cards issued. purchased gas, dog food and tried to purchase groceries. sale declined. went to my car and called. provided ss number, name and phone number as the number was registered to this account. they said they would not authorize the release so i could purchase groceries. it was flagged for fraud? and this was for my protection. i said no, absent negligence on my part my liability was { $ 50. 00 } and this was for their protection. xxxx minute phone call. see documents. i told them i would cancel the card on monday. i called monday. see doc, canceled card. they offered me a { $ 25. 00 } credit not to cancel. i declined saying i didnt want to do business with them. i requested an email confirming i had canceled the account. they said they couldnt send an email but would mail a letter. no letter has been received.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984750151634216
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247256,
+  "complaint_id": "9247256",
+  "product": "Credit card",
+  "complaint_what_happened": "Received 4 calls yesterday back-to-back both from a XXXX, and XXXX as well as XXXX all calls identifying as a CITI and reported that my card was used incorrectly and to reset my passwords to all of my accounts. I called CITI today and they have no record of this call. I am reporting this as this was very unusual.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "460XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account sold or transferred to another company",
+  "text": "Received 4 calls yesterday back-to-back both from a XXXX, and XXXX as well as XXXX all calls identifying as a CITI and reported that my card was used incorrectly and to reset my passwords to all of my accounts. I called CITI today and they have no record of this call. I am reporting this as this was very unusual."
+}
+
+Chunk:
+received 4 calls yesterday back - to - back both from a xxxx, and xxxx as well as xxxx all calls identifying as a citi and reported that my card was used incorrectly and to reset my passwords to all of my accounts. i called citi today and they have no record of this call. i am reporting this as this was very unusual.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994545578956604
+}

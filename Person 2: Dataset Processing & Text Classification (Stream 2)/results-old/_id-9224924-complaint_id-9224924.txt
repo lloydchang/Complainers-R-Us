@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224924,
+  "complaint_id": "9224924",
+  "product": "Credit card",
+  "complaint_what_happened": "I moved in XXXX to XXXX on Government orders. I knew I would be travelling a lot in my new position and decided to open a Chase Marriott card to maximize my points. \n\nPrior to this time, I always used my Marriott rewards account that I had mistakenly opened it in my husbands name years ago. I did not know we needed our own accounts and it was never a problem. The site will also not allow me to change the name on the rewards account. \n\nThe account has always gone to my email, my telephone number and he does not travel for work purposes. He does not even know how to work this account. \n\nAbout 5 months after opening my credit card I received a letter that they could not link my account to my rewards. I contacted customer service confused as to what the issue is. They informed me I must have my own accounts and there was nothing I can do. My husband is an authorized user but that isn't good enough. I also informed them at the time I signed up for the card of my rewards number. It was not an issue until 5 months later after I accrued several thousands of points. \n\nSo now my option is to get my own account and lose my titanium status or forfeit my credit card points. The other option is to have my husband open his own credit card, which is ridiculous because he is already on mine. We do not need multiple cards for the same household. This also does not \" fix '' the issue of combining the rewards. \n\nI am not trying to cheat any system and it was a mistake I unknowingly made when setting the account up a very long time ago. I do not understand why they can not be linked as he is on the credit card. \n\nI have called and written to them with no resolution.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "AE",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I moved in XXXX to XXXX on Government orders. I knew I would be travelling a lot in my new position and decided to open a Chase Marriott card to maximize my points. \n\nPrior to this time, I always used my Marriott rewards account that I had mistakenly opened it in my husbands name years ago. I did not know we needed our own accounts and it was never a problem. The site will also not allow me to change the name on the rewards account. \n\nThe account has always gone to my email, my telephone number and he does not travel for work purposes. He does not even know how to work this account. \n\nAbout 5 months after opening my credit card I received a letter that they could not link my account to my rewards. I contacted customer service confused as to what the issue is. They informed me I must have my own accounts and there was nothing I can do. My husband is an authorized user but that isn't good enough. I also informed them at the time I signed up for the card of my rewards number. It was not an issue until 5 months later after I accrued several thousands of points. \n\nSo now my option is to get my own account and lose my titanium status or forfeit my credit card points. The other option is to have my husband open his own credit card, which is ridiculous because he is already on mine. We do not need multiple cards for the same household. This also does not \" fix '' the issue of combining the rewards. \n\nI am not trying to cheat any system and it was a mistake I unknowingly made when setting the account up a very long time ago. I do not understand why they can not be linked as he is on the credit card. \n\nI have called and written to them with no resolution."
+}
+
+Chunk:
+i moved in xxxx to xxxx on government orders. i knew i would be travelling a lot in my new position and decided to open a chase marriott card to maximize my points. prior to this time, i always used my marriott rewards account that i had mistakenly opened it in my husbands name years ago. i did not know we needed our own accounts and it was never a problem. the site will also not allow me to change the name on the rewards account. the account has always gone to my email, my telephone number and he does not travel for work purposes. he does not even know how to work this account. about 5 months after opening my credit card i received a letter that they could not link my account to my rewards. i contacted customer service confused as to what the issue is. they informed me i must have my own accounts and there was nothing i can do. my husband is an authorized user but that isn't good enough. i also informed them at the time i signed up for the card of my rewards number. it was not an issue until 5 months later after i accrued several thousands of points. so now my option is to get my own account and lose my titanium status or forfeit my credit card points. the other option is to have my husband open his own credit card, which is ridiculous because he is already on mine. we do not need multiple cards for the same household. this also does not " fix'' the issue of combining the rewards. i am not trying to cheat any system and it was a mistake i unknowingly made when setting the account up a very long time ago. i do not understand why they can not be linked as he is on the credit card. i have called and written to them with no resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989499449729919
+}

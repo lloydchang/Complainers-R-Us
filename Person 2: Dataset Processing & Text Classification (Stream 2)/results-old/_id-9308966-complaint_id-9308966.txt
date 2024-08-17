@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9308966,
+  "complaint_id": "9308966",
+  "product": "Credit card",
+  "complaint_what_happened": "I initially applied for my Citi credit card back in XXXX of XXXX  and I called several times because I never received my credit card. After 4 calls, I finally received my credit card, not until XXXX. I only applied for this credit card because of the promotion for 0 % interest on balance transfered for the first 3 months. Since I never received my card in time, due to no fault of my own, I asked for my promotion to start because they didn't allow me to transfer unless I received the credit card. I never heard back from them and it's been 4 months now. I also applied for a 2nd card for the balance transfer promotion as well, and it's been the same thing. I've called 3 times now in the course of 3 months because I have yet to receive my credit card from Citi as well. The representative told me I can not talk to the marketing team and told me he had to close my account to try sending the card again. This is fraud as they are not sending my cards to me until the very end, or after the promotion period. They did not honor what they promised and advertised, yet I am stuck with 2 credit dings now with no promotion.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97068",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I initially applied for my Citi credit card back in XXXX of XXXX  and I called several times because I never received my credit card. After 4 calls, I finally received my credit card, not until XXXX. I only applied for this credit card because of the promotion for 0 % interest on balance transfered for the first 3 months. Since I never received my card in time, due to no fault of my own, I asked for my promotion to start because they didn't allow me to transfer unless I received the credit card. I never heard back from them and it's been 4 months now. I also applied for a 2nd card for the balance transfer promotion as well, and it's been the same thing. I've called 3 times now in the course of 3 months because I have yet to receive my credit card from Citi as well. The representative told me I can not talk to the marketing team and told me he had to close my account to try sending the card again. This is fraud as they are not sending my cards to me until the very end, or after the promotion period. They did not honor what they promised and advertised, yet I am stuck with 2 credit dings now with no promotion."
+}
+
+Chunk:
+i initially applied for my citi credit card back in xxxx of xxxx and i called several times because i never received my credit card. after 4 calls, i finally received my credit card, not until xxxx. i only applied for this credit card because of the promotion for 0 % interest on balance transfered for the first 3 months. since i never received my card in time, due to no fault of my own, i asked for my promotion to start because they didn't allow me to transfer unless i received the credit card. i never heard back from them and it's been 4 months now. i also applied for a 2nd card for the balance transfer promotion as well, and it's been the same thing. i've called 3 times now in the course of 3 months because i have yet to receive my credit card from citi as well. the representative told me i can not talk to the marketing team and told me he had to close my account to try sending the card again. this is fraud as they are not sending my cards to me until the very end, or after the promotion period. they did not honor what they promised and advertised, yet i am stuck with 2 credit dings now with no promotion.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999545156955719
+}

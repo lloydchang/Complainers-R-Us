@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037812,
+  "complaint_id": "9037812",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024 I opened a dispute with Capital One XXXX Credit Card dispute over an issue I was having with XXXX. XXXX explained to the Capital One dispute specialist that I had evidence of the company not following their established complaint dispute resolution process and ghost lighting me then closing the case with no action claiming I was not responding when the email chain showed I had been responding. The Capital One representative refused to take my documentation I had to together and instead told be to hold the information until phase two if needed. Tight now will just dispute the transaction in general and if the company rejects the dispute then to supply Capital One with the documentation. \n\nOn XX/XX/2024 Capital One informed me that XXXX had rejected my dispute and the charges were going back into my account and I could take this to the next level and provide documentation to the company. \n\nOn XX/XX/2024 I contacted Capital One and opened that second level dispute and was provided the secure link to send my supporting documents, which I did right away. XXXX XX/XX/XXXX, XXXX Capital Once told me they will be closing my dispute due to not providing them the documents they wanted.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "49503",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/2024 I opened a dispute with Capital One XXXX Credit Card dispute over an issue I was having with XXXX. XXXX explained to the Capital One dispute specialist that I had evidence of the company not following their established complaint dispute resolution process and ghost lighting me then closing the case with no action claiming I was not responding when the email chain showed I had been responding. The Capital One representative refused to take my documentation I had to together and instead told be to hold the information until phase two if needed. Tight now will just dispute the transaction in general and if the company rejects the dispute then to supply Capital One with the documentation. \n\nOn XX/XX/2024 Capital One informed me that XXXX had rejected my dispute and the charges were going back into my account and I could take this to the next level and provide documentation to the company. \n\nOn XX/XX/2024 I contacted Capital One and opened that second level dispute and was provided the secure link to send my supporting documents, which I did right away. XXXX XX/XX/XXXX, XXXX Capital Once told me they will be closing my dispute due to not providing them the documents they wanted."
+}
+
+Chunk:
+on xx / xx / 2024 i opened a dispute with capital one xxxx credit card dispute over an issue i was having with xxxx. xxxx explained to the capital one dispute specialist that i had evidence of the company not following their established complaint dispute resolution process and ghost lighting me then closing the case with no action claiming i was not responding when the email chain showed i had been responding. the capital one representative refused to take my documentation i had to together and instead told be to hold the information until phase two if needed. tight now will just dispute the transaction in general and if the company rejects the dispute then to supply capital one with the documentation. on xx / xx / 2024 capital one informed me that xxxx had rejected my dispute and the charges were going back into my account and i could take this to the next level and provide documentation to the company. on xx / xx / 2024 i contacted capital one and opened that second level dispute and was provided the secure link to send my supporting documents, which i did right away. xxxx xx / xx / xxxx, xxxx capital once told me they will be closing my dispute due to not providing them the documents they wanted.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984099864959717
+}

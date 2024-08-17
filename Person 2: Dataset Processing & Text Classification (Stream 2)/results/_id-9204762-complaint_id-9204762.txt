@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204762,
+  "complaint_id": "9204762",
+  "product": "Credit card",
+  "complaint_what_happened": "This morning XX/XX/2024, I noticed that my automatic payment was not made to my Citibank credit card, after logging in and making the payment I noticed that I was charged {$41.00} for a returned check fee. I called Citibank customer demand they said that they charged my account for not making a payment on the due date. I said that my account has been set up on autopay for a long time and that I recently changed my payment account from Citibank check to XXXX checking and there must have been an error. I was told that there was nothing they can do and I could call back next month to see if anything could be done. I explained that I should have been charged a late fee and not a returned check fee because I have never written any checks from this account. I believe that Citibank is attempting to avoid charging a late fee because of the recent charges to the law in the amount they are allowed to charge.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "278XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "This morning XX/XX/2024, I noticed that my automatic payment was not made to my Citibank credit card, after logging in and making the payment I noticed that I was charged {$41.00} for a returned check fee. I called Citibank customer demand they said that they charged my account for not making a payment on the due date. I said that my account has been set up on autopay for a long time and that I recently changed my payment account from Citibank check to XXXX checking and there must have been an error. I was told that there was nothing they can do and I could call back next month to see if anything could be done. I explained that I should have been charged a late fee and not a returned check fee because I have never written any checks from this account. I believe that Citibank is attempting to avoid charging a late fee because of the recent charges to the law in the amount they are allowed to charge."
+}
+
+Chunk:
+this morning xx / xx / 2024, i noticed that my automatic payment was not made to my citibank credit card, after logging in and making the payment i noticed that i was charged { $ 41. 00 } for a returned check fee. i called citibank customer demand they said that they charged my account for not making a payment on the due date. i said that my account has been set up on autopay for a long time and that i recently changed my payment account from citibank check to xxxx checking and there must have been an error. i was told that there was nothing they can do and i could call back next month to see if anything could be done. i explained that i should have been charged a late fee and not a returned check fee because i have never written any checks from this account. i believe that citibank is attempting to avoid charging a late fee because of the recent charges to the law in the amount they are allowed to charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990710020065308
+}

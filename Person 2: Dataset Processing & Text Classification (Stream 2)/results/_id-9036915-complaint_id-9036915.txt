@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036915,
+  "complaint_id": "9036915",
+  "product": "Credit card",
+  "complaint_what_happened": "unathorized charges, and no knowledge of accounts being open, reprted fraudulent to XXXX and XXXX XXXX, company keeps reopening this acct like it is new, I repeatedly report it as fraud and I am not getting anywhere, according to credit report I owe {$3400.00}, i never received merchandise. i have been out of nevada for XXXX  years I was at United States XXXX XXXX at XXXX XXXX since XXXX XXXX XXXX, went to station in XXXX XXXX oklahoma XXXX XX/XX/XXXX until XX/XX/XXXX and XXXX XXXX XX/XX/XXXX to current XXXX.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "283XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Conn's, Inc.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "unathorized charges, and no knowledge of accounts being open, reprted fraudulent to XXXX and XXXX XXXX, company keeps reopening this acct like it is new, I repeatedly report it as fraud and I am not getting anywhere, according to credit report I owe {$3400.00}, i never received merchandise. i have been out of nevada for XXXX  years I was at United States XXXX XXXX at XXXX XXXX since XXXX XXXX XXXX, went to station in XXXX XXXX oklahoma XXXX XX/XX/XXXX until XX/XX/XXXX and XXXX XXXX XX/XX/XXXX to current XXXX."
+}
+
+Chunk:
+unathorized charges, and no knowledge of accounts being open, reprted fraudulent to xxxx and xxxx xxxx, company keeps reopening this acct like it is new, i repeatedly report it as fraud and i am not getting anywhere, according to credit report i owe { $ 3400. 00 }, i never received merchandise. i have been out of nevada for xxxx years i was at united states xxxx xxxx at xxxx xxxx since xxxx xxxx xxxx, went to station in xxxx xxxx oklahoma xxxx xx / xx / xxxx until xx / xx / xxxx and xxxx xxxx xx / xx / xxxx to current xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990618824958801
+}

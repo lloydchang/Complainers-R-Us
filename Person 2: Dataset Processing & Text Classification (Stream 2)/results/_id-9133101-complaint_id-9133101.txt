@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9133101,
+  "complaint_id": "9133101",
+  "product": "Credit card",
+  "complaint_what_happened": "I booked a 3-day hotel room on Chase Travel through my Chase Sapphire credit card. ( Trip XXXX : XXXX ). I booked a one-king-bed room, but when I arrived at the hotel the front desk informed me that my reservation was for a 2-queen-bed room. So I called Chas\n\ne Travel Support right away to confirm what happened, the customer representative told me that on Chase 's end I did book a one-king-bed room but on the hotel 's end it was a 2-queen-bed room, and it was clearly a technical issue from Chase Travel.\n\nThe Chase representative told me they needed to do some investigation on the back end. One month passed, and they called me telling me that it was a technical issue from Chase Travel and would like to offer me XXXX points ( XXXX $ ) as compensation. I declined the offer as I didn't get what I booked, so I requested a full refund because Chase was at fault. After I proposed my request, they immediately turned me down and also took away the original XXXX points offer, claiming they would close my case and complain as it is.\\ I was shocked at how Chase treats their customer and how Chase doesn't address the wrong-doing caused by their technical issue.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92606",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I booked a 3-day hotel room on Chase Travel through my Chase Sapphire credit card. ( Trip XXXX : XXXX ). I booked a one-king-bed room, but when I arrived at the hotel the front desk informed me that my reservation was for a 2-queen-bed room. So I called Chas\n\ne Travel Support right away to confirm what happened, the customer representative told me that on Chase 's end I did book a one-king-bed room but on the hotel 's end it was a 2-queen-bed room, and it was clearly a technical issue from Chase Travel.\n\nThe Chase representative told me they needed to do some investigation on the back end. One month passed, and they called me telling me that it was a technical issue from Chase Travel and would like to offer me XXXX points ( XXXX $ ) as compensation. I declined the offer as I didn't get what I booked, so I requested a full refund because Chase was at fault. After I proposed my request, they immediately turned me down and also took away the original XXXX points offer, claiming they would close my case and complain as it is.\\ I was shocked at how Chase treats their customer and how Chase doesn't address the wrong-doing caused by their technical issue."
+}
+
+Chunk:
+i booked a 3 - day hotel room on chase travel through my chase sapphire credit card. ( trip xxxx : xxxx ). i booked a one - king - bed room, but when i arrived at the hotel the front desk informed me that my reservation was for a 2 - queen - bed room. so i called chas e travel support right away to confirm what happened, the customer representative told me that on chase's end i did book a one - king - bed room but on the hotel's end it was a 2 - queen - bed room, and it was clearly a technical issue from chase travel. the chase representative told me they needed to do some investigation on the back end. one month passed, and they called me telling me that it was a technical issue from chase travel and would like to offer me xxxx points ( xxxx $ ) as compensation. i declined the offer as i didn't get what i booked, so i requested a full refund because chase was at fault. after i proposed my request, they immediately turned me down and also took away the original xxxx points offer, claiming they would close my case and complain as it is. \ i was shocked at how chase treats their customer and how chase doesn't address the wrong - doing caused by their technical issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9872758984565735
+}

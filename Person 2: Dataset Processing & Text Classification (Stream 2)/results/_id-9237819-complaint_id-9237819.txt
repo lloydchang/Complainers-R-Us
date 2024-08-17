@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9237819,
+  "complaint_id": "9237819",
+  "product": "Credit card",
+  "complaint_what_happened": "I was notified today ( XX/XX/XXXX ) by a third party credit monitoring service that my Synchrony Paypal XXXX is closed. I logged in Paypal immediately and I am still able to see my account and the cash back rewards of {$72.00}. But clicking on redeeming causes an error that says \" We cant redeem your rewards right now. Please try again or call us at ( XXXX ) XXXX. \". I called the number, the first representative says I should be able to redeem the rewards since I accumulated them before the account was closed by Synchrony. Btw, this is before any official communication from Synchrony reached me. Supposely I will get a letter explaining why my account was closed. However, after consulting with a XXXX, the representative told me the cash back rewards are forfeited by Synchrony.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "030XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I was notified today ( XX/XX/XXXX ) by a third party credit monitoring service that my Synchrony Paypal XXXX is closed. I logged in Paypal immediately and I am still able to see my account and the cash back rewards of {$72.00}. But clicking on redeeming causes an error that says \" We cant redeem your rewards right now. Please try again or call us at ( XXXX ) XXXX. \". I called the number, the first representative says I should be able to redeem the rewards since I accumulated them before the account was closed by Synchrony. Btw, this is before any official communication from Synchrony reached me. Supposely I will get a letter explaining why my account was closed. However, after consulting with a XXXX, the representative told me the cash back rewards are forfeited by Synchrony."
+}
+
+Chunk:
+i was notified today ( xx / xx / xxxx ) by a third party credit monitoring service that my synchrony paypal xxxx is closed. i logged in paypal immediately and i am still able to see my account and the cash back rewards of { $ 72. 00 }. but clicking on redeeming causes an error that says " we cant redeem your rewards right now. please try again or call us at ( xxxx ) xxxx. ". i called the number, the first representative says i should be able to redeem the rewards since i accumulated them before the account was closed by synchrony. btw, this is before any official communication from synchrony reached me. supposely i will get a letter explaining why my account was closed. however, after consulting with a xxxx, the representative told me the cash back rewards are forfeited by synchrony.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995177984237671
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9404610,
+  "complaint_id": "9404610",
+  "product": "Credit card",
+  "complaint_what_happened": "I found on my credit report that I had a Citibank Home Depot revolving credit card. After ordering the statements that were from the year XXXX to XXXX, I noticed that the statements were addressed to my XXXX XXXX XXXX in XXXX XXXX, CA XXXX. When I arrived to investigate why I never seen a statement from XXXX. I was informed that my sister XXXX XXXX has been picking up, my mail.. I told the XXXX XXXX XXXX that this was my private locking XXXX XXXX and nobody should be getting my mail. I retired in the year XXXX and my bank account was over drawn from these purchases from this unknown credit card. I have never owned a Home Depot card. I would like restitution for all these damages incurred. Thank you",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "922XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I found on my credit report that I had a Citibank Home Depot revolving credit card. After ordering the statements that were from the year XXXX to XXXX, I noticed that the statements were addressed to my XXXX XXXX XXXX in XXXX XXXX, CA XXXX. When I arrived to investigate why I never seen a statement from XXXX. I was informed that my sister XXXX XXXX has been picking up, my mail.. I told the XXXX XXXX XXXX that this was my private locking XXXX XXXX and nobody should be getting my mail. I retired in the year XXXX and my bank account was over drawn from these purchases from this unknown credit card. I have never owned a Home Depot card. I would like restitution for all these damages incurred. Thank you"
+}
+
+Chunk:
+i found on my credit report that i had a citibank home depot revolving credit card. after ordering the statements that were from the year xxxx to xxxx, i noticed that the statements were addressed to my xxxx xxxx xxxx in xxxx xxxx, ca xxxx. when i arrived to investigate why i never seen a statement from xxxx. i was informed that my sister xxxx xxxx has been picking up, my mail.. i told the xxxx xxxx xxxx that this was my private locking xxxx xxxx and nobody should be getting my mail. i retired in the year xxxx and my bank account was over drawn from these purchases from this unknown credit card. i have never owned a home depot card. i would like restitution for all these damages incurred. thank you
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994139671325684
+}

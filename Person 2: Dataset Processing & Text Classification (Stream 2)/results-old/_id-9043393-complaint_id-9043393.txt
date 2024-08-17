@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9043393,
+  "complaint_id": "9043393",
+  "product": "Credit card",
+  "complaint_what_happened": "Open In account XXXX account was closed XX/XX/2018 not only they charge off my account and they keep on reporting it as late payment each month and I never received at 1099-C for the charge off",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06606",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Open In account XXXX account was closed XX/XX/2018 not only they charge off my account and they keep on reporting it as late payment each month and I never received at 1099-C for the charge off"
+}
+
+Chunk:
+open in account xxxx account was closed xx / xx / 2018 not only they charge off my account and they keep on reporting it as late payment each month and i never received at 1099 - c for the charge off
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977204203605652
+}

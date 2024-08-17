@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9231278,
+  "complaint_id": "9231278",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I made my final payment to Kikoff for a credit builder account. I didn't sign up for anymore products. On XX/XX/year>, I received an alert from XXXX saying that my credit score had dropped XXXX points. Upon checking my credit report, I noticed a 30 day late payment from Kikoff which made me call the company. I was told by an agent for Kikoff that my account was automatically renewed and now I owe them {$60.00} for something that I didn't sign up for. I asked can the late payment be removed and was told that it couldn't and that I would have to pay them the {$60.00} or they would send me to collections. The agent advised me to log into my account via the app and remove the automatic renewal option which I did.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "85255",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Kikoff Inc.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "In XX/XX/year>, I made my final payment to Kikoff for a credit builder account. I didn't sign up for anymore products. On XX/XX/year>, I received an alert from XXXX saying that my credit score had dropped XXXX points. Upon checking my credit report, I noticed a 30 day late payment from Kikoff which made me call the company. I was told by an agent for Kikoff that my account was automatically renewed and now I owe them {$60.00} for something that I didn't sign up for. I asked can the late payment be removed and was told that it couldn't and that I would have to pay them the {$60.00} or they would send me to collections. The agent advised me to log into my account via the app and remove the automatic renewal option which I did."
+}
+
+Chunk:
+in xx / xx / year >, i made my final payment to kikoff for a credit builder account. i didn't sign up for anymore products. on xx / xx / year >, i received an alert from xxxx saying that my credit score had dropped xxxx points. upon checking my credit report, i noticed a 30 day late payment from kikoff which made me call the company. i was told by an agent for kikoff that my account was automatically renewed and now i owe them { $ 60. 00 } for something that i didn't sign up for. i asked can the late payment be removed and was told that it couldn't and that i would have to pay them the { $ 60. 00 } or they would send me to collections. the agent advised me to log into my account via the app and remove the automatic renewal option which i did.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993699193000793
+}

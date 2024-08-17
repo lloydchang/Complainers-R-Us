@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9344133,
+  "complaint_id": "9344133",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> My remaining balance of XXXX for the Fortiva Retail Credit was transferred to a Fortiva Credit Card within the same company. I did not authorize this balance transfer or additional line of credit to be opened. \n\nMy Credit limit for the Fortiva Retail Credit is {$4000.00} dollars and this new line of credit is {$2000.00} - the balance transfer is now making the credit usage on this new line of credit that I did not authorize high and effectively lowering my credit score. \n\nI called Fortiva to try and reconcile this issue on XX/XX/year> at XXXXXXXX XXXX Arizona Time, as I had not authorized an additional credit card being opened or a balance transfer they stated that this was a \" promotion given to their best customers '' and that I would just need to pay off the remaining balance on the new card. \n\nI asked them why they changed me to this new card as I had not authorized it and they stated \" According to the terms and conditions the company can change the terms of the agreement when they like '' They also stated that they were doing this across the board with all their customers. \n\nThere was no resolution they just told me I needed to pay off my balance.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "85233",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with balance transfer",
+  "text": "On XX/XX/year> My remaining balance of XXXX for the Fortiva Retail Credit was transferred to a Fortiva Credit Card within the same company. I did not authorize this balance transfer or additional line of credit to be opened. \n\nMy Credit limit for the Fortiva Retail Credit is {$4000.00} dollars and this new line of credit is {$2000.00} - the balance transfer is now making the credit usage on this new line of credit that I did not authorize high and effectively lowering my credit score. \n\nI called Fortiva to try and reconcile this issue on XX/XX/year> at XXXXXXXX XXXX Arizona Time, as I had not authorized an additional credit card being opened or a balance transfer they stated that this was a \" promotion given to their best customers '' and that I would just need to pay off the remaining balance on the new card. \n\nI asked them why they changed me to this new card as I had not authorized it and they stated \" According to the terms and conditions the company can change the terms of the agreement when they like '' They also stated that they were doing this across the board with all their customers. \n\nThere was no resolution they just told me I needed to pay off my balance."
+}
+
+Chunk:
+on xx / xx / year > my remaining balance of xxxx for the fortiva retail credit was transferred to a fortiva credit card within the same company. i did not authorize this balance transfer or additional line of credit to be opened. my credit limit for the fortiva retail credit is { $ 4000. 00 } dollars and this new line of credit is { $ 2000. 00 } - the balance transfer is now making the credit usage on this new line of credit that i did not authorize high and effectively lowering my credit score. i called fortiva to try and reconcile this issue on xx / xx / year > at xxxxxxxx xxxx arizona time, as i had not authorized an additional credit card being opened or a balance transfer they stated that this was a " promotion given to their best customers'' and that i would just need to pay off the remaining balance on the new card. i asked them why they changed me to this new card as i had not authorized it and they stated " according to the terms and conditions the company can change the terms of the agreement when they like'' they also stated that they were doing this across the board with all their customers. there was no resolution they just told me i needed to pay off my balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991371035575867
+}

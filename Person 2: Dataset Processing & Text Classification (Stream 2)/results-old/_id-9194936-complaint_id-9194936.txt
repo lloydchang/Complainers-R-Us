@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9194936,
+  "complaint_id": "9194936",
+  "product": "Credit card",
+  "complaint_what_happened": "I contacted chase before the due date XX/XX/XXXX to arrange full payoff on the card, informing them that I was sending a cashers check for the total balance payoff and wanted to make sure that if it arrived a day or 2 after the due date there would NOT be any late fees charged. They agreed per recorded conversation and \" noted this on my acct ''! Then after recieving full payoff they promptly charged me both a late fee as well as {$250.00} interest! I contacted them 3 times ( XXXX, XXXX, XXXX ) about them going against the agreement to no avail and today XXXX I was told by a supervisor that \" they should have told you that these fees would be charged '' admitting thier wrongdoing. I had an agreement and it was noted on my acct.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "957XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I contacted chase before the due date XX/XX/XXXX to arrange full payoff on the card, informing them that I was sending a cashers check for the total balance payoff and wanted to make sure that if it arrived a day or 2 after the due date there would NOT be any late fees charged. They agreed per recorded conversation and \" noted this on my acct ''! Then after recieving full payoff they promptly charged me both a late fee as well as {$250.00} interest! I contacted them 3 times ( XXXX, XXXX, XXXX ) about them going against the agreement to no avail and today XXXX I was told by a supervisor that \" they should have told you that these fees would be charged '' admitting thier wrongdoing. I had an agreement and it was noted on my acct."
+}
+
+Chunk:
+i contacted chase before the due date xx / xx / xxxx to arrange full payoff on the card, informing them that i was sending a cashers check for the total balance payoff and wanted to make sure that if it arrived a day or 2 after the due date there would not be any late fees charged. they agreed per recorded conversation and " noted this on my acct''! then after recieving full payoff they promptly charged me both a late fee as well as { $ 250. 00 } interest! i contacted them 3 times ( xxxx, xxxx, xxxx ) about them going against the agreement to no avail and today xxxx i was told by a supervisor that " they should have told you that these fees would be charged'' admitting thier wrongdoing. i had an agreement and it was noted on my acct.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966995120048523
+}

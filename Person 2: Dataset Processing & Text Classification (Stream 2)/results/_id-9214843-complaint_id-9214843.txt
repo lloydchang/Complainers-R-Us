@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9214843,
+  "complaint_id": "9214843",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/2021 - Settled as discussed but appearing as a negative XX/XX/2021 - Settled as discussed but appearing as a negative",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20164",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem canceling credit monitoring or identify theft protection service",
+  "text": "XX/XX/2021 - Settled as discussed but appearing as a negative XX/XX/2021 - Settled as discussed but appearing as a negative"
+}
+
+Chunk:
+xx / xx / 2021 - settled as discussed but appearing as a negative xx / xx / 2021 - settled as discussed but appearing as a negative
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990598559379578
+}

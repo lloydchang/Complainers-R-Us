@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113383,
+  "complaint_id": "9113383",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Chase Amazon Prime Rewards card that I used to purchase a XXXX XXXX XXXX in XXXX of XXXX. The card comes with an extended warranty benefit that : \" Extends the time period of the U.S. manufacturers warranty by one additional year, on eligible warranties of 3 years or less when item is purchased with an eligible Chase card or with rewards earned on an eligible Chase card. '' The soundbar failed in XXXX of XXXX, outside the one year original manufacturer warranty, but within the additional year provided by the card. The manufacturer ( XXXX ) understandably did not replace the soundbar because it's out of warranty, but XXXX also did not offer to repair the product at cost, because XXXX does not have a repair program. There are no electronics repair shops near me willing to quote a repair cost, because the soundbar is not designed to be serviceable by third parties. \n\nI submitted documentation of the purchase, warranty, and inability for XXXX to repair to Chase 's claims filing partner, but received a rejection requesting \" A copy of the diagnostic, or repair receipt if the item has been repaired, that states the reason for the failure and details the cost to repair the claimed item. '' I called and explained to them that there is no such diagnostic because there's no facility that offers repair services for the item. They said they just need documentation that XXXX can't repair it, so I contacted XXXX again, screenshotted the conversation, I sent this to Chase 's claims filing partner, who then rejected with the identical message : \" A copy of the diagnostic, or repair receipt if the item has been repaired, that states the reason for the failure and details the cost to repair the claimed item. '' I called again, they said they see the info that XXXX doesn't provide repairs, but the information needs to be in a different format ( making it clear that conversation was with XXXX ). So I contacted XXXX again, asked them to restate in an email, and sent a copy of the email to Chase 's claims filing partner. Again, the same rejection, again, with the exact same message. \n\nI've tried calling 3 further times, twice unable to get through and the third time told I need to get a diagnostic and cost to repair. This requirement is impossible to satisfy. \n\nChase 's marketing and \" guide to benefits '' do not limit the extended warranty benefit to only apply to products that are repairable ; they refer to a repair or replacement at the claims administrator 's discretion. Clearly, a repair or diagnostic is not available, and I have provided the documentation to the claims administrator, so the card benefit should approve a replacement.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98122",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Add-on products and services",
+  "text": "I have a Chase Amazon Prime Rewards card that I used to purchase a XXXX XXXX XXXX in XXXX of XXXX. The card comes with an extended warranty benefit that : \" Extends the time period of the U.S. manufacturers warranty by one additional year, on eligible warranties of 3 years or less when item is purchased with an eligible Chase card or with rewards earned on an eligible Chase card. '' The soundbar failed in XXXX of XXXX, outside the one year original manufacturer warranty, but within the additional year provided by the card. The manufacturer ( XXXX ) understandably did not replace the soundbar because it's out of warranty, but XXXX also did not offer to repair the product at cost, because XXXX does not have a repair program. There are no electronics repair shops near me willing to quote a repair cost, because the soundbar is not designed to be serviceable by third parties. \n\nI submitted documentation of the purchase, warranty, and inability for XXXX to repair to Chase 's claims filing partner, but received a rejection requesting \" A copy of the diagnostic, or repair receipt if the item has been repaired, that states the reason for the failure and details the cost to repair the claimed item. '' I called and explained to them that there is no such diagnostic because there's no facility that offers repair services for the item. They said they just need documentation that XXXX can't repair it, so I contacted XXXX again, screenshotted the conversation, I sent this to Chase 's claims filing partner, who then rejected with the identical message : \" A copy of the diagnostic, or repair receipt if the item has been repaired, that states the reason for the failure and details the cost to repair the claimed item. '' I called again, they said they see the info that XXXX doesn't provide repairs, but the information needs to be in a different format ( making it clear that conversation was with XXXX ). So I contacted XXXX again, asked them to restate in an email, and sent a copy of the email to Chase 's claims filing partner. Again, the same rejection, again, with the exact same message. \n\nI've tried calling 3 further times, twice unable to get through and the third time told I need to get a diagnostic and cost to repair. This requirement is impossible to satisfy. \n\nChase 's marketing and \" guide to benefits '' do not limit the extended warranty benefit to only apply to products that are repairable ; they refer to a repair or replacement at the claims administrator 's discretion. Clearly, a repair or diagnostic is not available, and I have provided the documentation to the claims administrator, so the card benefit should approve a replacement."
+}
+
+Chunk:
+to only apply to products that are repairable ; they refer to a repair or replacement at the claims administrator's discretion. clearly, a repair or diagnostic is not available, and i have provided the documentation to the claims administrator, so the card benefit should approve a replacement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999193012714386
+}

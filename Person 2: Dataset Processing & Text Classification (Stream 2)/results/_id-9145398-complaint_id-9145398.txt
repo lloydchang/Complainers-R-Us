@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9145398,
+  "complaint_id": "9145398",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a text from Marcus GM Card asking if I purchased something at XXXX XXXX XXXX. I had not made the purchase. A company rep called me to say they would cancel my card and send a new card. Some one changed my email address, password and home mailing address in my Marcus GM Card account. The new card was sent to XXXX and someone attempted to receive a cash transaction of {$400.00} it was declined and they tried a second time. \nI have now updated my Marcus GM Card account with my correct information and requested a replacement card.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "50131",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "IA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I received a text from Marcus GM Card asking if I purchased something at XXXX XXXX XXXX. I had not made the purchase. A company rep called me to say they would cancel my card and send a new card. Some one changed my email address, password and home mailing address in my Marcus GM Card account. The new card was sent to XXXX and someone attempted to receive a cash transaction of {$400.00} it was declined and they tried a second time. \nI have now updated my Marcus GM Card account with my correct information and requested a replacement card."
+}
+
+Chunk:
+i received a text from marcus gm card asking if i purchased something at xxxx xxxx xxxx. i had not made the purchase. a company rep called me to say they would cancel my card and send a new card. some one changed my email address, password and home mailing address in my marcus gm card account. the new card was sent to xxxx and someone attempted to receive a cash transaction of { $ 400. 00 } it was declined and they tried a second time. i have now updated my marcus gm card account with my correct information and requested a replacement card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994798302650452
+}

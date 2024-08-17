@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9092346,
+  "complaint_id": "9092346",
+  "product": "Credit card",
+  "complaint_what_happened": "There isnt a balance for this account, but is saying that I have XXXX late payments. This account was last updated in XXXX of 2021.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "Store credit card",
+  "zip_code": "49503",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account information incorrect",
+  "text": "There isnt a balance for this account, but is saying that I have XXXX late payments. This account was last updated in XXXX of 2021."
+}
+
+Chunk:
+there isnt a balance for this account, but is saying that i have xxxx late payments. this account was last updated in xxxx of 2021.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9957489967346191
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9216599,
+  "complaint_id": "9216599",
+  "product": "Credit card",
+  "complaint_what_happened": "During covid ( summer XXXX  ) I was In the middle of a move to Florida using my Capital One Card. Out of nowhere they decided to close my account, effectively leaving me stranded, unable to rent a car, and causing a hindrance to me, my wife, and XXXX kids. I tried to reach out to Capital one to inquire about what was going on, as I had my account for a while with them, but they said the generic response.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "42303",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "During covid ( summer XXXX  ) I was In the middle of a move to Florida using my Capital One Card. Out of nowhere they decided to close my account, effectively leaving me stranded, unable to rent a car, and causing a hindrance to me, my wife, and XXXX kids. I tried to reach out to Capital one to inquire about what was going on, as I had my account for a while with them, but they said the generic response."
+}
+
+Chunk:
+during covid ( summer xxxx ) i was in the middle of a move to florida using my capital one card. out of nowhere they decided to close my account, effectively leaving me stranded, unable to rent a car, and causing a hindrance to me, my wife, and xxxx kids. i tried to reach out to capital one to inquire about what was going on, as i had my account for a while with them, but they said the generic response.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994089603424072
+}

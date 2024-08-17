@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9644845,
+  "complaint_id": "9644845",
+  "product": "Credit card",
+  "complaint_what_happened": "What happened? \n\nI am writing to file a complaint regarding fraudulent transactions on my credit card. The details of the issue are as follows : Fraudulent Transactions : Dates : XX/XX/XXXX and XXXX, XXXX  Amounts and Locations : XXXX time of transactions of {$20.00} each at a car wash in a city I have never visited. \nAdditional transactions of {$76.00} and {$17.00} at a gas station and XXXX XXXX in a district I have never been to. \nActions Taken : Work Schedule : On XX/XX/XXXX and XXXX, I was working from XXXX XXXX  to XXXX XXXX  at home in XXXX, ZIP code XXXX. This can be confirmed by my XXXX. Given my work schedule and location, I was unable to make these transactions. \n\nAdditional Observations : Transaction Pattern : My transaction history with Bank of America shows that I have never used my credit card for in-store purchases. It is unusual for me to suddenly have multiple transactions in a city and locations where I have never been, especially considering the small and repetitive amounts involved. \n\nI request that the Consumer Financial Protection Bureau assist in resolving this matter and ensure that the fraudulent transactions are properly investigated and addressed by the credit card issuer. \n\nI have disputed those claim of in total {$250.00}. But boa claimed that \" XXXX, were unable to approve your recent claim. \nOur research included the information you provided with your claim, your account history, the monthly account statements we sent you and if available, information from the merchant, such as a signed receipt or contract. We made this decision because : The merchant provided documentation confirming you received the merchandise or service. \" Claim number : XXXX Amount : {$250.00}",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98105",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-29T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "What happened? \n\nI am writing to file a complaint regarding fraudulent transactions on my credit card. The details of the issue are as follows : Fraudulent Transactions : Dates : XX/XX/XXXX and XXXX, XXXX  Amounts and Locations : XXXX time of transactions of {$20.00} each at a car wash in a city I have never visited. \nAdditional transactions of {$76.00} and {$17.00} at a gas station and XXXX XXXX in a district I have never been to. \nActions Taken : Work Schedule : On XX/XX/XXXX and XXXX, I was working from XXXX XXXX  to XXXX XXXX  at home in XXXX, ZIP code XXXX. This can be confirmed by my XXXX. Given my work schedule and location, I was unable to make these transactions. \n\nAdditional Observations : Transaction Pattern : My transaction history with Bank of America shows that I have never used my credit card for in-store purchases. It is unusual for me to suddenly have multiple transactions in a city and locations where I have never been, especially considering the small and repetitive amounts involved. \n\nI request that the Consumer Financial Protection Bureau assist in resolving this matter and ensure that the fraudulent transactions are properly investigated and addressed by the credit card issuer. \n\nI have disputed those claim of in total {$250.00}. But boa claimed that \" XXXX, were unable to approve your recent claim. \nOur research included the information you provided with your claim, your account history, the monthly account statements we sent you and if available, information from the merchant, such as a signed receipt or contract. We made this decision because : The merchant provided documentation confirming you received the merchandise or service. \" Claim number : XXXX Amount : {$250.00}"
+}
+
+Chunk:
+what happened? i am writing to file a complaint regarding fraudulent transactions on my credit card. the details of the issue are as follows : fraudulent transactions : dates : xx / xx / xxxx and xxxx, xxxx amounts and locations : xxxx time of transactions of { $ 20. 00 } each at a car wash in a city i have never visited. additional transactions of { $ 76. 00 } and { $ 17. 00 } at a gas station and xxxx xxxx in a district i have never been to. actions taken : work schedule : on xx / xx / xxxx and xxxx, i was working from xxxx xxxx to xxxx xxxx at home in xxxx, zip code xxxx. this can be confirmed by my xxxx. given my work schedule and location, i was unable to make these transactions. additional observations : transaction pattern : my transaction history with bank of america shows that i have never used my credit card for in - store purchases. it is unusual for me to suddenly have multiple transactions in a city and locations where i have never been, especially considering the small and repetitive amounts involved. i request that the consumer financial protection bureau assist in resolving this matter and ensure that the fraudulent transactions are properly investigated and addressed by the credit card issuer. i have disputed those claim of in total { $ 250. 00 }. but boa claimed that " xxxx, were unable to approve your recent claim. our research included the information you provided with your claim, your account history, the monthly account statements we sent you and if available, information from the merchant, such as a signed receipt or contract. we made this decision because : the merchant provided documentation confirming you received the merchandise or service. " claim number : xxxx amount : { $ 250. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972198009490967
+}

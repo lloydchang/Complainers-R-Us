@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211592,
+  "complaint_id": "9211592",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone applied for a Chase credit card using my information on XX/XX/year>. I called Chase and let them know that it wasnt me. I now have hard inquiries on my credit reports due to this application that was submitted without my knowledge or consent.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20017",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Someone applied for a Chase credit card using my information on XX/XX/year>. I called Chase and let them know that it wasnt me. I now have hard inquiries on my credit reports due to this application that was submitted without my knowledge or consent."
+}
+
+Chunk:
+someone applied for a chase credit card using my information on xx / xx / year >. i called chase and let them know that it wasnt me. i now have hard inquiries on my credit reports due to this application that was submitted without my knowledge or consent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993923902511597
+}

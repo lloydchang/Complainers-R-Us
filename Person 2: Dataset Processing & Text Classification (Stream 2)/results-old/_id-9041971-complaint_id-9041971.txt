@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041971,
+  "complaint_id": "9041971",
+  "product": "Credit card",
+  "complaint_what_happened": "I alerted FNBO on or about XXXX about filing a dispute about a charge from XXXX XXXX They were in breach of contract when providing personal training services. I notified the credit card company that I would like them to investigate and reverse the charge because I did not receive the agreed services. They took approximately three months to follow up, requesting information I had already sent them two months prior. \nI called on or about XXXX to follow up on the status. The agent could not provide any details or progress on the requested information. I have noticed that XXXX charged three additional charges for the same amount I am disputing. \n\nSeemingly, they have not prioritized this, and nearly XXXX months later, they are dragging their feet to decide on this complaint. I requested a call back from an investigator, but to this date, I have heard nothing.\n\nIt is my understanding that they have 90 days to make a decision, which has already passed. I would like them to clear my account of any charges from XXXX XXXX and credit the incurred interest charges that have resulted. I have never been late on payment to this company despite their inefficiencies.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I alerted FNBO on or about XXXX about filing a dispute about a charge from XXXX XXXX They were in breach of contract when providing personal training services. I notified the credit card company that I would like them to investigate and reverse the charge because I did not receive the agreed services. They took approximately three months to follow up, requesting information I had already sent them two months prior. \nI called on or about XXXX to follow up on the status. The agent could not provide any details or progress on the requested information. I have noticed that XXXX charged three additional charges for the same amount I am disputing. \n\nSeemingly, they have not prioritized this, and nearly XXXX months later, they are dragging their feet to decide on this complaint. I requested a call back from an investigator, but to this date, I have heard nothing.\n\nIt is my understanding that they have 90 days to make a decision, which has already passed. I would like them to clear my account of any charges from XXXX XXXX and credit the incurred interest charges that have resulted. I have never been late on payment to this company despite their inefficiencies."
+}
+
+Chunk:
+i alerted fnbo on or about xxxx about filing a dispute about a charge from xxxx xxxx they were in breach of contract when providing personal training services. i notified the credit card company that i would like them to investigate and reverse the charge because i did not receive the agreed services. they took approximately three months to follow up, requesting information i had already sent them two months prior. i called on or about xxxx to follow up on the status. the agent could not provide any details or progress on the requested information. i have noticed that xxxx charged three additional charges for the same amount i am disputing. seemingly, they have not prioritized this, and nearly xxxx months later, they are dragging their feet to decide on this complaint. i requested a call back from an investigator, but to this date, i have heard nothing. it is my understanding that they have 90 days to make a decision, which has already passed. i would like them to clear my account of any charges from xxxx xxxx and credit the incurred interest charges that have resulted. i have never been late on payment to this company despite their inefficiencies.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986991882324219
+}

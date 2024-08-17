@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9152055,
+  "complaint_id": "9152055",
+  "product": "Credit card",
+  "complaint_what_happened": "There is no way to set up automatic payments for my personal credit card on the XXXX website. I missed a payment one time and I called them and asked them to set up for me. They confirmed it was set up and then I missed another payment because they did not turn automatic payments on. There needs to be an option to set up automatic payments on their website and I would like for them to remove my missed payment from my credit report.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "M&T BANK CORPORATION",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "There is no way to set up automatic payments for my personal credit card on the XXXX website. I missed a payment one time and I called them and asked them to set up for me. They confirmed it was set up and then I missed another payment because they did not turn automatic payments on. There needs to be an option to set up automatic payments on their website and I would like for them to remove my missed payment from my credit report."
+}
+
+Chunk:
+there is no way to set up automatic payments for my personal credit card on the xxxx website. i missed a payment one time and i called them and asked them to set up for me. they confirmed it was set up and then i missed another payment because they did not turn automatic payments on. there needs to be an option to set up automatic payments on their website and i would like for them to remove my missed payment from my credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994358420372009
+}

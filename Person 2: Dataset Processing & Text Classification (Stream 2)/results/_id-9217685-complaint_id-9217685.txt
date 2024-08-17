@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9217685,
+  "complaint_id": "9217685",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX - I used my credit card from Target to pay an item of {$570.00} in my son 's XXXX account. \nXX/XX/XXXX I reviewed my Target card statement and my own XXXX account and had forgotten the payment on my son 's XXXX account, thus calling Target Card services saying it was not my charge XX/XX/XXXX I remembered the charge was mine and called Target again. to apologize and to inform the charge was mine and was not fraudulent. Target said it will show fixed in my statement in a few days XXXX thur XXXX - Called Target card every other week because they keep fixing the charge and reversing it, moreover DUPLICATING it ( also three other smaller charges which had no issues where added back and forth from my account ) I paid the correct balance of {$790.00} ( included and extra {$3.00} ) on time on XX/XX/XXXX. \nIt appeared they never fixed the incorrect fraud call, and the vendors were just trying to get paid, but Target kept treating them as fraudulent in spite of my notice at the end of XXXX, and in spite I paid Target for the item ( s ). Target kept saying the duplicated balance will be fixed. But they did not until I involved the XXXX, but my credit record dropped XXXX points because I did not paid the incorrect duplicated amount. \n\nMy credit score was reduced due to their mishandling of my account.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with fraud alerts or security freezes",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "336XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": null,
+  "text": "XX/XX/XXXX - I used my credit card from Target to pay an item of {$570.00} in my son 's XXXX account. \nXX/XX/XXXX I reviewed my Target card statement and my own XXXX account and had forgotten the payment on my son 's XXXX account, thus calling Target Card services saying it was not my charge XX/XX/XXXX I remembered the charge was mine and called Target again. to apologize and to inform the charge was mine and was not fraudulent. Target said it will show fixed in my statement in a few days XXXX thur XXXX - Called Target card every other week because they keep fixing the charge and reversing it, moreover DUPLICATING it ( also three other smaller charges which had no issues where added back and forth from my account ) I paid the correct balance of {$790.00} ( included and extra {$3.00} ) on time on XX/XX/XXXX. \nIt appeared they never fixed the incorrect fraud call, and the vendors were just trying to get paid, but Target kept treating them as fraudulent in spite of my notice at the end of XXXX, and in spite I paid Target for the item ( s ). Target kept saying the duplicated balance will be fixed. But they did not until I involved the XXXX, but my credit record dropped XXXX points because I did not paid the incorrect duplicated amount. \n\nMy credit score was reduced due to their mishandling of my account."
+}
+
+Chunk:
+xx / xx / xxxx - i used my credit card from target to pay an item of { $ 570. 00 } in my son's xxxx account. xx / xx / xxxx i reviewed my target card statement and my own xxxx account and had forgotten the payment on my son's xxxx account, thus calling target card services saying it was not my charge xx / xx / xxxx i remembered the charge was mine and called target again. to apologize and to inform the charge was mine and was not fraudulent. target said it will show fixed in my statement in a few days xxxx thur xxxx - called target card every other week because they keep fixing the charge and reversing it, moreover duplicating it ( also three other smaller charges which had no issues where added back and forth from my account ) i paid the correct balance of { $ 790. 00 } ( included and extra { $ 3. 00 } ) on time on xx / xx / xxxx. it appeared they never fixed the incorrect fraud call, and the vendors were just trying to get paid, but target kept treating them as fraudulent in spite of my notice at the end of xxxx, and in spite i paid target for the item ( s ). target kept saying the duplicated balance will be fixed. but they did not until i involved the xxxx, but my credit record dropped xxxx points because i did not paid the incorrect duplicated amount. my credit score was reduced due to their mishandling of my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998331606388092
+}

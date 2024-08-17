@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8991613,
+  "complaint_id": "8991613",
+  "product": "Credit card",
+  "complaint_what_happened": "Chime closed my account out of no where so when I contacted them they told me send proof it was me so I did several times then was told check works be mailed its been over 99 days still no check",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Chime closed my account out of no where so when I contacted them they told me send proof it was me so I did several times then was told check works be mailed its been over 99 days still no check"
+}
+
+Chunk:
+chime closed my account out of no where so when i contacted them they told me send proof it was me so i did several times then was told check works be mailed its been over 99 days still no check
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990113973617554
+}

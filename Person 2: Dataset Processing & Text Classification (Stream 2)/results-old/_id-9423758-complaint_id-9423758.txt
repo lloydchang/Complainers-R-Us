@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9423758,
+  "complaint_id": "9423758",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank has a XXXX fee if you want do not want paper statement will they waive the fee if you sign up online Not everyone has a computer or has access to use a cell phone. In my case has several cards with synchrony bank figure out they will get over XXXX a year from me in this fee",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80910",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony Bank has a XXXX fee if you want do not want paper statement will they waive the fee if you sign up online Not everyone has a computer or has access to use a cell phone. In my case has several cards with synchrony bank figure out they will get over XXXX a year from me in this fee"
+}
+
+Chunk:
+synchrony bank has a xxxx fee if you want do not want paper statement will they waive the fee if you sign up online not everyone has a computer or has access to use a cell phone. in my case has several cards with synchrony bank figure out they will get over xxxx a year from me in this fee
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9950475692749023
+}

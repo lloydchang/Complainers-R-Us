@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9647804,
+  "complaint_id": "9647804",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a government travel card with Citi as a military member. The account was closed over 10 years ago. However, the military requires me to maintain the XXXX account. Every few years I try to get the account reinstated because of training or military missions but I get nothing but back and forth and the run around from CITI. Most recently I called CITI three times only to be on hold for an hour each time and to be given different directions each time. They return my hard copy or email application for corrections, but I make corrections and then resubmit. Then they claim they have changed the process. Sometimes I am told I have to apply for a new card, which I do then it gets declined because I can not apply for a new card, I am told I must apply for reinstatement. However, I get the run around with the reinstatement and how to correctly get this process done which takes weeks to a month to get a reply from CITI. CITI often makes me defer to my unit administration who runs the program from the military side but then they do not know the answers either. This is potential affecting my career at this point or else I would continue without the card. However, the military has relied too much on this program and it is ineffective. CITI makes XXXX XXXX XXXX  on this government contract, but they can not effectively run the program. Soldiers are left on hold for hours with terrible service and poor guidance from CITI. The government needs to take this contact away from CITI bank ASAP.",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32909",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I have a government travel card with Citi as a military member. The account was closed over 10 years ago. However, the military requires me to maintain the XXXX account. Every few years I try to get the account reinstated because of training or military missions but I get nothing but back and forth and the run around from CITI. Most recently I called CITI three times only to be on hold for an hour each time and to be given different directions each time. They return my hard copy or email application for corrections, but I make corrections and then resubmit. Then they claim they have changed the process. Sometimes I am told I have to apply for a new card, which I do then it gets declined because I can not apply for a new card, I am told I must apply for reinstatement. However, I get the run around with the reinstatement and how to correctly get this process done which takes weeks to a month to get a reply from CITI. CITI often makes me defer to my unit administration who runs the program from the military side but then they do not know the answers either. This is potential affecting my career at this point or else I would continue without the card. However, the military has relied too much on this program and it is ineffective. CITI makes XXXX XXXX XXXX  on this government contract, but they can not effectively run the program. Soldiers are left on hold for hours with terrible service and poor guidance from CITI. The government needs to take this contact away from CITI bank ASAP."
+}
+
+Chunk:
+i have a government travel card with citi as a military member. the account was closed over 10 years ago. however, the military requires me to maintain the xxxx account. every few years i try to get the account reinstated because of training or military missions but i get nothing but back and forth and the run around from citi. most recently i called citi three times only to be on hold for an hour each time and to be given different directions each time. they return my hard copy or email application for corrections, but i make corrections and then resubmit. then they claim they have changed the process. sometimes i am told i have to apply for a new card, which i do then it gets declined because i can not apply for a new card, i am told i must apply for reinstatement. however, i get the run around with the reinstatement and how to correctly get this process done which takes weeks to a month to get a reply from citi. citi often makes me defer to my unit administration who runs the program from the military side but then they do not know the answers either. this is potential affecting my career at this point or else i would continue without the card. however, the military has relied too much on this program and it is ineffective. citi makes xxxx xxxx xxxx on this government contract, but they can not effectively run the program. soldiers are left on hold for hours with terrible service and poor guidance from citi. the government needs to take this contact away from citi bank asap.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994712471961975
+}

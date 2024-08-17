@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9170994,
+  "complaint_id": "9170994",
+  "product": "Credit card",
+  "complaint_what_happened": "About a year ago, I paid nearly {$12000.00} for a trip scheduled for this month. Several months ago, the trip was canceled, and the money refunded to my credit card at Wells Fargo. Last month, another canceled trip resulted in an {$800.00} refund. That refund also went to my Wells Fargo credit cardI. I have asked Wells Fargo repeatedly to send me the refund, and they said they would, but they have not. As a result, I have a credit balance of more than {$12000.00} on a card I rarely use, and I want the cash instead of having it sit there as a bank credit. I need you to make Wells Fargo send me the refund without further delay. They also should have to pay me interest for the delay.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60053",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "About a year ago, I paid nearly {$12000.00} for a trip scheduled for this month. Several months ago, the trip was canceled, and the money refunded to my credit card at Wells Fargo. Last month, another canceled trip resulted in an {$800.00} refund. That refund also went to my Wells Fargo credit cardI. I have asked Wells Fargo repeatedly to send me the refund, and they said they would, but they have not. As a result, I have a credit balance of more than {$12000.00} on a card I rarely use, and I want the cash instead of having it sit there as a bank credit. I need you to make Wells Fargo send me the refund without further delay. They also should have to pay me interest for the delay."
+}
+
+Chunk:
+about a year ago, i paid nearly { $ 12000. 00 } for a trip scheduled for this month. several months ago, the trip was canceled, and the money refunded to my credit card at wells fargo. last month, another canceled trip resulted in an { $ 800. 00 } refund. that refund also went to my wells fargo credit cardi. i have asked wells fargo repeatedly to send me the refund, and they said they would, but they have not. as a result, i have a credit balance of more than { $ 12000. 00 } on a card i rarely use, and i want the cash instead of having it sit there as a bank credit. i need you to make wells fargo send me the refund without further delay. they also should have to pay me interest for the delay.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988518953323364
+}

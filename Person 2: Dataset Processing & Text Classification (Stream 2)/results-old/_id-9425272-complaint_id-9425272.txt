@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9425272,
+  "complaint_id": "9425272",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a notice of change in terms and conditions dated XX/XX/year>, for changes that go into effect on XX/XX/year>. On and after XX/XX/year>, APR for purchases will be 34.49 %. It is notable that in addition to the APR for purchases, 34.49 % will also be the APR for cash advances. Conventionally, cash advances have always had a high, somewhat punitive rate but this is unprecedented. The body of the letter indicates a number to call with questions. I called and followed the prompts to reject the changes and close the account. My current APR is already ridiculously high at 31.99 %. I have no late payments and a credit score over XXXX with both XXXX and XXXX. This is absolute usary.",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "641XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I received a notice of change in terms and conditions dated XX/XX/year>, for changes that go into effect on XX/XX/year>. On and after XX/XX/year>, APR for purchases will be 34.49 %. It is notable that in addition to the APR for purchases, 34.49 % will also be the APR for cash advances. Conventionally, cash advances have always had a high, somewhat punitive rate but this is unprecedented. The body of the letter indicates a number to call with questions. I called and followed the prompts to reject the changes and close the account. My current APR is already ridiculously high at 31.99 %. I have no late payments and a credit score over XXXX with both XXXX and XXXX. This is absolute usary."
+}
+
+Chunk:
+i received a notice of change in terms and conditions dated xx / xx / year >, for changes that go into effect on xx / xx / year >. on and after xx / xx / year >, apr for purchases will be 34. 49 %. it is notable that in addition to the apr for purchases, 34. 49 % will also be the apr for cash advances. conventionally, cash advances have always had a high, somewhat punitive rate but this is unprecedented. the body of the letter indicates a number to call with questions. i called and followed the prompts to reject the changes and close the account. my current apr is already ridiculously high at 31. 99 %. i have no late payments and a credit score over xxxx with both xxxx and xxxx. this is absolute usary.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9331868886947632
+}

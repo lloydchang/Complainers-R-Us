@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195063,
+  "complaint_id": "9195063",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello my name is XXXX XXXX, I am writing to you regarding my credit card and the help I need in resolving some issues that I have encountered with it. Recently, I noticed that i was over charge and missed payments. My credit card statement, which has caused me great concern. I have tried to contact the customer service department multiple times, but I have not received a satisfactory response. I am hoping that by reaching out to you, I can receive the assistance and guidance needed to rectify this situation. \n\nHaving negative issues like this on my credit card statement have put me in a difficult financial position, as I am now facing unexpected charges that I did not authorize. I have taken all necessary precautions to protect my credit card information, and I am unsure how these unauthorized transactions occurred. I believe that your expertise and guidance can help me in understanding the situation better and finding a quick resolution to this issue. \n\nI am reaching out to you in the hopes that you can provide me with the necessary assistance and support in resolving these unauthorized transactions on my credit card. I am eager to work closely with you to investigate these charges, identify any potential security breaches, and take the appropriate steps to prevent similar incidents from happening in the future. Your prompt attention and assistance in this matter would be greatly appreciated, as I am anxious to have this matter resolved as soon as possible.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07017",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "Hello my name is XXXX XXXX, I am writing to you regarding my credit card and the help I need in resolving some issues that I have encountered with it. Recently, I noticed that i was over charge and missed payments. My credit card statement, which has caused me great concern. I have tried to contact the customer service department multiple times, but I have not received a satisfactory response. I am hoping that by reaching out to you, I can receive the assistance and guidance needed to rectify this situation. \n\nHaving negative issues like this on my credit card statement have put me in a difficult financial position, as I am now facing unexpected charges that I did not authorize. I have taken all necessary precautions to protect my credit card information, and I am unsure how these unauthorized transactions occurred. I believe that your expertise and guidance can help me in understanding the situation better and finding a quick resolution to this issue. \n\nI am reaching out to you in the hopes that you can provide me with the necessary assistance and support in resolving these unauthorized transactions on my credit card. I am eager to work closely with you to investigate these charges, identify any potential security breaches, and take the appropriate steps to prevent similar incidents from happening in the future. Your prompt attention and assistance in this matter would be greatly appreciated, as I am anxious to have this matter resolved as soon as possible."
+}
+
+Chunk:
+hello my name is xxxx xxxx, i am writing to you regarding my credit card and the help i need in resolving some issues that i have encountered with it. recently, i noticed that i was over charge and missed payments. my credit card statement, which has caused me great concern. i have tried to contact the customer service department multiple times, but i have not received a satisfactory response. i am hoping that by reaching out to you, i can receive the assistance and guidance needed to rectify this situation. having negative issues like this on my credit card statement have put me in a difficult financial position, as i am now facing unexpected charges that i did not authorize. i have taken all necessary precautions to protect my credit card information, and i am unsure how these unauthorized transactions occurred. i believe that your expertise and guidance can help me in understanding the situation better and finding a quick resolution to this issue. i am reaching out to you in the hopes that you can provide me with the necessary assistance and support in resolving these unauthorized transactions on my credit card. i am eager to work closely with you to investigate these charges, identify any potential security breaches, and take the appropriate steps to prevent similar incidents from happening in the future. your prompt attention and assistance in this matter would be greatly appreciated, as i am anxious to have this matter resolved as soon as possible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9857326149940491
+}

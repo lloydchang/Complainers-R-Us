@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9221297,
+  "complaint_id": "9221297",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a serious issue with an AMEX practice of false advertising. Bait and Switch. \n\nOn the Delta website, AMEX offers a GOLD card with waived first year fee but if you accept the offer, AMEX then issues you a PLATINUM card with a yearly {$350.00} fee. \n\nThe only way the consumer will know that AMEX switched the cards is if you pay VERY CLOSE attention during all of the application steps. On one screen AMEX says Congratulations, you have been approved! and they replace the word GOLD with the word PLATINUM, but they dont specify any other differences in fees at that time. \n\nWe have called AMEX multiple times. We asked to file official complaints which I fear were not actually addressed. We only want for AMEX to honor the offer as it was listed. We dont want anything free. But the only answer we get from AMEX is Sorry customer, its your fault for not noticing that we switched out the card in the middle of your application. \n\nSo, AMEX will lure you in with an offer and then issue you a different card with higher fees. Bait and switch. Unfair business practice. And AMEX claims that Nothing can be done.\n\nPlease AMEX, all we want is the card and benefits you listed in the offer. That seems like something you can do. I dont think this should require legal action or posting on social media sites to find a resolution.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22180",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I have a serious issue with an AMEX practice of false advertising. Bait and Switch. \n\nOn the Delta website, AMEX offers a GOLD card with waived first year fee but if you accept the offer, AMEX then issues you a PLATINUM card with a yearly {$350.00} fee. \n\nThe only way the consumer will know that AMEX switched the cards is if you pay VERY CLOSE attention during all of the application steps. On one screen AMEX says Congratulations, you have been approved! and they replace the word GOLD with the word PLATINUM, but they dont specify any other differences in fees at that time. \n\nWe have called AMEX multiple times. We asked to file official complaints which I fear were not actually addressed. We only want for AMEX to honor the offer as it was listed. We dont want anything free. But the only answer we get from AMEX is Sorry customer, its your fault for not noticing that we switched out the card in the middle of your application. \n\nSo, AMEX will lure you in with an offer and then issue you a different card with higher fees. Bait and switch. Unfair business practice. And AMEX claims that Nothing can be done.\n\nPlease AMEX, all we want is the card and benefits you listed in the offer. That seems like something you can do. I dont think this should require legal action or posting on social media sites to find a resolution."
+}
+
+Chunk:
+i have a serious issue with an amex practice of false advertising. bait and switch. on the delta website, amex offers a gold card with waived first year fee but if you accept the offer, amex then issues you a platinum card with a yearly { $ 350. 00 } fee. the only way the consumer will know that amex switched the cards is if you pay very close attention during all of the application steps. on one screen amex says congratulations, you have been approved! and they replace the word gold with the word platinum, but they dont specify any other differences in fees at that time. we have called amex multiple times. we asked to file official complaints which i fear were not actually addressed. we only want for amex to honor the offer as it was listed. we dont want anything free. but the only answer we get from amex is sorry customer, its your fault for not noticing that we switched out the card in the middle of your application. so, amex will lure you in with an offer and then issue you a different card with higher fees. bait and switch. unfair business practice. and amex claims that nothing can be done. please amex, all we want is the card and benefits you listed in the offer. that seems like something you can do. i dont think this should require legal action or posting on social media sites to find a resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982643723487854
+}

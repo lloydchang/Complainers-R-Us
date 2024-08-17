@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263306,
+  "complaint_id": "9263306",
+  "product": "Credit card",
+  "complaint_what_happened": "I took an award flight with XXXX XXXX on XX/XX/XXXX, using miles with XXXX XXXX Credit card. Annually, I am entitle to XXXX, XXXX XXXX  miles credit after taking the award miles. I reached out to a customer supervisor on XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX to figure out why I have not received the point. Upon the supervisor investigating the issue, she informed me that there is a known issue when issuing the XXXX miles to my XXXX accounts. She informed me that she found a fix and would take 5 business days or so. Fast Forward, I did not get the promised point so I called again on XXXX XXXX XXXXXXXX XXXX to follow up on this matter for another XXXX minutes. She assured that she would reach out to the right department to get this resolved and again no points have been credited to my account. \n\nI also utilized Chase 's secure message function and they are claiming that they have posted the award on XX/XX/XXXX which is not true because it's not posted. I am assuming they may have posted but may be experiencing the technical issue that the supervisor was describing above. \n\nAt the end of the day, they know they have not posted the awards to my account and they can't seem to figure this out or not willing to fix it.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60611",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I took an award flight with XXXX XXXX on XX/XX/XXXX, using miles with XXXX XXXX Credit card. Annually, I am entitle to XXXX, XXXX XXXX  miles credit after taking the award miles. I reached out to a customer supervisor on XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX to figure out why I have not received the point. Upon the supervisor investigating the issue, she informed me that there is a known issue when issuing the XXXX miles to my XXXX accounts. She informed me that she found a fix and would take 5 business days or so. Fast Forward, I did not get the promised point so I called again on XXXX XXXX XXXXXXXX XXXX to follow up on this matter for another XXXX minutes. She assured that she would reach out to the right department to get this resolved and again no points have been credited to my account. \n\nI also utilized Chase 's secure message function and they are claiming that they have posted the award on XX/XX/XXXX which is not true because it's not posted. I am assuming they may have posted but may be experiencing the technical issue that the supervisor was describing above. \n\nAt the end of the day, they know they have not posted the awards to my account and they can't seem to figure this out or not willing to fix it."
+}
+
+Chunk:
+i took an award flight with xxxx xxxx on xx / xx / xxxx, using miles with xxxx xxxx credit card. annually, i am entitle to xxxx, xxxx xxxx miles credit after taking the award miles. i reached out to a customer supervisor on xx / xx / xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx to figure out why i have not received the point. upon the supervisor investigating the issue, she informed me that there is a known issue when issuing the xxxx miles to my xxxx accounts. she informed me that she found a fix and would take 5 business days or so. fast forward, i did not get the promised point so i called again on xxxx xxxx xxxxxxxx xxxx to follow up on this matter for another xxxx minutes. she assured that she would reach out to the right department to get this resolved and again no points have been credited to my account. i also utilized chase's secure message function and they are claiming that they have posted the award on xx / xx / xxxx which is not true because it's not posted. i am assuming they may have posted but may be experiencing the technical issue that the supervisor was describing above. at the end of the day, they know they have not posted the awards to my account and they can't seem to figure this out or not willing to fix it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973832964897156
+}

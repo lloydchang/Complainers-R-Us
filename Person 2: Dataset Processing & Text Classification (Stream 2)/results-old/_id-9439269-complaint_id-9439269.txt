@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9439269,
+  "complaint_id": "9439269",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to demand the immediate removal of late payments reported on my credit account. This late payment occurred while I was under the protection of the Billing Act. \n\nDespite complying with all necessary procedures outlined in the Billing Act, including [ briefly mention any actions you took, such as contacting customer service ], this late payment remains on my credit report. This is unacceptable and violates my rights under the Billing Act. \n\nI insist that this late payment be removed from my credit history immediately. Failure to address this matter promptly will leave me no choice but to escalate this issue further. \n\nAttached are copies of relevant documents supporting my case, including [ mention any relevant documents ]. \n\nI expect a resolution within XXXX  days.",
+  "date_sent_to_company": "2024-07-06T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55110",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-06T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I am writing to demand the immediate removal of late payments reported on my credit account. This late payment occurred while I was under the protection of the Billing Act. \n\nDespite complying with all necessary procedures outlined in the Billing Act, including [ briefly mention any actions you took, such as contacting customer service ], this late payment remains on my credit report. This is unacceptable and violates my rights under the Billing Act. \n\nI insist that this late payment be removed from my credit history immediately. Failure to address this matter promptly will leave me no choice but to escalate this issue further. \n\nAttached are copies of relevant documents supporting my case, including [ mention any relevant documents ]. \n\nI expect a resolution within XXXX  days."
+}
+
+Chunk:
+i am writing to demand the immediate removal of late payments reported on my credit account. this late payment occurred while i was under the protection of the billing act. despite complying with all necessary procedures outlined in the billing act, including [ briefly mention any actions you took, such as contacting customer service ], this late payment remains on my credit report. this is unacceptable and violates my rights under the billing act. i insist that this late payment be removed from my credit history immediately. failure to address this matter promptly will leave me no choice but to escalate this issue further. attached are copies of relevant documents supporting my case, including [ mention any relevant documents ]. i expect a resolution within xxxx days.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993959665298462
+}

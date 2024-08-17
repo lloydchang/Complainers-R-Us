@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9232951,
+  "complaint_id": "9232951",
+  "product": "Credit card",
+  "complaint_what_happened": "My XXXX  XXXX credit card account was transferred to collections even though I was making monthly payments on it. I understand they were lower than they wanted but it was what I was able to pay. I made an arrangement with XXXX XXXX XXXX to pay one account and told them I couldnt pay on the other until I paid the first one off. They sent my account to Lloyd and McDaniel collection lawyers. I disputed my debt in writing on XX/XX/24. On XX/XX/24 I received the information and contracted the law firm and made an initial payment of XXXX $ I told them I will continue to make monthly payments and when I paid off the other card balance I would encrease my payments. I received a call from XXXX XXXX at extension XXXX from Lloyd McDaniel on XX/XX/24. She told me. Low suit was filled against me on XX/XX/24. I asked her how this was possible since I disputed the debt. She said oh you want to dispute it Ill put it in dispute right now. I said no you should have put it in dispute when you got my email regarding the dispute. How is it that they were able to file a law suit against me when I hadnt even recieved or reviewed the paperwork they sent me regarding to the dispute? I just want to make sure my rights havent been violated. I am desperately trying to pay off all of my debt as quickly as possible but my financial situation has changed significantly since I incurred the charges. I appreciate any information you can offer me in this matter. Thank you XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "339XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Lloyd & McDaniel, PLC",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "My XXXX  XXXX credit card account was transferred to collections even though I was making monthly payments on it. I understand they were lower than they wanted but it was what I was able to pay. I made an arrangement with XXXX XXXX XXXX to pay one account and told them I couldnt pay on the other until I paid the first one off. They sent my account to Lloyd and McDaniel collection lawyers. I disputed my debt in writing on XX/XX/24. On XX/XX/24 I received the information and contracted the law firm and made an initial payment of XXXX $ I told them I will continue to make monthly payments and when I paid off the other card balance I would encrease my payments. I received a call from XXXX XXXX at extension XXXX from Lloyd McDaniel on XX/XX/24. She told me. Low suit was filled against me on XX/XX/24. I asked her how this was possible since I disputed the debt. She said oh you want to dispute it Ill put it in dispute right now. I said no you should have put it in dispute when you got my email regarding the dispute. How is it that they were able to file a law suit against me when I hadnt even recieved or reviewed the paperwork they sent me regarding to the dispute? I just want to make sure my rights havent been violated. I am desperately trying to pay off all of my debt as quickly as possible but my financial situation has changed significantly since I incurred the charges. I appreciate any information you can offer me in this matter. Thank you XXXX XXXX XXXX"
+}
+
+Chunk:
+my xxxx xxxx credit card account was transferred to collections even though i was making monthly payments on it. i understand they were lower than they wanted but it was what i was able to pay. i made an arrangement with xxxx xxxx xxxx to pay one account and told them i couldnt pay on the other until i paid the first one off. they sent my account to lloyd and mcdaniel collection lawyers. i disputed my debt in writing on xx / xx / 24. on xx / xx / 24 i received the information and contracted the law firm and made an initial payment of xxxx $ i told them i will continue to make monthly payments and when i paid off the other card balance i would encrease my payments. i received a call from xxxx xxxx at extension xxxx from lloyd mcdaniel on xx / xx / 24. she told me. low suit was filled against me on xx / xx / 24. i asked her how this was possible since i disputed the debt. she said oh you want to dispute it ill put it in dispute right now. i said no you should have put it in dispute when you got my email regarding the dispute. how is it that they were able to file a law suit against me when i hadnt even recieved or reviewed the paperwork they sent me regarding to the dispute? i just want to make sure my rights havent been violated. i am desperately trying to pay off all of my debt as quickly as possible but my financial situation has changed significantly since i incurred the charges. i appreciate any information you can offer me in this matter. thank you xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9884932637214661
+}

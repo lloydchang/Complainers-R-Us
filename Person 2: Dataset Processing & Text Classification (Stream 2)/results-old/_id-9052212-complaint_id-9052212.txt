@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9052212,
+  "complaint_id": "9052212",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX, while booking family flights I was targeted with an offer from XXXX XXXX for an offer of the Citi XXXX credit card with a {$400.00} sign up bonus and XXXX bonus miles. The offer seemed great so we applied, got approved and then purchased our tickets. \n\nAfter getting the card, Citi changed offer to their in house offer to XXXX bonus miles and not honoring my original offer. \n\nIve reached out and was told nothing could be done unless I sent them a mailer or flyer and that the website alone is not proof of an offer to me. This was an offer given at checkout which I took advantage of at that moment. Ive been repeatedly told I can do nothing and the application team has what it has without any flexibility to honor what was rightfully offered to me. \n\nThey only offered a courtesy of XXXX XXXX  miles and are unwilling to offer me what I was offered upon checkout.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "61201",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "In XXXX, while booking family flights I was targeted with an offer from XXXX XXXX for an offer of the Citi XXXX credit card with a {$400.00} sign up bonus and XXXX bonus miles. The offer seemed great so we applied, got approved and then purchased our tickets. \n\nAfter getting the card, Citi changed offer to their in house offer to XXXX bonus miles and not honoring my original offer. \n\nIve reached out and was told nothing could be done unless I sent them a mailer or flyer and that the website alone is not proof of an offer to me. This was an offer given at checkout which I took advantage of at that moment. Ive been repeatedly told I can do nothing and the application team has what it has without any flexibility to honor what was rightfully offered to me. \n\nThey only offered a courtesy of XXXX XXXX  miles and are unwilling to offer me what I was offered upon checkout."
+}
+
+Chunk:
+in xxxx, while booking family flights i was targeted with an offer from xxxx xxxx for an offer of the citi xxxx credit card with a { $ 400. 00 } sign up bonus and xxxx bonus miles. the offer seemed great so we applied, got approved and then purchased our tickets. after getting the card, citi changed offer to their in house offer to xxxx bonus miles and not honoring my original offer. ive reached out and was told nothing could be done unless i sent them a mailer or flyer and that the website alone is not proof of an offer to me. this was an offer given at checkout which i took advantage of at that moment. ive been repeatedly told i can do nothing and the application team has what it has without any flexibility to honor what was rightfully offered to me. they only offered a courtesy of xxxx xxxx miles and are unwilling to offer me what i was offered upon checkout.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990573525428772
+}

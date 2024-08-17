@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9323412,
+  "complaint_id": "9323412",
+  "product": "Credit card",
+  "complaint_what_happened": "Sent the attached email to Bank of America several times. NEVER received response. Looking for a way to make online contact with BOA.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78154",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Sent the attached email to Bank of America several times. NEVER received response. Looking for a way to make online contact with BOA."
+}
+
+Chunk:
+sent the attached email to bank of america several times. never received response. looking for a way to make online contact with boa.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997004270553589
+}

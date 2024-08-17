@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9011845,
+  "complaint_id": "9011845",
+  "product": "Credit card",
+  "complaint_what_happened": "i requested a chargeback on an XXXX purchase that i was instructed to do by XXXX. \n\nI have asked twice and both time i have sent all the required information including emails from XXXX telling me to intiate a chargeback. \n\nEach time Chime has refused the chargeback, now i am unable to proceed a 3rd time as their systems will not allow it. \n\nChime has also prevented any way of contact them directly for customer service on this matter.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32536",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "i requested a chargeback on an XXXX purchase that i was instructed to do by XXXX. \n\nI have asked twice and both time i have sent all the required information including emails from XXXX telling me to intiate a chargeback. \n\nEach time Chime has refused the chargeback, now i am unable to proceed a 3rd time as their systems will not allow it. \n\nChime has also prevented any way of contact them directly for customer service on this matter."
+}
+
+Chunk:
+i requested a chargeback on an xxxx purchase that i was instructed to do by xxxx. i have asked twice and both time i have sent all the required information including emails from xxxx telling me to intiate a chargeback. each time chime has refused the chargeback, now i am unable to proceed a 3rd time as their systems will not allow it. chime has also prevented any way of contact them directly for customer service on this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993115663528442
+}

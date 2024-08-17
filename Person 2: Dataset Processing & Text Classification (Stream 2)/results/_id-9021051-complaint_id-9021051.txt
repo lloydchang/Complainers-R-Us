@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9021051,
+  "complaint_id": "9021051",
+  "product": "Credit card",
+  "complaint_what_happened": "When I tried transferring my rewards to XXXX in XXXX of this year, I was told I could not do it because my name did not match the name on my XXXX XXXX  account. \n\nMy legal name ( XXXX XXXX XXXX XXXX XXXX ) exceeds the character limit that Chase has and the company kept cutting my name off for their record keeping ( XXXX XXXX XXXX XXXX or XXXX XXXX XXXX XXXX ). I submitted all the documents necessary starting on XX/XX/XXXX and filed a complaint with the OCC on that same date.\n\nI continued calling several times. I called on XX/XX/XXXX again and was told that my name had been changed but the name on the rewards account had not. I was not given a timeline on when this would be changing. No other communication was provided. \n\nI asked if the transfer could be overridden and approved on their end so that this would not happen again, and that request was denied. I was only told they would send me a letter with a response and was not given a timeline for that either.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20001",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "When I tried transferring my rewards to XXXX in XXXX of this year, I was told I could not do it because my name did not match the name on my XXXX XXXX  account. \n\nMy legal name ( XXXX XXXX XXXX XXXX XXXX ) exceeds the character limit that Chase has and the company kept cutting my name off for their record keeping ( XXXX XXXX XXXX XXXX or XXXX XXXX XXXX XXXX ). I submitted all the documents necessary starting on XX/XX/XXXX and filed a complaint with the OCC on that same date.\n\nI continued calling several times. I called on XX/XX/XXXX again and was told that my name had been changed but the name on the rewards account had not. I was not given a timeline on when this would be changing. No other communication was provided. \n\nI asked if the transfer could be overridden and approved on their end so that this would not happen again, and that request was denied. I was only told they would send me a letter with a response and was not given a timeline for that either."
+}
+
+Chunk:
+when i tried transferring my rewards to xxxx in xxxx of this year, i was told i could not do it because my name did not match the name on my xxxx xxxx account. my legal name ( xxxx xxxx xxxx xxxx xxxx ) exceeds the character limit that chase has and the company kept cutting my name off for their record keeping ( xxxx xxxx xxxx xxxx or xxxx xxxx xxxx xxxx ). i submitted all the documents necessary starting on xx / xx / xxxx and filed a complaint with the occ on that same date. i continued calling several times. i called on xx / xx / xxxx again and was told that my name had been changed but the name on the rewards account had not. i was not given a timeline on when this would be changing. no other communication was provided. i asked if the transfer could be overridden and approved on their end so that this would not happen again, and that request was denied. i was only told they would send me a letter with a response and was not given a timeline for that either.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994382262229919
+}

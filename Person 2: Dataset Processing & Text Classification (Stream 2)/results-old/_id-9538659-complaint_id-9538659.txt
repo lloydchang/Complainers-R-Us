@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9538659,
+  "complaint_id": "9538659",
+  "product": "Credit card",
+  "complaint_what_happened": "I have called Citi customer service to close my credit account and the agents push back repeatedly and will not process the closure. They then say they have to send me an email where I must click a link before closing the account. The email 's link does not work and they say that's the only way they can process a closure. I asked to speak to a supervisor and was hung up on. I have never experienced this kind of behavior from any credit card company when attempting to close an account.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84084",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I have called Citi customer service to close my credit account and the agents push back repeatedly and will not process the closure. They then say they have to send me an email where I must click a link before closing the account. The email 's link does not work and they say that's the only way they can process a closure. I asked to speak to a supervisor and was hung up on. I have never experienced this kind of behavior from any credit card company when attempting to close an account."
+}
+
+Chunk:
+i have called citi customer service to close my credit account and the agents push back repeatedly and will not process the closure. they then say they have to send me an email where i must click a link before closing the account. the email's link does not work and they say that's the only way they can process a closure. i asked to speak to a supervisor and was hung up on. i have never experienced this kind of behavior from any credit card company when attempting to close an account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999744713306427
+}

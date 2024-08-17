@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9078842,
+  "complaint_id": "9078842",
+  "product": "Credit card",
+  "complaint_what_happened": "I was trying to look to online school and than the company some how it change me {$170.00} without my permission See I have apply credit and it on my XXXX wallet and I was looking at the school throw my XXXX I tried to contact the school more than one time for over weeks than I called my credit company to help me but they didnt do help me only keep dispute with out no sense why they have the right to take my money that I didnt made for it",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94102",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was trying to look to online school and than the company some how it change me {$170.00} without my permission See I have apply credit and it on my XXXX wallet and I was looking at the school throw my XXXX I tried to contact the school more than one time for over weeks than I called my credit company to help me but they didnt do help me only keep dispute with out no sense why they have the right to take my money that I didnt made for it"
+}
+
+Chunk:
+i was trying to look to online school and than the company some how it change me { $ 170. 00 } without my permission see i have apply credit and it on my xxxx wallet and i was looking at the school throw my xxxx i tried to contact the school more than one time for over weeks than i called my credit company to help me but they didnt do help me only keep dispute with out no sense why they have the right to take my money that i didnt made for it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979904890060425
+}

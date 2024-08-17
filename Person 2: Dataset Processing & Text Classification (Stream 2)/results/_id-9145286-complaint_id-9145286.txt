@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9145286,
+  "complaint_id": "9145286",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I applied and was approved for a Raymour and Flanigan credit card issued by TD Bank. Though I did not receive the card, I was able to place an initial order for bedroom furniture and a special order for additional bedroom furniture. Once the first order was delivered on XX/XX/year>, I was charged the amount of {$3200.00}. However, with the special order still pending, I realized I never received my actual credit card. On XX/XX/year>, I called TD Bank to inquire as to the status of my new card. I was told it had been shipped on XX/XX/XXXX. The representative asked if I had moved and I said I was about to move into a new home. So I asked if I could change my address so that the card could be sent to the new home. The representative said the would need to send me a text message to verify my identity. When they went to whatever verification software they were using, according to multiple representatives and supervisors, my telephone number came up as unverified. Thus, unbeknownst to me, that caused my account to be suspended. When my special order came in to the local XXXX XXXX XXXX XXXX, I was contacted by a manager there, XXXX, to say that my account was frozen and that I needed to contact TD Bank to get it resolved. Well, eight phone calls and three supervisors later, it has not been resolved. All I kept being told was I need to contact the credit bureaus to get my phone number added to my credit report. I checked all three credit bureau reports and they contained my telephone number. However, my account remains frozen, with the representatives at TD Bank offering no resolution. I remain in limbo.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "10940",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "On XX/XX/year>, I applied and was approved for a Raymour and Flanigan credit card issued by TD Bank. Though I did not receive the card, I was able to place an initial order for bedroom furniture and a special order for additional bedroom furniture. Once the first order was delivered on XX/XX/year>, I was charged the amount of {$3200.00}. However, with the special order still pending, I realized I never received my actual credit card. On XX/XX/year>, I called TD Bank to inquire as to the status of my new card. I was told it had been shipped on XX/XX/XXXX. The representative asked if I had moved and I said I was about to move into a new home. So I asked if I could change my address so that the card could be sent to the new home. The representative said the would need to send me a text message to verify my identity. When they went to whatever verification software they were using, according to multiple representatives and supervisors, my telephone number came up as unverified. Thus, unbeknownst to me, that caused my account to be suspended. When my special order came in to the local XXXX XXXX XXXX XXXX, I was contacted by a manager there, XXXX, to say that my account was frozen and that I needed to contact TD Bank to get it resolved. Well, eight phone calls and three supervisors later, it has not been resolved. All I kept being told was I need to contact the credit bureaus to get my phone number added to my credit report. I checked all three credit bureau reports and they contained my telephone number. However, my account remains frozen, with the representatives at TD Bank offering no resolution. I remain in limbo."
+}
+
+Chunk:
+on xx / xx / year >, i applied and was approved for a raymour and flanigan credit card issued by td bank. though i did not receive the card, i was able to place an initial order for bedroom furniture and a special order for additional bedroom furniture. once the first order was delivered on xx / xx / year >, i was charged the amount of { $ 3200. 00 }. however, with the special order still pending, i realized i never received my actual credit card. on xx / xx / year >, i called td bank to inquire as to the status of my new card. i was told it had been shipped on xx / xx / xxxx. the representative asked if i had moved and i said i was about to move into a new home. so i asked if i could change my address so that the card could be sent to the new home. the representative said the would need to send me a text message to verify my identity. when they went to whatever verification software they were using, according to multiple representatives and supervisors, my telephone number came up as unverified. thus, unbeknownst to me, that caused my account to be suspended. when my special order came in to the local xxxx xxxx xxxx xxxx, i was contacted by a manager there, xxxx, to say that my account was frozen and that i needed to contact td bank to get it resolved. well, eight phone calls and three supervisors later, it has not been resolved. all i kept being told was i need to contact the credit bureaus to get my phone number added to my credit report. i checked all three credit bureau reports and they contained my telephone number. however, my account remains frozen, with the representatives at td bank offering no resolution. i remain in limbo.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994612336158752
+}

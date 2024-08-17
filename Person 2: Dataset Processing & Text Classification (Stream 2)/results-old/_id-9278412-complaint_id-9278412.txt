@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9278412,
+  "complaint_id": "9278412",
+  "product": "Credit card",
+  "complaint_what_happened": "I called Aspire they said they were raising interest rates to 36 % even though I have never missed or been late with a payment and had no balance. I asked for a reason why they were doing this and their answer was because they were allowed by the government. I requested they close my account, I was told I would have to call back on the following Monday to do so, which I did. I requested if reporting to credit bureau that they state at custommers request due to high interest rates.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "890XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I called Aspire they said they were raising interest rates to 36 % even though I have never missed or been late with a payment and had no balance. I asked for a reason why they were doing this and their answer was because they were allowed by the government. I requested they close my account, I was told I would have to call back on the following Monday to do so, which I did. I requested if reporting to credit bureau that they state at custommers request due to high interest rates."
+}
+
+Chunk:
+i called aspire they said they were raising interest rates to 36 % even though i have never missed or been late with a payment and had no balance. i asked for a reason why they were doing this and their answer was because they were allowed by the government. i requested they close my account, i was told i would have to call back on the following monday to do so, which i did. i requested if reporting to credit bureau that they state at custommers request due to high interest rates.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975461363792419
+}

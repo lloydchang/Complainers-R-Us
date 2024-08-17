@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9257642,
+  "complaint_id": "9257642",
+  "product": "Credit card",
+  "complaint_what_happened": "I was trying to pay my Victoria Secret credit card with my Victoria Secret gift card.I called XXXX and was told I could not use my gift card as payment. When I asked to speak with a supervisor, I was disconnect more than XXXX times over a 2 month period. Thus, interest and late fees occurred. I was told multiple times, that Comenity Bank can not reverse any fees. After much dispute, they finally reversed the fees. However, this is unacceptable practice for customers. Comenity to disconnect customers when we request transfer to a supervisor.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "950XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I was trying to pay my Victoria Secret credit card with my Victoria Secret gift card.I called XXXX and was told I could not use my gift card as payment. When I asked to speak with a supervisor, I was disconnect more than XXXX times over a 2 month period. Thus, interest and late fees occurred. I was told multiple times, that Comenity Bank can not reverse any fees. After much dispute, they finally reversed the fees. However, this is unacceptable practice for customers. Comenity to disconnect customers when we request transfer to a supervisor."
+}
+
+Chunk:
+i was trying to pay my victoria secret credit card with my victoria secret gift card. i called xxxx and was told i could not use my gift card as payment. when i asked to speak with a supervisor, i was disconnect more than xxxx times over a 2 month period. thus, interest and late fees occurred. i was told multiple times, that comenity bank can not reverse any fees. after much dispute, they finally reversed the fees. however, this is unacceptable practice for customers. comenity to disconnect customers when we request transfer to a supervisor.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989821314811707
+}

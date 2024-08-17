@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142190,
+  "complaint_id": "9142190",
+  "product": "Credit card",
+  "complaint_what_happened": "I reviewed an offer via XXXX XXXX for am amex blue cash everyday card. The advertisement stated that there would be no impact to my credit score to see if i prequalify. The website then stated i was approved but set my credit limit at XXXX. The promo offer for new account opening states you have to spend XXXX  in the first 6 months to get a rebate of XXXX. This is the only reason i applied for the card, if AMEX sets my limit to XXXX, how am i supposed to make enough purchases to get the promo? This is a bait and switch and intentionally done by AMEX to prevent people from qualifying for the promo payout. My credit score is XXXX and there is absolutely no reason other than intentional fraud o discrimination that my limit should be a paltry XXXX. I called AMEX new accounts and spoke with XXXX who was not able to help me and i requested a supeverisor. I advised robot i will be filing a complaint with CPFB and would like a callback from his supervisor. XXXX gave me confirmation number XXXX. I requested AMEX either cancel this application with no impact to my credit file or increase the list, AMEX refused to do either and stated per the terms, the account can be canceled but will appear on my credit file as a new account and drop my score. I am furious that they are allowed to bait and switch people thereby forcing them into a sub level product with an unusable credit line. Please close my account and erase from my credit file, or increase the limit significantly. \n\nXXXX",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "412XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I reviewed an offer via XXXX XXXX for am amex blue cash everyday card. The advertisement stated that there would be no impact to my credit score to see if i prequalify. The website then stated i was approved but set my credit limit at XXXX. The promo offer for new account opening states you have to spend XXXX  in the first 6 months to get a rebate of XXXX. This is the only reason i applied for the card, if AMEX sets my limit to XXXX, how am i supposed to make enough purchases to get the promo? This is a bait and switch and intentionally done by AMEX to prevent people from qualifying for the promo payout. My credit score is XXXX and there is absolutely no reason other than intentional fraud o discrimination that my limit should be a paltry XXXX. I called AMEX new accounts and spoke with XXXX who was not able to help me and i requested a supeverisor. I advised robot i will be filing a complaint with CPFB and would like a callback from his supervisor. XXXX gave me confirmation number XXXX. I requested AMEX either cancel this application with no impact to my credit file or increase the list, AMEX refused to do either and stated per the terms, the account can be canceled but will appear on my credit file as a new account and drop my score. I am furious that they are allowed to bait and switch people thereby forcing them into a sub level product with an unusable credit line. Please close my account and erase from my credit file, or increase the limit significantly. \n\nXXXX"
+}
+
+Chunk:
+i reviewed an offer via xxxx xxxx for am amex blue cash everyday card. the advertisement stated that there would be no impact to my credit score to see if i prequalify. the website then stated i was approved but set my credit limit at xxxx. the promo offer for new account opening states you have to spend xxxx in the first 6 months to get a rebate of xxxx. this is the only reason i applied for the card, if amex sets my limit to xxxx, how am i supposed to make enough purchases to get the promo? this is a bait and switch and intentionally done by amex to prevent people from qualifying for the promo payout. my credit score is xxxx and there is absolutely no reason other than intentional fraud o discrimination that my limit should be a paltry xxxx. i called amex new accounts and spoke with xxxx who was not able to help me and i requested a supeverisor. i advised robot i will be filing a complaint with cpfb and would like a callback from his supervisor. xxxx gave me confirmation number xxxx. i requested amex either cancel this application with no impact to my credit file or increase the list, amex refused to do either and stated per the terms, the account can be canceled but will appear on my credit file as a new account and drop my score. i am furious that they are allowed to bait and switch people thereby forcing them into a sub level product with an unusable credit line. please close my account and erase from my credit file, or increase the limit significantly. xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996283054351807
+}

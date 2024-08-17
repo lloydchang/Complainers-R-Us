@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9011478,
+  "complaint_id": "9011478",
+  "product": "Credit card",
+  "complaint_what_happened": "On the XXXX of XXXX I called Citi Bank customers service because the bank tried to access my bank for XXXX payment which I never authorized and Ive been paying the monthly amount since XXXX. This month was the first month they tried to collect the statement balance and I tried to work with the customer service representative but he got abusive and when I asked for a supervisor I was told they didnt havent any. I informed him that he has to forward me to a supervisor after I have requested one. The call got heated after that so I closed my account which he did do after much back talk. As of the moment my account is closed but I will keep an eye on it. Any help in this matted would greatly be appreciated. \nThank you in advance, XXXX XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80526",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On the XXXX of XXXX I called Citi Bank customers service because the bank tried to access my bank for XXXX payment which I never authorized and Ive been paying the monthly amount since XXXX. This month was the first month they tried to collect the statement balance and I tried to work with the customer service representative but he got abusive and when I asked for a supervisor I was told they didnt havent any. I informed him that he has to forward me to a supervisor after I have requested one. The call got heated after that so I closed my account which he did do after much back talk. As of the moment my account is closed but I will keep an eye on it. Any help in this matted would greatly be appreciated. \nThank you in advance, XXXX XXXX"
+}
+
+Chunk:
+on the xxxx of xxxx i called citi bank customers service because the bank tried to access my bank for xxxx payment which i never authorized and ive been paying the monthly amount since xxxx. this month was the first month they tried to collect the statement balance and i tried to work with the customer service representative but he got abusive and when i asked for a supervisor i was told they didnt havent any. i informed him that he has to forward me to a supervisor after i have requested one. the call got heated after that so i closed my account which he did do after much back talk. as of the moment my account is closed but i will keep an eye on it. any help in this matted would greatly be appreciated. thank you in advance, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9885069131851196
+}

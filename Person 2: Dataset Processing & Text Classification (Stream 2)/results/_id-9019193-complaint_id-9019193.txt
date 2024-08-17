@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019193,
+  "complaint_id": "9019193",
+  "product": "Credit card",
+  "complaint_what_happened": "Problem : Wells Fargo Credit Card is preventing me from making more then one payment during a 24-hour time period ( or longer time duration ) without the ADDITIONAL payment amount originating from and being paid by, a Wells Fargo Checking Account . This is Wrong! I should be able to make as many payments as I desire at anytime from any account to cover my debt to Wells Fargo without having to set up a checking account with Wells Fargo. Wells Fargo is dictating when and how they get paid by consumers.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43026",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Problem : Wells Fargo Credit Card is preventing me from making more then one payment during a 24-hour time period ( or longer time duration ) without the ADDITIONAL payment amount originating from and being paid by, a Wells Fargo Checking Account . This is Wrong! I should be able to make as many payments as I desire at anytime from any account to cover my debt to Wells Fargo without having to set up a checking account with Wells Fargo. Wells Fargo is dictating when and how they get paid by consumers."
+}
+
+Chunk:
+problem : wells fargo credit card is preventing me from making more then one payment during a 24 - hour time period ( or longer time duration ) without the additional payment amount originating from and being paid by, a wells fargo checking account. this is wrong! i should be able to make as many payments as i desire at anytime from any account to cover my debt to wells fargo without having to set up a checking account with wells fargo. wells fargo is dictating when and how they get paid by consumers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990629553794861
+}

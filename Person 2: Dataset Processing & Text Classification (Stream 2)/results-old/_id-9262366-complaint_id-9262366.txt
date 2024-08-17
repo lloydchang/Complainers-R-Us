@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262366,
+  "complaint_id": "9262366",
+  "product": "Credit card",
+  "complaint_what_happened": "On Wednesday XX/XX/year>, I received a Yard Card in the mail. I NEVER AUTHORIZED THIS ACCOUNT TO BE OPENED. I noticed that the yard card had written on it my name and \" XXXX XXXX '', in which I have had nor do I have business with. Furthermore, there were already XXXX charges to the account. I did not authorize this account to be opened, nor any transactions that have occurred or may occur in the future. I want this rectified, and the account closed.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "31605",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On Wednesday XX/XX/year>, I received a Yard Card in the mail. I NEVER AUTHORIZED THIS ACCOUNT TO BE OPENED. I noticed that the yard card had written on it my name and \" XXXX XXXX '', in which I have had nor do I have business with. Furthermore, there were already XXXX charges to the account. I did not authorize this account to be opened, nor any transactions that have occurred or may occur in the future. I want this rectified, and the account closed."
+}
+
+Chunk:
+on wednesday xx / xx / year >, i received a yard card in the mail. i never authorized this account to be opened. i noticed that the yard card had written on it my name and " xxxx xxxx'', in which i have had nor do i have business with. furthermore, there were already xxxx charges to the account. i did not authorize this account to be opened, nor any transactions that have occurred or may occur in the future. i want this rectified, and the account closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996273517608643
+}

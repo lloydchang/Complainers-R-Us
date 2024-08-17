@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9063405,
+  "complaint_id": "9063405",
+  "product": "Credit card",
+  "complaint_what_happened": "I put all my Syncrony cards on paperless after they said theres a fee and now theyre charging even though I received NO statment, they also lowered my credit rating that now impacts my overall credit worthiness by raising my useage even though Ive no late payments, its on auto pay and I rarely use it because of skyrocketing interest rates. I filed with the XXXX  but that went unanswered and I feel this is retaliation for the XXXX  complaint If they say its because of my credit useage its truly because they lower limits and that falsely shows high useage..",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94565",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I put all my Syncrony cards on paperless after they said theres a fee and now theyre charging even though I received NO statment, they also lowered my credit rating that now impacts my overall credit worthiness by raising my useage even though Ive no late payments, its on auto pay and I rarely use it because of skyrocketing interest rates. I filed with the XXXX  but that went unanswered and I feel this is retaliation for the XXXX  complaint If they say its because of my credit useage its truly because they lower limits and that falsely shows high useage.."
+}
+
+Chunk:
+i put all my syncrony cards on paperless after they said theres a fee and now theyre charging even though i received no statment, they also lowered my credit rating that now impacts my overall credit worthiness by raising my useage even though ive no late payments, its on auto pay and i rarely use it because of skyrocketing interest rates. i filed with the xxxx but that went unanswered and i feel this is retaliation for the xxxx complaint if they say its because of my credit useage its truly because they lower limits and that falsely shows high useage..
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989547729492188
+}

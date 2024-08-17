@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048189,
+  "complaint_id": "9048189",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed a hard inquiry on my credit report at XXXX from XXXX/MILESTONE ( Bank ) on XX/XX/year>, I called them the next morning to let them know it was unauthorized and I never applied for a credit card through them. They took my information and said they would start an investigation here we are in XXXX no investigation was ever done and hard inquiry is still on my report.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30252",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "I noticed a hard inquiry on my credit report at XXXX from XXXX/MILESTONE ( Bank ) on XX/XX/year>, I called them the next morning to let them know it was unauthorized and I never applied for a credit card through them. They took my information and said they would start an investigation here we are in XXXX no investigation was ever done and hard inquiry is still on my report."
+}
+
+Chunk:
+i noticed a hard inquiry on my credit report at xxxx from xxxx / milestone ( bank ) on xx / xx / year >, i called them the next morning to let them know it was unauthorized and i never applied for a credit card through them. they took my information and said they would start an investigation here we are in xxxx no investigation was ever done and hard inquiry is still on my report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9919226169586182
+}

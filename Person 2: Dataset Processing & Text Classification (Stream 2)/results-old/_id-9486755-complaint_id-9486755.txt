@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9486755,
+  "complaint_id": "9486755",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> Bank of America took {$12000.00} out of my personal checking account and transferred it and used it to pay off my past due business checking account. \n\nI never received any letters or any warnings that this would be done. On XX/XX/year>, I called them and they said that there was nothing that they could do that this pays off my debt with them. This right of offset made my checking account over drawn and it puts me in a financial hardship as well.",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30102",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "XX/XX/year> Bank of America took {$12000.00} out of my personal checking account and transferred it and used it to pay off my past due business checking account. \n\nI never received any letters or any warnings that this would be done. On XX/XX/year>, I called them and they said that there was nothing that they could do that this pays off my debt with them. This right of offset made my checking account over drawn and it puts me in a financial hardship as well."
+}
+
+Chunk:
+xx / xx / year > bank of america took { $ 12000. 00 } out of my personal checking account and transferred it and used it to pay off my past due business checking account. i never received any letters or any warnings that this would be done. on xx / xx / year >, i called them and they said that there was nothing that they could do that this pays off my debt with them. this right of offset made my checking account over drawn and it puts me in a financial hardship as well.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982784986495972
+}

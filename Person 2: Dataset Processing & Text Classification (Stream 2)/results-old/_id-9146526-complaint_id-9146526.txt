@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9146526,
+  "complaint_id": "9146526",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased XXXX clothing items from XXXX for {$130.00}. The goods I received were of poor quality, with threading, sewing, and overall cut not matching the online description. I sent pictures and a complaint to the merchant, who initially agreed to refund {$120.00} and said I could keep or dispose of the items without returning them. The customer service agent, XXXX, confirmed this, and the refund was supposed to be processed to my original credit card within XXXX days. \n\nWhen I didn't receive my refund, I inquired about its status. At that point, the merchant refused to honor the original agreement. I filed a merchant dispute with Capital One for a chargeback, which was processed on XX/XX/year>, because it became clear that the merchant was not acting in good faith. Capital One asked for documentation to substantiate my complaint. I sent the invoice, pictures, and the refund offer from the merchant, which included a note that I did not need to return the goods. The email from the merchant also indicated they were not interested in sending a return mailer for the items. However, Capital One declined my chargeback request on XX/XX/year> and asked that I settle the dispute with the merchant. \n\nEven though the merchant has agreed to refund {$120.00} to my account, it has failed to credit the amount, claiming it needs a withdraw letter. This company is unreliable and not acting in good faith, and my credit card company is allowing them to scam me.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21042",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased XXXX clothing items from XXXX for {$130.00}. The goods I received were of poor quality, with threading, sewing, and overall cut not matching the online description. I sent pictures and a complaint to the merchant, who initially agreed to refund {$120.00} and said I could keep or dispose of the items without returning them. The customer service agent, XXXX, confirmed this, and the refund was supposed to be processed to my original credit card within XXXX days. \n\nWhen I didn't receive my refund, I inquired about its status. At that point, the merchant refused to honor the original agreement. I filed a merchant dispute with Capital One for a chargeback, which was processed on XX/XX/year>, because it became clear that the merchant was not acting in good faith. Capital One asked for documentation to substantiate my complaint. I sent the invoice, pictures, and the refund offer from the merchant, which included a note that I did not need to return the goods. The email from the merchant also indicated they were not interested in sending a return mailer for the items. However, Capital One declined my chargeback request on XX/XX/year> and asked that I settle the dispute with the merchant. \n\nEven though the merchant has agreed to refund {$120.00} to my account, it has failed to credit the amount, claiming it needs a withdraw letter. This company is unreliable and not acting in good faith, and my credit card company is allowing them to scam me."
+}
+
+Chunk:
+i purchased xxxx clothing items from xxxx for { $ 130. 00 }. the goods i received were of poor quality, with threading, sewing, and overall cut not matching the online description. i sent pictures and a complaint to the merchant, who initially agreed to refund { $ 120. 00 } and said i could keep or dispose of the items without returning them. the customer service agent, xxxx, confirmed this, and the refund was supposed to be processed to my original credit card within xxxx days. when i didn't receive my refund, i inquired about its status. at that point, the merchant refused to honor the original agreement. i filed a merchant dispute with capital one for a chargeback, which was processed on xx / xx / year >, because it became clear that the merchant was not acting in good faith. capital one asked for documentation to substantiate my complaint. i sent the invoice, pictures, and the refund offer from the merchant, which included a note that i did not need to return the goods. the email from the merchant also indicated they were not interested in sending a return mailer for the items. however, capital one declined my chargeback request on xx / xx / year > and asked that i settle the dispute with the merchant. even though the merchant has agreed to refund { $ 120. 00 } to my account, it has failed to credit the amount, claiming it needs a withdraw letter. this company is unreliable and not acting in good faith, and my credit card company is allowing them to scam me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995730519294739
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9419953,
+  "complaint_id": "9419953",
+  "product": "Credit card",
+  "complaint_what_happened": "Since the beginning of XXXX I have been dealing with this company and trying to get my card replaced. Each time they request info for my address. I provide the info and they tell me is invalid. It has been XXXX weeks that I've been trying to get my stuff updated and my card replaced but they do not contact or communicate and when called, they give you the bs running around instead of helping you. At this point either they need to replace the card or pay me for the wasted time. XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX info was sent out. Nothing was done, no correspondence sent to me to acknowledge receipt until weeks after sending the info in. Original card was lost and I called to have a replacement sent and I got the run around. This is absolutely egregious to deal with and the practice at this point is XXXX.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "044XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Since the beginning of XXXX I have been dealing with this company and trying to get my card replaced. Each time they request info for my address. I provide the info and they tell me is invalid. It has been XXXX weeks that I've been trying to get my stuff updated and my card replaced but they do not contact or communicate and when called, they give you the bs running around instead of helping you. At this point either they need to replace the card or pay me for the wasted time. XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX info was sent out. Nothing was done, no correspondence sent to me to acknowledge receipt until weeks after sending the info in. Original card was lost and I called to have a replacement sent and I got the run around. This is absolutely egregious to deal with and the practice at this point is XXXX."
+}
+
+Chunk:
+since the beginning of xxxx i have been dealing with this company and trying to get my card replaced. each time they request info for my address. i provide the info and they tell me is invalid. it has been xxxx weeks that i've been trying to get my stuff updated and my card replaced but they do not contact or communicate and when called, they give you the bs running around instead of helping you. at this point either they need to replace the card or pay me for the wasted time. xx / xx / xxxx, xx / xx / xxxx, xx / xx / xxxx and xx / xx / xxxx info was sent out. nothing was done, no correspondence sent to me to acknowledge receipt until weeks after sending the info in. original card was lost and i called to have a replacement sent and i got the run around. this is absolutely egregious to deal with and the practice at this point is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996045231819153
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9128997,
+  "complaint_id": "9128997",
+  "product": "Credit card",
+  "complaint_what_happened": "I've been looking at my credit report lately because I am trying to get in position to buy a house. I noticed Citi Bank reporting late payments on my report that is not at all accurate and this information is extremely damaging to my credit worthiness. I was taking a look at my card member agreement and noticed thatI have the right to arbitration in disputes. I am demanding Citi Bank update these late payments asap as they are a violation of my consumer rights under 15 USC 1666b in which a creditor is not to report late payments. Also I do not give Citi Bank permission to report any information to ANY third party that is adverse to me the consumer. Time is of the essence",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08094",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "I've been looking at my credit report lately because I am trying to get in position to buy a house. I noticed Citi Bank reporting late payments on my report that is not at all accurate and this information is extremely damaging to my credit worthiness. I was taking a look at my card member agreement and noticed thatI have the right to arbitration in disputes. I am demanding Citi Bank update these late payments asap as they are a violation of my consumer rights under 15 USC 1666b in which a creditor is not to report late payments. Also I do not give Citi Bank permission to report any information to ANY third party that is adverse to me the consumer. Time is of the essence"
+}
+
+Chunk:
+i've been looking at my credit report lately because i am trying to get in position to buy a house. i noticed citi bank reporting late payments on my report that is not at all accurate and this information is extremely damaging to my credit worthiness. i was taking a look at my card member agreement and noticed thati have the right to arbitration in disputes. i am demanding citi bank update these late payments asap as they are a violation of my consumer rights under 15 usc 1666b in which a creditor is not to report late payments. also i do not give citi bank permission to report any information to any third party that is adverse to me the consumer. time is of the essence
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995811581611633
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265393,
+  "complaint_id": "9265393",
+  "product": "Credit card",
+  "complaint_what_happened": "I HAVE A CHASE CREDIT CARD. A FEW DAYS AGO I OPENED A CHASE PERSONAL CHECKING ACCOUNT ONLINE AND EVER SINCE I DID, I'VE BEEN LOCKED OUT OF MY ONLINE ACCOUNT. I CAN NOT LOG ON TO MAKE A PAYMENT. AS OF TOMORROW, I WILL BE LATE MAKING MY PAYMENT AND I'M NEVER LATE MAKING MY PAYMENTS. I'VE CALLED THE NUMBER IT SAYS TO CALL WITH THE MESSAGE SAYING THERE'S SUSPICIOUS ACTIVITY BUT ALL THOSE IDIOTS DO IS KEEP PASSING ME FROM ONE PERSON AND DEPARTMENT TO ANOTHER NOT GETTING ANYTHING ACCOMPLISHED. I'VE TALKED TO NUMEROUS PEOPLE IDENTIFYING WHO I AM AND ALL THEY DO IS TRANSFER ME TO ANOTHER PERSON TO IDETIFY WHO I AM. I DON'T HAVE TIME FOR THIS XXXX XXXX!!!!! ALL THEY DO IS KEEP TRANSFERING ME THAT'S IT!!! MY ACCOUNT IS LOCKED. I CAN'T MAKE A PAYMENT AND I'LL BE XXXX IF THEY REPORT LATE PAYMENTS TO THE CREDIT BUREA BECAUSE OF THEIR XXXX",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77598",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I HAVE A CHASE CREDIT CARD. A FEW DAYS AGO I OPENED A CHASE PERSONAL CHECKING ACCOUNT ONLINE AND EVER SINCE I DID, I'VE BEEN LOCKED OUT OF MY ONLINE ACCOUNT. I CAN NOT LOG ON TO MAKE A PAYMENT. AS OF TOMORROW, I WILL BE LATE MAKING MY PAYMENT AND I'M NEVER LATE MAKING MY PAYMENTS. I'VE CALLED THE NUMBER IT SAYS TO CALL WITH THE MESSAGE SAYING THERE'S SUSPICIOUS ACTIVITY BUT ALL THOSE IDIOTS DO IS KEEP PASSING ME FROM ONE PERSON AND DEPARTMENT TO ANOTHER NOT GETTING ANYTHING ACCOMPLISHED. I'VE TALKED TO NUMEROUS PEOPLE IDENTIFYING WHO I AM AND ALL THEY DO IS TRANSFER ME TO ANOTHER PERSON TO IDETIFY WHO I AM. I DON'T HAVE TIME FOR THIS XXXX XXXX!!!!! ALL THEY DO IS KEEP TRANSFERING ME THAT'S IT!!! MY ACCOUNT IS LOCKED. I CAN'T MAKE A PAYMENT AND I'LL BE XXXX IF THEY REPORT LATE PAYMENTS TO THE CREDIT BUREA BECAUSE OF THEIR XXXX"
+}
+
+Chunk:
+i have a chase credit card. a few days ago i opened a chase personal checking account online and ever since i did, i've been locked out of my online account. i can not log on to make a payment. as of tomorrow, i will be late making my payment and i'm never late making my payments. i've called the number it says to call with the message saying there's suspicious activity but all those idiots do is keep passing me from one person and department to another not getting anything accomplished. i've talked to numerous people identifying who i am and all they do is transfer me to another person to idetify who i am. i don't have time for this xxxx xxxx!!!!! all they do is keep transfering me that's it!!! my account is locked. i can't make a payment and i'll be xxxx if they report late payments to the credit burea because of their xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990758895874023
+}

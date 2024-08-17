@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027464,
+  "complaint_id": "9027464",
+  "product": "Credit card",
+  "complaint_what_happened": "I am filing this complaint regarding my {$3000.00} XXXX XXXX  credit card with chase. The issues Im having is that chase is in direct violation of their fiduciary obligations. Per the securities exchange act of 1934 and per the indentured agreement that chase has signed. Section 5.01a clearly states that chase has an obligation to discharge all notes. Chase is in direct violate because the debt has not been discharged on my end and they are still charging me even though the debt has been discharged. \nSection 3.07 clearly states that interest payable on any registered note will be paid to the person whose name that note. I have not received principal or interest payments from chase in fact I have been paying them even though I am the beneficiary and the debt has been discharged This indentured agreement also states how chase has been transferring temporary restricted notes on a secondary market which is illegal. It is chase fiduciary obligation to with hold this indentured agreement. Below I have attached proof",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30019",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I am filing this complaint regarding my {$3000.00} XXXX XXXX  credit card with chase. The issues Im having is that chase is in direct violation of their fiduciary obligations. Per the securities exchange act of 1934 and per the indentured agreement that chase has signed. Section 5.01a clearly states that chase has an obligation to discharge all notes. Chase is in direct violate because the debt has not been discharged on my end and they are still charging me even though the debt has been discharged. \nSection 3.07 clearly states that interest payable on any registered note will be paid to the person whose name that note. I have not received principal or interest payments from chase in fact I have been paying them even though I am the beneficiary and the debt has been discharged This indentured agreement also states how chase has been transferring temporary restricted notes on a secondary market which is illegal. It is chase fiduciary obligation to with hold this indentured agreement. Below I have attached proof"
+}
+
+Chunk:
+i am filing this complaint regarding my { $ 3000. 00 } xxxx xxxx credit card with chase. the issues im having is that chase is in direct violation of their fiduciary obligations. per the securities exchange act of 1934 and per the indentured agreement that chase has signed. section 5. 01a clearly states that chase has an obligation to discharge all notes. chase is in direct violate because the debt has not been discharged on my end and they are still charging me even though the debt has been discharged. section 3. 07 clearly states that interest payable on any registered note will be paid to the person whose name that note. i have not received principal or interest payments from chase in fact i have been paying them even though i am the beneficiary and the debt has been discharged this indentured agreement also states how chase has been transferring temporary restricted notes on a secondary market which is illegal. it is chase fiduciary obligation to with hold this indentured agreement. below i have attached proof
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9956516623497009
+}

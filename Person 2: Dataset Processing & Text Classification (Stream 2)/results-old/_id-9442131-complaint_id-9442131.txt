@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9442131,
+  "complaint_id": "9442131",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX Ally credit card. They put a hold on my card so I called and was transferred to LP they said it was possible fraudulent charges and I told them I made the charges on cash app and he said we just wanted to make sure it was you and we will remove the hold. He never entered any information on my account and did not remove the hold. I call back on XX/XX/XXXX and transferred to XXXX again and they said my card was not supposed to be allowed by there company to use on cash app and they dont know why it was but that its considered a cash advance and not to use it on cash app again. They then removed the hold. I literally used it the first time I activated it on cash app and had not gotten any fees or holds on the card. I never signed anything saying cash app is a cash advance and was never told it was a fee by anyone and there isnt any faq about cash app or anything stating cash app on the contract or anywhere connected with Ally bank and credit cards. I escalated it to a XXXX and they continue to tell me there system automatically charges cash advance fees and refuse to remove the {$20.00} fee they charged my account when it was literally placed onto my account manually because there is not any fees for cash app purchase on the first one made on my account. They also claim not to have to name specifically cash app as a cash advance because their system does that automatically but doesnt with cash app because the purchase shows as a purchase on their system and not a cash advance.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80501",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "XX/XX/XXXX Ally credit card. They put a hold on my card so I called and was transferred to LP they said it was possible fraudulent charges and I told them I made the charges on cash app and he said we just wanted to make sure it was you and we will remove the hold. He never entered any information on my account and did not remove the hold. I call back on XX/XX/XXXX and transferred to XXXX again and they said my card was not supposed to be allowed by there company to use on cash app and they dont know why it was but that its considered a cash advance and not to use it on cash app again. They then removed the hold. I literally used it the first time I activated it on cash app and had not gotten any fees or holds on the card. I never signed anything saying cash app is a cash advance and was never told it was a fee by anyone and there isnt any faq about cash app or anything stating cash app on the contract or anywhere connected with Ally bank and credit cards. I escalated it to a XXXX and they continue to tell me there system automatically charges cash advance fees and refuse to remove the {$20.00} fee they charged my account when it was literally placed onto my account manually because there is not any fees for cash app purchase on the first one made on my account. They also claim not to have to name specifically cash app as a cash advance because their system does that automatically but doesnt with cash app because the purchase shows as a purchase on their system and not a cash advance."
+}
+
+Chunk:
+xx / xx / xxxx ally credit card. they put a hold on my card so i called and was transferred to lp they said it was possible fraudulent charges and i told them i made the charges on cash app and he said we just wanted to make sure it was you and we will remove the hold. he never entered any information on my account and did not remove the hold. i call back on xx / xx / xxxx and transferred to xxxx again and they said my card was not supposed to be allowed by there company to use on cash app and they dont know why it was but that its considered a cash advance and not to use it on cash app again. they then removed the hold. i literally used it the first time i activated it on cash app and had not gotten any fees or holds on the card. i never signed anything saying cash app is a cash advance and was never told it was a fee by anyone and there isnt any faq about cash app or anything stating cash app on the contract or anywhere connected with ally bank and credit cards. i escalated it to a xxxx and they continue to tell me there system automatically charges cash advance fees and refuse to remove the { $ 20. 00 } fee they charged my account when it was literally placed onto my account manually because there is not any fees for cash app purchase on the first one made on my account. they also claim not to have to name specifically cash app as a cash advance because their system does that automatically but doesnt with cash app because the purchase shows as a purchase on their system and not a cash advance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987255930900574
+}

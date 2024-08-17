@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9189428,
+  "complaint_id": "9189428",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX I received XXXX letters from Continental Finance in regards to my XXXX XXXX XXXX XXXX XXXX  accounts, stating that Terms and Conditions will change and they will start having a XXXX $ annual Fee & maintenance fees will increase from {$10.00} a month to {$15.00} a month as well as interest rates will be raised to 35.9 %, which is predatory, it states if you do not agree to new Terms and conditions to call the number on the letter to opt out and account will be closed. I paid both balances in full and attempted to close both accounts, I believe their system is set up in a fraudulent way, as it will tell you \" thank you, you opted out \" have a great day, after a long pause it will state \" sorry there was an error opting out, please try again later '' Many Customer would have probably hung up after the initial \" thank you, you opted out \" *** it took me several hours to close the accounts, I had to call in several times to confirm that both accounts were closed, now today I receive a letter in the mail stating \" the charging privileges on you XXXX XXXXXXXX HAVE BEEN SUSPENDED DUE TO UNUSUAL ACTIVITIES. PLEASE KEEP IN MIND THAT THE TEMPORARY SUSPENSION OF YOUR ACCOUNT DOES NOT AFFECT YOUR OBLIGATION TO PAY THE BALANCE ON YOUR ACCOUNT, ADDITIONALLY YOUR ACCOUNT REMAINS SUBJECT TO FINANCE CHARGES AND FEES IN THE CARDHOLDER AGREEMENT. ************** this is absolutely not acceptable as I closed the account and the account is paid off, there should not be any notice letting me know I am subject to fees, when I closed the account. This is scam behavior and these companies need to be held accountable for their predatory practices. Their customer service is absolutely not helpful at all, receiving such letter is causing me a lot of stress, as this wrong information could result in getting the account closure reported wrong on my credit.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "XXXX XXXX I received XXXX letters from Continental Finance in regards to my XXXX XXXX XXXX XXXX XXXX  accounts, stating that Terms and Conditions will change and they will start having a XXXX $ annual Fee & maintenance fees will increase from {$10.00} a month to {$15.00} a month as well as interest rates will be raised to 35.9 %, which is predatory, it states if you do not agree to new Terms and conditions to call the number on the letter to opt out and account will be closed. I paid both balances in full and attempted to close both accounts, I believe their system is set up in a fraudulent way, as it will tell you \" thank you, you opted out \" have a great day, after a long pause it will state \" sorry there was an error opting out, please try again later '' Many Customer would have probably hung up after the initial \" thank you, you opted out \" *** it took me several hours to close the accounts, I had to call in several times to confirm that both accounts were closed, now today I receive a letter in the mail stating \" the charging privileges on you XXXX XXXXXXXX HAVE BEEN SUSPENDED DUE TO UNUSUAL ACTIVITIES. PLEASE KEEP IN MIND THAT THE TEMPORARY SUSPENSION OF YOUR ACCOUNT DOES NOT AFFECT YOUR OBLIGATION TO PAY THE BALANCE ON YOUR ACCOUNT, ADDITIONALLY YOUR ACCOUNT REMAINS SUBJECT TO FINANCE CHARGES AND FEES IN THE CARDHOLDER AGREEMENT. ************** this is absolutely not acceptable as I closed the account and the account is paid off, there should not be any notice letting me know I am subject to fees, when I closed the account. This is scam behavior and these companies need to be held accountable for their predatory practices. Their customer service is absolutely not helpful at all, receiving such letter is causing me a lot of stress, as this wrong information could result in getting the account closure reported wrong on my credit."
+}
+
+Chunk:
+xxxx xxxx i received xxxx letters from continental finance in regards to my xxxx xxxx xxxx xxxx xxxx accounts, stating that terms and conditions will change and they will start having a xxxx $ annual fee & maintenance fees will increase from { $ 10. 00 } a month to { $ 15. 00 } a month as well as interest rates will be raised to 35. 9 %, which is predatory, it states if you do not agree to new terms and conditions to call the number on the letter to opt out and account will be closed. i paid both balances in full and attempted to close both accounts, i believe their system is set up in a fraudulent way, as it will tell you " thank you, you opted out " have a great day, after a long pause it will state " sorry there was an error opting out, please try again later'' many customer would have probably hung up after the initial " thank you, you opted out " * * * it took me several hours to close the accounts, i had to call in several times to confirm that both accounts were closed, now today i receive a letter in the mail stating " the charging privileges on you xxxx xxxxxxxx have been suspended due to unusual activities. please keep in mind that the temporary suspension of your account does not affect your obligation to pay the balance on your account, additionally your account remains subject to finance charges and fees in the cardholder agreement. * * * * * * * * * * * * * * this is absolutely not acceptable as i closed the account and the account is paid off, there should not be any notice letting me know i am subject to fees, when i closed the account. this is scam behavior and these companies need to be held accountable for their predatory practices. their customer service is absolutely not helpful at all, receiving such letter is causing me a lot of stress, as this wrong information could result in getting the account closure reported wrong on my credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996065497398376
+}

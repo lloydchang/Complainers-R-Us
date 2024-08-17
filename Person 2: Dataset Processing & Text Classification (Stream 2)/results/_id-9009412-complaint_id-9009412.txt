@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9009412,
+  "complaint_id": "9009412",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> i was traying to get a secured card becouse i Was traying to fix my credit but for some razn capital one didnt take XXXX XXXX for secured card so i call many times they tolkme they didnt know Was going on so i been traying to fixed this issue never i have the card also Was not my foult for some.reazon they take the.secured.money as deposit i Will like this hard.inquiere take out from my cedit scored.becouse.is not fear also never i gey the card",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11219",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Delay in processing application",
+  "text": "On XX/XX/year> i was traying to get a secured card becouse i Was traying to fix my credit but for some razn capital one didnt take XXXX XXXX for secured card so i call many times they tolkme they didnt know Was going on so i been traying to fixed this issue never i have the card also Was not my foult for some.reazon they take the.secured.money as deposit i Will like this hard.inquiere take out from my cedit scored.becouse.is not fear also never i gey the card"
+}
+
+Chunk:
+on xx / xx / year > i was traying to get a secured card becouse i was traying to fix my credit but for some razn capital one didnt take xxxx xxxx for secured card so i call many times they tolkme they didnt know was going on so i been traying to fixed this issue never i have the card also was not my foult for some. reazon they take the. secured. money as deposit i will like this hard. inquiere take out from my cedit scored. becouse. is not fear also never i gey the card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.990387499332428
+}

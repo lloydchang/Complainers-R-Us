@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151974,
+  "complaint_id": "9151974",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello. Ive had PayPal credit for years. In my entire time with PayPal Credit, I set up two auto-pay payment plans before. One was started XX/XX/year>. I need to know when was the other one started and ended? \n\nI need documentation of these dates. I keep calling and chatting with PayPal agents and no one has answered me. They keep telling me a manager will call me and no one has called. Ive been trying to get this information for a year now. Please answer the one questions straight forwardly. Thanks. \n\nPayPal Credit Account Number Ending in XXXX",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Hello. Ive had PayPal credit for years. In my entire time with PayPal Credit, I set up two auto-pay payment plans before. One was started XX/XX/year>. I need to know when was the other one started and ended? \n\nI need documentation of these dates. I keep calling and chatting with PayPal agents and no one has answered me. They keep telling me a manager will call me and no one has called. Ive been trying to get this information for a year now. Please answer the one questions straight forwardly. Thanks. \n\nPayPal Credit Account Number Ending in XXXX"
+}
+
+Chunk:
+hello. ive had paypal credit for years. in my entire time with paypal credit, i set up two auto - pay payment plans before. one was started xx / xx / year >. i need to know when was the other one started and ended? i need documentation of these dates. i keep calling and chatting with paypal agents and no one has answered me. they keep telling me a manager will call me and no one has called. ive been trying to get this information for a year now. please answer the one questions straight forwardly. thanks. paypal credit account number ending in xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982373714447021
+}

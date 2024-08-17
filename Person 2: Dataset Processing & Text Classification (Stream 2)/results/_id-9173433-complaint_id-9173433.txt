@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173433,
+  "complaint_id": "9173433",
+  "product": "Credit card",
+  "complaint_what_happened": "My account was used fraudulently to purchase make a concert ticket purchase of XXXX dollars. No big deal I was able to gain back access to my email and worked with XXXX XXXX to send them the tickets back so they couldnt be used and the fraudster didnt get the tickets. They told me because it was fraud I have to dispute it with the bank no matter what and that rest assured Id get my money. Fast forward a year later and going on 5 disputes reopenings and nothings happened. My disputes get denied with the same saying there wasnt enough evidence. Yet Ive talked to XXXX XXXX  each time and they have said that there should be no reason the dispute is denied and that this bank isnt even reaching out to them. On this last time I had a specialist finally call me back from the bank and she even agreed it shows they havent reached out to the bank and this all makes no sense as why its being denied. She assured me shed fix it and it would get situated. Two months later its denied yet again. This is the worst customer service from a bank Ive ever experienced. My next step is legal if they dont fix this now Im sick of dealing with this Ive spent 11 plus hours on the phone, a year with XXXX worth of money held it isnt fair. I will be asking for more for time and suffering. After making a complaint with the XXXX my dispute was yet again denied. I called the merchant and they said they still havent been contacted. All the bank will do is say theyll escalate it and someone will call me yet no one ever does. Doesnt provide any reasons why they decline the dispute. Ive requested to be sent the evidence they have and they never sent me it. This is the worst.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "04210",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My account was used fraudulently to purchase make a concert ticket purchase of XXXX dollars. No big deal I was able to gain back access to my email and worked with XXXX XXXX to send them the tickets back so they couldnt be used and the fraudster didnt get the tickets. They told me because it was fraud I have to dispute it with the bank no matter what and that rest assured Id get my money. Fast forward a year later and going on 5 disputes reopenings and nothings happened. My disputes get denied with the same saying there wasnt enough evidence. Yet Ive talked to XXXX XXXX  each time and they have said that there should be no reason the dispute is denied and that this bank isnt even reaching out to them. On this last time I had a specialist finally call me back from the bank and she even agreed it shows they havent reached out to the bank and this all makes no sense as why its being denied. She assured me shed fix it and it would get situated. Two months later its denied yet again. This is the worst customer service from a bank Ive ever experienced. My next step is legal if they dont fix this now Im sick of dealing with this Ive spent 11 plus hours on the phone, a year with XXXX worth of money held it isnt fair. I will be asking for more for time and suffering. After making a complaint with the XXXX my dispute was yet again denied. I called the merchant and they said they still havent been contacted. All the bank will do is say theyll escalate it and someone will call me yet no one ever does. Doesnt provide any reasons why they decline the dispute. Ive requested to be sent the evidence they have and they never sent me it. This is the worst."
+}
+
+Chunk:
+my account was used fraudulently to purchase make a concert ticket purchase of xxxx dollars. no big deal i was able to gain back access to my email and worked with xxxx xxxx to send them the tickets back so they couldnt be used and the fraudster didnt get the tickets. they told me because it was fraud i have to dispute it with the bank no matter what and that rest assured id get my money. fast forward a year later and going on 5 disputes reopenings and nothings happened. my disputes get denied with the same saying there wasnt enough evidence. yet ive talked to xxxx xxxx each time and they have said that there should be no reason the dispute is denied and that this bank isnt even reaching out to them. on this last time i had a specialist finally call me back from the bank and she even agreed it shows they havent reached out to the bank and this all makes no sense as why its being denied. she assured me shed fix it and it would get situated. two months later its denied yet again. this is the worst customer service from a bank ive ever experienced. my next step is legal if they dont fix this now im sick of dealing with this ive spent 11 plus hours on the phone, a year with xxxx worth of money held it isnt fair. i will be asking for more for time and suffering. after making a complaint with the xxxx my dispute was yet again denied. i called the merchant and they said they still havent been contacted. all the bank will do is say theyll escalate it and someone will call me yet no one ever does. doesnt provide any reasons why they decline the dispute. ive requested to be sent the evidence they have and they never sent me it. this is the worst.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997321963310242
+}

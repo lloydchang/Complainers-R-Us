@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173973,
+  "complaint_id": "9173973",
+  "product": "Credit card",
+  "complaint_what_happened": "Charged a total of {$250.00} to my PayPal card to pay for a seller 's item on XXXX. \nThe item was not as described and not authentic, a total fraud. \nI opened a case with XXXX to return the item and get a refund. \nXXXX sided with me and a return label was sent to my email. \nIn the interim I contacted PayPal to let them know what happened, which i thought was the right thing to do. \nWhen XXXX learned of this, XXXX closed my case. I could not return the item and did not get a refund. \nXXXX said I had to take the matter up with PayPal, which I did. \nXXXX declined the refund saying they sided with XXXX you had canceled the refund. \nBut, XXXX had already accepted the item for return and a refund. \nSo XXXX sides with XXXX and will not refund the money but, XXXX had authorized a refund. \nI am entitled to a refund. Having both XXXX and PayPal declining to do so is not acceptable.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11367",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Charged a total of {$250.00} to my PayPal card to pay for a seller 's item on XXXX. \nThe item was not as described and not authentic, a total fraud. \nI opened a case with XXXX to return the item and get a refund. \nXXXX sided with me and a return label was sent to my email. \nIn the interim I contacted PayPal to let them know what happened, which i thought was the right thing to do. \nWhen XXXX learned of this, XXXX closed my case. I could not return the item and did not get a refund. \nXXXX said I had to take the matter up with PayPal, which I did. \nXXXX declined the refund saying they sided with XXXX you had canceled the refund. \nBut, XXXX had already accepted the item for return and a refund. \nSo XXXX sides with XXXX and will not refund the money but, XXXX had authorized a refund. \nI am entitled to a refund. Having both XXXX and PayPal declining to do so is not acceptable."
+}
+
+Chunk:
+charged a total of { $ 250. 00 } to my paypal card to pay for a seller's item on xxxx. the item was not as described and not authentic, a total fraud. i opened a case with xxxx to return the item and get a refund. xxxx sided with me and a return label was sent to my email. in the interim i contacted paypal to let them know what happened, which i thought was the right thing to do. when xxxx learned of this, xxxx closed my case. i could not return the item and did not get a refund. xxxx said i had to take the matter up with paypal, which i did. xxxx declined the refund saying they sided with xxxx you had canceled the refund. but, xxxx had already accepted the item for return and a refund. so xxxx sides with xxxx and will not refund the money but, xxxx had authorized a refund. i am entitled to a refund. having both xxxx and paypal declining to do so is not acceptable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993821382522583
+}

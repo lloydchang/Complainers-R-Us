@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9140939,
+  "complaint_id": "9140939",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> spoke with XXXX XXXX XXXX agent XXXX informed my balance owed {$450.00} to a closed account and sent to collections. And card is not active. \n\nI said okay due to circumstances and stated I will continue paying balance owed until paid in full. Efforts payment applied until XX/XX/year>. \n\nOn XX/XX/year>, I contacted XXXX XXXX XXXX XXXX for balance status. Representative XXXX stated balance due {$290.00}. Next I request speak to supervisor XXXX stated balance due is {$390.00}. Both representatives reluctant to discuss payments applied to my account record. \n\nPerhaps I could have over paid.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "787XX",
+  "tags": null,
+  "timely": "No",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Total Card, Inc.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "XX/XX/year> spoke with XXXX XXXX XXXX agent XXXX informed my balance owed {$450.00} to a closed account and sent to collections. And card is not active. \n\nI said okay due to circumstances and stated I will continue paying balance owed until paid in full. Efforts payment applied until XX/XX/year>. \n\nOn XX/XX/year>, I contacted XXXX XXXX XXXX XXXX for balance status. Representative XXXX stated balance due {$290.00}. Next I request speak to supervisor XXXX stated balance due is {$390.00}. Both representatives reluctant to discuss payments applied to my account record. \n\nPerhaps I could have over paid."
+}
+
+Chunk:
+xx / xx / year > spoke with xxxx xxxx xxxx agent xxxx informed my balance owed { $ 450. 00 } to a closed account and sent to collections. and card is not active. i said okay due to circumstances and stated i will continue paying balance owed until paid in full. efforts payment applied until xx / xx / year >. on xx / xx / year >, i contacted xxxx xxxx xxxx xxxx for balance status. representative xxxx stated balance due { $ 290. 00 }. next i request speak to supervisor xxxx stated balance due is { $ 390. 00 }. both representatives reluctant to discuss payments applied to my account record. perhaps i could have over paid.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974384307861328
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186782,
+  "complaint_id": "9186782",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXXXXXX XXXX  card for {$52.00} ( ORDER # XXXX ) on XX/XX/year>. \nRequest refund on XX/XX/year>. I bought a XXXX XXXXXXXX XXXX card for {$52.00} ( ORDER # XXXX ) and a XXXX XXXX camera ( ORDER # XXXX XXXX ). After installing the camera, it didn't work properly, so I requested a refund through XXXX. XXXX instructed me to take both items to the XXXX store for return shipping without packaging either item. I followed their instructions, but XXXX has only refunded the money for the camera, not the XXXX card. I believe I followed their instructions correctly, so if there's any issue, it's with UPS, not me. I want my money back for the XXXX card as I have returned both items. Capital One received my complaint and all the evidence asked for, including the item 's shipping label back to XXXX. If XXXX refunded the camera, it also means that they received the XXXX  card. UPS PACKAGED THEM BOTH TOGETHER.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48047",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX XXXXXXXX XXXX  card for {$52.00} ( ORDER # XXXX ) on XX/XX/year>. \nRequest refund on XX/XX/year>. I bought a XXXX XXXXXXXX XXXX card for {$52.00} ( ORDER # XXXX ) and a XXXX XXXX camera ( ORDER # XXXX XXXX ). After installing the camera, it didn't work properly, so I requested a refund through XXXX. XXXX instructed me to take both items to the XXXX store for return shipping without packaging either item. I followed their instructions, but XXXX has only refunded the money for the camera, not the XXXX card. I believe I followed their instructions correctly, so if there's any issue, it's with UPS, not me. I want my money back for the XXXX card as I have returned both items. Capital One received my complaint and all the evidence asked for, including the item 's shipping label back to XXXX. If XXXX refunded the camera, it also means that they received the XXXX  card. UPS PACKAGED THEM BOTH TOGETHER."
+}
+
+Chunk:
+xxxx xxxxxxxx xxxx card for { $ 52. 00 } ( order # xxxx ) on xx / xx / year >. request refund on xx / xx / year >. i bought a xxxx xxxxxxxx xxxx card for { $ 52. 00 } ( order # xxxx ) and a xxxx xxxx camera ( order # xxxx xxxx ). after installing the camera, it didn't work properly, so i requested a refund through xxxx. xxxx instructed me to take both items to the xxxx store for return shipping without packaging either item. i followed their instructions, but xxxx has only refunded the money for the camera, not the xxxx card. i believe i followed their instructions correctly, so if there's any issue, it's with ups, not me. i want my money back for the xxxx card as i have returned both items. capital one received my complaint and all the evidence asked for, including the item's shipping label back to xxxx. if xxxx refunded the camera, it also means that they received the xxxx card. ups packaged them both together.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994295239448547
+}

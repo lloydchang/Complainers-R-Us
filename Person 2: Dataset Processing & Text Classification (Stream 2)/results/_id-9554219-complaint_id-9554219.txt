@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554219,
+  "complaint_id": "9554219",
+  "product": "Credit card",
+  "complaint_what_happened": "Complaint Regarding Incorrect Interest Charges on Balance Transfer and Violation of VCPA In XX/XX/year>, I initiated a balance transfer with XXXX for {$15000.00}, which I subsequently reduced to {$7200.00} as evidenced by the attached statement. This amount was designated to accrue no interest according to XXXX. However, in XX/XX/year>, my statement indicated a total balance of {$9700.00}, including the {$7200.00} supposedly interest-free. Despite making a payment of {$4000.00} before the due date of XX/XX/year>, I was charged {$84.00} in interest, which I believe to be inaccurate. \n\nI assert that this charge is erroneous, as my statement reflected a payment in full before the due date. I am attaching relevant documents to support my claim. I respectfully request your intervention in rectifying this matter, as it appears that XXXX may be engaging in deceptive practices through their balance transfer program. I am seeking clarification on the interest status of the amounts stated on my statement that XXXX claims do not generate interest. \n\nFurthermore, it is my contention that XXXX 's balance transfer program may be in violation of the Virginia Consumer Protection Act ( VCPA ), particularly XXXX ( A ) ( 14 ) concerning deceptive business practices. The discrepancy between the advertised no-interest balance transfer and the actual interest charges applied undermines the transparency of the offer, potentially constituting a \" bait and switch '' tactic. \n\nI appreciate your prompt attention to this matter and look forward to your timely resolution. Thank you for your assistance in addressing this issue.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23238",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Complaint Regarding Incorrect Interest Charges on Balance Transfer and Violation of VCPA In XX/XX/year>, I initiated a balance transfer with XXXX for {$15000.00}, which I subsequently reduced to {$7200.00} as evidenced by the attached statement. This amount was designated to accrue no interest according to XXXX. However, in XX/XX/year>, my statement indicated a total balance of {$9700.00}, including the {$7200.00} supposedly interest-free. Despite making a payment of {$4000.00} before the due date of XX/XX/year>, I was charged {$84.00} in interest, which I believe to be inaccurate. \n\nI assert that this charge is erroneous, as my statement reflected a payment in full before the due date. I am attaching relevant documents to support my claim. I respectfully request your intervention in rectifying this matter, as it appears that XXXX may be engaging in deceptive practices through their balance transfer program. I am seeking clarification on the interest status of the amounts stated on my statement that XXXX claims do not generate interest. \n\nFurthermore, it is my contention that XXXX 's balance transfer program may be in violation of the Virginia Consumer Protection Act ( VCPA ), particularly XXXX ( A ) ( 14 ) concerning deceptive business practices. The discrepancy between the advertised no-interest balance transfer and the actual interest charges applied undermines the transparency of the offer, potentially constituting a \" bait and switch '' tactic. \n\nI appreciate your prompt attention to this matter and look forward to your timely resolution. Thank you for your assistance in addressing this issue."
+}
+
+Chunk:
+complaint regarding incorrect interest charges on balance transfer and violation of vcpa in xx / xx / year >, i initiated a balance transfer with xxxx for { $ 15000. 00 }, which i subsequently reduced to { $ 7200. 00 } as evidenced by the attached statement. this amount was designated to accrue no interest according to xxxx. however, in xx / xx / year >, my statement indicated a total balance of { $ 9700. 00 }, including the { $ 7200. 00 } supposedly interest - free. despite making a payment of { $ 4000. 00 } before the due date of xx / xx / year >, i was charged { $ 84. 00 } in interest, which i believe to be inaccurate. i assert that this charge is erroneous, as my statement reflected a payment in full before the due date. i am attaching relevant documents to support my claim. i respectfully request your intervention in rectifying this matter, as it appears that xxxx may be engaging in deceptive practices through their balance transfer program. i am seeking clarification on the interest status of the amounts stated on my statement that xxxx claims do not generate interest. furthermore, it is my contention that xxxx's balance transfer program may be in violation of the virginia consumer protection act ( vcpa ), particularly xxxx ( a ) ( 14 ) concerning deceptive business practices. the discrepancy between the advertised no - interest balance transfer and the actual interest charges applied undermines the transparency of the offer, potentially constituting a " bait and switch'' tactic. i appreciate your prompt attention to this matter and look forward to your timely resolution. thank you for your assistance in addressing this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9964426159858704
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126279,
+  "complaint_id": "9126279",
+  "product": "Credit card",
+  "complaint_what_happened": "I have card accounts on my credit from when I was incarcerated ITS NOT ME THIS IS FRUAD",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "225XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have card accounts on my credit from when I was incarcerated ITS NOT ME THIS IS FRUAD"
+}
+
+Chunk:
+i have card accounts on my credit from when i was incarcerated its not me this is fruad
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9934565424919128
+}

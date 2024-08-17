@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9241687,
+  "complaint_id": "9241687",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a registered security with chase and i have not received principal or interest. Chase did not credit my account via my dividend payment? / payment coupon on the bond. Please do not reply saying anything referring to a credit card agreement this is a notice of default because again I have not received my dividend payment attached to the bond that I received. Per the indenture agreement dated XX/XX/year> between JPMorgan Chase as the issuer and XXXX XXXX XXXX XXXX XXXX as the indenture trustee. Chase has the obligation to duly and punctually pay all principal of and interest on each XXXX. \n\n\nSection XXXX Payment of Principal and Interest. The Issuer covenants and agrees for the benefit of each series of Securities that it will duly and punctually pay or cause to be paid the principal of, and interest on, each of the Securities",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34952",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I have a registered security with chase and i have not received principal or interest. Chase did not credit my account via my dividend payment? / payment coupon on the bond. Please do not reply saying anything referring to a credit card agreement this is a notice of default because again I have not received my dividend payment attached to the bond that I received. Per the indenture agreement dated XX/XX/year> between JPMorgan Chase as the issuer and XXXX XXXX XXXX XXXX XXXX as the indenture trustee. Chase has the obligation to duly and punctually pay all principal of and interest on each XXXX. \n\n\nSection XXXX Payment of Principal and Interest. The Issuer covenants and agrees for the benefit of each series of Securities that it will duly and punctually pay or cause to be paid the principal of, and interest on, each of the Securities"
+}
+
+Chunk:
+i have a registered security with chase and i have not received principal or interest. chase did not credit my account via my dividend payment? / payment coupon on the bond. please do not reply saying anything referring to a credit card agreement this is a notice of default because again i have not received my dividend payment attached to the bond that i received. per the indenture agreement dated xx / xx / year > between jpmorgan chase as the issuer and xxxx xxxx xxxx xxxx xxxx as the indenture trustee. chase has the obligation to duly and punctually pay all principal of and interest on each xxxx. section xxxx payment of principal and interest. the issuer covenants and agrees for the benefit of each series of securities that it will duly and punctually pay or cause to be paid the principal of, and interest on, each of the securities
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983932375907898
+}

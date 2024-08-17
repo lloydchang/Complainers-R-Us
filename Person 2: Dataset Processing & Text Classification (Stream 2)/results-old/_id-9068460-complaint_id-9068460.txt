@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068460,
+  "complaint_id": "9068460",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I ordered XXXX and XXXX XXXXXXXX XXXX  from the XXXX XXXX XXXX and I thought it was a legit business selling the shoes but instead they sent a package to a different address and labeled it as delivered and when I reached out to the company providing photos of my house with address they did not answer me and when I said I would be contacting XXXX XXXX XXXX they starting calling me the XXXX XXXX word. And XXXX XXXX told me to reach out to the shipping carrier or my bank",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "15136",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX I ordered XXXX and XXXX XXXXXXXX XXXX  from the XXXX XXXX XXXX and I thought it was a legit business selling the shoes but instead they sent a package to a different address and labeled it as delivered and when I reached out to the company providing photos of my house with address they did not answer me and when I said I would be contacting XXXX XXXX XXXX they starting calling me the XXXX XXXX word. And XXXX XXXX told me to reach out to the shipping carrier or my bank"
+}
+
+Chunk:
+on xx / xx / xxxx i ordered xxxx and xxxx xxxxxxxx xxxx from the xxxx xxxx xxxx and i thought it was a legit business selling the shoes but instead they sent a package to a different address and labeled it as delivered and when i reached out to the company providing photos of my house with address they did not answer me and when i said i would be contacting xxxx xxxx xxxx they starting calling me the xxxx xxxx word. and xxxx xxxx told me to reach out to the shipping carrier or my bank
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986833930015564
+}

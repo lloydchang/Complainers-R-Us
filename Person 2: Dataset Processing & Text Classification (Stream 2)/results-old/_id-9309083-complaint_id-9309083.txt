@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9309083,
+  "complaint_id": "9309083",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX there were some charges XX/XX/year> for {$860.00} and additional charges on XX/XX/XXXX & XXXX on my account for XXXX. Once I received the statement I saw that there were some credits from XXXX of {$1500.00} as soon as I see this I called to dispute because I don't own anything XXXX. My card was closed and provisional credits were issued by Ally, I received a new card and about then on my XXXX statement there were {$400.00} worth of charges placed back on my account as a Lost/Stolen transfer adjustment from Ally, along with XXXX charges totaling {$790.00}. Again, I do not do business with XXXX. I have called them repeatedly over the last few months to solve the issue and all I have been getting is that these are legitimate and the credits were issued and that they will escalate. I have been waiting over 2 months for a manager from Dispute to call me back. I called again and I don't get an explanation just that it is correct XXXX.I am seeking full explanation!!! from my calculations there are a total of {$2400.00} in charges ( which are fraudulent ) and credits {$1900.00} with me still being due a credit of {$560.00}. \n\nI have been calling since XXXX to get this explanation and still to this date they escalate and no one calls me back and is willing to go over each line with explanation. If they dnt want to handle they just transfer you all of the place and is not seeking any resolve",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27591",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX there were some charges XX/XX/year> for {$860.00} and additional charges on XX/XX/XXXX & XXXX on my account for XXXX. Once I received the statement I saw that there were some credits from XXXX of {$1500.00} as soon as I see this I called to dispute because I don't own anything XXXX. My card was closed and provisional credits were issued by Ally, I received a new card and about then on my XXXX statement there were {$400.00} worth of charges placed back on my account as a Lost/Stolen transfer adjustment from Ally, along with XXXX charges totaling {$790.00}. Again, I do not do business with XXXX. I have called them repeatedly over the last few months to solve the issue and all I have been getting is that these are legitimate and the credits were issued and that they will escalate. I have been waiting over 2 months for a manager from Dispute to call me back. I called again and I don't get an explanation just that it is correct XXXX.I am seeking full explanation!!! from my calculations there are a total of {$2400.00} in charges ( which are fraudulent ) and credits {$1900.00} with me still being due a credit of {$560.00}. \n\nI have been calling since XXXX to get this explanation and still to this date they escalate and no one calls me back and is willing to go over each line with explanation. If they dnt want to handle they just transfer you all of the place and is not seeking any resolve"
+}
+
+Chunk:
+in xxxx there were some charges xx / xx / year > for { $ 860. 00 } and additional charges on xx / xx / xxxx & xxxx on my account for xxxx. once i received the statement i saw that there were some credits from xxxx of { $ 1500. 00 } as soon as i see this i called to dispute because i don't own anything xxxx. my card was closed and provisional credits were issued by ally, i received a new card and about then on my xxxx statement there were { $ 400. 00 } worth of charges placed back on my account as a lost / stolen transfer adjustment from ally, along with xxxx charges totaling { $ 790. 00 }. again, i do not do business with xxxx. i have called them repeatedly over the last few months to solve the issue and all i have been getting is that these are legitimate and the credits were issued and that they will escalate. i have been waiting over 2 months for a manager from dispute to call me back. i called again and i don't get an explanation just that it is correct xxxx. i am seeking full explanation!!! from my calculations there are a total of { $ 2400. 00 } in charges ( which are fraudulent ) and credits { $ 1900. 00 } with me still being due a credit of { $ 560. 00 }. i have been calling since xxxx to get this explanation and still to this date they escalate and no one calls me back and is willing to go over each line with explanation. if they dnt want to handle they just transfer you all of the place and is not seeking any resolve
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995933175086975
+}

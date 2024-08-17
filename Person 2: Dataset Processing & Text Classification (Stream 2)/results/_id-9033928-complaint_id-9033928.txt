@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9033928,
+  "complaint_id": "9033928",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally lodge a complaint against Amazon Store Credit Card regarding an unjustified and detrimental reduction in my credit limit on my Amazon credit card. \n\nOn XX/XX/year> I attempted to make a purchase using my Amazon credit card. Prior to this transaction, I had over {$1000.00} in available credit. To my surprise, I was unable to complete the purchase due to an insufficient credit limit. Shortly thereafter, I received a letter notifying me that my credit limit had been significantly reduced. \n\nThis reduction occurred without any prior warning or justification provided. I believe this action was taken in retaliation for my decision to pay only the minimum amount due on my credit card balance in recent months. This punitive measure appears to be an attempt to coerce me into paying more than the minimum amount, despite my compliance with the terms and conditions of the credit agreement. \n\nThe reduction in my credit limit will have a severe negative impact on my credit score by increasing my credit utilization ratio. This, in turn, could affect my ability to obtain credit in the future, secure favorable interest rates, and maintain my financial stability. I consider this unjustified action a form of slander, as it misrepresents my creditworthiness and financial responsibility. \n\n**Requested Resolution : ** 1. Immediate reinstatement of my previous credit limit.\n\n2. A review of Amazons policies and practices to ensure compliance with fair lending standards and consumer protection laws.\n\nI appreciate your prompt attention to this matter and look forward to a resolution that restores my financial standing and prevents further harm to my credit score.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "98312",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I am writing to formally lodge a complaint against Amazon Store Credit Card regarding an unjustified and detrimental reduction in my credit limit on my Amazon credit card. \n\nOn XX/XX/year> I attempted to make a purchase using my Amazon credit card. Prior to this transaction, I had over {$1000.00} in available credit. To my surprise, I was unable to complete the purchase due to an insufficient credit limit. Shortly thereafter, I received a letter notifying me that my credit limit had been significantly reduced. \n\nThis reduction occurred without any prior warning or justification provided. I believe this action was taken in retaliation for my decision to pay only the minimum amount due on my credit card balance in recent months. This punitive measure appears to be an attempt to coerce me into paying more than the minimum amount, despite my compliance with the terms and conditions of the credit agreement. \n\nThe reduction in my credit limit will have a severe negative impact on my credit score by increasing my credit utilization ratio. This, in turn, could affect my ability to obtain credit in the future, secure favorable interest rates, and maintain my financial stability. I consider this unjustified action a form of slander, as it misrepresents my creditworthiness and financial responsibility. \n\n**Requested Resolution : ** 1. Immediate reinstatement of my previous credit limit.\n\n2. A review of Amazons policies and practices to ensure compliance with fair lending standards and consumer protection laws.\n\nI appreciate your prompt attention to this matter and look forward to a resolution that restores my financial standing and prevents further harm to my credit score."
+}
+
+Chunk:
+i am writing to formally lodge a complaint against amazon store credit card regarding an unjustified and detrimental reduction in my credit limit on my amazon credit card. on xx / xx / year > i attempted to make a purchase using my amazon credit card. prior to this transaction, i had over { $ 1000. 00 } in available credit. to my surprise, i was unable to complete the purchase due to an insufficient credit limit. shortly thereafter, i received a letter notifying me that my credit limit had been significantly reduced. this reduction occurred without any prior warning or justification provided. i believe this action was taken in retaliation for my decision to pay only the minimum amount due on my credit card balance in recent months. this punitive measure appears to be an attempt to coerce me into paying more than the minimum amount, despite my compliance with the terms and conditions of the credit agreement. the reduction in my credit limit will have a severe negative impact on my credit score by increasing my credit utilization ratio. this, in turn, could affect my ability to obtain credit in the future, secure favorable interest rates, and maintain my financial stability. i consider this unjustified action a form of slander, as it misrepresents my creditworthiness and financial responsibility. * * requested resolution : * * 1. immediate reinstatement of my previous credit limit. 2. a review of amazons policies and practices to ensure compliance with fair lending standards and consumer protection laws. i appreciate your prompt attention to this matter and look forward to a resolution that restores my financial standing and prevents further harm to my credit score.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.987228512763977
+}

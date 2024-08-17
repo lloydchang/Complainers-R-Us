@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9079356,
+  "complaint_id": "9079356",
+  "product": "Credit card",
+  "complaint_what_happened": "I supposedly made a purchase through a page called XXXX on XX/XX/2023 for an amount of {$210.00} from my Apple Goldman Sachs credit card. \n\nI don't know about this transaction",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32256",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I supposedly made a purchase through a page called XXXX on XX/XX/2023 for an amount of {$210.00} from my Apple Goldman Sachs credit card. \n\nI don't know about this transaction"
+}
+
+Chunk:
+i supposedly made a purchase through a page called xxxx on xx / xx / 2023 for an amount of { $ 210. 00 } from my apple goldman sachs credit card. i don't know about this transaction
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974777102470398
+}

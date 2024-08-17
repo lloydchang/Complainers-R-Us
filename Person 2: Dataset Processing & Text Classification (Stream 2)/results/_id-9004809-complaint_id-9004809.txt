@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9004809,
+  "complaint_id": "9004809",
+  "product": "Credit card",
+  "complaint_what_happened": "I have done pre approval applications and regular applications through Capital One which are all denying as \" Based on your Pre-Approval form information, we observed activity on a prior Capital One account that is not consistent with our expectations for account usage or the terms of the account agreement '' - I do not have any capital one accounts other than an auto loan which I obtained in XX/XX/year> with no issue and has never been late. I have previous issues with fraudulent capital one accounts many years ago, one of which was closed due to fraud and the other account they would not close even though it was opened at the same time and with the same information as the fraudulent account. With that being said both of those cards are entirely too old to be effecting me obtaining a credit card according to FCRA guide lines. There is also no outstanding or negative capital one accounts on my credit. I believe Capital One is denying me without reason and against my rights as a consumer.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "15317",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I have done pre approval applications and regular applications through Capital One which are all denying as \" Based on your Pre-Approval form information, we observed activity on a prior Capital One account that is not consistent with our expectations for account usage or the terms of the account agreement '' - I do not have any capital one accounts other than an auto loan which I obtained in XX/XX/year> with no issue and has never been late. I have previous issues with fraudulent capital one accounts many years ago, one of which was closed due to fraud and the other account they would not close even though it was opened at the same time and with the same information as the fraudulent account. With that being said both of those cards are entirely too old to be effecting me obtaining a credit card according to FCRA guide lines. There is also no outstanding or negative capital one accounts on my credit. I believe Capital One is denying me without reason and against my rights as a consumer."
+}
+
+Chunk:
+i have done pre approval applications and regular applications through capital one which are all denying as " based on your pre - approval form information, we observed activity on a prior capital one account that is not consistent with our expectations for account usage or the terms of the account agreement'' - i do not have any capital one accounts other than an auto loan which i obtained in xx / xx / year > with no issue and has never been late. i have previous issues with fraudulent capital one accounts many years ago, one of which was closed due to fraud and the other account they would not close even though it was opened at the same time and with the same information as the fraudulent account. with that being said both of those cards are entirely too old to be effecting me obtaining a credit card according to fcra guide lines. there is also no outstanding or negative capital one accounts on my credit. i believe capital one is denying me without reason and against my rights as a consumer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993603825569153
+}

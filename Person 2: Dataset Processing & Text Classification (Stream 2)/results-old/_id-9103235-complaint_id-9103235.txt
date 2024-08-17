@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9103235,
+  "complaint_id": "9103235",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter in XX/XX/2024 about closing my account. I have recently had multiple fraud transactions on my credit cards and this was XXXX of them. Instead of notifying me of this issue they closed my account due to \" unauthorized activity '' this caused a huge decrease in my credit as well as me not being able to figure out how to resolve the issue. There were was a check payment made and then taken out as if someone tried to take it out before it could be found out but it ended up coming back returned. My balance is now over the limit and I refuse to pay any further amounts owed until this is rectified and the actual amount owed is reflected. I also want this off of my credit and balance it shown as positive paid since they decided to go ahead and send it to my credit as if it was unpaid.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90731",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Company closed your account",
+  "text": "I received a letter in XX/XX/2024 about closing my account. I have recently had multiple fraud transactions on my credit cards and this was XXXX of them. Instead of notifying me of this issue they closed my account due to \" unauthorized activity '' this caused a huge decrease in my credit as well as me not being able to figure out how to resolve the issue. There were was a check payment made and then taken out as if someone tried to take it out before it could be found out but it ended up coming back returned. My balance is now over the limit and I refuse to pay any further amounts owed until this is rectified and the actual amount owed is reflected. I also want this off of my credit and balance it shown as positive paid since they decided to go ahead and send it to my credit as if it was unpaid."
+}
+
+Chunk:
+i received a letter in xx / xx / 2024 about closing my account. i have recently had multiple fraud transactions on my credit cards and this was xxxx of them. instead of notifying me of this issue they closed my account due to " unauthorized activity'' this caused a huge decrease in my credit as well as me not being able to figure out how to resolve the issue. there were was a check payment made and then taken out as if someone tried to take it out before it could be found out but it ended up coming back returned. my balance is now over the limit and i refuse to pay any further amounts owed until this is rectified and the actual amount owed is reflected. i also want this off of my credit and balance it shown as positive paid since they decided to go ahead and send it to my credit as if it was unpaid.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998878538608551
+}

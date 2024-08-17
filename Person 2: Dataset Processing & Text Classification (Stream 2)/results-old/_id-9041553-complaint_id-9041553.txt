@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041553,
+  "complaint_id": "9041553",
+  "product": "Credit card",
+  "complaint_what_happened": "I have received XXXX different requests from BANK OF AMERICA saying that someone from Texas is trying to use my information to open a credit card account. I do not live in Texas, and have never visited there. I told them to cancel the card application. On the second call from BANK OF AMERICA, today, ( XX/XX/XXXX ) they provided the same information, and then supposedly connected me with \" XXXX XXXX '' at your agency. I also told BANK OF AMERICA to cancel the second card application. I questioned the phone transfer to XXXX XXXX... and I still question it, which is why I am submitting this report. XXXX could quote which cards, and name which institutions I bank with in my credit report, so I am suspicious. \n\nNeither phone number that BANK OF AMERICA used to contact me appeared on my Caller ID with their identification, so that is also suspicious. \n\nI am a senior citizen, now home-bound, XXXX from birth who only collects Social Security . I rely on my credit cards to survive. The balances are high on all of them, but I have not missed payments on them in years. \n\n\" XXXX XXXX '' who has a foreign accent claimed he could eliminate interest charges on several cards of mine. I told him I rely on the cards to survive, but I have not applied for any new cards recently, and I want my credit watched so no one can open new accounts in my name. I also said I want NO new credit cards, but I also do not want any of my existing accounts closed. \n\nHe provided me with your agency 's phone number and his extension, saying he would phone me again on XX/XX/XXXX. \n\nI'm contacting you in this manner because I am skeptical of both contacts, \" XXXX '' and BANK OF AMERICA, and want my existing credit and my name protected by the various government agencies that do this. \n\nThank you, XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21040",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have received XXXX different requests from BANK OF AMERICA saying that someone from Texas is trying to use my information to open a credit card account. I do not live in Texas, and have never visited there. I told them to cancel the card application. On the second call from BANK OF AMERICA, today, ( XX/XX/XXXX ) they provided the same information, and then supposedly connected me with \" XXXX XXXX '' at your agency. I also told BANK OF AMERICA to cancel the second card application. I questioned the phone transfer to XXXX XXXX... and I still question it, which is why I am submitting this report. XXXX could quote which cards, and name which institutions I bank with in my credit report, so I am suspicious. \n\nNeither phone number that BANK OF AMERICA used to contact me appeared on my Caller ID with their identification, so that is also suspicious. \n\nI am a senior citizen, now home-bound, XXXX from birth who only collects Social Security . I rely on my credit cards to survive. The balances are high on all of them, but I have not missed payments on them in years. \n\n\" XXXX XXXX '' who has a foreign accent claimed he could eliminate interest charges on several cards of mine. I told him I rely on the cards to survive, but I have not applied for any new cards recently, and I want my credit watched so no one can open new accounts in my name. I also said I want NO new credit cards, but I also do not want any of my existing accounts closed. \n\nHe provided me with your agency 's phone number and his extension, saying he would phone me again on XX/XX/XXXX. \n\nI'm contacting you in this manner because I am skeptical of both contacts, \" XXXX '' and BANK OF AMERICA, and want my existing credit and my name protected by the various government agencies that do this. \n\nThank you, XXXX XXXX XXXX"
+}
+
+Chunk:
+i have received xxxx different requests from bank of america saying that someone from texas is trying to use my information to open a credit card account. i do not live in texas, and have never visited there. i told them to cancel the card application. on the second call from bank of america, today, ( xx / xx / xxxx ) they provided the same information, and then supposedly connected me with " xxxx xxxx'' at your agency. i also told bank of america to cancel the second card application. i questioned the phone transfer to xxxx xxxx... and i still question it, which is why i am submitting this report. xxxx could quote which cards, and name which institutions i bank with in my credit report, so i am suspicious. neither phone number that bank of america used to contact me appeared on my caller id with their identification, so that is also suspicious. i am a senior citizen, now home - bound, xxxx from birth who only collects social security. i rely on my credit cards to survive. the balances are high on all of them, but i have not missed payments on them in years. " xxxx xxxx'' who has a foreign accent claimed he could eliminate interest charges on several cards of mine. i told him i rely on the cards to survive, but i have not applied for any new cards recently, and i want my credit watched so no one can open new accounts in my name. i also said i want no new credit cards, but i also do not want any of my existing accounts closed. he provided me with your agency's phone number and his extension, saying he would phone me again on xx / xx / xxxx. i'm contacting you in this manner because i am skeptical of both contacts, " xxxx'' and bank of america, and want my existing credit and my name protected by the various government agencies that do this. thank you, xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971762895584106
+}

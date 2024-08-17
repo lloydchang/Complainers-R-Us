@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083982,
+  "complaint_id": "9083982",
+  "product": "Credit card",
+  "complaint_what_happened": "I had fraudulent purchases made on my XXXX account for tickets I did not authorize. \nMy XXXX account was hacked and they used my credit card that was linked to the account. \nI received an email about the purchases and mediately contacted my credit card company and XXXX. \nMy credit card company took the charges off. XXXX cancelled my account and sent me an email stating that I would not be responsible for any fraudulent purchases. \nThree months later after my credit card company did a fraud investigation, when they contacted XXXX, XXXX told my credit card company that the charges were valid. \nWhen I contacted XXXX they told me I would have to tell my credit card company to resubmit the dispute. \nWhen I contacted my credit card company, they refused to resubmit the dispute. \nWhen I did a XXXX search, I find that this has happed to many XXXX accounts",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95401",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I had fraudulent purchases made on my XXXX account for tickets I did not authorize. \nMy XXXX account was hacked and they used my credit card that was linked to the account. \nI received an email about the purchases and mediately contacted my credit card company and XXXX. \nMy credit card company took the charges off. XXXX cancelled my account and sent me an email stating that I would not be responsible for any fraudulent purchases. \nThree months later after my credit card company did a fraud investigation, when they contacted XXXX, XXXX told my credit card company that the charges were valid. \nWhen I contacted XXXX they told me I would have to tell my credit card company to resubmit the dispute. \nWhen I contacted my credit card company, they refused to resubmit the dispute. \nWhen I did a XXXX search, I find that this has happed to many XXXX accounts"
+}
+
+Chunk:
+i had fraudulent purchases made on my xxxx account for tickets i did not authorize. my xxxx account was hacked and they used my credit card that was linked to the account. i received an email about the purchases and mediately contacted my credit card company and xxxx. my credit card company took the charges off. xxxx cancelled my account and sent me an email stating that i would not be responsible for any fraudulent purchases. three months later after my credit card company did a fraud investigation, when they contacted xxxx, xxxx told my credit card company that the charges were valid. when i contacted xxxx they told me i would have to tell my credit card company to resubmit the dispute. when i contacted my credit card company, they refused to resubmit the dispute. when i did a xxxx search, i find that this has happed to many xxxx accounts
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976123571395874
+}

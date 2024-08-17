@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9089007,
+  "complaint_id": "9089007",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been with navy federal for over 4 years. I started this credit card as secured credit and they eventually turned it into a regular credit card. I missed two payments, well the payments were late, because one payment had returned. This was XXXX XXXX... The account was brought current in XXXX and I was able to use it, It has since been current and this month in XXXX, Navy Federal closed my account without notifying me. Again I had two late payments because I was out on XXXX from my job and was dealing with medical problems. \n\nThis is not ethical to do, the account was current in XXXX and was in use, now in XXXX the account is still current and they close it ...... \n\nAlso two years ago with this same account, there was a fraudulent charge on the account from a rental car agency and I disputed and they never gave me money back and I had to pay over XXXX on the card, which I did because I'm a loyal customer to this financial institution.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "191XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Company closed your account",
+  "text": "I have been with navy federal for over 4 years. I started this credit card as secured credit and they eventually turned it into a regular credit card. I missed two payments, well the payments were late, because one payment had returned. This was XXXX XXXX... The account was brought current in XXXX and I was able to use it, It has since been current and this month in XXXX, Navy Federal closed my account without notifying me. Again I had two late payments because I was out on XXXX from my job and was dealing with medical problems. \n\nThis is not ethical to do, the account was current in XXXX and was in use, now in XXXX the account is still current and they close it ...... \n\nAlso two years ago with this same account, there was a fraudulent charge on the account from a rental car agency and I disputed and they never gave me money back and I had to pay over XXXX on the card, which I did because I'm a loyal customer to this financial institution."
+}
+
+Chunk:
+i have been with navy federal for over 4 years. i started this credit card as secured credit and they eventually turned it into a regular credit card. i missed two payments, well the payments were late, because one payment had returned. this was xxxx xxxx... the account was brought current in xxxx and i was able to use it, it has since been current and this month in xxxx, navy federal closed my account without notifying me. again i had two late payments because i was out on xxxx from my job and was dealing with medical problems. this is not ethical to do, the account was current in xxxx and was in use, now in xxxx the account is still current and they close it...... also two years ago with this same account, there was a fraudulent charge on the account from a rental car agency and i disputed and they never gave me money back and i had to pay over xxxx on the card, which i did because i'm a loyal customer to this financial institution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971062541007996
+}

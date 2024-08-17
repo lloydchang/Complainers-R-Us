@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9093817,
+  "complaint_id": "9093817",
+  "product": "Credit card",
+  "complaint_what_happened": "# # Complaint to Consumer Financial Protection Bureau ( CFPB ) **Subject : Incomplete Foreign Transaction Refunds** Dear CFPB, I am writing to file a complaint regarding incomplete refunds for foreign transactions processed through my account at Alliant Credit Union . \n\nIssue : On multiple occasions, I have received refunds for foreign transactions that were less than the original charge amount. This issue occurs consistently with all foreign refunds, regardless of the date ( including same-day transactions ) or the country involved. The consistent difference between the original charge and the refunded amount suggests a fixed fee, not a foreign currency exchange fluctuation. According to Alliant Credit Union 's policy, they do not charge a fee for foreign currency exchange on refunds. \n\nSpecific Example : Transaction Date : XX/XX/year>2024 ( Settlement Date : XX/XX/year>2024 ) Merchant : XXXX XXXX ( XXXX ) Location : XXXX, XXXX ( XXXX ) Original Charge : {$6.00} Refund Received : {$6.00} Suspected Cause : Alliant Credit Union may be retaining a fixed fee on refunded foreign transactions, which is not disclosed in their policy. Alliant said the merchants are not returning the full funds. I contacted all merchants involved, and the merchants confirmed issuing full refunds for the original purchase amounts.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLIANT CREDIT UNION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "# # Complaint to Consumer Financial Protection Bureau ( CFPB ) **Subject : Incomplete Foreign Transaction Refunds** Dear CFPB, I am writing to file a complaint regarding incomplete refunds for foreign transactions processed through my account at Alliant Credit Union . \n\nIssue : On multiple occasions, I have received refunds for foreign transactions that were less than the original charge amount. This issue occurs consistently with all foreign refunds, regardless of the date ( including same-day transactions ) or the country involved. The consistent difference between the original charge and the refunded amount suggests a fixed fee, not a foreign currency exchange fluctuation. According to Alliant Credit Union 's policy, they do not charge a fee for foreign currency exchange on refunds. \n\nSpecific Example : Transaction Date : XX/XX/year>2024 ( Settlement Date : XX/XX/year>2024 ) Merchant : XXXX XXXX ( XXXX ) Location : XXXX, XXXX ( XXXX ) Original Charge : {$6.00} Refund Received : {$6.00} Suspected Cause : Alliant Credit Union may be retaining a fixed fee on refunded foreign transactions, which is not disclosed in their policy. Alliant said the merchants are not returning the full funds. I contacted all merchants involved, and the merchants confirmed issuing full refunds for the original purchase amounts."
+}
+
+Chunk:
+# # complaint to consumer financial protection bureau ( cfpb ) * * subject : incomplete foreign transaction refunds * * dear cfpb, i am writing to file a complaint regarding incomplete refunds for foreign transactions processed through my account at alliant credit union. issue : on multiple occasions, i have received refunds for foreign transactions that were less than the original charge amount. this issue occurs consistently with all foreign refunds, regardless of the date ( including same - day transactions ) or the country involved. the consistent difference between the original charge and the refunded amount suggests a fixed fee, not a foreign currency exchange fluctuation. according to alliant credit union's policy, they do not charge a fee for foreign currency exchange on refunds. specific example : transaction date : xx / xx / year > 2024 ( settlement date : xx / xx / year > 2024 ) merchant : xxxx xxxx ( xxxx ) location : xxxx, xxxx ( xxxx ) original charge : { $ 6. 00 } refund received : { $ 6. 00 } suspected cause : alliant credit union may be retaining a fixed fee on refunded foreign transactions, which is not disclosed in their policy. alliant said the merchants are not returning the full funds. i contacted all merchants involved, and the merchants confirmed issuing full refunds for the original purchase amounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9957583546638489
+}

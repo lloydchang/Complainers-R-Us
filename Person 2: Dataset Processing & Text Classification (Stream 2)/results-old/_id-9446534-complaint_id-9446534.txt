@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9446534,
+  "complaint_id": "9446534",
+  "product": "Credit card",
+  "complaint_what_happened": "I ordered what I thought were authentic XXXX XXXX XXXXs from XXXX, and received counterfeit shoes. I sent Barclays everything I had, which includes the conversation I had with the seller. I faxed the information twice, and spoke to three representatives over a 2 week period. These documents include the vendor offering a XXXXXXXX XXXX refund for their XXXX XXXX \n\nThey closed my case and told me they had no evidence of fraud. I still have the messages from the vendor. Barclays is a terrible company, and this is the second time I have had to report them to get them to do their job. I would close my credit card if it wouldnt hurt my credit score.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "87505",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "NM",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I ordered what I thought were authentic XXXX XXXX XXXXs from XXXX, and received counterfeit shoes. I sent Barclays everything I had, which includes the conversation I had with the seller. I faxed the information twice, and spoke to three representatives over a 2 week period. These documents include the vendor offering a XXXXXXXX XXXX refund for their XXXX XXXX \n\nThey closed my case and told me they had no evidence of fraud. I still have the messages from the vendor. Barclays is a terrible company, and this is the second time I have had to report them to get them to do their job. I would close my credit card if it wouldnt hurt my credit score."
+}
+
+Chunk:
+i ordered what i thought were authentic xxxx xxxx xxxxs from xxxx, and received counterfeit shoes. i sent barclays everything i had, which includes the conversation i had with the seller. i faxed the information twice, and spoke to three representatives over a 2 week period. these documents include the vendor offering a xxxxxxxx xxxx refund for their xxxx xxxx they closed my case and told me they had no evidence of fraud. i still have the messages from the vendor. barclays is a terrible company, and this is the second time i have had to report them to get them to do their job. i would close my credit card if it wouldnt hurt my credit score.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984880685806274
+}

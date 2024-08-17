@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9030811,
+  "complaint_id": "9030811",
+  "product": "Credit card",
+  "complaint_what_happened": "I owe a debt to Bank of America and they are harrassing my mother with phone calls.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98004",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem lowering your monthly payments",
+  "text": "I owe a debt to Bank of America and they are harrassing my mother with phone calls."
+}
+
+Chunk:
+i owe a debt to bank of america and they are harrassing my mother with phone calls.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968408346176147
+}

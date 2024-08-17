@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9026824,
+  "complaint_id": "9026824",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express Ref # XXXX I do not think this is a fair transaction. This company utilized my signature ( receivable ) and transferred it into a security. To which this company continues to make a profit on by trading it on the market. Is this why you can not retract my application? I did not receive the charge card that I applied for. Your reason for denial was my XXXX score. Per your perspective filed with the SEC it states you cant verify a XXXX 's score accuracy, so how then can you in turn deny me for this charge card? \n\n\nThe response provided by American express and I quote \" An evaluation of your application was conducted and unfortunately our decline decision remains based on your XXXX score. '' Again this goes against your Prospective filed with the SEC. I think they should be notified that you do not live up to your prospective.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30215",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "American Express Ref # XXXX I do not think this is a fair transaction. This company utilized my signature ( receivable ) and transferred it into a security. To which this company continues to make a profit on by trading it on the market. Is this why you can not retract my application? I did not receive the charge card that I applied for. Your reason for denial was my XXXX score. Per your perspective filed with the SEC it states you cant verify a XXXX 's score accuracy, so how then can you in turn deny me for this charge card? \n\n\nThe response provided by American express and I quote \" An evaluation of your application was conducted and unfortunately our decline decision remains based on your XXXX score. '' Again this goes against your Prospective filed with the SEC. I think they should be notified that you do not live up to your prospective."
+}
+
+Chunk:
+american express ref # xxxx i do not think this is a fair transaction. this company utilized my signature ( receivable ) and transferred it into a security. to which this company continues to make a profit on by trading it on the market. is this why you can not retract my application? i did not receive the charge card that i applied for. your reason for denial was my xxxx score. per your perspective filed with the sec it states you cant verify a xxxx's score accuracy, so how then can you in turn deny me for this charge card? the response provided by american express and i quote " an evaluation of your application was conducted and unfortunately our decline decision remains based on your xxxx score.'' again this goes against your prospective filed with the sec. i think they should be notified that you do not live up to your prospective.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996174573898315
+}

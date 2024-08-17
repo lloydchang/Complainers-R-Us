@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9069769,
+  "complaint_id": "9069769",
+  "product": "Credit card",
+  "complaint_what_happened": "I paid off my credit card statement in full after realizing Paypal was charging me {$500.00} in interest every month! Once I paid off the card I closed my account. After closing the account Paypal charged me {$2.00} in interest. Because my account was closed and I hadn't new charges on the card, I did not owe them {$2.00} in interest, that was their mistake to correct. Over a month later they charge me a {$30.00} late for for not paying the {$2.00} in interest! Now I'm getting a call almost weekly stating that \" this is an attempt to collect a debt '' I don't owe you anything my credit card is closed. Please return the balance to XXXX  and leave me alone.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "229XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I paid off my credit card statement in full after realizing Paypal was charging me {$500.00} in interest every month! Once I paid off the card I closed my account. After closing the account Paypal charged me {$2.00} in interest. Because my account was closed and I hadn't new charges on the card, I did not owe them {$2.00} in interest, that was their mistake to correct. Over a month later they charge me a {$30.00} late for for not paying the {$2.00} in interest! Now I'm getting a call almost weekly stating that \" this is an attempt to collect a debt '' I don't owe you anything my credit card is closed. Please return the balance to XXXX  and leave me alone."
+}
+
+Chunk:
+i paid off my credit card statement in full after realizing paypal was charging me { $ 500. 00 } in interest every month! once i paid off the card i closed my account. after closing the account paypal charged me { $ 2. 00 } in interest. because my account was closed and i hadn't new charges on the card, i did not owe them { $ 2. 00 } in interest, that was their mistake to correct. over a month later they charge me a { $ 30. 00 } late for for not paying the { $ 2. 00 } in interest! now i'm getting a call almost weekly stating that " this is an attempt to collect a debt'' i don't owe you anything my credit card is closed. please return the balance to xxxx and leave me alone.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993626475334167
+}

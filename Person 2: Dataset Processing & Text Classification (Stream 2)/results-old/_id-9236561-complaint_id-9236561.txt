@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9236561,
+  "complaint_id": "9236561",
+  "product": "Credit card",
+  "complaint_what_happened": "This is in reference to case number XXXX. The response I received was unsatisfactory and violates several key provisions outlined in federal law, including the Fair Credit Reporting Act ( FCRA ) and the CFPB Complaint Process. I'm asking this get removed from my credit report and the CFPB does their due diligence. \n\nUnder the Fair Credit Reporting Act ( 15 U.S. Code 1681s-2 ( b ) ), furnishers of information to credit bureaus, such as XXXX and TD Retail Card Services, are required to investigate disputes and provide evidence to the consumer if their investigation finds that the disputed information is accurate. Moreover, the CFPB Complaint Process mandates that when a complaint is filed, the company must respond and provide supporting documents to both the CFPB and the consumer. This includes addressing specific allegations made by the consumer, such as the failure to send payment notifications. \n\nDespite these requirements, I have received no supporting documents or evidence that the disputed information was accurate. Below is my second letter to TD Retail Card Services, which explicitly calls out the statutes and regulations governing the response and documentation requirements.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "Store credit card",
+  "zip_code": "20016",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "This is in reference to case number XXXX. The response I received was unsatisfactory and violates several key provisions outlined in federal law, including the Fair Credit Reporting Act ( FCRA ) and the CFPB Complaint Process. I'm asking this get removed from my credit report and the CFPB does their due diligence. \n\nUnder the Fair Credit Reporting Act ( 15 U.S. Code 1681s-2 ( b ) ), furnishers of information to credit bureaus, such as XXXX and TD Retail Card Services, are required to investigate disputes and provide evidence to the consumer if their investigation finds that the disputed information is accurate. Moreover, the CFPB Complaint Process mandates that when a complaint is filed, the company must respond and provide supporting documents to both the CFPB and the consumer. This includes addressing specific allegations made by the consumer, such as the failure to send payment notifications. \n\nDespite these requirements, I have received no supporting documents or evidence that the disputed information was accurate. Below is my second letter to TD Retail Card Services, which explicitly calls out the statutes and regulations governing the response and documentation requirements."
+}
+
+Chunk:
+this is in reference to case number xxxx. the response i received was unsatisfactory and violates several key provisions outlined in federal law, including the fair credit reporting act ( fcra ) and the cfpb complaint process. i'm asking this get removed from my credit report and the cfpb does their due diligence. under the fair credit reporting act ( 15 u. s. code 1681s - 2 ( b ) ), furnishers of information to credit bureaus, such as xxxx and td retail card services, are required to investigate disputes and provide evidence to the consumer if their investigation finds that the disputed information is accurate. moreover, the cfpb complaint process mandates that when a complaint is filed, the company must respond and provide supporting documents to both the cfpb and the consumer. this includes addressing specific allegations made by the consumer, such as the failure to send payment notifications. despite these requirements, i have received no supporting documents or evidence that the disputed information was accurate. below is my second letter to td retail card services, which explicitly calls out the statutes and regulations governing the response and documentation requirements.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989880919456482
+}

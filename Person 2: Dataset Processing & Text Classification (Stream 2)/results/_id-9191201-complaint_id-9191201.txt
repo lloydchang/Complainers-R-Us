@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191201,
+  "complaint_id": "9191201",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year>, XXXX PDT XXXX XXXXr , Thank you for choosing Upgrade! \n\nWe are requesting documents related to the following Upgrade Card dispute ( s ) you initiated on XX/XX/year>. \n\n\nDate Merchant Name Transaction Amount Disputed Amount XX/XX/year> XXXX XXXX {$1800.00} {$1800.00} I disputed it and they rejected my claim and I did not do it",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Upgrade, Inc.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/year>, XXXX PDT XXXX XXXXr , Thank you for choosing Upgrade! \n\nWe are requesting documents related to the following Upgrade Card dispute ( s ) you initiated on XX/XX/year>. \n\n\nDate Merchant Name Transaction Amount Disputed Amount XX/XX/year> XXXX XXXX {$1800.00} {$1800.00} I disputed it and they rejected my claim and I did not do it"
+}
+
+Chunk:
+xx / xx / year >, xxxx pdt xxxx xxxxr, thank you for choosing upgrade! we are requesting documents related to the following upgrade card dispute ( s ) you initiated on xx / xx / year >. date merchant name transaction amount disputed amount xx / xx / year > xxxx xxxx { $ 1800. 00 } { $ 1800. 00 } i disputed it and they rejected my claim and i did not do it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991648197174072
+}

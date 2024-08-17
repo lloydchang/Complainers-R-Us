@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9046234,
+  "complaint_id": "9046234",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently my account was closed with Capital One they claimed it was because return on payments even though they checking account they was supposed to be withdrawing funds from had sufficient funds inside of there. They basically closed my account on a error on there system so i called customer care and they told me to reopen a new account so i did that and a couple days later i get a notice saying that account is closed also because it is related to my last account that was closed. \n\nWhy did Customer Care ask me to create a new account if they was just going to close my account, so a hard inquiry was pulled from my credit just for the account to be closed days later. \n\nWhy capital one would treat a loyal customer like this? Been with them for years and balances have always been paid.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06108",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Recently my account was closed with Capital One they claimed it was because return on payments even though they checking account they was supposed to be withdrawing funds from had sufficient funds inside of there. They basically closed my account on a error on there system so i called customer care and they told me to reopen a new account so i did that and a couple days later i get a notice saying that account is closed also because it is related to my last account that was closed. \n\nWhy did Customer Care ask me to create a new account if they was just going to close my account, so a hard inquiry was pulled from my credit just for the account to be closed days later. \n\nWhy capital one would treat a loyal customer like this? Been with them for years and balances have always been paid."
+}
+
+Chunk:
+recently my account was closed with capital one they claimed it was because return on payments even though they checking account they was supposed to be withdrawing funds from had sufficient funds inside of there. they basically closed my account on a error on there system so i called customer care and they told me to reopen a new account so i did that and a couple days later i get a notice saying that account is closed also because it is related to my last account that was closed. why did customer care ask me to create a new account if they was just going to close my account, so a hard inquiry was pulled from my credit just for the account to be closed days later. why capital one would treat a loyal customer like this? been with them for years and balances have always been paid.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999345600605011
+}

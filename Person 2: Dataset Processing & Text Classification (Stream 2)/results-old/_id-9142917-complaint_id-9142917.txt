@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142917,
+  "complaint_id": "9142917",
+  "product": "Credit card",
+  "complaint_what_happened": "On or around XX/XX/XXXX I applied for XXXX separate cards with synchrony bank. One ( secured card ) of which I was approved and another ( amazon store card ) which I was not. Upon approval I attempted to find my debit card in order to make a deposit. When I opened my phone up I had been logged out. Shortly after that I logged back in to the account to try and fund it, but there was no such place to do that. So my first step was to reach out to XXXX, which I did. I spoke with several people who claim to have no idea how to fund the account and said that it was synchrony who I should be speaking with in order to fund my account. Shortly after that I reached out to synchrony and they could see the approval but was unable to fund me on there site which lead me back to XXXX.. who lead me back to synchrony. These people are the worst ... XXXX  should cut ties.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "70802",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "On or around XX/XX/XXXX I applied for XXXX separate cards with synchrony bank. One ( secured card ) of which I was approved and another ( amazon store card ) which I was not. Upon approval I attempted to find my debit card in order to make a deposit. When I opened my phone up I had been logged out. Shortly after that I logged back in to the account to try and fund it, but there was no such place to do that. So my first step was to reach out to XXXX, which I did. I spoke with several people who claim to have no idea how to fund the account and said that it was synchrony who I should be speaking with in order to fund my account. Shortly after that I reached out to synchrony and they could see the approval but was unable to fund me on there site which lead me back to XXXX.. who lead me back to synchrony. These people are the worst ... XXXX  should cut ties."
+}
+
+Chunk:
+on or around xx / xx / xxxx i applied for xxxx separate cards with synchrony bank. one ( secured card ) of which i was approved and another ( amazon store card ) which i was not. upon approval i attempted to find my debit card in order to make a deposit. when i opened my phone up i had been logged out. shortly after that i logged back in to the account to try and fund it, but there was no such place to do that. so my first step was to reach out to xxxx, which i did. i spoke with several people who claim to have no idea how to fund the account and said that it was synchrony who i should be speaking with in order to fund my account. shortly after that i reached out to synchrony and they could see the approval but was unable to fund me on there site which lead me back to xxxx.. who lead me back to synchrony. these people are the worst... xxxx should cut ties.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997782111167908
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263398,
+  "complaint_id": "9263398",
+  "product": "Credit card",
+  "complaint_what_happened": "In late XXXX, I filed a complaint with the XXXX  on Citibank stating that they would not increase my credit limit. Citibank responded saying they have a policy that requires them to wait 6 months. Citibank contacted me to let me know this to which I explained I have already found a competitors credit card and was fine with not getting a limit. The person on the phone informed me that they could reach out to the \" analyst desk '' or \" underwriting team '' to do a second review, but it would require a credit check ( hard inquiry ). \n\nI then received an immediate denial for the same reason as explain before ( no credit limit increases in 6 month ), except now my credit was dinged. \n\nI have asked them continuously, without clarity, as to : 1 ) Why was I offered the option to provide a credit report if it were against Citi policy?\n\n2 ) If Citi did not review my credit report and instead denied me for the 6 month rule, what was the point of provide the credit report? \n\nIt appears that they have penalized me for requesting a credit limit increase despite it being against their own policy, and punishing me, the consumer, for signing off on it AFTER I explained that I already found an alternative. \n\nThe impression the executive response team member indicated was that it would be reviewed, overriding the 6 month rule, but it wasn't. After a back and forth with Citi, Citi closed the case and is refusing to provide further information or clarity. They are also refusing to find a meaningful way to remedy this issue ( i.e. remove the credit report inquiry given they didn't in fact review it since it was against their policy ). \n\nI have tried to work with the company directly to come to an amenable solution and I am now being told that no further communication will commence. I need help please.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20815",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "In late XXXX, I filed a complaint with the XXXX  on Citibank stating that they would not increase my credit limit. Citibank responded saying they have a policy that requires them to wait 6 months. Citibank contacted me to let me know this to which I explained I have already found a competitors credit card and was fine with not getting a limit. The person on the phone informed me that they could reach out to the \" analyst desk '' or \" underwriting team '' to do a second review, but it would require a credit check ( hard inquiry ). \n\nI then received an immediate denial for the same reason as explain before ( no credit limit increases in 6 month ), except now my credit was dinged. \n\nI have asked them continuously, without clarity, as to : 1 ) Why was I offered the option to provide a credit report if it were against Citi policy?\n\n2 ) If Citi did not review my credit report and instead denied me for the 6 month rule, what was the point of provide the credit report? \n\nIt appears that they have penalized me for requesting a credit limit increase despite it being against their own policy, and punishing me, the consumer, for signing off on it AFTER I explained that I already found an alternative. \n\nThe impression the executive response team member indicated was that it would be reviewed, overriding the 6 month rule, but it wasn't. After a back and forth with Citi, Citi closed the case and is refusing to provide further information or clarity. They are also refusing to find a meaningful way to remedy this issue ( i.e. remove the credit report inquiry given they didn't in fact review it since it was against their policy ). \n\nI have tried to work with the company directly to come to an amenable solution and I am now being told that no further communication will commence. I need help please."
+}
+
+Chunk:
+in late xxxx, i filed a complaint with the xxxx on citibank stating that they would not increase my credit limit. citibank responded saying they have a policy that requires them to wait 6 months. citibank contacted me to let me know this to which i explained i have already found a competitors credit card and was fine with not getting a limit. the person on the phone informed me that they could reach out to the " analyst desk'' or " underwriting team'' to do a second review, but it would require a credit check ( hard inquiry ). i then received an immediate denial for the same reason as explain before ( no credit limit increases in 6 month ), except now my credit was dinged. i have asked them continuously, without clarity, as to : 1 ) why was i offered the option to provide a credit report if it were against citi policy? 2 ) if citi did not review my credit report and instead denied me for the 6 month rule, what was the point of provide the credit report? it appears that they have penalized me for requesting a credit limit increase despite it being against their own policy, and punishing me, the consumer, for signing off on it after i explained that i already found an alternative. the impression the executive response team member indicated was that it would be reviewed, overriding the 6 month rule, but it wasn't. after a back and forth with citi, citi closed the case and is refusing to provide further information or clarity. they are also refusing to find a meaningful way to remedy this issue ( i. e. remove the credit report inquiry given they didn't in fact review it since it was against their policy ). i have tried to work with the company directly to come to an amenable solution and i am now being told that no further communication will commence. i need help please.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996880292892456
+}

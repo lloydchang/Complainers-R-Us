@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154955,
+  "complaint_id": "9154955",
+  "product": "Credit card",
+  "complaint_what_happened": "They froze my card XXXX different times with no explanation except suspected fraud. They didn't explain how they came to that conclusion. I talked to XXXX different customer service people neither of which spoke XXXX very well. Both wouldn't stop talking long enough for me to ask them questions. I ended up closing the card and account because they'll charge me an annual fee and I can't even use the card.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85120",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Avant Holding Company, Inc.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "They froze my card XXXX different times with no explanation except suspected fraud. They didn't explain how they came to that conclusion. I talked to XXXX different customer service people neither of which spoke XXXX very well. Both wouldn't stop talking long enough for me to ask them questions. I ended up closing the card and account because they'll charge me an annual fee and I can't even use the card."
+}
+
+Chunk:
+they froze my card xxxx different times with no explanation except suspected fraud. they didn't explain how they came to that conclusion. i talked to xxxx different customer service people neither of which spoke xxxx very well. both wouldn't stop talking long enough for me to ask them questions. i ended up closing the card and account because they'll charge me an annual fee and i can't even use the card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987741112709045
+}

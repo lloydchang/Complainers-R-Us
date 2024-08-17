@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9162333,
+  "complaint_id": "9162333",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank XXXX credit card has overcharged interest to my account for XXXX consecutive months. Each month I contacted the bank to inquire about the fees, in total XXXX times I called, XXXX of which I was on the call for XXXX minutes with a supervisor with no explanation. \" We're going to research this more. We'll credit the account if we see an overcharge. '' I called XXXX times on XX/XX/year>, once on XX/XX/XXXX, and 3 times on XX/XX/XXXX. \nIn XXXX I was charged {$33.00} on a {$500.00} unpaid balance with an XXXX of 26.49 % In XXXX I was charged {$83.00} on a {$2600.00} unpaid balance. \nIn XXXX in was charged {$78.00} on a {$760.00} unpaid balance. \nAs well as Synchrony did not issue my rewards of {$63.00} for XXXX statement.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91932",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Synchrony Bank XXXX credit card has overcharged interest to my account for XXXX consecutive months. Each month I contacted the bank to inquire about the fees, in total XXXX times I called, XXXX of which I was on the call for XXXX minutes with a supervisor with no explanation. \" We're going to research this more. We'll credit the account if we see an overcharge. '' I called XXXX times on XX/XX/year>, once on XX/XX/XXXX, and 3 times on XX/XX/XXXX. \nIn XXXX I was charged {$33.00} on a {$500.00} unpaid balance with an XXXX of 26.49 % In XXXX I was charged {$83.00} on a {$2600.00} unpaid balance. \nIn XXXX in was charged {$78.00} on a {$760.00} unpaid balance. \nAs well as Synchrony did not issue my rewards of {$63.00} for XXXX statement."
+}
+
+Chunk:
+synchrony bank xxxx credit card has overcharged interest to my account for xxxx consecutive months. each month i contacted the bank to inquire about the fees, in total xxxx times i called, xxxx of which i was on the call for xxxx minutes with a supervisor with no explanation. " we're going to research this more. we'll credit the account if we see an overcharge.'' i called xxxx times on xx / xx / year >, once on xx / xx / xxxx, and 3 times on xx / xx / xxxx. in xxxx i was charged { $ 33. 00 } on a { $ 500. 00 } unpaid balance with an xxxx of 26. 49 % in xxxx i was charged { $ 83. 00 } on a { $ 2600. 00 } unpaid balance. in xxxx in was charged { $ 78. 00 } on a { $ 760. 00 } unpaid balance. as well as synchrony did not issue my rewards of { $ 63. 00 } for xxxx statement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988923668861389
+}

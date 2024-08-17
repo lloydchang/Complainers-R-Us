@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9291793,
+  "complaint_id": "9291793",
+  "product": "Credit card",
+  "complaint_what_happened": "I made charges on my Citibank credit card account ending in XXXX. Citibank accepted those payments. They then locked my card. I then paid off my card in full and they accepted payment on XX/XX/2024. They will now no longer allow me to use the card BUT NEVER TOLD ME SO! They are defrauding me by telling me that they accepted payment yet are failing to allow me to use the card. IN fact, I have tried o use the card and have been damaged din the process while it is being declined.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33458",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I made charges on my Citibank credit card account ending in XXXX. Citibank accepted those payments. They then locked my card. I then paid off my card in full and they accepted payment on XX/XX/2024. They will now no longer allow me to use the card BUT NEVER TOLD ME SO! They are defrauding me by telling me that they accepted payment yet are failing to allow me to use the card. IN fact, I have tried o use the card and have been damaged din the process while it is being declined."
+}
+
+Chunk:
+i made charges on my citibank credit card account ending in xxxx. citibank accepted those payments. they then locked my card. i then paid off my card in full and they accepted payment on xx / xx / 2024. they will now no longer allow me to use the card but never told me so! they are defrauding me by telling me that they accepted payment yet are failing to allow me to use the card. in fact, i have tried o use the card and have been damaged din the process while it is being declined.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979152083396912
+}

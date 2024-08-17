@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9188150,
+  "complaint_id": "9188150",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone open a card in my name in another state which i do not live in.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "344XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Someone open a card in my name in another state which i do not live in."
+}
+
+Chunk:
+someone open a card in my name in another state which i do not live in.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972641468048096
+}

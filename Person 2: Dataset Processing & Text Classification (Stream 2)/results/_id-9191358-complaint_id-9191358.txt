@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191358,
+  "complaint_id": "9191358",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently, I did an investigation on my credit report and found several items on there to be inaccurate. \nUnder 15 U.S. Code 1681e ( b ) Accuracy of report Whenever a consumer reporting agency prepares a consumer report, it shall follow reasonable procedures to assure the maximum possible accuracy of the information concerning the individual about whom the report relates.\n\n15 U.S. Code 1681i ( 5 ) Treatment of inaccurate or unverifiable information ( A ) In general if, after any reinvestigation under paragraph ( 1 ) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or can not be verified, the consumer reporting agency shall-i ) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the the reinvestigation ; and ii ) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer. \nPlease remove the following items from my credit report, immediately :",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91606",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Recently, I did an investigation on my credit report and found several items on there to be inaccurate. \nUnder 15 U.S. Code 1681e ( b ) Accuracy of report Whenever a consumer reporting agency prepares a consumer report, it shall follow reasonable procedures to assure the maximum possible accuracy of the information concerning the individual about whom the report relates.\n\n15 U.S. Code 1681i ( 5 ) Treatment of inaccurate or unverifiable information ( A ) In general if, after any reinvestigation under paragraph ( 1 ) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or can not be verified, the consumer reporting agency shall-i ) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the the reinvestigation ; and ii ) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer. \nPlease remove the following items from my credit report, immediately :"
+}
+
+Chunk:
+recently, i did an investigation on my credit report and found several items on there to be inaccurate. under 15 u. s. code 1681e ( b ) accuracy of report whenever a consumer reporting agency prepares a consumer report, it shall follow reasonable procedures to assure the maximum possible accuracy of the information concerning the individual about whom the report relates. 15 u. s. code 1681i ( 5 ) treatment of inaccurate or unverifiable information ( a ) in general if, after any reinvestigation under paragraph ( 1 ) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or can not be verified, the consumer reporting agency shall - i ) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the the reinvestigation ; and ii ) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer. please remove the following items from my credit report, immediately :
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991291165351868
+}

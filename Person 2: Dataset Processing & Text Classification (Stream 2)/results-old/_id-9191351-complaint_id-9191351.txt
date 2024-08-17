@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191351,
+  "complaint_id": "9191351",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been adversely affected and have had my rights breached and violated. I HAVENOT received a schedule tender offer, nor was I disclosed to XXXX, among other things. I have made multiple attempts, during my administrative process, to contact the servicer ( XXXX XXXX XXXX , National Association ), the issuing entity ( XXXX XXXX  Trust ), and the Indenture Trustee ( XXXX XXXX XXXX XXXX XXXX XXXX ), regarding a Notice of Default for Outstanding Notes, a written notice specifying such default and breaches, and requesting it to be remedied. Also stating, that the interests as a Noteholder are being materially and adversely affected and continue to be materially and adversely affected. I have had my documents returned to me saying \" Not XXXX XXXX 's Mail '' or have had to fax it to serval different departments just for them to say \" they can't help ''. Section 3.9 of the Indenture Agreement states that they are to deliver to the Indenture Trustee. Also, Section 6.11 says the Holder of any Note will have the unconditional right, to receive payment of the principal of and interest on such Note, and to institute suit for the enforcement of any such payment. \n\nThey have Breached/Violated ..... \nRepresentations and Warranties 17 CFR 230.425, 17 CFR 240.14a-12 17 CFR 240.14d-2 17 CFR 240.13e-4 ( c ) Regulation AB Items 1103 ( a ) ( 1 ) Regulation AB Items 1109 ( a ) Regulation AB Items 1109 ( b ) Regulation AB 1117 Regulation AB 1118 Regulation AB 1119 Regulation AB 1122",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32218",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with balance transfer",
+  "text": "I have been adversely affected and have had my rights breached and violated. I HAVENOT received a schedule tender offer, nor was I disclosed to XXXX, among other things. I have made multiple attempts, during my administrative process, to contact the servicer ( XXXX XXXX XXXX , National Association ), the issuing entity ( XXXX XXXX  Trust ), and the Indenture Trustee ( XXXX XXXX XXXX XXXX XXXX XXXX ), regarding a Notice of Default for Outstanding Notes, a written notice specifying such default and breaches, and requesting it to be remedied. Also stating, that the interests as a Noteholder are being materially and adversely affected and continue to be materially and adversely affected. I have had my documents returned to me saying \" Not XXXX XXXX 's Mail '' or have had to fax it to serval different departments just for them to say \" they can't help ''. Section 3.9 of the Indenture Agreement states that they are to deliver to the Indenture Trustee. Also, Section 6.11 says the Holder of any Note will have the unconditional right, to receive payment of the principal of and interest on such Note, and to institute suit for the enforcement of any such payment. \n\nThey have Breached/Violated ..... \nRepresentations and Warranties 17 CFR 230.425, 17 CFR 240.14a-12 17 CFR 240.14d-2 17 CFR 240.13e-4 ( c ) Regulation AB Items 1103 ( a ) ( 1 ) Regulation AB Items 1109 ( a ) Regulation AB Items 1109 ( b ) Regulation AB 1117 Regulation AB 1118 Regulation AB 1119 Regulation AB 1122"
+}
+
+Chunk:
+i have been adversely affected and have had my rights breached and violated. i havenot received a schedule tender offer, nor was i disclosed to xxxx, among other things. i have made multiple attempts, during my administrative process, to contact the servicer ( xxxx xxxx xxxx, national association ), the issuing entity ( xxxx xxxx trust ), and the indenture trustee ( xxxx xxxx xxxx xxxx xxxx xxxx ), regarding a notice of default for outstanding notes, a written notice specifying such default and breaches, and requesting it to be remedied. also stating, that the interests as a noteholder are being materially and adversely affected and continue to be materially and adversely affected. i have had my documents returned to me saying " not xxxx xxxx's mail'' or have had to fax it to serval different departments just for them to say " they can't help''. section 3. 9 of the indenture agreement states that they are to deliver to the indenture trustee. also, section 6. 11 says the holder of any note will have the unconditional right, to receive payment of the principal of and interest on such note, and to institute suit for the enforcement of any such payment. they have breached / violated..... representations and warranties 17 cfr 230. 425, 17 cfr 240. 14a - 12 17 cfr 240. 14d - 2 17 cfr 240. 13e - 4 ( c ) regulation ab items 1103 ( a ) ( 1 ) regulation ab items 1109 ( a ) regulation ab items 1109 ( b ) regulation ab 1117 regulation ab 1118 regulation ab 1119 regulation ab 1122
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970388412475586
+}

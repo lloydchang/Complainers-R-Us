@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9613679,
+  "complaint_id": "9613679",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX offers XXXX  % interest for XXXX  months on purchases over {$50.00} however they do not use the payment to the card on the first bought items. The payment is spread out between all items purchased that are purchased with the XXXX month XXXX  % interest. \n\nFor example if I bought some products with XXXX  % interest in XXXX, 0 % in XXXX, XXXX  % in XXXX and XXXX  % in XXXX, the products bought in XXXX are not credited with payment first. XXXX splits the payment for all products so that XXXX, XXXX, XXXX and XXXX are all getting some payment. If I have a larger purchase in XXXX of {$1000.00} and a smaller purchase in XXXX of {$200.00} it is possible the large XXXX purchase may not be paid off before the XXXX  % interest expires.",
+  "date_sent_to_company": "2024-07-25T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "06010",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-25T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "XXXX offers XXXX  % interest for XXXX  months on purchases over {$50.00} however they do not use the payment to the card on the first bought items. The payment is spread out between all items purchased that are purchased with the XXXX month XXXX  % interest. \n\nFor example if I bought some products with XXXX  % interest in XXXX, 0 % in XXXX, XXXX  % in XXXX and XXXX  % in XXXX, the products bought in XXXX are not credited with payment first. XXXX splits the payment for all products so that XXXX, XXXX, XXXX and XXXX are all getting some payment. If I have a larger purchase in XXXX of {$1000.00} and a smaller purchase in XXXX of {$200.00} it is possible the large XXXX purchase may not be paid off before the XXXX  % interest expires."
+}
+
+Chunk:
+xxxx offers xxxx % interest for xxxx months on purchases over { $ 50. 00 } however they do not use the payment to the card on the first bought items. the payment is spread out between all items purchased that are purchased with the xxxx month xxxx % interest. for example if i bought some products with xxxx % interest in xxxx, 0 % in xxxx, xxxx % in xxxx and xxxx % in xxxx, the products bought in xxxx are not credited with payment first. xxxx splits the payment for all products so that xxxx, xxxx, xxxx and xxxx are all getting some payment. if i have a larger purchase in xxxx of { $ 1000. 00 } and a smaller purchase in xxxx of { $ 200. 00 } it is possible the large xxxx purchase may not be paid off before the xxxx % interest expires.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9963217973709106
+}

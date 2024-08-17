@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9043271,
+  "complaint_id": "9043271",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing in reference to XXXX # XXXX, where I dispute the decision made by Capital One. I accidentally made the reservation on the wrong day and never occupied that room at the referenced hotel. It is not fair for me to pay {$620.00} for a room that I never used, and I am sure that the hotel rented it to another guest. I appreciate your consideration of my situation, and I hope we can come to a favorable resolution for a long-time Capital One customer. \n\nXXXX XXXX capital one credit card number XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33326",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing in reference to XXXX # XXXX, where I dispute the decision made by Capital One. I accidentally made the reservation on the wrong day and never occupied that room at the referenced hotel. It is not fair for me to pay {$620.00} for a room that I never used, and I am sure that the hotel rented it to another guest. I appreciate your consideration of my situation, and I hope we can come to a favorable resolution for a long-time Capital One customer. \n\nXXXX XXXX capital one credit card number XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+i am writing in reference to xxxx # xxxx, where i dispute the decision made by capital one. i accidentally made the reservation on the wrong day and never occupied that room at the referenced hotel. it is not fair for me to pay { $ 620. 00 } for a room that i never used, and i am sure that the hotel rented it to another guest. i appreciate your consideration of my situation, and i hope we can come to a favorable resolution for a long - time capital one customer. xxxx xxxx capital one credit card number xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.5711270570755005
+}

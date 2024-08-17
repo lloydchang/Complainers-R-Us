@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044791,
+  "complaint_id": "9044791",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I opened a credit card from Victoria secrets, managed by bread financial. \nMy initial credit was around {$200.00}. \nI never received my card. But when I opened the account and I was approved, I used my credit. \nThen I got online and set they payment of {$160.00}, by mistake I left a balance without paying, because I thought I set the monthly automated payment. \nThen, the debt reached almost {$700.00}. \nI called and made a payment plan with their customer care center, my intention was to leave the account on {$0.00}. And asked the guy that attended my call to update my mail, so I can stay aware of any notification ; thing that was never done. \nThen I received a notification from my bank that they had marked me as a delinquent, I called because the debt was supposed to be fully paid. And they told me, the guy left {$14.00} that were not paid in all the months I set the payments and it had generated now some new interest and I had a {$180.00} debt, again! \nNow I asked them to reduce the interests because it was never my intention to keep on debt and I am XXXX and had a lot to pay, so they asked me to pay {$110.00}, and days later, I had to pay {$660.00} and wait til to receive my {$000.00} balance to close my account. \nI called to close the account and they told I had a refound of {$210.00}. And that they will give it back to my account, and close my account. \nI though this problem has finally come to an end, and now, I received a {$000.00} statement and that they will continue sending me statements till I pay. \nThe problem its not the XXXX, the real problem is the abuse I had suffered all this time. \nI want them to really close my account! I want nothing to do with them. \nI even want my {$110.00} and the {$6.00} back because I had to pay that because of a mistake made by the person that attended my call!",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "33027",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "On XX/XX/year> I opened a credit card from Victoria secrets, managed by bread financial. \nMy initial credit was around {$200.00}. \nI never received my card. But when I opened the account and I was approved, I used my credit. \nThen I got online and set they payment of {$160.00}, by mistake I left a balance without paying, because I thought I set the monthly automated payment. \nThen, the debt reached almost {$700.00}. \nI called and made a payment plan with their customer care center, my intention was to leave the account on {$0.00}. And asked the guy that attended my call to update my mail, so I can stay aware of any notification ; thing that was never done. \nThen I received a notification from my bank that they had marked me as a delinquent, I called because the debt was supposed to be fully paid. And they told me, the guy left {$14.00} that were not paid in all the months I set the payments and it had generated now some new interest and I had a {$180.00} debt, again! \nNow I asked them to reduce the interests because it was never my intention to keep on debt and I am XXXX and had a lot to pay, so they asked me to pay {$110.00}, and days later, I had to pay {$660.00} and wait til to receive my {$000.00} balance to close my account. \nI called to close the account and they told I had a refound of {$210.00}. And that they will give it back to my account, and close my account. \nI though this problem has finally come to an end, and now, I received a {$000.00} statement and that they will continue sending me statements till I pay. \nThe problem its not the XXXX, the real problem is the abuse I had suffered all this time. \nI want them to really close my account! I want nothing to do with them. \nI even want my {$110.00} and the {$6.00} back because I had to pay that because of a mistake made by the person that attended my call!"
+}
+
+Chunk:
+on xx / xx / year > i opened a credit card from victoria secrets, managed by bread financial. my initial credit was around { $ 200. 00 }. i never received my card. but when i opened the account and i was approved, i used my credit. then i got online and set they payment of { $ 160. 00 }, by mistake i left a balance without paying, because i thought i set the monthly automated payment. then, the debt reached almost { $ 700. 00 }. i called and made a payment plan with their customer care center, my intention was to leave the account on { $ 0. 00 }. and asked the guy that attended my call to update my mail, so i can stay aware of any notification ; thing that was never done. then i received a notification from my bank that they had marked me as a delinquent, i called because the debt was supposed to be fully paid. and they told me, the guy left { $ 14. 00 } that were not paid in all the months i set the payments and it had generated now some new interest and i had a { $ 180. 00 } debt, again! now i asked them to reduce the interests because it was never my intention to keep on debt and i am xxxx and had a lot to pay, so they asked me to pay { $ 110. 00 }, and days later, i had to pay { $ 660. 00 } and wait til to receive my { $ 000. 00 } balance to close my account. i called to close the account and they told i had a refound of { $ 210. 00 }. and that they will give it back to my account, and close my account. i though this problem has finally come to an end, and now, i received a { $ 000. 00 } statement and that they will continue sending me statements till i pay. the problem its not the xxxx, the real problem is the abuse i had suffered all this time. i want them to really close my account! i want nothing to do with them. i even want my { $ 110. 00 } and the { $ 6. 00 } back because i had to pay that because of a mistake made by the person that attended my call!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995205402374268
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9557388,
+  "complaint_id": "9557388",
+  "product": "Credit card",
+  "complaint_what_happened": "My card was used to purchase an item out of State in XXXX XXXX, SC. I have never been to XXXX XXXX. The purchase amount was nearly {$1000.00} l filed a police report and despite the money was not refunded to my account. I also filed a complaint with CFPD previously and received no follow up calls or information. The phone number provided to contact company, XXXX is disconnected",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30157",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My card was used to purchase an item out of State in XXXX XXXX, SC. I have never been to XXXX XXXX. The purchase amount was nearly {$1000.00} l filed a police report and despite the money was not refunded to my account. I also filed a complaint with CFPD previously and received no follow up calls or information. The phone number provided to contact company, XXXX is disconnected"
+}
+
+Chunk:
+my card was used to purchase an item out of state in xxxx xxxx, sc. i have never been to xxxx xxxx. the purchase amount was nearly { $ 1000. 00 } l filed a police report and despite the money was not refunded to my account. i also filed a complaint with cfpd previously and received no follow up calls or information. the phone number provided to contact company, xxxx is disconnected
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995203018188477
+}

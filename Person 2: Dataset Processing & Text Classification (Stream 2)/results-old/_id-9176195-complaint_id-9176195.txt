@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9176195,
+  "complaint_id": "9176195",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXXXXXX XXXX XXXX  XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXX Gift Card XXXX Details - attempt to receive original order XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - only attempt to receive original order XX/XX/XXXX {$100.00} XXXX XXXXXXXX XXXX XXXX XXXX Details -original order, XXXX not received XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - original order not received We used our rewards points on XXXX for XXXX XXXX and XXXX XXXX  and were deducted XXXX and XXXX points. All of the cards were not received. Each attempt ( call or chat ) was treated as an additional use of rewards points for additional cards. Ultimately, the original ordered gift cards were received but not ones listed on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX. Those were not orders of cards just attempts to correct issues. We are owed XXXX points and Barclay clearly doesn't want to correct the issue or are incompetent.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34119",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXXXXXX XXXX XXXX  XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - attempt to correct points XX/XX/XXXX {$100.00} XXXX XXXX Gift Card XXXX Details - attempt to receive original order XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - only attempt to receive original order XX/XX/XXXX {$100.00} XXXX XXXXXXXX XXXX XXXX XXXX Details -original order, XXXX not received XX/XX/XXXX {$100.00} XXXX XXXX XXXX XXXX Details - original order not received We used our rewards points on XXXX for XXXX XXXX and XXXX XXXX  and were deducted XXXX and XXXX points. All of the cards were not received. Each attempt ( call or chat ) was treated as an additional use of rewards points for additional cards. Ultimately, the original ordered gift cards were received but not ones listed on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX. Those were not orders of cards just attempts to correct issues. We are owed XXXX points and Barclay clearly doesn't want to correct the issue or are incompetent."
+}
+
+Chunk:
+xx / xx / xxxx { $ 100. 00 } xxxx xxxx xxxx xxxx details - attempt to correct points xx / xx / xxxx { $ 100. 00 } xxxx xxxxxxxx xxxx xxxx xxxx details - attempt to correct points xx / xx / xxxx { $ 100. 00 } xxxx xxxx xxxx xxxx details - attempt to correct points xx / xx / xxxx { $ 100. 00 } xxxx xxxx gift card xxxx details - attempt to receive original order xx / xx / xxxx { $ 100. 00 } xxxx xxxx xxxx xxxx details - only attempt to receive original order xx / xx / xxxx { $ 100. 00 } xxxx xxxxxxxx xxxx xxxx xxxx details - original order, xxxx not received xx / xx / xxxx { $ 100. 00 } xxxx xxxx xxxx xxxx details - original order not received we used our rewards points on xxxx for xxxx xxxx and xxxx xxxx and were deducted xxxx and xxxx points. all of the cards were not received. each attempt ( call or chat ) was treated as an additional use of rewards points for additional cards. ultimately, the original ordered gift cards were received but not ones listed on xx / xx / xxxx, xx / xx / xxxx, xx / xx / xxxx, and xx / xx / xxxx. those were not orders of cards just attempts to correct issues. we are owed xxxx points and barclay clearly doesn't want to correct the issue or are incompetent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995360374450684
+}

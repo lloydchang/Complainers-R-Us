@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044202,
+  "complaint_id": "9044202",
+  "product": "Credit card",
+  "complaint_what_happened": "I am on a payment plan to repay my cc balance with Chase, I informed the bank I want to pre pay the remaining balance early and do not have a payment link to pre pay. They have not replied to my messages to pre pay the cc balance. \nJPMCB CARD XXXX",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10036",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I am on a payment plan to repay my cc balance with Chase, I informed the bank I want to pre pay the remaining balance early and do not have a payment link to pre pay. They have not replied to my messages to pre pay the cc balance. \nJPMCB CARD XXXX"
+}
+
+Chunk:
+i am on a payment plan to repay my cc balance with chase, i informed the bank i want to pre pay the remaining balance early and do not have a payment link to pre pay. they have not replied to my messages to pre pay the cc balance. jpmcb card xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990079998970032
+}

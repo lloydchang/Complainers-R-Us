@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262850,
+  "complaint_id": "9262850",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a XXXX XXXX XXXX XXXX holder since 2004. I very recently moved. I updated my information on my credit card account online and also by phone. XXXX sent me a new XXXX XXXX XXXX XXXX to my new address. I activated it online. An email from XXXX confirmed that the card was activated. \nUnfortunately, each time I try to use the card, it is not accepted. \nChecking my account online confirmed my information is correct. My attempts to resolve the issue were not successful. \nToday, I paid the balance remaining from the old card ( {$24.00} ) at a XXXX store in person using the new credit card. The card was accepted for the purpose of making a payment. \nI called XXXX XXXX Services, and after another unsuccessful attempt to resolve the issue, I asked that my account be closed. The card services representative refused to close the account, refused to provide information about how to close the account, and further, repeatedly told me that the account could not be closed.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "553XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "I have been a XXXX XXXX XXXX XXXX holder since 2004. I very recently moved. I updated my information on my credit card account online and also by phone. XXXX sent me a new XXXX XXXX XXXX XXXX to my new address. I activated it online. An email from XXXX confirmed that the card was activated. \nUnfortunately, each time I try to use the card, it is not accepted. \nChecking my account online confirmed my information is correct. My attempts to resolve the issue were not successful. \nToday, I paid the balance remaining from the old card ( {$24.00} ) at a XXXX store in person using the new credit card. The card was accepted for the purpose of making a payment. \nI called XXXX XXXX Services, and after another unsuccessful attempt to resolve the issue, I asked that my account be closed. The card services representative refused to close the account, refused to provide information about how to close the account, and further, repeatedly told me that the account could not be closed."
+}
+
+Chunk:
+i have been a xxxx xxxx xxxx xxxx holder since 2004. i very recently moved. i updated my information on my credit card account online and also by phone. xxxx sent me a new xxxx xxxx xxxx xxxx to my new address. i activated it online. an email from xxxx confirmed that the card was activated. unfortunately, each time i try to use the card, it is not accepted. checking my account online confirmed my information is correct. my attempts to resolve the issue were not successful. today, i paid the balance remaining from the old card ( { $ 24. 00 } ) at a xxxx store in person using the new credit card. the card was accepted for the purpose of making a payment. i called xxxx xxxx services, and after another unsuccessful attempt to resolve the issue, i asked that my account be closed. the card services representative refused to close the account, refused to provide information about how to close the account, and further, repeatedly told me that the account could not be closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991102814674377
+}

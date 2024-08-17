@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9243368,
+  "complaint_id": "9243368",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX the XXXX I spoke with an agent at Capital One for XXXX minutes trying to find out exactly what to do in order to have myself added as POA on my fathers account. He was a great help and that same day I faxed ALL the required information in, including my XXXX page legally executed Durable POA document. On XX/XX/XXXX, they mailed a letter stating my request was denied with no reasons given on the letter. Today ( XX/XX/XXXX ) I spent XXXX minutes on the phone with a XXXX and then her manager and both did nothing by read me exactly what I had already read on their website. They both advised to just sent ALL documents again and wait to hear from them. I am requesting to be added due to my fathers recent XXXX  XXXX diagnosis and being place on XXXX XXXX XXXX XXXX XXXX. He has two accounts with Capital One with XXXX balance and I just wanted them closed. Sounds like elder abuse to him by having the accounts remain open and possibly incur fees by putting up roadblocks to closing the accounts. I have sent the same XXXX page XXXX document to numerous other insurance, credit card, utility and creditors on behalf of my father and ALL have been happy to help in this difficult time. Assuming Capital One feels they are special given their size and ability to help citizens of our country dig themselves into a mountain of debt with ridiculous interest rates.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "35244",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "On XXXX the XXXX I spoke with an agent at Capital One for XXXX minutes trying to find out exactly what to do in order to have myself added as POA on my fathers account. He was a great help and that same day I faxed ALL the required information in, including my XXXX page legally executed Durable POA document. On XX/XX/XXXX, they mailed a letter stating my request was denied with no reasons given on the letter. Today ( XX/XX/XXXX ) I spent XXXX minutes on the phone with a XXXX and then her manager and both did nothing by read me exactly what I had already read on their website. They both advised to just sent ALL documents again and wait to hear from them. I am requesting to be added due to my fathers recent XXXX  XXXX diagnosis and being place on XXXX XXXX XXXX XXXX XXXX. He has two accounts with Capital One with XXXX balance and I just wanted them closed. Sounds like elder abuse to him by having the accounts remain open and possibly incur fees by putting up roadblocks to closing the accounts. I have sent the same XXXX page XXXX document to numerous other insurance, credit card, utility and creditors on behalf of my father and ALL have been happy to help in this difficult time. Assuming Capital One feels they are special given their size and ability to help citizens of our country dig themselves into a mountain of debt with ridiculous interest rates."
+}
+
+Chunk:
+on xxxx the xxxx i spoke with an agent at capital one for xxxx minutes trying to find out exactly what to do in order to have myself added as poa on my fathers account. he was a great help and that same day i faxed all the required information in, including my xxxx page legally executed durable poa document. on xx / xx / xxxx, they mailed a letter stating my request was denied with no reasons given on the letter. today ( xx / xx / xxxx ) i spent xxxx minutes on the phone with a xxxx and then her manager and both did nothing by read me exactly what i had already read on their website. they both advised to just sent all documents again and wait to hear from them. i am requesting to be added due to my fathers recent xxxx xxxx diagnosis and being place on xxxx xxxx xxxx xxxx xxxx. he has two accounts with capital one with xxxx balance and i just wanted them closed. sounds like elder abuse to him by having the accounts remain open and possibly incur fees by putting up roadblocks to closing the accounts. i have sent the same xxxx page xxxx document to numerous other insurance, credit card, utility and creditors on behalf of my father and all have been happy to help in this difficult time. assuming capital one feels they are special given their size and ability to help citizens of our country dig themselves into a mountain of debt with ridiculous interest rates.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988683462142944
+}

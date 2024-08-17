@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9298998,
+  "complaint_id": "9298998",
+  "product": "Credit card",
+  "complaint_what_happened": "I went to a local Macys store where the cashier asked me if Im interested in receiving a discount on the day of my purchase and I said yes. However, I was not notified that this was a credit card application and she would therefore be running my credit. I called after I received the card and Macys asked me to pay the balance which I did because I was not aware that you are not supposed to pay the balance when disputing which was also misleading as I had originally expressed that this was opened without consent of running my credit. Now I am disputing the card on my credit report with the 3 bureaus and they are not removing this off of my account. They are marking it consumer request closed. According to my credit report, you can clearly see I dont have any retail store credit cards and I would never want them.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "088XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I went to a local Macys store where the cashier asked me if Im interested in receiving a discount on the day of my purchase and I said yes. However, I was not notified that this was a credit card application and she would therefore be running my credit. I called after I received the card and Macys asked me to pay the balance which I did because I was not aware that you are not supposed to pay the balance when disputing which was also misleading as I had originally expressed that this was opened without consent of running my credit. Now I am disputing the card on my credit report with the 3 bureaus and they are not removing this off of my account. They are marking it consumer request closed. According to my credit report, you can clearly see I dont have any retail store credit cards and I would never want them."
+}
+
+Chunk:
+i went to a local macys store where the cashier asked me if im interested in receiving a discount on the day of my purchase and i said yes. however, i was not notified that this was a credit card application and she would therefore be running my credit. i called after i received the card and macys asked me to pay the balance which i did because i was not aware that you are not supposed to pay the balance when disputing which was also misleading as i had originally expressed that this was opened without consent of running my credit. now i am disputing the card on my credit report with the 3 bureaus and they are not removing this off of my account. they are marking it consumer request closed. according to my credit report, you can clearly see i dont have any retail store credit cards and i would never want them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994543194770813
+}

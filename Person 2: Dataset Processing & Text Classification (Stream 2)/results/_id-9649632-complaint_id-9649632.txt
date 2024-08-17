@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9649632,
+  "complaint_id": "9649632",
+  "product": "Credit card",
+  "complaint_what_happened": "Consumer Financial Protection Bureau Original Case XXXX XXXXXXXX XX/XX/XXXX This case was closed but the problem is not resolved. I could not respond until I received more information from XXXX. \n\nI do not owe Citi XXXX {$110.00} as XXXX refunded the $ XXXX Citi XXXX XXXX XX/XX/XXXX. I have explained this to Citi XXXX every month since XX/XX/XXXX and they keep wanting me to pay what has been already been refunded to Citi XXXX. \n\nI am attaching the e-mail from XXXX Dated XX/XX/XXXX explaining again what was done in XX/XX/XXXX. Citi Cards response from XX/XX/XXXX is irrelevant. The money was already refunded to them. \n\nXXXX XXXX",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "14207",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-29T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Consumer Financial Protection Bureau Original Case XXXX XXXXXXXX XX/XX/XXXX This case was closed but the problem is not resolved. I could not respond until I received more information from XXXX. \n\nI do not owe Citi XXXX {$110.00} as XXXX refunded the $ XXXX Citi XXXX XXXX XX/XX/XXXX. I have explained this to Citi XXXX every month since XX/XX/XXXX and they keep wanting me to pay what has been already been refunded to Citi XXXX. \n\nI am attaching the e-mail from XXXX Dated XX/XX/XXXX explaining again what was done in XX/XX/XXXX. Citi Cards response from XX/XX/XXXX is irrelevant. The money was already refunded to them. \n\nXXXX XXXX"
+}
+
+Chunk:
+consumer financial protection bureau original case xxxx xxxxxxxx xx / xx / xxxx this case was closed but the problem is not resolved. i could not respond until i received more information from xxxx. i do not owe citi xxxx { $ 110. 00 } as xxxx refunded the $ xxxx citi xxxx xxxx xx / xx / xxxx. i have explained this to citi xxxx every month since xx / xx / xxxx and they keep wanting me to pay what has been already been refunded to citi xxxx. i am attaching the e - mail from xxxx dated xx / xx / xxxx explaining again what was done in xx / xx / xxxx. citi cards response from xx / xx / xxxx is irrelevant. the money was already refunded to them. xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995330572128296
+}

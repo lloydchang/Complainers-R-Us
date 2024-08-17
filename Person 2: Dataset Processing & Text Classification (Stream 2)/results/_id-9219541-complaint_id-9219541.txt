@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9219541,
+  "complaint_id": "9219541",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024 at XXXX, I received a text message ( attached ) asking if I made a purchase at XXXX XXXX for {$4900.00}. I rarely use this card and it had a XXXX balance when I got the fraud alert from Wells Fargo. I was outside walking my dog when I got the fraud alert at my home address which is 24 miles from XXXX XXXX ( later discovered the charge was made at XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXXXXXX ). The credit card was in my possession when I received the text message from Wells Fargo. I immediately replied back N in which I was prompted to call the Wells Fargo fraud protection phone number. I immediately called and talked to a fraud customer service representative and made a claim. The card ending in XXXX was cancelled and a new card assigned. Wells Fargo representative stated that I am not responsible for these charges. \n\nOn XX/XX/2024, after receiving a replacement credit card for account ending in XXXX, I checked my online banking application and there was a balance of {$4000.00} on the newly assigned card. This is additionally confusing and incorrect to have a {$4000.00} balance in which it was originally the fraudulent charge of {$4900.00}. Keep in mind, I did not make this purchase in either amounts. The card has been at a XXXX balance for over one year. I spoke with XXXX in fraud protection and he stated that my claim was denied. He could not give me a reason. He told me to call the Wells Fargo claims phone number ( XXXX ) XXXX on Monday XX/XX/2024. \n\nOn Monday, XX/XX/2024, I spoke with three different agents in the Wells Fargo claims center asking for updates and an explanation of denied claim. No one could give me an answer, so I asked to be elevated to a manager handling credit fraud claims. His name is XXXX. He told me that the claim is being reopened, but stated that it will take two to three weeks for this claim to be remedied, potentially affecting my credit. He could not supply any proof of my signature, any receipts for the fraudulent purchase made, and refused to give me any updates on claim status. Wells Fargo refuses to give me any documentation. On XX/XX/2024, I contacted the store where fraudulent purchases were made at XXXX XXXX ( XXXX ) XXXX, and the store manager refused to give me any information about the fraudulent purchase.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60640",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/2024 at XXXX, I received a text message ( attached ) asking if I made a purchase at XXXX XXXX for {$4900.00}. I rarely use this card and it had a XXXX balance when I got the fraud alert from Wells Fargo. I was outside walking my dog when I got the fraud alert at my home address which is 24 miles from XXXX XXXX ( later discovered the charge was made at XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXXXXXX ). The credit card was in my possession when I received the text message from Wells Fargo. I immediately replied back N in which I was prompted to call the Wells Fargo fraud protection phone number. I immediately called and talked to a fraud customer service representative and made a claim. The card ending in XXXX was cancelled and a new card assigned. Wells Fargo representative stated that I am not responsible for these charges. \n\nOn XX/XX/2024, after receiving a replacement credit card for account ending in XXXX, I checked my online banking application and there was a balance of {$4000.00} on the newly assigned card. This is additionally confusing and incorrect to have a {$4000.00} balance in which it was originally the fraudulent charge of {$4900.00}. Keep in mind, I did not make this purchase in either amounts. The card has been at a XXXX balance for over one year. I spoke with XXXX in fraud protection and he stated that my claim was denied. He could not give me a reason. He told me to call the Wells Fargo claims phone number ( XXXX ) XXXX on Monday XX/XX/2024. \n\nOn Monday, XX/XX/2024, I spoke with three different agents in the Wells Fargo claims center asking for updates and an explanation of denied claim. No one could give me an answer, so I asked to be elevated to a manager handling credit fraud claims. His name is XXXX. He told me that the claim is being reopened, but stated that it will take two to three weeks for this claim to be remedied, potentially affecting my credit. He could not supply any proof of my signature, any receipts for the fraudulent purchase made, and refused to give me any updates on claim status. Wells Fargo refuses to give me any documentation. On XX/XX/2024, I contacted the store where fraudulent purchases were made at XXXX XXXX ( XXXX ) XXXX, and the store manager refused to give me any information about the fraudulent purchase."
+}
+
+Chunk:
+xxxx, and the store manager refused to give me any information about the fraudulent purchase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982051849365234
+}

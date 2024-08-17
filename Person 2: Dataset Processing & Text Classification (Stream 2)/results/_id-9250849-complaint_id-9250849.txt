@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9250849,
+  "complaint_id": "9250849",
+  "product": "Credit card",
+  "complaint_what_happened": "At XXXX on XXXX XXXX XXXX XXXX I spoke with XXXX at Chase about opening the XXXX XXXX XXXX XXXX. She informed me I would be eligible for a special XXXX point signup bonus for the card and additionallyXXXX XXXX XXXX XXXX '' ( points earned towards XXXX XXXX for XXXX XXXX ). She instructed me to apply for the card, then all I needed to do was send a secure message after applying to get the XXXX bonus attached to my card. She added our call notes to another XXXX of my Chase credit cards, the Chase Sapphire Preferred card, so that I could reference them when sending a secure message. She also informed me she would send a written letter to my mailing address confirming my eligibility for the XXXX XXXX She also informed me the call was recorded if we ever needed to reference it. So in XXXX places it says that Chase offered this XXXX point / XXXX XXXX offer to me. \nWell, I applied for the card and as instructed sent a secure message and called several times. But the agents now inform me I'm only eligible for the XXXX bonus points. I relied on the original agent 's multiple assurances that I was eligible for the XXXX XXXX before applying for the card. I would not have applied without that bonus. Yet here I am stuck without the bonus, paying {$520.00} annual fee without any recourse. I am asking Chase to please honor the original XXXX points // XXXX XXXX offer that was CONFIRMED by the original agent. Please review the original notes from my first call. Please review the call recording. Please honor the terms which you told me I was eligible for before applying for the card. This is extremely deceptive and unfair.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "787XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "At XXXX on XXXX XXXX XXXX XXXX I spoke with XXXX at Chase about opening the XXXX XXXX XXXX XXXX. She informed me I would be eligible for a special XXXX point signup bonus for the card and additionallyXXXX XXXX XXXX XXXX '' ( points earned towards XXXX XXXX for XXXX XXXX ). She instructed me to apply for the card, then all I needed to do was send a secure message after applying to get the XXXX bonus attached to my card. She added our call notes to another XXXX of my Chase credit cards, the Chase Sapphire Preferred card, so that I could reference them when sending a secure message. She also informed me she would send a written letter to my mailing address confirming my eligibility for the XXXX XXXX She also informed me the call was recorded if we ever needed to reference it. So in XXXX places it says that Chase offered this XXXX point / XXXX XXXX offer to me. \nWell, I applied for the card and as instructed sent a secure message and called several times. But the agents now inform me I'm only eligible for the XXXX bonus points. I relied on the original agent 's multiple assurances that I was eligible for the XXXX XXXX before applying for the card. I would not have applied without that bonus. Yet here I am stuck without the bonus, paying {$520.00} annual fee without any recourse. I am asking Chase to please honor the original XXXX points // XXXX XXXX offer that was CONFIRMED by the original agent. Please review the original notes from my first call. Please review the call recording. Please honor the terms which you told me I was eligible for before applying for the card. This is extremely deceptive and unfair."
+}
+
+Chunk:
+at xxxx on xxxx xxxx xxxx xxxx i spoke with xxxx at chase about opening the xxxx xxxx xxxx xxxx. she informed me i would be eligible for a special xxxx point signup bonus for the card and additionallyxxxx xxxx xxxx xxxx'' ( points earned towards xxxx xxxx for xxxx xxxx ). she instructed me to apply for the card, then all i needed to do was send a secure message after applying to get the xxxx bonus attached to my card. she added our call notes to another xxxx of my chase credit cards, the chase sapphire preferred card, so that i could reference them when sending a secure message. she also informed me she would send a written letter to my mailing address confirming my eligibility for the xxxx xxxx she also informed me the call was recorded if we ever needed to reference it. so in xxxx places it says that chase offered this xxxx point / xxxx xxxx offer to me. well, i applied for the card and as instructed sent a secure message and called several times. but the agents now inform me i'm only eligible for the xxxx bonus points. i relied on the original agent's multiple assurances that i was eligible for the xxxx xxxx before applying for the card. i would not have applied without that bonus. yet here i am stuck without the bonus, paying { $ 520. 00 } annual fee without any recourse. i am asking chase to please honor the original xxxx points / / xxxx xxxx offer that was confirmed by the original agent. please review the original notes from my first call. please review the call recording. please honor the terms which you told me i was eligible for before applying for the card. this is extremely deceptive and unfair.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979250431060791
+}

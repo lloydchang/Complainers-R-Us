@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9408882,
+  "complaint_id": "9408882",
+  "product": "Credit card",
+  "complaint_what_happened": "I have XXXX different cards with Citi Bank for over XXXX  years of usage. Never an issue or payment problems. Recently I forgot about an old business card I never used and hadn't updated the autopay account this bounced a {$25.00} fee XXXX times because I dont access that account or email. once I saw this i went on and changed the account and paid all dues in full. Citi decided at that point to clean house of all my accounts. They closed all of my accounts with no notice while I was in XXXX with not other option to pay there. They almost certainly stranded me and shutdown my XXXX personal cards that have never had an issue or a missed payment. They decided to shut down my rental business card as well with XXXX reason. They have just said due to this XXXX old business card issue they closed all my accounts with no notice. This is the most insane thing ive ever seen and when I tell others they dont even believe it all over a {$25.00} payment they closed XXXX accounts and XXXX years of history. Every time Ive called customer service they just say \" a letter has been mailed and we have no information about these accounts just they are closed and can not be reopened. '' The letter they sent says you had a bounced payment in the last XXXX months so we closed all of your accounts. I would have loved a phone call or a heads up when this first happened or something instead of no warning shutting down all my accounts when i was overseas. If it helps add anything to this my total credit lines with citi was over {$50000.00} in credit line and they decided that a {$25.00} payment on an old account was enough to close it all. Ill do my best to tell every single person I can ever meet to never use this bank ever again due to trying to strand an american citizen with no payment method and no heads up.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "740XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have XXXX different cards with Citi Bank for over XXXX  years of usage. Never an issue or payment problems. Recently I forgot about an old business card I never used and hadn't updated the autopay account this bounced a {$25.00} fee XXXX times because I dont access that account or email. once I saw this i went on and changed the account and paid all dues in full. Citi decided at that point to clean house of all my accounts. They closed all of my accounts with no notice while I was in XXXX with not other option to pay there. They almost certainly stranded me and shutdown my XXXX personal cards that have never had an issue or a missed payment. They decided to shut down my rental business card as well with XXXX reason. They have just said due to this XXXX old business card issue they closed all my accounts with no notice. This is the most insane thing ive ever seen and when I tell others they dont even believe it all over a {$25.00} payment they closed XXXX accounts and XXXX years of history. Every time Ive called customer service they just say \" a letter has been mailed and we have no information about these accounts just they are closed and can not be reopened. '' The letter they sent says you had a bounced payment in the last XXXX months so we closed all of your accounts. I would have loved a phone call or a heads up when this first happened or something instead of no warning shutting down all my accounts when i was overseas. If it helps add anything to this my total credit lines with citi was over {$50000.00} in credit line and they decided that a {$25.00} payment on an old account was enough to close it all. Ill do my best to tell every single person I can ever meet to never use this bank ever again due to trying to strand an american citizen with no payment method and no heads up."
+}
+
+Chunk:
+i have xxxx different cards with citi bank for over xxxx years of usage. never an issue or payment problems. recently i forgot about an old business card i never used and hadn't updated the autopay account this bounced a { $ 25. 00 } fee xxxx times because i dont access that account or email. once i saw this i went on and changed the account and paid all dues in full. citi decided at that point to clean house of all my accounts. they closed all of my accounts with no notice while i was in xxxx with not other option to pay there. they almost certainly stranded me and shutdown my xxxx personal cards that have never had an issue or a missed payment. they decided to shut down my rental business card as well with xxxx reason. they have just said due to this xxxx old business card issue they closed all my accounts with no notice. this is the most insane thing ive ever seen and when i tell others they dont even believe it all over a { $ 25. 00 } payment they closed xxxx accounts and xxxx years of history. every time ive called customer service they just say " a letter has been mailed and we have no information about these accounts just they are closed and can not be reopened.'' the letter they sent says you had a bounced payment in the last xxxx months so we closed all of your accounts. i would have loved a phone call or a heads up when this first happened or something instead of no warning shutting down all my accounts when i was overseas. if it helps add anything to this my total credit lines with citi was over { $ 50000. 00 } in credit line and they decided that a { $ 25. 00 } payment on an old account was enough to close it all. ill do my best to tell every single person i can ever meet to never use this bank ever again due to trying to strand an american citizen with no payment method and no heads up.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995459914207458
+}

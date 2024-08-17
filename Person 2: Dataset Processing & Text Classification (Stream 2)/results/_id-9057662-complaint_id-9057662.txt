@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9057662,
+  "complaint_id": "9057662",
+  "product": "Credit card",
+  "complaint_what_happened": "This complaint is about the failure of the CFPB to perform their due diligence regarding complaint ID # XXXX The response provided by the creditor ( AMEX ) does not address or acknowledge that they contacted me to collect a payment on my American Express Gold card PRIOR to the payment due date and PRIOR to the development of a minimum payment amount due. \n\nWhen the creditor called me to collect a payment the account was NOT PAST DUE and did not have a payment due at the time of their call. I had PERFECT payment history prior to their abusive and insulting collection practice. \n\nThe cardholder agreement establishes a payment due date. American Express breached this contract agreement when they called me and asked for me to make a payment on my account BEFORE a minimum payment was even due. Their response to the initial complain I filed only addresses their right to cancel the account, even if I pay on time and as agreed. Their response DOES NOT address the fact that they attempted to collect a payment from me before a payment became due according to the cardholder agreement. \n\nAMEX made up their own rules and decided to call me to collect a payment at their discretion. The purpose of a payment due date is to establish an agreed upon payment due date. AMEX BREACHED this agreement and therefore I stopped paying on the credit cards. They CFPB failed to listen to the calls from XXXX of 2023 and investigate the creditor for wrongdoing. I also was physically injured in XXXX of 2023 and am investigating if this creditor is responsible.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60193",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "This complaint is about the failure of the CFPB to perform their due diligence regarding complaint ID # XXXX The response provided by the creditor ( AMEX ) does not address or acknowledge that they contacted me to collect a payment on my American Express Gold card PRIOR to the payment due date and PRIOR to the development of a minimum payment amount due. \n\nWhen the creditor called me to collect a payment the account was NOT PAST DUE and did not have a payment due at the time of their call. I had PERFECT payment history prior to their abusive and insulting collection practice. \n\nThe cardholder agreement establishes a payment due date. American Express breached this contract agreement when they called me and asked for me to make a payment on my account BEFORE a minimum payment was even due. Their response to the initial complain I filed only addresses their right to cancel the account, even if I pay on time and as agreed. Their response DOES NOT address the fact that they attempted to collect a payment from me before a payment became due according to the cardholder agreement. \n\nAMEX made up their own rules and decided to call me to collect a payment at their discretion. The purpose of a payment due date is to establish an agreed upon payment due date. AMEX BREACHED this agreement and therefore I stopped paying on the credit cards. They CFPB failed to listen to the calls from XXXX of 2023 and investigate the creditor for wrongdoing. I also was physically injured in XXXX of 2023 and am investigating if this creditor is responsible."
+}
+
+Chunk:
+this complaint is about the failure of the cfpb to perform their due diligence regarding complaint id # xxxx the response provided by the creditor ( amex ) does not address or acknowledge that they contacted me to collect a payment on my american express gold card prior to the payment due date and prior to the development of a minimum payment amount due. when the creditor called me to collect a payment the account was not past due and did not have a payment due at the time of their call. i had perfect payment history prior to their abusive and insulting collection practice. the cardholder agreement establishes a payment due date. american express breached this contract agreement when they called me and asked for me to make a payment on my account before a minimum payment was even due. their response to the initial complain i filed only addresses their right to cancel the account, even if i pay on time and as agreed. their response does not address the fact that they attempted to collect a payment from me before a payment became due according to the cardholder agreement. amex made up their own rules and decided to call me to collect a payment at their discretion. the purpose of a payment due date is to establish an agreed upon payment due date. amex breached this agreement and therefore i stopped paying on the credit cards. they cfpb failed to listen to the calls from xxxx of 2023 and investigate the creditor for wrongdoing. i also was physically injured in xxxx of 2023 and am investigating if this creditor is responsible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995887875556946
+}

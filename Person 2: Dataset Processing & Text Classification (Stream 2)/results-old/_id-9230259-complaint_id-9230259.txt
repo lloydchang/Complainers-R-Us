@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9230259,
+  "complaint_id": "9230259",
+  "product": "Credit card",
+  "complaint_what_happened": "Despite the fact that Fidelity XXXX is promoting a credit cards on their website, the product is unavailable. The website sends you from one page to another but never the actual application page. I called their customer service number and was told I could not apply over the phone ; only online and that it was a known issue that the website never works.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75234",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Despite the fact that Fidelity XXXX is promoting a credit cards on their website, the product is unavailable. The website sends you from one page to another but never the actual application page. I called their customer service number and was told I could not apply over the phone ; only online and that it was a known issue that the website never works."
+}
+
+Chunk:
+despite the fact that fidelity xxxx is promoting a credit cards on their website, the product is unavailable. the website sends you from one page to another but never the actual application page. i called their customer service number and was told i could not apply over the phone ; only online and that it was a known issue that the website never works.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997544884681702
+}

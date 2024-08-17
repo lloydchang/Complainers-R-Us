@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167319,
+  "complaint_id": "9167319",
+  "product": "Credit card",
+  "complaint_what_happened": "I contacted SELF regarding a fraud alert I received on XX/XX/XXXX, at the time only XXXX fraud charges were pending, which I disputed imagine my surprise today to see that not only did SELF deny my dispute because they stated that I logged into the app on XX/XX/XXXX & That the chip was used during this transaction. Of course I logged into the app to see what fraud transactions were made so that I can call them to dispute it. And of course the chip was used my card was lost and used in what it looks like NY & NJ which i DO NOT live. Now there is a balance {$580.00} & im not paying a cent of it because I did not make these charges. Also at the time I called in on XXXX there were only a XXXX charge pending and then today theres now another XXXX charges that were never pending or posted to my account. I challenged SELF on this because how did you guys not see these other charges as if they approved them to go through even after locking and replacing my card! I have provided a screenshot showing that I stayed no to the charge and they still allowed multiple Other fraud charges to go through! Now they are stating that I am responsible for these charges when I didnt make any of them.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28117",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I contacted SELF regarding a fraud alert I received on XX/XX/XXXX, at the time only XXXX fraud charges were pending, which I disputed imagine my surprise today to see that not only did SELF deny my dispute because they stated that I logged into the app on XX/XX/XXXX & That the chip was used during this transaction. Of course I logged into the app to see what fraud transactions were made so that I can call them to dispute it. And of course the chip was used my card was lost and used in what it looks like NY & NJ which i DO NOT live. Now there is a balance {$580.00} & im not paying a cent of it because I did not make these charges. Also at the time I called in on XXXX there were only a XXXX charge pending and then today theres now another XXXX charges that were never pending or posted to my account. I challenged SELF on this because how did you guys not see these other charges as if they approved them to go through even after locking and replacing my card! I have provided a screenshot showing that I stayed no to the charge and they still allowed multiple Other fraud charges to go through! Now they are stating that I am responsible for these charges when I didnt make any of them."
+}
+
+Chunk:
+i contacted self regarding a fraud alert i received on xx / xx / xxxx, at the time only xxxx fraud charges were pending, which i disputed imagine my surprise today to see that not only did self deny my dispute because they stated that i logged into the app on xx / xx / xxxx & that the chip was used during this transaction. of course i logged into the app to see what fraud transactions were made so that i can call them to dispute it. and of course the chip was used my card was lost and used in what it looks like ny & nj which i do not live. now there is a balance { $ 580. 00 } & im not paying a cent of it because i did not make these charges. also at the time i called in on xxxx there were only a xxxx charge pending and then today theres now another xxxx charges that were never pending or posted to my account. i challenged self on this because how did you guys not see these other charges as if they approved them to go through even after locking and replacing my card! i have provided a screenshot showing that i stayed no to the charge and they still allowed multiple other fraud charges to go through! now they are stating that i am responsible for these charges when i didnt make any of them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990666508674622
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9006994,
+  "complaint_id": "9006994",
+  "product": "Credit card",
+  "complaint_what_happened": "It is unfair that my consistent track record of timely payments for this account is not being acknowledged. I implore you to ensure that my account accurately reflects this without any inaccuracies.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "601XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account status incorrect",
+  "text": "It is unfair that my consistent track record of timely payments for this account is not being acknowledged. I implore you to ensure that my account accurately reflects this without any inaccuracies."
+}
+
+Chunk:
+it is unfair that my consistent track record of timely payments for this account is not being acknowledged. i implore you to ensure that my account accurately reflects this without any inaccuracies.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9954155683517456
+}

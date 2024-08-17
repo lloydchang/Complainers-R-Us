@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9257604,
+  "complaint_id": "9257604",
+  "product": "Credit card",
+  "complaint_what_happened": "on XX/XX/year> - I made a payment to my credit card account with Capital One - I was informed in the app that my account was restricted, so I called in and the automated system informed me that the account was closed much to my surprise - My address, phone number nor email have changed, but yet I got no notification prior that the account was being closed. \n\nOn XX/XX/year> Capital one informed me that they never received my deposit to open the account, However, They infact did.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60074",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "on XX/XX/year> - I made a payment to my credit card account with Capital One - I was informed in the app that my account was restricted, so I called in and the automated system informed me that the account was closed much to my surprise - My address, phone number nor email have changed, but yet I got no notification prior that the account was being closed. \n\nOn XX/XX/year> Capital one informed me that they never received my deposit to open the account, However, They infact did."
+}
+
+Chunk:
+on xx / xx / year > - i made a payment to my credit card account with capital one - i was informed in the app that my account was restricted, so i called in and the automated system informed me that the account was closed much to my surprise - my address, phone number nor email have changed, but yet i got no notification prior that the account was being closed. on xx / xx / year > capital one informed me that they never received my deposit to open the account, however, they infact did.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987488985061646
+}

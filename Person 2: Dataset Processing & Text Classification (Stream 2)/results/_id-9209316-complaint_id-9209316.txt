@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9209316,
+  "complaint_id": "9209316",
+  "product": "Credit card",
+  "complaint_what_happened": "I financed the purchase of an air conditioner through Synchrony Bank for {$8200.00} with no interest for 18 months. The minimum payment on my balance is {$200.00}. I have been paying {$250.00} each month via auto debit. I have not read a statement nor do I regularly log into my account because it was on auto pilot. I logged into my account today, XX/XX/XXXX, and saw an interest charge for {$2100.00} on XX/XX/XXXX and learned that while the original agreement was sold to me as zero interest for 18 months, it was actually 18 months of deferred interest, so I received 18 months ' worth of interest all at once in XX/XX/year>. \n\nI initiated a chat session with a representative from Synchrony and was told that since it had been 60 days since the charge there was nothing they could do and I would need to call a representative, which I did. I spoke with two different representatives and was told that the grace period was actually 30 days and that had I called within 30 days of learning about the interest charge they would have easily been able to remove it, as long as I paid off the original balance. I offered to pay off the remainder of the original balance ( ~ {$1400.00} ) in addition to whatever interest I've accrued since the end of the 18 month period and was met with \" sorry since it's been 30 days there's nothing we can do. '' I explained that I was deceived in the original agreement and have made on time payments each month and would happily settle up the original balance right now. I have never financed anything before except a car and this experience has left such a bad taste in my mouth that it's unlikely I would ever finance a purchase such as this again. \n\nI have no record in my email nor on my Synchrony account detailing deferred interest. My statements have a notification about deferred interest and shame on me for not opening them regularly ( or ever ). In the world of Internet banking, relying on information to live in a vacuum in one location ( i.e. statement only ) isn't fair to the consumer. Clearly my account was on autopilot and while I could have been more proactive, a simple email reminder detailing what was about to occur could have avoided this altogether. However, my regular, monthly reminder from Synchrony never once indicated that I was about to be hit with 18 months of interest at once.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "05452",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "VT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I financed the purchase of an air conditioner through Synchrony Bank for {$8200.00} with no interest for 18 months. The minimum payment on my balance is {$200.00}. I have been paying {$250.00} each month via auto debit. I have not read a statement nor do I regularly log into my account because it was on auto pilot. I logged into my account today, XX/XX/XXXX, and saw an interest charge for {$2100.00} on XX/XX/XXXX and learned that while the original agreement was sold to me as zero interest for 18 months, it was actually 18 months of deferred interest, so I received 18 months ' worth of interest all at once in XX/XX/year>. \n\nI initiated a chat session with a representative from Synchrony and was told that since it had been 60 days since the charge there was nothing they could do and I would need to call a representative, which I did. I spoke with two different representatives and was told that the grace period was actually 30 days and that had I called within 30 days of learning about the interest charge they would have easily been able to remove it, as long as I paid off the original balance. I offered to pay off the remainder of the original balance ( ~ {$1400.00} ) in addition to whatever interest I've accrued since the end of the 18 month period and was met with \" sorry since it's been 30 days there's nothing we can do. '' I explained that I was deceived in the original agreement and have made on time payments each month and would happily settle up the original balance right now. I have never financed anything before except a car and this experience has left such a bad taste in my mouth that it's unlikely I would ever finance a purchase such as this again. \n\nI have no record in my email nor on my Synchrony account detailing deferred interest. My statements have a notification about deferred interest and shame on me for not opening them regularly ( or ever ). In the world of Internet banking, relying on information to live in a vacuum in one location ( i.e. statement only ) isn't fair to the consumer. Clearly my account was on autopilot and while I could have been more proactive, a simple email reminder detailing what was about to occur could have avoided this altogether. However, my regular, monthly reminder from Synchrony never once indicated that I was about to be hit with 18 months of interest at once."
+}
+
+Chunk:
+never once indicated that i was about to be hit with 18 months of interest at once.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9944067001342773
+}

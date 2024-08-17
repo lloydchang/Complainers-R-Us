@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9655791,
+  "complaint_id": "9655791",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from XXXX confirming my {$750.00} purchase on a credit card I did not use, I called immediately Bank of America and reported fraud. They investigate but when the merchant confirms the sale ( to some unknown person ) they reject the claim, twice. This is for a Spanish language concert XXXX I dont speak XXXX XXXX XXXX miles from my location ( it was in XXXX and I was in XXXX XXXX XXXX XXXX \n\nI did not make the charge, I instantly reported it but BOA insists on charging me.",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98144",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I received an email from XXXX confirming my {$750.00} purchase on a credit card I did not use, I called immediately Bank of America and reported fraud. They investigate but when the merchant confirms the sale ( to some unknown person ) they reject the claim, twice. This is for a Spanish language concert XXXX I dont speak XXXX XXXX XXXX miles from my location ( it was in XXXX and I was in XXXX XXXX XXXX XXXX \n\nI did not make the charge, I instantly reported it but BOA insists on charging me."
+}
+
+Chunk:
+i received an email from xxxx confirming my { $ 750. 00 } purchase on a credit card i did not use, i called immediately bank of america and reported fraud. they investigate but when the merchant confirms the sale ( to some unknown person ) they reject the claim, twice. this is for a spanish language concert xxxx i dont speak xxxx xxxx xxxx miles from my location ( it was in xxxx and i was in xxxx xxxx xxxx xxxx i did not make the charge, i instantly reported it but boa insists on charging me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9954558610916138
+}

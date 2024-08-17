@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9202603,
+  "complaint_id": "9202603",
+  "product": "Credit card",
+  "complaint_what_happened": "Pomelo Card XXXX XXXX XXXX XXXX XXXX, CA, XXXX I did not authorize them to hit my credit From : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  I want to see where I authorized you to do two hard hits on my credit?????\n\nI want these removed off my credit score. \nI will file a complaint with the FCC. \nI was just inquiring about sending money to the XXXX then I get these two hits on my credit.\n\nRemove them ASAP.\n\nEven their own website says they do a soft hit, but this is not true",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89408",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Pomelo International, Inc",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "Pomelo Card XXXX XXXX XXXX XXXX XXXX, CA, XXXX I did not authorize them to hit my credit From : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  I want to see where I authorized you to do two hard hits on my credit?????\n\nI want these removed off my credit score. \nI will file a complaint with the FCC. \nI was just inquiring about sending money to the XXXX then I get these two hits on my credit.\n\nRemove them ASAP.\n\nEven their own website says they do a soft hit, but this is not true"
+}
+
+Chunk:
+pomelo card xxxx xxxx xxxx xxxx xxxx, ca, xxxx i did not authorize them to hit my credit from : xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx i want to see where i authorized you to do two hard hits on my credit????? i want these removed off my credit score. i will file a complaint with the fcc. i was just inquiring about sending money to the xxxx then i get these two hits on my credit. remove them asap. even their own website says they do a soft hit, but this is not true
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994294047355652
+}

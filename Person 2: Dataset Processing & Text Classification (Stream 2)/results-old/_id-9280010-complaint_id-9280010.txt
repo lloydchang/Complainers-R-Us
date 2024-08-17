@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9280010,
+  "complaint_id": "9280010",
+  "product": "Credit card",
+  "complaint_what_happened": "This is in regards to my Citi Diamond Preferred CardXXXX. I have lost my card and it have a lot of unauthorized charges. I called and reported right away around XX/XX/year> but they were unable to locate my account and told me to wait till I received a code in the mail. I waited for two weeks and then call back again on XX/XX/year> when I didn't receive anything int he mail. I was told the same thing again that they are unable to verify my identity and I need to wait till I received a code via mail. I asked them if there is another way to get it faster, and their answer was NO. I waited again and finally got a letter in mail on XX/XX/XXXX. I called and reported my card lost then. Now they are not resolving my issue and its not fair with me to pay for something that I did not authorize.Total amount is around {$2000.00}.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77407",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This is in regards to my Citi Diamond Preferred CardXXXX. I have lost my card and it have a lot of unauthorized charges. I called and reported right away around XX/XX/year> but they were unable to locate my account and told me to wait till I received a code in the mail. I waited for two weeks and then call back again on XX/XX/year> when I didn't receive anything int he mail. I was told the same thing again that they are unable to verify my identity and I need to wait till I received a code via mail. I asked them if there is another way to get it faster, and their answer was NO. I waited again and finally got a letter in mail on XX/XX/XXXX. I called and reported my card lost then. Now they are not resolving my issue and its not fair with me to pay for something that I did not authorize.Total amount is around {$2000.00}."
+}
+
+Chunk:
+this is in regards to my citi diamond preferred cardxxxx. i have lost my card and it have a lot of unauthorized charges. i called and reported right away around xx / xx / year > but they were unable to locate my account and told me to wait till i received a code in the mail. i waited for two weeks and then call back again on xx / xx / year > when i didn't receive anything int he mail. i was told the same thing again that they are unable to verify my identity and i need to wait till i received a code via mail. i asked them if there is another way to get it faster, and their answer was no. i waited again and finally got a letter in mail on xx / xx / xxxx. i called and reported my card lost then. now they are not resolving my issue and its not fair with me to pay for something that i did not authorize. total amount is around { $ 2000. 00 }.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994472861289978
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9016927,
+  "complaint_id": "9016927",
+  "product": "Credit card",
+  "complaint_what_happened": "I was told by an agent I could upgrade my card to a XXXX able to be used anywhere. However, when following the steps provided to upgrade, there was no option available. Contacting service again, I was told the only way to receive a XXXX is to apply for a new card. I find that unacceptable, as I know others with the Gap card who have had their account upgraded to a XXXX. I ask that my complaint be forwarded to the person with the authority to convert my store card to a XXXX.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "14221",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I was told by an agent I could upgrade my card to a XXXX able to be used anywhere. However, when following the steps provided to upgrade, there was no option available. Contacting service again, I was told the only way to receive a XXXX is to apply for a new card. I find that unacceptable, as I know others with the Gap card who have had their account upgraded to a XXXX. I ask that my complaint be forwarded to the person with the authority to convert my store card to a XXXX."
+}
+
+Chunk:
+i was told by an agent i could upgrade my card to a xxxx able to be used anywhere. however, when following the steps provided to upgrade, there was no option available. contacting service again, i was told the only way to receive a xxxx is to apply for a new card. i find that unacceptable, as i know others with the gap card who have had their account upgraded to a xxxx. i ask that my complaint be forwarded to the person with the authority to convert my store card to a xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997498393058777
+}

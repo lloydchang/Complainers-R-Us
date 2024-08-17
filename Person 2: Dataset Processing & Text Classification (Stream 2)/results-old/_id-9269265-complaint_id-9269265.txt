@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9269265,
+  "complaint_id": "9269265",
+  "product": "Credit card",
+  "complaint_what_happened": "Disputing information pursuant to a prior account with Synchrony Bank. Attached is in detail the information being disputed. Company, Synchrony Bank has not fulfilled their obligations in full while under contract. All pertinent information has been provided for Synchrony Bank to properly assess the account.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48091",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Disputing information pursuant to a prior account with Synchrony Bank. Attached is in detail the information being disputed. Company, Synchrony Bank has not fulfilled their obligations in full while under contract. All pertinent information has been provided for Synchrony Bank to properly assess the account."
+}
+
+Chunk:
+disputing information pursuant to a prior account with synchrony bank. attached is in detail the information being disputed. company, synchrony bank has not fulfilled their obligations in full while under contract. all pertinent information has been provided for synchrony bank to properly assess the account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998892605304718
+}

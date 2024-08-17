@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9346891,
+  "complaint_id": "9346891",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a victim of fraud and Wayfair is not taking the charges off my account",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "21214",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I have been a victim of fraud and Wayfair is not taking the charges off my account"
+}
+
+Chunk:
+i have been a victim of fraud and wayfair is not taking the charges off my account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9866284132003784
+}

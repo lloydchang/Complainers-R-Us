@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126527,
+  "complaint_id": "9126527",
+  "product": "Credit card",
+  "complaint_what_happened": "To Whom it May Concern : Attached is a recap of the events leading up to the return of the XXXX XXXX XXXX device purchased on XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \nThe XXXX XXXX device was sold to myself as a XXXX XXXX device that would help treat my XXXX XXXX XXXX on my body, specifically my XXXX XXXX. It was also sold under the pretense that I could get reimbursed the monies for the device ; if not full reimbursement, partial reimbursement from my medical insurance ( since this was a XXXX XXXX device ). When I received the device at my home, I was surprised once opened, that it appeared to be a used device. There were fingerprints all over the device, box had been opened and re-taped. Clearly, this was not a new XXXX XXXX device. Also, I had asked at the time of purchase, that I did not want to purchase something that was made in XXXX? They assured me that wasnt the case. MADE IN XXXX was the first thing I saw while opening. I proceeded to take it to XXXX of my doctors offices and asked if it was a XXXX XXXX device that would help treat my XXXX XXXX, both doctors let me know that it would do nothing in the treatment of XXXX XXXX. I then contacted my medical insurance and was notified that absolutely nothing would be reimbursed for the device since it was not a XXXX XXXX device. Therefore, my next step was to return the device along with the products they had given me at the time of purchase. The sale was based on fraudulent claims that were untrue. I returned the XXXX XXXX  device and all of the products that were given to me on XX/XX/year> via XXXX XXXX. It was received, accepted and signed for on XX/XX/year> by XXXX. \nAmerican Express was notified to retract the {$13000.00} charge ( which they did ) ; however, the company charged my card again. American Express has retracted the charge for a second time and asked that I give an accounting of what took place with any paperwork I might have. This is the true accounting of what took place. Attached are photos of the device ( when delivered ), a copy of the details of when the delivery of the returned items were received, accepted and signed for and the original receipt. \nThank you so much for your attention to this matter. If there are any questions, please do not hesitate to contact the undersigned. \n\nXXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92673",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "To Whom it May Concern : Attached is a recap of the events leading up to the return of the XXXX XXXX XXXX device purchased on XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \nThe XXXX XXXX device was sold to myself as a XXXX XXXX device that would help treat my XXXX XXXX XXXX on my body, specifically my XXXX XXXX. It was also sold under the pretense that I could get reimbursed the monies for the device ; if not full reimbursement, partial reimbursement from my medical insurance ( since this was a XXXX XXXX device ). When I received the device at my home, I was surprised once opened, that it appeared to be a used device. There were fingerprints all over the device, box had been opened and re-taped. Clearly, this was not a new XXXX XXXX device. Also, I had asked at the time of purchase, that I did not want to purchase something that was made in XXXX? They assured me that wasnt the case. MADE IN XXXX was the first thing I saw while opening. I proceeded to take it to XXXX of my doctors offices and asked if it was a XXXX XXXX device that would help treat my XXXX XXXX, both doctors let me know that it would do nothing in the treatment of XXXX XXXX. I then contacted my medical insurance and was notified that absolutely nothing would be reimbursed for the device since it was not a XXXX XXXX device. Therefore, my next step was to return the device along with the products they had given me at the time of purchase. The sale was based on fraudulent claims that were untrue. I returned the XXXX XXXX  device and all of the products that were given to me on XX/XX/year> via XXXX XXXX. It was received, accepted and signed for on XX/XX/year> by XXXX. \nAmerican Express was notified to retract the {$13000.00} charge ( which they did ) ; however, the company charged my card again. American Express has retracted the charge for a second time and asked that I give an accounting of what took place with any paperwork I might have. This is the true accounting of what took place. Attached are photos of the device ( when delivered ), a copy of the details of when the delivery of the returned items were received, accepted and signed for and the original receipt. \nThank you so much for your attention to this matter. If there are any questions, please do not hesitate to contact the undersigned. \n\nXXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+of the device ( when delivered ), a copy of the details of when the delivery of the returned items were received, accepted and signed for and the original receipt. thank you so much for your attention to this matter. if there are any questions, please do not hesitate to contact the undersigned. xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9990623593330383
+}

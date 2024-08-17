@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137613,
+  "complaint_id": "9137613",
+  "product": "Credit card",
+  "complaint_what_happened": "This issue has been unresolved since XX/XX/XXXX. I purchased a blouse form online merchant, XXXX XXXX XXXX. I returned the item through the merchant 's designated third party vendor, XXXX XXXX in accordance with the merchant 's return policy. Happy Returns made a mistake on the return information and the merchant could not verify the item was returned. I filed a claim with my credit card issuer, TD Bank , N.A . Disputes and Claims while I attempted to resolve the matter with the merchant. TD Bank denied the claim ( XXXX Credit Card Dispute Claim ). I was able to obtian written proof from Happy Returns that the item was in fact properly returned. I provided the information to the merchant XXXX XXXX XXXX and they acknowledged via email the item was properly returned and received and that they would credit my account. However, the merchant informed me that a chargeback was submitted against the order by TD Bank and once initiated, we no longer have the ability to process a refund in our system until it is resolved by the bank itself. '' The merchant recommended reaching out to TD Bank to resolve the matter. cf. email dated XX/XX/XXXX, XXXX from : XXXX to : XXXX. and cf. Chargeback Evidence Case Number XXXX. I submitted the supporting documentation to TD Bank and never received a response. It should be noted that the claim and substanting was reviewed by my Local TD Bank Branch ( XXXX. XXXX XXXX, NJ ) and they assisted me in submitting the orignal claim and subsequent appeal via their fax machine to TD Bank Disputes. \n\nI am requesting a reconsideration of the subject Credit Card dispute claim filed on XX/XX/XXXX for {$84.00}. \n\nI am provided the following details in support of the claim dispute : Per the merchants instructions, I utilized Happy Returns to process the return of merchandise. I was subsequently notified by the merchant that the item in question, One Each, XXXX XXXX XXXX was not returned and they requested drop-off confirmation email. \n\nI obtained proof of drop-off from Happy Returns showing the XXXX XXXX XXXX was accepted for return on XX/XX/XXXX. ( cf. email dated XX/XX/XXXX ; XXXX XXXX  from : XXXX To : XXXX ). \n\nI have provided proof that the merchandise was returned via Happy Returns per the merchants instructions, and I have provided proof that the merchant acknowledges receipt of the returned merchandise, and the merchant agrees a refund of {$84.00} is due to me. However, as a result of the TD Bank chargeback, the merchant is unable to process the refund.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08876",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This issue has been unresolved since XX/XX/XXXX. I purchased a blouse form online merchant, XXXX XXXX XXXX. I returned the item through the merchant 's designated third party vendor, XXXX XXXX in accordance with the merchant 's return policy. Happy Returns made a mistake on the return information and the merchant could not verify the item was returned. I filed a claim with my credit card issuer, TD Bank , N.A . Disputes and Claims while I attempted to resolve the matter with the merchant. TD Bank denied the claim ( XXXX Credit Card Dispute Claim ). I was able to obtian written proof from Happy Returns that the item was in fact properly returned. I provided the information to the merchant XXXX XXXX XXXX and they acknowledged via email the item was properly returned and received and that they would credit my account. However, the merchant informed me that a chargeback was submitted against the order by TD Bank and once initiated, we no longer have the ability to process a refund in our system until it is resolved by the bank itself. '' The merchant recommended reaching out to TD Bank to resolve the matter. cf. email dated XX/XX/XXXX, XXXX from : XXXX to : XXXX. and cf. Chargeback Evidence Case Number XXXX. I submitted the supporting documentation to TD Bank and never received a response. It should be noted that the claim and substanting was reviewed by my Local TD Bank Branch ( XXXX. XXXX XXXX, NJ ) and they assisted me in submitting the orignal claim and subsequent appeal via their fax machine to TD Bank Disputes. \n\nI am requesting a reconsideration of the subject Credit Card dispute claim filed on XX/XX/XXXX for {$84.00}. \n\nI am provided the following details in support of the claim dispute : Per the merchants instructions, I utilized Happy Returns to process the return of merchandise. I was subsequently notified by the merchant that the item in question, One Each, XXXX XXXX XXXX was not returned and they requested drop-off confirmation email. \n\nI obtained proof of drop-off from Happy Returns showing the XXXX XXXX XXXX was accepted for return on XX/XX/XXXX. ( cf. email dated XX/XX/XXXX ; XXXX XXXX  from : XXXX To : XXXX ). \n\nI have provided proof that the merchandise was returned via Happy Returns per the merchants instructions, and I have provided proof that the merchant acknowledges receipt of the returned merchandise, and the merchant agrees a refund of {$84.00} is due to me. However, as a result of the TD Bank chargeback, the merchant is unable to process the refund."
+}
+
+Chunk:
+that the merchant acknowledges receipt of the returned merchandise, and the merchant agrees a refund of { $ 84. 00 } is due to me. however, as a result of the td bank chargeback, the merchant is unable to process the refund.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998606264591217
+}

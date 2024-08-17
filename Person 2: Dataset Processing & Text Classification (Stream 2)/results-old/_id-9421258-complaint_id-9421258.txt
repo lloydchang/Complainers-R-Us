@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9421258,
+  "complaint_id": "9421258",
+  "product": "Credit card",
+  "complaint_what_happened": "I open a Wyndham Rewards Earner Card on XX/XX/year> because I was trying to make a reservation on the site for one of their facilities. That card was offered as reward which would allow me instantly get the hotel reservation at a discounted rate as a card statement credit. I applied for the card, was approved, received a hard credit card inquiry but no access to the credit card information to make that reservation. I called Barclay Credit card to find out how to get access to my credit card information to make that reservation but I told that I have to wait till I receive the card in the mail. I was deceived because now I can't make the reservation right away which means by time I get the card, the hotel room will booked out. I would have never applied for that card if that mentioned in that offer which it wasn't. This company needs to be penalize for false advertisement!",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "32114",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I open a Wyndham Rewards Earner Card on XX/XX/year> because I was trying to make a reservation on the site for one of their facilities. That card was offered as reward which would allow me instantly get the hotel reservation at a discounted rate as a card statement credit. I applied for the card, was approved, received a hard credit card inquiry but no access to the credit card information to make that reservation. I called Barclay Credit card to find out how to get access to my credit card information to make that reservation but I told that I have to wait till I receive the card in the mail. I was deceived because now I can't make the reservation right away which means by time I get the card, the hotel room will booked out. I would have never applied for that card if that mentioned in that offer which it wasn't. This company needs to be penalize for false advertisement!"
+}
+
+Chunk:
+i open a wyndham rewards earner card on xx / xx / year > because i was trying to make a reservation on the site for one of their facilities. that card was offered as reward which would allow me instantly get the hotel reservation at a discounted rate as a card statement credit. i applied for the card, was approved, received a hard credit card inquiry but no access to the credit card information to make that reservation. i called barclay credit card to find out how to get access to my credit card information to make that reservation but i told that i have to wait till i receive the card in the mail. i was deceived because now i can't make the reservation right away which means by time i get the card, the hotel room will booked out. i would have never applied for that card if that mentioned in that offer which it wasn't. this company needs to be penalize for false advertisement!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991347193717957
+}

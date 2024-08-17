@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174704,
+  "complaint_id": "9174704",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I was charged close to {$2500.00} in interest from 1 year since I began paying through CareCredit/Synchrony bank for services I received from a vender in installments. \nI have made minimum payments every month, pre-set by CareCredit, and so intuitively and logically expected that I was on par to pay off the bill without interest. \n\nI was not given adequate notice that this interest would be charged, since I was not emailed directly warning me that this due date was approaching, or given this information on the XXXX app I use to make monthly payments. \n\nThis companys descriptive business practices are unfair, as I never assented or agreed to these specific terms, and would certainly not have agreed had I known these terms applied. \n\nI attempted to remedy the situation by offering to pay off the rest of the bill without the accrued interest, or even construct a new payment plan if they would rescind the interest installment. \nThey then informed me there was a 30 day grace period that expired, which again, I was given NO notice of. \n\nEssentially, this company seems to encourage delinquency of payments in order to collect interest deceptively. I have learned that they require the user to calculate on their own how much they will need to pay to not be charged the arbitrary amount of interest after a year, and this seems extremely problematic as many users will not be able to easily correctly assess how much they need to ensure they pay every month to not get charged. \n\nEven on monthly statements, this information is deceptively hidden, and carecredit did not send me any monthly statements by email. They only had me pay by logging in or on the app, which does not show the monthly statements until you examine long pdf files. \n\nOnce again, I was not given just notice of what I was being subject to, and the minimum payments I made every month, I believe, gave me reason to believe that I was on time and would not be charged any interest. \n\nWhen I originally made this agreement, I did not assent to these terms in particular, and I would have never agreed to this payment plan if I was made adequately aware of these terms. \n\nAnd, once again, I should have been adequately warned closer to the due date. Carecredit gave minimal to no effort to do this and now they refuse to help me remedy the situation. \n\nI ask that your team help remedy the situation, or at least put them on notice that these deceptive business practices can not be tolerated.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "115XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "On XX/XX/year>, I was charged close to {$2500.00} in interest from 1 year since I began paying through CareCredit/Synchrony bank for services I received from a vender in installments. \nI have made minimum payments every month, pre-set by CareCredit, and so intuitively and logically expected that I was on par to pay off the bill without interest. \n\nI was not given adequate notice that this interest would be charged, since I was not emailed directly warning me that this due date was approaching, or given this information on the XXXX app I use to make monthly payments. \n\nThis companys descriptive business practices are unfair, as I never assented or agreed to these specific terms, and would certainly not have agreed had I known these terms applied. \n\nI attempted to remedy the situation by offering to pay off the rest of the bill without the accrued interest, or even construct a new payment plan if they would rescind the interest installment. \nThey then informed me there was a 30 day grace period that expired, which again, I was given NO notice of. \n\nEssentially, this company seems to encourage delinquency of payments in order to collect interest deceptively. I have learned that they require the user to calculate on their own how much they will need to pay to not be charged the arbitrary amount of interest after a year, and this seems extremely problematic as many users will not be able to easily correctly assess how much they need to ensure they pay every month to not get charged. \n\nEven on monthly statements, this information is deceptively hidden, and carecredit did not send me any monthly statements by email. They only had me pay by logging in or on the app, which does not show the monthly statements until you examine long pdf files. \n\nOnce again, I was not given just notice of what I was being subject to, and the minimum payments I made every month, I believe, gave me reason to believe that I was on time and would not be charged any interest. \n\nWhen I originally made this agreement, I did not assent to these terms in particular, and I would have never agreed to this payment plan if I was made adequately aware of these terms. \n\nAnd, once again, I should have been adequately warned closer to the due date. Carecredit gave minimal to no effort to do this and now they refuse to help me remedy the situation. \n\nI ask that your team help remedy the situation, or at least put them on notice that these deceptive business practices can not be tolerated."
+}
+
+Chunk:
+##eptive business practices can not be tolerated.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9963260293006897
+}

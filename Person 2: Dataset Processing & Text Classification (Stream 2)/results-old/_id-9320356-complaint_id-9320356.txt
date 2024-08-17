@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9320356,
+  "complaint_id": "9320356",
+  "product": "Credit card",
+  "complaint_what_happened": "I got a letter from FORTIVA that I had a new credit card with their company that I did not request. First, it caused my credit score to go down and this is how I found out FORTIVA opened a credit card for me. \n\nI called the company to demand this credit card be closed immediately. FORTIVA said that was NOT POSSIBLE! \n\nAbout a week later I learned that FORTIVA had taken a zero interest pay off for security equipment that I was paying XXXX XXXX month with no interest and moved it to their credit card with a 25 % interest rate. FORTIVA does not have the right to change the payment term of the agreement. \n\nI want FORTIVA to correct my credit and return the balance to a month payment with no interest",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "59602",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Other problem",
+  "text": "I got a letter from FORTIVA that I had a new credit card with their company that I did not request. First, it caused my credit score to go down and this is how I found out FORTIVA opened a credit card for me. \n\nI called the company to demand this credit card be closed immediately. FORTIVA said that was NOT POSSIBLE! \n\nAbout a week later I learned that FORTIVA had taken a zero interest pay off for security equipment that I was paying XXXX XXXX month with no interest and moved it to their credit card with a 25 % interest rate. FORTIVA does not have the right to change the payment term of the agreement. \n\nI want FORTIVA to correct my credit and return the balance to a month payment with no interest"
+}
+
+Chunk:
+i got a letter from fortiva that i had a new credit card with their company that i did not request. first, it caused my credit score to go down and this is how i found out fortiva opened a credit card for me. i called the company to demand this credit card be closed immediately. fortiva said that was not possible! about a week later i learned that fortiva had taken a zero interest pay off for security equipment that i was paying xxxx xxxx month with no interest and moved it to their credit card with a 25 % interest rate. fortiva does not have the right to change the payment term of the agreement. i want fortiva to correct my credit and return the balance to a month payment with no interest
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999455988407135
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224316,
+  "complaint_id": "9224316",
+  "product": "Credit card",
+  "complaint_what_happened": "What happened? \n\nI am filing this complaint because American Express has repeatedly reduced my credit limit without valid reason, in violation of my rights under applicable laws. Despite having an account in good standing, American Express has taken adverse actions that have negatively impacted my financial standing. Due to these repeated reductions and the negative impact they have had on my credit profile, I am requesting the establishment of an open-ended credit account that settles at the end of each month, with occasional interest charges as permissible by law.\n\nRelevant USC Codes and Regulations : 15 U.S.C. 1601 et seq. ( Truth in Lending Act - TILA ) : Requires disclosures about terms and cost of credit, promoting the informed use of consumer credit. \n12 CFR Part 1026 ( Regulation Z ) : Implements TILA, requiring creditors to provide detailed information about the cost and terms of credit.\n\n15 U.S.C. 1691 ( Equal Credit Opportunity Act - ECOA ) : Ensures fair treatment of consumers by creditors, prohibiting discriminatory practices.\n\n12 CFR Part 1002 ( Regulation B ) : Implements the ECOA, outlining requirements for creditors to provide equal credit opportunity.\n\n15 U.S.C. 1666 : Addresses billing error resolution in open-ended credit accounts.\n\n12 CFR 1026.6 : Requires disclosure of terms and conditions for open-ended credit accounts, including interest charges.\n\n15 U.S.C. 1681b : Regulates the permissible purposes for which consumer reports can be furnished.\n\n15 U.S.C. 1691 ( a ) : Prohibits creditors from discriminating against applicants on various grounds.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33020",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "What happened? \n\nI am filing this complaint because American Express has repeatedly reduced my credit limit without valid reason, in violation of my rights under applicable laws. Despite having an account in good standing, American Express has taken adverse actions that have negatively impacted my financial standing. Due to these repeated reductions and the negative impact they have had on my credit profile, I am requesting the establishment of an open-ended credit account that settles at the end of each month, with occasional interest charges as permissible by law.\n\nRelevant USC Codes and Regulations : 15 U.S.C. 1601 et seq. ( Truth in Lending Act - TILA ) : Requires disclosures about terms and cost of credit, promoting the informed use of consumer credit. \n12 CFR Part 1026 ( Regulation Z ) : Implements TILA, requiring creditors to provide detailed information about the cost and terms of credit.\n\n15 U.S.C. 1691 ( Equal Credit Opportunity Act - ECOA ) : Ensures fair treatment of consumers by creditors, prohibiting discriminatory practices.\n\n12 CFR Part 1002 ( Regulation B ) : Implements the ECOA, outlining requirements for creditors to provide equal credit opportunity.\n\n15 U.S.C. 1666 : Addresses billing error resolution in open-ended credit accounts.\n\n12 CFR 1026.6 : Requires disclosure of terms and conditions for open-ended credit accounts, including interest charges.\n\n15 U.S.C. 1681b : Regulates the permissible purposes for which consumer reports can be furnished.\n\n15 U.S.C. 1691 ( a ) : Prohibits creditors from discriminating against applicants on various grounds."
+}
+
+Chunk:
+what happened? i am filing this complaint because american express has repeatedly reduced my credit limit without valid reason, in violation of my rights under applicable laws. despite having an account in good standing, american express has taken adverse actions that have negatively impacted my financial standing. due to these repeated reductions and the negative impact they have had on my credit profile, i am requesting the establishment of an open - ended credit account that settles at the end of each month, with occasional interest charges as permissible by law. relevant usc codes and regulations : 15 u. s. c. 1601 et seq. ( truth in lending act - tila ) : requires disclosures about terms and cost of credit, promoting the informed use of consumer credit. 12 cfr part 1026 ( regulation z ) : implements tila, requiring creditors to provide detailed information about the cost and terms of credit. 15 u. s. c. 1691 ( equal credit opportunity act - ecoa ) : ensures fair treatment of consumers by creditors, prohibiting discriminatory practices. 12 cfr part 1002 ( regulation b ) : implements the ecoa, outlining requirements for creditors to provide equal credit opportunity. 15 u. s. c. 1666 : addresses billing error resolution in open - ended credit accounts. 12 cfr 1026. 6 : requires disclosure of terms and conditions for open - ended credit accounts, including interest charges. 15 u. s. c. 1681b : regulates the permissible purposes for which consumer reports can be furnished. 15 u. s. c. 1691 ( a ) : prohibits creditors from discriminating against applicants on various grounds.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966428279876709
+}

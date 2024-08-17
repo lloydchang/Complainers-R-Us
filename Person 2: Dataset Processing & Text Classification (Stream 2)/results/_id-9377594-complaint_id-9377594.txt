@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9377594,
+  "complaint_id": "9377594",
+  "product": "Credit card",
+  "complaint_what_happened": "So with the previous complaint we thought we had a resolution that Aspire Credit Card agreed to a settlement but still continued to charge me. and now I`m am getting ready to pay them on Monday for the settlement amount and they are claiming they know nothing about it So now I want to file another complaint and actually want something done about it. Now i want a 75 % settlement for the negligence and stupidity of the Aspire staff and disrespect from them. I`m sick and tired of the same answers i get from them.",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "136XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem during payment process",
+  "text": "So with the previous complaint we thought we had a resolution that Aspire Credit Card agreed to a settlement but still continued to charge me. and now I`m am getting ready to pay them on Monday for the settlement amount and they are claiming they know nothing about it So now I want to file another complaint and actually want something done about it. Now i want a 75 % settlement for the negligence and stupidity of the Aspire staff and disrespect from them. I`m sick and tired of the same answers i get from them."
+}
+
+Chunk:
+so with the previous complaint we thought we had a resolution that aspire credit card agreed to a settlement but still continued to charge me. and now i ` m am getting ready to pay them on monday for the settlement amount and they are claiming they know nothing about it so now i want to file another complaint and actually want something done about it. now i want a 75 % settlement for the negligence and stupidity of the aspire staff and disrespect from them. i ` m sick and tired of the same answers i get from them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996762275695801
+}

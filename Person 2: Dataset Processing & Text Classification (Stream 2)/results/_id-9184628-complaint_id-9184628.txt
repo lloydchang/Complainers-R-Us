@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9184628,
+  "complaint_id": "9184628",
+  "product": "Credit card",
+  "complaint_what_happened": "I have Dispute # XXXX with Discover credit card for a transaction with XXXX XXXX  {$3800.00}. Discover refuses to refund me my money for a scam I fell victim to. XXXX advertises a tennis necklace on their website that purposely uses pictures of a larger diamond tennis necklace than what is sent at purchase, and they are refusing to accept returns on it even though the product website clearly states free returns. As XXXX is refusing to refund me, I opened a dispute with Discover.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "752XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have Dispute # XXXX with Discover credit card for a transaction with XXXX XXXX  {$3800.00}. Discover refuses to refund me my money for a scam I fell victim to. XXXX advertises a tennis necklace on their website that purposely uses pictures of a larger diamond tennis necklace than what is sent at purchase, and they are refusing to accept returns on it even though the product website clearly states free returns. As XXXX is refusing to refund me, I opened a dispute with Discover."
+}
+
+Chunk:
+i have dispute # xxxx with discover credit card for a transaction with xxxx xxxx { $ 3800. 00 }. discover refuses to refund me my money for a scam i fell victim to. xxxx advertises a tennis necklace on their website that purposely uses pictures of a larger diamond tennis necklace than what is sent at purchase, and they are refusing to accept returns on it even though the product website clearly states free returns. as xxxx is refusing to refund me, i opened a dispute with discover.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984569549560547
+}

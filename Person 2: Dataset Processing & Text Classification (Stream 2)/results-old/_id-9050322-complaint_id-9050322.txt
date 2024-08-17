@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9050322,
+  "complaint_id": "9050322",
+  "product": "Credit card",
+  "complaint_what_happened": "1. This is a high limit credit card. I have max'ed out this credit card and always paid it in full. I had a relationship with this bank for 2 years. The company closed my card without reasoning and said they would find a way to reopen it. I have $ XXXX in purchases with information of the purchases I need for my taxes. I am not able to access the accounts or find any records. \n\n2. There is an unathorized purchase on the account from XXXX I am trying to dispute and no dispute was opened. \n\n3. I had made a full payment in XXXX and I was still charged interest. The bank said they would refund the interest charge and never did so.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08820",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "1. This is a high limit credit card. I have max'ed out this credit card and always paid it in full. I had a relationship with this bank for 2 years. The company closed my card without reasoning and said they would find a way to reopen it. I have $ XXXX in purchases with information of the purchases I need for my taxes. I am not able to access the accounts or find any records. \n\n2. There is an unathorized purchase on the account from XXXX I am trying to dispute and no dispute was opened. \n\n3. I had made a full payment in XXXX and I was still charged interest. The bank said they would refund the interest charge and never did so."
+}
+
+Chunk:
+1. this is a high limit credit card. i have max'ed out this credit card and always paid it in full. i had a relationship with this bank for 2 years. the company closed my card without reasoning and said they would find a way to reopen it. i have $ xxxx in purchases with information of the purchases i need for my taxes. i am not able to access the accounts or find any records. 2. there is an unathorized purchase on the account from xxxx i am trying to dispute and no dispute was opened. 3. i had made a full payment in xxxx and i was still charged interest. the bank said they would refund the interest charge and never did so.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987327456474304
+}

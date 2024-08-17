@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9215805,
+  "complaint_id": "9215805",
+  "product": "Credit card",
+  "complaint_what_happened": "Spoke with Citi bank about late fees that occurred due to Citibank taking me off autopay. When I spoke to the rep they advised me that my late fees would be refunded to me within 5-7 business days. After that no refund was given and I was told they were unable to refund the {$150.00} in fees that they originally promised. No reason was given for the company refusing to fix their error. They then proceeded to contact me from morning to night every day. In a month I estimated they called me nearly XXXX to XXXX times. Even after requesting that the harassment stop I was called. I have requested multiple times to speak to someone and have the harassment addressed and the main office continues to intentionally ignore my requests. I've since spoke with the XXXX and CITI continued to not even try to solve this issue and instead provided a generic message claiming they would reach out but never made an effort to resolve this issue.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "61107",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Spoke with Citi bank about late fees that occurred due to Citibank taking me off autopay. When I spoke to the rep they advised me that my late fees would be refunded to me within 5-7 business days. After that no refund was given and I was told they were unable to refund the {$150.00} in fees that they originally promised. No reason was given for the company refusing to fix their error. They then proceeded to contact me from morning to night every day. In a month I estimated they called me nearly XXXX to XXXX times. Even after requesting that the harassment stop I was called. I have requested multiple times to speak to someone and have the harassment addressed and the main office continues to intentionally ignore my requests. I've since spoke with the XXXX and CITI continued to not even try to solve this issue and instead provided a generic message claiming they would reach out but never made an effort to resolve this issue."
+}
+
+Chunk:
+spoke with citi bank about late fees that occurred due to citibank taking me off autopay. when i spoke to the rep they advised me that my late fees would be refunded to me within 5 - 7 business days. after that no refund was given and i was told they were unable to refund the { $ 150. 00 } in fees that they originally promised. no reason was given for the company refusing to fix their error. they then proceeded to contact me from morning to night every day. in a month i estimated they called me nearly xxxx to xxxx times. even after requesting that the harassment stop i was called. i have requested multiple times to speak to someone and have the harassment addressed and the main office continues to intentionally ignore my requests. i've since spoke with the xxxx and citi continued to not even try to solve this issue and instead provided a generic message claiming they would reach out but never made an effort to resolve this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995724558830261
+}

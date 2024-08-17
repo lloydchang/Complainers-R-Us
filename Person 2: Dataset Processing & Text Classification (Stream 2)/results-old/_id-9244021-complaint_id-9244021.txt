@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9244021,
+  "complaint_id": "9244021",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, I noticed a charge of {$29.00} on my XX/XX/XXXX Sychrony Bank credit card that was not authorized by me. I wrote the bank to ask them to investigate and remove the charge. I heard nothing from them. \n\nThey continued to keep the fraudulent charge on my account and also charge interest for not paying the fraudulent charge. \n\nIn XX/XX/XXXX, I noticed another charge for {$150.00} on my XX/XX/XXXX Sychrony Bank credit card that was not authorized by me. I wrote the bank again. This time I requested they investigate both the {$29.00} charge and the {$150.00}. Additionally, I requested they remove all interest charges that had been charged to my account for the unpaid {$29.00}. \n\nAll other charges from XX/XX/XXXX through XX/XX/XXXX were paid in full. \n\nI heard nothing from them on either investigation request. Accordingly, I again requested they investigate. I continued to pay all other charges in full. \n\nSynchrony Bank sent me a \" Fraud Investigation Form '' in XX/XX/XXXX, which I completed and returned to them in XX/XX/XXXX. \n\nI heard nothing from them, and they continued to charge my account for interest on the fraudulent charges of {$29.00} and {$150.00}. Consequently, I closed my account in late XXXX. \n\nI would like Synchrony Bank to correct my account, remove all charges from my account ; including interest, penalties, and late fees ; and report my account in good standing to all credit reporting agencies.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "94086",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XX/XX/XXXX, I noticed a charge of {$29.00} on my XX/XX/XXXX Sychrony Bank credit card that was not authorized by me. I wrote the bank to ask them to investigate and remove the charge. I heard nothing from them. \n\nThey continued to keep the fraudulent charge on my account and also charge interest for not paying the fraudulent charge. \n\nIn XX/XX/XXXX, I noticed another charge for {$150.00} on my XX/XX/XXXX Sychrony Bank credit card that was not authorized by me. I wrote the bank again. This time I requested they investigate both the {$29.00} charge and the {$150.00}. Additionally, I requested they remove all interest charges that had been charged to my account for the unpaid {$29.00}. \n\nAll other charges from XX/XX/XXXX through XX/XX/XXXX were paid in full. \n\nI heard nothing from them on either investigation request. Accordingly, I again requested they investigate. I continued to pay all other charges in full. \n\nSynchrony Bank sent me a \" Fraud Investigation Form '' in XX/XX/XXXX, which I completed and returned to them in XX/XX/XXXX. \n\nI heard nothing from them, and they continued to charge my account for interest on the fraudulent charges of {$29.00} and {$150.00}. Consequently, I closed my account in late XXXX. \n\nI would like Synchrony Bank to correct my account, remove all charges from my account ; including interest, penalties, and late fees ; and report my account in good standing to all credit reporting agencies."
+}
+
+Chunk:
+in xx / xx / xxxx, i noticed a charge of { $ 29. 00 } on my xx / xx / xxxx sychrony bank credit card that was not authorized by me. i wrote the bank to ask them to investigate and remove the charge. i heard nothing from them. they continued to keep the fraudulent charge on my account and also charge interest for not paying the fraudulent charge. in xx / xx / xxxx, i noticed another charge for { $ 150. 00 } on my xx / xx / xxxx sychrony bank credit card that was not authorized by me. i wrote the bank again. this time i requested they investigate both the { $ 29. 00 } charge and the { $ 150. 00 }. additionally, i requested they remove all interest charges that had been charged to my account for the unpaid { $ 29. 00 }. all other charges from xx / xx / xxxx through xx / xx / xxxx were paid in full. i heard nothing from them on either investigation request. accordingly, i again requested they investigate. i continued to pay all other charges in full. synchrony bank sent me a " fraud investigation form'' in xx / xx / xxxx, which i completed and returned to them in xx / xx / xxxx. i heard nothing from them, and they continued to charge my account for interest on the fraudulent charges of { $ 29. 00 } and { $ 150. 00 }. consequently, i closed my account in late xxxx. i would like synchrony bank to correct my account, remove all charges from my account ; including interest, penalties, and late fees ; and report my account in good standing to all credit reporting agencies.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983841180801392
+}

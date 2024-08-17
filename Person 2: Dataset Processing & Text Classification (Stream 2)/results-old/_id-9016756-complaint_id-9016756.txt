@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9016756,
+  "complaint_id": "9016756",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I paid {$2400.00} to XXXX for a XXXX XXXX XXXX XXXX  and scheduled an appointment for XX/XX/XXXX. I was made aware of the cancellation policy, which provided for a full refund if the XXXX was cancelled at least 3 business days in advance. I attempted to cancel my appointment on XX/XX/XXXX and XX/XX/XXXX by calling XXXX 's customer service number. XXXX did not cancel my reservation. When I initiated a dispute through my credit card company, Citibank, they did not dispute my attempts to cancel the appointment and offered to reschedule or refund 50 % of my money. Citibank asked me to provide a response to XXXX 's communication, which I did, on XX/XX/XXXX. On XX/XX/XXXX, I received a letter from Citibank falsely indicating that I did not provide the requested information and they were closing the investigation. I called Citibank and requested the investigation be reopened and for them to actually read the information I provided. Citibank then changed what information the requested from me in a letter on XX/XX/XXXX, by indicating that I needed provide documentation that XXXX agreed to credit my account. Obviously, that was not possible as XXXX was not offering to credit my account. I explained this in a letter to Citibank and their response on XX/XX/XXXX was that they \" no longer have any available means to assist you in this matter since the timeframe in which to resolve a dispute has passed. '' Citibank was clearly not interested in protecting me in this matter. At the very least, they did not act with competence, or at worst were dishonest with me. Ultimately, they use their own delays in the matter as justification for closing the investigation. The end result is that XXXX has {$2400.00} from me and has not provided me with a single good or service.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "074XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX, I paid {$2400.00} to XXXX for a XXXX XXXX XXXX XXXX  and scheduled an appointment for XX/XX/XXXX. I was made aware of the cancellation policy, which provided for a full refund if the XXXX was cancelled at least 3 business days in advance. I attempted to cancel my appointment on XX/XX/XXXX and XX/XX/XXXX by calling XXXX 's customer service number. XXXX did not cancel my reservation. When I initiated a dispute through my credit card company, Citibank, they did not dispute my attempts to cancel the appointment and offered to reschedule or refund 50 % of my money. Citibank asked me to provide a response to XXXX 's communication, which I did, on XX/XX/XXXX. On XX/XX/XXXX, I received a letter from Citibank falsely indicating that I did not provide the requested information and they were closing the investigation. I called Citibank and requested the investigation be reopened and for them to actually read the information I provided. Citibank then changed what information the requested from me in a letter on XX/XX/XXXX, by indicating that I needed provide documentation that XXXX agreed to credit my account. Obviously, that was not possible as XXXX was not offering to credit my account. I explained this in a letter to Citibank and their response on XX/XX/XXXX was that they \" no longer have any available means to assist you in this matter since the timeframe in which to resolve a dispute has passed. '' Citibank was clearly not interested in protecting me in this matter. At the very least, they did not act with competence, or at worst were dishonest with me. Ultimately, they use their own delays in the matter as justification for closing the investigation. The end result is that XXXX has {$2400.00} from me and has not provided me with a single good or service."
+}
+
+Chunk:
+on xx / xx / xxxx, i paid { $ 2400. 00 } to xxxx for a xxxx xxxx xxxx xxxx and scheduled an appointment for xx / xx / xxxx. i was made aware of the cancellation policy, which provided for a full refund if the xxxx was cancelled at least 3 business days in advance. i attempted to cancel my appointment on xx / xx / xxxx and xx / xx / xxxx by calling xxxx's customer service number. xxxx did not cancel my reservation. when i initiated a dispute through my credit card company, citibank, they did not dispute my attempts to cancel the appointment and offered to reschedule or refund 50 % of my money. citibank asked me to provide a response to xxxx's communication, which i did, on xx / xx / xxxx. on xx / xx / xxxx, i received a letter from citibank falsely indicating that i did not provide the requested information and they were closing the investigation. i called citibank and requested the investigation be reopened and for them to actually read the information i provided. citibank then changed what information the requested from me in a letter on xx / xx / xxxx, by indicating that i needed provide documentation that xxxx agreed to credit my account. obviously, that was not possible as xxxx was not offering to credit my account. i explained this in a letter to citibank and their response on xx / xx / xxxx was that they " no longer have any available means to assist you in this matter since the timeframe in which to resolve a dispute has passed.'' citibank was clearly not interested in protecting me in this matter. at the very least, they did not act with competence, or at worst were dishonest with me. ultimately, they use their own delays in the matter as justification for closing the investigation. the end result is that xxxx has { $ 2400. 00 } from me and has not provided me with a single good or service.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994767308235168
+}

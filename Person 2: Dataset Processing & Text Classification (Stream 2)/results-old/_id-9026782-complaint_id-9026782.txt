@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9026782,
+  "complaint_id": "9026782",
+  "product": "Credit card",
+  "complaint_what_happened": "Wells Fargo published the benefits of earning 4x points for merchants with XXXX XXXX XXXX XXXX  ( XXXX ). I opened the card to purchase air tickets. I spent almost XXXX dollars to buy air tickets from XXXX XXXX with an XXXX of XXXX. However, Wells Fargo told me that the merchant is a merchant and is not recognized as an airline. When I cross-referenced the XXXX, XXXX, and XXXX XXXX XXXX list, any numbers in XXXX represent individual airlines. Right now, Wells Fargo is not rewarding me almost XXXX points as it advertised due to its old system.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02135",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "Wells Fargo published the benefits of earning 4x points for merchants with XXXX XXXX XXXX XXXX  ( XXXX ). I opened the card to purchase air tickets. I spent almost XXXX dollars to buy air tickets from XXXX XXXX with an XXXX of XXXX. However, Wells Fargo told me that the merchant is a merchant and is not recognized as an airline. When I cross-referenced the XXXX, XXXX, and XXXX XXXX XXXX list, any numbers in XXXX represent individual airlines. Right now, Wells Fargo is not rewarding me almost XXXX points as it advertised due to its old system."
+}
+
+Chunk:
+wells fargo published the benefits of earning 4x points for merchants with xxxx xxxx xxxx xxxx ( xxxx ). i opened the card to purchase air tickets. i spent almost xxxx dollars to buy air tickets from xxxx xxxx with an xxxx of xxxx. however, wells fargo told me that the merchant is a merchant and is not recognized as an airline. when i cross - referenced the xxxx, xxxx, and xxxx xxxx xxxx list, any numbers in xxxx represent individual airlines. right now, wells fargo is not rewarding me almost xxxx points as it advertised due to its old system.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987634420394897
+}

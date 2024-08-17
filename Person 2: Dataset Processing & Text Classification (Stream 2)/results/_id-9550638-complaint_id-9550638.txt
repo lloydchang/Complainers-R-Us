@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9550638,
+  "complaint_id": "9550638",
+  "product": "Credit card",
+  "complaint_what_happened": "Denied credit after providing social security number with application. \nApplication number : XXXX",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60651",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Denied credit after providing social security number with application. \nApplication number : XXXX"
+}
+
+Chunk:
+denied credit after providing social security number with application. application number : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988155364990234
+}

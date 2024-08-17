@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023090,
+  "complaint_id": "9023090",
+  "product": "Credit card",
+  "complaint_what_happened": "I was contacted earlier this year by XXXX XXXX XXXX, which claimed to be collecting on an account sold to them by Citigroup which had gone delinquent. I denied that I had opened this account or charged anything on it, and noted that they seemed to have a wrong phone and XXXX for me. XXXX insisted that I had opened the account and has continued with collections activity, including filing suit, which I have denied. I am now preparing to fight the case iXXXX XXXXt. I believe my case is an example of synthetic fraud, with someone having stolen some elements of my identity and then applied for credit utilizing them and another bank account, phone, email, etc. \n\n- The date XXXX claims the original account was opened was XX/XX/XXXX. \n- They claim the account charged off on XX/XX/XXXX - The amount in question is claimed to be {$5300.00} - I replied to XXXX in early XXXX, and challenged the account and requested arbitration, which appears to have been granted. \n\nI do not have a full Citigroup XXXX XXXX account number ( this has not been supplied to me, but the account has been referred to as XXXX. \n\nXXXX 's internal account number for the case is XXXX.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76244",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I was contacted earlier this year by XXXX XXXX XXXX, which claimed to be collecting on an account sold to them by Citigroup which had gone delinquent. I denied that I had opened this account or charged anything on it, and noted that they seemed to have a wrong phone and XXXX for me. XXXX insisted that I had opened the account and has continued with collections activity, including filing suit, which I have denied. I am now preparing to fight the case iXXXX XXXXt. I believe my case is an example of synthetic fraud, with someone having stolen some elements of my identity and then applied for credit utilizing them and another bank account, phone, email, etc. \n\n- The date XXXX claims the original account was opened was XX/XX/XXXX. \n- They claim the account charged off on XX/XX/XXXX - The amount in question is claimed to be {$5300.00} - I replied to XXXX in early XXXX, and challenged the account and requested arbitration, which appears to have been granted. \n\nI do not have a full Citigroup XXXX XXXX account number ( this has not been supplied to me, but the account has been referred to as XXXX. \n\nXXXX 's internal account number for the case is XXXX."
+}
+
+Chunk:
+i was contacted earlier this year by xxxx xxxx xxxx, which claimed to be collecting on an account sold to them by citigroup which had gone delinquent. i denied that i had opened this account or charged anything on it, and noted that they seemed to have a wrong phone and xxxx for me. xxxx insisted that i had opened the account and has continued with collections activity, including filing suit, which i have denied. i am now preparing to fight the case ixxxx xxxxt. i believe my case is an example of synthetic fraud, with someone having stolen some elements of my identity and then applied for credit utilizing them and another bank account, phone, email, etc. - the date xxxx claims the original account was opened was xx / xx / xxxx. - they claim the account charged off on xx / xx / xxxx - the amount in question is claimed to be { $ 5300. 00 } - i replied to xxxx in early xxxx, and challenged the account and requested arbitration, which appears to have been granted. i do not have a full citigroup xxxx xxxx account number ( this has not been supplied to me, but the account has been referred to as xxxx. xxxx's internal account number for the case is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982579350471497
+}

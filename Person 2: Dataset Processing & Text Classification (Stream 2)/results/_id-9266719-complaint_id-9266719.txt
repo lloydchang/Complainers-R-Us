@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9266719,
+  "complaint_id": "9266719",
+  "product": "Credit card",
+  "complaint_what_happened": "I received emails saying I opened an account with Pnc that I didnt open.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90008",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received emails saying I opened an account with Pnc that I didnt open."
+}
+
+Chunk:
+i received emails saying i opened an account with pnc that i didnt open.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999402642250061
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9119754,
+  "complaint_id": "9119754",
+  "product": "Credit card",
+  "complaint_what_happened": "I try to order another card but it keeps say error why",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85043",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Block, Inc.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem getting a working replacement card",
+  "text": "I try to order another card but it keeps say error why"
+}
+
+Chunk:
+i try to order another card but it keeps say error why
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995604157447815
+}

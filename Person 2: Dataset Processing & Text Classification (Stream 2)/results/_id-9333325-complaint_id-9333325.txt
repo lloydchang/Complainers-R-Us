@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9333325,
+  "complaint_id": "9333325",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied and got the Citi card for XXXX XXXX XXXX. The promotion promised {$400.00} off my flight. The payment is due soon so I made the full payment. But I tried calling their XXXX number over 6 times. Everytime the automated system didnt recognize my social security number somehow. The one time I was barely able to get through their XXXX awful automated system to a human, they also couldnt pull up my account and gave up. I have XXXX ability to see why I am not getting the {$400.00} off. And since theres probably interest next month, they must apparently mail me a check for the {$400.00} off, and close account as I do not trust them anymore since they cant even verify my account, yet I can log in easy enough",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48309",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I applied and got the Citi card for XXXX XXXX XXXX. The promotion promised {$400.00} off my flight. The payment is due soon so I made the full payment. But I tried calling their XXXX number over 6 times. Everytime the automated system didnt recognize my social security number somehow. The one time I was barely able to get through their XXXX awful automated system to a human, they also couldnt pull up my account and gave up. I have XXXX ability to see why I am not getting the {$400.00} off. And since theres probably interest next month, they must apparently mail me a check for the {$400.00} off, and close account as I do not trust them anymore since they cant even verify my account, yet I can log in easy enough"
+}
+
+Chunk:
+i applied and got the citi card for xxxx xxxx xxxx. the promotion promised { $ 400. 00 } off my flight. the payment is due soon so i made the full payment. but i tried calling their xxxx number over 6 times. everytime the automated system didnt recognize my social security number somehow. the one time i was barely able to get through their xxxx awful automated system to a human, they also couldnt pull up my account and gave up. i have xxxx ability to see why i am not getting the { $ 400. 00 } off. and since theres probably interest next month, they must apparently mail me a check for the { $ 400. 00 } off, and close account as i do not trust them anymore since they cant even verify my account, yet i can log in easy enough
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9935581088066101
+}

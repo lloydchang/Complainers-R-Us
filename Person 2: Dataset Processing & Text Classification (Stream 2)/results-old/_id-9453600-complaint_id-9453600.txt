@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9453600,
+  "complaint_id": "9453600",
+  "product": "Credit card",
+  "complaint_what_happened": "I recently moved and changed banks. I neglected to change the account used to pay the balance on this card. The incorrect bank was charged on XX/XX/XXXX and refused payment for insufficient funds. When I received a note from my former bank that there were insufficient funds for the ACH ( on XX/XX/XXXX ) I immediately went online with the credit card company web site to correct the record and make a new online payment from my new bank. The web site refused to allow me to make a new payment or correct the bank for the current month. Still on XX/XX/XXXX I called the credit card company and spoke with a representative who said that I could not make a new payment until the CC company had been notified by the bank that there were insufficient funds. I was told that the bank notification of insufficient funds would \" clear soon '' and I would be able to make my payment online but that there was no point in calling them back. I have been checking twice a day since XX/XX/XXXX. On XXXX XXXX I received a new notice from my bank that the CC company had made a second attempt to charge the bank ; however, I still can't make a payment online or correct the payment information for the current month. Today - XX/XX/XXXX - I contacted the CC company again by phone and they still refused to allow me to make a payment or correct the payment information for the current month, saying that their system did not allow it. The representative supposedly asked a supervisor and the supervisor also refused to allow me to make a new payment on my account or change the bank that the CC company is incorrectly charging. Late charges will begin to accrue on XXXX XXXX. I have asked that records be kept of my repeated attempts to make a payment and their refusal to allow me to do so.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95747",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I recently moved and changed banks. I neglected to change the account used to pay the balance on this card. The incorrect bank was charged on XX/XX/XXXX and refused payment for insufficient funds. When I received a note from my former bank that there were insufficient funds for the ACH ( on XX/XX/XXXX ) I immediately went online with the credit card company web site to correct the record and make a new online payment from my new bank. The web site refused to allow me to make a new payment or correct the bank for the current month. Still on XX/XX/XXXX I called the credit card company and spoke with a representative who said that I could not make a new payment until the CC company had been notified by the bank that there were insufficient funds. I was told that the bank notification of insufficient funds would \" clear soon '' and I would be able to make my payment online but that there was no point in calling them back. I have been checking twice a day since XX/XX/XXXX. On XXXX XXXX I received a new notice from my bank that the CC company had made a second attempt to charge the bank ; however, I still can't make a payment online or correct the payment information for the current month. Today - XX/XX/XXXX - I contacted the CC company again by phone and they still refused to allow me to make a payment or correct the payment information for the current month, saying that their system did not allow it. The representative supposedly asked a supervisor and the supervisor also refused to allow me to make a new payment on my account or change the bank that the CC company is incorrectly charging. Late charges will begin to accrue on XXXX XXXX. I have asked that records be kept of my repeated attempts to make a payment and their refusal to allow me to do so."
+}
+
+Chunk:
+i recently moved and changed banks. i neglected to change the account used to pay the balance on this card. the incorrect bank was charged on xx / xx / xxxx and refused payment for insufficient funds. when i received a note from my former bank that there were insufficient funds for the ach ( on xx / xx / xxxx ) i immediately went online with the credit card company web site to correct the record and make a new online payment from my new bank. the web site refused to allow me to make a new payment or correct the bank for the current month. still on xx / xx / xxxx i called the credit card company and spoke with a representative who said that i could not make a new payment until the cc company had been notified by the bank that there were insufficient funds. i was told that the bank notification of insufficient funds would " clear soon'' and i would be able to make my payment online but that there was no point in calling them back. i have been checking twice a day since xx / xx / xxxx. on xxxx xxxx i received a new notice from my bank that the cc company had made a second attempt to charge the bank ; however, i still can't make a payment online or correct the payment information for the current month. today - xx / xx / xxxx - i contacted the cc company again by phone and they still refused to allow me to make a payment or correct the payment information for the current month, saying that their system did not allow it. the representative supposedly asked a supervisor and the supervisor also refused to allow me to make a new payment on my account or change the bank that the cc company is incorrectly charging. late charges will begin to accrue on xxxx xxxx. i have asked that records be kept of my repeated attempts to make a payment and their refusal to allow me to do so.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990732669830322
+}

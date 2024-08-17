@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9086001,
+  "complaint_id": "9086001",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit balance of {$110.00} I told them NOT to send a check and to please leave the balance on the account to apply to my future charges. They refused and sent out the check. Over the past 6 months and THREE checks they claimed they sent I have not received one of them in the mail. They are liars and are trying to steal the {$110.00}. I have asked them to put the funds back into my account and they refused. I have asked them to directly deposit the funds into my CHASE checking account and they refused, I have asked them to XXXX OR XXXX the funds into my account and they have REFUSED. I am requesting the funds plus interest for the past 6 months.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I have a credit balance of {$110.00} I told them NOT to send a check and to please leave the balance on the account to apply to my future charges. They refused and sent out the check. Over the past 6 months and THREE checks they claimed they sent I have not received one of them in the mail. They are liars and are trying to steal the {$110.00}. I have asked them to put the funds back into my account and they refused. I have asked them to directly deposit the funds into my CHASE checking account and they refused, I have asked them to XXXX OR XXXX the funds into my account and they have REFUSED. I am requesting the funds plus interest for the past 6 months."
+}
+
+Chunk:
+i have a credit balance of { $ 110. 00 } i told them not to send a check and to please leave the balance on the account to apply to my future charges. they refused and sent out the check. over the past 6 months and three checks they claimed they sent i have not received one of them in the mail. they are liars and are trying to steal the { $ 110. 00 }. i have asked them to put the funds back into my account and they refused. i have asked them to directly deposit the funds into my chase checking account and they refused, i have asked them to xxxx or xxxx the funds into my account and they have refused. i am requesting the funds plus interest for the past 6 months.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998498797416687
+}

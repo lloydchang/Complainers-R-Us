@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9411366,
+  "complaint_id": "9411366",
+  "product": "Credit card",
+  "complaint_what_happened": "Nothing in your system is a perfect match for my issue. \n\nI received a call from XXXX Fraud Department that someone applied for a credit card in my name. I looked on my credit report and found that BofA, XXXX XXXX, TD, and XXXX Bank all had hard inquiries. The same day, I received a letter fro BofA that the application was denied. I tried to call BofA to tell them that this was fraud, and they make it impossible to get in touch with anyone. I have no accounts with BofA, their automated system requires me to input my card number, of which I have none. I tried my SS and it said it didn't match my phone number and prompted me to enter a card number again. I asked for customer service, but it would NOT connect me without a card number. They are an awful company, they took a fraudulent credit card application, and they do not allow for anyone to report the fraud. I called all the other companies that had applications made and ALL of them answered and made the process easy and seamless. BofA makes it impossible. It is a stressful situation being a victim of identity fraud and instead of helping, they make matters more stressful. Application reference that appears on the paper I received today from BofA is XXXX",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02780",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Nothing in your system is a perfect match for my issue. \n\nI received a call from XXXX Fraud Department that someone applied for a credit card in my name. I looked on my credit report and found that BofA, XXXX XXXX, TD, and XXXX Bank all had hard inquiries. The same day, I received a letter fro BofA that the application was denied. I tried to call BofA to tell them that this was fraud, and they make it impossible to get in touch with anyone. I have no accounts with BofA, their automated system requires me to input my card number, of which I have none. I tried my SS and it said it didn't match my phone number and prompted me to enter a card number again. I asked for customer service, but it would NOT connect me without a card number. They are an awful company, they took a fraudulent credit card application, and they do not allow for anyone to report the fraud. I called all the other companies that had applications made and ALL of them answered and made the process easy and seamless. BofA makes it impossible. It is a stressful situation being a victim of identity fraud and instead of helping, they make matters more stressful. Application reference that appears on the paper I received today from BofA is XXXX"
+}
+
+Chunk:
+nothing in your system is a perfect match for my issue. i received a call from xxxx fraud department that someone applied for a credit card in my name. i looked on my credit report and found that bofa, xxxx xxxx, td, and xxxx bank all had hard inquiries. the same day, i received a letter fro bofa that the application was denied. i tried to call bofa to tell them that this was fraud, and they make it impossible to get in touch with anyone. i have no accounts with bofa, their automated system requires me to input my card number, of which i have none. i tried my ss and it said it didn't match my phone number and prompted me to enter a card number again. i asked for customer service, but it would not connect me without a card number. they are an awful company, they took a fraudulent credit card application, and they do not allow for anyone to report the fraud. i called all the other companies that had applications made and all of them answered and made the process easy and seamless. bofa makes it impossible. it is a stressful situation being a victim of identity fraud and instead of helping, they make matters more stressful. application reference that appears on the paper i received today from bofa is xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9965003728866577
+}

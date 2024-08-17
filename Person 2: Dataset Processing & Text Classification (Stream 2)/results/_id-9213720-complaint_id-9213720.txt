@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9213720,
+  "complaint_id": "9213720",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank- Lowes- 3 month interest free. \n\nMy loan was set to reach maturity XX/XX/year>. \n\nI logged in and made my payment XXXX there was no payment confirmation provided. \n\nXX/XX/year> I received an email that payment was due. I checked my synchrony account, as well as my bank account and neither indicated any pending activity. \n\nCoupled with the lack of confirmation it seemed there was a payment failure. So I followed the email instructions. \n\nThe transaction ended in an error stating I should try again later- this further supported what seemed like the original payment probably didnt go through. \n\nI tried again. This also ended in an error. \n\nI called customer service- the loan was put in my maiden name, not aligned with the application, the only payment pending was XXXX and I was assured the rest was a system error. \n\nAs of XXXX synchrony has taken XXXX out of my account 3 times this week- my initial loan was only XXXX! In addition to the second 2 transactions never indicating processing to me, the loan was paid in full with the first one, they had nothing to apply the payments to. \n\nI have now called customer service 3 times to be told that they could only see one payment, they could only see two payments, and the third time, that the supervisor will not be available until later today despite their posted hours. \n\nThere was an authorization to take payment TO PAY MY LOAN, not to help themselves to my bank account multiple times. I was directly informed a single transaction was processing my first call. I have been given a run around since. The only effort being made in this situation is mine. \n\nThis a predatory consumer practice, their system should have checks and balances to ensure it isnt happening.",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "17331",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Synchrony Bank- Lowes- 3 month interest free. \n\nMy loan was set to reach maturity XX/XX/year>. \n\nI logged in and made my payment XXXX there was no payment confirmation provided. \n\nXX/XX/year> I received an email that payment was due. I checked my synchrony account, as well as my bank account and neither indicated any pending activity. \n\nCoupled with the lack of confirmation it seemed there was a payment failure. So I followed the email instructions. \n\nThe transaction ended in an error stating I should try again later- this further supported what seemed like the original payment probably didnt go through. \n\nI tried again. This also ended in an error. \n\nI called customer service- the loan was put in my maiden name, not aligned with the application, the only payment pending was XXXX and I was assured the rest was a system error. \n\nAs of XXXX synchrony has taken XXXX out of my account 3 times this week- my initial loan was only XXXX! In addition to the second 2 transactions never indicating processing to me, the loan was paid in full with the first one, they had nothing to apply the payments to. \n\nI have now called customer service 3 times to be told that they could only see one payment, they could only see two payments, and the third time, that the supervisor will not be available until later today despite their posted hours. \n\nThere was an authorization to take payment TO PAY MY LOAN, not to help themselves to my bank account multiple times. I was directly informed a single transaction was processing my first call. I have been given a run around since. The only effort being made in this situation is mine. \n\nThis a predatory consumer practice, their system should have checks and balances to ensure it isnt happening."
+}
+
+Chunk:
+synchrony bank - lowes - 3 month interest free. my loan was set to reach maturity xx / xx / year >. i logged in and made my payment xxxx there was no payment confirmation provided. xx / xx / year > i received an email that payment was due. i checked my synchrony account, as well as my bank account and neither indicated any pending activity. coupled with the lack of confirmation it seemed there was a payment failure. so i followed the email instructions. the transaction ended in an error stating i should try again later - this further supported what seemed like the original payment probably didnt go through. i tried again. this also ended in an error. i called customer service - the loan was put in my maiden name, not aligned with the application, the only payment pending was xxxx and i was assured the rest was a system error. as of xxxx synchrony has taken xxxx out of my account 3 times this week - my initial loan was only xxxx! in addition to the second 2 transactions never indicating processing to me, the loan was paid in full with the first one, they had nothing to apply the payments to. i have now called customer service 3 times to be told that they could only see one payment, they could only see two payments, and the third time, that the supervisor will not be available until later today despite their posted hours. there was an authorization to take payment to pay my loan, not to help themselves to my bank account multiple times. i was directly informed a single transaction was processing my first call. i have been given a run around since. the only effort being made in this situation is mine. this a predatory consumer practice, their system should have checks and balances to ensure it isnt happening.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996211528778076
+}

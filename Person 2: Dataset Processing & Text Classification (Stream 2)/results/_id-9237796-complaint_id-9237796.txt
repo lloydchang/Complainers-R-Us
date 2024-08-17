@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9237796,
+  "complaint_id": "9237796",
+  "product": "Credit card",
+  "complaint_what_happened": "An unsubstantiated charge of {$3400.00} posted to my Wells Fargo XXXX  account on XXXX XX/XX/XXXX. After I disputed this charge, {$2400.00} was credited on XXXX XX/XX/XXXX leaving a remaining unsubstantiated charge of {$1000.00}. Another unsubstantiated charge of {$2300.00} posted to my Wells Fargo XXXX account on XXXX XX/XX/XXXX. The total of both unsubstantiated charges is {$3300.00}. The unsubstantiated charges are in error because the only order that I placed was order number XXXX and that order totaled {$5900.00} ( {$6200.00} after taxes ). The contents of this order with taxes included are as follows : XXXX ) {$160.00} for XXXX XXXX XXXX  XXXX XXXX, Sales Order XXXX, XXXX XXXX ) {$5900.00} for XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX, Sales Order XXXX, XXXX XXXX ) {$160.00} for XXXX XXXXXXXX XXXX XXXX XXXX Sales Order XXXX, XXXX The balance of {$6200.00} for all items that I ordered has been paid in full as of XXXX XX/XX/XXXX. The below payments were made, and my Wells Fargo XXXX account needs to be corrected and closed promptly. \n- {$130.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$200.00} paid on XXXX XX/XX/XXXX - {$200.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$160.00} paid on XXXX XX/XX/XXXX - {$5100.00} paid on XXXX XX/XX/XXXX In accordance with federal law, I will not make any payments for items that I did not order. I have provided proof of the order I placed in the previous complaint, and I have paid for the items ordered in full. XXXX has not provided any evidence of an order that I placed to account for the unauthorized charges of {$3300.00} added to my account. The Wells FargoXXXX demand of payment for items that I did not order is unlawful.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "223XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "An unsubstantiated charge of {$3400.00} posted to my Wells Fargo XXXX  account on XXXX XX/XX/XXXX. After I disputed this charge, {$2400.00} was credited on XXXX XX/XX/XXXX leaving a remaining unsubstantiated charge of {$1000.00}. Another unsubstantiated charge of {$2300.00} posted to my Wells Fargo XXXX account on XXXX XX/XX/XXXX. The total of both unsubstantiated charges is {$3300.00}. The unsubstantiated charges are in error because the only order that I placed was order number XXXX and that order totaled {$5900.00} ( {$6200.00} after taxes ). The contents of this order with taxes included are as follows : XXXX ) {$160.00} for XXXX XXXX XXXX  XXXX XXXX, Sales Order XXXX, XXXX XXXX ) {$5900.00} for XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX, Sales Order XXXX, XXXX XXXX ) {$160.00} for XXXX XXXXXXXX XXXX XXXX XXXX Sales Order XXXX, XXXX The balance of {$6200.00} for all items that I ordered has been paid in full as of XXXX XX/XX/XXXX. The below payments were made, and my Wells Fargo XXXX account needs to be corrected and closed promptly. \n- {$130.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$200.00} paid on XXXX XX/XX/XXXX - {$200.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$130.00} paid on XXXX XX/XX/XXXX - {$160.00} paid on XXXX XX/XX/XXXX - {$5100.00} paid on XXXX XX/XX/XXXX In accordance with federal law, I will not make any payments for items that I did not order. I have provided proof of the order I placed in the previous complaint, and I have paid for the items ordered in full. XXXX has not provided any evidence of an order that I placed to account for the unauthorized charges of {$3300.00} added to my account. The Wells FargoXXXX demand of payment for items that I did not order is unlawful."
+}
+
+Chunk:
+items ordered in full. xxxx has not provided any evidence of an order that i placed to account for the unauthorized charges of { $ 3300. 00 } added to my account. the wells fargoxxxx demand of payment for items that i did not order is unlawful.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993610978126526
+}

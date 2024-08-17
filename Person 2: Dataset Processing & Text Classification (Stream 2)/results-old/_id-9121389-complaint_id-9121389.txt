@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9121389,
+  "complaint_id": "9121389",
+  "product": "Credit card",
+  "complaint_what_happened": "I attempted to pay my XXXX XXXX credit card through comenity bank website as I do every month but was unable to log on. I tried multiple attempts to reset my password but kept being told there was no record of my account. I later learned after my account went into collections that a different bank now owns XXXX XXXX credit card. There is no notice of this anywhere on the comenity bank website it just said it could not locate my account.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "19355",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I attempted to pay my XXXX XXXX credit card through comenity bank website as I do every month but was unable to log on. I tried multiple attempts to reset my password but kept being told there was no record of my account. I later learned after my account went into collections that a different bank now owns XXXX XXXX credit card. There is no notice of this anywhere on the comenity bank website it just said it could not locate my account."
+}
+
+Chunk:
+i attempted to pay my xxxx xxxx credit card through comenity bank website as i do every month but was unable to log on. i tried multiple attempts to reset my password but kept being told there was no record of my account. i later learned after my account went into collections that a different bank now owns xxxx xxxx credit card. there is no notice of this anywhere on the comenity bank website it just said it could not locate my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997014403343201
+}

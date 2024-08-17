@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9500983,
+  "complaint_id": "9500983",
+  "product": "Credit card",
+  "complaint_what_happened": "Wells Fargo first asked for the proof included inside the email, then they denied me. Then they asked for the proof to be attached as a PDF, then they denied me. Then I did a complaint against them in XXXX review and got a response from their XXXX saying this : Claim XXXX was filed on XX/XX/year>, regarding a transaction for the merchant XXXX totaling {$99.00} that posted to your account on XX/XX/year>. Based on the information provided, our Claims Assistance center investigated this dispute. Our Claims Assistance Center determined no errors were found involving these transactions. \n\nDue to out Claims Assistance Center not receiving the information that they requested from you, the decision was based on the information that was available. While we understand provisional credit was initially received at the time when the claim was filed, based on the Claims Assistance Center research the provisional credit was reversed on XX/XX/year>. Therefore, as of XX/XX/year>, your claim was closed without pay. Upon completing our investigation, we agree with the decision previously communicated to you by our Claims Assistance department. Therefore, the claim will remain closed and unpaid. \n\nI GAVE THEM AMPLE PROOF ALL THE PROOF ( TWICE ) SHOWING THE DUPLICATE CHARGE AND THEY ARE GOING TO LET XXXX XXXX  GET AWAY WITH FRAUD. \n\nI need help getting my {$99.00} back please, this is very stressful and is causing me several health issues, I currently am looking for part time work and every dollar counts. \n\nThank you so very much in advance.",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "956XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Wells Fargo first asked for the proof included inside the email, then they denied me. Then they asked for the proof to be attached as a PDF, then they denied me. Then I did a complaint against them in XXXX review and got a response from their XXXX saying this : Claim XXXX was filed on XX/XX/year>, regarding a transaction for the merchant XXXX totaling {$99.00} that posted to your account on XX/XX/year>. Based on the information provided, our Claims Assistance center investigated this dispute. Our Claims Assistance Center determined no errors were found involving these transactions. \n\nDue to out Claims Assistance Center not receiving the information that they requested from you, the decision was based on the information that was available. While we understand provisional credit was initially received at the time when the claim was filed, based on the Claims Assistance Center research the provisional credit was reversed on XX/XX/year>. Therefore, as of XX/XX/year>, your claim was closed without pay. Upon completing our investigation, we agree with the decision previously communicated to you by our Claims Assistance department. Therefore, the claim will remain closed and unpaid. \n\nI GAVE THEM AMPLE PROOF ALL THE PROOF ( TWICE ) SHOWING THE DUPLICATE CHARGE AND THEY ARE GOING TO LET XXXX XXXX  GET AWAY WITH FRAUD. \n\nI need help getting my {$99.00} back please, this is very stressful and is causing me several health issues, I currently am looking for part time work and every dollar counts. \n\nThank you so very much in advance."
+}
+
+Chunk:
+wells fargo first asked for the proof included inside the email, then they denied me. then they asked for the proof to be attached as a pdf, then they denied me. then i did a complaint against them in xxxx review and got a response from their xxxx saying this : claim xxxx was filed on xx / xx / year >, regarding a transaction for the merchant xxxx totaling { $ 99. 00 } that posted to your account on xx / xx / year >. based on the information provided, our claims assistance center investigated this dispute. our claims assistance center determined no errors were found involving these transactions. due to out claims assistance center not receiving the information that they requested from you, the decision was based on the information that was available. while we understand provisional credit was initially received at the time when the claim was filed, based on the claims assistance center research the provisional credit was reversed on xx / xx / year >. therefore, as of xx / xx / year >, your claim was closed without pay. upon completing our investigation, we agree with the decision previously communicated to you by our claims assistance department. therefore, the claim will remain closed and unpaid. i gave them ample proof all the proof ( twice ) showing the duplicate charge and they are going to let xxxx xxxx get away with fraud. i need help getting my { $ 99. 00 } back please, this is very stressful and is causing me several health issues, i currently am looking for part time work and every dollar counts. thank you so very much in advance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.994536280632019
+}

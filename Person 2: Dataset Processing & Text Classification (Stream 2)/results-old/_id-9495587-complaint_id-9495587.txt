@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9495587,
+  "complaint_id": "9495587",
+  "product": "Credit card",
+  "complaint_what_happened": "I had an account with Rooms To Go through Synchrony Bank for about a year, maybe longer. Without any prior notice, they first lowered my credit limit and then closed my account entirely. When I demanded an explanation, they provided inaccurate information. I asked for more details about their decision, but they claimed they didn't have to elaborate. The reasons they gave were false, and the information they provided didn't add up.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "76087",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I had an account with Rooms To Go through Synchrony Bank for about a year, maybe longer. Without any prior notice, they first lowered my credit limit and then closed my account entirely. When I demanded an explanation, they provided inaccurate information. I asked for more details about their decision, but they claimed they didn't have to elaborate. The reasons they gave were false, and the information they provided didn't add up."
+}
+
+Chunk:
+i had an account with rooms to go through synchrony bank for about a year, maybe longer. without any prior notice, they first lowered my credit limit and then closed my account entirely. when i demanded an explanation, they provided inaccurate information. i asked for more details about their decision, but they claimed they didn't have to elaborate. the reasons they gave were false, and the information they provided didn't add up.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996150732040405
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9556278,
+  "complaint_id": "9556278",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened this credit card XX/XX/XXXX. I have never been late with any payment. I use the card for a majority of all my purchases. I have a credit limit of {$2000.00}. \n\nOn XX/XX/XXXX, I make three payments. One was the balance on account for {$360.00}. I also made a payment of {$2000.00} and another for {$1500.00}. These payments cleared my bank on XX/XX/XXXX. \n\nI made a purchase/charge for {$1700.00} on XX/XX/XXXX. \n\nI was going to make another purchase/charge for {$1700.00} but the credit card company put a charge, which they said a \" hold '' on my account for {$1500.00}. The said it was for 10 days. I asked them if I owe them anything and they said \" no ''. \n\nI don't owe anything on the card, but yet I only have {$500.00} availability on my card. \n\nI was trying to pay an attorney and I wanted to be able to track the {$3500.00} purchase on my card, so I made the payments so I would not go over my {$2000.00} limit. Now, I can't even use my card as they are keeping my money. \n\nI want the hold of the {$1500.00} removed so I can continue with my purchase of {$1700.00}. \n\nI have perfect credit and have never done anything to deserve to be treated this way.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "748XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I opened this credit card XX/XX/XXXX. I have never been late with any payment. I use the card for a majority of all my purchases. I have a credit limit of {$2000.00}. \n\nOn XX/XX/XXXX, I make three payments. One was the balance on account for {$360.00}. I also made a payment of {$2000.00} and another for {$1500.00}. These payments cleared my bank on XX/XX/XXXX. \n\nI made a purchase/charge for {$1700.00} on XX/XX/XXXX. \n\nI was going to make another purchase/charge for {$1700.00} but the credit card company put a charge, which they said a \" hold '' on my account for {$1500.00}. The said it was for 10 days. I asked them if I owe them anything and they said \" no ''. \n\nI don't owe anything on the card, but yet I only have {$500.00} availability on my card. \n\nI was trying to pay an attorney and I wanted to be able to track the {$3500.00} purchase on my card, so I made the payments so I would not go over my {$2000.00} limit. Now, I can't even use my card as they are keeping my money. \n\nI want the hold of the {$1500.00} removed so I can continue with my purchase of {$1700.00}. \n\nI have perfect credit and have never done anything to deserve to be treated this way."
+}
+
+Chunk:
+i opened this credit card xx / xx / xxxx. i have never been late with any payment. i use the card for a majority of all my purchases. i have a credit limit of { $ 2000. 00 }. on xx / xx / xxxx, i make three payments. one was the balance on account for { $ 360. 00 }. i also made a payment of { $ 2000. 00 } and another for { $ 1500. 00 }. these payments cleared my bank on xx / xx / xxxx. i made a purchase / charge for { $ 1700. 00 } on xx / xx / xxxx. i was going to make another purchase / charge for { $ 1700. 00 } but the credit card company put a charge, which they said a " hold'' on my account for { $ 1500. 00 }. the said it was for 10 days. i asked them if i owe them anything and they said " no''. i don't owe anything on the card, but yet i only have { $ 500. 00 } availability on my card. i was trying to pay an attorney and i wanted to be able to track the { $ 3500. 00 } purchase on my card, so i made the payments so i would not go over my { $ 2000. 00 } limit. now, i can't even use my card as they are keeping my money. i want the hold of the { $ 1500. 00 } removed so i can continue with my purchase of { $ 1700. 00 }. i have perfect credit and have never done anything to deserve to be treated this way.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972423315048218
+}

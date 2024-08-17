@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9454240,
+  "complaint_id": "9454240",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to dispute an unauthorized access to my credit report, which I believe is in violation of 15 U.S.C. 1681b of the Fair Credit Reporting Act ( FCRA ). Specifically, I have discovered that my credit report was accessed by XXXX XXXX and XXXX XXXX without my authorization, or any permissible purpose as defined under the FCRA. According to the FCRA, a consumer report can only be furnished for specific permissible purposes, such as credit transactions, employment, insurance underwriting, or other legitimate business needs. I did not initiate any transactions, applications, or business relationship with XXXX XXXX  and XXXX XXXX, nor did I provide written consent for my credit report to be accessed.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29223",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I am writing to dispute an unauthorized access to my credit report, which I believe is in violation of 15 U.S.C. 1681b of the Fair Credit Reporting Act ( FCRA ). Specifically, I have discovered that my credit report was accessed by XXXX XXXX and XXXX XXXX without my authorization, or any permissible purpose as defined under the FCRA. According to the FCRA, a consumer report can only be furnished for specific permissible purposes, such as credit transactions, employment, insurance underwriting, or other legitimate business needs. I did not initiate any transactions, applications, or business relationship with XXXX XXXX  and XXXX XXXX, nor did I provide written consent for my credit report to be accessed."
+}
+
+Chunk:
+i am writing to dispute an unauthorized access to my credit report, which i believe is in violation of 15 u. s. c. 1681b of the fair credit reporting act ( fcra ). specifically, i have discovered that my credit report was accessed by xxxx xxxx and xxxx xxxx without my authorization, or any permissible purpose as defined under the fcra. according to the fcra, a consumer report can only be furnished for specific permissible purposes, such as credit transactions, employment, insurance underwriting, or other legitimate business needs. i did not initiate any transactions, applications, or business relationship with xxxx xxxx and xxxx xxxx, nor did i provide written consent for my credit report to be accessed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992473125457764
+}

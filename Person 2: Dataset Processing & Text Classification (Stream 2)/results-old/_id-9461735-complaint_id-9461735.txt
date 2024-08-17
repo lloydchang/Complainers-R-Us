@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9461735,
+  "complaint_id": "9461735",
+  "product": "Credit card",
+  "complaint_what_happened": "The order was cancelled and the merchant has not delivered any goods. The contract clearly states that the merchant has to refund deposit in the event of a material breach of the contract by the seller. The merchant can not deliver to me the product I thought I was buying and that is a material breach of the contract. I have provided copy of the contract and I have provided the screenshot confirmation that the merchant is not going to deliver anything to me and the order was cancelled, however, Synchrony Bank still siding with the merchant. What do you call when you were provided no service and given no merchandise, but they took your money? You call them thieves. So XXXX XXXX are thieves just by pure definition of their actions! Synchrony Bank protecting thieves instead of protecting me from those thieves per our credit card agreement.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "325XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The order was cancelled and the merchant has not delivered any goods. The contract clearly states that the merchant has to refund deposit in the event of a material breach of the contract by the seller. The merchant can not deliver to me the product I thought I was buying and that is a material breach of the contract. I have provided copy of the contract and I have provided the screenshot confirmation that the merchant is not going to deliver anything to me and the order was cancelled, however, Synchrony Bank still siding with the merchant. What do you call when you were provided no service and given no merchandise, but they took your money? You call them thieves. So XXXX XXXX are thieves just by pure definition of their actions! Synchrony Bank protecting thieves instead of protecting me from those thieves per our credit card agreement."
+}
+
+Chunk:
+the order was cancelled and the merchant has not delivered any goods. the contract clearly states that the merchant has to refund deposit in the event of a material breach of the contract by the seller. the merchant can not deliver to me the product i thought i was buying and that is a material breach of the contract. i have provided copy of the contract and i have provided the screenshot confirmation that the merchant is not going to deliver anything to me and the order was cancelled, however, synchrony bank still siding with the merchant. what do you call when you were provided no service and given no merchandise, but they took your money? you call them thieves. so xxxx xxxx are thieves just by pure definition of their actions! synchrony bank protecting thieves instead of protecting me from those thieves per our credit card agreement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992446899414062
+}

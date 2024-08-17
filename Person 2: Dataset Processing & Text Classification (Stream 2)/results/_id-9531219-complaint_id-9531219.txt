@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9531219,
+  "complaint_id": "9531219",
+  "product": "Credit card",
+  "complaint_what_happened": "I have Citi credit cards. I opened a Citi savings account to pay down those credit cards. I deposited XXXX {$2000.00} checks from XXXX into that savings account. I began making payments from that savings account on those credit cards. I had autopay scheduled on at least XXXX of the credit cards. \n\nCiti then proceeded to summarily cancel the autopay function, close the savings account, charge the savings account for the autopayment, tell me the payment failed, and then tell me repeatedly I have a past due payment. \n\nI have received random letters from Citi. I have called them each time I receive a letter - either electronically or by U.S. Post. Each time, I have documented the conversation with Citi. Each time I get walked in circles with nothing to show for it except clearly understanding my voice does not matter. They are going to do whatever the XXXX they want to do. \n\nI have sent so much documentation only to have received a piece of mail from you yesterday saying you could not go through with a complaint against them. Then the rest of the mail said here is how to file a complaint. \n\nHow about you do it right the first time?",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46227",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I have Citi credit cards. I opened a Citi savings account to pay down those credit cards. I deposited XXXX {$2000.00} checks from XXXX into that savings account. I began making payments from that savings account on those credit cards. I had autopay scheduled on at least XXXX of the credit cards. \n\nCiti then proceeded to summarily cancel the autopay function, close the savings account, charge the savings account for the autopayment, tell me the payment failed, and then tell me repeatedly I have a past due payment. \n\nI have received random letters from Citi. I have called them each time I receive a letter - either electronically or by U.S. Post. Each time, I have documented the conversation with Citi. Each time I get walked in circles with nothing to show for it except clearly understanding my voice does not matter. They are going to do whatever the XXXX they want to do. \n\nI have sent so much documentation only to have received a piece of mail from you yesterday saying you could not go through with a complaint against them. Then the rest of the mail said here is how to file a complaint. \n\nHow about you do it right the first time?"
+}
+
+Chunk:
+i have citi credit cards. i opened a citi savings account to pay down those credit cards. i deposited xxxx { $ 2000. 00 } checks from xxxx into that savings account. i began making payments from that savings account on those credit cards. i had autopay scheduled on at least xxxx of the credit cards. citi then proceeded to summarily cancel the autopay function, close the savings account, charge the savings account for the autopayment, tell me the payment failed, and then tell me repeatedly i have a past due payment. i have received random letters from citi. i have called them each time i receive a letter - either electronically or by u. s. post. each time, i have documented the conversation with citi. each time i get walked in circles with nothing to show for it except clearly understanding my voice does not matter. they are going to do whatever the xxxx they want to do. i have sent so much documentation only to have received a piece of mail from you yesterday saying you could not go through with a complaint against them. then the rest of the mail said here is how to file a complaint. how about you do it right the first time?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987587928771973
+}

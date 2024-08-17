@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044816,
+  "complaint_id": "9044816",
+  "product": "Credit card",
+  "complaint_what_happened": "As of XXXX XXXX, 2024 I have not received any documentary evidence that XXXX XXXX followed the truth in lending Act and informed me of my right to opt out of reporting my information to XX/XX/XXXXparty credit reporting agencies as a customer of the financial institution. I have never received any documentation before they committed multiple violations under The Gramm-Leach-Bliley Act by furnishing my private financial information. \nXXXX XXXX received a notice from me informing them that per the Gramm- Leach Bliley Act, I am opting out of sharing my financial information and that I am exercising my right to privacyXX/XX/XXXXXXXX. This notice was sent by way of registered mail with tracking number XXXX and was received by XXXX XXXX XX/XX/year>. I have received, through the mail, a response from XXXX XXXX dated XXXX XX/XX/year> but was received XXXX XX/XX/year> with no tracking, stating that they will continue to furnish my NPI ( Nonpublic information ) information to a non-affiliated XX/XX/XXXXparty. This is in direct violation of the FCRA. \nI am demanding a cease and desist of all sharing of my NPI. If XXXX XXXX continues its sharing of my NPI to non-affiliated XX/XX/XXXXparties, I will file for litigation for actual damages caused through deception and unfairness as well as injunctive and equitable relief. \nI am in no debt to XXXX XXXX. I see no facts nor evidence. I have not received a loan. XXXX XXXX has not provided me with the account ledger nor treasury transcripts for the account.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11221",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "As of XXXX XXXX, 2024 I have not received any documentary evidence that XXXX XXXX followed the truth in lending Act and informed me of my right to opt out of reporting my information to XX/XX/XXXXparty credit reporting agencies as a customer of the financial institution. I have never received any documentation before they committed multiple violations under The Gramm-Leach-Bliley Act by furnishing my private financial information. \nXXXX XXXX received a notice from me informing them that per the Gramm- Leach Bliley Act, I am opting out of sharing my financial information and that I am exercising my right to privacyXX/XX/XXXXXXXX. This notice was sent by way of registered mail with tracking number XXXX and was received by XXXX XXXX XX/XX/year>. I have received, through the mail, a response from XXXX XXXX dated XXXX XX/XX/year> but was received XXXX XX/XX/year> with no tracking, stating that they will continue to furnish my NPI ( Nonpublic information ) information to a non-affiliated XX/XX/XXXXparty. This is in direct violation of the FCRA. \nI am demanding a cease and desist of all sharing of my NPI. If XXXX XXXX continues its sharing of my NPI to non-affiliated XX/XX/XXXXparties, I will file for litigation for actual damages caused through deception and unfairness as well as injunctive and equitable relief. \nI am in no debt to XXXX XXXX. I see no facts nor evidence. I have not received a loan. XXXX XXXX has not provided me with the account ledger nor treasury transcripts for the account."
+}
+
+Chunk:
+as of xxxx xxxx, 2024 i have not received any documentary evidence that xxxx xxxx followed the truth in lending act and informed me of my right to opt out of reporting my information to xx / xx / xxxxparty credit reporting agencies as a customer of the financial institution. i have never received any documentation before they committed multiple violations under the gramm - leach - bliley act by furnishing my private financial information. xxxx xxxx received a notice from me informing them that per the gramm - leach bliley act, i am opting out of sharing my financial information and that i am exercising my right to privacyxx / xx / xxxxxxxx. this notice was sent by way of registered mail with tracking number xxxx and was received by xxxx xxxx xx / xx / year >. i have received, through the mail, a response from xxxx xxxx dated xxxx xx / xx / year > but was received xxxx xx / xx / year > with no tracking, stating that they will continue to furnish my npi ( nonpublic information ) information to a non - affiliated xx / xx / xxxxparty. this is in direct violation of the fcra. i am demanding a cease and desist of all sharing of my npi. if xxxx xxxx continues its sharing of my npi to non - affiliated xx / xx / xxxxparties, i will file for litigation for actual damages caused through deception and unfairness as well as injunctive and equitable relief. i am in no debt to xxxx xxxx. i see no facts nor evidence. i have not received a loan. xxxx xxxx has not provided me with the account ledger nor treasury transcripts for the account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983685612678528
+}

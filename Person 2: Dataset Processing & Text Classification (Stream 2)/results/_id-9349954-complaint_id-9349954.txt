@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9349954,
+  "complaint_id": "9349954",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card with Citi Bank that I opened in XXXX of XXXX. I have been using this card, and paying on it regularly. I recently called to open a checking account. Through the process, they were unable to locate any accounts with them using my social security number. Through other verification methods, they were able to locate my credit card account. I was transferred to the credit card department to see why my ssn was not pulling that account. They confirmed, my ssn was not info that would verify this, and transferred me to the fraud department. They also confirmed this. I was advised that there was a ssn attached but was not what I provided. I asked if it appeared that there was a typo, or off by a digit. The rep advised no, that the ssn was completely different, and no way could be a typo. Now I have to go through a process to verify my identity with them. The concern is that somehow, someone elses ssn is on my credit card. As I began to ask questions as to how this could happen, they basically shut down, and told me I need to complete the identity verification. This needs to be officially investigated to determine how this happened, the misuse of sensitive information, how many other accounts are affected, and appropriate penalties and consumer disclosure of this breach has occurred.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48446",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Privacy issues",
+  "text": "I have a credit card with Citi Bank that I opened in XXXX of XXXX. I have been using this card, and paying on it regularly. I recently called to open a checking account. Through the process, they were unable to locate any accounts with them using my social security number. Through other verification methods, they were able to locate my credit card account. I was transferred to the credit card department to see why my ssn was not pulling that account. They confirmed, my ssn was not info that would verify this, and transferred me to the fraud department. They also confirmed this. I was advised that there was a ssn attached but was not what I provided. I asked if it appeared that there was a typo, or off by a digit. The rep advised no, that the ssn was completely different, and no way could be a typo. Now I have to go through a process to verify my identity with them. The concern is that somehow, someone elses ssn is on my credit card. As I began to ask questions as to how this could happen, they basically shut down, and told me I need to complete the identity verification. This needs to be officially investigated to determine how this happened, the misuse of sensitive information, how many other accounts are affected, and appropriate penalties and consumer disclosure of this breach has occurred."
+}
+
+Chunk:
+i have a credit card with citi bank that i opened in xxxx of xxxx. i have been using this card, and paying on it regularly. i recently called to open a checking account. through the process, they were unable to locate any accounts with them using my social security number. through other verification methods, they were able to locate my credit card account. i was transferred to the credit card department to see why my ssn was not pulling that account. they confirmed, my ssn was not info that would verify this, and transferred me to the fraud department. they also confirmed this. i was advised that there was a ssn attached but was not what i provided. i asked if it appeared that there was a typo, or off by a digit. the rep advised no, that the ssn was completely different, and no way could be a typo. now i have to go through a process to verify my identity with them. the concern is that somehow, someone elses ssn is on my credit card. as i began to ask questions as to how this could happen, they basically shut down, and told me i need to complete the identity verification. this needs to be officially investigated to determine how this happened, the misuse of sensitive information, how many other accounts are affected, and appropriate penalties and consumer disclosure of this breach has occurred.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996095299720764
+}

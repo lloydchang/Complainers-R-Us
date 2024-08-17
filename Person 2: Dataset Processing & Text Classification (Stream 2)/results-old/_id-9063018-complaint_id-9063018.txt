@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9063018,
+  "complaint_id": "9063018",
+  "product": "Credit card",
+  "complaint_what_happened": "See Letter! \n\nI provided the extensive summary, a copy of a statement from the witness and my hotel charge with the original cardholder dispute submission. \n\nToday, a JPMorgan person called and said they will not give a refund, that there is no chargeback reason. Further that I stayed and used the hotel and that I got points. First, like where was I supposed to go? Also, I waited for responses from both XXXX and XXXX XXXX. So, I had to stay put. Also, the points I received doesn't even cover a one night stay anywhere. \n\nI told the guy XXXX! You can make a decision for your cardholder customer! \n\nI see no reason to keep this card account, they make great interest off my account, I have never missed a payment, on a high credit line. This issuer has no clue how to treat a valuable cardholder customer. No empathy to what I went thru, no effort to hold this merchant accountable. This is why JPMorgan reported billions in profits. A detached, uninformed, unprofessional, discourteous card issuer. Shame on you!",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "See Letter! \n\nI provided the extensive summary, a copy of a statement from the witness and my hotel charge with the original cardholder dispute submission. \n\nToday, a JPMorgan person called and said they will not give a refund, that there is no chargeback reason. Further that I stayed and used the hotel and that I got points. First, like where was I supposed to go? Also, I waited for responses from both XXXX and XXXX XXXX. So, I had to stay put. Also, the points I received doesn't even cover a one night stay anywhere. \n\nI told the guy XXXX! You can make a decision for your cardholder customer! \n\nI see no reason to keep this card account, they make great interest off my account, I have never missed a payment, on a high credit line. This issuer has no clue how to treat a valuable cardholder customer. No empathy to what I went thru, no effort to hold this merchant accountable. This is why JPMorgan reported billions in profits. A detached, uninformed, unprofessional, discourteous card issuer. Shame on you!"
+}
+
+Chunk:
+see letter! i provided the extensive summary, a copy of a statement from the witness and my hotel charge with the original cardholder dispute submission. today, a jpmorgan person called and said they will not give a refund, that there is no chargeback reason. further that i stayed and used the hotel and that i got points. first, like where was i supposed to go? also, i waited for responses from both xxxx and xxxx xxxx. so, i had to stay put. also, the points i received doesn't even cover a one night stay anywhere. i told the guy xxxx! you can make a decision for your cardholder customer! i see no reason to keep this card account, they make great interest off my account, i have never missed a payment, on a high credit line. this issuer has no clue how to treat a valuable cardholder customer. no empathy to what i went thru, no effort to hold this merchant accountable. this is why jpmorgan reported billions in profits. a detached, uninformed, unprofessional, discourteous card issuer. shame on you!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993842840194702
+}

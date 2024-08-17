@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9031547,
+  "complaint_id": "9031547",
+  "product": "Credit card",
+  "complaint_what_happened": "I just received my credit card today and activated it. When I tried to add it to XXXX XXXX, it required me to verify it over the phone. When I tried, I answered my security question and provided my card details and was connected to a representative. They required an ADDITIONAL phone number, despite me calling from the number listed on my account. I couldn't initially provide XXXX but then provided them a work phone number, but that \" didn't meet their standards '' so they couldn't use it. They said there was no additional way to verify my account if I couldn't provide another phone number, and they triggered a fraud alert on my account without even telling me, and now I can not even use my card until I received a letter via snail mail in XXXX days.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30312",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I just received my credit card today and activated it. When I tried to add it to XXXX XXXX, it required me to verify it over the phone. When I tried, I answered my security question and provided my card details and was connected to a representative. They required an ADDITIONAL phone number, despite me calling from the number listed on my account. I couldn't initially provide XXXX but then provided them a work phone number, but that \" didn't meet their standards '' so they couldn't use it. They said there was no additional way to verify my account if I couldn't provide another phone number, and they triggered a fraud alert on my account without even telling me, and now I can not even use my card until I received a letter via snail mail in XXXX days."
+}
+
+Chunk:
+i just received my credit card today and activated it. when i tried to add it to xxxx xxxx, it required me to verify it over the phone. when i tried, i answered my security question and provided my card details and was connected to a representative. they required an additional phone number, despite me calling from the number listed on my account. i couldn't initially provide xxxx but then provided them a work phone number, but that " didn't meet their standards'' so they couldn't use it. they said there was no additional way to verify my account if i couldn't provide another phone number, and they triggered a fraud alert on my account without even telling me, and now i can not even use my card until i received a letter via snail mail in xxxx days.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988762736320496
+}

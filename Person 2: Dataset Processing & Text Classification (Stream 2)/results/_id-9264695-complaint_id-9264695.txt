@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9264695,
+  "complaint_id": "9264695",
+  "product": "Credit card",
+  "complaint_what_happened": "Opened Affirm loan XXXX for a purchase on XXXX for two lawnmowers. I never received the two lawnmowers. The XXXX seller sent two false tracking numbers. One a XXXX  tracking for a package from XXXX ( not XXXX ) shipped to an XXXX customer NOT my address nor my package. Later I was sent a XXXX package that also belonged to an XXXX customer. Again not even XXXX package. The package had a different persons name and XXXX said the package was NOT mine. I have proof from XXXX and XXXX showing these packages were NOT mine. XXXX gave a partial refund and closed my dispute. Affirm sided with XXXX and closed my dispute and affirm are demanding I pay the remaining balance.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "305XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Affirm Holdings, Inc",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Opened Affirm loan XXXX for a purchase on XXXX for two lawnmowers. I never received the two lawnmowers. The XXXX seller sent two false tracking numbers. One a XXXX  tracking for a package from XXXX ( not XXXX ) shipped to an XXXX customer NOT my address nor my package. Later I was sent a XXXX package that also belonged to an XXXX customer. Again not even XXXX package. The package had a different persons name and XXXX said the package was NOT mine. I have proof from XXXX and XXXX showing these packages were NOT mine. XXXX gave a partial refund and closed my dispute. Affirm sided with XXXX and closed my dispute and affirm are demanding I pay the remaining balance."
+}
+
+Chunk:
+opened affirm loan xxxx for a purchase on xxxx for two lawnmowers. i never received the two lawnmowers. the xxxx seller sent two false tracking numbers. one a xxxx tracking for a package from xxxx ( not xxxx ) shipped to an xxxx customer not my address nor my package. later i was sent a xxxx package that also belonged to an xxxx customer. again not even xxxx package. the package had a different persons name and xxxx said the package was not mine. i have proof from xxxx and xxxx showing these packages were not mine. xxxx gave a partial refund and closed my dispute. affirm sided with xxxx and closed my dispute and affirm are demanding i pay the remaining balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993413090705872
+}

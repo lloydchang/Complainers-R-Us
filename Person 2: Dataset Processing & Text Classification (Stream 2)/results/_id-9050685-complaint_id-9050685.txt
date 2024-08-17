@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9050685,
+  "complaint_id": "9050685",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card with Plus Finance. I had a minimum payment of {$620.00} due by XX/XX/XXXX. In order to stay current, I paid the past due portion of that minimum due, {$450.00}, on XXXX. I received an email confirming the payment. The next day I received an email that the balance of that minimum payment, {$170.00}, was due on that original due date of XX/XX/XXXX. Since I was on an automatic payment plan, I assumed the issue was resolved. On XX/XX/XXXX I received an email from them that they had successfully processed a payment of the original full amount due of {$620.00} on XX/XX/XXXX, rather than the {$170.00} they had previously identified as the remaining balance. They collect the {$450.00} amount twice. \n\nI called them to have the transaction reversed and the proper {$170.00} payment then processed, but they told me they would have to initiate an investigation that would take a minimum of XXXX days. They told me that if I needed my money back sooner ( which I do ), that I should go to my bank and contest the transaction as unauthorized. Unfortunately, my bank would take about the same amount of time to investigate and would also have to cancel my debit card. \n\nIt can not be okay that a bank can make what is clearly their error, take a consumers money through an unauthorized transaction, and be under no obligation to return the money in a timely manner, especially when the information is so clearcut ; their own emails to me reflect their error. \n\nDo I have any recourse, or am I at the banks mercy?",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "017XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have a credit card with Plus Finance. I had a minimum payment of {$620.00} due by XX/XX/XXXX. In order to stay current, I paid the past due portion of that minimum due, {$450.00}, on XXXX. I received an email confirming the payment. The next day I received an email that the balance of that minimum payment, {$170.00}, was due on that original due date of XX/XX/XXXX. Since I was on an automatic payment plan, I assumed the issue was resolved. On XX/XX/XXXX I received an email from them that they had successfully processed a payment of the original full amount due of {$620.00} on XX/XX/XXXX, rather than the {$170.00} they had previously identified as the remaining balance. They collect the {$450.00} amount twice. \n\nI called them to have the transaction reversed and the proper {$170.00} payment then processed, but they told me they would have to initiate an investigation that would take a minimum of XXXX days. They told me that if I needed my money back sooner ( which I do ), that I should go to my bank and contest the transaction as unauthorized. Unfortunately, my bank would take about the same amount of time to investigate and would also have to cancel my debit card. \n\nIt can not be okay that a bank can make what is clearly their error, take a consumers money through an unauthorized transaction, and be under no obligation to return the money in a timely manner, especially when the information is so clearcut ; their own emails to me reflect their error. \n\nDo I have any recourse, or am I at the banks mercy?"
+}
+
+Chunk:
+i have a credit card with plus finance. i had a minimum payment of { $ 620. 00 } due by xx / xx / xxxx. in order to stay current, i paid the past due portion of that minimum due, { $ 450. 00 }, on xxxx. i received an email confirming the payment. the next day i received an email that the balance of that minimum payment, { $ 170. 00 }, was due on that original due date of xx / xx / xxxx. since i was on an automatic payment plan, i assumed the issue was resolved. on xx / xx / xxxx i received an email from them that they had successfully processed a payment of the original full amount due of { $ 620. 00 } on xx / xx / xxxx, rather than the { $ 170. 00 } they had previously identified as the remaining balance. they collect the { $ 450. 00 } amount twice. i called them to have the transaction reversed and the proper { $ 170. 00 } payment then processed, but they told me they would have to initiate an investigation that would take a minimum of xxxx days. they told me that if i needed my money back sooner ( which i do ), that i should go to my bank and contest the transaction as unauthorized. unfortunately, my bank would take about the same amount of time to investigate and would also have to cancel my debit card. it can not be okay that a bank can make what is clearly their error, take a consumers money through an unauthorized transaction, and be under no obligation to return the money in a timely manner, especially when the information is so clearcut ; their own emails to me reflect their error. do i have any recourse, or am i at the banks mercy?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990516304969788
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9386628,
+  "complaint_id": "9386628",
+  "product": "Credit card",
+  "complaint_what_happened": "Always pays my account in an situation but this company don't know that happen with my person whe they close my account without explication, i filling racism and discrimination over my person got excelent pay years old with they and they take decision of close to me. I need remove all to me credit rigth now because that cause poorto me reputation when they take decision of threat and racism, discrimination because I'm XXXX",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33823",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Always pays my account in an situation but this company don't know that happen with my person whe they close my account without explication, i filling racism and discrimination over my person got excelent pay years old with they and they take decision of close to me. I need remove all to me credit rigth now because that cause poorto me reputation when they take decision of threat and racism, discrimination because I'm XXXX"
+}
+
+Chunk:
+always pays my account in an situation but this company don't know that happen with my person whe they close my account without explication, i filling racism and discrimination over my person got excelent pay years old with they and they take decision of close to me. i need remove all to me credit rigth now because that cause poorto me reputation when they take decision of threat and racism, discrimination because i'm xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970666766166687
+}

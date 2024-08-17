@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9087550,
+  "complaint_id": "9087550",
+  "product": "Credit card",
+  "complaint_what_happened": "I HAVE A CARE CREDIT CARD. I WAS SUDDENLY CHARGED {$240.00} IN INTEREST ON A BALANCE OF ABOUT {$450.00}.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92618",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I HAVE A CARE CREDIT CARD. I WAS SUDDENLY CHARGED {$240.00} IN INTEREST ON A BALANCE OF ABOUT {$450.00}."
+}
+
+Chunk:
+i have a care credit card. i was suddenly charged { $ 240. 00 } in interest on a balance of about { $ 450. 00 }.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9897310733795166
+}

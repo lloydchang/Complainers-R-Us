@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9246865,
+  "complaint_id": "9246865",
+  "product": "Credit card",
+  "complaint_what_happened": "Discover bank account is fraudulent",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "Store credit card",
+  "zip_code": "91706",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem canceling credit monitoring or identify theft protection service",
+  "text": "Discover bank account is fraudulent"
+}
+
+Chunk:
+discover bank account is fraudulent
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983240962028503
+}

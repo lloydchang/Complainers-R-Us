@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9081082,
+  "complaint_id": "9081082",
+  "product": "Credit card",
+  "complaint_what_happened": "My son got a phone call on his phone stating they were trying to contact me about a debt. I called them back and was talked horribly. The debt in fact had been paid of With LVNV funding. We settled on an amount and I paid the debt. I then asked him to send me proof of ownership. And he just kept going back to I owed {$400.00}. This card was paid off in XXXX of XXXX. He then proceeded to ask me for proof, do you have proof you paid it off. Well of course not, I hung on to the letter they sent me showing the debt was paid in full for about XXXX yrs and then got rid of it. \nCase number XXXX",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80014",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Resurgent Capital Services L.P.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "My son got a phone call on his phone stating they were trying to contact me about a debt. I called them back and was talked horribly. The debt in fact had been paid of With LVNV funding. We settled on an amount and I paid the debt. I then asked him to send me proof of ownership. And he just kept going back to I owed {$400.00}. This card was paid off in XXXX of XXXX. He then proceeded to ask me for proof, do you have proof you paid it off. Well of course not, I hung on to the letter they sent me showing the debt was paid in full for about XXXX yrs and then got rid of it. \nCase number XXXX"
+}
+
+Chunk:
+my son got a phone call on his phone stating they were trying to contact me about a debt. i called them back and was talked horribly. the debt in fact had been paid of with lvnv funding. we settled on an amount and i paid the debt. i then asked him to send me proof of ownership. and he just kept going back to i owed { $ 400. 00 }. this card was paid off in xxxx of xxxx. he then proceeded to ask me for proof, do you have proof you paid it off. well of course not, i hung on to the letter they sent me showing the debt was paid in full for about xxxx yrs and then got rid of it. case number xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988929629325867
+}

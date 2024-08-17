@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065263,
+  "complaint_id": "9065263",
+  "product": "Credit card",
+  "complaint_what_happened": "Called to dispute transaction. dispute was closed in error called again spoke to supervisor to reopen dispute and was never done.\n\nCalled again to reopen dispute today on XX/XX/year> was given new case number of XXXX XXXX minutes after that phone call ended I received a callback. Called back immediately to address why agent had no knowledge of case number said it did not exist and the wasnt reopened again. Also told me the time frame expired and there was nothing that can be done. Request a supervisor and was hung up on.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "OneMain Finance Corporation",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Called to dispute transaction. dispute was closed in error called again spoke to supervisor to reopen dispute and was never done.\n\nCalled again to reopen dispute today on XX/XX/year> was given new case number of XXXX XXXX minutes after that phone call ended I received a callback. Called back immediately to address why agent had no knowledge of case number said it did not exist and the wasnt reopened again. Also told me the time frame expired and there was nothing that can be done. Request a supervisor and was hung up on."
+}
+
+Chunk:
+called to dispute transaction. dispute was closed in error called again spoke to supervisor to reopen dispute and was never done. called again to reopen dispute today on xx / xx / year > was given new case number of xxxx xxxx minutes after that phone call ended i received a callback. called back immediately to address why agent had no knowledge of case number said it did not exist and the wasnt reopened again. also told me the time frame expired and there was nothing that can be done. request a supervisor and was hung up on.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995798468589783
+}

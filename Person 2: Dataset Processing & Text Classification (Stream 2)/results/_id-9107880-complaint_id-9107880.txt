@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9107880,
+  "complaint_id": "9107880",
+  "product": "Credit card",
+  "complaint_what_happened": "So on the XXXX of XX/XX/XXXX, I went to XXXX Toyota ( XXXX California ) to get my current car serviced, while there, I was approached by a salesman who showed me the new XXXX XXXX and wanted me to test drive it, so I did! Afterwords we went in to view numbers, the only thing I was told, was they were going to do a soft pull on my credit to give me small estimates, they did that, which I was okay with, they never once mentioned a hard pull or me signing up for a credit card, i consistently made it clear that I wasnt wanting to make a deal that day, he kept pushing, he wanted me to try to come up with a down payment and kept bringing up the Toyota Credit card and I kept telling him I didnt want to put anything on my current credit card or get one! He kept pushing until I told him I had to leave and would maybe be back, today I received a credit card for the amount he has wanted to get me set up with! This is hurting my credit right before I make a big move across the country! I need to buy a house soon!",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "33810",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TOYOTA MOTOR CREDIT CORPORATION",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "So on the XXXX of XX/XX/XXXX, I went to XXXX Toyota ( XXXX California ) to get my current car serviced, while there, I was approached by a salesman who showed me the new XXXX XXXX and wanted me to test drive it, so I did! Afterwords we went in to view numbers, the only thing I was told, was they were going to do a soft pull on my credit to give me small estimates, they did that, which I was okay with, they never once mentioned a hard pull or me signing up for a credit card, i consistently made it clear that I wasnt wanting to make a deal that day, he kept pushing, he wanted me to try to come up with a down payment and kept bringing up the Toyota Credit card and I kept telling him I didnt want to put anything on my current credit card or get one! He kept pushing until I told him I had to leave and would maybe be back, today I received a credit card for the amount he has wanted to get me set up with! This is hurting my credit right before I make a big move across the country! I need to buy a house soon!"
+}
+
+Chunk:
+so on the xxxx of xx / xx / xxxx, i went to xxxx toyota ( xxxx california ) to get my current car serviced, while there, i was approached by a salesman who showed me the new xxxx xxxx and wanted me to test drive it, so i did! afterwords we went in to view numbers, the only thing i was told, was they were going to do a soft pull on my credit to give me small estimates, they did that, which i was okay with, they never once mentioned a hard pull or me signing up for a credit card, i consistently made it clear that i wasnt wanting to make a deal that day, he kept pushing, he wanted me to try to come up with a down payment and kept bringing up the toyota credit card and i kept telling him i didnt want to put anything on my current credit card or get one! he kept pushing until i told him i had to leave and would maybe be back, today i received a credit card for the amount he has wanted to get me set up with! this is hurting my credit right before i make a big move across the country! i need to buy a house soon!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975265860557556
+}

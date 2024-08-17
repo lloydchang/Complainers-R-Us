@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9305329,
+  "complaint_id": "9305329",
+  "product": "Credit card",
+  "complaint_what_happened": "last year I received checks from citibank shop your way mastercard pay no interest if paid in full by XXXX XXXX so I took out {$5600.00} dollars on a check. the first of the month XX/XX/year> I looked to see what the pay off was to avoid the intrest. {$3700.00}.?? so I paid {$3700.00}. looked online yesterday and it said the pay off was {$2200.00}......... so I called them and they said they applied the balance to my other charges that they have been collecting intrest on so my XXXX interest is XXXX XXXXXXXX ... ... ... .after paying all year I am going to pay {$5900.00} ... ... ... ... what a deal ... ... .this is fraud and scamming from Citibank.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85140",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "last year I received checks from citibank shop your way mastercard pay no interest if paid in full by XXXX XXXX so I took out {$5600.00} dollars on a check. the first of the month XX/XX/year> I looked to see what the pay off was to avoid the intrest. {$3700.00}.?? so I paid {$3700.00}. looked online yesterday and it said the pay off was {$2200.00}......... so I called them and they said they applied the balance to my other charges that they have been collecting intrest on so my XXXX interest is XXXX XXXXXXXX ... ... ... .after paying all year I am going to pay {$5900.00} ... ... ... ... what a deal ... ... .this is fraud and scamming from Citibank."
+}
+
+Chunk:
+last year i received checks from citibank shop your way mastercard pay no interest if paid in full by xxxx xxxx so i took out { $ 5600. 00 } dollars on a check. the first of the month xx / xx / year > i looked to see what the pay off was to avoid the intrest. { $ 3700. 00 }.?? so i paid { $ 3700. 00 }. looked online yesterday and it said the pay off was { $ 2200. 00 }......... so i called them and they said they applied the balance to my other charges that they have been collecting intrest on so my xxxx interest is xxxx xxxxxxxx.......... after paying all year i am going to pay { $ 5900. 00 }............ what a deal....... this is fraud and scamming from citibank.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995003938674927
+}

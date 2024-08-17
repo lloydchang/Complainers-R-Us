@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154917,
+  "complaint_id": "9154917",
+  "product": "Credit card",
+  "complaint_what_happened": "I've been with Capital one for ten years had to close out this account because of the payment date never could get updated because of the this I've asked to move the payment date because of my payment from social security comes on the third Wednesday each month I asked them to waive late fees and change the payment date so I can get back on track",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21244",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I've been with Capital one for ten years had to close out this account because of the payment date never could get updated because of the this I've asked to move the payment date because of my payment from social security comes on the third Wednesday each month I asked them to waive late fees and change the payment date so I can get back on track"
+}
+
+Chunk:
+i've been with capital one for ten years had to close out this account because of the payment date never could get updated because of the this i've asked to move the payment date because of my payment from social security comes on the third wednesday each month i asked them to waive late fees and change the payment date so i can get back on track
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987176656723022
+}

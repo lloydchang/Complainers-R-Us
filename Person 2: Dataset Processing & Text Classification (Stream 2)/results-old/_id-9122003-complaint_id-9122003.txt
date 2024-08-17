@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9122003,
+  "complaint_id": "9122003",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter from XXXX XXXX XXXX, XX/XX/year>, saying that the FRAUDULENT information is accurate being reported to the credit bureaus and left her phone number XXXX XXXX XXXX Ext XXXX. \n\nI have called her several times and left messages she has never returned any phone calls, XX/XX/XXXX, and XX/XX/XXXX. \n\nAfter explaining this to the Police trying to get a Police Report for what seems like identity theft, the Police said no this is inside the bank and a matter to be disputed because the bank is aware of the cards that have been replaced and sent to you if someone outside the bank is using your card then we can do a report for fraud. \n\nThey said these are some shady people at the bank and if this is not corrected notify Consumer Financial Protection and the Attorney General and another financial regulator. \n\nUS Bank sent me an envelope with 10 pages as if, I was receiving a credit card but no card was in the envelope. \n\n.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60649",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I received a letter from XXXX XXXX XXXX, XX/XX/year>, saying that the FRAUDULENT information is accurate being reported to the credit bureaus and left her phone number XXXX XXXX XXXX Ext XXXX. \n\nI have called her several times and left messages she has never returned any phone calls, XX/XX/XXXX, and XX/XX/XXXX. \n\nAfter explaining this to the Police trying to get a Police Report for what seems like identity theft, the Police said no this is inside the bank and a matter to be disputed because the bank is aware of the cards that have been replaced and sent to you if someone outside the bank is using your card then we can do a report for fraud. \n\nThey said these are some shady people at the bank and if this is not corrected notify Consumer Financial Protection and the Attorney General and another financial regulator. \n\nUS Bank sent me an envelope with 10 pages as if, I was receiving a credit card but no card was in the envelope. \n\n."
+}
+
+Chunk:
+i received a letter from xxxx xxxx xxxx, xx / xx / year >, saying that the fraudulent information is accurate being reported to the credit bureaus and left her phone number xxxx xxxx xxxx ext xxxx. i have called her several times and left messages she has never returned any phone calls, xx / xx / xxxx, and xx / xx / xxxx. after explaining this to the police trying to get a police report for what seems like identity theft, the police said no this is inside the bank and a matter to be disputed because the bank is aware of the cards that have been replaced and sent to you if someone outside the bank is using your card then we can do a report for fraud. they said these are some shady people at the bank and if this is not corrected notify consumer financial protection and the attorney general and another financial regulator. us bank sent me an envelope with 10 pages as if, i was receiving a credit card but no card was in the envelope..
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998884379863739
+}

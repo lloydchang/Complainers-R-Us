@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9587295,
+  "complaint_id": "9587295",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I received a summons in the mail for a lawsuit filed by Velocity Investments in the amount of {$1900.00} against me. They state that i entered into a financial agreement with \" XXXXXXXX XXXX XXXX '' which is inaccurate. I have no knowledge of this account in my name ; I have never given authorization for someone to enter in a financial agreement on my behalf and affirm this account has been opened and utilized fraudulently without consent or authorization. I have filed a response with the courts to dispute the validity of this information and notify them that I have become a victim of identity theft and currently working with the FTC.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46239",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Velocity Portfolio Group",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year> I received a summons in the mail for a lawsuit filed by Velocity Investments in the amount of {$1900.00} against me. They state that i entered into a financial agreement with \" XXXXXXXX XXXX XXXX '' which is inaccurate. I have no knowledge of this account in my name ; I have never given authorization for someone to enter in a financial agreement on my behalf and affirm this account has been opened and utilized fraudulently without consent or authorization. I have filed a response with the courts to dispute the validity of this information and notify them that I have become a victim of identity theft and currently working with the FTC."
+}
+
+Chunk:
+on xx / xx / year > i received a summons in the mail for a lawsuit filed by velocity investments in the amount of { $ 1900. 00 } against me. they state that i entered into a financial agreement with " xxxxxxxx xxxx xxxx'' which is inaccurate. i have no knowledge of this account in my name ; i have never given authorization for someone to enter in a financial agreement on my behalf and affirm this account has been opened and utilized fraudulently without consent or authorization. i have filed a response with the courts to dispute the validity of this information and notify them that i have become a victim of identity theft and currently working with the ftc.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993430972099304
+}

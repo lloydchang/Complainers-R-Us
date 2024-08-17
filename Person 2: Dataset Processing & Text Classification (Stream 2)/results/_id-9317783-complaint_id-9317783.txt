@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9317783,
+  "complaint_id": "9317783",
+  "product": "Credit card",
+  "complaint_what_happened": "on XX/XX/XXXX I called the Citi Bank Visa card customer service number to close my credit card account and I wanted to do it before the annual {$99.00} fee was due. My card balance is paid in full except for the {$99.00}. This card was a AAdvantage Platinum Select Card. After XXXX hour and several customer service people I was told they were unable to help me or my wife and to call back. We were further told my name is no longer on the account and would only speak to us if my wife was present, which she was. We called back on XXXX XXXX XXXX XXXX, and finally today XX/XX/XXXX. After about an hour each time I was told to call back that they we unable to access my account and close it. After all of our attempts my wife and I are at our wits end, and all this just to close my account. At this point we are just asking this Federal Agency to help.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "15317",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "on XX/XX/XXXX I called the Citi Bank Visa card customer service number to close my credit card account and I wanted to do it before the annual {$99.00} fee was due. My card balance is paid in full except for the {$99.00}. This card was a AAdvantage Platinum Select Card. After XXXX hour and several customer service people I was told they were unable to help me or my wife and to call back. We were further told my name is no longer on the account and would only speak to us if my wife was present, which she was. We called back on XXXX XXXX XXXX XXXX, and finally today XX/XX/XXXX. After about an hour each time I was told to call back that they we unable to access my account and close it. After all of our attempts my wife and I are at our wits end, and all this just to close my account. At this point we are just asking this Federal Agency to help."
+}
+
+Chunk:
+on xx / xx / xxxx i called the citi bank visa card customer service number to close my credit card account and i wanted to do it before the annual { $ 99. 00 } fee was due. my card balance is paid in full except for the { $ 99. 00 }. this card was a aadvantage platinum select card. after xxxx hour and several customer service people i was told they were unable to help me or my wife and to call back. we were further told my name is no longer on the account and would only speak to us if my wife was present, which she was. we called back on xxxx xxxx xxxx xxxx, and finally today xx / xx / xxxx. after about an hour each time i was told to call back that they we unable to access my account and close it. after all of our attempts my wife and i are at our wits end, and all this just to close my account. at this point we are just asking this federal agency to help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995094537734985
+}

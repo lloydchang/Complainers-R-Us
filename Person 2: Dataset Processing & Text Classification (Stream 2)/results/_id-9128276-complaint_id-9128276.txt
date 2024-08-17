@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9128276,
+  "complaint_id": "9128276",
+  "product": "Credit card",
+  "complaint_what_happened": "The Mattress Firm / Synchrony Bank credit card was offered and I opened an account based on the deal associated with purchasing a mattress / bed. After a couple years of payments, Synchrony Bank is now trying to change the deal by adding new fees not part of the original deal. Specifically : Paper Statement Fee. We will charge a {$1.00} Monthly Paper Statement Fee to your account. We will charge this fee in any billing cycle in which your balance is greater than {$2.00} and you are sent a monthly billing statement in paper form, even if you also are provided it in electronic form. You can avoid the fee each billing cycle you are provided your monthly billing statement only in electronic form. To make an election regarding the form of your monthly billing statement, please sign up for or log in to our servicing site. \n\nAdditionally, on their web site they don't guarantee the security of my information and suggest I take precautions. Another online account is another opportunity for online identity theft.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94303",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "The Mattress Firm / Synchrony Bank credit card was offered and I opened an account based on the deal associated with purchasing a mattress / bed. After a couple years of payments, Synchrony Bank is now trying to change the deal by adding new fees not part of the original deal. Specifically : Paper Statement Fee. We will charge a {$1.00} Monthly Paper Statement Fee to your account. We will charge this fee in any billing cycle in which your balance is greater than {$2.00} and you are sent a monthly billing statement in paper form, even if you also are provided it in electronic form. You can avoid the fee each billing cycle you are provided your monthly billing statement only in electronic form. To make an election regarding the form of your monthly billing statement, please sign up for or log in to our servicing site. \n\nAdditionally, on their web site they don't guarantee the security of my information and suggest I take precautions. Another online account is another opportunity for online identity theft."
+}
+
+Chunk:
+the mattress firm / synchrony bank credit card was offered and i opened an account based on the deal associated with purchasing a mattress / bed. after a couple years of payments, synchrony bank is now trying to change the deal by adding new fees not part of the original deal. specifically : paper statement fee. we will charge a { $ 1. 00 } monthly paper statement fee to your account. we will charge this fee in any billing cycle in which your balance is greater than { $ 2. 00 } and you are sent a monthly billing statement in paper form, even if you also are provided it in electronic form. you can avoid the fee each billing cycle you are provided your monthly billing statement only in electronic form. to make an election regarding the form of your monthly billing statement, please sign up for or log in to our servicing site. additionally, on their web site they don't guarantee the security of my information and suggest i take precautions. another online account is another opportunity for online identity theft.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993475079536438
+}

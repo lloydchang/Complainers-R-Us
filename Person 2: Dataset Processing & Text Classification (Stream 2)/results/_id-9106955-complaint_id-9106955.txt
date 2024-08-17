@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9106955,
+  "complaint_id": "9106955",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a Chase Sapphire customer and have largely been happy with the service. The rewards program has been fair through most of my XXXX or XXXX  years using it. \n\nIve booked flights and hotels through Chases Rewards program and the prices have been fairly close to or the same as what I could find elsewhere. Recently I looked at staying at XXXX XXXX XXXX XXXX XXXX in XXXX for XXXX people and noticed a concerning discrepancy between Chases price and other rates that were readily available to me. For a XXXX XXXX XXXX room XXXX nights stay is listed at {$2100.00} through XXXX rewards portal but is {$1800.00} through the hotel directly and through XXXX. \n\nAs I understand it, the value of these rewards points works out to about XXXX % of purchase total. If, when I go to use them, my only option is to book heavily marked up rates then what is the true value of the point system? What is this markup for and why is it not clearly disclosed? If the practice is hidden in the terms and conditions, its strategically left off marketing materials and even the easily navigated parts of the app UI. In my brief searching, I simply could not find where Chase notes that prices listed in the rewards portal are subject to any commission-like surcharge on top of best available rates. \n\nI want transparency from Chase in how this rewards system is presented and I want a points valuation thats accurate to how the system is presented to customers.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92084",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I am a Chase Sapphire customer and have largely been happy with the service. The rewards program has been fair through most of my XXXX or XXXX  years using it. \n\nIve booked flights and hotels through Chases Rewards program and the prices have been fairly close to or the same as what I could find elsewhere. Recently I looked at staying at XXXX XXXX XXXX XXXX XXXX in XXXX for XXXX people and noticed a concerning discrepancy between Chases price and other rates that were readily available to me. For a XXXX XXXX XXXX room XXXX nights stay is listed at {$2100.00} through XXXX rewards portal but is {$1800.00} through the hotel directly and through XXXX. \n\nAs I understand it, the value of these rewards points works out to about XXXX % of purchase total. If, when I go to use them, my only option is to book heavily marked up rates then what is the true value of the point system? What is this markup for and why is it not clearly disclosed? If the practice is hidden in the terms and conditions, its strategically left off marketing materials and even the easily navigated parts of the app UI. In my brief searching, I simply could not find where Chase notes that prices listed in the rewards portal are subject to any commission-like surcharge on top of best available rates. \n\nI want transparency from Chase in how this rewards system is presented and I want a points valuation thats accurate to how the system is presented to customers."
+}
+
+Chunk:
+i am a chase sapphire customer and have largely been happy with the service. the rewards program has been fair through most of my xxxx or xxxx years using it. ive booked flights and hotels through chases rewards program and the prices have been fairly close to or the same as what i could find elsewhere. recently i looked at staying at xxxx xxxx xxxx xxxx xxxx in xxxx for xxxx people and noticed a concerning discrepancy between chases price and other rates that were readily available to me. for a xxxx xxxx xxxx room xxxx nights stay is listed at { $ 2100. 00 } through xxxx rewards portal but is { $ 1800. 00 } through the hotel directly and through xxxx. as i understand it, the value of these rewards points works out to about xxxx % of purchase total. if, when i go to use them, my only option is to book heavily marked up rates then what is the true value of the point system? what is this markup for and why is it not clearly disclosed? if the practice is hidden in the terms and conditions, its strategically left off marketing materials and even the easily navigated parts of the app ui. in my brief searching, i simply could not find where chase notes that prices listed in the rewards portal are subject to any commission - like surcharge on top of best available rates. i want transparency from chase in how this rewards system is presented and i want a points valuation thats accurate to how the system is presented to customers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9790325164794922
+}

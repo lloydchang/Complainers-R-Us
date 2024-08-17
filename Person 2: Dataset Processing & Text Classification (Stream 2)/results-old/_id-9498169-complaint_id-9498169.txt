@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9498169,
+  "complaint_id": "9498169",
+  "product": "Credit card",
+  "complaint_what_happened": "I tried to apply for a card and got denied they ran my credit with out my knowledge or consent and resulted in. A inquiry that is fraudulent",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85712",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I tried to apply for a card and got denied they ran my credit with out my knowledge or consent and resulted in. A inquiry that is fraudulent"
+}
+
+Chunk:
+i tried to apply for a card and got denied they ran my credit with out my knowledge or consent and resulted in. a inquiry that is fraudulent
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983945488929749
+}

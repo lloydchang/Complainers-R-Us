@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9201321,
+  "complaint_id": "9201321",
+  "product": "Credit card",
+  "complaint_what_happened": "On my credit report, I can see that a collections account has been opened by Resurgent Capital Services for a XXXX account that I did not open. The collections account was opened in XX/XX/XXXX for the amount of {$450.00}. The current owner is LVNV Funding, and the original creditor was XXXX. I learned that the this XXXX account is from a XXXX 's credit card account that was opened in early XXXX, but I am positive that I never opened this account. In fact, I have never purchased anything from XXXX XXXX.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "86314",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Resurgent Capital Services L.P.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On my credit report, I can see that a collections account has been opened by Resurgent Capital Services for a XXXX account that I did not open. The collections account was opened in XX/XX/XXXX for the amount of {$450.00}. The current owner is LVNV Funding, and the original creditor was XXXX. I learned that the this XXXX account is from a XXXX 's credit card account that was opened in early XXXX, but I am positive that I never opened this account. In fact, I have never purchased anything from XXXX XXXX."
+}
+
+Chunk:
+on my credit report, i can see that a collections account has been opened by resurgent capital services for a xxxx account that i did not open. the collections account was opened in xx / xx / xxxx for the amount of { $ 450. 00 }. the current owner is lvnv funding, and the original creditor was xxxx. i learned that the this xxxx account is from a xxxx's credit card account that was opened in early xxxx, but i am positive that i never opened this account. in fact, i have never purchased anything from xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989801049232483
+}

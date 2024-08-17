@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9278123,
+  "complaint_id": "9278123",
+  "product": "Credit card",
+  "complaint_what_happened": "I saw two money transfer charges, and one transfer fee charge, on my Citi card. They originated in XXXX, TX. I live in XXXX, TX. I never carry this card on my person. I keep it locked in my office, and used it for my husband 's caregiver charges. The charges are definitely NOT what I would do. I repeatedly asked Citi to take the charge off my account. After a month of \" investigating '', they refused to take the charges off the account. I have referred the matter to the Attorney General in Texas, and now I'm referring it to your Bureau, also.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77073",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I saw two money transfer charges, and one transfer fee charge, on my Citi card. They originated in XXXX, TX. I live in XXXX, TX. I never carry this card on my person. I keep it locked in my office, and used it for my husband 's caregiver charges. The charges are definitely NOT what I would do. I repeatedly asked Citi to take the charge off my account. After a month of \" investigating '', they refused to take the charges off the account. I have referred the matter to the Attorney General in Texas, and now I'm referring it to your Bureau, also."
+}
+
+Chunk:
+i saw two money transfer charges, and one transfer fee charge, on my citi card. they originated in xxxx, tx. i live in xxxx, tx. i never carry this card on my person. i keep it locked in my office, and used it for my husband's caregiver charges. the charges are definitely not what i would do. i repeatedly asked citi to take the charge off my account. after a month of " investigating'', they refused to take the charges off the account. i have referred the matter to the attorney general in texas, and now i'm referring it to your bureau, also.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993067979812622
+}

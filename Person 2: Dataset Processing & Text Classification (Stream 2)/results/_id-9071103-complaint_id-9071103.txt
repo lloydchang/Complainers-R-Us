@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071103,
+  "complaint_id": "9071103",
+  "product": "Credit card",
+  "complaint_what_happened": "on XXXX XXXX  2024, i realize that some get a credit card using my name, i got in contact with the CITI BANK, i told them that a didnt ask for that card and that i never had that card in my hands. Someone use my information to get it. the CITI BANK people told me that the case was on investigation and today XX/XX/XXXX i call because i receive an alert from XXXX ( i submit to them since this situacion happen ) the alert says something about CITIBANK, so i called them and they said that my case was denied!!! how come, It cant be possible, i can not pay for something i that i didnt spend. \ni was ready to buy a house and now my credit score its tottaly a mess I really dont know what to do, please i need your help.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33029",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive services that were advertised",
+  "text": "on XXXX XXXX  2024, i realize that some get a credit card using my name, i got in contact with the CITI BANK, i told them that a didnt ask for that card and that i never had that card in my hands. Someone use my information to get it. the CITI BANK people told me that the case was on investigation and today XX/XX/XXXX i call because i receive an alert from XXXX ( i submit to them since this situacion happen ) the alert says something about CITIBANK, so i called them and they said that my case was denied!!! how come, It cant be possible, i can not pay for something i that i didnt spend. \ni was ready to buy a house and now my credit score its tottaly a mess I really dont know what to do, please i need your help."
+}
+
+Chunk:
+on xxxx xxxx 2024, i realize that some get a credit card using my name, i got in contact with the citi bank, i told them that a didnt ask for that card and that i never had that card in my hands. someone use my information to get it. the citi bank people told me that the case was on investigation and today xx / xx / xxxx i call because i receive an alert from xxxx ( i submit to them since this situacion happen ) the alert says something about citibank, so i called them and they said that my case was denied!!! how come, it cant be possible, i can not pay for something i that i didnt spend. i was ready to buy a house and now my credit score its tottaly a mess i really dont know what to do, please i need your help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994969367980957
+}

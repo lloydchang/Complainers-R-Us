@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9408649,
+  "complaint_id": "9408649",
+  "product": "Credit card",
+  "complaint_what_happened": "Why does M & T Bank not allow me to enroll online and check my balance? After making an initial complaint, one customer representative called me back but abruptly ended the call before answering all of my questions. They insisted that I either visit a branch or have a XXXX  meeting because they were unsure if I actually reside at the address I provided. However, there are two issues with this approach. Firstly, they have already sent credit card offers to my home address, which indicates that they are aware of my residency. Secondly, the more pressing concern is that my credit card application was already approved and I have been able to use the card. How can a bank approve my credit card without knowing my identity, especially if now they claim they do not know me and require a site visit? This is a fraud!",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19468",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "M&T BANK CORPORATION",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "Why does M & T Bank not allow me to enroll online and check my balance? After making an initial complaint, one customer representative called me back but abruptly ended the call before answering all of my questions. They insisted that I either visit a branch or have a XXXX  meeting because they were unsure if I actually reside at the address I provided. However, there are two issues with this approach. Firstly, they have already sent credit card offers to my home address, which indicates that they are aware of my residency. Secondly, the more pressing concern is that my credit card application was already approved and I have been able to use the card. How can a bank approve my credit card without knowing my identity, especially if now they claim they do not know me and require a site visit? This is a fraud!"
+}
+
+Chunk:
+why does m & t bank not allow me to enroll online and check my balance? after making an initial complaint, one customer representative called me back but abruptly ended the call before answering all of my questions. they insisted that i either visit a branch or have a xxxx meeting because they were unsure if i actually reside at the address i provided. however, there are two issues with this approach. firstly, they have already sent credit card offers to my home address, which indicates that they are aware of my residency. secondly, the more pressing concern is that my credit card application was already approved and i have been able to use the card. how can a bank approve my credit card without knowing my identity, especially if now they claim they do not know me and require a site visit? this is a fraud!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988657236099243
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023973,
+  "complaint_id": "9023973",
+  "product": "Credit card",
+  "complaint_what_happened": "This is a charge for XXXX with FNBO credit card. \nI called them today and they said this is for charges you still are charged after paying off the card. I told them take it off. I do not owe for charges that was paid off to a XXXX balance. \nCredit card company should not be charging accounts with a XXXX balance for past charges that were paid off. \nThey should never be charging customers like this. I do not know any other credit card that charges customers with a XXXX balance for charges that were paid off.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30045",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "This is a charge for XXXX with FNBO credit card. \nI called them today and they said this is for charges you still are charged after paying off the card. I told them take it off. I do not owe for charges that was paid off to a XXXX balance. \nCredit card company should not be charging accounts with a XXXX balance for past charges that were paid off. \nThey should never be charging customers like this. I do not know any other credit card that charges customers with a XXXX balance for charges that were paid off."
+}
+
+Chunk:
+this is a charge for xxxx with fnbo credit card. i called them today and they said this is for charges you still are charged after paying off the card. i told them take it off. i do not owe for charges that was paid off to a xxxx balance. credit card company should not be charging accounts with a xxxx balance for past charges that were paid off. they should never be charging customers like this. i do not know any other credit card that charges customers with a xxxx balance for charges that were paid off.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968194961547852
+}

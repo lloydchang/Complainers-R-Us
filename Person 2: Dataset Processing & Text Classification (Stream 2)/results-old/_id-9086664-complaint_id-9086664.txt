@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9086664,
+  "complaint_id": "9086664",
+  "product": "Credit card",
+  "complaint_what_happened": "There was a fraudulent purchase made on my account with XXXX XXXX and when I became aware of of it thru an email alert, I called them the same day and told them I did not authorize or purchase the item for order # XXXX and to cancel the order before it ships the representative said they would catch the order before it shipped and that I would not be responsible for the fraudulent purchase on my account, I also ask the rep to close my account \" AND '' ( the other accounts associated with the account number listed herein ), as there are other accounts that use that same account number listed herein which as of this morning it is still open as I was able to get into the account with the account number after I told the rep XXXX days ago to close the account # XXXX. As of this morning it shows shipped yesterday XX/XX/year> and it was suppose to be cancelled as I did \" not '' order a \" XXXX inch '' XXXX XXXX. I filed a Identity Theft/fraudulent activity report as requested and faxed it to the business ( XXXX, ATTN : Credit Dept ), to no avail as of present date, XX/XX/year>, account still open and shows fraudulent order shipped yesterday by XXXX ( See attachments ) .....",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "394XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Colony Brands, Inc.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "There was a fraudulent purchase made on my account with XXXX XXXX and when I became aware of of it thru an email alert, I called them the same day and told them I did not authorize or purchase the item for order # XXXX and to cancel the order before it ships the representative said they would catch the order before it shipped and that I would not be responsible for the fraudulent purchase on my account, I also ask the rep to close my account \" AND '' ( the other accounts associated with the account number listed herein ), as there are other accounts that use that same account number listed herein which as of this morning it is still open as I was able to get into the account with the account number after I told the rep XXXX days ago to close the account # XXXX. As of this morning it shows shipped yesterday XX/XX/year> and it was suppose to be cancelled as I did \" not '' order a \" XXXX inch '' XXXX XXXX. I filed a Identity Theft/fraudulent activity report as requested and faxed it to the business ( XXXX, ATTN : Credit Dept ), to no avail as of present date, XX/XX/year>, account still open and shows fraudulent order shipped yesterday by XXXX ( See attachments ) ....."
+}
+
+Chunk:
+there was a fraudulent purchase made on my account with xxxx xxxx and when i became aware of of it thru an email alert, i called them the same day and told them i did not authorize or purchase the item for order # xxxx and to cancel the order before it ships the representative said they would catch the order before it shipped and that i would not be responsible for the fraudulent purchase on my account, i also ask the rep to close my account " and'' ( the other accounts associated with the account number listed herein ), as there are other accounts that use that same account number listed herein which as of this morning it is still open as i was able to get into the account with the account number after i told the rep xxxx days ago to close the account # xxxx. as of this morning it shows shipped yesterday xx / xx / year > and it was suppose to be cancelled as i did " not'' order a " xxxx inch'' xxxx xxxx. i filed a identity theft / fraudulent activity report as requested and faxed it to the business ( xxxx, attn : credit dept ), to no avail as of present date, xx / xx / year >, account still open and shows fraudulent order shipped yesterday by xxxx ( see attachments ).....
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995098114013672
+}

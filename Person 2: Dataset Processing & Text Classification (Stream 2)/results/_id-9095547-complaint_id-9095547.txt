@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9095547,
+  "complaint_id": "9095547",
+  "product": "Credit card",
+  "complaint_what_happened": "I started having issues in XXXX with not being able to use my card. They would tell me Everytime I called that it was under review XXXX hours someone will call you. Thats one of hundreds of lies Chase has told me. Im a XXXX XXXX XXXXXXXX XXXX XXXX Military Veteran and I have been treated with so much disrespect and refusal to help me resolve the issues with my account. I can not get groceries, I cant get medication, Ive fallen behind on my mortgage and at very serious risk of losing my home because Im not able to use my card for my payments and its caused so much stress on me. I have did everything but beg Chase to give me a resolution or anything. They refuse.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "389XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I started having issues in XXXX with not being able to use my card. They would tell me Everytime I called that it was under review XXXX hours someone will call you. Thats one of hundreds of lies Chase has told me. Im a XXXX XXXX XXXXXXXX XXXX XXXX Military Veteran and I have been treated with so much disrespect and refusal to help me resolve the issues with my account. I can not get groceries, I cant get medication, Ive fallen behind on my mortgage and at very serious risk of losing my home because Im not able to use my card for my payments and its caused so much stress on me. I have did everything but beg Chase to give me a resolution or anything. They refuse."
+}
+
+Chunk:
+i started having issues in xxxx with not being able to use my card. they would tell me everytime i called that it was under review xxxx hours someone will call you. thats one of hundreds of lies chase has told me. im a xxxx xxxx xxxxxxxx xxxx xxxx military veteran and i have been treated with so much disrespect and refusal to help me resolve the issues with my account. i can not get groceries, i cant get medication, ive fallen behind on my mortgage and at very serious risk of losing my home because im not able to use my card for my payments and its caused so much stress on me. i have did everything but beg chase to give me a resolution or anything. they refuse.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991680383682251
+}

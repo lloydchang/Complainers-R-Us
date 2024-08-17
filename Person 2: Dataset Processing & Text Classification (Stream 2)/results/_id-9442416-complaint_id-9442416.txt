@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9442416,
+  "complaint_id": "9442416",
+  "product": "Credit card",
+  "complaint_what_happened": "Attempted to close my card in XX/XX/year>, and paid off the balance. Was then charged fees and interest without receiving a bill from Citibank. Had the fees reversed on XX/XX/XXXX, and was told that the card would be XXXX out and that nothing more was owed. Was specifically told not to pay any money to the account at that time as well. \n\nCharged interest, fees, and a late charge again in XXXX, and was told there was an outstanding balance. Asked what they plan to charge me in XXXX because I keep getting charged AFTER being told everything was XXXX out. Attempted to pay off whatever balance I allegedly owed and see the account had been XXXX  out AGAIN. Asked what they plan to charge me in XXXX, and they stated that bill hadn't been generated yet. This is indicating to me that I will receive another bill, yet again. When I have been told and saw twice that my account is at a XXXX XXXX.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "535XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Attempted to close my card in XX/XX/year>, and paid off the balance. Was then charged fees and interest without receiving a bill from Citibank. Had the fees reversed on XX/XX/XXXX, and was told that the card would be XXXX out and that nothing more was owed. Was specifically told not to pay any money to the account at that time as well. \n\nCharged interest, fees, and a late charge again in XXXX, and was told there was an outstanding balance. Asked what they plan to charge me in XXXX because I keep getting charged AFTER being told everything was XXXX out. Attempted to pay off whatever balance I allegedly owed and see the account had been XXXX  out AGAIN. Asked what they plan to charge me in XXXX, and they stated that bill hadn't been generated yet. This is indicating to me that I will receive another bill, yet again. When I have been told and saw twice that my account is at a XXXX XXXX."
+}
+
+Chunk:
+attempted to close my card in xx / xx / year >, and paid off the balance. was then charged fees and interest without receiving a bill from citibank. had the fees reversed on xx / xx / xxxx, and was told that the card would be xxxx out and that nothing more was owed. was specifically told not to pay any money to the account at that time as well. charged interest, fees, and a late charge again in xxxx, and was told there was an outstanding balance. asked what they plan to charge me in xxxx because i keep getting charged after being told everything was xxxx out. attempted to pay off whatever balance i allegedly owed and see the account had been xxxx out again. asked what they plan to charge me in xxxx, and they stated that bill hadn't been generated yet. this is indicating to me that i will receive another bill, yet again. when i have been told and saw twice that my account is at a xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989051818847656
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9684048,
+  "complaint_id": "9684048",
+  "product": "Credit card",
+  "complaint_what_happened": "I was a victim of fraud, swindle ( scam ), and leads to Identity theft. I spoke with XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( XXXX ) located in XXXX XXXX, Arkansas. I spoke with her to set up an account. After gathering my information, she used it to carry out a series of fraudulent charges. I realized all of my personal information was used to open credit cards, take out loans, and completely wipe out my life savings of over $ XXXX. And XXXX of the credit cards that were fraudulently charged was this my XXXX XXXX card orders thousands of gift cards online such as XXXX, XXXXXXXX XXXX XXXX and many more. I do not remember all. I DID NOT authorize all online orders at XXXX that charges on my Military Star card. The charges back on or around XX/XX/2023. These charges were completed by someone else, the person who stole my identity. When I called and disputed all the fraudulent transactions says it was denied, because the orders were delivered to my address, and I never get it anything delivers. I did know and not expecting it and also says There are several notations from calls made in regards to orders XXXX and XXXX in which it is stated that there were issues while attempting to use the e-gift cards. And that a refund for these orders was waiting to be processed. never get the refunded it. Please if anybody can help me out of this claim. Thank you in advanced.",
+  "date_sent_to_company": "2024-08-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28390",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Army and Air Force Exchange Service",
+  "date_received": "2024-08-01T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I was a victim of fraud, swindle ( scam ), and leads to Identity theft. I spoke with XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( XXXX ) located in XXXX XXXX, Arkansas. I spoke with her to set up an account. After gathering my information, she used it to carry out a series of fraudulent charges. I realized all of my personal information was used to open credit cards, take out loans, and completely wipe out my life savings of over $ XXXX. And XXXX of the credit cards that were fraudulently charged was this my XXXX XXXX card orders thousands of gift cards online such as XXXX, XXXXXXXX XXXX XXXX and many more. I do not remember all. I DID NOT authorize all online orders at XXXX that charges on my Military Star card. The charges back on or around XX/XX/2023. These charges were completed by someone else, the person who stole my identity. When I called and disputed all the fraudulent transactions says it was denied, because the orders were delivered to my address, and I never get it anything delivers. I did know and not expecting it and also says There are several notations from calls made in regards to orders XXXX and XXXX in which it is stated that there were issues while attempting to use the e-gift cards. And that a refund for these orders was waiting to be processed. never get the refunded it. Please if anybody can help me out of this claim. Thank you in advanced."
+}
+
+Chunk:
+i was a victim of fraud, swindle ( scam ), and leads to identity theft. i spoke with xxxx xxxx, xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx ( xxxx ) located in xxxx xxxx, arkansas. i spoke with her to set up an account. after gathering my information, she used it to carry out a series of fraudulent charges. i realized all of my personal information was used to open credit cards, take out loans, and completely wipe out my life savings of over $ xxxx. and xxxx of the credit cards that were fraudulently charged was this my xxxx xxxx card orders thousands of gift cards online such as xxxx, xxxxxxxx xxxx xxxx and many more. i do not remember all. i did not authorize all online orders at xxxx that charges on my military star card. the charges back on or around xx / xx / 2023. these charges were completed by someone else, the person who stole my identity. when i called and disputed all the fraudulent transactions says it was denied, because the orders were delivered to my address, and i never get it anything delivers. i did know and not expecting it and also says there are several notations from calls made in regards to orders xxxx and xxxx in which it is stated that there were issues while attempting to use the e - gift cards. and that a refund for these orders was waiting to be processed. never get the refunded it. please if anybody can help me out of this claim. thank you in advanced.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988569021224976
+}

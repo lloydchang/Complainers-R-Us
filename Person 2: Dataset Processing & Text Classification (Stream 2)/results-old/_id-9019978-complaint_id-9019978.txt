@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019978,
+  "complaint_id": "9019978",
+  "product": "Credit card",
+  "complaint_what_happened": "Subject : Request for Waiver of Interest Charges Dear Sir/Madam, I hope this letter finds you well. I am writing to formally express my dissatisfaction regarding the recent interest charge of {$2300.00} applied to my XXXX XXXX XXXX XXXX XXXX Card account. Despite my consistent efforts to manage my account responsibly, I was surprised to see this substantial fee on my recent statement. \n\nI have reviewed the transaction details and the associated terms of my account. However, the explanation provided by your customer service representative was not clear, and I am unable to understand the basis for this high interest charge. As a loyal customer who values the services provided by XXXX XXXX XXXX I am deeply concerned about this unexpected financial burden. \n\nI would like to inform you that I have paid all the amounts I owe to the card, minus the {$2300.00} interest charge. Given the lack of clarity and my commitment to maintaining a good credit standing, I kindly request that you review my account and consider waiving this interest charge. I believe this adjustment would be a fair resolution and would greatly alleviate the stress caused by this situation. \n\nI appreciate your attention to this matter and look forward to a prompt and favorable resolution. Please feel free to contact me at XXXX or XXXX if you require any further information. \n\nThank you for your understanding and cooperation. \n\nSincerely, XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "90703",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "Subject : Request for Waiver of Interest Charges Dear Sir/Madam, I hope this letter finds you well. I am writing to formally express my dissatisfaction regarding the recent interest charge of {$2300.00} applied to my XXXX XXXX XXXX XXXX XXXX Card account. Despite my consistent efforts to manage my account responsibly, I was surprised to see this substantial fee on my recent statement. \n\nI have reviewed the transaction details and the associated terms of my account. However, the explanation provided by your customer service representative was not clear, and I am unable to understand the basis for this high interest charge. As a loyal customer who values the services provided by XXXX XXXX XXXX I am deeply concerned about this unexpected financial burden. \n\nI would like to inform you that I have paid all the amounts I owe to the card, minus the {$2300.00} interest charge. Given the lack of clarity and my commitment to maintaining a good credit standing, I kindly request that you review my account and consider waiving this interest charge. I believe this adjustment would be a fair resolution and would greatly alleviate the stress caused by this situation. \n\nI appreciate your attention to this matter and look forward to a prompt and favorable resolution. Please feel free to contact me at XXXX or XXXX if you require any further information. \n\nThank you for your understanding and cooperation. \n\nSincerely, XXXX XXXX XXXX"
+}
+
+Chunk:
+subject : request for waiver of interest charges dear sir / madam, i hope this letter finds you well. i am writing to formally express my dissatisfaction regarding the recent interest charge of { $ 2300. 00 } applied to my xxxx xxxx xxxx xxxx xxxx card account. despite my consistent efforts to manage my account responsibly, i was surprised to see this substantial fee on my recent statement. i have reviewed the transaction details and the associated terms of my account. however, the explanation provided by your customer service representative was not clear, and i am unable to understand the basis for this high interest charge. as a loyal customer who values the services provided by xxxx xxxx xxxx i am deeply concerned about this unexpected financial burden. i would like to inform you that i have paid all the amounts i owe to the card, minus the { $ 2300. 00 } interest charge. given the lack of clarity and my commitment to maintaining a good credit standing, i kindly request that you review my account and consider waiving this interest charge. i believe this adjustment would be a fair resolution and would greatly alleviate the stress caused by this situation. i appreciate your attention to this matter and look forward to a prompt and favorable resolution. please feel free to contact me at xxxx or xxxx if you require any further information. thank you for your understanding and cooperation. sincerely, xxxx xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.982597291469574
+}

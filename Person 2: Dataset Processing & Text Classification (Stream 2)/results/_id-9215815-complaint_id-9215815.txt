@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9215815,
+  "complaint_id": "9215815",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a VentureX credit card with Capital One, and I have been trying to redeem my rewards all weekend by transferring points to an airline. Capital One requires a verification text to be sent to my phone, but they claim they can not verify my phone number in order to send me the text \" because I am not the primary on my phone account. '' I am on the phone account, but because I ( like 68 % of Americans ) am on a family plan, they refuse to send me the security code via text ( and offer NO OTHER options for verification ). I have spoken to over 10 associates over hours of phone calls, none of whom would help me. Because Capital One refuses to send me the security text, I can not use my rewards per the terms of the service agreement. This is theft of my rewards, and I request that they stop holding my XXXX rewards points hostage.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "208XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have a VentureX credit card with Capital One, and I have been trying to redeem my rewards all weekend by transferring points to an airline. Capital One requires a verification text to be sent to my phone, but they claim they can not verify my phone number in order to send me the text \" because I am not the primary on my phone account. '' I am on the phone account, but because I ( like 68 % of Americans ) am on a family plan, they refuse to send me the security code via text ( and offer NO OTHER options for verification ). I have spoken to over 10 associates over hours of phone calls, none of whom would help me. Because Capital One refuses to send me the security text, I can not use my rewards per the terms of the service agreement. This is theft of my rewards, and I request that they stop holding my XXXX rewards points hostage."
+}
+
+Chunk:
+i have a venturex credit card with capital one, and i have been trying to redeem my rewards all weekend by transferring points to an airline. capital one requires a verification text to be sent to my phone, but they claim they can not verify my phone number in order to send me the text " because i am not the primary on my phone account.'' i am on the phone account, but because i ( like 68 % of americans ) am on a family plan, they refuse to send me the security code via text ( and offer no other options for verification ). i have spoken to over 10 associates over hours of phone calls, none of whom would help me. because capital one refuses to send me the security text, i can not use my rewards per the terms of the service agreement. this is theft of my rewards, and i request that they stop holding my xxxx rewards points hostage.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999458372592926
+}

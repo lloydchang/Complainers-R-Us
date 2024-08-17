@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9202782,
+  "complaint_id": "9202782",
+  "product": "Credit card",
+  "complaint_what_happened": "My husband and i both opened accounts with Acima. Me, XX/XX/XXXX. XXXX, XXXX XXXX, on XX/XX/XXXX. The experience has been horrendous. We were attempting to take advantage of the 90days same as cash but due to Acima doing unauthorized withdrawals, they constantly overdrew our bank accounts causing nsf fees. Then would apologize and send the money back with out the fees. Now, we owe waaaaay more than what we originally borrowed and it seems so unfair to me how they do business.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "21208",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ACIMA CREDIT, LLC",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "My husband and i both opened accounts with Acima. Me, XX/XX/XXXX. XXXX, XXXX XXXX, on XX/XX/XXXX. The experience has been horrendous. We were attempting to take advantage of the 90days same as cash but due to Acima doing unauthorized withdrawals, they constantly overdrew our bank accounts causing nsf fees. Then would apologize and send the money back with out the fees. Now, we owe waaaaay more than what we originally borrowed and it seems so unfair to me how they do business."
+}
+
+Chunk:
+my husband and i both opened accounts with acima. me, xx / xx / xxxx. xxxx, xxxx xxxx, on xx / xx / xxxx. the experience has been horrendous. we were attempting to take advantage of the 90days same as cash but due to acima doing unauthorized withdrawals, they constantly overdrew our bank accounts causing nsf fees. then would apologize and send the money back with out the fees. now, we owe waaaaay more than what we originally borrowed and it seems so unfair to me how they do business.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999703586101532
+}

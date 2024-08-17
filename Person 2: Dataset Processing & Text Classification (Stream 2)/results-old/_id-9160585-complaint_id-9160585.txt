@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9160585,
+  "complaint_id": "9160585",
+  "product": "Credit card",
+  "complaint_what_happened": "My name is XXXX XXXX, I filed an arbitration against DNF Associates LLC., however, I have received a notice from the XXXX XXXX XXXX XXXX informing me that DNF Associates LLC. , failed to comply with the XXXX policies regarding consumer claims, out of compliance and therefore XXXX can not process any arbitrations with DNF Associates LLC XXXX This means they are not only in breach of contract with me but with every other account, DNF Associates LLC is servicing. I am requesting the Consumer Financial Protection Bureau launch a class action against DNF Associates LLC, on behalf of all other consumers. This company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33460",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Diverse Funding Associates LLC",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "My name is XXXX XXXX, I filed an arbitration against DNF Associates LLC., however, I have received a notice from the XXXX XXXX XXXX XXXX informing me that DNF Associates LLC. , failed to comply with the XXXX policies regarding consumer claims, out of compliance and therefore XXXX can not process any arbitrations with DNF Associates LLC XXXX This means they are not only in breach of contract with me but with every other account, DNF Associates LLC is servicing. I am requesting the Consumer Financial Protection Bureau launch a class action against DNF Associates LLC, on behalf of all other consumers. This company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting"
+}
+
+Chunk:
+my name is xxxx xxxx, i filed an arbitration against dnf associates llc., however, i have received a notice from the xxxx xxxx xxxx xxxx informing me that dnf associates llc., failed to comply with the xxxx policies regarding consumer claims, out of compliance and therefore xxxx can not process any arbitrations with dnf associates llc xxxx this means they are not only in breach of contract with me but with every other account, dnf associates llc is servicing. i am requesting the consumer financial protection bureau launch a class action against dnf associates llc, on behalf of all other consumers. this company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995657801628113
+}

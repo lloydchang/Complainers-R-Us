@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9010174,
+  "complaint_id": "9010174",
+  "product": "Credit card",
+  "complaint_what_happened": "I paid my Avant card off as off XXXX. Recieved a bill afterwards on the regular statement date of the XXXX of the month for {$12.00} for interest on XXXX due by XXXX. Sent check for said amount on XXXX. They told me they received the check 13 days later on XXXX. They processed my check and my bank paid it on the XXXX. As of today the payment is still pending, I've received a late fee, and they tell me it will be another 14 days to be applied thus causing another late fee. So in this instance they tell me it took 13 days to receive the check and so far more than 18 days for it to be applied to my account. With their intentional delays ( total of 31 days and counting ) they are trying to make people that have paid their accounts off into a permanent payer.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "773XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Avant Holding Company, Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I paid my Avant card off as off XXXX. Recieved a bill afterwards on the regular statement date of the XXXX of the month for {$12.00} for interest on XXXX due by XXXX. Sent check for said amount on XXXX. They told me they received the check 13 days later on XXXX. They processed my check and my bank paid it on the XXXX. As of today the payment is still pending, I've received a late fee, and they tell me it will be another 14 days to be applied thus causing another late fee. So in this instance they tell me it took 13 days to receive the check and so far more than 18 days for it to be applied to my account. With their intentional delays ( total of 31 days and counting ) they are trying to make people that have paid their accounts off into a permanent payer."
+}
+
+Chunk:
+i paid my avant card off as off xxxx. recieved a bill afterwards on the regular statement date of the xxxx of the month for { $ 12. 00 } for interest on xxxx due by xxxx. sent check for said amount on xxxx. they told me they received the check 13 days later on xxxx. they processed my check and my bank paid it on the xxxx. as of today the payment is still pending, i've received a late fee, and they tell me it will be another 14 days to be applied thus causing another late fee. so in this instance they tell me it took 13 days to receive the check and so far more than 18 days for it to be applied to my account. with their intentional delays ( total of 31 days and counting ) they are trying to make people that have paid their accounts off into a permanent payer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975576400756836
+}

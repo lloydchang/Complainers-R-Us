@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9114866,
+  "complaint_id": "9114866",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX and XXXX, 2024 two unauthorized charges in the amounts of XXXX and XXXX were charged onto my Home Depot card without my permission. They were put on a XXXX interest for 6 months payment plan so as not to attract my attention. I have never in my life used these types of programs. Since XXXX I have made many many phone calls to them. Each time they would say they would be sending me the fraud papers to sign in the mail but no papers ever came. When I called again I talked to a lady for XXXX minutes and she again took all my information. Finally I received an email stating they rejected my fraud claim because the products were ordered by me and sent to my address. I am XXXX and home almost all the time and I have not received any packages. When I asked what was ordered on those days they said they did not have that information. XXXX is the amount of money I want refunded to me in the form of a check since I have closed both of my Home Depot credit cards because of this situation. This includes a credit of {$50.00} that was on my account. When I went online to see if other people are having problems with the Home Depot Citibank card the internet was flooded with stories just like mine. I have worked hard to get my credit score to XXXX. It is very frustrating when Citibank does not abide by its unauthorized charges guarantee",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "547XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX and XXXX, 2024 two unauthorized charges in the amounts of XXXX and XXXX were charged onto my Home Depot card without my permission. They were put on a XXXX interest for 6 months payment plan so as not to attract my attention. I have never in my life used these types of programs. Since XXXX I have made many many phone calls to them. Each time they would say they would be sending me the fraud papers to sign in the mail but no papers ever came. When I called again I talked to a lady for XXXX minutes and she again took all my information. Finally I received an email stating they rejected my fraud claim because the products were ordered by me and sent to my address. I am XXXX and home almost all the time and I have not received any packages. When I asked what was ordered on those days they said they did not have that information. XXXX is the amount of money I want refunded to me in the form of a check since I have closed both of my Home Depot credit cards because of this situation. This includes a credit of {$50.00} that was on my account. When I went online to see if other people are having problems with the Home Depot Citibank card the internet was flooded with stories just like mine. I have worked hard to get my credit score to XXXX. It is very frustrating when Citibank does not abide by its unauthorized charges guarantee"
+}
+
+Chunk:
+on xx / xx / xxxx and xxxx, 2024 two unauthorized charges in the amounts of xxxx and xxxx were charged onto my home depot card without my permission. they were put on a xxxx interest for 6 months payment plan so as not to attract my attention. i have never in my life used these types of programs. since xxxx i have made many many phone calls to them. each time they would say they would be sending me the fraud papers to sign in the mail but no papers ever came. when i called again i talked to a lady for xxxx minutes and she again took all my information. finally i received an email stating they rejected my fraud claim because the products were ordered by me and sent to my address. i am xxxx and home almost all the time and i have not received any packages. when i asked what was ordered on those days they said they did not have that information. xxxx is the amount of money i want refunded to me in the form of a check since i have closed both of my home depot credit cards because of this situation. this includes a credit of { $ 50. 00 } that was on my account. when i went online to see if other people are having problems with the home depot citibank card the internet was flooded with stories just like mine. i have worked hard to get my credit score to xxxx. it is very frustrating when citibank does not abide by its unauthorized charges guarantee
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990204572677612
+}

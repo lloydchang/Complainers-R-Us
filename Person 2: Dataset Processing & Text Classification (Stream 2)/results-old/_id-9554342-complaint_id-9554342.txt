@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554342,
+  "complaint_id": "9554342",
+  "product": "Credit card",
+  "complaint_what_happened": "I requested the last payment made to this company and they failed to provide it to me. Not the last payment made to XXXX XXXX  agency that they sold the debt too I need the last payment ever made to them before it went to collections. It should have been in XXXX of XXXX. Please send requested information so I can verify the last date of first delinquency. If can not provide I request this account be removed from my credit report immediately. \n\nAccount number : XXXX",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92821",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Army and Air Force Exchange Service",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account information incorrect",
+  "text": "I requested the last payment made to this company and they failed to provide it to me. Not the last payment made to XXXX XXXX  agency that they sold the debt too I need the last payment ever made to them before it went to collections. It should have been in XXXX of XXXX. Please send requested information so I can verify the last date of first delinquency. If can not provide I request this account be removed from my credit report immediately. \n\nAccount number : XXXX"
+}
+
+Chunk:
+i requested the last payment made to this company and they failed to provide it to me. not the last payment made to xxxx xxxx agency that they sold the debt too i need the last payment ever made to them before it went to collections. it should have been in xxxx of xxxx. please send requested information so i can verify the last date of first delinquency. if can not provide i request this account be removed from my credit report immediately. account number : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996287822723389
+}

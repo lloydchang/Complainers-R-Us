@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9230039,
+  "complaint_id": "9230039",
+  "product": "Credit card",
+  "complaint_what_happened": "Good afternoon, I had a credit card account with XXXX XXXX XXXX XXXX credit card and have been a loyal customer since 2022. My balance is due on the XXXX of every month and I wanted to make an *early* payment on XX/XX/XXXX of {$2600.00}. This amount was not due, I was making an early payment. \nI am a graduate student and was in the process of transferring funds into my checking account that did not have the full {$2600.00} in, so my payment was returned to Capital One. I retried this payment, again, still early, on XX/XX/XXXX which did in fact go through. Since there was an \" insufficient funds '' returned payment to capital one, they closed my account without warning. Along with the account closure they took over XXXX miles in bonuses that I had on my account, worth over {$1000.00}. Along with that, I have already paid the {$390.00} credit card fee for the year, which is also not being prorated. \nWhen I called and asked why my account was shut down I was met with answers regarding my account from a year ago, but not for this instance where I tried to pay my credit card bill early. I had also asked why I was not given any notice or warning of account closure if this were to happen, and they were unable to provide me with reasoning. Rationally, it would seem to be in a company 's best interest to provide you with some sort of email of possible termination -- so this seems like ill intent. \nAs a grad-student pursuing my XXXX outside of the continental XXXX I rely on those credit card mile points to see my family during breaks. Now without notice I do not have access anymore to over {$1000.00} for flights, as well as already having paid almost {$400.00} in a credit card fee. \nThank you for taking the time to read this complaint.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "PR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "Good afternoon, I had a credit card account with XXXX XXXX XXXX XXXX credit card and have been a loyal customer since 2022. My balance is due on the XXXX of every month and I wanted to make an *early* payment on XX/XX/XXXX of {$2600.00}. This amount was not due, I was making an early payment. \nI am a graduate student and was in the process of transferring funds into my checking account that did not have the full {$2600.00} in, so my payment was returned to Capital One. I retried this payment, again, still early, on XX/XX/XXXX which did in fact go through. Since there was an \" insufficient funds '' returned payment to capital one, they closed my account without warning. Along with the account closure they took over XXXX miles in bonuses that I had on my account, worth over {$1000.00}. Along with that, I have already paid the {$390.00} credit card fee for the year, which is also not being prorated. \nWhen I called and asked why my account was shut down I was met with answers regarding my account from a year ago, but not for this instance where I tried to pay my credit card bill early. I had also asked why I was not given any notice or warning of account closure if this were to happen, and they were unable to provide me with reasoning. Rationally, it would seem to be in a company 's best interest to provide you with some sort of email of possible termination -- so this seems like ill intent. \nAs a grad-student pursuing my XXXX outside of the continental XXXX I rely on those credit card mile points to see my family during breaks. Now without notice I do not have access anymore to over {$1000.00} for flights, as well as already having paid almost {$400.00} in a credit card fee. \nThank you for taking the time to read this complaint."
+}
+
+Chunk:
+good afternoon, i had a credit card account with xxxx xxxx xxxx xxxx credit card and have been a loyal customer since 2022. my balance is due on the xxxx of every month and i wanted to make an * early * payment on xx / xx / xxxx of { $ 2600. 00 }. this amount was not due, i was making an early payment. i am a graduate student and was in the process of transferring funds into my checking account that did not have the full { $ 2600. 00 } in, so my payment was returned to capital one. i retried this payment, again, still early, on xx / xx / xxxx which did in fact go through. since there was an " insufficient funds'' returned payment to capital one, they closed my account without warning. along with the account closure they took over xxxx miles in bonuses that i had on my account, worth over { $ 1000. 00 }. along with that, i have already paid the { $ 390. 00 } credit card fee for the year, which is also not being prorated. when i called and asked why my account was shut down i was met with answers regarding my account from a year ago, but not for this instance where i tried to pay my credit card bill early. i had also asked why i was not given any notice or warning of account closure if this were to happen, and they were unable to provide me with reasoning. rationally, it would seem to be in a company's best interest to provide you with some sort of email of possible termination - - so this seems like ill intent. as a grad - student pursuing my xxxx outside of the continental xxxx i rely on those credit card mile points to see my family during breaks. now without notice i do not have access anymore to over { $ 1000. 00 } for flights, as well as already having paid almost { $ 400. 00 } in a credit card fee. thank you for taking the time to read this complaint.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998914361000061
+}

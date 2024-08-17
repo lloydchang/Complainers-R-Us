@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9450855,
+  "complaint_id": "9450855",
+  "product": "Credit card",
+  "complaint_what_happened": "Upon checking my credit score, it was brought to my attention that on XX/XX/XXXX there was a citibank credit card opened under my name. This card was never opened by me, this was opened fraudulently using my social security number. This card was maxed out at {$6800.00} and has now been closed as of XX/XX/year> by credit grantor CITICARDS CBNA. I have gone ahead and reached out to CITI bank and informed that this Credit card was opened fraudulently under my name, they have informed the account has been closed and there is nothing that can be done at the moment. They informed that fraud investigations will reach out to me if additional information is needed. I did receive an email on XX/XX/XXXX to confirm if opened this card, I never confirmed the card through the email. If i would've caught this on earlier i was have obviously declined me opening this new credit card.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Upon checking my credit score, it was brought to my attention that on XX/XX/XXXX there was a citibank credit card opened under my name. This card was never opened by me, this was opened fraudulently using my social security number. This card was maxed out at {$6800.00} and has now been closed as of XX/XX/year> by credit grantor CITICARDS CBNA. I have gone ahead and reached out to CITI bank and informed that this Credit card was opened fraudulently under my name, they have informed the account has been closed and there is nothing that can be done at the moment. They informed that fraud investigations will reach out to me if additional information is needed. I did receive an email on XX/XX/XXXX to confirm if opened this card, I never confirmed the card through the email. If i would've caught this on earlier i was have obviously declined me opening this new credit card."
+}
+
+Chunk:
+upon checking my credit score, it was brought to my attention that on xx / xx / xxxx there was a citibank credit card opened under my name. this card was never opened by me, this was opened fraudulently using my social security number. this card was maxed out at { $ 6800. 00 } and has now been closed as of xx / xx / year > by credit grantor citicards cbna. i have gone ahead and reached out to citi bank and informed that this credit card was opened fraudulently under my name, they have informed the account has been closed and there is nothing that can be done at the moment. they informed that fraud investigations will reach out to me if additional information is needed. i did receive an email on xx / xx / xxxx to confirm if opened this card, i never confirmed the card through the email. if i would've caught this on earlier i was have obviously declined me opening this new credit card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985702037811279
+}

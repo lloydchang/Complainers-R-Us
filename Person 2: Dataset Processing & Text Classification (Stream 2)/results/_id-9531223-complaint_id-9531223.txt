@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9531223,
+  "complaint_id": "9531223",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a customer of XXXX XXXX XXXX XXXX XXXX  ) for more than XXXX years. Macy 's accounts are now administered by Citibank, NA. On XX/XX/XXXX, I received a notice from Citibank that my APR had been increased by a significant amount. The notice contains all required information, but I wished to understand the reasons for the increase as I had never been delinquent. \nI called the customer service line and waited for XXXX minutes to speak to a customer service representative. I explained that I wanted to know why the ARP had increased. He told me to have a nice day and hung up without further response. \nI still want a written explanation why my APR has increased.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I have been a customer of XXXX XXXX XXXX XXXX XXXX  ) for more than XXXX years. Macy 's accounts are now administered by Citibank, NA. On XX/XX/XXXX, I received a notice from Citibank that my APR had been increased by a significant amount. The notice contains all required information, but I wished to understand the reasons for the increase as I had never been delinquent. \nI called the customer service line and waited for XXXX minutes to speak to a customer service representative. I explained that I wanted to know why the ARP had increased. He told me to have a nice day and hung up without further response. \nI still want a written explanation why my APR has increased."
+}
+
+Chunk:
+i have been a customer of xxxx xxxx xxxx xxxx xxxx ) for more than xxxx years. macy's accounts are now administered by citibank, na. on xx / xx / xxxx, i received a notice from citibank that my apr had been increased by a significant amount. the notice contains all required information, but i wished to understand the reasons for the increase as i had never been delinquent. i called the customer service line and waited for xxxx minutes to speak to a customer service representative. i explained that i wanted to know why the arp had increased. he told me to have a nice day and hung up without further response. i still want a written explanation why my apr has increased.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9927504062652588
+}

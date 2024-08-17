@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9566215,
+  "complaint_id": "9566215",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a question about Fortiva credit card issues by XXXX XXXX XXXX. The FDIC solved my previous problem on getting that account closed. Now I have a question ; I am paying off the balance and of course, I expect to be charged interest. But can they charge me the annual fee ( the amount under the original terms of my account ). They want to charge me {$99.00} dollars broken into monthly payments. Is this legal? Thank you so much! XXXX XXXX",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02302",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with fees",
+  "text": "I have a question about Fortiva credit card issues by XXXX XXXX XXXX. The FDIC solved my previous problem on getting that account closed. Now I have a question ; I am paying off the balance and of course, I expect to be charged interest. But can they charge me the annual fee ( the amount under the original terms of my account ). They want to charge me {$99.00} dollars broken into monthly payments. Is this legal? Thank you so much! XXXX XXXX"
+}
+
+Chunk:
+i have a question about fortiva credit card issues by xxxx xxxx xxxx. the fdic solved my previous problem on getting that account closed. now i have a question ; i am paying off the balance and of course, i expect to be charged interest. but can they charge me the annual fee ( the amount under the original terms of my account ). they want to charge me { $ 99. 00 } dollars broken into monthly payments. is this legal? thank you so much! xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9110071659088135
+}

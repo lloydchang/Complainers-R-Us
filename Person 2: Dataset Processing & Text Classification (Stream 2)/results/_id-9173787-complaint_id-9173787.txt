@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173787,
+  "complaint_id": "9173787",
+  "product": "Credit card",
+  "complaint_what_happened": "My current balance in my credit card is an overpayment of about {$36000.00}. I ask the company on XX/XX/XXXX to transfer the balance. When I checked on XX/XX/XXXX, nothing was done. \n\nThe second person originally told me that it would take XXXX billing circles to send a check for the credit balance. I asked her if that was about 60 days and she said yes. When I mentioned that I would file a complaint with the cfpb, she made a phone call and said that it can be electronically transferred in 10 day. This is absurd and I ask that Bank of America be sanctioned with a monetary penalty for fraud. They can transfer my money to pay a bill in 1 day. Why not transfer an overpayment. \n\nIn addition, they now tell me that I have negative rewards of XXXX due to the refund. I paid for a trip and made the trip with my family. Due to unsanitary conditions, my wife and XXXX other people that we know of got XXXX. The refund is due the problems that were incurred. Bank of America treats the repayment as negative rewards. This is also a fraud being perpetrated on her customers.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with balance transfer",
+  "text": "My current balance in my credit card is an overpayment of about {$36000.00}. I ask the company on XX/XX/XXXX to transfer the balance. When I checked on XX/XX/XXXX, nothing was done. \n\nThe second person originally told me that it would take XXXX billing circles to send a check for the credit balance. I asked her if that was about 60 days and she said yes. When I mentioned that I would file a complaint with the cfpb, she made a phone call and said that it can be electronically transferred in 10 day. This is absurd and I ask that Bank of America be sanctioned with a monetary penalty for fraud. They can transfer my money to pay a bill in 1 day. Why not transfer an overpayment. \n\nIn addition, they now tell me that I have negative rewards of XXXX due to the refund. I paid for a trip and made the trip with my family. Due to unsanitary conditions, my wife and XXXX other people that we know of got XXXX. The refund is due the problems that were incurred. Bank of America treats the repayment as negative rewards. This is also a fraud being perpetrated on her customers."
+}
+
+Chunk:
+my current balance in my credit card is an overpayment of about { $ 36000. 00 }. i ask the company on xx / xx / xxxx to transfer the balance. when i checked on xx / xx / xxxx, nothing was done. the second person originally told me that it would take xxxx billing circles to send a check for the credit balance. i asked her if that was about 60 days and she said yes. when i mentioned that i would file a complaint with the cfpb, she made a phone call and said that it can be electronically transferred in 10 day. this is absurd and i ask that bank of america be sanctioned with a monetary penalty for fraud. they can transfer my money to pay a bill in 1 day. why not transfer an overpayment. in addition, they now tell me that i have negative rewards of xxxx due to the refund. i paid for a trip and made the trip with my family. due to unsanitary conditions, my wife and xxxx other people that we know of got xxxx. the refund is due the problems that were incurred. bank of america treats the repayment as negative rewards. this is also a fraud being perpetrated on her customers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994106292724609
+}

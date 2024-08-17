@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027160,
+  "complaint_id": "9027160",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter from XXXX XXXX Bank of America that they could not approve my XXXX XXXX XXXX XXXX card right now ( thank goodness ) - I did not apply for this card.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30341",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "I received a letter from XXXX XXXX Bank of America that they could not approve my XXXX XXXX XXXX XXXX card right now ( thank goodness ) - I did not apply for this card."
+}
+
+Chunk:
+i received a letter from xxxx xxxx bank of america that they could not approve my xxxx xxxx xxxx xxxx card right now ( thank goodness ) - i did not apply for this card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980736970901489
+}

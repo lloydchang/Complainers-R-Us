@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211250,
+  "complaint_id": "9211250",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a formal complaint regarding the mishandling of a credit refund from my credit account # XXXX to my checking account # XXXX. \nOn XX/XX/year>, I initiated a credit refund of {$1500.00} and explicitly requested that no refund check be mailed. I was assured by the Bank of America agent that the funds would be directly deposited into my checking account within two business days, by XX/XX/year>. This did not occur. \nOn XX/XX/year>, I contacted Bank of America customer service and spoke with XXXX, who informed me that a refund check had been sent out despite my clear instructions and the agents confirmation of refund into my Checking account. I reiterated that the funds should have been deposited directly into my checking account. XXXX suggested stopping payment on the check and reissuing the refund to my checking account, stating it would take an additional 10-14 days. \nI escalated the matter to management and spoke with XXXX, who stated there was nothing that could be done and I would have to wait 10-14 days for the refund.\n\nBank of Americas failure to follow my explicit instructions and the subsequent delays are unacceptable. Because of Bank of Americas negligence and lies to this consumer, I will have to wait an extended period of time for monies that should already have been deposited.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37130",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "I am writing to file a formal complaint regarding the mishandling of a credit refund from my credit account # XXXX to my checking account # XXXX. \nOn XX/XX/year>, I initiated a credit refund of {$1500.00} and explicitly requested that no refund check be mailed. I was assured by the Bank of America agent that the funds would be directly deposited into my checking account within two business days, by XX/XX/year>. This did not occur. \nOn XX/XX/year>, I contacted Bank of America customer service and spoke with XXXX, who informed me that a refund check had been sent out despite my clear instructions and the agents confirmation of refund into my Checking account. I reiterated that the funds should have been deposited directly into my checking account. XXXX suggested stopping payment on the check and reissuing the refund to my checking account, stating it would take an additional 10-14 days. \nI escalated the matter to management and spoke with XXXX, who stated there was nothing that could be done and I would have to wait 10-14 days for the refund.\n\nBank of Americas failure to follow my explicit instructions and the subsequent delays are unacceptable. Because of Bank of Americas negligence and lies to this consumer, I will have to wait an extended period of time for monies that should already have been deposited."
+}
+
+Chunk:
+i am writing to file a formal complaint regarding the mishandling of a credit refund from my credit account # xxxx to my checking account # xxxx. on xx / xx / year >, i initiated a credit refund of { $ 1500. 00 } and explicitly requested that no refund check be mailed. i was assured by the bank of america agent that the funds would be directly deposited into my checking account within two business days, by xx / xx / year >. this did not occur. on xx / xx / year >, i contacted bank of america customer service and spoke with xxxx, who informed me that a refund check had been sent out despite my clear instructions and the agents confirmation of refund into my checking account. i reiterated that the funds should have been deposited directly into my checking account. xxxx suggested stopping payment on the check and reissuing the refund to my checking account, stating it would take an additional 10 - 14 days. i escalated the matter to management and spoke with xxxx, who stated there was nothing that could be done and i would have to wait 10 - 14 days for the refund. bank of americas failure to follow my explicit instructions and the subsequent delays are unacceptable. because of bank of americas negligence and lies to this consumer, i will have to wait an extended period of time for monies that should already have been deposited.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991946816444397
+}

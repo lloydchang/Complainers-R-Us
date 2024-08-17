@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9109439,
+  "complaint_id": "9109439",
+  "product": "Credit card",
+  "complaint_what_happened": "I got a mailer around XXXX exactly with the offer of {$200.00} with {$1000.00} in spend within 90 days of account approval and the offer code. The expiration of the offer was at the end of XXXX. Maybe XXXXXXXX XXXX XXXX. I applied around XXXX and entered the offer code into the offer code field. I applied with the URL provided in the mailer. My personal information was pre-populated in most of the fields after I entered the code. I screenshot every stage of the application process. I responded to a \" pre-approved '' targeted offer in the mail with a {$200.00} sign-up bonus for {$1000.00} of spending the first 90 days of Bread Cashback XXXX XXXX I'm aware Comenity has XXXX horrific customer experience reputation, but I was willing to chance it. I spent {$1000.00} first months and about {$1500.00} total in 3 months. After 90 days I inquired and they said have to wait about sixty days so I did after that called their department and the lady confirmed I was eligible and said it should take a couple of weeks. After that, I received a letter from them saying that no bonus is allowed.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "145XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I got a mailer around XXXX exactly with the offer of {$200.00} with {$1000.00} in spend within 90 days of account approval and the offer code. The expiration of the offer was at the end of XXXX. Maybe XXXXXXXX XXXX XXXX. I applied around XXXX and entered the offer code into the offer code field. I applied with the URL provided in the mailer. My personal information was pre-populated in most of the fields after I entered the code. I screenshot every stage of the application process. I responded to a \" pre-approved '' targeted offer in the mail with a {$200.00} sign-up bonus for {$1000.00} of spending the first 90 days of Bread Cashback XXXX XXXX I'm aware Comenity has XXXX horrific customer experience reputation, but I was willing to chance it. I spent {$1000.00} first months and about {$1500.00} total in 3 months. After 90 days I inquired and they said have to wait about sixty days so I did after that called their department and the lady confirmed I was eligible and said it should take a couple of weeks. After that, I received a letter from them saying that no bonus is allowed."
+}
+
+Chunk:
+i got a mailer around xxxx exactly with the offer of { $ 200. 00 } with { $ 1000. 00 } in spend within 90 days of account approval and the offer code. the expiration of the offer was at the end of xxxx. maybe xxxxxxxx xxxx xxxx. i applied around xxxx and entered the offer code into the offer code field. i applied with the url provided in the mailer. my personal information was pre - populated in most of the fields after i entered the code. i screenshot every stage of the application process. i responded to a " pre - approved'' targeted offer in the mail with a { $ 200. 00 } sign - up bonus for { $ 1000. 00 } of spending the first 90 days of bread cashback xxxx xxxx i'm aware comenity has xxxx horrific customer experience reputation, but i was willing to chance it. i spent { $ 1000. 00 } first months and about { $ 1500. 00 } total in 3 months. after 90 days i inquired and they said have to wait about sixty days so i did after that called their department and the lady confirmed i was eligible and said it should take a couple of weeks. after that, i received a letter from them saying that no bonus is allowed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9780898094177246
+}

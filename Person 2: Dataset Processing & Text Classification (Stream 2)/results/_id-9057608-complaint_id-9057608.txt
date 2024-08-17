@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9057608,
+  "complaint_id": "9057608",
+  "product": "Credit card",
+  "complaint_what_happened": "so I went to there arbration process through there arbitrator and I signed the papers and they signed the papers to keep my account open. then this month they broke the terms of the agreement and closed my account for no reason I had to talk to 3 different managers to get my account back open and I altered the arbitration lawyer they broke the rules and closed my account and no one in there company would tell me why I wanted them to hold accountable who ever closed my account this was illegal and went beyond the terms of our agreement. Also they turned off my cash limit and no one in the company will give me a straight answer as to why and what is going on. I am very very upset and I want my cash limit back on and we need to make sure they do not close my account in the future when they had a legal agreement to keep it on. This is not acceptable whatsoever and then need to hold that person accountable for turning my account off.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84041",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "so I went to there arbration process through there arbitrator and I signed the papers and they signed the papers to keep my account open. then this month they broke the terms of the agreement and closed my account for no reason I had to talk to 3 different managers to get my account back open and I altered the arbitration lawyer they broke the rules and closed my account and no one in there company would tell me why I wanted them to hold accountable who ever closed my account this was illegal and went beyond the terms of our agreement. Also they turned off my cash limit and no one in the company will give me a straight answer as to why and what is going on. I am very very upset and I want my cash limit back on and we need to make sure they do not close my account in the future when they had a legal agreement to keep it on. This is not acceptable whatsoever and then need to hold that person accountable for turning my account off."
+}
+
+Chunk:
+so i went to there arbration process through there arbitrator and i signed the papers and they signed the papers to keep my account open. then this month they broke the terms of the agreement and closed my account for no reason i had to talk to 3 different managers to get my account back open and i altered the arbitration lawyer they broke the rules and closed my account and no one in there company would tell me why i wanted them to hold accountable who ever closed my account this was illegal and went beyond the terms of our agreement. also they turned off my cash limit and no one in the company will give me a straight answer as to why and what is going on. i am very very upset and i want my cash limit back on and we need to make sure they do not close my account in the future when they had a legal agreement to keep it on. this is not acceptable whatsoever and then need to hold that person accountable for turning my account off.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999594509601593
+}

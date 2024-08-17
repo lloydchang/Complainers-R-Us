@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9161443,
+  "complaint_id": "9161443",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged XXXX and didn't receive goods or services merchant wouldn't reimburse me. Also costco visa from citi wouldn't reimburse for the fraudulent transaction which is a violation of visa terms and agreement. I want full reimbursement from citi visa.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85379",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was charged XXXX and didn't receive goods or services merchant wouldn't reimburse me. Also costco visa from citi wouldn't reimburse for the fraudulent transaction which is a violation of visa terms and agreement. I want full reimbursement from citi visa."
+}
+
+Chunk:
+i was charged xxxx and didn't receive goods or services merchant wouldn't reimburse me. also costco visa from citi wouldn't reimburse for the fraudulent transaction which is a violation of visa terms and agreement. i want full reimbursement from citi visa.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9850617051124573
+}

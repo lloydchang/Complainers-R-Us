@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554239,
+  "complaint_id": "9554239",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi Bank lowered my credit limit without prior notice, resulting in negative credit impact. Citi card services claims it only lowered my credit limit once however that is false and they have no explanation on why it happened.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11229",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Citi Bank lowered my credit limit without prior notice, resulting in negative credit impact. Citi card services claims it only lowered my credit limit once however that is false and they have no explanation on why it happened."
+}
+
+Chunk:
+citi bank lowered my credit limit without prior notice, resulting in negative credit impact. citi card services claims it only lowered my credit limit once however that is false and they have no explanation on why it happened.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997120499610901
+}

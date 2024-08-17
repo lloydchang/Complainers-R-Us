@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045390,
+  "complaint_id": "9045390",
+  "product": "Credit card",
+  "complaint_what_happened": "I have tried numerous attemps to communicate with said companies with providing my Negotiable Instruments. Some of these Companies simply keep my Instrument and tell me they can not accept it.\n\nAccording to UCC 3-603 and UCC 3-311 and Instrument Tendered is sufficient to satify any Obligation of the United States. These Companies stay in Violation of those Rules of the UCC with all Commerce is Governed by.\n\nAny Company or Institution that refuses these Instruments according to the UCC is Pursuant for DIscharge regardless they Honor the Instrument or not. Thats the Law and the Rule of the Land. \n\nEverything is credit We are in Bankruptcy so you cant expect real monies ( Gold and Silver ) is the only Lawful Money and all Obligations are for the United States and go to the United States Treasury.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have tried numerous attemps to communicate with said companies with providing my Negotiable Instruments. Some of these Companies simply keep my Instrument and tell me they can not accept it.\n\nAccording to UCC 3-603 and UCC 3-311 and Instrument Tendered is sufficient to satify any Obligation of the United States. These Companies stay in Violation of those Rules of the UCC with all Commerce is Governed by.\n\nAny Company or Institution that refuses these Instruments according to the UCC is Pursuant for DIscharge regardless they Honor the Instrument or not. Thats the Law and the Rule of the Land. \n\nEverything is credit We are in Bankruptcy so you cant expect real monies ( Gold and Silver ) is the only Lawful Money and all Obligations are for the United States and go to the United States Treasury."
+}
+
+Chunk:
+i have tried numerous attemps to communicate with said companies with providing my negotiable instruments. some of these companies simply keep my instrument and tell me they can not accept it. according to ucc 3 - 603 and ucc 3 - 311 and instrument tendered is sufficient to satify any obligation of the united states. these companies stay in violation of those rules of the ucc with all commerce is governed by. any company or institution that refuses these instruments according to the ucc is pursuant for discharge regardless they honor the instrument or not. thats the law and the rule of the land. everything is credit we are in bankruptcy so you cant expect real monies ( gold and silver ) is the only lawful money and all obligations are for the united states and go to the united states treasury.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9955756664276123
+}

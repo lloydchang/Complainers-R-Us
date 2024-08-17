@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9092862,
+  "complaint_id": "9092862",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/2021 we purchased a couch at XXXX XXXX XXXX and signed up for a by now, pay later, XXXX interest if paid off by a due date installment loan. This loan was processed through Synchrony Bank. Synchrony Bank is now attempting to charge additional fees for mailing the monthly statement to my home address and stating that they can do so because they converted the installment loan to a credit card without my permission... also when I called to resolve this issue they claimed they can increase the interest rate regardless of the installment loan agreement. \n\nIf this is a credit card why did they not provide me any plastic?",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "14150",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "In XX/XX/2021 we purchased a couch at XXXX XXXX XXXX and signed up for a by now, pay later, XXXX interest if paid off by a due date installment loan. This loan was processed through Synchrony Bank. Synchrony Bank is now attempting to charge additional fees for mailing the monthly statement to my home address and stating that they can do so because they converted the installment loan to a credit card without my permission... also when I called to resolve this issue they claimed they can increase the interest rate regardless of the installment loan agreement. \n\nIf this is a credit card why did they not provide me any plastic?"
+}
+
+Chunk:
+in xx / xx / 2021 we purchased a couch at xxxx xxxx xxxx and signed up for a by now, pay later, xxxx interest if paid off by a due date installment loan. this loan was processed through synchrony bank. synchrony bank is now attempting to charge additional fees for mailing the monthly statement to my home address and stating that they can do so because they converted the installment loan to a credit card without my permission... also when i called to resolve this issue they claimed they can increase the interest rate regardless of the installment loan agreement. if this is a credit card why did they not provide me any plastic?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999099850654602
+}

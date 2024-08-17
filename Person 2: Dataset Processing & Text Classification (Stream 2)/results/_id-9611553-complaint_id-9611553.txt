@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9611553,
+  "complaint_id": "9611553",
+  "product": "Credit card",
+  "complaint_what_happened": "This account is invalid. WELLS FARGO CARD SERVICES needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. Further, the alleged account was transferred in good faith and with the consent of all parties involved. If they are unable to provide under oath the previously listed items then I require the account to be removed from my credit & their records. \n\n\n\nWELLS FARGO CARD SERVICES XXXX, WELLS FARGO CARD SERVICES XXXX, XXXX CARD XXXX, WELLS FARGO CARD SER XXXX",
+  "date_sent_to_company": "2024-07-26T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90291",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "This account is invalid. WELLS FARGO CARD SERVICES needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. Further, the alleged account was transferred in good faith and with the consent of all parties involved. If they are unable to provide under oath the previously listed items then I require the account to be removed from my credit & their records. \n\n\n\nWELLS FARGO CARD SERVICES XXXX, WELLS FARGO CARD SERVICES XXXX, XXXX CARD XXXX, WELLS FARGO CARD SER XXXX"
+}
+
+Chunk:
+this account is invalid. wells fargo card services needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. further, the alleged account was transferred in good faith and with the consent of all parties involved. if they are unable to provide under oath the previously listed items then i require the account to be removed from my credit & their records. wells fargo card services xxxx, wells fargo card services xxxx, xxxx card xxxx, wells fargo card ser xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991142153739929
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9367301,
+  "complaint_id": "9367301",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, my name is XXXX XXXX I have been reporting this account for also a year and half. I have never opened this account this and 5 other accounts was open in my name and my identity has been compromised. I been telling that I have not open this account. The transactions are not mines. I also reach out to this company they told me they remove the amount .it They still put on my credit after I said it was fraudt I dont even know what the card look like. I never received anything until my credit went from XXXX now its in the XXXX because they keep reporting fraudulent transactions that i didnt make I need this report off my credit.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48224",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Hello, my name is XXXX XXXX I have been reporting this account for also a year and half. I have never opened this account this and 5 other accounts was open in my name and my identity has been compromised. I been telling that I have not open this account. The transactions are not mines. I also reach out to this company they told me they remove the amount .it They still put on my credit after I said it was fraudt I dont even know what the card look like. I never received anything until my credit went from XXXX now its in the XXXX because they keep reporting fraudulent transactions that i didnt make I need this report off my credit."
+}
+
+Chunk:
+hello, my name is xxxx xxxx i have been reporting this account for also a year and half. i have never opened this account this and 5 other accounts was open in my name and my identity has been compromised. i been telling that i have not open this account. the transactions are not mines. i also reach out to this company they told me they remove the amount. it they still put on my credit after i said it was fraudt i dont even know what the card look like. i never received anything until my credit went from xxxx now its in the xxxx because they keep reporting fraudulent transactions that i didnt make i need this report off my credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9915276169776917
+}

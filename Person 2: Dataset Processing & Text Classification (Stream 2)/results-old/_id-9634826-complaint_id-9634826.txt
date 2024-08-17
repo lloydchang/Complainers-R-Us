@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9634826,
+  "complaint_id": "9634826",
+  "product": "Credit card",
+  "complaint_what_happened": "Without notice, Citibank has stopped producing monthly statements when there is no new purchase posted despite the account having a balance due.",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92262",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Without notice, Citibank has stopped producing monthly statements when there is no new purchase posted despite the account having a balance due."
+}
+
+Chunk:
+without notice, citibank has stopped producing monthly statements when there is no new purchase posted despite the account having a balance due.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991945624351501
+}

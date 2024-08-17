@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9257007,
+  "complaint_id": "9257007",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally file a complaint against Chase for their failure to resolve an issue with a ticket purchase and their subsequent refusal to provide a refund. \n\nOn XX/XX/year>, I purchased two tickets through the Chase 's Travel portal for flights scheduled from XXXX to XXXX on XX/XX/year>, and from XXXX to XXXX on XX/XX/year>. The original XXXX  for these tickets was XXXX and TRIP ID XXXX XXXX. \n\nWhen booking the tickets, I mistakenly entered my wife 's married name instead of her maiden name, which is the name on her passport. Realizing this error well in advance, I contacted Chase Travel two weeks before our scheduled departure to request a name correction on the ticket. Despite my timely request, Chase Travel was unable to correct the name or offer any viable solution to rectify the situation.\n\nAs a result of their inability to address this issue, my wife was denied boarding despite having all of the documents and I was compelled to purchase a new ticket for my wife at the airport on the day of the flight, incurring additional, unforeseen expenses.\n\nSince then, I have been in continuous communication with Chase Travel for over a month, seeking a refund for the original ticket. Despite my persistent efforts, they have neither provided the refund nor offered any concrete resolution. Instead, they continue to attribute the delay to the airline and have not given me any clear next steps.\n\nGiven the circumstances, I am requesting a chargeback for one ticket at original price, amounting to {$1200.00}. This request is made in light of the financial burden and inconvenience caused by Chase 's failure to address the issue promptly and adequately.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07302",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to formally file a complaint against Chase for their failure to resolve an issue with a ticket purchase and their subsequent refusal to provide a refund. \n\nOn XX/XX/year>, I purchased two tickets through the Chase 's Travel portal for flights scheduled from XXXX to XXXX on XX/XX/year>, and from XXXX to XXXX on XX/XX/year>. The original XXXX  for these tickets was XXXX and TRIP ID XXXX XXXX. \n\nWhen booking the tickets, I mistakenly entered my wife 's married name instead of her maiden name, which is the name on her passport. Realizing this error well in advance, I contacted Chase Travel two weeks before our scheduled departure to request a name correction on the ticket. Despite my timely request, Chase Travel was unable to correct the name or offer any viable solution to rectify the situation.\n\nAs a result of their inability to address this issue, my wife was denied boarding despite having all of the documents and I was compelled to purchase a new ticket for my wife at the airport on the day of the flight, incurring additional, unforeseen expenses.\n\nSince then, I have been in continuous communication with Chase Travel for over a month, seeking a refund for the original ticket. Despite my persistent efforts, they have neither provided the refund nor offered any concrete resolution. Instead, they continue to attribute the delay to the airline and have not given me any clear next steps.\n\nGiven the circumstances, I am requesting a chargeback for one ticket at original price, amounting to {$1200.00}. This request is made in light of the financial burden and inconvenience caused by Chase 's failure to address the issue promptly and adequately."
+}
+
+Chunk:
+i am writing to formally file a complaint against chase for their failure to resolve an issue with a ticket purchase and their subsequent refusal to provide a refund. on xx / xx / year >, i purchased two tickets through the chase's travel portal for flights scheduled from xxxx to xxxx on xx / xx / year >, and from xxxx to xxxx on xx / xx / year >. the original xxxx for these tickets was xxxx and trip id xxxx xxxx. when booking the tickets, i mistakenly entered my wife's married name instead of her maiden name, which is the name on her passport. realizing this error well in advance, i contacted chase travel two weeks before our scheduled departure to request a name correction on the ticket. despite my timely request, chase travel was unable to correct the name or offer any viable solution to rectify the situation. as a result of their inability to address this issue, my wife was denied boarding despite having all of the documents and i was compelled to purchase a new ticket for my wife at the airport on the day of the flight, incurring additional, unforeseen expenses. since then, i have been in continuous communication with chase travel for over a month, seeking a refund for the original ticket. despite my persistent efforts, they have neither provided the refund nor offered any concrete resolution. instead, they continue to attribute the delay to the airline and have not given me any clear next steps. given the circumstances, i am requesting a chargeback for one ticket at original price, amounting to { $ 1200. 00 }. this request is made in light of the financial burden and inconvenience caused by chase's failure to address the issue promptly and adequately.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992377758026123
+}

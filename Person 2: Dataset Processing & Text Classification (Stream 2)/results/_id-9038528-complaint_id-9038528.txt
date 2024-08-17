@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038528,
+  "complaint_id": "9038528",
+  "product": "Credit card",
+  "complaint_what_happened": "Given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. I kindly request the prompt updating of my account to accurately reflect this history.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60187",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account status incorrect",
+  "text": "Given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. I kindly request the prompt updating of my account to accurately reflect this history."
+}
+
+Chunk:
+given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. i kindly request the prompt updating of my account to accurately reflect this history.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.956916093826294
+}

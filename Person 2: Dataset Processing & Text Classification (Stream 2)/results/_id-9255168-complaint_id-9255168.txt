@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9255168,
+  "complaint_id": "9255168",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XXXX XXXX account opened with XXXX for a credit card in the Amount of {$350.00} Acct # XXXX was opened in my name with out my knowledge or consent. and mailed to the Address of XXXX XXXX XXXX, XXXX mi XXXX a home in which i have never stayed but was being used to create a false identity using my personal information and have goods mailed in my name. I have tried to reach out to this company about this matter concerning this fraudulent account several times. I was hung up on or Ignored all together when talking to customer service representatives for this company. This company has received a copy of the police report filed by me at my local police station and FTC Report from the Federal Trade Commission naming this account as fraudulent but still is trying to collect this debt and is still reporting this debt to the XXXX major credit bureaus making me ineligible to obtain housing or reliable transportation due to this companies negative reporting of this fraudulent account. This company has Ignored all Requirements of its obligation of furnishers under the Fair Credit Reporting Act 15 U.S.C. 1681s-2 section 623 I have tried all that i can, but these companies do what they want.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "48089",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XXXX XXXX XXXX account opened with XXXX for a credit card in the Amount of {$350.00} Acct # XXXX was opened in my name with out my knowledge or consent. and mailed to the Address of XXXX XXXX XXXX, XXXX mi XXXX a home in which i have never stayed but was being used to create a false identity using my personal information and have goods mailed in my name. I have tried to reach out to this company about this matter concerning this fraudulent account several times. I was hung up on or Ignored all together when talking to customer service representatives for this company. This company has received a copy of the police report filed by me at my local police station and FTC Report from the Federal Trade Commission naming this account as fraudulent but still is trying to collect this debt and is still reporting this debt to the XXXX major credit bureaus making me ineligible to obtain housing or reliable transportation due to this companies negative reporting of this fraudulent account. This company has Ignored all Requirements of its obligation of furnishers under the Fair Credit Reporting Act 15 U.S.C. 1681s-2 section 623 I have tried all that i can, but these companies do what they want."
+}
+
+Chunk:
+on xxxx xxxx xxxx account opened with xxxx for a credit card in the amount of { $ 350. 00 } acct # xxxx was opened in my name with out my knowledge or consent. and mailed to the address of xxxx xxxx xxxx, xxxx mi xxxx a home in which i have never stayed but was being used to create a false identity using my personal information and have goods mailed in my name. i have tried to reach out to this company about this matter concerning this fraudulent account several times. i was hung up on or ignored all together when talking to customer service representatives for this company. this company has received a copy of the police report filed by me at my local police station and ftc report from the federal trade commission naming this account as fraudulent but still is trying to collect this debt and is still reporting this debt to the xxxx major credit bureaus making me ineligible to obtain housing or reliable transportation due to this companies negative reporting of this fraudulent account. this company has ignored all requirements of its obligation of furnishers under the fair credit reporting act 15 u. s. c. 1681s - 2 section 623 i have tried all that i can, but these companies do what they want.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989314675331116
+}

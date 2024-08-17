@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9063027,
+  "complaint_id": "9063027",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit card payment is due on the XXXX of each month with YARD CARD/TD Bank . I made two separate payments by phone on XX/XX/2024, one for {$140.00} and the other for {$20.00}. On XX/XX/XXXX I looked at my checking account and the payment of {$20.00} was taken out, but the {$140.00} wasnt on there. I called YARD CARD on the XXXX to ask about this and they informed me the {$140.00} got cancelled out because I am not allowed to make 2 payments in one day. I was not told this or aware that I couldnt do that. I then asked if, now I would get charged a late fee and show a late fee on my account and they said yes. They do not have no grace period at all and they wouldnt do anything to help me and fix this.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "47303",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "My credit card payment is due on the XXXX of each month with YARD CARD/TD Bank . I made two separate payments by phone on XX/XX/2024, one for {$140.00} and the other for {$20.00}. On XX/XX/XXXX I looked at my checking account and the payment of {$20.00} was taken out, but the {$140.00} wasnt on there. I called YARD CARD on the XXXX to ask about this and they informed me the {$140.00} got cancelled out because I am not allowed to make 2 payments in one day. I was not told this or aware that I couldnt do that. I then asked if, now I would get charged a late fee and show a late fee on my account and they said yes. They do not have no grace period at all and they wouldnt do anything to help me and fix this."
+}
+
+Chunk:
+my credit card payment is due on the xxxx of each month with yard card / td bank. i made two separate payments by phone on xx / xx / 2024, one for { $ 140. 00 } and the other for { $ 20. 00 }. on xx / xx / xxxx i looked at my checking account and the payment of { $ 20. 00 } was taken out, but the { $ 140. 00 } wasnt on there. i called yard card on the xxxx to ask about this and they informed me the { $ 140. 00 } got cancelled out because i am not allowed to make 2 payments in one day. i was not told this or aware that i couldnt do that. i then asked if, now i would get charged a late fee and show a late fee on my account and they said yes. they do not have no grace period at all and they wouldnt do anything to help me and fix this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993352293968201
+}

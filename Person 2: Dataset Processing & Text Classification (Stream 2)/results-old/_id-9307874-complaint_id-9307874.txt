@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9307874,
+  "complaint_id": "9307874",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged for furniture purchases I did not make from Macy's.com. First in XXXX of XXXX. I reported the fraud and was issued a new card. Then there was a charge on the new card for {$2700.00} twice on XX/XX/XXXX. I reported this fraud and only XXXX of the {$2700.00} was credited. I called Macy 's today XXXX XXXX. I was informed that only XXXX of the {$2700.00} charges was credited and that fraud investigation was closed. I informed the call center my balance should be {$0.00} as I have made no purchases. I was informed there is a new charge on XXXX XXXX for {$3600.00} made online. I then opened a new fraud investigation and canceled the credit card since this is the third fraudulent charge made since XX/XX/XXXX. I have no confidence in Macy 's fraud investigation division. \nTank you, XXXX XXXX",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "92025",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I was charged for furniture purchases I did not make from Macy's.com. First in XXXX of XXXX. I reported the fraud and was issued a new card. Then there was a charge on the new card for {$2700.00} twice on XX/XX/XXXX. I reported this fraud and only XXXX of the {$2700.00} was credited. I called Macy 's today XXXX XXXX. I was informed that only XXXX of the {$2700.00} charges was credited and that fraud investigation was closed. I informed the call center my balance should be {$0.00} as I have made no purchases. I was informed there is a new charge on XXXX XXXX for {$3600.00} made online. I then opened a new fraud investigation and canceled the credit card since this is the third fraudulent charge made since XX/XX/XXXX. I have no confidence in Macy 's fraud investigation division. \nTank you, XXXX XXXX"
+}
+
+Chunk:
+i was charged for furniture purchases i did not make from macy's. com. first in xxxx of xxxx. i reported the fraud and was issued a new card. then there was a charge on the new card for { $ 2700. 00 } twice on xx / xx / xxxx. i reported this fraud and only xxxx of the { $ 2700. 00 } was credited. i called macy's today xxxx xxxx. i was informed that only xxxx of the { $ 2700. 00 } charges was credited and that fraud investigation was closed. i informed the call center my balance should be { $ 0. 00 } as i have made no purchases. i was informed there is a new charge on xxxx xxxx for { $ 3600. 00 } made online. i then opened a new fraud investigation and canceled the credit card since this is the third fraudulent charge made since xx / xx / xxxx. i have no confidence in macy's fraud investigation division. tank you, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994575381278992
+}

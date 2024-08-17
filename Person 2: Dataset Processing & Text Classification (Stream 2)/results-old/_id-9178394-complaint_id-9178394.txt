@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178394,
+  "complaint_id": "9178394",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to you in desperate need of assistance. I have been calling citibank customer service since XX/XX/year>, trying to resolve a {$890.00} refund which was refunded by XXXX but customer service put it on my promotional balance instead. \n\nIts now showing on my account balance and since then I have been requesting them to remove it as it was already refunded, I shouldnt have to pay that and it shouldn't have to be added to my balance. It messed up my credit score and I tried to file a complaint but they just tossing me back and forth, wait 7-10 business day, 10-14 business day, 60-90 business day. \n\nHere I am 6 months later, still following up. Can I please get someone to help me, not some customer service overseas that doesn't care and don't know what they are doing.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92154",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to you in desperate need of assistance. I have been calling citibank customer service since XX/XX/year>, trying to resolve a {$890.00} refund which was refunded by XXXX but customer service put it on my promotional balance instead. \n\nIts now showing on my account balance and since then I have been requesting them to remove it as it was already refunded, I shouldnt have to pay that and it shouldn't have to be added to my balance. It messed up my credit score and I tried to file a complaint but they just tossing me back and forth, wait 7-10 business day, 10-14 business day, 60-90 business day. \n\nHere I am 6 months later, still following up. Can I please get someone to help me, not some customer service overseas that doesn't care and don't know what they are doing."
+}
+
+Chunk:
+i am writing to you in desperate need of assistance. i have been calling citibank customer service since xx / xx / year >, trying to resolve a { $ 890. 00 } refund which was refunded by xxxx but customer service put it on my promotional balance instead. its now showing on my account balance and since then i have been requesting them to remove it as it was already refunded, i shouldnt have to pay that and it shouldn't have to be added to my balance. it messed up my credit score and i tried to file a complaint but they just tossing me back and forth, wait 7 - 10 business day, 10 - 14 business day, 60 - 90 business day. here i am 6 months later, still following up. can i please get someone to help me, not some customer service overseas that doesn't care and don't know what they are doing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991497993469238
+}

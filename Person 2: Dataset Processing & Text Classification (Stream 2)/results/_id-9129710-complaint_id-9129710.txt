@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9129710,
+  "complaint_id": "9129710",
+  "product": "Credit card",
+  "complaint_what_happened": "There was a fraudulent charge made to my card in XX/XX/2024 for {$3000.00}. I have called the bank multiple times with details of everything that happened, and their denial for the claim is not substantive. This is the third time now they have denied the claim, and are ignoring key pieces of information to validate the claim. I will not be paying any amount of the credit card due to their negligence in this matter.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95822",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "There was a fraudulent charge made to my card in XX/XX/2024 for {$3000.00}. I have called the bank multiple times with details of everything that happened, and their denial for the claim is not substantive. This is the third time now they have denied the claim, and are ignoring key pieces of information to validate the claim. I will not be paying any amount of the credit card due to their negligence in this matter."
+}
+
+Chunk:
+there was a fraudulent charge made to my card in xx / xx / 2024 for { $ 3000. 00 }. i have called the bank multiple times with details of everything that happened, and their denial for the claim is not substantive. this is the third time now they have denied the claim, and are ignoring key pieces of information to validate the claim. i will not be paying any amount of the credit card due to their negligence in this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996267557144165
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9366994,
+  "complaint_id": "9366994",
+  "product": "Credit card",
+  "complaint_what_happened": "My case is with XXXX XXXX case number Case # XXXX In 2017 my personal information was exposed during the XXXX XXXX breach, and ever since, Ive been struggling with identity theft issues. An account was fraudulently opened in my name with citibank and has been reported negatively on my credit report. \nIve tried to fix this by disputing the account multiple times with the credit bureaus, but every time they come back sayin that the company has verified the account. Ive never had any dealings with Citibank and I didnt authorize this account to be open in my name, or authorize my Social Security number to be used.. The address they have on the account XXXX XXXX XXXX XXXX doesnt belong to me, my home address is XXXX XXXX XXXX XXXX XXXX Fl with the mailing address of XXXX XXXX XXXX XXXX XXXX ( XXXX  XXXX Fl XXXX XXXX a victim of identity theft and trying to recover my identity.. This has been affecting my daily life and my ability to get credit when I need it. I feel stuck and dont know what else to do.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33028",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "My case is with XXXX XXXX case number Case # XXXX In 2017 my personal information was exposed during the XXXX XXXX breach, and ever since, Ive been struggling with identity theft issues. An account was fraudulently opened in my name with citibank and has been reported negatively on my credit report. \nIve tried to fix this by disputing the account multiple times with the credit bureaus, but every time they come back sayin that the company has verified the account. Ive never had any dealings with Citibank and I didnt authorize this account to be open in my name, or authorize my Social Security number to be used.. The address they have on the account XXXX XXXX XXXX XXXX doesnt belong to me, my home address is XXXX XXXX XXXX XXXX XXXX Fl with the mailing address of XXXX XXXX XXXX XXXX XXXX ( XXXX  XXXX Fl XXXX XXXX a victim of identity theft and trying to recover my identity.. This has been affecting my daily life and my ability to get credit when I need it. I feel stuck and dont know what else to do."
+}
+
+Chunk:
+my case is with xxxx xxxx case number case # xxxx in 2017 my personal information was exposed during the xxxx xxxx breach, and ever since, ive been struggling with identity theft issues. an account was fraudulently opened in my name with citibank and has been reported negatively on my credit report. ive tried to fix this by disputing the account multiple times with the credit bureaus, but every time they come back sayin that the company has verified the account. ive never had any dealings with citibank and i didnt authorize this account to be open in my name, or authorize my social security number to be used.. the address they have on the account xxxx xxxx xxxx xxxx doesnt belong to me, my home address is xxxx xxxx xxxx xxxx xxxx fl with the mailing address of xxxx xxxx xxxx xxxx xxxx ( xxxx xxxx fl xxxx xxxx a victim of identity theft and trying to recover my identity.. this has been affecting my daily life and my ability to get credit when i need it. i feel stuck and dont know what else to do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994730353355408
+}

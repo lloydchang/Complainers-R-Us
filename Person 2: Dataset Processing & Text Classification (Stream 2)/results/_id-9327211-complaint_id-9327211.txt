@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9327211,
+  "complaint_id": "9327211",
+  "product": "Credit card",
+  "complaint_what_happened": "Purchased new flooring through Lumber Liquidators and was offered 0 % financing for XXXX years. Credit was extended through XXXX XXXX. When the initial payment plan was setup, it was structured to pay off the loan in the two years offered. Over time, the bank withdrew less and less money each month which ensured the balance would not be paid in time. Today ( XX/XX/year> ) I was charged for two years interest on the entire balance without advanced warning or notice in the amount of {$5200.00}. This was an intentional and deceptive tactic to ensure I would be forced to pay a large interest charge.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "97401",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Purchased new flooring through Lumber Liquidators and was offered 0 % financing for XXXX years. Credit was extended through XXXX XXXX. When the initial payment plan was setup, it was structured to pay off the loan in the two years offered. Over time, the bank withdrew less and less money each month which ensured the balance would not be paid in time. Today ( XX/XX/year> ) I was charged for two years interest on the entire balance without advanced warning or notice in the amount of {$5200.00}. This was an intentional and deceptive tactic to ensure I would be forced to pay a large interest charge."
+}
+
+Chunk:
+purchased new flooring through lumber liquidators and was offered 0 % financing for xxxx years. credit was extended through xxxx xxxx. when the initial payment plan was setup, it was structured to pay off the loan in the two years offered. over time, the bank withdrew less and less money each month which ensured the balance would not be paid in time. today ( xx / xx / year > ) i was charged for two years interest on the entire balance without advanced warning or notice in the amount of { $ 5200. 00 }. this was an intentional and deceptive tactic to ensure i would be forced to pay a large interest charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9929736852645874
+}

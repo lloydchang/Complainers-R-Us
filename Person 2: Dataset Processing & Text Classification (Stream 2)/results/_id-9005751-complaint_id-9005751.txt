@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9005751,
+  "complaint_id": "9005751",
+  "product": "Credit card",
+  "complaint_what_happened": "My a count was closed after almost XXXX years due to inactivity. It was kind of hard to use from XXXX due to XXXX and not being able to use it during that time at specific locations. Was never sent any type of information regarding it being closed but continued to receive mail from them about promotional offers. Now they want me to have to re-apply and of course at a higher interest rate!",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "442XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "My a count was closed after almost XXXX years due to inactivity. It was kind of hard to use from XXXX due to XXXX and not being able to use it during that time at specific locations. Was never sent any type of information regarding it being closed but continued to receive mail from them about promotional offers. Now they want me to have to re-apply and of course at a higher interest rate!"
+}
+
+Chunk:
+my a count was closed after almost xxxx years due to inactivity. it was kind of hard to use from xxxx due to xxxx and not being able to use it during that time at specific locations. was never sent any type of information regarding it being closed but continued to receive mail from them about promotional offers. now they want me to have to re - apply and of course at a higher interest rate!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991687536239624
+}

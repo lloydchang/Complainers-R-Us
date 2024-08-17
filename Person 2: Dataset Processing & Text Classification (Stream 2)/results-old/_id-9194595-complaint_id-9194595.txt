@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9194595,
+  "complaint_id": "9194595",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I sent a claim to Navy Federal Credit Union and within three days it was received, investigated, resolved and closed without me having the opportunity to send correspondence or any other documenting information. \nUnder Your Claim is ResolvedThe amount debited by the merchant was agreed upon when services were received. While we understand that the quality of services rendered was unsatisfactory services were performed and paid for and there is no record of cancellation ; therefore we have no recourse within the dispute process to pursue this matter further. \nAs of the date of this notification, your dispute claim has been closed. \nI DO have an email of service cancellation from XXXX. When I initially negotiated with XXXX and the contract price was set, it was surely based on the XXXX XXXX XXXX that I would receive. XXXX was the sales agent and strongly highly recommended this treatment plan after he saw the XXXX XXXX at my XXXX. I paid for the XXXXXXXX XXXX XXXX that I did not receive and was in the service contract that I signed.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/2024, I sent a claim to Navy Federal Credit Union and within three days it was received, investigated, resolved and closed without me having the opportunity to send correspondence or any other documenting information. \nUnder Your Claim is ResolvedThe amount debited by the merchant was agreed upon when services were received. While we understand that the quality of services rendered was unsatisfactory services were performed and paid for and there is no record of cancellation ; therefore we have no recourse within the dispute process to pursue this matter further. \nAs of the date of this notification, your dispute claim has been closed. \nI DO have an email of service cancellation from XXXX. When I initially negotiated with XXXX and the contract price was set, it was surely based on the XXXX XXXX XXXX that I would receive. XXXX was the sales agent and strongly highly recommended this treatment plan after he saw the XXXX XXXX at my XXXX. I paid for the XXXXXXXX XXXX XXXX that I did not receive and was in the service contract that I signed."
+}
+
+Chunk:
+on xx / xx / 2024, i sent a claim to navy federal credit union and within three days it was received, investigated, resolved and closed without me having the opportunity to send correspondence or any other documenting information. under your claim is resolvedthe amount debited by the merchant was agreed upon when services were received. while we understand that the quality of services rendered was unsatisfactory services were performed and paid for and there is no record of cancellation ; therefore we have no recourse within the dispute process to pursue this matter further. as of the date of this notification, your dispute claim has been closed. i do have an email of service cancellation from xxxx. when i initially negotiated with xxxx and the contract price was set, it was surely based on the xxxx xxxx xxxx that i would receive. xxxx was the sales agent and strongly highly recommended this treatment plan after he saw the xxxx xxxx at my xxxx. i paid for the xxxxxxxx xxxx xxxx that i did not receive and was in the service contract that i signed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8427449464797974
+}

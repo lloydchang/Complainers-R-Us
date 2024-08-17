@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9115256,
+  "complaint_id": "9115256",
+  "product": "Credit card",
+  "complaint_what_happened": "Days after the account was open, the custom rep suggested me to change my address to get the other authorized card, which directly resulted in security hold on the account and I cant either use or close the account. \n\nI fax the documents as requested twice. I also called custom service once every 1-2 weeks but got no answers but keeping waiting. About 2 month later, I was asked to mail in the documents. The rep suggested the resolution would be in 2 weeks. \n\nThe document was mailed on the beginning of XXXX ( see attached evidence ) and there was no response for another 2 months. I called in on the end of XXXX and it appeared that no one had processed the review. The account was then get unlocked eventually and I was transferred to get the account closed. The custom service acknowledged their faults. \n\nThrough the entire period ( except a few days before the lock ) I was not able to use the card at all and could not use any of the benefit, including promotional APY, priority boarding or many other benefits bundled with annual fee that was paid upfront. \n\nSo I requested for a refund of the annual fee but the custom rep refused to do so and explained with you are out of the refund period. However, I was trying to close the account early on but would not be able to do so due to the lock on the account. \n\nIn other words, the company charged annual fee upfront but effectively provided no service. The company policy suggests a period for refund but it does not allow me to close the account within that period.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78728",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Days after the account was open, the custom rep suggested me to change my address to get the other authorized card, which directly resulted in security hold on the account and I cant either use or close the account. \n\nI fax the documents as requested twice. I also called custom service once every 1-2 weeks but got no answers but keeping waiting. About 2 month later, I was asked to mail in the documents. The rep suggested the resolution would be in 2 weeks. \n\nThe document was mailed on the beginning of XXXX ( see attached evidence ) and there was no response for another 2 months. I called in on the end of XXXX and it appeared that no one had processed the review. The account was then get unlocked eventually and I was transferred to get the account closed. The custom service acknowledged their faults. \n\nThrough the entire period ( except a few days before the lock ) I was not able to use the card at all and could not use any of the benefit, including promotional APY, priority boarding or many other benefits bundled with annual fee that was paid upfront. \n\nSo I requested for a refund of the annual fee but the custom rep refused to do so and explained with you are out of the refund period. However, I was trying to close the account early on but would not be able to do so due to the lock on the account. \n\nIn other words, the company charged annual fee upfront but effectively provided no service. The company policy suggests a period for refund but it does not allow me to close the account within that period."
+}
+
+Chunk:
+days after the account was open, the custom rep suggested me to change my address to get the other authorized card, which directly resulted in security hold on the account and i cant either use or close the account. i fax the documents as requested twice. i also called custom service once every 1 - 2 weeks but got no answers but keeping waiting. about 2 month later, i was asked to mail in the documents. the rep suggested the resolution would be in 2 weeks. the document was mailed on the beginning of xxxx ( see attached evidence ) and there was no response for another 2 months. i called in on the end of xxxx and it appeared that no one had processed the review. the account was then get unlocked eventually and i was transferred to get the account closed. the custom service acknowledged their faults. through the entire period ( except a few days before the lock ) i was not able to use the card at all and could not use any of the benefit, including promotional apy, priority boarding or many other benefits bundled with annual fee that was paid upfront. so i requested for a refund of the annual fee but the custom rep refused to do so and explained with you are out of the refund period. however, i was trying to close the account early on but would not be able to do so due to the lock on the account. in other words, the company charged annual fee upfront but effectively provided no service. the company policy suggests a period for refund but it does not allow me to close the account within that period.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99922776222229
+}

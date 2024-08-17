@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174309,
+  "complaint_id": "9174309",
+  "product": "Credit card",
+  "complaint_what_happened": "I called the number on my Macy 's credit card in early XX/XX/XXXX to report a fraudulent in-store purchase made in the amount of {$1000.00}. The employee assisting me somehow also included some online purchases that were authorized and made by me. The investigations team for the Credit card company denied my claim because of those online purchases, stating that the items were delivered to the correct address. However, I am trying to file a claim for the fraudulent in-store purchase that was not made by me.\n\nThe fraud occurred in-store at a Macy 's store in XXXX California XXXX XX/XX/XXXX for the amount of {$1000.00}. The agent told me the purchase was made by an account look up and they by-passed the signature required. \nThe agent closed that card and I was issued a new Macy 's credit card in XXXX. \n\nThen on XX/XX/XXXX there were two more fraudulent in-store purchases made at a Macy 's store in XXXX for the amount of {$700.00} and Macy 's in XXXX XXXX for the amount of {$390.00}. Both in-store purchases were made by an account look up and again, the signature required to make the payment was by-passed. \n\nI have been trying to resolve these issues by calling every month since my first fraud claim. They denied my first claim because of the online purchases that I did not report. I called to request that the case be reopened for the fraudulent in-store purchases and was again denied because of the online purchases that were attached, that I did not claim to be fraudulent.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "928XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I called the number on my Macy 's credit card in early XX/XX/XXXX to report a fraudulent in-store purchase made in the amount of {$1000.00}. The employee assisting me somehow also included some online purchases that were authorized and made by me. The investigations team for the Credit card company denied my claim because of those online purchases, stating that the items were delivered to the correct address. However, I am trying to file a claim for the fraudulent in-store purchase that was not made by me.\n\nThe fraud occurred in-store at a Macy 's store in XXXX California XXXX XX/XX/XXXX for the amount of {$1000.00}. The agent told me the purchase was made by an account look up and they by-passed the signature required. \nThe agent closed that card and I was issued a new Macy 's credit card in XXXX. \n\nThen on XX/XX/XXXX there were two more fraudulent in-store purchases made at a Macy 's store in XXXX for the amount of {$700.00} and Macy 's in XXXX XXXX for the amount of {$390.00}. Both in-store purchases were made by an account look up and again, the signature required to make the payment was by-passed. \n\nI have been trying to resolve these issues by calling every month since my first fraud claim. They denied my first claim because of the online purchases that I did not report. I called to request that the case be reopened for the fraudulent in-store purchases and was again denied because of the online purchases that were attached, that I did not claim to be fraudulent."
+}
+
+Chunk:
+i called the number on my macy's credit card in early xx / xx / xxxx to report a fraudulent in - store purchase made in the amount of { $ 1000. 00 }. the employee assisting me somehow also included some online purchases that were authorized and made by me. the investigations team for the credit card company denied my claim because of those online purchases, stating that the items were delivered to the correct address. however, i am trying to file a claim for the fraudulent in - store purchase that was not made by me. the fraud occurred in - store at a macy's store in xxxx california xxxx xx / xx / xxxx for the amount of { $ 1000. 00 }. the agent told me the purchase was made by an account look up and they by - passed the signature required. the agent closed that card and i was issued a new macy's credit card in xxxx. then on xx / xx / xxxx there were two more fraudulent in - store purchases made at a macy's store in xxxx for the amount of { $ 700. 00 } and macy's in xxxx xxxx for the amount of { $ 390. 00 }. both in - store purchases were made by an account look up and again, the signature required to make the payment was by - passed. i have been trying to resolve these issues by calling every month since my first fraud claim. they denied my first claim because of the online purchases that i did not report. i called to request that the case be reopened for the fraudulent in - store purchases and was again denied because of the online purchases that were attached, that i did not claim to be fraudulent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998553454875946
+}

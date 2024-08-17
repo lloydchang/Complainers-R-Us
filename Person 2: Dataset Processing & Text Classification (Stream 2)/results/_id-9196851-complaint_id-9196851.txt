@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9196851,
+  "complaint_id": "9196851",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an Old Navy Credit Card that is under the Barclay Credit Card so the problem is even if I pay my balance for example this month ( on time ) they will still charge me an interest for the next statement. Thinking that I am fully paid I dont have to check my account right? But when I checked I saw that I got the interest charge plus a late payment fee of {$11.00}! Is that right? Also, last month my due date is on the XXXX so I paid that day and Im using my checking account to pay the only balance of {$11.00}. So again I fully paid, but lo and behold I thought Im fully paid again but no I saw this month that I have a balance of {$13.00} which is again interest and late payment fee. This is so wrong in all levels because they are tricking the consumer and making seem that everything is okay until you check. What if I dont check since I know I dont have any balance? Is this a good credit practice to do? Please look into this because I think I am not the only victim here. I reached out to them but they wont back down and lectured me on how to check my account as if I dont know how to check my account. Thank you.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "91737",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have an Old Navy Credit Card that is under the Barclay Credit Card so the problem is even if I pay my balance for example this month ( on time ) they will still charge me an interest for the next statement. Thinking that I am fully paid I dont have to check my account right? But when I checked I saw that I got the interest charge plus a late payment fee of {$11.00}! Is that right? Also, last month my due date is on the XXXX so I paid that day and Im using my checking account to pay the only balance of {$11.00}. So again I fully paid, but lo and behold I thought Im fully paid again but no I saw this month that I have a balance of {$13.00} which is again interest and late payment fee. This is so wrong in all levels because they are tricking the consumer and making seem that everything is okay until you check. What if I dont check since I know I dont have any balance? Is this a good credit practice to do? Please look into this because I think I am not the only victim here. I reached out to them but they wont back down and lectured me on how to check my account as if I dont know how to check my account. Thank you."
+}
+
+Chunk:
+i have an old navy credit card that is under the barclay credit card so the problem is even if i pay my balance for example this month ( on time ) they will still charge me an interest for the next statement. thinking that i am fully paid i dont have to check my account right? but when i checked i saw that i got the interest charge plus a late payment fee of { $ 11. 00 }! is that right? also, last month my due date is on the xxxx so i paid that day and im using my checking account to pay the only balance of { $ 11. 00 }. so again i fully paid, but lo and behold i thought im fully paid again but no i saw this month that i have a balance of { $ 13. 00 } which is again interest and late payment fee. this is so wrong in all levels because they are tricking the consumer and making seem that everything is okay until you check. what if i dont check since i know i dont have any balance? is this a good credit practice to do? please look into this because i think i am not the only victim here. i reached out to them but they wont back down and lectured me on how to check my account as if i dont know how to check my account. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9926167130470276
+}

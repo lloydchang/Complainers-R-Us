@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8992784,
+  "complaint_id": "8992784",
+  "product": "Credit card",
+  "complaint_what_happened": "Destiny /FB Credit Card is on my account fraudulently the account has been opened since XX/XX/2023 Ive reported the issue several times to the credit bureau I need this item disputed off my ASAP Ive submitted a copy of my drivers license and ss card",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "38655",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Destiny /FB Credit Card is on my account fraudulently the account has been opened since XX/XX/2023 Ive reported the issue several times to the credit bureau I need this item disputed off my ASAP Ive submitted a copy of my drivers license and ss card"
+}
+
+Chunk:
+destiny / fb credit card is on my account fraudulently the account has been opened since xx / xx / 2023 ive reported the issue several times to the credit bureau i need this item disputed off my asap ive submitted a copy of my drivers license and ss card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990333318710327
+}

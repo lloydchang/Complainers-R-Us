@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212555,
+  "complaint_id": "9212555",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Wells Fargo Credit card with {$18000.00} credit limit. Besides being on auto pay, I made an additional payment of {$17000.00} on XXXX to free up available credit so I can continue to make purchases. \nWhen I made this additional payment, it cleared my bank account XXXX and was listed as a {$17000.00} payment on my WFCC  XXXX. It does NOT however give me more available credit. WF says they can take up to 20 days to post it to my credit even though it has cleared my bank and theirs.\n\nThere was nothing in the credit card application with this information. When the payment was made to the CC, I get a confirmation that says : When will this transaction take effect?\n\nTransactions submitted by midnight Pacific Time will be sent immediately and will take effect the same day. You can not cancel the transaction once you submit it.\n\nIf you make a payment on the last day of your statement cycle, well apply it to your account that day. Note : These payments may not appear on your monthly billing statement or your credit report until the following statement cycle.\n\nWhat happens if there isn't enough money in my account to cover this transaction?\n\nIf the From Account does not have enough money to cover this transaction, your payment will be reversed from your credit account and fees may apply. Please refer to your other bank 's policies on insufficient funds and overdraft protection.\n\nHow will this transaction be processed?\n\nIt may take up to four ( 4 ) days to fully process this payment between Wells Fargo and your other bank. This does not change the date your payment will take effect. \n\nPlease do not reply to this automated email. \n\nXXXX XXXX XXXX XXXX XXXX I have never heard of anything like this and feel it is illegal to treat my payment as such. \nPlease let me knwo if they have the right to do this based on my payment confirmation.",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "564XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have a Wells Fargo Credit card with {$18000.00} credit limit. Besides being on auto pay, I made an additional payment of {$17000.00} on XXXX to free up available credit so I can continue to make purchases. \nWhen I made this additional payment, it cleared my bank account XXXX and was listed as a {$17000.00} payment on my WFCC  XXXX. It does NOT however give me more available credit. WF says they can take up to 20 days to post it to my credit even though it has cleared my bank and theirs.\n\nThere was nothing in the credit card application with this information. When the payment was made to the CC, I get a confirmation that says : When will this transaction take effect?\n\nTransactions submitted by midnight Pacific Time will be sent immediately and will take effect the same day. You can not cancel the transaction once you submit it.\n\nIf you make a payment on the last day of your statement cycle, well apply it to your account that day. Note : These payments may not appear on your monthly billing statement or your credit report until the following statement cycle.\n\nWhat happens if there isn't enough money in my account to cover this transaction?\n\nIf the From Account does not have enough money to cover this transaction, your payment will be reversed from your credit account and fees may apply. Please refer to your other bank 's policies on insufficient funds and overdraft protection.\n\nHow will this transaction be processed?\n\nIt may take up to four ( 4 ) days to fully process this payment between Wells Fargo and your other bank. This does not change the date your payment will take effect. \n\nPlease do not reply to this automated email. \n\nXXXX XXXX XXXX XXXX XXXX I have never heard of anything like this and feel it is illegal to treat my payment as such. \nPlease let me knwo if they have the right to do this based on my payment confirmation."
+}
+
+Chunk:
+i have a wells fargo credit card with { $ 18000. 00 } credit limit. besides being on auto pay, i made an additional payment of { $ 17000. 00 } on xxxx to free up available credit so i can continue to make purchases. when i made this additional payment, it cleared my bank account xxxx and was listed as a { $ 17000. 00 } payment on my wfcc xxxx. it does not however give me more available credit. wf says they can take up to 20 days to post it to my credit even though it has cleared my bank and theirs. there was nothing in the credit card application with this information. when the payment was made to the cc, i get a confirmation that says : when will this transaction take effect? transactions submitted by midnight pacific time will be sent immediately and will take effect the same day. you can not cancel the transaction once you submit it. if you make a payment on the last day of your statement cycle, well apply it to your account that day. note : these payments may not appear on your monthly billing statement or your credit report until the following statement cycle. what happens if there isn't enough money in my account to cover this transaction? if the from account does not have enough money to cover this transaction, your payment will be reversed from your credit account and fees may apply. please refer to your other bank's policies on insufficient funds and overdraft protection. how will this transaction be processed? it may take up to four ( 4 ) days to fully process this payment between wells fargo and your other bank. this does not change the date your payment will take effect. please do not reply to this automated email. xxxx xxxx xxxx xxxx xxxx i have never heard of anything like this and feel it is illegal to treat my payment as such. please let me knwo if they have the right to do this based on my payment confirmation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989470839500427
+}

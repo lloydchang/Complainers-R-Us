@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9302678,
+  "complaint_id": "9302678",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I attempted to pay CitiBank {$700.00} toward my credit card. I made this payment from my checking account with XXXX XXXX XXXX XXXX. CitiBank claims that the payment was returned to my checking account due to insufficient funds, but this is incorrect : the money left my account. Attached is a letter from XXXX XXXX verifying that the money cleared my account and was not returned. I am also attaching a bank statement showing that the money left my account. The money left my account, but it did not get posted to my credit card. Therefore, I am missing {$700.00} through no fault of my own.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "In XX/XX/year>, I attempted to pay CitiBank {$700.00} toward my credit card. I made this payment from my checking account with XXXX XXXX XXXX XXXX. CitiBank claims that the payment was returned to my checking account due to insufficient funds, but this is incorrect : the money left my account. Attached is a letter from XXXX XXXX verifying that the money cleared my account and was not returned. I am also attaching a bank statement showing that the money left my account. The money left my account, but it did not get posted to my credit card. Therefore, I am missing {$700.00} through no fault of my own."
+}
+
+Chunk:
+in xx / xx / year >, i attempted to pay citibank { $ 700. 00 } toward my credit card. i made this payment from my checking account with xxxx xxxx xxxx xxxx. citibank claims that the payment was returned to my checking account due to insufficient funds, but this is incorrect : the money left my account. attached is a letter from xxxx xxxx verifying that the money cleared my account and was not returned. i am also attaching a bank statement showing that the money left my account. the money left my account, but it did not get posted to my credit card. therefore, i am missing { $ 700. 00 } through no fault of my own.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995417594909668
+}

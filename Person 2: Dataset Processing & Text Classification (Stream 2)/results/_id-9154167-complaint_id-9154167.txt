@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154167,
+  "complaint_id": "9154167",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Consumer Financial Protection Bureau, My name is XXXX XXXX and I would like to file an Official Complaint against OneMain Financial, for not allowing me to close an OneMain Brightway+ Credit Card Account which is open under my Name. \n\nAs of XXXX XXXX I logged into my XXXX Account in order to view my Credit Score and be up to date with my Current Accounts. \n\nI noticed a OneMain Brightway+ Card which was open under \" Active Accounts '', with my name that I am not aware of ever having opened. \n\nI believe this Card was opened without my consent/knowledge because I never applied for an OneMain Financial Brightway+ Credit Card, so it is indeed fraudulent/unacceptable they would do this. \n\nI called their Customer Service Line 2x, and got connected to a Representative and explained the whole situation, requesting them to close my account after verifying all of my Personal details they were asking me for. \n\nUpon verifying my information, they stated they can only \" temporarily close my account '' but not permanently, plus said they would send me an E-mail for Further Instructions on what to do next but I've never received an E-mail from them. \n\nI followed up with them once more, to see why they simply can't close this Credit Card Account when I verified all of my Personal Information, but they wouldn't give me a specific answer and said to continue waiting for an E-mail that never arrived. \n\nCan you please contact OneMain Financial and have them close this Brightway+ Credit Card Account for me please? \n\nThank you. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "96815",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "OneMain Finance Corporation",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "Dear Consumer Financial Protection Bureau, My name is XXXX XXXX and I would like to file an Official Complaint against OneMain Financial, for not allowing me to close an OneMain Brightway+ Credit Card Account which is open under my Name. \n\nAs of XXXX XXXX I logged into my XXXX Account in order to view my Credit Score and be up to date with my Current Accounts. \n\nI noticed a OneMain Brightway+ Card which was open under \" Active Accounts '', with my name that I am not aware of ever having opened. \n\nI believe this Card was opened without my consent/knowledge because I never applied for an OneMain Financial Brightway+ Credit Card, so it is indeed fraudulent/unacceptable they would do this. \n\nI called their Customer Service Line 2x, and got connected to a Representative and explained the whole situation, requesting them to close my account after verifying all of my Personal details they were asking me for. \n\nUpon verifying my information, they stated they can only \" temporarily close my account '' but not permanently, plus said they would send me an E-mail for Further Instructions on what to do next but I've never received an E-mail from them. \n\nI followed up with them once more, to see why they simply can't close this Credit Card Account when I verified all of my Personal Information, but they wouldn't give me a specific answer and said to continue waiting for an E-mail that never arrived. \n\nCan you please contact OneMain Financial and have them close this Brightway+ Credit Card Account for me please? \n\nThank you. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+dear consumer financial protection bureau, my name is xxxx xxxx and i would like to file an official complaint against onemain financial, for not allowing me to close an onemain brightway + credit card account which is open under my name. as of xxxx xxxx i logged into my xxxx account in order to view my credit score and be up to date with my current accounts. i noticed a onemain brightway + card which was open under " active accounts'', with my name that i am not aware of ever having opened. i believe this card was opened without my consent / knowledge because i never applied for an onemain financial brightway + credit card, so it is indeed fraudulent / unacceptable they would do this. i called their customer service line 2x, and got connected to a representative and explained the whole situation, requesting them to close my account after verifying all of my personal details they were asking me for. upon verifying my information, they stated they can only " temporarily close my account'' but not permanently, plus said they would send me an e - mail for further instructions on what to do next but i've never received an e - mail from them. i followed up with them once more, to see why they simply can't close this credit card account when i verified all of my personal information, but they wouldn't give me a specific answer and said to continue waiting for an e - mail that never arrived. can you please contact onemain financial and have them close this brightway + credit card account for me please? thank you. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973729848861694
+}

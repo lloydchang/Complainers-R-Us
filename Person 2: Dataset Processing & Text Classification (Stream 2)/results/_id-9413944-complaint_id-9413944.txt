@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9413944,
+  "complaint_id": "9413944",
+  "product": "Credit card",
+  "complaint_what_happened": "Five fraudulent charges were made on XX/XX/XXXX to XXXX XXXX XXXX in XXXX on my XXXX. I immediately reported this to the fraud department at Truist Bank and told them that none of these were mine. They have reversed three of the charges, but two are still outstanding and, despite four phone calls with the bank fraud department, this has not been resolved.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "313XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Five fraudulent charges were made on XX/XX/XXXX to XXXX XXXX XXXX in XXXX on my XXXX. I immediately reported this to the fraud department at Truist Bank and told them that none of these were mine. They have reversed three of the charges, but two are still outstanding and, despite four phone calls with the bank fraud department, this has not been resolved."
+}
+
+Chunk:
+five fraudulent charges were made on xx / xx / xxxx to xxxx xxxx xxxx in xxxx on my xxxx. i immediately reported this to the fraud department at truist bank and told them that none of these were mine. they have reversed three of the charges, but two are still outstanding and, despite four phone calls with the bank fraud department, this has not been resolved.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994922876358032
+}

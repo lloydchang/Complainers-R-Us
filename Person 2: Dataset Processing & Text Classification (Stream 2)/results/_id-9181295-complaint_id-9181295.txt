@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9181295,
+  "complaint_id": "9181295",
+  "product": "Credit card",
+  "complaint_what_happened": "I had an email get sent to me from capital 1 stating that I opened up a new card, which I didnt. Found it was tied to my social security somehow so Im trying to figure out whats going on.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77008",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I had an email get sent to me from capital 1 stating that I opened up a new card, which I didnt. Found it was tied to my social security somehow so Im trying to figure out whats going on."
+}
+
+Chunk:
+i had an email get sent to me from capital 1 stating that i opened up a new card, which i didnt. found it was tied to my social security somehow so im trying to figure out whats going on.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986299276351929
+}

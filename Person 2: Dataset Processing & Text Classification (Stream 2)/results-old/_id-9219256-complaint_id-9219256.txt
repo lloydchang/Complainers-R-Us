@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9219256,
+  "complaint_id": "9219256",
+  "product": "Credit card",
+  "complaint_what_happened": "yes I do no my information",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07305",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "yes I do no my information"
+}
+
+Chunk:
+yes i do no my information
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9957484602928162
+}

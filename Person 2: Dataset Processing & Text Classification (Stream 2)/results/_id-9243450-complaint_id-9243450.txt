@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9243450,
+  "complaint_id": "9243450",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been receiving emails from Synchrony Bank for my JC Penney card that they will be charging a fee of {$1.00} for each paper statement being sent to me. I do not want to stop my JC Penneys statements from being sent to me. I do not want to go paperless. \nIs charging these extra fees legal? \nThanks. XXXX XXXX",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "78045",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have been receiving emails from Synchrony Bank for my JC Penney card that they will be charging a fee of {$1.00} for each paper statement being sent to me. I do not want to stop my JC Penneys statements from being sent to me. I do not want to go paperless. \nIs charging these extra fees legal? \nThanks. XXXX XXXX"
+}
+
+Chunk:
+i have been receiving emails from synchrony bank for my jc penney card that they will be charging a fee of { $ 1. 00 } for each paper statement being sent to me. i do not want to stop my jc penneys statements from being sent to me. i do not want to go paperless. is charging these extra fees legal? thanks. xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.8713698387145996
+}

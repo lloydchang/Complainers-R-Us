@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9054180,
+  "complaint_id": "9054180",
+  "product": "Credit card",
+  "complaint_what_happened": "someone stole my identity and and tried to use my name and now i see all those hard inquire on my credit i alreadh have a report",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "208XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "someone stole my identity and and tried to use my name and now i see all those hard inquire on my credit i alreadh have a report"
+}
+
+Chunk:
+someone stole my identity and and tried to use my name and now i see all those hard inquire on my credit i alreadh have a report
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986926913261414
+}

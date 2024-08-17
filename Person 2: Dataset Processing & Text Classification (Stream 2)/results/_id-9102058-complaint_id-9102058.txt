@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9102058,
+  "complaint_id": "9102058",
+  "product": "Credit card",
+  "complaint_what_happened": "Sorry don't have exact date, but on / around XX/XX/year>, tried buying XXXX tickets on XXXX XXXX from XXXX to XXXX, when I got this offer within XXXX XXXXXXXX XXXX web site to save {$300.00} on the ticket purchase if I opened an XXXX XXXX XXXX Chase credit card. Wanting to take advantage of this offer, I clicked the link ( see my 2 screen shots files ). the link worked, it took me to a Chase site, where i entered my yearly salary, and with a minute I was \" Approved '' for the card. From that point, the link back to \" Complete Purchase '' failed. I tried 3X more. still failed. I never purchased the ticket, hoping to reach either XXXX  or the Chase folks so they can manually support this offer. Multiple calls over the next 2 weeks to Case failed to grant me the XXXX dollar credit, yet the credit car arrived promptly in the mail 10 days later, revealing an annual fee of XXXX XXXX \n\nI wrote XXXX complaining of this issue, since it was their site that prompted this misleading credit card promotion but they said it was in the hands of Chase. I finally reached Chase a week ago, had them reverse the annual fee and I then cancelled the card bec of misleading promotions. they offered no apology, no amends to provide me with a future discount should I purchase air line ticket in the future. \n\nThe XXXX Chase card I was promoted to open is : XXXX XXXX XXXX Mailed to XXXX XXXX XXXX XXXX XXXX XXXX AZ XXXX",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Sorry don't have exact date, but on / around XX/XX/year>, tried buying XXXX tickets on XXXX XXXX from XXXX to XXXX, when I got this offer within XXXX XXXXXXXX XXXX web site to save {$300.00} on the ticket purchase if I opened an XXXX XXXX XXXX Chase credit card. Wanting to take advantage of this offer, I clicked the link ( see my 2 screen shots files ). the link worked, it took me to a Chase site, where i entered my yearly salary, and with a minute I was \" Approved '' for the card. From that point, the link back to \" Complete Purchase '' failed. I tried 3X more. still failed. I never purchased the ticket, hoping to reach either XXXX  or the Chase folks so they can manually support this offer. Multiple calls over the next 2 weeks to Case failed to grant me the XXXX dollar credit, yet the credit car arrived promptly in the mail 10 days later, revealing an annual fee of XXXX XXXX \n\nI wrote XXXX complaining of this issue, since it was their site that prompted this misleading credit card promotion but they said it was in the hands of Chase. I finally reached Chase a week ago, had them reverse the annual fee and I then cancelled the card bec of misleading promotions. they offered no apology, no amends to provide me with a future discount should I purchase air line ticket in the future. \n\nThe XXXX Chase card I was promoted to open is : XXXX XXXX XXXX Mailed to XXXX XXXX XXXX XXXX XXXX XXXX AZ XXXX"
+}
+
+Chunk:
+sorry don't have exact date, but on / around xx / xx / year >, tried buying xxxx tickets on xxxx xxxx from xxxx to xxxx, when i got this offer within xxxx xxxxxxxx xxxx web site to save { $ 300. 00 } on the ticket purchase if i opened an xxxx xxxx xxxx chase credit card. wanting to take advantage of this offer, i clicked the link ( see my 2 screen shots files ). the link worked, it took me to a chase site, where i entered my yearly salary, and with a minute i was " approved'' for the card. from that point, the link back to " complete purchase'' failed. i tried 3x more. still failed. i never purchased the ticket, hoping to reach either xxxx or the chase folks so they can manually support this offer. multiple calls over the next 2 weeks to case failed to grant me the xxxx dollar credit, yet the credit car arrived promptly in the mail 10 days later, revealing an annual fee of xxxx xxxx i wrote xxxx complaining of this issue, since it was their site that prompted this misleading credit card promotion but they said it was in the hands of chase. i finally reached chase a week ago, had them reverse the annual fee and i then cancelled the card bec of misleading promotions. they offered no apology, no amends to provide me with a future discount should i purchase air line ticket in the future. the xxxx chase card i was promoted to open is : xxxx xxxx xxxx mailed to xxxx xxxx xxxx xxxx xxxx xxxx az xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995725750923157
+}

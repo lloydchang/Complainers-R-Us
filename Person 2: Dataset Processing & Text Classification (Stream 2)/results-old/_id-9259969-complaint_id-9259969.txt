@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9259969,
+  "complaint_id": "9259969",
+  "product": "Credit card",
+  "complaint_what_happened": "This is the third attempt to close my Paypal account. The last attempt included a mistake purchase being made on the account which I assummed was closed. If the account had been closed then this purchase would not have happened. After I made the payment to correct this mistake, I again asked that the account be closed because leaving this account open when I dont want it puts me at risk for fraud. I dont monitor it nor is it included in my anti fraud software. However it remains open after I called and sent postal letter and I keep getting emails with account balance statements.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77493",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "This is the third attempt to close my Paypal account. The last attempt included a mistake purchase being made on the account which I assummed was closed. If the account had been closed then this purchase would not have happened. After I made the payment to correct this mistake, I again asked that the account be closed because leaving this account open when I dont want it puts me at risk for fraud. I dont monitor it nor is it included in my anti fraud software. However it remains open after I called and sent postal letter and I keep getting emails with account balance statements."
+}
+
+Chunk:
+this is the third attempt to close my paypal account. the last attempt included a mistake purchase being made on the account which i assummed was closed. if the account had been closed then this purchase would not have happened. after i made the payment to correct this mistake, i again asked that the account be closed because leaving this account open when i dont want it puts me at risk for fraud. i dont monitor it nor is it included in my anti fraud software. however it remains open after i called and sent postal letter and i keep getting emails with account balance statements.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994106292724609
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9476028,
+  "complaint_id": "9476028",
+  "product": "Credit card",
+  "complaint_what_happened": "I have XXXX credit cards on my account with Citibank, at this time Im little short with the money because Im not working so Im paying the minimum balance for couple months, before onXXXX week Citibank closed my first credit card account so I tried to call Citibank but I was not lucky having a representative so the only option was automatic mail voice that i make the minimum payment after I made the payment of my account the account is still closed and today XX/XX/year> my second credit card account closed without let me know or warning me before providing to this action, I call the credit card number I spoke with a representative and he told me that he dont know why the account is closed and he told me that my account closed today and they want sending me a mail later to explain in 5-10days I asked him to told with his supervisor to help me more and if he can give me some more information but no luck and the supervisor told me the same think that they wan na send me a mail later after 5-10 days, I have my credit card connected with bills and other stuffs and they leaving me with no credit cards for days and no reason yet and no warning days because they provided to this action letting me on the dark side exposed to obligations in respect of my personality",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "11105",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have XXXX credit cards on my account with Citibank, at this time Im little short with the money because Im not working so Im paying the minimum balance for couple months, before onXXXX week Citibank closed my first credit card account so I tried to call Citibank but I was not lucky having a representative so the only option was automatic mail voice that i make the minimum payment after I made the payment of my account the account is still closed and today XX/XX/year> my second credit card account closed without let me know or warning me before providing to this action, I call the credit card number I spoke with a representative and he told me that he dont know why the account is closed and he told me that my account closed today and they want sending me a mail later to explain in 5-10days I asked him to told with his supervisor to help me more and if he can give me some more information but no luck and the supervisor told me the same think that they wan na send me a mail later after 5-10 days, I have my credit card connected with bills and other stuffs and they leaving me with no credit cards for days and no reason yet and no warning days because they provided to this action letting me on the dark side exposed to obligations in respect of my personality"
+}
+
+Chunk:
+i have xxxx credit cards on my account with citibank, at this time im little short with the money because im not working so im paying the minimum balance for couple months, before onxxxx week citibank closed my first credit card account so i tried to call citibank but i was not lucky having a representative so the only option was automatic mail voice that i make the minimum payment after i made the payment of my account the account is still closed and today xx / xx / year > my second credit card account closed without let me know or warning me before providing to this action, i call the credit card number i spoke with a representative and he told me that he dont know why the account is closed and he told me that my account closed today and they want sending me a mail later to explain in 5 - 10days i asked him to told with his supervisor to help me more and if he can give me some more information but no luck and the supervisor told me the same think that they wan na send me a mail later after 5 - 10 days, i have my credit card connected with bills and other stuffs and they leaving me with no credit cards for days and no reason yet and no warning days because they provided to this action letting me on the dark side exposed to obligations in respect of my personality
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999099612236023
+}

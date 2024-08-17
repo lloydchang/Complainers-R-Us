@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049920,
+  "complaint_id": "9049920",
+  "product": "Credit card",
+  "complaint_what_happened": "Account name XXXX XXXX Payments are set to occur electronically a few days ahead of the due date ( XXXX ) Despite being scheduled, I was hit with a charge ( presumably ) for late payment. \nI told them to correct it or I'd be closing the account. The current statement reflects that they didn't make the correction. \nWhile the amount they're charging isn't a backbreaker, the idea of them doing this to a large number of people is worrisome, and is indicative of criminal behavior/ They were told that I'd be closing the account and reporting them. Now I have.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Account name XXXX XXXX Payments are set to occur electronically a few days ahead of the due date ( XXXX ) Despite being scheduled, I was hit with a charge ( presumably ) for late payment. \nI told them to correct it or I'd be closing the account. The current statement reflects that they didn't make the correction. \nWhile the amount they're charging isn't a backbreaker, the idea of them doing this to a large number of people is worrisome, and is indicative of criminal behavior/ They were told that I'd be closing the account and reporting them. Now I have."
+}
+
+Chunk:
+account name xxxx xxxx payments are set to occur electronically a few days ahead of the due date ( xxxx ) despite being scheduled, i was hit with a charge ( presumably ) for late payment. i told them to correct it or i'd be closing the account. the current statement reflects that they didn't make the correction. while the amount they're charging isn't a backbreaker, the idea of them doing this to a large number of people is worrisome, and is indicative of criminal behavior / they were told that i'd be closing the account and reporting them. now i have.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992121458053589
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9039726,
+  "complaint_id": "9039726",
+  "product": "Credit card",
+  "complaint_what_happened": "CareCredit has determined that, unless I opt in to electronic statements, I will be charged {$1.00} every month for paper statements. This is a JUNK FEE and simply unacceptable. To ensure that I am forced into accepting electronic statements, they will not make electronic statements available to anyone who prefers paper statements. In other words, because I choose paper statements, I can not see my statements online. This is fine and should be enough. Now, to ensure that I am forced to accept only electronic statements, they have decided to rip me off. This is particularly problematic because CareCredit offers 0 % financing for XXXX months on purchases over {$200.00} - a feature I use regularly. I can avoid interest charges because I get my paper statement and can easily see when any balance needs to be paid off. This gambit of theirs will surely cause more of their customers to miss the deadline for payments without interest as statement notices get buried among the hundreds of emails their customers get every day- which means they will benefit not only from the fee but from all the deferred interest they will now be sure to gather. CareCredit should not be permitted to manipulate and gouge their customers in this way. I'm sure these fees will also hit the underprivileged and elderly hardest.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10028",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "CareCredit has determined that, unless I opt in to electronic statements, I will be charged {$1.00} every month for paper statements. This is a JUNK FEE and simply unacceptable. To ensure that I am forced into accepting electronic statements, they will not make electronic statements available to anyone who prefers paper statements. In other words, because I choose paper statements, I can not see my statements online. This is fine and should be enough. Now, to ensure that I am forced to accept only electronic statements, they have decided to rip me off. This is particularly problematic because CareCredit offers 0 % financing for XXXX months on purchases over {$200.00} - a feature I use regularly. I can avoid interest charges because I get my paper statement and can easily see when any balance needs to be paid off. This gambit of theirs will surely cause more of their customers to miss the deadline for payments without interest as statement notices get buried among the hundreds of emails their customers get every day- which means they will benefit not only from the fee but from all the deferred interest they will now be sure to gather. CareCredit should not be permitted to manipulate and gouge their customers in this way. I'm sure these fees will also hit the underprivileged and elderly hardest."
+}
+
+Chunk:
+carecredit has determined that, unless i opt in to electronic statements, i will be charged { $ 1. 00 } every month for paper statements. this is a junk fee and simply unacceptable. to ensure that i am forced into accepting electronic statements, they will not make electronic statements available to anyone who prefers paper statements. in other words, because i choose paper statements, i can not see my statements online. this is fine and should be enough. now, to ensure that i am forced to accept only electronic statements, they have decided to rip me off. this is particularly problematic because carecredit offers 0 % financing for xxxx months on purchases over { $ 200. 00 } - a feature i use regularly. i can avoid interest charges because i get my paper statement and can easily see when any balance needs to be paid off. this gambit of theirs will surely cause more of their customers to miss the deadline for payments without interest as statement notices get buried among the hundreds of emails their customers get every day - which means they will benefit not only from the fee but from all the deferred interest they will now be sure to gather. carecredit should not be permitted to manipulate and gouge their customers in this way. i'm sure these fees will also hit the underprivileged and elderly hardest.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9953913688659668
+}

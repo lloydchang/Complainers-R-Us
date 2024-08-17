@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9001818,
+  "complaint_id": "9001818",
+  "product": "Credit card",
+  "complaint_what_happened": "I experienced extenuating circumstances which caused my account to incur late payments due to a closed bank account link to the account. I attempted to remedy the situation and the company closed the account. I reached out to the company to request my account be opened and the request was denied.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92335",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I experienced extenuating circumstances which caused my account to incur late payments due to a closed bank account link to the account. I attempted to remedy the situation and the company closed the account. I reached out to the company to request my account be opened and the request was denied."
+}
+
+Chunk:
+i experienced extenuating circumstances which caused my account to incur late payments due to a closed bank account link to the account. i attempted to remedy the situation and the company closed the account. i reached out to the company to request my account be opened and the request was denied.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995228052139282
+}

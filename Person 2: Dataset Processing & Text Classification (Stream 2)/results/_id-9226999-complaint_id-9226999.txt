@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9226999,
+  "complaint_id": "9226999",
+  "product": "Credit card",
+  "complaint_what_happened": "on XX/XX/year> my card was stolen and there was a transaction made in a foreign country for {$3700.00}. I was XXXX XXXX XXXX and did not report the transaction as I was made aware that it was a person living in the house. I tried to find this person and resolve the issue before reporting fraud, and when that didnt happen, I reported the transaction as fraud. Wells Fargo continues to deny the claim, and is not honoring their fraud protection services. Their claims department doesnt provide any substantial evidence for denial, and continues to be rude over the phone when I call. This issue needs to be resolved or i will be filing with the attorney general.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95822",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "on XX/XX/year> my card was stolen and there was a transaction made in a foreign country for {$3700.00}. I was XXXX XXXX XXXX and did not report the transaction as I was made aware that it was a person living in the house. I tried to find this person and resolve the issue before reporting fraud, and when that didnt happen, I reported the transaction as fraud. Wells Fargo continues to deny the claim, and is not honoring their fraud protection services. Their claims department doesnt provide any substantial evidence for denial, and continues to be rude over the phone when I call. This issue needs to be resolved or i will be filing with the attorney general."
+}
+
+Chunk:
+on xx / xx / year > my card was stolen and there was a transaction made in a foreign country for { $ 3700. 00 }. i was xxxx xxxx xxxx and did not report the transaction as i was made aware that it was a person living in the house. i tried to find this person and resolve the issue before reporting fraud, and when that didnt happen, i reported the transaction as fraud. wells fargo continues to deny the claim, and is not honoring their fraud protection services. their claims department doesnt provide any substantial evidence for denial, and continues to be rude over the phone when i call. this issue needs to be resolved or i will be filing with the attorney general.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99958735704422
+}

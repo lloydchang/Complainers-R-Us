@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9087513,
+  "complaint_id": "9087513",
+  "product": "Credit card",
+  "complaint_what_happened": "1.Paypal by cfpb is credit card alike company to protect customer 's right. \n2.I purchased laptop from XXXX received and found XXXX XXXX XXXX, XXXX XXXX XXXXXXXX dispute to Paypal and attached seller 's agreement to partial refund USDXXXX email. \n3.Seller play trick asked me to cancel paypal dispute and refused to refund after that. \n3.Paypal ignored and said dispute didn't sustained and ignore my right completely.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98607",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "1.Paypal by cfpb is credit card alike company to protect customer 's right. \n2.I purchased laptop from XXXX received and found XXXX XXXX XXXX, XXXX XXXX XXXXXXXX dispute to Paypal and attached seller 's agreement to partial refund USDXXXX email. \n3.Seller play trick asked me to cancel paypal dispute and refused to refund after that. \n3.Paypal ignored and said dispute didn't sustained and ignore my right completely."
+}
+
+Chunk:
+1. paypal by cfpb is credit card alike company to protect customer's right. 2. i purchased laptop from xxxx received and found xxxx xxxx xxxx, xxxx xxxx xxxxxxxx dispute to paypal and attached seller's agreement to partial refund usdxxxx email. 3. seller play trick asked me to cancel paypal dispute and refused to refund after that. 3. paypal ignored and said dispute didn't sustained and ignore my right completely.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998540997505188
+}

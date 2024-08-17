@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144093,
+  "complaint_id": "9144093",
+  "product": "Credit card",
+  "complaint_what_happened": "I do not have a XXXX XXXX account. I paid my first credit card statement via a global money transfer. My second payment I attempted to do the same thing. I sent that XX/XX/XXXX and informed AMEX of the send. They said it would take 5-7 business days to show. On XX/XX/XXXX payment had not been applied and I had to recall it. I then contacted AMEX and was told as of XX/XX/XXXX they no longer accepted global wire transfers as payment. I was told to reach out to a friend or family member with a XXXX XXXX account and have them pay. This felt odd but I wanted to pay the bill. My daughter has a XXXX XXXX account but her bank wouldnt add AMEX as a payee because her name is not on the account. I contacted AMEX again and they told me to link her bank account with my AMEX account. I was deeply uncomfortable with this but was told they could do it so I could make a payment. I only paid the minimum amount because this just felt wrong. I even asked AMEX if this was really the only way and legal. AMEX manually entered my daughters banking information to my account and accepted payment. \nI have more money owing but am very concerned as to how to pay this. This situation has red flags all over it. I got back on with AMEX chat to figure out how I am going to pay the balance since I can no longer make a payment via my account. They said my daughter can pay but then she has to provide all her banking info again and she doesnt even have an account and is not on my account. I am just trying to pay this bill. Please help.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": null,
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I do not have a XXXX XXXX account. I paid my first credit card statement via a global money transfer. My second payment I attempted to do the same thing. I sent that XX/XX/XXXX and informed AMEX of the send. They said it would take 5-7 business days to show. On XX/XX/XXXX payment had not been applied and I had to recall it. I then contacted AMEX and was told as of XX/XX/XXXX they no longer accepted global wire transfers as payment. I was told to reach out to a friend or family member with a XXXX XXXX account and have them pay. This felt odd but I wanted to pay the bill. My daughter has a XXXX XXXX account but her bank wouldnt add AMEX as a payee because her name is not on the account. I contacted AMEX again and they told me to link her bank account with my AMEX account. I was deeply uncomfortable with this but was told they could do it so I could make a payment. I only paid the minimum amount because this just felt wrong. I even asked AMEX if this was really the only way and legal. AMEX manually entered my daughters banking information to my account and accepted payment. \nI have more money owing but am very concerned as to how to pay this. This situation has red flags all over it. I got back on with AMEX chat to figure out how I am going to pay the balance since I can no longer make a payment via my account. They said my daughter can pay but then she has to provide all her banking info again and she doesnt even have an account and is not on my account. I am just trying to pay this bill. Please help."
+}
+
+Chunk:
+i do not have a xxxx xxxx account. i paid my first credit card statement via a global money transfer. my second payment i attempted to do the same thing. i sent that xx / xx / xxxx and informed amex of the send. they said it would take 5 - 7 business days to show. on xx / xx / xxxx payment had not been applied and i had to recall it. i then contacted amex and was told as of xx / xx / xxxx they no longer accepted global wire transfers as payment. i was told to reach out to a friend or family member with a xxxx xxxx account and have them pay. this felt odd but i wanted to pay the bill. my daughter has a xxxx xxxx account but her bank wouldnt add amex as a payee because her name is not on the account. i contacted amex again and they told me to link her bank account with my amex account. i was deeply uncomfortable with this but was told they could do it so i could make a payment. i only paid the minimum amount because this just felt wrong. i even asked amex if this was really the only way and legal. amex manually entered my daughters banking information to my account and accepted payment. i have more money owing but am very concerned as to how to pay this. this situation has red flags all over it. i got back on with amex chat to figure out how i am going to pay the balance since i can no longer make a payment via my account. they said my daughter can pay but then she has to provide all her banking info again and she doesnt even have an account and is not on my account. i am just trying to pay this bill. please help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993243217468262
+}

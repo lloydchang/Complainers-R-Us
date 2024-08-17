@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038947,
+  "complaint_id": "9038947",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit was stolen and used in a different state last year. I had a Wells Fargo credit card and been with them over 10 years. Never missed a payment. Always in good standing state. Then my card got stolen and some one from different state used it and purchased over XXXX $ worth of items. I did what everyone else would which calling the bank immediately but they messed up my report and filed it as dispute then months later they denied it and told me I should of filed it as fraud even tho I have told them it was fraud. This been going back and forth for a year now. Wells decided to close down my account and report it to collection agency. I simply cant do this with Wells Fargo anymore, this is not a good way treating a customer who been with them for ages without having a single issue. I need help fixing this",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77469",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My credit was stolen and used in a different state last year. I had a Wells Fargo credit card and been with them over 10 years. Never missed a payment. Always in good standing state. Then my card got stolen and some one from different state used it and purchased over XXXX $ worth of items. I did what everyone else would which calling the bank immediately but they messed up my report and filed it as dispute then months later they denied it and told me I should of filed it as fraud even tho I have told them it was fraud. This been going back and forth for a year now. Wells decided to close down my account and report it to collection agency. I simply cant do this with Wells Fargo anymore, this is not a good way treating a customer who been with them for ages without having a single issue. I need help fixing this"
+}
+
+Chunk:
+my credit was stolen and used in a different state last year. i had a wells fargo credit card and been with them over 10 years. never missed a payment. always in good standing state. then my card got stolen and some one from different state used it and purchased over xxxx $ worth of items. i did what everyone else would which calling the bank immediately but they messed up my report and filed it as dispute then months later they denied it and told me i should of filed it as fraud even tho i have told them it was fraud. this been going back and forth for a year now. wells decided to close down my account and report it to collection agency. i simply cant do this with wells fargo anymore, this is not a good way treating a customer who been with them for ages without having a single issue. i need help fixing this
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988231062889099
+}

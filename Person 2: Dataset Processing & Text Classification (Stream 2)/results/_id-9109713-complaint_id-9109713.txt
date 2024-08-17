@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9109713,
+  "complaint_id": "9109713",
+  "product": "Credit card",
+  "complaint_what_happened": "Fraudulent transactions occurred on my extended credit card for 7 charges from the one hotel booking website ( XXXX ) on XX/XX/year>. A fraud alert was raised and the credit card was cancelled, 6 of the 7 transactions were removed from my account except for one. I called 4x at different dates to resolve the last transaction that I was charged fraudulently, but after talking to the supervisor on the 4th call ( lasting at least 20-30 min per call ), all the previous calls done prior were actually not in the system. Every phone call I made, I always asked for confirmation and/or emails for proof that I called to resolve my dispute, but I never received confirmation code for the calls nor email. The {$210.00} + charge remains on my account and I was told that it would remain that way until 2 billing cycles from the 3rd time I called. Hence the 1st 2 phone calls were useless.\n\nWhy would a customer take the burden for paying a fraudulent charge when I have made several attempts to address it? Why would I be responsible to pay it while the investigation is ongoing?\n\nWhy I never received confirmation such as email or text about telephone encounters done many times to resolve the issue?? The level of difficulty resolving problems with this credit card is incomparable to any credit card company experience I had and I always pay full every month without miss. It is very frustrating.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "953XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Fraudulent transactions occurred on my extended credit card for 7 charges from the one hotel booking website ( XXXX ) on XX/XX/year>. A fraud alert was raised and the credit card was cancelled, 6 of the 7 transactions were removed from my account except for one. I called 4x at different dates to resolve the last transaction that I was charged fraudulently, but after talking to the supervisor on the 4th call ( lasting at least 20-30 min per call ), all the previous calls done prior were actually not in the system. Every phone call I made, I always asked for confirmation and/or emails for proof that I called to resolve my dispute, but I never received confirmation code for the calls nor email. The {$210.00} + charge remains on my account and I was told that it would remain that way until 2 billing cycles from the 3rd time I called. Hence the 1st 2 phone calls were useless.\n\nWhy would a customer take the burden for paying a fraudulent charge when I have made several attempts to address it? Why would I be responsible to pay it while the investigation is ongoing?\n\nWhy I never received confirmation such as email or text about telephone encounters done many times to resolve the issue?? The level of difficulty resolving problems with this credit card is incomparable to any credit card company experience I had and I always pay full every month without miss. It is very frustrating."
+}
+
+Chunk:
+fraudulent transactions occurred on my extended credit card for 7 charges from the one hotel booking website ( xxxx ) on xx / xx / year >. a fraud alert was raised and the credit card was cancelled, 6 of the 7 transactions were removed from my account except for one. i called 4x at different dates to resolve the last transaction that i was charged fraudulently, but after talking to the supervisor on the 4th call ( lasting at least 20 - 30 min per call ), all the previous calls done prior were actually not in the system. every phone call i made, i always asked for confirmation and / or emails for proof that i called to resolve my dispute, but i never received confirmation code for the calls nor email. the { $ 210. 00 } + charge remains on my account and i was told that it would remain that way until 2 billing cycles from the 3rd time i called. hence the 1st 2 phone calls were useless. why would a customer take the burden for paying a fraudulent charge when i have made several attempts to address it? why would i be responsible to pay it while the investigation is ongoing? why i never received confirmation such as email or text about telephone encounters done many times to resolve the issue?? the level of difficulty resolving problems with this credit card is incomparable to any credit card company experience i had and i always pay full every month without miss. it is very frustrating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995361566543579
+}

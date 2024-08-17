@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9222015,
+  "complaint_id": "9222015",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a {$200.00} payment to my XXXX account on XX/XX/year> online ( XXXX XXXX XXXX ) via an XXXX from my bank account, which in fact cleared and posted to my account. On XX/XX/year> I logged in to make a purchase and noticed my recent payment was not reflected in my available balance. I immediately called the number on the back of the card at XXXX XXXX. I was told because i am a new member it can take 21 days, but she said she didn't see an end date. I was also told if i want payments to reflect sooner to go into a store and make it in person with cash or debit. I've made payments in the same manner and this has not been an issue. I also have never heard of this type of policy in my many years of being XXXX at a financial institution for over 17 years as well as having many different department store cards. \n\nIf this is how you treat new members I am afraid of how tenured members are treated.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "45211",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I made a {$200.00} payment to my XXXX account on XX/XX/year> online ( XXXX XXXX XXXX ) via an XXXX from my bank account, which in fact cleared and posted to my account. On XX/XX/year> I logged in to make a purchase and noticed my recent payment was not reflected in my available balance. I immediately called the number on the back of the card at XXXX XXXX. I was told because i am a new member it can take 21 days, but she said she didn't see an end date. I was also told if i want payments to reflect sooner to go into a store and make it in person with cash or debit. I've made payments in the same manner and this has not been an issue. I also have never heard of this type of policy in my many years of being XXXX at a financial institution for over 17 years as well as having many different department store cards. \n\nIf this is how you treat new members I am afraid of how tenured members are treated."
+}
+
+Chunk:
+i made a { $ 200. 00 } payment to my xxxx account on xx / xx / year > online ( xxxx xxxx xxxx ) via an xxxx from my bank account, which in fact cleared and posted to my account. on xx / xx / year > i logged in to make a purchase and noticed my recent payment was not reflected in my available balance. i immediately called the number on the back of the card at xxxx xxxx. i was told because i am a new member it can take 21 days, but she said she didn't see an end date. i was also told if i want payments to reflect sooner to go into a store and make it in person with cash or debit. i've made payments in the same manner and this has not been an issue. i also have never heard of this type of policy in my many years of being xxxx at a financial institution for over 17 years as well as having many different department store cards. if this is how you treat new members i am afraid of how tenured members are treated.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989054203033447
+}

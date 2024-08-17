@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9378658,
+  "complaint_id": "9378658",
+  "product": "Credit card",
+  "complaint_what_happened": "My Best Buy account was compromised on XX/XX/XXXX, XXXX received an email stating that changes were made to my account and a purchase was made the and shipped XXXX XXXX XXXX XXXX XXXX Tx XXXX I have documentation from Best Buy proving this as a result several investigations from Best Buys the order and delivery tracking information was provided to me from the Best Buy, I will include them with this complaint. I did not have access because to my account, all login information and address were changed. I immediately closed the account. After two-years of letters and phone conversation Citibank and Best Buy refuse to resolve this issue. My XXXX XXXX went from excellent to fair, I refuse to pay for something that I never received, and Citibank and Best Buy have sent me proof of fraudulent activity with this issue, all will be included with this complaint. I would like this removed from my credit report immediately and {$220.00} refunded I paid. XXXX purchases were made and delivered the same address XXXX XX/XX/XXXX and XX/XX/year>, Best Buy removed XXXX and the other remained. I will include my driver license and address where I lived for the last XXXX  years.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30013",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My Best Buy account was compromised on XX/XX/XXXX, XXXX received an email stating that changes were made to my account and a purchase was made the and shipped XXXX XXXX XXXX XXXX XXXX Tx XXXX I have documentation from Best Buy proving this as a result several investigations from Best Buys the order and delivery tracking information was provided to me from the Best Buy, I will include them with this complaint. I did not have access because to my account, all login information and address were changed. I immediately closed the account. After two-years of letters and phone conversation Citibank and Best Buy refuse to resolve this issue. My XXXX XXXX went from excellent to fair, I refuse to pay for something that I never received, and Citibank and Best Buy have sent me proof of fraudulent activity with this issue, all will be included with this complaint. I would like this removed from my credit report immediately and {$220.00} refunded I paid. XXXX purchases were made and delivered the same address XXXX XX/XX/XXXX and XX/XX/year>, Best Buy removed XXXX and the other remained. I will include my driver license and address where I lived for the last XXXX  years."
+}
+
+Chunk:
+my best buy account was compromised on xx / xx / xxxx, xxxx received an email stating that changes were made to my account and a purchase was made the and shipped xxxx xxxx xxxx xxxx xxxx tx xxxx i have documentation from best buy proving this as a result several investigations from best buys the order and delivery tracking information was provided to me from the best buy, i will include them with this complaint. i did not have access because to my account, all login information and address were changed. i immediately closed the account. after two - years of letters and phone conversation citibank and best buy refuse to resolve this issue. my xxxx xxxx went from excellent to fair, i refuse to pay for something that i never received, and citibank and best buy have sent me proof of fraudulent activity with this issue, all will be included with this complaint. i would like this removed from my credit report immediately and { $ 220. 00 } refunded i paid. xxxx purchases were made and delivered the same address xxxx xx / xx / xxxx and xx / xx / year >, best buy removed xxxx and the other remained. i will include my driver license and address where i lived for the last xxxx years.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987623691558838
+}

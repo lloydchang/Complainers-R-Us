@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9132011,
+  "complaint_id": "9132011",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX. I have recording of call. After verifying pii numerous times, and reporting potential fraud of XXXX XXXX Representative failed to close card and send new card. Rep claims failure to provide PII in public is not indicative of fraudulent activity. Interestingly, Wells Fargo is no for charging consumer false fees for situations akin to fraudulent activity.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "XXXX. I have recording of call. After verifying pii numerous times, and reporting potential fraud of XXXX XXXX Representative failed to close card and send new card. Rep claims failure to provide PII in public is not indicative of fraudulent activity. Interestingly, Wells Fargo is no for charging consumer false fees for situations akin to fraudulent activity."
+}
+
+Chunk:
+xxxx. i have recording of call. after verifying pii numerous times, and reporting potential fraud of xxxx xxxx representative failed to close card and send new card. rep claims failure to provide pii in public is not indicative of fraudulent activity. interestingly, wells fargo is no for charging consumer false fees for situations akin to fraudulent activity.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9941537976264954
+}

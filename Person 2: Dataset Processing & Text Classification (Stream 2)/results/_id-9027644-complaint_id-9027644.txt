@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027644,
+  "complaint_id": "9027644",
+  "product": "Credit card",
+  "complaint_what_happened": "Navy Federal Federal credit duplicated my credit card number and opened an account for another member. This linked the credit card to my personal information as well as my bank account. I was getting charged for this other Person s transactions. When I reached out to Navy Federal, they acknowledged the issue and said it would be rectified. It has been a year now and my credit has been destroyed. I have been paying on somebody elses delinquent account and now Navy Federal refuses to have any communication with me and has turned me into collections for someone elses issue including theirs. They no longer want to take responsibility for the issue and have stopped paying me back the money they have stolen from my personal account.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "410XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem canceling credit monitoring or identify theft protection service",
+  "text": "Navy Federal Federal credit duplicated my credit card number and opened an account for another member. This linked the credit card to my personal information as well as my bank account. I was getting charged for this other Person s transactions. When I reached out to Navy Federal, they acknowledged the issue and said it would be rectified. It has been a year now and my credit has been destroyed. I have been paying on somebody elses delinquent account and now Navy Federal refuses to have any communication with me and has turned me into collections for someone elses issue including theirs. They no longer want to take responsibility for the issue and have stopped paying me back the money they have stolen from my personal account."
+}
+
+Chunk:
+navy federal federal credit duplicated my credit card number and opened an account for another member. this linked the credit card to my personal information as well as my bank account. i was getting charged for this other person s transactions. when i reached out to navy federal, they acknowledged the issue and said it would be rectified. it has been a year now and my credit has been destroyed. i have been paying on somebody elses delinquent account and now navy federal refuses to have any communication with me and has turned me into collections for someone elses issue including theirs. they no longer want to take responsibility for the issue and have stopped paying me back the money they have stolen from my personal account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995878338813782
+}

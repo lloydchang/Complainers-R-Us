@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9287367,
+  "complaint_id": "9287367",
+  "product": "Credit card",
+  "complaint_what_happened": "3 months interest free lowes/synchrony financing. \n\nPaid on time XXXX. \n\nLoan total= XXXX Synchrony duplicated payments to take over {$800.00} from my account. \n\nPer credit services- {$490.00} in duplicate payments were due to be credited as of XXXX. \n\nDespite multiple requests for credit to be issued, it took 5 separate calls over a week for their finance department to contact customer service and do that. This was supposedly done XX/XX/XXXX, with apologies to my experience and statements that it is happening to many consumers. \n\nHowever, on XX/XX/XXXX their customer service department reviewed the account and could not find a payment issue.- they have sent me written documentation of such along with maintaining records of the calls Ive made XXXX \n\nHad they not stolen my money, I would have received a check today rather than a letter that I need to again call them.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "17331",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "3 months interest free lowes/synchrony financing. \n\nPaid on time XXXX. \n\nLoan total= XXXX Synchrony duplicated payments to take over {$800.00} from my account. \n\nPer credit services- {$490.00} in duplicate payments were due to be credited as of XXXX. \n\nDespite multiple requests for credit to be issued, it took 5 separate calls over a week for their finance department to contact customer service and do that. This was supposedly done XX/XX/XXXX, with apologies to my experience and statements that it is happening to many consumers. \n\nHowever, on XX/XX/XXXX their customer service department reviewed the account and could not find a payment issue.- they have sent me written documentation of such along with maintaining records of the calls Ive made XXXX \n\nHad they not stolen my money, I would have received a check today rather than a letter that I need to again call them."
+}
+
+Chunk:
+3 months interest free lowes / synchrony financing. paid on time xxxx. loan total = xxxx synchrony duplicated payments to take over { $ 800. 00 } from my account. per credit services - { $ 490. 00 } in duplicate payments were due to be credited as of xxxx. despite multiple requests for credit to be issued, it took 5 separate calls over a week for their finance department to contact customer service and do that. this was supposedly done xx / xx / xxxx, with apologies to my experience and statements that it is happening to many consumers. however, on xx / xx / xxxx their customer service department reviewed the account and could not find a payment issue. - they have sent me written documentation of such along with maintaining records of the calls ive made xxxx had they not stolen my money, i would have received a check today rather than a letter that i need to again call them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992363452911377
+}

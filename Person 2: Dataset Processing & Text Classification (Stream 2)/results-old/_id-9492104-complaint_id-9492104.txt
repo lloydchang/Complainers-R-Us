@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9492104,
+  "complaint_id": "9492104",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX sent a letter that stated they were sending a new XXXX XXXX XXXX XXXX Credit Card for a closed account. I called XXXX XXXX and they refused to help because they already sent the non-requested card.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55106",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "XXXX sent a letter that stated they were sending a new XXXX XXXX XXXX XXXX Credit Card for a closed account. I called XXXX XXXX and they refused to help because they already sent the non-requested card."
+}
+
+Chunk:
+xxxx sent a letter that stated they were sending a new xxxx xxxx xxxx xxxx credit card for a closed account. i called xxxx xxxx and they refused to help because they already sent the non - requested card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999442994594574
+}

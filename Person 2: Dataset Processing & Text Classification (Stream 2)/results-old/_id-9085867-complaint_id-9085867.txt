@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085867,
+  "complaint_id": "9085867",
+  "product": "Credit card",
+  "complaint_what_happened": "UDDAP ISSUE : I currently have a Home Depot credit card issued by Citibank. Every month, I make my payment on time and in excess of the minimum payment due. The excess amount of the minimum due does not get applied to the promotional balance, as setup by myself online and via customer service - multiple times. Because I work for a financial institution, Im very familiar with the CFPB regulations for proper payment allocations. Each month, I have to call in to get the payment adjusted correctly/payment allocation setup again and Citibank keeps telling me theyve fixed it. The agents do not complete the request. I am concerned with consumers that are relying on the system processing payments correctly, as they are probably being charged inadvertently with all deferred interest as they think payments are applied correctly. And when you call, the agents say they take care of the issue but never do. Ive taken all the proper steps but their system still doesnt work correctly. This is deceptive behavior!! \n\nIve provided a screenshot of my statement where youll see the prior months adjustment done by an agent for the corrected amount of {$380.00} along with the newest payment made in XXXX for the total amount of {$300.00} applied to my revolving balance, whereas a the min payment dues was {$100.00} - {$200.00} shouldve been applied to the promotional balance.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "60102",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "UDDAP ISSUE : I currently have a Home Depot credit card issued by Citibank. Every month, I make my payment on time and in excess of the minimum payment due. The excess amount of the minimum due does not get applied to the promotional balance, as setup by myself online and via customer service - multiple times. Because I work for a financial institution, Im very familiar with the CFPB regulations for proper payment allocations. Each month, I have to call in to get the payment adjusted correctly/payment allocation setup again and Citibank keeps telling me theyve fixed it. The agents do not complete the request. I am concerned with consumers that are relying on the system processing payments correctly, as they are probably being charged inadvertently with all deferred interest as they think payments are applied correctly. And when you call, the agents say they take care of the issue but never do. Ive taken all the proper steps but their system still doesnt work correctly. This is deceptive behavior!! \n\nIve provided a screenshot of my statement where youll see the prior months adjustment done by an agent for the corrected amount of {$380.00} along with the newest payment made in XXXX for the total amount of {$300.00} applied to my revolving balance, whereas a the min payment dues was {$100.00} - {$200.00} shouldve been applied to the promotional balance."
+}
+
+Chunk:
+uddap issue : i currently have a home depot credit card issued by citibank. every month, i make my payment on time and in excess of the minimum payment due. the excess amount of the minimum due does not get applied to the promotional balance, as setup by myself online and via customer service - multiple times. because i work for a financial institution, im very familiar with the cfpb regulations for proper payment allocations. each month, i have to call in to get the payment adjusted correctly / payment allocation setup again and citibank keeps telling me theyve fixed it. the agents do not complete the request. i am concerned with consumers that are relying on the system processing payments correctly, as they are probably being charged inadvertently with all deferred interest as they think payments are applied correctly. and when you call, the agents say they take care of the issue but never do. ive taken all the proper steps but their system still doesnt work correctly. this is deceptive behavior!! ive provided a screenshot of my statement where youll see the prior months adjustment done by an agent for the corrected amount of { $ 380. 00 } along with the newest payment made in xxxx for the total amount of { $ 300. 00 } applied to my revolving balance, whereas a the min payment dues was { $ 100. 00 } - { $ 200. 00 } shouldve been applied to the promotional balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998831570148468
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9329681,
+  "complaint_id": "9329681",
+  "product": "Credit card",
+  "complaint_what_happened": "When I logged into my online banking account with Bank of America on XX/XX/year>, I suddenly noticed that there has been an extra credit account listed under my name. The account is also showing past due and closed. Upon further investigation with Bank of America customer service representative, the account was open and closed within 1 month 7 years ago. Also, Bank of America was not able to provide any information as to the charges, and they are treating it as fraud charges. \n\nPersonally, I don't believe that was a simple case of fraudulent charges.\n\n1. I don't have any record of this account open and closed during the period they described to me.\n\n2. They don't have any record of the charges.\n\n3. How is this account all of a sudden showing up under my profile 7 years after it was closed.\n\n4. The account was in delinquent, but no such information was reported to any credit agency. \n\nI think the government should scrutinized Bank of America on their computer record system. This incident makes me lose a lot of trust in Bank of America in how they reconcile account information and data. I feel like Bank of America found an uncollected debt and decide to just randomly sticking it their customer and hoping for a favorable outcome.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94555",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "When I logged into my online banking account with Bank of America on XX/XX/year>, I suddenly noticed that there has been an extra credit account listed under my name. The account is also showing past due and closed. Upon further investigation with Bank of America customer service representative, the account was open and closed within 1 month 7 years ago. Also, Bank of America was not able to provide any information as to the charges, and they are treating it as fraud charges. \n\nPersonally, I don't believe that was a simple case of fraudulent charges.\n\n1. I don't have any record of this account open and closed during the period they described to me.\n\n2. They don't have any record of the charges.\n\n3. How is this account all of a sudden showing up under my profile 7 years after it was closed.\n\n4. The account was in delinquent, but no such information was reported to any credit agency. \n\nI think the government should scrutinized Bank of America on their computer record system. This incident makes me lose a lot of trust in Bank of America in how they reconcile account information and data. I feel like Bank of America found an uncollected debt and decide to just randomly sticking it their customer and hoping for a favorable outcome."
+}
+
+Chunk:
+when i logged into my online banking account with bank of america on xx / xx / year >, i suddenly noticed that there has been an extra credit account listed under my name. the account is also showing past due and closed. upon further investigation with bank of america customer service representative, the account was open and closed within 1 month 7 years ago. also, bank of america was not able to provide any information as to the charges, and they are treating it as fraud charges. personally, i don't believe that was a simple case of fraudulent charges. 1. i don't have any record of this account open and closed during the period they described to me. 2. they don't have any record of the charges. 3. how is this account all of a sudden showing up under my profile 7 years after it was closed. 4. the account was in delinquent, but no such information was reported to any credit agency. i think the government should scrutinized bank of america on their computer record system. this incident makes me lose a lot of trust in bank of america in how they reconcile account information and data. i feel like bank of america found an uncollected debt and decide to just randomly sticking it their customer and hoping for a favorable outcome.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996210336685181
+}

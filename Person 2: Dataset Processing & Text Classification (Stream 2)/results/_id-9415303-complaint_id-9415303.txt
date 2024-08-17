@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9415303,
+  "complaint_id": "9415303",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, CO XXXX XXXX a reservation in my name and automatically charging my credit card on file with XXXX. I called the property to inquire why this was done. The merchant informed me that their XXXX, XXXX, had fraudulently made multiple reservations for multiple guests and, when discovered, XXXX was fired. The merchant informed me that my reservation would be canceled and not charged. However, instead of cancelling the reservation, the merchant changed the reservation to a shorter period at a higher daily rate. XXXX notified me that my reservation was changed, not cancelled, so I complained to the merchant, a private franchisee of XXXX, again. The merchant assured me that it was a mistake, and that they would cancel my reservation. The merchant again changed my reservation instead of cancelling it, so I complained to the merchant again. The new XXXX, XXXX, stated that she is not responsible for XXXX 's criminal behavior. I explained to XXXX that I was disputing her fraudulent activity after XXXX was fired, and I asked for written records of who made these reservations in my name, and who made subsequent changes in my name. XXXX refused to comply. Therefore, the XXXX records that verify that someone other than me made this reservation plus XXXX subsequent changes to this reservation are in the merchant 's system, and also the XXXX system, but I have been denied copies of these records. I disputed XXXX charges with Citibank. Citibank states that I can not contest the charges without written sales receipts. However, the merchant never gave me any receipts, and the merchant refuses to disclose their documentation, so Citibank 's request is unreasonable.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "54902",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, CO XXXX XXXX a reservation in my name and automatically charging my credit card on file with XXXX. I called the property to inquire why this was done. The merchant informed me that their XXXX, XXXX, had fraudulently made multiple reservations for multiple guests and, when discovered, XXXX was fired. The merchant informed me that my reservation would be canceled and not charged. However, instead of cancelling the reservation, the merchant changed the reservation to a shorter period at a higher daily rate. XXXX notified me that my reservation was changed, not cancelled, so I complained to the merchant, a private franchisee of XXXX, again. The merchant assured me that it was a mistake, and that they would cancel my reservation. The merchant again changed my reservation instead of cancelling it, so I complained to the merchant again. The new XXXX, XXXX, stated that she is not responsible for XXXX 's criminal behavior. I explained to XXXX that I was disputing her fraudulent activity after XXXX was fired, and I asked for written records of who made these reservations in my name, and who made subsequent changes in my name. XXXX refused to comply. Therefore, the XXXX records that verify that someone other than me made this reservation plus XXXX subsequent changes to this reservation are in the merchant 's system, and also the XXXX system, but I have been denied copies of these records. I disputed XXXX charges with Citibank. Citibank states that I can not contest the charges without written sales receipts. However, the merchant never gave me any receipts, and the merchant refuses to disclose their documentation, so Citibank 's request is unreasonable."
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx, co xxxx xxxx a reservation in my name and automatically charging my credit card on file with xxxx. i called the property to inquire why this was done. the merchant informed me that their xxxx, xxxx, had fraudulently made multiple reservations for multiple guests and, when discovered, xxxx was fired. the merchant informed me that my reservation would be canceled and not charged. however, instead of cancelling the reservation, the merchant changed the reservation to a shorter period at a higher daily rate. xxxx notified me that my reservation was changed, not cancelled, so i complained to the merchant, a private franchisee of xxxx, again. the merchant assured me that it was a mistake, and that they would cancel my reservation. the merchant again changed my reservation instead of cancelling it, so i complained to the merchant again. the new xxxx, xxxx, stated that she is not responsible for xxxx's criminal behavior. i explained to xxxx that i was disputing her fraudulent activity after xxxx was fired, and i asked for written records of who made these reservations in my name, and who made subsequent changes in my name. xxxx refused to comply. therefore, the xxxx records that verify that someone other than me made this reservation plus xxxx subsequent changes to this reservation are in the merchant's system, and also the xxxx system, but i have been denied copies of these records. i disputed xxxx charges with citibank. citibank states that i can not contest the charges without written sales receipts. however, the merchant never gave me any receipts, and the merchant refuses to disclose their documentation, so citibank's request is unreasonable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983057975769043
+}

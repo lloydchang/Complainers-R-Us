@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9187244,
+  "complaint_id": "9187244",
+  "product": "Credit card",
+  "complaint_what_happened": "I have disputed multiple late payments with Capital One. These payments were all initiated before the due dates in 2022 but posted late due to USPS delays. Capital one has failed to correct the errors after my dispute. The incorrect late payments should be removed from my credit report. I am writing to formally dispute the late payments reported on my credit report, which are due to the delayed processing of my payments by Capital One. These late payments are inaccurately affecting my credit score and overall creditworthiness. I have consistently made timely payments to Capital One ; however, due to their internal processing delays, my payments have not been credited on time, resulting in the erroneous reporting of late payments on my credit report. This situation is beyond out of my control and unjustly penalizes me as a responsible borrower.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10455",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Difficulty submitting a dispute or getting information about a dispute over the phone",
+  "text": "I have disputed multiple late payments with Capital One. These payments were all initiated before the due dates in 2022 but posted late due to USPS delays. Capital one has failed to correct the errors after my dispute. The incorrect late payments should be removed from my credit report. I am writing to formally dispute the late payments reported on my credit report, which are due to the delayed processing of my payments by Capital One. These late payments are inaccurately affecting my credit score and overall creditworthiness. I have consistently made timely payments to Capital One ; however, due to their internal processing delays, my payments have not been credited on time, resulting in the erroneous reporting of late payments on my credit report. This situation is beyond out of my control and unjustly penalizes me as a responsible borrower."
+}
+
+Chunk:
+i have disputed multiple late payments with capital one. these payments were all initiated before the due dates in 2022 but posted late due to usps delays. capital one has failed to correct the errors after my dispute. the incorrect late payments should be removed from my credit report. i am writing to formally dispute the late payments reported on my credit report, which are due to the delayed processing of my payments by capital one. these late payments are inaccurately affecting my credit score and overall creditworthiness. i have consistently made timely payments to capital one ; however, due to their internal processing delays, my payments have not been credited on time, resulting in the erroneous reporting of late payments on my credit report. this situation is beyond out of my control and unjustly penalizes me as a responsible borrower.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992128610610962
+}

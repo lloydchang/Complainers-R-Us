@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9056980,
+  "complaint_id": "9056980",
+  "product": "Credit card",
+  "complaint_what_happened": "The first problem has been ongoing for about a year Mercury credit card simply kept losing my payments. \nThe real complaint is that Mercury is now using Extortion to force everyone to ONLY get a online statement and if I don't agree via their email they will immediately cancel my account. Keep in mind that I've ALWAYS paid my bill in full and on time yet they are allowed to threaten me, have my XXXX XXXX lowered all because they refuse to spend any money on processing payments made via the mail. This is plain wrong and by threatening us they make it pure extortion.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "805XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Mercury Financial Intermediate LLC",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "The first problem has been ongoing for about a year Mercury credit card simply kept losing my payments. \nThe real complaint is that Mercury is now using Extortion to force everyone to ONLY get a online statement and if I don't agree via their email they will immediately cancel my account. Keep in mind that I've ALWAYS paid my bill in full and on time yet they are allowed to threaten me, have my XXXX XXXX lowered all because they refuse to spend any money on processing payments made via the mail. This is plain wrong and by threatening us they make it pure extortion."
+}
+
+Chunk:
+the first problem has been ongoing for about a year mercury credit card simply kept losing my payments. the real complaint is that mercury is now using extortion to force everyone to only get a online statement and if i don't agree via their email they will immediately cancel my account. keep in mind that i've always paid my bill in full and on time yet they are allowed to threaten me, have my xxxx xxxx lowered all because they refuse to spend any money on processing payments made via the mail. this is plain wrong and by threatening us they make it pure extortion.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996070265769958
+}

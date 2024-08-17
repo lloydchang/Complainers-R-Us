@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9094032,
+  "complaint_id": "9094032",
+  "product": "Credit card",
+  "complaint_what_happened": "I always make my payments on time, so I am confident in my payment history. What I don't understand is why this company is reporting me as late for certain months, which shouldn't be happening. According to USC 1666b, any billing errors should be promptly corrected.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29680",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I always make my payments on time, so I am confident in my payment history. What I don't understand is why this company is reporting me as late for certain months, which shouldn't be happening. According to USC 1666b, any billing errors should be promptly corrected."
+}
+
+Chunk:
+i always make my payments on time, so i am confident in my payment history. what i don't understand is why this company is reporting me as late for certain months, which shouldn't be happening. according to usc 1666b, any billing errors should be promptly corrected.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9862701296806335
+}

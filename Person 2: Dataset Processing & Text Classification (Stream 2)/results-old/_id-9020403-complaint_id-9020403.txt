@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020403,
+  "complaint_id": "9020403",
+  "product": "Credit card",
+  "complaint_what_happened": "Without the prior consent of the consumer given directly to the debt collector or the express permission of a court of competent jurisdiction, a debt collector may not communicate with a consumer in connection with the collection of any debt ( 1 ) at any unusual time or place or a time or place known or which should be known to be inconvenient to the consumer. In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that the convenient time for communicating with a consumer is after XXXX XXXX XXXX and before XXXX XXXX XXXX, local time at the consumers location ; ( 2 ) if the debt collector knows the consumer is represented by an attorney with respect to such debt and has knowledge of, or can readily ascertain, such attorneys name and address, unless the attorney fails to respond within a reasonable period of time to a communication from the debt collector or unless the attorney consents to direct communication with the consumer; or ( 3 ) at the consumers place of employment if the debt collector knows or has reason to know that the consumers employer prohibits the consumer from receiving such communication.\n\n( b ) Communication with third parties Except as provided in section 1692b of this title, without the prior consent of the consumer given directly to the debt collector, or the express permission of a court of competent jurisdiction, or as reasonably necessary to effectuate a postjudgment judicial remedy, a debt collector may not communicate, in connection with the collection of any debt, with any person other than the consumer, his attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, or the attorney of the debt collector.\n\n( c ) Ceasing communication If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicate further with the consumer with respect to such debt, except ( 1 ) to advise the consumer that the debt collectors further efforts are being terminated ; ( 2 ) to notify the consumer that the debt collector or creditor may invoke specified remedies which are ordinarily invoked by such debt collector or creditor; or ( 3 ) where applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy.\n\nIf such notice from the consumer is made by mail, notification shall be complete upon receipt.\n\n( d ) Consumer defined For the purpose of this section, the term consumer includes the consumers spouse, parent ( if the consumer is a minor ), guardian, executor, or administrator.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34758",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ENCORE CAPITAL GROUP INC.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Without the prior consent of the consumer given directly to the debt collector or the express permission of a court of competent jurisdiction, a debt collector may not communicate with a consumer in connection with the collection of any debt ( 1 ) at any unusual time or place or a time or place known or which should be known to be inconvenient to the consumer. In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that the convenient time for communicating with a consumer is after XXXX XXXX XXXX and before XXXX XXXX XXXX, local time at the consumers location ; ( 2 ) if the debt collector knows the consumer is represented by an attorney with respect to such debt and has knowledge of, or can readily ascertain, such attorneys name and address, unless the attorney fails to respond within a reasonable period of time to a communication from the debt collector or unless the attorney consents to direct communication with the consumer; or ( 3 ) at the consumers place of employment if the debt collector knows or has reason to know that the consumers employer prohibits the consumer from receiving such communication.\n\n( b ) Communication with third parties Except as provided in section 1692b of this title, without the prior consent of the consumer given directly to the debt collector, or the express permission of a court of competent jurisdiction, or as reasonably necessary to effectuate a postjudgment judicial remedy, a debt collector may not communicate, in connection with the collection of any debt, with any person other than the consumer, his attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, or the attorney of the debt collector.\n\n( c ) Ceasing communication If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicate further with the consumer with respect to such debt, except ( 1 ) to advise the consumer that the debt collectors further efforts are being terminated ; ( 2 ) to notify the consumer that the debt collector or creditor may invoke specified remedies which are ordinarily invoked by such debt collector or creditor; or ( 3 ) where applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy.\n\nIf such notice from the consumer is made by mail, notification shall be complete upon receipt.\n\n( d ) Consumer defined For the purpose of this section, the term consumer includes the consumers spouse, parent ( if the consumer is a minor ), guardian, executor, or administrator."
+}
+
+Chunk:
+the consumers spouse, parent ( if the consumer is a minor ), guardian, executor, or administrator.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9264498949050903
+}

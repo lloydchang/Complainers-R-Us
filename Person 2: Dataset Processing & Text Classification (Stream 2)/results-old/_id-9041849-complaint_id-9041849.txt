@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041849,
+  "complaint_id": "9041849",
+  "product": "Credit card",
+  "complaint_what_happened": "To Whom It May Concern, I am writing to formally lodge a complaint against Goldman Sachs regarding the handling of a disputed charge on my Apple Card. The details of my dispute are as follows : Dispute Case Number : XXXX Transaction Date : XX/XX/year> Merchant Name : XXXX XXXX Disputed Amount : {$110.00} Amount to be Re-billed : {$110.00} I initially disputed this charge due to inaccuracies and issues related to the transaction with XXXX  XXXX. Despite my efforts to resolve the matter through the appropriate channels, Goldman Sachs has determined the dispute to be invalid and has re-billed the disputed amount of {$110.00} to my account. \n\nMy primary concern is that Goldman Sachs has not refunded the merchant for the disputed amount, which raises serious questions about the integrity of their dispute resolution process. This action appears to be an attempt to collect payment from me without rectifying the transaction with the merchant, which I believe constitutes an act of misappropriation. \n\nGiven the gravity of this situation, I am seeking immediate intervention from the XXXX XXXX XXXX XXXX XXXX XXXX to address the following issues : 1. A thorough investigation into the handling of my dispute by Goldman Sachs.\n\n2. Confirmation that the disputed amount was either refunded to the merchant or a valid resolution was achieved.\n\n3. A clear explanation and documentation of the reasons for deeming my dispute invalid.\n\n4. Reimbursement of the disputed amount if Goldman Sachs is found to have mishandled the case. \n\nThis situation has caused me significant distress and inconvenience. I trust that the XXXX  will ensure a fair and transparent resolution process. Please find all necessary documentation and correspondence related to this dispute attached for your reference. \n\nThank you for your prompt attention to this matter. \n\nSincerely, XXXX",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "To Whom It May Concern, I am writing to formally lodge a complaint against Goldman Sachs regarding the handling of a disputed charge on my Apple Card. The details of my dispute are as follows : Dispute Case Number : XXXX Transaction Date : XX/XX/year> Merchant Name : XXXX XXXX Disputed Amount : {$110.00} Amount to be Re-billed : {$110.00} I initially disputed this charge due to inaccuracies and issues related to the transaction with XXXX  XXXX. Despite my efforts to resolve the matter through the appropriate channels, Goldman Sachs has determined the dispute to be invalid and has re-billed the disputed amount of {$110.00} to my account. \n\nMy primary concern is that Goldman Sachs has not refunded the merchant for the disputed amount, which raises serious questions about the integrity of their dispute resolution process. This action appears to be an attempt to collect payment from me without rectifying the transaction with the merchant, which I believe constitutes an act of misappropriation. \n\nGiven the gravity of this situation, I am seeking immediate intervention from the XXXX XXXX XXXX XXXX XXXX XXXX to address the following issues : 1. A thorough investigation into the handling of my dispute by Goldman Sachs.\n\n2. Confirmation that the disputed amount was either refunded to the merchant or a valid resolution was achieved.\n\n3. A clear explanation and documentation of the reasons for deeming my dispute invalid.\n\n4. Reimbursement of the disputed amount if Goldman Sachs is found to have mishandled the case. \n\nThis situation has caused me significant distress and inconvenience. I trust that the XXXX  will ensure a fair and transparent resolution process. Please find all necessary documentation and correspondence related to this dispute attached for your reference. \n\nThank you for your prompt attention to this matter. \n\nSincerely, XXXX"
+}
+
+Chunk:
+to whom it may concern, i am writing to formally lodge a complaint against goldman sachs regarding the handling of a disputed charge on my apple card. the details of my dispute are as follows : dispute case number : xxxx transaction date : xx / xx / year > merchant name : xxxx xxxx disputed amount : { $ 110. 00 } amount to be re - billed : { $ 110. 00 } i initially disputed this charge due to inaccuracies and issues related to the transaction with xxxx xxxx. despite my efforts to resolve the matter through the appropriate channels, goldman sachs has determined the dispute to be invalid and has re - billed the disputed amount of { $ 110. 00 } to my account. my primary concern is that goldman sachs has not refunded the merchant for the disputed amount, which raises serious questions about the integrity of their dispute resolution process. this action appears to be an attempt to collect payment from me without rectifying the transaction with the merchant, which i believe constitutes an act of misappropriation. given the gravity of this situation, i am seeking immediate intervention from the xxxx xxxx xxxx xxxx xxxx xxxx to address the following issues : 1. a thorough investigation into the handling of my dispute by goldman sachs. 2. confirmation that the disputed amount was either refunded to the merchant or a valid resolution was achieved. 3. a clear explanation and documentation of the reasons for deeming my dispute invalid. 4. reimbursement of the disputed amount if goldman sachs is found to have mishandled the case. this situation has caused me significant distress and inconvenience. i trust that the xxxx will ensure a fair and transparent resolution process. please find all necessary documentation and correspondence related to this dispute attached for your reference. thank you for your prompt attention to this matter. sincerely, xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8322339057922363
+}

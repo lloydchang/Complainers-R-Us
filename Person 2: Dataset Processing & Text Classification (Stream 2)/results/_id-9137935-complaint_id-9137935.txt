@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137935,
+  "complaint_id": "9137935",
+  "product": "Credit card",
+  "complaint_what_happened": "Reference my XX/XX/XXXX statement for XXXX XXXX XXXX ( Barclays Bank ) ; I was charged with a Balance Transfer ( XXXX XX/XX/XXXX ) by XXXX XXXX XXXX for {$5000.00} and a Balance Transfer Fee of {$250.00}. On XXXXXXXX XXXX XXXX XXXX XXXX XXXXXX/XX/XXXX, XXXX XX/XX/XXXX and XXXX XX/XX/XXXX, I called XXXX to dispute the charges as FRAUDULENT. Finally, the Fraudulent Security Team ( XXXX ) to me that they would have the account corrected and issue me a new card. I did receive a new card in the mail and a new statement with $ XXXX balance. On XXXX XX/XX/XXXX, I received a letter from Barclays stating that my account was closed due to suspicious activity and that I would not held responsible for any activity confirmed fraudulent. With my new card, I received a statement balance of {$4900.00} dated XXXX XX/XX/XXXX and a Balance Transfer fee of {$190.00} for new charge on XXXX XXXX XXXX. I forwarded a dispute letter by Certified Mail on XXXX XX/XX/XXXX.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Reference my XX/XX/XXXX statement for XXXX XXXX XXXX ( Barclays Bank ) ; I was charged with a Balance Transfer ( XXXX XX/XX/XXXX ) by XXXX XXXX XXXX for {$5000.00} and a Balance Transfer Fee of {$250.00}. On XXXXXXXX XXXX XXXX XXXX XXXX XXXXXX/XX/XXXX, XXXX XX/XX/XXXX and XXXX XX/XX/XXXX, I called XXXX to dispute the charges as FRAUDULENT. Finally, the Fraudulent Security Team ( XXXX ) to me that they would have the account corrected and issue me a new card. I did receive a new card in the mail and a new statement with $ XXXX balance. On XXXX XX/XX/XXXX, I received a letter from Barclays stating that my account was closed due to suspicious activity and that I would not held responsible for any activity confirmed fraudulent. With my new card, I received a statement balance of {$4900.00} dated XXXX XX/XX/XXXX and a Balance Transfer fee of {$190.00} for new charge on XXXX XXXX XXXX. I forwarded a dispute letter by Certified Mail on XXXX XX/XX/XXXX."
+}
+
+Chunk:
+reference my xx / xx / xxxx statement for xxxx xxxx xxxx ( barclays bank ) ; i was charged with a balance transfer ( xxxx xx / xx / xxxx ) by xxxx xxxx xxxx for { $ 5000. 00 } and a balance transfer fee of { $ 250. 00 }. on xxxxxxxx xxxx xxxx xxxx xxxx xxxxxx / xx / xxxx, xxxx xx / xx / xxxx and xxxx xx / xx / xxxx, i called xxxx to dispute the charges as fraudulent. finally, the fraudulent security team ( xxxx ) to me that they would have the account corrected and issue me a new card. i did receive a new card in the mail and a new statement with $ xxxx balance. on xxxx xx / xx / xxxx, i received a letter from barclays stating that my account was closed due to suspicious activity and that i would not held responsible for any activity confirmed fraudulent. with my new card, i received a statement balance of { $ 4900. 00 } dated xxxx xx / xx / xxxx and a balance transfer fee of { $ 190. 00 } for new charge on xxxx xxxx xxxx. i forwarded a dispute letter by certified mail on xxxx xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968018531799316
+}

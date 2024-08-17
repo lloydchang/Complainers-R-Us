@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270662,
+  "complaint_id": "9270662",
+  "product": "Credit card",
+  "complaint_what_happened": "There were several charges ( XXXX pages worth ) made to my credit card from a XXXX XXXX called XXXX XXXX Games all within XXXX day spam. It is clearly obvious to anyones eye that these charges are fraudulent. When Chase said they were legitimate after first investigation I asked for proof of findings. We fought with them again they did a second investigation and we still received no proof from investigation. They still stand by there findings. The only person in our household with access to XXXX XXXX XXXX is me. I can assure you I did not purchase XXXX dollars worth of game apps. This is also my only fraud issue with Chase. Ive been a card holder for years and between my wife and I weve paid all our credit card debt and been very responsible card holders.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "334XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "There were several charges ( XXXX pages worth ) made to my credit card from a XXXX XXXX called XXXX XXXX Games all within XXXX day spam. It is clearly obvious to anyones eye that these charges are fraudulent. When Chase said they were legitimate after first investigation I asked for proof of findings. We fought with them again they did a second investigation and we still received no proof from investigation. They still stand by there findings. The only person in our household with access to XXXX XXXX XXXX is me. I can assure you I did not purchase XXXX dollars worth of game apps. This is also my only fraud issue with Chase. Ive been a card holder for years and between my wife and I weve paid all our credit card debt and been very responsible card holders."
+}
+
+Chunk:
+there were several charges ( xxxx pages worth ) made to my credit card from a xxxx xxxx called xxxx xxxx games all within xxxx day spam. it is clearly obvious to anyones eye that these charges are fraudulent. when chase said they were legitimate after first investigation i asked for proof of findings. we fought with them again they did a second investigation and we still received no proof from investigation. they still stand by there findings. the only person in our household with access to xxxx xxxx xxxx is me. i can assure you i did not purchase xxxx dollars worth of game apps. this is also my only fraud issue with chase. ive been a card holder for years and between my wife and i weve paid all our credit card debt and been very responsible card holders.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947904348373413
+}

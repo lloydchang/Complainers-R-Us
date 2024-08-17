@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113062,
+  "complaint_id": "9113062",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX XXXX they took out {$6000.00} out of my account and theyre only supposed to take out a monthly fee which is littler but over XXXX dollars. I asked for a reversal which they said they did thats been a whole month ago. Ive been waiting for my money for a whole month and when I called today on XX/XX/year> they said that they couldnt do anything because the payment was supposed to be processed on the seventh, but it was processed on the ninth instead. Which calls the credit line to drop",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85020",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/XXXX XXXX they took out {$6000.00} out of my account and theyre only supposed to take out a monthly fee which is littler but over XXXX dollars. I asked for a reversal which they said they did thats been a whole month ago. Ive been waiting for my money for a whole month and when I called today on XX/XX/year> they said that they couldnt do anything because the payment was supposed to be processed on the seventh, but it was processed on the ninth instead. Which calls the credit line to drop"
+}
+
+Chunk:
+on xx / xx / xxxx xxxx they took out { $ 6000. 00 } out of my account and theyre only supposed to take out a monthly fee which is littler but over xxxx dollars. i asked for a reversal which they said they did thats been a whole month ago. ive been waiting for my money for a whole month and when i called today on xx / xx / year > they said that they couldnt do anything because the payment was supposed to be processed on the seventh, but it was processed on the ninth instead. which calls the credit line to drop
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993746876716614
+}

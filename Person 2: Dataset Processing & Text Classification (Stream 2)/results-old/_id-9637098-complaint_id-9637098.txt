@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9637098,
+  "complaint_id": "9637098",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been up to date on my synchrony bank Lowes card forever. In XXXX they just reported a 30 day late payment so logged in online and it said I was up to date and no payment due until XXXX so I paid anyway. \n\nWhen asked I was told this payment missing was in XXXX??? For {XXXX \n\nHow in the world can I be up to date for months and a muster late fee appears? I need this off my report as I am in the process of buying a house.",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "32583",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I have been up to date on my synchrony bank Lowes card forever. In XXXX they just reported a 30 day late payment so logged in online and it said I was up to date and no payment due until XXXX so I paid anyway. \n\nWhen asked I was told this payment missing was in XXXX??? For {XXXX \n\nHow in the world can I be up to date for months and a muster late fee appears? I need this off my report as I am in the process of buying a house."
+}
+
+Chunk:
+i have been up to date on my synchrony bank lowes card forever. in xxxx they just reported a 30 day late payment so logged in online and it said i was up to date and no payment due until xxxx so i paid anyway. when asked i was told this payment missing was in xxxx??? for { xxxx how in the world can i be up to date for months and a muster late fee appears? i need this off my report as i am in the process of buying a house.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995126724243164
+}

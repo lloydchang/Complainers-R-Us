@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9123469,
+  "complaint_id": "9123469",
+  "product": "Credit card",
+  "complaint_what_happened": "Every representative I had spoken to for each day that I had called, they were sending me through loop holes about resolving my issues. They kept transferring me off to someone who can help and absolutely nothing got resolved. They ended up closing my account without my knowledge and after they did that I called to complain about that as well and they told me that I have to make my payments. I tried explaining to them that the purchases that were made on my account were not made and or authorized by me and they were gaslighting me telling me that I should be expecting their call on an update for the investigation they had opened up for my complaints and disputes.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "329XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Every representative I had spoken to for each day that I had called, they were sending me through loop holes about resolving my issues. They kept transferring me off to someone who can help and absolutely nothing got resolved. They ended up closing my account without my knowledge and after they did that I called to complain about that as well and they told me that I have to make my payments. I tried explaining to them that the purchases that were made on my account were not made and or authorized by me and they were gaslighting me telling me that I should be expecting their call on an update for the investigation they had opened up for my complaints and disputes."
+}
+
+Chunk:
+every representative i had spoken to for each day that i had called, they were sending me through loop holes about resolving my issues. they kept transferring me off to someone who can help and absolutely nothing got resolved. they ended up closing my account without my knowledge and after they did that i called to complain about that as well and they told me that i have to make my payments. i tried explaining to them that the purchases that were made on my account were not made and or authorized by me and they were gaslighting me telling me that i should be expecting their call on an update for the investigation they had opened up for my complaints and disputes.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996306896209717
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9675224,
+  "complaint_id": "9675224",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a typographical error paying Synchrony Bank for TJMX credit card, amount due {$360.00} was sent as {$360.00} XXXX bill, paid on time. Charged {$15.00} XXXX bill and XXXX XXXX bill for XXXX XXXX  error. Contacted Synchrony Bank and said they will not make any adjustments even though I always pay my bills in full, on time for many years on TJMX credit card. I will no longer use this card and TJMX will lose a good paying customer due to unfair business practices of Synchrony Bank",
+  "date_sent_to_company": "2024-08-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19348",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-08-01T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I made a typographical error paying Synchrony Bank for TJMX credit card, amount due {$360.00} was sent as {$360.00} XXXX bill, paid on time. Charged {$15.00} XXXX bill and XXXX XXXX bill for XXXX XXXX  error. Contacted Synchrony Bank and said they will not make any adjustments even though I always pay my bills in full, on time for many years on TJMX credit card. I will no longer use this card and TJMX will lose a good paying customer due to unfair business practices of Synchrony Bank"
+}
+
+Chunk:
+i made a typographical error paying synchrony bank for tjmx credit card, amount due { $ 360. 00 } was sent as { $ 360. 00 } xxxx bill, paid on time. charged { $ 15. 00 } xxxx bill and xxxx xxxx bill for xxxx xxxx error. contacted synchrony bank and said they will not make any adjustments even though i always pay my bills in full, on time for many years on tjmx credit card. i will no longer use this card and tjmx will lose a good paying customer due to unfair business practices of synchrony bank
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997546076774597
+}

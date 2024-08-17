@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9018841,
+  "complaint_id": "9018841",
+  "product": "Credit card",
+  "complaint_what_happened": "I inquired about a credit card while shopping at the ATHOME Store, I was told my purchase would be fine for 0 % interest if paid in full in the first 6 months if I opened the card. I opened the card on XX/XX/2024, used the card and made approximately a {$250.00} purchase. I made my first payment and then noticed I had received an interest charge.The store had a small sign to confirm this promotional offer however I was told about it when making my purchase, which was the reason I opened the account, I have tried to contact the company via chat today XX/XX/2024 to have them honor the 0 % or reverse the interest charge and I would just pay the card off. The chat has been disconnected multiple times and I have spent more time figuring this out. I was unable to contact the creditor over the phone and I am just upset because I never would have opened this account had I did not qualify for a 0 % rate even though the store employee had told me I would qualify.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48080",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I inquired about a credit card while shopping at the ATHOME Store, I was told my purchase would be fine for 0 % interest if paid in full in the first 6 months if I opened the card. I opened the card on XX/XX/2024, used the card and made approximately a {$250.00} purchase. I made my first payment and then noticed I had received an interest charge.The store had a small sign to confirm this promotional offer however I was told about it when making my purchase, which was the reason I opened the account, I have tried to contact the company via chat today XX/XX/2024 to have them honor the 0 % or reverse the interest charge and I would just pay the card off. The chat has been disconnected multiple times and I have spent more time figuring this out. I was unable to contact the creditor over the phone and I am just upset because I never would have opened this account had I did not qualify for a 0 % rate even though the store employee had told me I would qualify."
+}
+
+Chunk:
+i inquired about a credit card while shopping at the athome store, i was told my purchase would be fine for 0 % interest if paid in full in the first 6 months if i opened the card. i opened the card on xx / xx / 2024, used the card and made approximately a { $ 250. 00 } purchase. i made my first payment and then noticed i had received an interest charge. the store had a small sign to confirm this promotional offer however i was told about it when making my purchase, which was the reason i opened the account, i have tried to contact the company via chat today xx / xx / 2024 to have them honor the 0 % or reverse the interest charge and i would just pay the card off. the chat has been disconnected multiple times and i have spent more time figuring this out. i was unable to contact the creditor over the phone and i am just upset because i never would have opened this account had i did not qualify for a 0 % rate even though the store employee had told me i would qualify.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995567202568054
+}

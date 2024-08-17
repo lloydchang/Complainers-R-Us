@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9563292,
+  "complaint_id": "9563292",
+  "product": "Credit card",
+  "complaint_what_happened": "The supervisor XXXX and the rep XXXX a at Citi dispute center are unprofessional, incompetent, lazy cause they dont want to look for any into, they want everything provided to them each time and its a complete waste of time dealing with them. \nThe attached disputes need to be remove from my statement They do from food that had health risk as per the Florida department of health to cramming charges that I did not agreed when renting a car. \nHow is it possible that citi is allowing these fraudulent charges knowing that the people working at the dispute center dont do their work? This needs to be investigated. They purposely delay claims, until the point that the customer will get fustrated and tired or simply will forget about the dispute. That is fraudulent activity that Citi is allowing. Additional complaints with the Florida State attorney will be filed if these issues are not fixed a week from today.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "333XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The supervisor XXXX and the rep XXXX a at Citi dispute center are unprofessional, incompetent, lazy cause they dont want to look for any into, they want everything provided to them each time and its a complete waste of time dealing with them. \nThe attached disputes need to be remove from my statement They do from food that had health risk as per the Florida department of health to cramming charges that I did not agreed when renting a car. \nHow is it possible that citi is allowing these fraudulent charges knowing that the people working at the dispute center dont do their work? This needs to be investigated. They purposely delay claims, until the point that the customer will get fustrated and tired or simply will forget about the dispute. That is fraudulent activity that Citi is allowing. Additional complaints with the Florida State attorney will be filed if these issues are not fixed a week from today."
+}
+
+Chunk:
+the supervisor xxxx and the rep xxxx a at citi dispute center are unprofessional, incompetent, lazy cause they dont want to look for any into, they want everything provided to them each time and its a complete waste of time dealing with them. the attached disputes need to be remove from my statement they do from food that had health risk as per the florida department of health to cramming charges that i did not agreed when renting a car. how is it possible that citi is allowing these fraudulent charges knowing that the people working at the dispute center dont do their work? this needs to be investigated. they purposely delay claims, until the point that the customer will get fustrated and tired or simply will forget about the dispute. that is fraudulent activity that citi is allowing. additional complaints with the florida state attorney will be filed if these issues are not fixed a week from today.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997132420539856
+}

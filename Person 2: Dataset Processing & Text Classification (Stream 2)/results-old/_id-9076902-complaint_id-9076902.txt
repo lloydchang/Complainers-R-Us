@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9076902,
+  "complaint_id": "9076902",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX of this year, I used Affirm for a purchase from a XXXX retailer. According to XXXX tracking number XXXX, the item was marked as delivered. However, when I arrived home in the evening, the package was nowhere to be found. I immediately contacted XXXX, and they informed me that the only option was to open a dispute with the seller, which I did. Unfortunately, the seller did not take any action. \n\nAs a last resort, I filed a claim through Affirm, the financing service I used for the purchase. The process of filing a dispute with Affirm was very challenging and difficult. Ultimately, Affirm did not resolve the claim in my favor. Now, I am left paying for an item I did not receive.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28303",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Affirm Holdings, Inc",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX of this year, I used Affirm for a purchase from a XXXX retailer. According to XXXX tracking number XXXX, the item was marked as delivered. However, when I arrived home in the evening, the package was nowhere to be found. I immediately contacted XXXX, and they informed me that the only option was to open a dispute with the seller, which I did. Unfortunately, the seller did not take any action. \n\nAs a last resort, I filed a claim through Affirm, the financing service I used for the purchase. The process of filing a dispute with Affirm was very challenging and difficult. Ultimately, Affirm did not resolve the claim in my favor. Now, I am left paying for an item I did not receive."
+}
+
+Chunk:
+in xxxx of this year, i used affirm for a purchase from a xxxx retailer. according to xxxx tracking number xxxx, the item was marked as delivered. however, when i arrived home in the evening, the package was nowhere to be found. i immediately contacted xxxx, and they informed me that the only option was to open a dispute with the seller, which i did. unfortunately, the seller did not take any action. as a last resort, i filed a claim through affirm, the financing service i used for the purchase. the process of filing a dispute with affirm was very challenging and difficult. ultimately, affirm did not resolve the claim in my favor. now, i am left paying for an item i did not receive.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997084736824036
+}

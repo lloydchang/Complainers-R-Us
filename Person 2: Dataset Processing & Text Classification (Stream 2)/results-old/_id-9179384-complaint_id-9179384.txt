@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9179384,
+  "complaint_id": "9179384",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment to my credit card. I selected an account that I do not use. Realizing my mistake, I called to attempt to cancel. I spoke to someone named XXXX. Chase said that they could not cancel, and additionally that they will attempt the payment twice. This has now caused me two {$32.00} fees in my checking account.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32224",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I made a payment to my credit card. I selected an account that I do not use. Realizing my mistake, I called to attempt to cancel. I spoke to someone named XXXX. Chase said that they could not cancel, and additionally that they will attempt the payment twice. This has now caused me two {$32.00} fees in my checking account."
+}
+
+Chunk:
+i made a payment to my credit card. i selected an account that i do not use. realizing my mistake, i called to attempt to cancel. i spoke to someone named xxxx. chase said that they could not cancel, and additionally that they will attempt the payment twice. this has now caused me two { $ 32. 00 } fees in my checking account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968838095664978
+}

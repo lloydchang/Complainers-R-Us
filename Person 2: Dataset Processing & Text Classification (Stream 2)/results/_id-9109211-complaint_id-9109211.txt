@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9109211,
+  "complaint_id": "9109211",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX  XX/XX/XXXX I received in the mail an Ink Business Unlimited Card with a {$20000.00} credit access line. I did NOT apply for the card. I called Chase at XXXX on XX/XX/XXXX and immediately closed the card. I also asked for information pertaining to the application of the card and if the card was sent to any other addresses. I was told that I had to send my drivers license, fill out a complaint with indentitytheft.gov and write a letter requesting the application and mail it to Chase at : Chase Card Services XXXX Fact Act XXXX XXXX XXXX XXXX, XXXX XXXXXXXX I do not want to provide more information to Chase if XXXX do not have to.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "623XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Sent card you never applied for",
+  "text": "On XXXX  XX/XX/XXXX I received in the mail an Ink Business Unlimited Card with a {$20000.00} credit access line. I did NOT apply for the card. I called Chase at XXXX on XX/XX/XXXX and immediately closed the card. I also asked for information pertaining to the application of the card and if the card was sent to any other addresses. I was told that I had to send my drivers license, fill out a complaint with indentitytheft.gov and write a letter requesting the application and mail it to Chase at : Chase Card Services XXXX Fact Act XXXX XXXX XXXX XXXX, XXXX XXXXXXXX I do not want to provide more information to Chase if XXXX do not have to."
+}
+
+Chunk:
+on xxxx xx / xx / xxxx i received in the mail an ink business unlimited card with a { $ 20000. 00 } credit access line. i did not apply for the card. i called chase at xxxx on xx / xx / xxxx and immediately closed the card. i also asked for information pertaining to the application of the card and if the card was sent to any other addresses. i was told that i had to send my drivers license, fill out a complaint with indentitytheft. gov and write a letter requesting the application and mail it to chase at : chase card services xxxx fact act xxxx xxxx xxxx xxxx, xxxx xxxxxxxx i do not want to provide more information to chase if xxxx do not have to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993407130241394
+}

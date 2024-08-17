@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9092333,
+  "complaint_id": "9092333",
+  "product": "Credit card",
+  "complaint_what_happened": "Since XX/XX/2020 I have been fighting with US Bank ReliaCard my pua which was put on a US Bank ReliaCard was compromise from XX/XX/2020 to XX/XX/2020 for 4 years now I've tried to get my money it was compromised for over {$18000.00} all of the transactions were done over the internet and out of the country they have ruled it not fraudulent but the problem is I called all the vendors and the vendors told me that they had to receive paperwork from US Bank ReliaCard saying that I had filed fraud on the transaction and that they could not reimburse my money because I could double dip and get money from them and US Bank ReliaCard I have written letters I have submitted paperwork I have done everything that I need to do on my end and I am getting absolutely nowhere I just talked to them the other day and they told me someone was supposed to call me back within 3 days no one has called me they have my correct phone number they have my correct address I made sure that I need my money it almost bankrupt me I received pua but I never got to spend any of the money I ordered new cards every time I got a transaction but the problem was the hackers had my routing and my accounting number so getting a new card did not do me any good because my account was still being hacked when I had a new card in the mail will you please help me get my money I really need it the email that is touched to my account is XXXX, the phone number attached to it is XXXX and the address is XXXX XXXX XXXX XXXX Ohio XXXX thank you I hope you can get my money back for me cuz I truly need it",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "45005",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Since XX/XX/2020 I have been fighting with US Bank ReliaCard my pua which was put on a US Bank ReliaCard was compromise from XX/XX/2020 to XX/XX/2020 for 4 years now I've tried to get my money it was compromised for over {$18000.00} all of the transactions were done over the internet and out of the country they have ruled it not fraudulent but the problem is I called all the vendors and the vendors told me that they had to receive paperwork from US Bank ReliaCard saying that I had filed fraud on the transaction and that they could not reimburse my money because I could double dip and get money from them and US Bank ReliaCard I have written letters I have submitted paperwork I have done everything that I need to do on my end and I am getting absolutely nowhere I just talked to them the other day and they told me someone was supposed to call me back within 3 days no one has called me they have my correct phone number they have my correct address I made sure that I need my money it almost bankrupt me I received pua but I never got to spend any of the money I ordered new cards every time I got a transaction but the problem was the hackers had my routing and my accounting number so getting a new card did not do me any good because my account was still being hacked when I had a new card in the mail will you please help me get my money I really need it the email that is touched to my account is XXXX, the phone number attached to it is XXXX and the address is XXXX XXXX XXXX XXXX Ohio XXXX thank you I hope you can get my money back for me cuz I truly need it"
+}
+
+Chunk:
+since xx / xx / 2020 i have been fighting with us bank reliacard my pua which was put on a us bank reliacard was compromise from xx / xx / 2020 to xx / xx / 2020 for 4 years now i've tried to get my money it was compromised for over { $ 18000. 00 } all of the transactions were done over the internet and out of the country they have ruled it not fraudulent but the problem is i called all the vendors and the vendors told me that they had to receive paperwork from us bank reliacard saying that i had filed fraud on the transaction and that they could not reimburse my money because i could double dip and get money from them and us bank reliacard i have written letters i have submitted paperwork i have done everything that i need to do on my end and i am getting absolutely nowhere i just talked to them the other day and they told me someone was supposed to call me back within 3 days no one has called me they have my correct phone number they have my correct address i made sure that i need my money it almost bankrupt me i received pua but i never got to spend any of the money i ordered new cards every time i got a transaction but the problem was the hackers had my routing and my accounting number so getting a new card did not do me any good because my account was still being hacked when i had a new card in the mail will you please help me get my money i really need it the email that is touched to my account is xxxx, the phone number attached to it is xxxx and the address is xxxx xxxx xxxx xxxx ohio xxxx thank you i hope you can get my money back for me cuz i truly need it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978795051574707
+}

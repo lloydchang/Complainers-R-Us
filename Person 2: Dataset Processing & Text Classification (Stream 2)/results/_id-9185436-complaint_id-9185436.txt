@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9185436,
+  "complaint_id": "9185436",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> I file a dispute for charges totaling {$9600.00}. \nThe supplier did not provide the good purchase nor the installation. I tried to resolve the issue with the supplier, the supplier kept changing the date of delivery from XXXX to XXXX, then to XXXX then to XXXX then to XX/XX/XXXX. They never delivered the goods nor installed the item ordered, therefore I contacted Apple Card issue by Goldman Sachs. I have called Apple Card numerous times and they still have not resolved the issue. I am asking them to refund the {$9600.00} for the delivered. The credit card company has the dispute open and has not provided any resolution in almost 2 months.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33127",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/year> I file a dispute for charges totaling {$9600.00}. \nThe supplier did not provide the good purchase nor the installation. I tried to resolve the issue with the supplier, the supplier kept changing the date of delivery from XXXX to XXXX, then to XXXX then to XXXX then to XX/XX/XXXX. They never delivered the goods nor installed the item ordered, therefore I contacted Apple Card issue by Goldman Sachs. I have called Apple Card numerous times and they still have not resolved the issue. I am asking them to refund the {$9600.00} for the delivered. The credit card company has the dispute open and has not provided any resolution in almost 2 months."
+}
+
+Chunk:
+xx / xx / year > i file a dispute for charges totaling { $ 9600. 00 }. the supplier did not provide the good purchase nor the installation. i tried to resolve the issue with the supplier, the supplier kept changing the date of delivery from xxxx to xxxx, then to xxxx then to xxxx then to xx / xx / xxxx. they never delivered the goods nor installed the item ordered, therefore i contacted apple card issue by goldman sachs. i have called apple card numerous times and they still have not resolved the issue. i am asking them to refund the { $ 9600. 00 } for the delivered. the credit card company has the dispute open and has not provided any resolution in almost 2 months.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996914863586426
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9030242,
+  "complaint_id": "9030242",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express continues to rebill a merchant with a fraudulent transaction. The merchant has not delivered product which has been repeatedly shown and keep getting awarded a rebill of funds. This entire transaction is legally in favor of me the card holder. There was a clear quid pro quo ( another illegal action ) that happened and have been within my rights as a consumer in CA. all transactions are under question now as the cc company can not/ will not protect me from fraudulent transactions. They cc company refused to return annual fee once membership and trust had been compromised.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92009",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "American Express continues to rebill a merchant with a fraudulent transaction. The merchant has not delivered product which has been repeatedly shown and keep getting awarded a rebill of funds. This entire transaction is legally in favor of me the card holder. There was a clear quid pro quo ( another illegal action ) that happened and have been within my rights as a consumer in CA. all transactions are under question now as the cc company can not/ will not protect me from fraudulent transactions. They cc company refused to return annual fee once membership and trust had been compromised."
+}
+
+Chunk:
+american express continues to rebill a merchant with a fraudulent transaction. the merchant has not delivered product which has been repeatedly shown and keep getting awarded a rebill of funds. this entire transaction is legally in favor of me the card holder. there was a clear quid pro quo ( another illegal action ) that happened and have been within my rights as a consumer in ca. all transactions are under question now as the cc company can not / will not protect me from fraudulent transactions. they cc company refused to return annual fee once membership and trust had been compromised.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9831002950668335
+}

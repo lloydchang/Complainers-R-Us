@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9007077,
+  "complaint_id": "9007077",
+  "product": "Credit card",
+  "complaint_what_happened": "I consistently make on-time payments. I'm confident about this. What I'm unsure about is why this company is reporting me as late in certain months, which shouldn't happen. According to USC 1666b, any billing errors should be corrected, otherwise, they will owe me {$1000.00} for each account reporting inaccurately.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76209",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I consistently make on-time payments. I'm confident about this. What I'm unsure about is why this company is reporting me as late in certain months, which shouldn't happen. According to USC 1666b, any billing errors should be corrected, otherwise, they will owe me {$1000.00} for each account reporting inaccurately."
+}
+
+Chunk:
+i consistently make on - time payments. i'm confident about this. what i'm unsure about is why this company is reporting me as late in certain months, which shouldn't happen. according to usc 1666b, any billing errors should be corrected, otherwise, they will owe me { $ 1000. 00 } for each account reporting inaccurately.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9830242395401001
+}

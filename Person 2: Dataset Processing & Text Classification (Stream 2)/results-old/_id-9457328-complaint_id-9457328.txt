@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9457328,
+  "complaint_id": "9457328",
+  "product": "Credit card",
+  "complaint_what_happened": "In the beginning of XX/XX/year> I requested a list card replacement that never arrived. After waiting several weeks, I tried to order another replacement. When Citi bot attempted to order another replacement, it encountered technical difficulties and displayed instructions to call customer service. It was in the end of XXXX. \nI contacted Citi customer service on XX/XX/XXXX to close the card, since dealing with their technology seems useless. Unfortunately, they keep giving me runs around telling to call back because of technical difficulties. \nIt looks like Citis technology is not adequate to handle their business volume making me concern about my information there and about the amount of time a consumer needs to spend to service or close their account.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "940XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "In the beginning of XX/XX/year> I requested a list card replacement that never arrived. After waiting several weeks, I tried to order another replacement. When Citi bot attempted to order another replacement, it encountered technical difficulties and displayed instructions to call customer service. It was in the end of XXXX. \nI contacted Citi customer service on XX/XX/XXXX to close the card, since dealing with their technology seems useless. Unfortunately, they keep giving me runs around telling to call back because of technical difficulties. \nIt looks like Citis technology is not adequate to handle their business volume making me concern about my information there and about the amount of time a consumer needs to spend to service or close their account."
+}
+
+Chunk:
+in the beginning of xx / xx / year > i requested a list card replacement that never arrived. after waiting several weeks, i tried to order another replacement. when citi bot attempted to order another replacement, it encountered technical difficulties and displayed instructions to call customer service. it was in the end of xxxx. i contacted citi customer service on xx / xx / xxxx to close the card, since dealing with their technology seems useless. unfortunately, they keep giving me runs around telling to call back because of technical difficulties. it looks like citis technology is not adequate to handle their business volume making me concern about my information there and about the amount of time a consumer needs to spend to service or close their account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996651411056519
+}

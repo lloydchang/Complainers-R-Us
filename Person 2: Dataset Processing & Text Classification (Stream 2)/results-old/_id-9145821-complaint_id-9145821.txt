@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9145821,
+  "complaint_id": "9145821",
+  "product": "Credit card",
+  "complaint_what_happened": "I have two credit cards with Comenity Bank : 1 ) Ballard Design and 2 ) Ulta MasterCard. \n. \nI have been locked out of both online accounts since XX/XX/XXXX which is how I review my charges and submit payments ( timely ). \n\nI have contacted both accounts from the numbers on the back of the credit cards and each time they tell me the same : I need to reset my password ( I've tried and it doesn't allow me to ) ; I need to use a different browser ( done that still doesn't allow me to reset ) ; They tell me they need to reset the system and for me to wait 10 days before trying to log back in to reset ( done that still doesn't allow me to reset or log in ). \n\nI have done all of the above numerous times as requested and to date XX/XX/year> I am still locked out and have payments due on or before XX/XX/year>. \n\nI do know a class action was filed against Comenity a few years back for this very reason they lock consumers out of their online accounts and then charge late fees. \n\nOf course, payments can be submitted by telephone and/or XXXX mail ; however, my accounts are set to paperless billing ; therefore, I don't receive a statement and can not look and see exactly what has been charged to those accounts... not to mention... it's my consumer rights to be able to review my bills. \n\nI have even contacted Ballard Designs storefront and they've tried to assist me with Comenity to no avail. \n\nI also filed a report with the FDIC who recently let me know they were referring this matter to your organization.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "77494",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I have two credit cards with Comenity Bank : 1 ) Ballard Design and 2 ) Ulta MasterCard. \n. \nI have been locked out of both online accounts since XX/XX/XXXX which is how I review my charges and submit payments ( timely ). \n\nI have contacted both accounts from the numbers on the back of the credit cards and each time they tell me the same : I need to reset my password ( I've tried and it doesn't allow me to ) ; I need to use a different browser ( done that still doesn't allow me to reset ) ; They tell me they need to reset the system and for me to wait 10 days before trying to log back in to reset ( done that still doesn't allow me to reset or log in ). \n\nI have done all of the above numerous times as requested and to date XX/XX/year> I am still locked out and have payments due on or before XX/XX/year>. \n\nI do know a class action was filed against Comenity a few years back for this very reason they lock consumers out of their online accounts and then charge late fees. \n\nOf course, payments can be submitted by telephone and/or XXXX mail ; however, my accounts are set to paperless billing ; therefore, I don't receive a statement and can not look and see exactly what has been charged to those accounts... not to mention... it's my consumer rights to be able to review my bills. \n\nI have even contacted Ballard Designs storefront and they've tried to assist me with Comenity to no avail. \n\nI also filed a report with the FDIC who recently let me know they were referring this matter to your organization."
+}
+
+Chunk:
+i have two credit cards with comenity bank : 1 ) ballard design and 2 ) ulta mastercard.. i have been locked out of both online accounts since xx / xx / xxxx which is how i review my charges and submit payments ( timely ). i have contacted both accounts from the numbers on the back of the credit cards and each time they tell me the same : i need to reset my password ( i've tried and it doesn't allow me to ) ; i need to use a different browser ( done that still doesn't allow me to reset ) ; they tell me they need to reset the system and for me to wait 10 days before trying to log back in to reset ( done that still doesn't allow me to reset or log in ). i have done all of the above numerous times as requested and to date xx / xx / year > i am still locked out and have payments due on or before xx / xx / year >. i do know a class action was filed against comenity a few years back for this very reason they lock consumers out of their online accounts and then charge late fees. of course, payments can be submitted by telephone and / or xxxx mail ; however, my accounts are set to paperless billing ; therefore, i don't receive a statement and can not look and see exactly what has been charged to those accounts... not to mention... it's my consumer rights to be able to review my bills. i have even contacted ballard designs storefront and they've tried to assist me with comenity to no avail. i also filed a report with the fdic who recently let me know they were referring this matter to your organization.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988987445831299
+}

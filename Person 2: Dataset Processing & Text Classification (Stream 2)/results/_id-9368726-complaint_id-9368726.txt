@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9368726,
+  "complaint_id": "9368726",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally request the removal of an unauthorized inquiry by Bank of America from my XXXX credit report. This inquiry was conducted without my consent, which is a violation of my rights under the Fair Credit Reporting Act ( FCRA ), specifically under 15 U.S.C. 1681b ( a ) ( 2 ). \n\nDetails of the Unauthorized Inquiry : Company Name : Bank of America Date of Inquiry : XX/XX/year> Credit Reporting Agency : XXXX Legal Basis for the Request : According to 15 U.S.C. 1681b ( a ) ( 2 ), a consumer reporting agency may only furnish a consumer report if it is \" in accordance with the written instructions of the consumer to whom it relates. '' I have not provided any written instructions or consent for Bank of America to conduct a credit inquiry on my XXXX report. This unauthorized inquiry violates my rights under the FCRA.\n\nAdditionally, 15 U.S.C. 1681c ( a ) ( 1 ) mandates that inaccurate or unverifiable information must be removed from a consumer report. Since this inquiry was neither authorized by me nor conducted for a legitimate purpose, it qualifies as erroneous information and should be removed immediately. \n\nImpact of the Unauthorized Inquiry : The unauthorized inquiry by Bank of America has negatively impacted my credit score and overall creditworthiness. It reflects incorrect and misleading information on my credit report, which can hinder my ability to secure credit and other financial services. \n\nRequested Action : I am requesting that the CFPB investigate this unauthorized inquiry and ensure its prompt removal from my XXXX credit report. This action will help correct the inaccuracy on my report and mitigate any further adverse effects on my financial standing.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "73072",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I am writing to formally request the removal of an unauthorized inquiry by Bank of America from my XXXX credit report. This inquiry was conducted without my consent, which is a violation of my rights under the Fair Credit Reporting Act ( FCRA ), specifically under 15 U.S.C. 1681b ( a ) ( 2 ). \n\nDetails of the Unauthorized Inquiry : Company Name : Bank of America Date of Inquiry : XX/XX/year> Credit Reporting Agency : XXXX Legal Basis for the Request : According to 15 U.S.C. 1681b ( a ) ( 2 ), a consumer reporting agency may only furnish a consumer report if it is \" in accordance with the written instructions of the consumer to whom it relates. '' I have not provided any written instructions or consent for Bank of America to conduct a credit inquiry on my XXXX report. This unauthorized inquiry violates my rights under the FCRA.\n\nAdditionally, 15 U.S.C. 1681c ( a ) ( 1 ) mandates that inaccurate or unverifiable information must be removed from a consumer report. Since this inquiry was neither authorized by me nor conducted for a legitimate purpose, it qualifies as erroneous information and should be removed immediately. \n\nImpact of the Unauthorized Inquiry : The unauthorized inquiry by Bank of America has negatively impacted my credit score and overall creditworthiness. It reflects incorrect and misleading information on my credit report, which can hinder my ability to secure credit and other financial services. \n\nRequested Action : I am requesting that the CFPB investigate this unauthorized inquiry and ensure its prompt removal from my XXXX credit report. This action will help correct the inaccuracy on my report and mitigate any further adverse effects on my financial standing."
+}
+
+Chunk:
+i am writing to formally request the removal of an unauthorized inquiry by bank of america from my xxxx credit report. this inquiry was conducted without my consent, which is a violation of my rights under the fair credit reporting act ( fcra ), specifically under 15 u. s. c. 1681b ( a ) ( 2 ). details of the unauthorized inquiry : company name : bank of america date of inquiry : xx / xx / year > credit reporting agency : xxxx legal basis for the request : according to 15 u. s. c. 1681b ( a ) ( 2 ), a consumer reporting agency may only furnish a consumer report if it is " in accordance with the written instructions of the consumer to whom it relates.'' i have not provided any written instructions or consent for bank of america to conduct a credit inquiry on my xxxx report. this unauthorized inquiry violates my rights under the fcra. additionally, 15 u. s. c. 1681c ( a ) ( 1 ) mandates that inaccurate or unverifiable information must be removed from a consumer report. since this inquiry was neither authorized by me nor conducted for a legitimate purpose, it qualifies as erroneous information and should be removed immediately. impact of the unauthorized inquiry : the unauthorized inquiry by bank of america has negatively impacted my credit score and overall creditworthiness. it reflects incorrect and misleading information on my credit report, which can hinder my ability to secure credit and other financial services. requested action : i am requesting that the cfpb investigate this unauthorized inquiry and ensure its prompt removal from my xxxx credit report. this action will help correct the inaccuracy on my report and mitigate any further adverse effects on my financial standing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995386600494385
+}

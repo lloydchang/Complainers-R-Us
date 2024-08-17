@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9238298,
+  "complaint_id": "9238298",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello I applied for Citi Card and I was denied. My Credit is almost excellent and I do not have any derogatory accounts on my report. All of the inquiries on my report are due to me getting approved for a credit card. I called Citi to find out exactly why and one lady hung up on me, the other lady left me on hold for an hour then transferred me to an automated system. The customer service representatives did not want to answer my questions. I ask that my report, which is attached, be reviewed once again. There is no reason why I should be denied for the XXXX XXXX. I have $ XXXX credit limits with low balances and no lates. Is this due to discrimination? not sure why they would deny me. I would like to appeal their decision and get a credit card sent to my address listed.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Hello I applied for Citi Card and I was denied. My Credit is almost excellent and I do not have any derogatory accounts on my report. All of the inquiries on my report are due to me getting approved for a credit card. I called Citi to find out exactly why and one lady hung up on me, the other lady left me on hold for an hour then transferred me to an automated system. The customer service representatives did not want to answer my questions. I ask that my report, which is attached, be reviewed once again. There is no reason why I should be denied for the XXXX XXXX. I have $ XXXX credit limits with low balances and no lates. Is this due to discrimination? not sure why they would deny me. I would like to appeal their decision and get a credit card sent to my address listed."
+}
+
+Chunk:
+hello i applied for citi card and i was denied. my credit is almost excellent and i do not have any derogatory accounts on my report. all of the inquiries on my report are due to me getting approved for a credit card. i called citi to find out exactly why and one lady hung up on me, the other lady left me on hold for an hour then transferred me to an automated system. the customer service representatives did not want to answer my questions. i ask that my report, which is attached, be reviewed once again. there is no reason why i should be denied for the xxxx xxxx. i have $ xxxx credit limits with low balances and no lates. is this due to discrimination? not sure why they would deny me. i would like to appeal their decision and get a credit card sent to my address listed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981074333190918
+}

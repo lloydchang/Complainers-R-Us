@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256336,
+  "complaint_id": "9256336",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX, I signed into XXXX and submitted my payment for {$200.00}. It said the payment was being processed and I entered my email to get a receipt for the payment. I never got this email. \nOn XX/XX/XXXX, I noticed that the payment never went through and called customer service to handle the issue. After doing research into Comenity, I saw many others were having issues with this company, so I wanted to close my card.\n\nAt this point, a late fee had been charged since my payment \" didn't go through '' and I spoke with customer service to remove this late fee. She did, and she helped me make my final payment and close my account. I made a payment of {$200.00} on XX/XX/XXXX and closed my account. Still never received an email for the payment made, or papers in the mail for my account being closed. \nOn XX/XX/XXXX, I received a bill in the mail saying I still owed {$8.00}. I called Comenity customer service, and they said that this is because of the residual interest on my account, ie. interest accrued in between the day of my statement on XX/XX/XXXX and XX/XX/XXXX that does not show up on the account balance. They charged me {$2.00} in interest on XX/XX/XXXX, added another {$3.00} interest and {$2.00} late fee on the statement on XX/XX/XXXX, for a total of {$8.00}. I called Comenity to clear this up again on XX/XX/XXXX and they refused to remove the late fees, or acknowledge their error by misleading me to believe I had paid off my account and closed the account in full on XX/XX/XXXX. They said in order to pay off my account in full, I would need to pay {$10.00} including the residual interest that had accrued since my statement billing, as well as {$9.00} fee for paying through customer service. If I pay online, I can not pay more than {$8.00} since the statement balance does not update until the next billing cycle. Out of frustration, I hung up because these fees are just ridiculous in the first place. \nI called back on XX/XX/XXXX, and was informed that now, since I am 2 days past my due date, I will be charged {$8.00} late fee and whatever additional interest accrues on my account. \nThis company is a scam. I am paying these fees because I want the issue to be done with and never hear from Comenity again. Additionally, this company has caused my credit score to take a hit from these \" late payments '', which is beyond frustrating.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "208XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "In XXXX, I signed into XXXX and submitted my payment for {$200.00}. It said the payment was being processed and I entered my email to get a receipt for the payment. I never got this email. \nOn XX/XX/XXXX, I noticed that the payment never went through and called customer service to handle the issue. After doing research into Comenity, I saw many others were having issues with this company, so I wanted to close my card.\n\nAt this point, a late fee had been charged since my payment \" didn't go through '' and I spoke with customer service to remove this late fee. She did, and she helped me make my final payment and close my account. I made a payment of {$200.00} on XX/XX/XXXX and closed my account. Still never received an email for the payment made, or papers in the mail for my account being closed. \nOn XX/XX/XXXX, I received a bill in the mail saying I still owed {$8.00}. I called Comenity customer service, and they said that this is because of the residual interest on my account, ie. interest accrued in between the day of my statement on XX/XX/XXXX and XX/XX/XXXX that does not show up on the account balance. They charged me {$2.00} in interest on XX/XX/XXXX, added another {$3.00} interest and {$2.00} late fee on the statement on XX/XX/XXXX, for a total of {$8.00}. I called Comenity to clear this up again on XX/XX/XXXX and they refused to remove the late fees, or acknowledge their error by misleading me to believe I had paid off my account and closed the account in full on XX/XX/XXXX. They said in order to pay off my account in full, I would need to pay {$10.00} including the residual interest that had accrued since my statement billing, as well as {$9.00} fee for paying through customer service. If I pay online, I can not pay more than {$8.00} since the statement balance does not update until the next billing cycle. Out of frustration, I hung up because these fees are just ridiculous in the first place. \nI called back on XX/XX/XXXX, and was informed that now, since I am 2 days past my due date, I will be charged {$8.00} late fee and whatever additional interest accrues on my account. \nThis company is a scam. I am paying these fees because I want the issue to be done with and never hear from Comenity again. Additionally, this company has caused my credit score to take a hit from these \" late payments '', which is beyond frustrating."
+}
+
+Chunk:
+my due date, i will be charged { $ 8. 00 } late fee and whatever additional interest accrues on my account. this company is a scam. i am paying these fees because i want the issue to be done with and never hear from comenity again. additionally, this company has caused my credit score to take a hit from these " late payments'', which is beyond frustrating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9944136738777161
+}

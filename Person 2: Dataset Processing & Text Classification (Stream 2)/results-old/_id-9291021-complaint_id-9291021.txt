@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9291021,
+  "complaint_id": "9291021",
+  "product": "Credit card",
+  "complaint_what_happened": "My Citi Bank credit card has a rewards program. I have used this program many times to purchase gift cards with my rewards points. I suddenly have no access to my rewards points. I can log into my Citi Bank card just fine, but when I try to access my rewards points, I can not. I have been on the phone with Citi Bank many times. They try to help me and when they can't, they transfer me to someone else. XXXX  now I have been transferred to someone who goes through the same exact steps as everyone has before and when they realize they are having problems, too, they give me a ticket number and say it will go to the technical issue department. But no one calls me back and when I call they tell they can not see any sign that a ticket has been established. This has gone on for over a month!! I really don't know who to turn to but CFPB. Please help me. This should be a simple problem to resolve - I just want to get into my account! This company is so difficult to contact! It's very, very frustrating the way these companies make it so difficult to resolve a problem. Thanks",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "550XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "My Citi Bank credit card has a rewards program. I have used this program many times to purchase gift cards with my rewards points. I suddenly have no access to my rewards points. I can log into my Citi Bank card just fine, but when I try to access my rewards points, I can not. I have been on the phone with Citi Bank many times. They try to help me and when they can't, they transfer me to someone else. XXXX  now I have been transferred to someone who goes through the same exact steps as everyone has before and when they realize they are having problems, too, they give me a ticket number and say it will go to the technical issue department. But no one calls me back and when I call they tell they can not see any sign that a ticket has been established. This has gone on for over a month!! I really don't know who to turn to but CFPB. Please help me. This should be a simple problem to resolve - I just want to get into my account! This company is so difficult to contact! It's very, very frustrating the way these companies make it so difficult to resolve a problem. Thanks"
+}
+
+Chunk:
+my citi bank credit card has a rewards program. i have used this program many times to purchase gift cards with my rewards points. i suddenly have no access to my rewards points. i can log into my citi bank card just fine, but when i try to access my rewards points, i can not. i have been on the phone with citi bank many times. they try to help me and when they can't, they transfer me to someone else. xxxx now i have been transferred to someone who goes through the same exact steps as everyone has before and when they realize they are having problems, too, they give me a ticket number and say it will go to the technical issue department. but no one calls me back and when i call they tell they can not see any sign that a ticket has been established. this has gone on for over a month!! i really don't know who to turn to but cfpb. please help me. this should be a simple problem to resolve - i just want to get into my account! this company is so difficult to contact! it's very, very frustrating the way these companies make it so difficult to resolve a problem. thanks
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992977380752563
+}

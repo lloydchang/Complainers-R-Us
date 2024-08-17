@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9615747,
+  "complaint_id": "9615747",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX, XXXX  XXXX XXXX, NY XXXX XXXX XXXX Date To : Macys XXXX Inc XXXX XXXX XXXX XXXXXXXX XXXX XXXX, NY XXXX Attn : XXXX XXXX Executive Office Dear XXXX XXXX, My name is XXXX XXXX, and I am writing to address the ongoing issues with my Macys credit account ( Account Number : XXXX ). Despite multiple attempts to resolve these matters over the phone, I have not received the necessary assistance to correct the inaccuracies on my account. \n\nXXXX. Disputed Charge and Lack of Support : I have called Macys customer service many times to dispute a charge of {$31.00} and address other concerns. Each time, the representatives were either unwilling or unable to assist me effectively. Macys should have records of these calls to verify my repeated efforts. \nXXXX. Late Fee : I acknowledge the late fee of {$31.00} charged on XX/XX/year>, and its subsequent credit on XX/XX/year>. However, this does not resolve the main issue of incorrect reporting. \nXXXX Credit Reporting Inaccuracy : My account was reported as 30 days delinquent in XX/XX/year>. I have consistently disputed this information, stating that payments for XXXX and XX/XX/year> were made but not properly applied to my account. \n\nAdditional Impact : Due to this delinquency on my credit report, my auto insurance increased to {$330.00} per month. This has been a significant financial burden. \n\nI request that Macys conduct a comprehensive review, including the phone call records, and correct the inaccuracies on my account. Additionally, I request the removal of the disputed by consumer note from my credit report once the issue is resolved. \n\nAdditionally, I do not want any Macys advertisements sent to my apartment. \n\nI hope to resolve this matter amicably and promptly. Thank you for your attention to this important issue. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-07-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "10701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-25T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX XXXX XXXX XXXX, XXXX  XXXX XXXX, NY XXXX XXXX XXXX Date To : Macys XXXX Inc XXXX XXXX XXXX XXXXXXXX XXXX XXXX, NY XXXX Attn : XXXX XXXX Executive Office Dear XXXX XXXX, My name is XXXX XXXX, and I am writing to address the ongoing issues with my Macys credit account ( Account Number : XXXX ). Despite multiple attempts to resolve these matters over the phone, I have not received the necessary assistance to correct the inaccuracies on my account. \n\nXXXX. Disputed Charge and Lack of Support : I have called Macys customer service many times to dispute a charge of {$31.00} and address other concerns. Each time, the representatives were either unwilling or unable to assist me effectively. Macys should have records of these calls to verify my repeated efforts. \nXXXX. Late Fee : I acknowledge the late fee of {$31.00} charged on XX/XX/year>, and its subsequent credit on XX/XX/year>. However, this does not resolve the main issue of incorrect reporting. \nXXXX Credit Reporting Inaccuracy : My account was reported as 30 days delinquent in XX/XX/year>. I have consistently disputed this information, stating that payments for XXXX and XX/XX/year> were made but not properly applied to my account. \n\nAdditional Impact : Due to this delinquency on my credit report, my auto insurance increased to {$330.00} per month. This has been a significant financial burden. \n\nI request that Macys conduct a comprehensive review, including the phone call records, and correct the inaccuracies on my account. Additionally, I request the removal of the disputed by consumer note from my credit report once the issue is resolved. \n\nAdditionally, I do not want any Macys advertisements sent to my apartment. \n\nI hope to resolve this matter amicably and promptly. Thank you for your attention to this important issue. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx, xxxx xxxx xxxx, ny xxxx xxxx xxxx date to : macys xxxx inc xxxx xxxx xxxx xxxxxxxx xxxx xxxx, ny xxxx attn : xxxx xxxx executive office dear xxxx xxxx, my name is xxxx xxxx, and i am writing to address the ongoing issues with my macys credit account ( account number : xxxx ). despite multiple attempts to resolve these matters over the phone, i have not received the necessary assistance to correct the inaccuracies on my account. xxxx. disputed charge and lack of support : i have called macys customer service many times to dispute a charge of { $ 31. 00 } and address other concerns. each time, the representatives were either unwilling or unable to assist me effectively. macys should have records of these calls to verify my repeated efforts. xxxx. late fee : i acknowledge the late fee of { $ 31. 00 } charged on xx / xx / year >, and its subsequent credit on xx / xx / year >. however, this does not resolve the main issue of incorrect reporting. xxxx credit reporting inaccuracy : my account was reported as 30 days delinquent in xx / xx / year >. i have consistently disputed this information, stating that payments for xxxx and xx / xx / year > were made but not properly applied to my account. additional impact : due to this delinquency on my credit report, my auto insurance increased to { $ 330. 00 } per month. this has been a significant financial burden. i request that macys conduct a comprehensive review, including the phone call records, and correct the inaccuracies on my account. additionally, i request the removal of the disputed by consumer note from my credit report once the issue is resolved. additionally, i do not want any macys advertisements sent to my apartment. i hope to resolve this matter amicably and promptly. thank you for your attention to this important issue. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985373020172119
+}

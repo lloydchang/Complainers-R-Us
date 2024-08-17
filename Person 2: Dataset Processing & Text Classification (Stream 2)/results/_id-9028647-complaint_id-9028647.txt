@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9028647,
+  "complaint_id": "9028647",
+  "product": "Credit card",
+  "complaint_what_happened": "I bought a guitar from a website called XXXX XXXX on XX/XX/2024 for XXXX on my Apple Card. It took about XXXX XXXX weeks to arrive to my house and when it got here, I noticed a few problems that I had with it that may have to be fixed. The input jack that you plug the cable into was very tight and thats an issue because after a while it could strip out the electronics inside of it, and there was no way for me to try bend the prongs back and pickups would either just go in and out or just not work. So I contacted the seller and told him about the issues I was having and he did not once acknowledge the actual issue I was having, but just continue to dodge my questions and my concerns. He was just telling me that this was not the real actual guitar that you would buy, and I knew that going into it, but I was not expecting to get a guitar that was defective and needed a set up and repair before I could even actually play it. But again, he just dodged all my questions when I asked for either a return or a partial refund",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "480XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I bought a guitar from a website called XXXX XXXX on XX/XX/2024 for XXXX on my Apple Card. It took about XXXX XXXX weeks to arrive to my house and when it got here, I noticed a few problems that I had with it that may have to be fixed. The input jack that you plug the cable into was very tight and thats an issue because after a while it could strip out the electronics inside of it, and there was no way for me to try bend the prongs back and pickups would either just go in and out or just not work. So I contacted the seller and told him about the issues I was having and he did not once acknowledge the actual issue I was having, but just continue to dodge my questions and my concerns. He was just telling me that this was not the real actual guitar that you would buy, and I knew that going into it, but I was not expecting to get a guitar that was defective and needed a set up and repair before I could even actually play it. But again, he just dodged all my questions when I asked for either a return or a partial refund"
+}
+
+Chunk:
+i bought a guitar from a website called xxxx xxxx on xx / xx / 2024 for xxxx on my apple card. it took about xxxx xxxx weeks to arrive to my house and when it got here, i noticed a few problems that i had with it that may have to be fixed. the input jack that you plug the cable into was very tight and thats an issue because after a while it could strip out the electronics inside of it, and there was no way for me to try bend the prongs back and pickups would either just go in and out or just not work. so i contacted the seller and told him about the issues i was having and he did not once acknowledge the actual issue i was having, but just continue to dodge my questions and my concerns. he was just telling me that this was not the real actual guitar that you would buy, and i knew that going into it, but i was not expecting to get a guitar that was defective and needed a set up and repair before i could even actually play it. but again, he just dodged all my questions when i asked for either a return or a partial refund
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994737505912781
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9313532,
+  "complaint_id": "9313532",
+  "product": "Credit card",
+  "complaint_what_happened": "I have used the Citi Costco credit card ( acceptable anywhere ) on XX/XX/2024 to pay {$300.00} at XXXX via XXXX. There was no disclosure anywhere in XXXX that fees would be charged for using a credit card, and others said that they were not charged anything extra by their credit cards. Citi slammed my account with a {$15.00} cash advance fee and interest charges. They also showed the transaction pending from XX/XX/XXXX to XX/XX/XXXX, when the statement was issued, so I could not dispute it in between. I called them to dispute it, but the refuse to remove the charges. Its very misleading to consumers. I did not know that cash advance is even an option for the credit card. They should have either denied the transaction or added more prompts, so customers are aware of the extra charges.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75093",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have used the Citi Costco credit card ( acceptable anywhere ) on XX/XX/2024 to pay {$300.00} at XXXX via XXXX. There was no disclosure anywhere in XXXX that fees would be charged for using a credit card, and others said that they were not charged anything extra by their credit cards. Citi slammed my account with a {$15.00} cash advance fee and interest charges. They also showed the transaction pending from XX/XX/XXXX to XX/XX/XXXX, when the statement was issued, so I could not dispute it in between. I called them to dispute it, but the refuse to remove the charges. Its very misleading to consumers. I did not know that cash advance is even an option for the credit card. They should have either denied the transaction or added more prompts, so customers are aware of the extra charges."
+}
+
+Chunk:
+i have used the citi costco credit card ( acceptable anywhere ) on xx / xx / 2024 to pay { $ 300. 00 } at xxxx via xxxx. there was no disclosure anywhere in xxxx that fees would be charged for using a credit card, and others said that they were not charged anything extra by their credit cards. citi slammed my account with a { $ 15. 00 } cash advance fee and interest charges. they also showed the transaction pending from xx / xx / xxxx to xx / xx / xxxx, when the statement was issued, so i could not dispute it in between. i called them to dispute it, but the refuse to remove the charges. its very misleading to consumers. i did not know that cash advance is even an option for the credit card. they should have either denied the transaction or added more prompts, so customers are aware of the extra charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996694326400757
+}

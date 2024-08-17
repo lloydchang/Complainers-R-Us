@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9005180,
+  "complaint_id": "9005180",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express denied my application because of a closed account back in 2009 from a filed bankruptcy. The company was closed no longer exists, My credit score is good.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90041",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "American Express denied my application because of a closed account back in 2009 from a filed bankruptcy. The company was closed no longer exists, My credit score is good."
+}
+
+Chunk:
+american express denied my application because of a closed account back in 2009 from a filed bankruptcy. the company was closed no longer exists, my credit score is good.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9763428568840027
+}

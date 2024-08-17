@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9320717,
+  "complaint_id": "9320717",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email on XX/XX/year> stating there is an account change and I would be paying monthly service fees. I called the number provided in the email and canceled the card immediately. The next day a monthly fee was charged. I waited until the end of the billing period and ultimately paid the fee as to not receive any late penalties. I then called and again closed the card on XX/XX/year> at XXXXXXXX XXXX. I was told the fee would be reversed and the account would be closed. It's not XX/XX/XXXX and neither of those events have occurred. I could call a third time but at this point, I don't think it matters how many times I contact them to close the account.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "454XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Can't close your account",
+  "text": "I received an email on XX/XX/year> stating there is an account change and I would be paying monthly service fees. I called the number provided in the email and canceled the card immediately. The next day a monthly fee was charged. I waited until the end of the billing period and ultimately paid the fee as to not receive any late penalties. I then called and again closed the card on XX/XX/year> at XXXXXXXX XXXX. I was told the fee would be reversed and the account would be closed. It's not XX/XX/XXXX and neither of those events have occurred. I could call a third time but at this point, I don't think it matters how many times I contact them to close the account."
+}
+
+Chunk:
+i received an email on xx / xx / year > stating there is an account change and i would be paying monthly service fees. i called the number provided in the email and canceled the card immediately. the next day a monthly fee was charged. i waited until the end of the billing period and ultimately paid the fee as to not receive any late penalties. i then called and again closed the card on xx / xx / year > at xxxxxxxx xxxx. i was told the fee would be reversed and the account would be closed. it's not xx / xx / xxxx and neither of those events have occurred. i could call a third time but at this point, i don't think it matters how many times i contact them to close the account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994868040084839
+}

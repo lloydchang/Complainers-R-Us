@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9193056,
+  "complaint_id": "9193056",
+  "product": "Credit card",
+  "complaint_what_happened": "I had an old navy credit card issued by Barclay 's bank. \nTo my surprise I saw on my credit card that account is closed and I thought for a while that it might be an error but when it stayed like that for a while I decided to call them and when I asked them about what is reason for closure of my account they said I didn't use my card for a while so they went ahead and closed my account which isn't fair. \nMy account is in good standing, I never missed a payment and have had this card for over 4 years and there was no balance due on card either. \nThey just closed my account because I didn't buy anything from them for a while.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "125XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I had an old navy credit card issued by Barclay 's bank. \nTo my surprise I saw on my credit card that account is closed and I thought for a while that it might be an error but when it stayed like that for a while I decided to call them and when I asked them about what is reason for closure of my account they said I didn't use my card for a while so they went ahead and closed my account which isn't fair. \nMy account is in good standing, I never missed a payment and have had this card for over 4 years and there was no balance due on card either. \nThey just closed my account because I didn't buy anything from them for a while."
+}
+
+Chunk:
+i had an old navy credit card issued by barclay's bank. to my surprise i saw on my credit card that account is closed and i thought for a while that it might be an error but when it stayed like that for a while i decided to call them and when i asked them about what is reason for closure of my account they said i didn't use my card for a while so they went ahead and closed my account which isn't fair. my account is in good standing, i never missed a payment and have had this card for over 4 years and there was no balance due on card either. they just closed my account because i didn't buy anything from them for a while.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9885460734367371
+}

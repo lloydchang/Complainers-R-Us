@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067984,
+  "complaint_id": "9067984",
+  "product": "Credit card",
+  "complaint_what_happened": "Opened a discover credit card to take advantage of an interest free balence transfer of 2 credit cards we had to pay them off. \nWe gave our daughter a card so she could use it if she needed gas or groceries as she was in the middle of a divorce. \nOur first bill arrived with XXXX and XXXX XXXX charges that we never made.Also there were payments on the card that we did not make! We put a freeze on the account on XX/XX/XXXX But Discover stated the freeze was taken off the same day! \nWe reported fraud to Discover and they started to investigate. Discover sent a list of transactions they believed to be fraud and ask if these transactions were ones we disputed and to cross off any that were legitimate. I verified these over the phone at XXXX with discover security agent XXXX in XXXX. She said all these would be taken off my account. \nBut I received a letter from discover XX/XX/year> stated they concluded no fraud. They also stated they are sending me a new account so I can pay over {$23000.00}. to Discover on a credit card that had a {$10000.00} limit! Please help there is no way I can pay this nor should I be forced to since most all of these transactions were fraudulent!",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "640XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Opened a discover credit card to take advantage of an interest free balence transfer of 2 credit cards we had to pay them off. \nWe gave our daughter a card so she could use it if she needed gas or groceries as she was in the middle of a divorce. \nOur first bill arrived with XXXX and XXXX XXXX charges that we never made.Also there were payments on the card that we did not make! We put a freeze on the account on XX/XX/XXXX But Discover stated the freeze was taken off the same day! \nWe reported fraud to Discover and they started to investigate. Discover sent a list of transactions they believed to be fraud and ask if these transactions were ones we disputed and to cross off any that were legitimate. I verified these over the phone at XXXX with discover security agent XXXX in XXXX. She said all these would be taken off my account. \nBut I received a letter from discover XX/XX/year> stated they concluded no fraud. They also stated they are sending me a new account so I can pay over {$23000.00}. to Discover on a credit card that had a {$10000.00} limit! Please help there is no way I can pay this nor should I be forced to since most all of these transactions were fraudulent!"
+}
+
+Chunk:
+opened a discover credit card to take advantage of an interest free balence transfer of 2 credit cards we had to pay them off. we gave our daughter a card so she could use it if she needed gas or groceries as she was in the middle of a divorce. our first bill arrived with xxxx and xxxx xxxx charges that we never made. also there were payments on the card that we did not make! we put a freeze on the account on xx / xx / xxxx but discover stated the freeze was taken off the same day! we reported fraud to discover and they started to investigate. discover sent a list of transactions they believed to be fraud and ask if these transactions were ones we disputed and to cross off any that were legitimate. i verified these over the phone at xxxx with discover security agent xxxx in xxxx. she said all these would be taken off my account. but i received a letter from discover xx / xx / year > stated they concluded no fraud. they also stated they are sending me a new account so i can pay over { $ 23000. 00 }. to discover on a credit card that had a { $ 10000. 00 } limit! please help there is no way i can pay this nor should i be forced to since most all of these transactions were fraudulent!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9958925247192383
+}

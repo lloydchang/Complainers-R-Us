@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156196,
+  "complaint_id": "9156196",
+  "product": "Credit card",
+  "complaint_what_happened": "On Saturday, XX/XX/year>, via online chat with Citi, I requested that Citi stop trying to withdraw a payment of {$420.00} from my credit union. Previously they had attempted one such withdrawal, which failed, and then they charged me a {$30.00} fee. Then they made a second attempt. I requested that they stop and they refused. I asked if it was Citi 's intent to assess me 3 x {$30.00} = {$90.00} in fees. The question was left unanswered.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "809XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "On Saturday, XX/XX/year>, via online chat with Citi, I requested that Citi stop trying to withdraw a payment of {$420.00} from my credit union. Previously they had attempted one such withdrawal, which failed, and then they charged me a {$30.00} fee. Then they made a second attempt. I requested that they stop and they refused. I asked if it was Citi 's intent to assess me 3 x {$30.00} = {$90.00} in fees. The question was left unanswered."
+}
+
+Chunk:
+on saturday, xx / xx / year >, via online chat with citi, i requested that citi stop trying to withdraw a payment of { $ 420. 00 } from my credit union. previously they had attempted one such withdrawal, which failed, and then they charged me a { $ 30. 00 } fee. then they made a second attempt. i requested that they stop and they refused. i asked if it was citi's intent to assess me 3 x { $ 30. 00 } = { $ 90. 00 } in fees. the question was left unanswered.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996110796928406
+}

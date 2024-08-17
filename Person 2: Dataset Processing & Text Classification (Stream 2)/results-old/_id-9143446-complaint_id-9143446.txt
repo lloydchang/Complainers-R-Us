@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143446,
+  "complaint_id": "9143446",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a chase sapphire credit card. I use cash app and XXXX, and do not like connecting my bank account to third party apps. I found out this month that Chase has recently decided to consider XXXX and XXXX XXXX as cash advance even though no cash is involved. \n\nOn a {$1.00} cash app I sent I got a credit card process fee named by XXXX XXXX, then there was a hidden {$10.00} fee from chase Sapphire, and a 29.9 % interest fee that is not mentioned online, but only shown in the end of month statement. \n\nI made several cash app purchases with no notification from the bank that there was a fee. I was then told that the only way to pay off the 29.9 % interest was to zero my credit card balance ( not merely zero the statement balance ). \n\nI was told by chase sapphire that I would have to file a complaint by fax or mail which is a further hindrance to non exploitation. \n\nThe only reason I knew it was a cash advance was because I called Chase Sapphire and asked. \n\nI then went to chase Bank where the tellers told me they think cash app and XXXX were not a cash advance and then I was told by the bank manager, \" XXXX XXXX is not a cash advance ''. When I showed her the feed she told me I didn't know how credit cards work and it was my fault. I asked them to show me in the paperwork I signed where it specified that peer to peer payment services are cash advance and they could not. \n\n\nOnline XXXX returned no results that XXXX  is a cash advance on chase Sapphire or cashapp website, but XXXX and one ny times article said that some credit cards may consider it as such.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70810",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with cash advances",
+  "text": "I have a chase sapphire credit card. I use cash app and XXXX, and do not like connecting my bank account to third party apps. I found out this month that Chase has recently decided to consider XXXX and XXXX XXXX as cash advance even though no cash is involved. \n\nOn a {$1.00} cash app I sent I got a credit card process fee named by XXXX XXXX, then there was a hidden {$10.00} fee from chase Sapphire, and a 29.9 % interest fee that is not mentioned online, but only shown in the end of month statement. \n\nI made several cash app purchases with no notification from the bank that there was a fee. I was then told that the only way to pay off the 29.9 % interest was to zero my credit card balance ( not merely zero the statement balance ). \n\nI was told by chase sapphire that I would have to file a complaint by fax or mail which is a further hindrance to non exploitation. \n\nThe only reason I knew it was a cash advance was because I called Chase Sapphire and asked. \n\nI then went to chase Bank where the tellers told me they think cash app and XXXX were not a cash advance and then I was told by the bank manager, \" XXXX XXXX is not a cash advance ''. When I showed her the feed she told me I didn't know how credit cards work and it was my fault. I asked them to show me in the paperwork I signed where it specified that peer to peer payment services are cash advance and they could not. \n\n\nOnline XXXX returned no results that XXXX  is a cash advance on chase Sapphire or cashapp website, but XXXX and one ny times article said that some credit cards may consider it as such."
+}
+
+Chunk:
+i have a chase sapphire credit card. i use cash app and xxxx, and do not like connecting my bank account to third party apps. i found out this month that chase has recently decided to consider xxxx and xxxx xxxx as cash advance even though no cash is involved. on a { $ 1. 00 } cash app i sent i got a credit card process fee named by xxxx xxxx, then there was a hidden { $ 10. 00 } fee from chase sapphire, and a 29. 9 % interest fee that is not mentioned online, but only shown in the end of month statement. i made several cash app purchases with no notification from the bank that there was a fee. i was then told that the only way to pay off the 29. 9 % interest was to zero my credit card balance ( not merely zero the statement balance ). i was told by chase sapphire that i would have to file a complaint by fax or mail which is a further hindrance to non exploitation. the only reason i knew it was a cash advance was because i called chase sapphire and asked. i then went to chase bank where the tellers told me they think cash app and xxxx were not a cash advance and then i was told by the bank manager, " xxxx xxxx is not a cash advance''. when i showed her the feed she told me i didn't know how credit cards work and it was my fault. i asked them to show me in the paperwork i signed where it specified that peer to peer payment services are cash advance and they could not. online xxxx returned no results that xxxx is a cash advance on chase sapphire or cashapp website, but xxxx and one ny times article said that some credit cards may consider it as such.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993608593940735
+}

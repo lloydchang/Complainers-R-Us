@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9508572,
+  "complaint_id": "9508572",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an Ally Bank credit card. I've tried the last two months to make my payment early and I select the payment date as the date I am making the payment. But everytime I submit my payment the payment date changes to the due date and the payment is not processed until that date. It seems like they are fraudulently holding payments to collect more interst. Typical hold times on other bills I pay is 2 or 3 days Ally will hold my pending payment sometimes over a week.",
+  "date_sent_to_company": "2024-07-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46580",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-07-14T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have an Ally Bank credit card. I've tried the last two months to make my payment early and I select the payment date as the date I am making the payment. But everytime I submit my payment the payment date changes to the due date and the payment is not processed until that date. It seems like they are fraudulently holding payments to collect more interst. Typical hold times on other bills I pay is 2 or 3 days Ally will hold my pending payment sometimes over a week."
+}
+
+Chunk:
+i have an ally bank credit card. i've tried the last two months to make my payment early and i select the payment date as the date i am making the payment. but everytime i submit my payment the payment date changes to the due date and the payment is not processed until that date. it seems like they are fraudulently holding payments to collect more interst. typical hold times on other bills i pay is 2 or 3 days ally will hold my pending payment sometimes over a week.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972745776176453
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9353357,
+  "complaint_id": "9353357",
+  "product": "Credit card",
+  "complaint_what_happened": "Sent multiple letters asking account to be closed. Paid off account before requesting but keep getting charged a monthly maintenance fee. Last request was made on XX/XX/year>, before that sometime in late XXXX or early XXXX. Have received emails asking if I want to close the account to respond YES, which I did to no avail. Even got on the chat line to request that the card be cancelled which didn't work either.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "729XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Can't close your account",
+  "text": "Sent multiple letters asking account to be closed. Paid off account before requesting but keep getting charged a monthly maintenance fee. Last request was made on XX/XX/year>, before that sometime in late XXXX or early XXXX. Have received emails asking if I want to close the account to respond YES, which I did to no avail. Even got on the chat line to request that the card be cancelled which didn't work either."
+}
+
+Chunk:
+sent multiple letters asking account to be closed. paid off account before requesting but keep getting charged a monthly maintenance fee. last request was made on xx / xx / year >, before that sometime in late xxxx or early xxxx. have received emails asking if i want to close the account to respond yes, which i did to no avail. even got on the chat line to request that the card be cancelled which didn't work either.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992276430130005
+}

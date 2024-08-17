@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9010558,
+  "complaint_id": "9010558",
+  "product": "Credit card",
+  "complaint_what_happened": "I just got the final result for complaint XXXX XXXX This company is very good at what they do. I was told ( as I have multiple cards ) that when they verify my ID they will unblock both cards. Well her I am over XXXX months into this and they want me to send them the same exact copy of what I just sent them and they used to verify my before they unblock my other card. I asked them why they couldnt just use the copy they already have ( a company with some intelligence would have just unblocked all cards upon verification ) I could barely understand her response. Just that I had to send it again!!! Is there a law against this absolute stupidity like harassment or something? Just for the record the limit on both cards combined is {$1000.00} so its not like Im trying to ruin them, and the activity on the other one that was suspicious was that it was paid off. I hope something can be done about this kind of treatment to customers. These XXXX cards are destiny cards! I have a total of XXXX cards through XXXX credit but only the destinys are a problem. I really hope these complaints are a bad thing for the company. Im also going to report them to the XXXX  and any other agency I can think of!! Im screwed either way, if I dont send the id theyll close my acct. and its bad on my credit report.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "342XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I just got the final result for complaint XXXX XXXX This company is very good at what they do. I was told ( as I have multiple cards ) that when they verify my ID they will unblock both cards. Well her I am over XXXX months into this and they want me to send them the same exact copy of what I just sent them and they used to verify my before they unblock my other card. I asked them why they couldnt just use the copy they already have ( a company with some intelligence would have just unblocked all cards upon verification ) I could barely understand her response. Just that I had to send it again!!! Is there a law against this absolute stupidity like harassment or something? Just for the record the limit on both cards combined is {$1000.00} so its not like Im trying to ruin them, and the activity on the other one that was suspicious was that it was paid off. I hope something can be done about this kind of treatment to customers. These XXXX cards are destiny cards! I have a total of XXXX cards through XXXX credit but only the destinys are a problem. I really hope these complaints are a bad thing for the company. Im also going to report them to the XXXX  and any other agency I can think of!! Im screwed either way, if I dont send the id theyll close my acct. and its bad on my credit report."
+}
+
+Chunk:
+i just got the final result for complaint xxxx xxxx this company is very good at what they do. i was told ( as i have multiple cards ) that when they verify my id they will unblock both cards. well her i am over xxxx months into this and they want me to send them the same exact copy of what i just sent them and they used to verify my before they unblock my other card. i asked them why they couldnt just use the copy they already have ( a company with some intelligence would have just unblocked all cards upon verification ) i could barely understand her response. just that i had to send it again!!! is there a law against this absolute stupidity like harassment or something? just for the record the limit on both cards combined is { $ 1000. 00 } so its not like im trying to ruin them, and the activity on the other one that was suspicious was that it was paid off. i hope something can be done about this kind of treatment to customers. these xxxx cards are destiny cards! i have a total of xxxx cards through xxxx credit but only the destinys are a problem. i really hope these complaints are a bad thing for the company. im also going to report them to the xxxx and any other agency i can think of!! im screwed either way, if i dont send the id theyll close my acct. and its bad on my credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990814924240112
+}

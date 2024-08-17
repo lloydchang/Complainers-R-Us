@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9569941,
+  "complaint_id": "9569941",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I purchased a service called XXXX XXXX for a monthly fee of {$49.00}. \nI turned auto renewal off. \n\nThe charge : on XX/XX/XXXX, the account was renewed at {$49.00}. The charge I am attempting to dispute is the XX/XX/XXXX charge. The charge went through XXXX XXXX 's payment processor XXXX XXXX XXXX. I attempted to contact both XXXX XXXX  and XXXX. XXXX XXXX  did not respond to communication attempts. XXXX  stated that it was XXXX XXXX 's problem and would not assist despite the charge being to XXXX XXXX XXXX. \n\nThe issue with Citi ( chief complaint ) I started a dispute with Citi around the unauthorized charge. At no point did Citi reach out for comment or accept any documentation about the unauthorized charge. After about 4 weeks, Citi closed the dispute. At no point did Citi ask for any supporting documentation. Citi did not provide a way to appeal the dispute. \n\nI attempted to contact customer support. Customer support said they would not be able to assist me and directed me to their \" fruad department '' at XXXX XXXX XXXX XXXX. However, when attempting to reach out to this number it rings and eventually I get a line disconnected message. \n\nCiti does not appear to be doing their diligence around helping me with an unauthorized charge and is not providing ways for me to be able to contact them for help.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "63304",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX, I purchased a service called XXXX XXXX for a monthly fee of {$49.00}. \nI turned auto renewal off. \n\nThe charge : on XX/XX/XXXX, the account was renewed at {$49.00}. The charge I am attempting to dispute is the XX/XX/XXXX charge. The charge went through XXXX XXXX 's payment processor XXXX XXXX XXXX. I attempted to contact both XXXX XXXX  and XXXX. XXXX XXXX  did not respond to communication attempts. XXXX  stated that it was XXXX XXXX 's problem and would not assist despite the charge being to XXXX XXXX XXXX. \n\nThe issue with Citi ( chief complaint ) I started a dispute with Citi around the unauthorized charge. At no point did Citi reach out for comment or accept any documentation about the unauthorized charge. After about 4 weeks, Citi closed the dispute. At no point did Citi ask for any supporting documentation. Citi did not provide a way to appeal the dispute. \n\nI attempted to contact customer support. Customer support said they would not be able to assist me and directed me to their \" fruad department '' at XXXX XXXX XXXX XXXX. However, when attempting to reach out to this number it rings and eventually I get a line disconnected message. \n\nCiti does not appear to be doing their diligence around helping me with an unauthorized charge and is not providing ways for me to be able to contact them for help."
+}
+
+Chunk:
+on xx / xx / xxxx, i purchased a service called xxxx xxxx for a monthly fee of { $ 49. 00 }. i turned auto renewal off. the charge : on xx / xx / xxxx, the account was renewed at { $ 49. 00 }. the charge i am attempting to dispute is the xx / xx / xxxx charge. the charge went through xxxx xxxx's payment processor xxxx xxxx xxxx. i attempted to contact both xxxx xxxx and xxxx. xxxx xxxx did not respond to communication attempts. xxxx stated that it was xxxx xxxx's problem and would not assist despite the charge being to xxxx xxxx xxxx. the issue with citi ( chief complaint ) i started a dispute with citi around the unauthorized charge. at no point did citi reach out for comment or accept any documentation about the unauthorized charge. after about 4 weeks, citi closed the dispute. at no point did citi ask for any supporting documentation. citi did not provide a way to appeal the dispute. i attempted to contact customer support. customer support said they would not be able to assist me and directed me to their " fruad department'' at xxxx xxxx xxxx xxxx. however, when attempting to reach out to this number it rings and eventually i get a line disconnected message. citi does not appear to be doing their diligence around helping me with an unauthorized charge and is not providing ways for me to be able to contact them for help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999592125415802
+}

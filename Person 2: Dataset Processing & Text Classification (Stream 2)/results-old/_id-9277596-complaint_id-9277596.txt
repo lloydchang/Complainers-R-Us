@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9277596,
+  "complaint_id": "9277596",
+  "product": "Credit card",
+  "complaint_what_happened": "I believe Bank of America is misapplying my credit card payments. I have a few balance transfers at promotional rates of XXXX  %. The purchases balance rate is at a higher XXXX %. \nIn the \" how we allocate payments '' section of my bill it states - \" Payments are allocated to posted balances. If your account has balances with different APRs, we will allocate the amount of your payments equal to your total minimum payment due to the lowest APR balances first ( including transactions made after this statement ) Payment Amounts in excess of your Total Minimum Payment Due will be applied to balances with higher aprs before balances with lower APRs. '' I believe that they have not been doing this and have been charging me interest on the higher balances as they have not been cleared off even though I have overpaid the amount that I can best calculate is remaining. \n\nThere billing statement has a confusing and inaccurate summary on the bottom which further makes it difficult to see exactly what they are doing.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "060XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I believe Bank of America is misapplying my credit card payments. I have a few balance transfers at promotional rates of XXXX  %. The purchases balance rate is at a higher XXXX %. \nIn the \" how we allocate payments '' section of my bill it states - \" Payments are allocated to posted balances. If your account has balances with different APRs, we will allocate the amount of your payments equal to your total minimum payment due to the lowest APR balances first ( including transactions made after this statement ) Payment Amounts in excess of your Total Minimum Payment Due will be applied to balances with higher aprs before balances with lower APRs. '' I believe that they have not been doing this and have been charging me interest on the higher balances as they have not been cleared off even though I have overpaid the amount that I can best calculate is remaining. \n\nThere billing statement has a confusing and inaccurate summary on the bottom which further makes it difficult to see exactly what they are doing."
+}
+
+Chunk:
+i believe bank of america is misapplying my credit card payments. i have a few balance transfers at promotional rates of xxxx %. the purchases balance rate is at a higher xxxx %. in the " how we allocate payments'' section of my bill it states - " payments are allocated to posted balances. if your account has balances with different aprs, we will allocate the amount of your payments equal to your total minimum payment due to the lowest apr balances first ( including transactions made after this statement ) payment amounts in excess of your total minimum payment due will be applied to balances with higher aprs before balances with lower aprs.'' i believe that they have not been doing this and have been charging me interest on the higher balances as they have not been cleared off even though i have overpaid the amount that i can best calculate is remaining. there billing statement has a confusing and inaccurate summary on the bottom which further makes it difficult to see exactly what they are doing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994244575500488
+}

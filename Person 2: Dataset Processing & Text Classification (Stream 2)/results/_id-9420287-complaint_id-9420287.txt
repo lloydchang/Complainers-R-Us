@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9420287,
+  "complaint_id": "9420287",
+  "product": "Credit card",
+  "complaint_what_happened": "\" I discovered I was charged an annual membership fee of {$99.00} when I checked my XXXX statement. \n\nThis is for a Citi XXXX XXXX  credit card that I haven't used since XX/XX/XXXX. I called them to ask for a refund since I haven't been using the card and to cancel this card. \n\nThe XXXX operator was friendly and let me know that I could reverse the fee up to XXXX  days after it was charged. The fee was charged on XX/XX/XXXX and paid on XX/XX/XXXX. \n\nThe XXXX operator refused to reverse the charge. Instead they kept telling me the benefits of the card and telling me to keep it so I could get the value that I paid for. \n\nThis feels predatory. I'm being charged for something I clearly don't use and don't want to have. Instead of helping me they tried to convince me to keep it which is what got me into this mess when I didn't cancel after paying last year. ''",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80219",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "\" I discovered I was charged an annual membership fee of {$99.00} when I checked my XXXX statement. \n\nThis is for a Citi XXXX XXXX  credit card that I haven't used since XX/XX/XXXX. I called them to ask for a refund since I haven't been using the card and to cancel this card. \n\nThe XXXX operator was friendly and let me know that I could reverse the fee up to XXXX  days after it was charged. The fee was charged on XX/XX/XXXX and paid on XX/XX/XXXX. \n\nThe XXXX operator refused to reverse the charge. Instead they kept telling me the benefits of the card and telling me to keep it so I could get the value that I paid for. \n\nThis feels predatory. I'm being charged for something I clearly don't use and don't want to have. Instead of helping me they tried to convince me to keep it which is what got me into this mess when I didn't cancel after paying last year. ''"
+}
+
+Chunk:
+" i discovered i was charged an annual membership fee of { $ 99. 00 } when i checked my xxxx statement. this is for a citi xxxx xxxx credit card that i haven't used since xx / xx / xxxx. i called them to ask for a refund since i haven't been using the card and to cancel this card. the xxxx operator was friendly and let me know that i could reverse the fee up to xxxx days after it was charged. the fee was charged on xx / xx / xxxx and paid on xx / xx / xxxx. the xxxx operator refused to reverse the charge. instead they kept telling me the benefits of the card and telling me to keep it so i could get the value that i paid for. this feels predatory. i'm being charged for something i clearly don't use and don't want to have. instead of helping me they tried to convince me to keep it which is what got me into this mess when i didn't cancel after paying last year.''
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991346001625061
+}

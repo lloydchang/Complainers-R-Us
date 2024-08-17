@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9417437,
+  "complaint_id": "9417437",
+  "product": "Credit card",
+  "complaint_what_happened": "We signed up for a synchrony / care credit account in which we had 0 % interest for a certain period of time. In addition, they sent an email ( after the fact ) that they were going to start charging {$1.00} per month for mailing out statements. This was not part of the original agreement and Synchrony is changing the terms after the fact. The company is attempting to do a money grab, on top of the 30 % + interest for any payments not received on time or after the 0 % grace period is up. \n\nIt comes down to greed and unjust business practices. Synchrony needs to adjust their policy or face legal challenges.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "KS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "We signed up for a synchrony / care credit account in which we had 0 % interest for a certain period of time. In addition, they sent an email ( after the fact ) that they were going to start charging {$1.00} per month for mailing out statements. This was not part of the original agreement and Synchrony is changing the terms after the fact. The company is attempting to do a money grab, on top of the 30 % + interest for any payments not received on time or after the 0 % grace period is up. \n\nIt comes down to greed and unjust business practices. Synchrony needs to adjust their policy or face legal challenges."
+}
+
+Chunk:
+we signed up for a synchrony / care credit account in which we had 0 % interest for a certain period of time. in addition, they sent an email ( after the fact ) that they were going to start charging { $ 1. 00 } per month for mailing out statements. this was not part of the original agreement and synchrony is changing the terms after the fact. the company is attempting to do a money grab, on top of the 30 % + interest for any payments not received on time or after the 0 % grace period is up. it comes down to greed and unjust business practices. synchrony needs to adjust their policy or face legal challenges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989005327224731
+}

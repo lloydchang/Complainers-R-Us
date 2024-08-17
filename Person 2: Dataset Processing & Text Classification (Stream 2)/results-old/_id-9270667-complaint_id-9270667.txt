@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270667,
+  "complaint_id": "9270667",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I went to the Bank of America website to update the bank account from which my autopayments are withdrawn. I added the new bank account, and deleted the old bank account, and verified my new bank account. The website said I was good to go. \n\nA couple of weeks later I happened to notice that the autopay did not go through, even though the new account showed as \" verified. '' I called customer service. They said that \" sometimes '' autopay gets turned off when changing outside banks, but not always. It took close to half an hour, with the agent on the phone, to figure out how to turn autopay back on. During this same call, I also went ahead and electronically paid the total balance due - but the system wouldn't let me make payment by the due date. The customer service person said they could not pro-actively remove any late fees or interest. \n\nA few days later, interest charges and a late fee of {$25.00} were applied to my account. I called again, and BofA then reversed the charges. This agent said that changing outside banks \" always '' reverses the autopay enrollment, and that it can take up to XXXX days for the new bank to be confirmed. \n\nThe problem is that there is a lack of transparency about this on the website. If changing payment accounts \" always '' triggers a need to re-enroll in XXXX, the website should clearly state that, and then make the re-enrollment process easy. Neither of these was true. By not having the \" change bank '' steps clearly outlined BofA is able to collect a bunch of extra fees and interest charges. It seems fraudulent - don't provide all the information, make something difficult, and then collect fees. \n\nIn my case, I had an extra hour to make XXXX calls to customer service to get the refund. But I'd bet many people don't have the thought to do that, or just don't bother. It seems wrong.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "972XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "In XX/XX/year>, I went to the Bank of America website to update the bank account from which my autopayments are withdrawn. I added the new bank account, and deleted the old bank account, and verified my new bank account. The website said I was good to go. \n\nA couple of weeks later I happened to notice that the autopay did not go through, even though the new account showed as \" verified. '' I called customer service. They said that \" sometimes '' autopay gets turned off when changing outside banks, but not always. It took close to half an hour, with the agent on the phone, to figure out how to turn autopay back on. During this same call, I also went ahead and electronically paid the total balance due - but the system wouldn't let me make payment by the due date. The customer service person said they could not pro-actively remove any late fees or interest. \n\nA few days later, interest charges and a late fee of {$25.00} were applied to my account. I called again, and BofA then reversed the charges. This agent said that changing outside banks \" always '' reverses the autopay enrollment, and that it can take up to XXXX days for the new bank to be confirmed. \n\nThe problem is that there is a lack of transparency about this on the website. If changing payment accounts \" always '' triggers a need to re-enroll in XXXX, the website should clearly state that, and then make the re-enrollment process easy. Neither of these was true. By not having the \" change bank '' steps clearly outlined BofA is able to collect a bunch of extra fees and interest charges. It seems fraudulent - don't provide all the information, make something difficult, and then collect fees. \n\nIn my case, I had an extra hour to make XXXX calls to customer service to get the refund. But I'd bet many people don't have the thought to do that, or just don't bother. It seems wrong."
+}
+
+Chunk:
+in xx / xx / year >, i went to the bank of america website to update the bank account from which my autopayments are withdrawn. i added the new bank account, and deleted the old bank account, and verified my new bank account. the website said i was good to go. a couple of weeks later i happened to notice that the autopay did not go through, even though the new account showed as " verified.'' i called customer service. they said that " sometimes'' autopay gets turned off when changing outside banks, but not always. it took close to half an hour, with the agent on the phone, to figure out how to turn autopay back on. during this same call, i also went ahead and electronically paid the total balance due - but the system wouldn't let me make payment by the due date. the customer service person said they could not pro - actively remove any late fees or interest. a few days later, interest charges and a late fee of { $ 25. 00 } were applied to my account. i called again, and bofa then reversed the charges. this agent said that changing outside banks " always'' reverses the autopay enrollment, and that it can take up to xxxx days for the new bank to be confirmed. the problem is that there is a lack of transparency about this on the website. if changing payment accounts " always'' triggers a need to re - enroll in xxxx, the website should clearly state that, and then make the re - enrollment process easy. neither of these was true. by not having the " change bank'' steps clearly outlined bofa is able to collect a bunch of extra fees and interest charges. it seems fraudulent - don't provide all the information, make something difficult, and then collect fees. in my case, i had an extra hour to make xxxx calls to customer service to get the refund. but i'd bet many people don't have the thought to do that, or just don't bother. it seems wrong.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994446635246277
+}

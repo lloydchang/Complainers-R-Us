@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9574393,
+  "complaint_id": "9574393",
+  "product": "Credit card",
+  "complaint_what_happened": "I went to my online credit card account for Citibank Costco Visa on XX/XX/XXXX. My last month 's Statement Balance was several days Past Due. When I got to the menu item to select the Amount to Pay Citi clearly showed that the Past Due Amount was nearly {$1000.00}. Also the Current Balance amount was show as the same amount, nearly {$1000.00}. The third choice was to pay a \" Custom Amount ''. This was very disturbing to me because I had my Paper Bill which indicated that the now Past Due Amount was just over {$400.00}. In the past this has been a very routine task. I knew the Past Due Amount was less than HALF of what Citi was requiring. So I selected Custom Amount and entered the total of my last Statement Balance, Upon reflection, I realized that this online glitch ( or tactic ) was possibly causing millions of Citi Visa Customers to PAY THE CURRENT ACCOUNT BALANCE AS IF IT WERE PAST DUE... .when the new Current Statement Balance is not due for another 30 Days or so. In effect, Citi Bank Visa was TRICKING it's customers into making credit card payments that were NOT YET DUE. \nI then called Citi Bank Customer Service and spoke with a Representative who claimed no knowledge of this practice. She offered to let me speak to her Supervisor ( named XXXX ) who also claimed ignorance. \nThe pending Late Fee was accurate and proper. However, as compensation for the improper bank conduct, I asked that the Late Fee be removed and XXXX refused. I then asked that he have someone at Citi Bank who is aware of the problem to call me.",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92647",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I went to my online credit card account for Citibank Costco Visa on XX/XX/XXXX. My last month 's Statement Balance was several days Past Due. When I got to the menu item to select the Amount to Pay Citi clearly showed that the Past Due Amount was nearly {$1000.00}. Also the Current Balance amount was show as the same amount, nearly {$1000.00}. The third choice was to pay a \" Custom Amount ''. This was very disturbing to me because I had my Paper Bill which indicated that the now Past Due Amount was just over {$400.00}. In the past this has been a very routine task. I knew the Past Due Amount was less than HALF of what Citi was requiring. So I selected Custom Amount and entered the total of my last Statement Balance, Upon reflection, I realized that this online glitch ( or tactic ) was possibly causing millions of Citi Visa Customers to PAY THE CURRENT ACCOUNT BALANCE AS IF IT WERE PAST DUE... .when the new Current Statement Balance is not due for another 30 Days or so. In effect, Citi Bank Visa was TRICKING it's customers into making credit card payments that were NOT YET DUE. \nI then called Citi Bank Customer Service and spoke with a Representative who claimed no knowledge of this practice. She offered to let me speak to her Supervisor ( named XXXX ) who also claimed ignorance. \nThe pending Late Fee was accurate and proper. However, as compensation for the improper bank conduct, I asked that the Late Fee be removed and XXXX refused. I then asked that he have someone at Citi Bank who is aware of the problem to call me."
+}
+
+Chunk:
+i went to my online credit card account for citibank costco visa on xx / xx / xxxx. my last month's statement balance was several days past due. when i got to the menu item to select the amount to pay citi clearly showed that the past due amount was nearly { $ 1000. 00 }. also the current balance amount was show as the same amount, nearly { $ 1000. 00 }. the third choice was to pay a " custom amount''. this was very disturbing to me because i had my paper bill which indicated that the now past due amount was just over { $ 400. 00 }. in the past this has been a very routine task. i knew the past due amount was less than half of what citi was requiring. so i selected custom amount and entered the total of my last statement balance, upon reflection, i realized that this online glitch ( or tactic ) was possibly causing millions of citi visa customers to pay the current account balance as if it were past due.... when the new current statement balance is not due for another 30 days or so. in effect, citi bank visa was tricking it's customers into making credit card payments that were not yet due. i then called citi bank customer service and spoke with a representative who claimed no knowledge of this practice. she offered to let me speak to her supervisor ( named xxxx ) who also claimed ignorance. the pending late fee was accurate and proper. however, as compensation for the improper bank conduct, i asked that the late fee be removed and xxxx refused. i then asked that he have someone at citi bank who is aware of the problem to call me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994151592254639
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9222776,
+  "complaint_id": "9222776",
+  "product": "Credit card",
+  "complaint_what_happened": "One XX/XX/year>, I contacted American Express about a late payment. I had a payment due for one of my cards on XX/XX/year>. I had forgotten to pay, but I have had 100 % perfect payment history for about 3 years. \n\nAmex initially told me they could not wave the fee, and they had no power to do so. I asked for a supervisor, and they waved it. I think it's unfair that they can charge a fee, and then be dishonest about not being able to take it back.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55410",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "One XX/XX/year>, I contacted American Express about a late payment. I had a payment due for one of my cards on XX/XX/year>. I had forgotten to pay, but I have had 100 % perfect payment history for about 3 years. \n\nAmex initially told me they could not wave the fee, and they had no power to do so. I asked for a supervisor, and they waved it. I think it's unfair that they can charge a fee, and then be dishonest about not being able to take it back."
+}
+
+Chunk:
+one xx / xx / year >, i contacted american express about a late payment. i had a payment due for one of my cards on xx / xx / year >. i had forgotten to pay, but i have had 100 % perfect payment history for about 3 years. amex initially told me they could not wave the fee, and they had no power to do so. i asked for a supervisor, and they waved it. i think it's unfair that they can charge a fee, and then be dishonest about not being able to take it back.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981153011322021
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9611556,
+  "complaint_id": "9611556",
+  "product": "Credit card",
+  "complaint_what_happened": "I had the T.J.MAXX rewards card for about 2 months and paid off in full every statement until one day I noticed my account was closed. I called them and inquired why it was closed and they said they close accounts that carry a balance if they dont receive payment within 23 days of each cycle or something and I never knew about that. I was told they closed my account because of t was past due- but I made XXXX separate payments this month? Mind you, I owed under {$300.00}. It was my first time being late and I was a day maybe two late with this card and didnt even know I was late and my payment was dishonored because they took a multiple days to finally receive the payment and I had insufficient funds. Surprise, I have other bills. I told them Ive never been late and I owed under {$300.00} at the time and was still able to make the payment even before I called them and brought my balance down to almost {$100.00}. And since that day in XXXX, Ive been getting multiple phone calls, text messages and emails per day and from 4 different numbers with automated voicemails. It seems to be a little unethical. It completely ruined my credit and payment history. Which was XXXX XXXX until that time.",
+  "date_sent_to_company": "2024-07-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "55427",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I had the T.J.MAXX rewards card for about 2 months and paid off in full every statement until one day I noticed my account was closed. I called them and inquired why it was closed and they said they close accounts that carry a balance if they dont receive payment within 23 days of each cycle or something and I never knew about that. I was told they closed my account because of t was past due- but I made XXXX separate payments this month? Mind you, I owed under {$300.00}. It was my first time being late and I was a day maybe two late with this card and didnt even know I was late and my payment was dishonored because they took a multiple days to finally receive the payment and I had insufficient funds. Surprise, I have other bills. I told them Ive never been late and I owed under {$300.00} at the time and was still able to make the payment even before I called them and brought my balance down to almost {$100.00}. And since that day in XXXX, Ive been getting multiple phone calls, text messages and emails per day and from 4 different numbers with automated voicemails. It seems to be a little unethical. It completely ruined my credit and payment history. Which was XXXX XXXX until that time."
+}
+
+Chunk:
+i had the t. j. maxx rewards card for about 2 months and paid off in full every statement until one day i noticed my account was closed. i called them and inquired why it was closed and they said they close accounts that carry a balance if they dont receive payment within 23 days of each cycle or something and i never knew about that. i was told they closed my account because of t was past due - but i made xxxx separate payments this month? mind you, i owed under { $ 300. 00 }. it was my first time being late and i was a day maybe two late with this card and didnt even know i was late and my payment was dishonored because they took a multiple days to finally receive the payment and i had insufficient funds. surprise, i have other bills. i told them ive never been late and i owed under { $ 300. 00 } at the time and was still able to make the payment even before i called them and brought my balance down to almost { $ 100. 00 }. and since that day in xxxx, ive been getting multiple phone calls, text messages and emails per day and from 4 different numbers with automated voicemails. it seems to be a little unethical. it completely ruined my credit and payment history. which was xxxx xxxx until that time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996106028556824
+}

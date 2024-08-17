@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125948,
+  "complaint_id": "9125948",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> a purchase alert came to me by the message : \" Synchrony Alerts {$54.00} card not present transaction exceeds {$50.00} at AMAZON XXXX on your Prime Store Card ( Synchrony Bank ) ending ****. '' We called the number on the card to report a fraudulent purchase and close the card. They launched an investigation and didn't respond back with the results, instead sending me the {$54.00} bill without additional information. In addition, they opened a new account without my consent, putting said bill on the new account. Despite reporting the fraudulent purchase right after receiving a notification for a purchase, they still required me to pay {$54.00} on a card that stated {$0.00} fraud liability. When calling to question why I was charged even after reporting a fraudulent purchase, they simply sent out the investigation report that stated quote : \" You have accepted responsibility for the charges. '' Even though I didn't. When calling Fraud Investigation Team Manager, they refused to explain what kind of investigation was made and didn't do their job in resolving the problem, simply stating \" You have to pay this '' with no further help. There was a recent data breach with my network provider, which was followed by this situation. In my amazon purchase history there is no order stating what was even purchased, leaving me even more confused. The report claimed that the order was shipped to my location, despite me not receiving any packages or items. How is the shipment of the items possible if I called to cancel this fraudulent purchase?",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "95835",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/year> a purchase alert came to me by the message : \" Synchrony Alerts {$54.00} card not present transaction exceeds {$50.00} at AMAZON XXXX on your Prime Store Card ( Synchrony Bank ) ending ****. '' We called the number on the card to report a fraudulent purchase and close the card. They launched an investigation and didn't respond back with the results, instead sending me the {$54.00} bill without additional information. In addition, they opened a new account without my consent, putting said bill on the new account. Despite reporting the fraudulent purchase right after receiving a notification for a purchase, they still required me to pay {$54.00} on a card that stated {$0.00} fraud liability. When calling to question why I was charged even after reporting a fraudulent purchase, they simply sent out the investigation report that stated quote : \" You have accepted responsibility for the charges. '' Even though I didn't. When calling Fraud Investigation Team Manager, they refused to explain what kind of investigation was made and didn't do their job in resolving the problem, simply stating \" You have to pay this '' with no further help. There was a recent data breach with my network provider, which was followed by this situation. In my amazon purchase history there is no order stating what was even purchased, leaving me even more confused. The report claimed that the order was shipped to my location, despite me not receiving any packages or items. How is the shipment of the items possible if I called to cancel this fraudulent purchase?"
+}
+
+Chunk:
+on xx / xx / year > a purchase alert came to me by the message : " synchrony alerts { $ 54. 00 } card not present transaction exceeds { $ 50. 00 } at amazon xxxx on your prime store card ( synchrony bank ) ending * * * *.'' we called the number on the card to report a fraudulent purchase and close the card. they launched an investigation and didn't respond back with the results, instead sending me the { $ 54. 00 } bill without additional information. in addition, they opened a new account without my consent, putting said bill on the new account. despite reporting the fraudulent purchase right after receiving a notification for a purchase, they still required me to pay { $ 54. 00 } on a card that stated { $ 0. 00 } fraud liability. when calling to question why i was charged even after reporting a fraudulent purchase, they simply sent out the investigation report that stated quote : " you have accepted responsibility for the charges.'' even though i didn't. when calling fraud investigation team manager, they refused to explain what kind of investigation was made and didn't do their job in resolving the problem, simply stating " you have to pay this'' with no further help. there was a recent data breach with my network provider, which was followed by this situation. in my amazon purchase history there is no order stating what was even purchased, leaving me even more confused. the report claimed that the order was shipped to my location, despite me not receiving any packages or items. how is the shipment of the items possible if i called to cancel this fraudulent purchase?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994989633560181
+}

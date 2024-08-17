@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9180270,
+  "complaint_id": "9180270",
+  "product": "Credit card",
+  "complaint_what_happened": "Transaction date XXXX for the amount of {$630.00}. at XXXX XXXX XXXX Transaction date XXXX for the amount of {$110.00} at XXXX XXXX XXXX XXXX. The credit cards used where in my possession when these transaction took place with out my consent.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "780XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Transaction date XXXX for the amount of {$630.00}. at XXXX XXXX XXXX Transaction date XXXX for the amount of {$110.00} at XXXX XXXX XXXX XXXX. The credit cards used where in my possession when these transaction took place with out my consent."
+}
+
+Chunk:
+transaction date xxxx for the amount of { $ 630. 00 }. at xxxx xxxx xxxx transaction date xxxx for the amount of { $ 110. 00 } at xxxx xxxx xxxx xxxx. the credit cards used where in my possession when these transaction took place with out my consent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.986146867275238
+}

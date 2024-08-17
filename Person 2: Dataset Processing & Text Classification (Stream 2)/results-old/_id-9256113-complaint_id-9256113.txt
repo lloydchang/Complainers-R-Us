@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256113,
+  "complaint_id": "9256113",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year> I was having a conversation with a coordinator at XXXX XXXX. We were having a talk about 4 different XXXX procedures so that I can decide the best one. We were only in the conversation stages. We never picked a XXXX, a surgeon, or a date/ time for XXXX. She stated I should apply for financing. I put my information on the form and she altered it to say I made over {$100000.00} which is fraud. Tell XXXX, or Comenity to show my income reported when the account was opened I promise it won't reflect what I filled out on the form. She stated she was only applying for the card and wouldn't charge it. How can I be responsible for a non- refundable deposit of {$1000.00} when I never picked a XXXX, surgeon, date, or time.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "200XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XX/XX/year> I was having a conversation with a coordinator at XXXX XXXX. We were having a talk about 4 different XXXX procedures so that I can decide the best one. We were only in the conversation stages. We never picked a XXXX, a surgeon, or a date/ time for XXXX. She stated I should apply for financing. I put my information on the form and she altered it to say I made over {$100000.00} which is fraud. Tell XXXX, or Comenity to show my income reported when the account was opened I promise it won't reflect what I filled out on the form. She stated she was only applying for the card and wouldn't charge it. How can I be responsible for a non- refundable deposit of {$1000.00} when I never picked a XXXX, surgeon, date, or time."
+}
+
+Chunk:
+in xx / xx / year > i was having a conversation with a coordinator at xxxx xxxx. we were having a talk about 4 different xxxx procedures so that i can decide the best one. we were only in the conversation stages. we never picked a xxxx, a surgeon, or a date / time for xxxx. she stated i should apply for financing. i put my information on the form and she altered it to say i made over { $ 100000. 00 } which is fraud. tell xxxx, or comenity to show my income reported when the account was opened i promise it won't reflect what i filled out on the form. she stated she was only applying for the card and wouldn't charge it. how can i be responsible for a non - refundable deposit of { $ 1000. 00 } when i never picked a xxxx, surgeon, date, or time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995535016059875
+}

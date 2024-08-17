@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9254530,
+  "complaint_id": "9254530",
+  "product": "Credit card",
+  "complaint_what_happened": "I attempted make a payment to Citi Bank credit card several times on XX/XX/year>, which was the due date. Unfortunately, I was unable to access their website to make payment on XX/XX/XXXX. I have a screen capture on my phone that I hope would show that I was not able to access their site. \n\nHowever, I was able to access their website on XX/XX/XXXX, and I paid the full outstanding balance as I do each month. \n\nAfter learning of the charge, I contacted Citi Bank to request that the late payment fee and interest be removed. They refused to remove the fee and interest. I believe Citi Bank purposely prevented me from gaining access to their site to complete the payment.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "39110",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I attempted make a payment to Citi Bank credit card several times on XX/XX/year>, which was the due date. Unfortunately, I was unable to access their website to make payment on XX/XX/XXXX. I have a screen capture on my phone that I hope would show that I was not able to access their site. \n\nHowever, I was able to access their website on XX/XX/XXXX, and I paid the full outstanding balance as I do each month. \n\nAfter learning of the charge, I contacted Citi Bank to request that the late payment fee and interest be removed. They refused to remove the fee and interest. I believe Citi Bank purposely prevented me from gaining access to their site to complete the payment."
+}
+
+Chunk:
+i attempted make a payment to citi bank credit card several times on xx / xx / year >, which was the due date. unfortunately, i was unable to access their website to make payment on xx / xx / xxxx. i have a screen capture on my phone that i hope would show that i was not able to access their site. however, i was able to access their website on xx / xx / xxxx, and i paid the full outstanding balance as i do each month. after learning of the charge, i contacted citi bank to request that the late payment fee and interest be removed. they refused to remove the fee and interest. i believe citi bank purposely prevented me from gaining access to their site to complete the payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992081522941589
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9301593,
+  "complaint_id": "9301593",
+  "product": "Credit card",
+  "complaint_what_happened": "Elan took an automatic payment after I had already made a payment. The account has never been on automatic pay since i got it XXXX  years ago. \n\nI have requested the 2nd payment be reversed and credited back to my checking account THREE times.\n\nThis is causing me extreme financial hardship as I was unable to satisfy other monthly obligations without these funds.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92040",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Elan took an automatic payment after I had already made a payment. The account has never been on automatic pay since i got it XXXX  years ago. \n\nI have requested the 2nd payment be reversed and credited back to my checking account THREE times.\n\nThis is causing me extreme financial hardship as I was unable to satisfy other monthly obligations without these funds."
+}
+
+Chunk:
+elan took an automatic payment after i had already made a payment. the account has never been on automatic pay since i got it xxxx years ago. i have requested the 2nd payment be reversed and credited back to my checking account three times. this is causing me extreme financial hardship as i was unable to satisfy other monthly obligations without these funds.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996267557144165
+}

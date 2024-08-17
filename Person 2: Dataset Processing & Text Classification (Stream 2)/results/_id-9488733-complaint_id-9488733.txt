@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9488733,
+  "complaint_id": "9488733",
+  "product": "Credit card",
+  "complaint_what_happened": "I called in XXXX to close the account then in XXXX they took money from my checking account. I called them. Told them I closed the account in XXXX upon further looking she saw I requested a statement showing I had a XXXX balance and I wished to close the account. She would close the account. I asked that my {$10.00} be returned. The money was returned now they say XXXX behind and charged me I late fee. I want this problem fixed. I called back and the lady said XXXX hours but every day I get a text from them I owe them {$38.00}. \nThe last XXXX number are XXXX. \nI wish this problem be fixed and no late charge on an account that is closed. \nThank You XXXX XXXX",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I called in XXXX to close the account then in XXXX they took money from my checking account. I called them. Told them I closed the account in XXXX upon further looking she saw I requested a statement showing I had a XXXX balance and I wished to close the account. She would close the account. I asked that my {$10.00} be returned. The money was returned now they say XXXX behind and charged me I late fee. I want this problem fixed. I called back and the lady said XXXX hours but every day I get a text from them I owe them {$38.00}. \nThe last XXXX number are XXXX. \nI wish this problem be fixed and no late charge on an account that is closed. \nThank You XXXX XXXX"
+}
+
+Chunk:
+i called in xxxx to close the account then in xxxx they took money from my checking account. i called them. told them i closed the account in xxxx upon further looking she saw i requested a statement showing i had a xxxx balance and i wished to close the account. she would close the account. i asked that my { $ 10. 00 } be returned. the money was returned now they say xxxx behind and charged me i late fee. i want this problem fixed. i called back and the lady said xxxx hours but every day i get a text from them i owe them { $ 38. 00 }. the last xxxx number are xxxx. i wish this problem be fixed and no late charge on an account that is closed. thank you xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980854988098145
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9095030,
+  "complaint_id": "9095030",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased reading materials from XXXX on XXXX previously. Somehow I got subscribed to this 'online service '. I do not know what this service is nor have any need for any services. All I wanted was to purchased were the reading materials. I got an unexpected charge today for {$23.00}. I want this charge cancelled/refunded. There should be more notifications of an automatic charge. I did not utilize any online service from this company.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "808XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I purchased reading materials from XXXX on XXXX previously. Somehow I got subscribed to this 'online service '. I do not know what this service is nor have any need for any services. All I wanted was to purchased were the reading materials. I got an unexpected charge today for {$23.00}. I want this charge cancelled/refunded. There should be more notifications of an automatic charge. I did not utilize any online service from this company."
+}
+
+Chunk:
+i purchased reading materials from xxxx on xxxx previously. somehow i got subscribed to this'online service '. i do not know what this service is nor have any need for any services. all i wanted was to purchased were the reading materials. i got an unexpected charge today for { $ 23. 00 }. i want this charge cancelled / refunded. there should be more notifications of an automatic charge. i did not utilize any online service from this company.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988598823547363
+}

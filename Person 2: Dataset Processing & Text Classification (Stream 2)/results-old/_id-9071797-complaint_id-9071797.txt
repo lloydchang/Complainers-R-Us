@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071797,
+  "complaint_id": "9071797",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from Aspire Credit Card Company they were raising my monthly maintenance fee to XXXX and my interest rate to 31 % if i disagreed to call them. I called and told them no on the increase in maintenance fee. On XX/XX/XXXX. They transferred me to a woman who said if you dont accept the terms we will close your account right now. I said then close it. She read me a disclosure and stated your card is closed and do not use it and cut it up. I agreed. I then followed up on the XXXX of XXXX to ensure it was closed. And found it still open. So i asked again to close the card. She said it takes 10 days but would be closed soon. I then called on XXXX of XX/XX/year> and card was still open and was told it would take another 45 days to close. I want the card closed immediately. Furthermore i found they have been charging me XXXX for credit card protection i never ordered and wont stop charging it. My credit card number is XXXX XXXX XXXX XXXX under XXXX XXXX",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "59105",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Can't close your account",
+  "text": "I received an email from Aspire Credit Card Company they were raising my monthly maintenance fee to XXXX and my interest rate to 31 % if i disagreed to call them. I called and told them no on the increase in maintenance fee. On XX/XX/XXXX. They transferred me to a woman who said if you dont accept the terms we will close your account right now. I said then close it. She read me a disclosure and stated your card is closed and do not use it and cut it up. I agreed. I then followed up on the XXXX of XXXX to ensure it was closed. And found it still open. So i asked again to close the card. She said it takes 10 days but would be closed soon. I then called on XXXX of XX/XX/year> and card was still open and was told it would take another 45 days to close. I want the card closed immediately. Furthermore i found they have been charging me XXXX for credit card protection i never ordered and wont stop charging it. My credit card number is XXXX XXXX XXXX XXXX under XXXX XXXX"
+}
+
+Chunk:
+i received an email from aspire credit card company they were raising my monthly maintenance fee to xxxx and my interest rate to 31 % if i disagreed to call them. i called and told them no on the increase in maintenance fee. on xx / xx / xxxx. they transferred me to a woman who said if you dont accept the terms we will close your account right now. i said then close it. she read me a disclosure and stated your card is closed and do not use it and cut it up. i agreed. i then followed up on the xxxx of xxxx to ensure it was closed. and found it still open. so i asked again to close the card. she said it takes 10 days but would be closed soon. i then called on xxxx of xx / xx / year > and card was still open and was told it would take another 45 days to close. i want the card closed immediately. furthermore i found they have been charging me xxxx for credit card protection i never ordered and wont stop charging it. my credit card number is xxxx xxxx xxxx xxxx under xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9946111440658569
+}

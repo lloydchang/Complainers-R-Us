@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9289745,
+  "complaint_id": "9289745",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I received a {$29.00} late fee from Bank of America on a past due balance of {$0.00}! I called their call center and they waived the {$29.00} fee, but I wanted to alert the CFPB that Bank of America is ignoring both the XXXX law on excessive fees and the new law imposing {$8.00} late fee limits. \n\nIf there is a better way to make regulators aware of Bank of America 's illegal practices, please let me know.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84403",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "On XX/XX/XXXX I received a {$29.00} late fee from Bank of America on a past due balance of {$0.00}! I called their call center and they waived the {$29.00} fee, but I wanted to alert the CFPB that Bank of America is ignoring both the XXXX law on excessive fees and the new law imposing {$8.00} late fee limits. \n\nIf there is a better way to make regulators aware of Bank of America 's illegal practices, please let me know."
+}
+
+Chunk:
+on xx / xx / xxxx i received a { $ 29. 00 } late fee from bank of america on a past due balance of { $ 0. 00 }! i called their call center and they waived the { $ 29. 00 } fee, but i wanted to alert the cfpb that bank of america is ignoring both the xxxx law on excessive fees and the new law imposing { $ 8. 00 } late fee limits. if there is a better way to make regulators aware of bank of america's illegal practices, please let me know.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985178112983704
+}

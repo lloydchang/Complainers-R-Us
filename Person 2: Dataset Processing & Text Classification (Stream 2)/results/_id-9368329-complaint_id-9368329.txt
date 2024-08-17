@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9368329,
+  "complaint_id": "9368329",
+  "product": "Credit card",
+  "complaint_what_happened": "This complaint is about Barclays XXXX XXXX and the JetBlue Plus credit card. \nThe problem began because I had virtually no income from XX/XX/XXXX to XXXX XXXX due to the XXXX XXXX hacking. I work as a rXXXX XXXX XXXX XXXX XXXX XXXX and payments from insurance companies comprise most of my income from this position. Insurance did not pay for almost 2 months due to the XXXX XXXX hacking and I received payments of 10 % of my earnings or less from my job from XX/XX/XXXX to XX/XX/XXXX ( I can demonstrate this with bank statements if necessary ). \n\nUntil XX/XX/XXXX, my maximum monthly payment had been {$210.00} and I sometimes paid more, like my last payment of {$230.00} on XX/XX/XXXX. I acknowledge that this payment was late and that's because, like I said, I had not gotten paid since XXXX. I called Barclays to let them know I was going to have problems making my payment due to the XXXX XXXX hack and all they said was that they hadn't heard of it and they hoped I could make my payment in time. \n\nInstead of helping me, in XX/XX/XXXX they doubled my minimum payment to over {$440.00}. \nThe same month they lowered my credit limit from XXXX to XXXX. My credit card usage was at XXXX so what I understand from this is that they did it on purpose to make sure I would go over my limit. \n\nI was not able to pay the {$440.00} and I became late on my payment. Now, on XX/XX/XXXX, my monthly payment is up to {$820.00} and I can not afford that either. \n\nBarclays keeps sending me emails saying to log in to their site to set up a payment plan but then when I log in it says Im not eligible ( see screenshots ). \n\nIt is my understanding that Barclays has acted unfairly by lowering my credit limit when they saw I was close to it and simultaneously doubling my monthly payment. \n\nWhat I want from them is for them to give me the fair chance to set up a payment plan at my previous payment of {$250.00} or less. \n\nOn XX/XX/XXXX the Barclays Document Center no longer shows the letter where they lowered my credit limit. Looks like they erased it so I wouldnt be able to access it any longer.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32708",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem lowering your monthly payments",
+  "text": "This complaint is about Barclays XXXX XXXX and the JetBlue Plus credit card. \nThe problem began because I had virtually no income from XX/XX/XXXX to XXXX XXXX due to the XXXX XXXX hacking. I work as a rXXXX XXXX XXXX XXXX XXXX XXXX and payments from insurance companies comprise most of my income from this position. Insurance did not pay for almost 2 months due to the XXXX XXXX hacking and I received payments of 10 % of my earnings or less from my job from XX/XX/XXXX to XX/XX/XXXX ( I can demonstrate this with bank statements if necessary ). \n\nUntil XX/XX/XXXX, my maximum monthly payment had been {$210.00} and I sometimes paid more, like my last payment of {$230.00} on XX/XX/XXXX. I acknowledge that this payment was late and that's because, like I said, I had not gotten paid since XXXX. I called Barclays to let them know I was going to have problems making my payment due to the XXXX XXXX hack and all they said was that they hadn't heard of it and they hoped I could make my payment in time. \n\nInstead of helping me, in XX/XX/XXXX they doubled my minimum payment to over {$440.00}. \nThe same month they lowered my credit limit from XXXX to XXXX. My credit card usage was at XXXX so what I understand from this is that they did it on purpose to make sure I would go over my limit. \n\nI was not able to pay the {$440.00} and I became late on my payment. Now, on XX/XX/XXXX, my monthly payment is up to {$820.00} and I can not afford that either. \n\nBarclays keeps sending me emails saying to log in to their site to set up a payment plan but then when I log in it says Im not eligible ( see screenshots ). \n\nIt is my understanding that Barclays has acted unfairly by lowering my credit limit when they saw I was close to it and simultaneously doubling my monthly payment. \n\nWhat I want from them is for them to give me the fair chance to set up a payment plan at my previous payment of {$250.00} or less. \n\nOn XX/XX/XXXX the Barclays Document Center no longer shows the letter where they lowered my credit limit. Looks like they erased it so I wouldnt be able to access it any longer."
+}
+
+Chunk:
+so i wouldnt be able to access it any longer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988698363304138
+}

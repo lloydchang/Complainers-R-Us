@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085903,
+  "complaint_id": "9085903",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a TJ Maxx account from synchrony Bank months ago and when I saw the way they were treating me with the Lowes home improvement account. I hurried and paid the TJ Maxx account off and I closed that account. I reapplied for a TJ Maxx account because now I work there. I just received a letter in the mail from synchrony bank that they denied me because of poor credit history paying my bill with them. Well that bill was paid on time all the time and it was paid off. There are some bad shenanigans going on with synchrony bank and Im telling you what if Im the one and only person that does a class action thats whats gon na happen because Im tired of being throttled when Im doing the right thing!",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "28273",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I opened a TJ Maxx account from synchrony Bank months ago and when I saw the way they were treating me with the Lowes home improvement account. I hurried and paid the TJ Maxx account off and I closed that account. I reapplied for a TJ Maxx account because now I work there. I just received a letter in the mail from synchrony bank that they denied me because of poor credit history paying my bill with them. Well that bill was paid on time all the time and it was paid off. There are some bad shenanigans going on with synchrony bank and Im telling you what if Im the one and only person that does a class action thats whats gon na happen because Im tired of being throttled when Im doing the right thing!"
+}
+
+Chunk:
+i opened a tj maxx account from synchrony bank months ago and when i saw the way they were treating me with the lowes home improvement account. i hurried and paid the tj maxx account off and i closed that account. i reapplied for a tj maxx account because now i work there. i just received a letter in the mail from synchrony bank that they denied me because of poor credit history paying my bill with them. well that bill was paid on time all the time and it was paid off. there are some bad shenanigans going on with synchrony bank and im telling you what if im the one and only person that does a class action thats whats gon na happen because im tired of being throttled when im doing the right thing!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990756511688232
+}

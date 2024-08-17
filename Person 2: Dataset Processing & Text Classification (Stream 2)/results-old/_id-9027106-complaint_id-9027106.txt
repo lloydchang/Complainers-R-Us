@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027106,
+  "complaint_id": "9027106",
+  "product": "Credit card",
+  "complaint_what_happened": "On or about XX/XX/XXXX I purchased an XXXX  from a company called XXXX XXXX. There were two charges for this purchase, one was for {$330.00} and the other was for {$440.00}. There are 2 disputes one is XXXX and the other XXXX. \nMy mechanic attempted to install the XXXX in my vehicle on or about XX/XX/2024. All sorts of warning lights went off in the car. XXXX XXXX was notified and issued a warranty return. On or about XX/XX/XXXX the XXXX  was tested by XXXX XXXX and they said there was nothing wrong with the XXXX In fact they stated that the problem was with the vehicle. The XXXX was returned and it was reinstalled by my mechanic. The vehicle was road tested and would not shift out of first gear and would not exceed a speed of XXXXXXXX XXXX I then called XXXX XXXX and asked for my money back, they refused. On XX/XX/2024 it was decided to order an XXXX  from the XXXX dealer. On XX/XX/2024 XXXX XXXX programmed the new XXXX put it in the car and the car operated perfectly. No warning lights and the car shifted perfectly. Disputes for the charges were filed with Citi in XXXX. They evidently closed out the disputes and reversed the charges on XX/XX/XXXX. After the company in question submitted a very minimal reply. No chance was given to submit any documentation instead they sent out a letter stating I could submit further documentation but only gave me 17 days after the letter to do so. They also duplicated the letter for XXXX but did not create one for dispute XXXX.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76049",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On or about XX/XX/XXXX I purchased an XXXX  from a company called XXXX XXXX. There were two charges for this purchase, one was for {$330.00} and the other was for {$440.00}. There are 2 disputes one is XXXX and the other XXXX. \nMy mechanic attempted to install the XXXX in my vehicle on or about XX/XX/2024. All sorts of warning lights went off in the car. XXXX XXXX was notified and issued a warranty return. On or about XX/XX/XXXX the XXXX  was tested by XXXX XXXX and they said there was nothing wrong with the XXXX In fact they stated that the problem was with the vehicle. The XXXX was returned and it was reinstalled by my mechanic. The vehicle was road tested and would not shift out of first gear and would not exceed a speed of XXXXXXXX XXXX I then called XXXX XXXX and asked for my money back, they refused. On XX/XX/2024 it was decided to order an XXXX  from the XXXX dealer. On XX/XX/2024 XXXX XXXX programmed the new XXXX put it in the car and the car operated perfectly. No warning lights and the car shifted perfectly. Disputes for the charges were filed with Citi in XXXX. They evidently closed out the disputes and reversed the charges on XX/XX/XXXX. After the company in question submitted a very minimal reply. No chance was given to submit any documentation instead they sent out a letter stating I could submit further documentation but only gave me 17 days after the letter to do so. They also duplicated the letter for XXXX but did not create one for dispute XXXX."
+}
+
+Chunk:
+on or about xx / xx / xxxx i purchased an xxxx from a company called xxxx xxxx. there were two charges for this purchase, one was for { $ 330. 00 } and the other was for { $ 440. 00 }. there are 2 disputes one is xxxx and the other xxxx. my mechanic attempted to install the xxxx in my vehicle on or about xx / xx / 2024. all sorts of warning lights went off in the car. xxxx xxxx was notified and issued a warranty return. on or about xx / xx / xxxx the xxxx was tested by xxxx xxxx and they said there was nothing wrong with the xxxx in fact they stated that the problem was with the vehicle. the xxxx was returned and it was reinstalled by my mechanic. the vehicle was road tested and would not shift out of first gear and would not exceed a speed of xxxxxxxx xxxx i then called xxxx xxxx and asked for my money back, they refused. on xx / xx / 2024 it was decided to order an xxxx from the xxxx dealer. on xx / xx / 2024 xxxx xxxx programmed the new xxxx put it in the car and the car operated perfectly. no warning lights and the car shifted perfectly. disputes for the charges were filed with citi in xxxx. they evidently closed out the disputes and reversed the charges on xx / xx / xxxx. after the company in question submitted a very minimal reply. no chance was given to submit any documentation instead they sent out a letter stating i could submit further documentation but only gave me 17 days after the letter to do so. they also duplicated the letter for xxxx but did not create one for dispute xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9934210181236267
+}

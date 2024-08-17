@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9582343,
+  "complaint_id": "9582343",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally dispute a charge on my credit card for services that were not fulfilled as promised by the merchant. Below are the details of the transaction and the issue : Transaction Date : XX/XX/year> did not start until XX/XX/year> and started complaining on XX/XX/year> Transaction Amount : {$480.00} Merchant Name : XXXX XXXX XXXX XXXX Transaction Reference Number : XXXX XXXX The merchant promised to produce and send real estate seller leads. They stated that it would take about four weeks after payment to start receiving these leads. However, I have waited far beyond this timeframe and have yet to receive any leads as promised. \n\nAfter 60 days, I contacted the merchant to inquire about the delay and was met with generic, copied, and pasted responses that did not address my concerns or provide a solution. To date, I have not received a single seller lead as promised, and the merchant has not taken any accountability or made any efforts to rectify the situation. \n\nI feel misled by the merchants promises and am now out {$480.00} with no quality leads or any seller leads as initially agreed upon. Given these circumstances, I request that this charge be reversed, and my account credited for the full amount of {$480.00}. \n\nI appreciate your prompt attention to this matter and look forward to your assistance in resolving this issue.",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28215",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-22T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to formally dispute a charge on my credit card for services that were not fulfilled as promised by the merchant. Below are the details of the transaction and the issue : Transaction Date : XX/XX/year> did not start until XX/XX/year> and started complaining on XX/XX/year> Transaction Amount : {$480.00} Merchant Name : XXXX XXXX XXXX XXXX Transaction Reference Number : XXXX XXXX The merchant promised to produce and send real estate seller leads. They stated that it would take about four weeks after payment to start receiving these leads. However, I have waited far beyond this timeframe and have yet to receive any leads as promised. \n\nAfter 60 days, I contacted the merchant to inquire about the delay and was met with generic, copied, and pasted responses that did not address my concerns or provide a solution. To date, I have not received a single seller lead as promised, and the merchant has not taken any accountability or made any efforts to rectify the situation. \n\nI feel misled by the merchants promises and am now out {$480.00} with no quality leads or any seller leads as initially agreed upon. Given these circumstances, I request that this charge be reversed, and my account credited for the full amount of {$480.00}. \n\nI appreciate your prompt attention to this matter and look forward to your assistance in resolving this issue."
+}
+
+Chunk:
+i am writing to formally dispute a charge on my credit card for services that were not fulfilled as promised by the merchant. below are the details of the transaction and the issue : transaction date : xx / xx / year > did not start until xx / xx / year > and started complaining on xx / xx / year > transaction amount : { $ 480. 00 } merchant name : xxxx xxxx xxxx xxxx transaction reference number : xxxx xxxx the merchant promised to produce and send real estate seller leads. they stated that it would take about four weeks after payment to start receiving these leads. however, i have waited far beyond this timeframe and have yet to receive any leads as promised. after 60 days, i contacted the merchant to inquire about the delay and was met with generic, copied, and pasted responses that did not address my concerns or provide a solution. to date, i have not received a single seller lead as promised, and the merchant has not taken any accountability or made any efforts to rectify the situation. i feel misled by the merchants promises and am now out { $ 480. 00 } with no quality leads or any seller leads as initially agreed upon. given these circumstances, i request that this charge be reversed, and my account credited for the full amount of { $ 480. 00 }. i appreciate your prompt attention to this matter and look forward to your assistance in resolving this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976654052734375
+}

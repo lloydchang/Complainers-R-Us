@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9089222,
+  "complaint_id": "9089222",
+  "product": "Credit card",
+  "complaint_what_happened": "I have received multiple credit cards ( XX/XX/XXXXXXXX, Bank of America ) in the mail and they were not opened by myself. Also received a phone call around XX/XX/XXXX regarding an auto loan from Bank of America. I have never applied for a loan with Bank of America or a credit card from Bank of America or any of the banks mentioned above. Thought these were strange considering I haven't applied for a credit card since late XX/XX/XXXX so I decided to check my credit report to see if they were legitimate inquiries and they are not. \n\nI've placed a fraud alert on my credit report for the next year to avoid this from happening in the near future.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have received multiple credit cards ( XX/XX/XXXXXXXX, Bank of America ) in the mail and they were not opened by myself. Also received a phone call around XX/XX/XXXX regarding an auto loan from Bank of America. I have never applied for a loan with Bank of America or a credit card from Bank of America or any of the banks mentioned above. Thought these were strange considering I haven't applied for a credit card since late XX/XX/XXXX so I decided to check my credit report to see if they were legitimate inquiries and they are not. \n\nI've placed a fraud alert on my credit report for the next year to avoid this from happening in the near future."
+}
+
+Chunk:
+i have received multiple credit cards ( xx / xx / xxxxxxxx, bank of america ) in the mail and they were not opened by myself. also received a phone call around xx / xx / xxxx regarding an auto loan from bank of america. i have never applied for a loan with bank of america or a credit card from bank of america or any of the banks mentioned above. thought these were strange considering i haven't applied for a credit card since late xx / xx / xxxx so i decided to check my credit report to see if they were legitimate inquiries and they are not. i've placed a fraud alert on my credit report for the next year to avoid this from happening in the near future.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992274045944214
+}

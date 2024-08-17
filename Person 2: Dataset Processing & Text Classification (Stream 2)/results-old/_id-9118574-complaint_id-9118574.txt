@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9118574,
+  "complaint_id": "9118574",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card with some \" balance transfer '' with a 0 % APR promotional rate that expires in XXXX. I also have some balance from purchases whose 0 % APR expired last period, XX/XX/year>. I gave an extra payment to pay the balance from purchases and keep only the no-interest balance. The Bank applied these extra payments on XX/XX/XXXX to my interest-free \" balance transfer '' balance, instead of to my \" purchases '' balance which was already accruing interest. \n\nI called the company two times. \n\nThe first time they said I had to pay my balance in full to avoid interest. \n\nLater I researched a bit and found out there is a law forcing them to allocate extra payments to higher interest debt first. \n\nI called again, and they said that when I gave the payment, the purchases balance was still under a 0 % APR, so both balances were equivalent regarding interest, and he said that purchases balance had a 'lower ID ' or something like that. \n\nHowever, that means there was no way for me to avoid that interest because any payments would have gone to the balance transfer balance anyway, which makes their process fundamentally flawed and designed to charge interest when two 0 % APR with different expiration dates co-exist in the same account.\n\nIn fact, they've been applying one year 's worth of minimum payments ( which are calculated based on the total statement balance ) to the \" balance transfer '' balance, despite that balance expiring later than the purchases balance, and thus being less likely to cause interest charges.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94014",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I have a credit card with some \" balance transfer '' with a 0 % APR promotional rate that expires in XXXX. I also have some balance from purchases whose 0 % APR expired last period, XX/XX/year>. I gave an extra payment to pay the balance from purchases and keep only the no-interest balance. The Bank applied these extra payments on XX/XX/XXXX to my interest-free \" balance transfer '' balance, instead of to my \" purchases '' balance which was already accruing interest. \n\nI called the company two times. \n\nThe first time they said I had to pay my balance in full to avoid interest. \n\nLater I researched a bit and found out there is a law forcing them to allocate extra payments to higher interest debt first. \n\nI called again, and they said that when I gave the payment, the purchases balance was still under a 0 % APR, so both balances were equivalent regarding interest, and he said that purchases balance had a 'lower ID ' or something like that. \n\nHowever, that means there was no way for me to avoid that interest because any payments would have gone to the balance transfer balance anyway, which makes their process fundamentally flawed and designed to charge interest when two 0 % APR with different expiration dates co-exist in the same account.\n\nIn fact, they've been applying one year 's worth of minimum payments ( which are calculated based on the total statement balance ) to the \" balance transfer '' balance, despite that balance expiring later than the purchases balance, and thus being less likely to cause interest charges."
+}
+
+Chunk:
+i have a credit card with some " balance transfer'' with a 0 % apr promotional rate that expires in xxxx. i also have some balance from purchases whose 0 % apr expired last period, xx / xx / year >. i gave an extra payment to pay the balance from purchases and keep only the no - interest balance. the bank applied these extra payments on xx / xx / xxxx to my interest - free " balance transfer'' balance, instead of to my " purchases'' balance which was already accruing interest. i called the company two times. the first time they said i had to pay my balance in full to avoid interest. later i researched a bit and found out there is a law forcing them to allocate extra payments to higher interest debt first. i called again, and they said that when i gave the payment, the purchases balance was still under a 0 % apr, so both balances were equivalent regarding interest, and he said that purchases balance had a'lower id'or something like that. however, that means there was no way for me to avoid that interest because any payments would have gone to the balance transfer balance anyway, which makes their process fundamentally flawed and designed to charge interest when two 0 % apr with different expiration dates co - exist in the same account. in fact, they've been applying one year's worth of minimum payments ( which are calculated based on the total statement balance ) to the " balance transfer'' balance, despite that balance expiring later than the purchases balance, and thus being less likely to cause interest charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992947578430176
+}

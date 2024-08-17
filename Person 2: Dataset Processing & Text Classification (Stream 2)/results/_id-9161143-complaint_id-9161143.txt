@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9161143,
+  "complaint_id": "9161143",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a customer with Bank america for almost XXXX  years, and my family has been a customer for several decades. \n\nI opened a XXXX XXXX credit card with BofA in XXXX. It was the first credit card I opened in my name. I have spent hundreds of thousands of dollards on this card, and have a perfect payment history. I had no blemishes on my credit report, both with BofA and with my other credit lines. \n\nIn late XXXX I had XXXX collection reported on my credit. It was the only flaw on my credit report. This collection was incorrectly reported and I was in the process of disputing it. In this process, Bank of America proceeded to close out my credit card in XX/XX/XXXX, giving the reasons of \" delinquency on my credit report and inactivity ''. My last activity on the card was in XX/XX/XXXX, which is well within the XXXX year inactivity limit. \n\nClosing my credit card with no notice not only decreased the average age of my accounts, but also decreased my credit limit. Both these actions harmed my credit score even more. \n\nI have since succeeded in deleting the collection off my credit report, so I now have 100 % perfect payment history across all credit lines. Therefore, the reason of \" delinquency on my credit report '' is simply false.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94539",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have been a customer with Bank america for almost XXXX  years, and my family has been a customer for several decades. \n\nI opened a XXXX XXXX credit card with BofA in XXXX. It was the first credit card I opened in my name. I have spent hundreds of thousands of dollards on this card, and have a perfect payment history. I had no blemishes on my credit report, both with BofA and with my other credit lines. \n\nIn late XXXX I had XXXX collection reported on my credit. It was the only flaw on my credit report. This collection was incorrectly reported and I was in the process of disputing it. In this process, Bank of America proceeded to close out my credit card in XX/XX/XXXX, giving the reasons of \" delinquency on my credit report and inactivity ''. My last activity on the card was in XX/XX/XXXX, which is well within the XXXX year inactivity limit. \n\nClosing my credit card with no notice not only decreased the average age of my accounts, but also decreased my credit limit. Both these actions harmed my credit score even more. \n\nI have since succeeded in deleting the collection off my credit report, so I now have 100 % perfect payment history across all credit lines. Therefore, the reason of \" delinquency on my credit report '' is simply false."
+}
+
+Chunk:
+i have been a customer with bank america for almost xxxx years, and my family has been a customer for several decades. i opened a xxxx xxxx credit card with bofa in xxxx. it was the first credit card i opened in my name. i have spent hundreds of thousands of dollards on this card, and have a perfect payment history. i had no blemishes on my credit report, both with bofa and with my other credit lines. in late xxxx i had xxxx collection reported on my credit. it was the only flaw on my credit report. this collection was incorrectly reported and i was in the process of disputing it. in this process, bank of america proceeded to close out my credit card in xx / xx / xxxx, giving the reasons of " delinquency on my credit report and inactivity''. my last activity on the card was in xx / xx / xxxx, which is well within the xxxx year inactivity limit. closing my credit card with no notice not only decreased the average age of my accounts, but also decreased my credit limit. both these actions harmed my credit score even more. i have since succeeded in deleting the collection off my credit report, so i now have 100 % perfect payment history across all credit lines. therefore, the reason of " delinquency on my credit report'' is simply false.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990990161895752
+}

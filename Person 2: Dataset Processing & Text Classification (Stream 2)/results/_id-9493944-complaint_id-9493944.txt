@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9493944,
+  "complaint_id": "9493944",
+  "product": "Credit card",
+  "complaint_what_happened": "On or about XX/XX/2024, Synchrony Bank closed my Rooms to Go account and locked my access to the account 's login without prior notice or explanation. Consequently, I have not received any account statements since the account was opened, significantly impairing my ability to manage the account effectively. \n\nOn XX/XX/2024, I discovered a {$41.00} late fee charged to my account. This charge was due to my inability to access my account online, a situation entirely caused by Synchrony Bank 's actions. Despite multiple attempts, I was unable to log in through both the mobile application and the website. Consequently, I was forced to call Synchrony Bank on my only day off during their operational hours to manually unlock the account and make the necessary payment. \n\nWhen I requested a refund of the {$41.00} late fee, Synchrony Bank declined, stating that it was not their responsibility. However, the inability to access my account, which directly led to the late fee, was due to Synchrony Bank 's decision to lock the account without notifying me. \n\nThis series of actions by Synchrony Bank has caused undue stress and financial burden. Their refusal to acknowledge and rectify the situation is unacceptable. As a consumer, I have a right to access my account information and receive statements regularly to manage my finances responsibly. Synchrony Bank 's actions have obstructed these rights and unfairly penalized me. \n\nI request the Consumer Financial Protection Bureau to investigate this matter and take appropriate action against Synchrony Bank. Specifically, I seek : A full refund of the {$41.00} late fee. \nAssurance that Synchrony Bank will provide timely statements and notifications regarding any changes to account status. \nImplementation of measures to prevent such occurrences in the future, ensuring that customers are not unfairly penalized due to actions taken by the bank.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "76087",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "On or about XX/XX/2024, Synchrony Bank closed my Rooms to Go account and locked my access to the account 's login without prior notice or explanation. Consequently, I have not received any account statements since the account was opened, significantly impairing my ability to manage the account effectively. \n\nOn XX/XX/2024, I discovered a {$41.00} late fee charged to my account. This charge was due to my inability to access my account online, a situation entirely caused by Synchrony Bank 's actions. Despite multiple attempts, I was unable to log in through both the mobile application and the website. Consequently, I was forced to call Synchrony Bank on my only day off during their operational hours to manually unlock the account and make the necessary payment. \n\nWhen I requested a refund of the {$41.00} late fee, Synchrony Bank declined, stating that it was not their responsibility. However, the inability to access my account, which directly led to the late fee, was due to Synchrony Bank 's decision to lock the account without notifying me. \n\nThis series of actions by Synchrony Bank has caused undue stress and financial burden. Their refusal to acknowledge and rectify the situation is unacceptable. As a consumer, I have a right to access my account information and receive statements regularly to manage my finances responsibly. Synchrony Bank 's actions have obstructed these rights and unfairly penalized me. \n\nI request the Consumer Financial Protection Bureau to investigate this matter and take appropriate action against Synchrony Bank. Specifically, I seek : A full refund of the {$41.00} late fee. \nAssurance that Synchrony Bank will provide timely statements and notifications regarding any changes to account status. \nImplementation of measures to prevent such occurrences in the future, ensuring that customers are not unfairly penalized due to actions taken by the bank."
+}
+
+Chunk:
+on or about xx / xx / 2024, synchrony bank closed my rooms to go account and locked my access to the account's login without prior notice or explanation. consequently, i have not received any account statements since the account was opened, significantly impairing my ability to manage the account effectively. on xx / xx / 2024, i discovered a { $ 41. 00 } late fee charged to my account. this charge was due to my inability to access my account online, a situation entirely caused by synchrony bank's actions. despite multiple attempts, i was unable to log in through both the mobile application and the website. consequently, i was forced to call synchrony bank on my only day off during their operational hours to manually unlock the account and make the necessary payment. when i requested a refund of the { $ 41. 00 } late fee, synchrony bank declined, stating that it was not their responsibility. however, the inability to access my account, which directly led to the late fee, was due to synchrony bank's decision to lock the account without notifying me. this series of actions by synchrony bank has caused undue stress and financial burden. their refusal to acknowledge and rectify the situation is unacceptable. as a consumer, i have a right to access my account information and receive statements regularly to manage my finances responsibly. synchrony bank's actions have obstructed these rights and unfairly penalized me. i request the consumer financial protection bureau to investigate this matter and take appropriate action against synchrony bank. specifically, i seek : a full refund of the { $ 41. 00 } late fee. assurance that synchrony bank will provide timely statements and notifications regarding any changes to account status. implementation of measures to prevent such occurrences in the future, ensuring that customers are not unfairly penalized due to actions taken by the bank.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993773102760315
+}

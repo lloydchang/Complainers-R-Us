@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9190187,
+  "complaint_id": "9190187",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a victim of identity theft and fraud. Unfortunately there were several accounts opened up under my name. SYNCB has made a mistake and they have me blocked from opening up accounts with their company.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "321XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I am a victim of identity theft and fraud. Unfortunately there were several accounts opened up under my name. SYNCB has made a mistake and they have me blocked from opening up accounts with their company."
+}
+
+Chunk:
+i am a victim of identity theft and fraud. unfortunately there were several accounts opened up under my name. syncb has made a mistake and they have me blocked from opening up accounts with their company.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996705055236816
+}

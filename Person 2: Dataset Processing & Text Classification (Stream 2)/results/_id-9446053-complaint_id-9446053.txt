@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9446053,
+  "complaint_id": "9446053",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged {$19.00} by XXXX for a trip. I couldn't find this trip anyway in my uber history on the app. I informed Wells Fargo about it. They called me and asked me for proof. I emailed screenshots of my app for days before and after XX/XX/year>, which was when the charge was posted. When I heard nothing, I went ahead and uploaded the documents onto the website under the dispute. Two days ago, Wells Fargo informed me that they had closed my dispute, no reason given. \n\nI complained previously that Wells Fargo no longer investigates credit card disputes. They are downsizing and cutting staff and this has affected the dispute handling process. Now, they simply close disputes without investigation.",
+  "date_sent_to_company": "2024-07-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90005",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-06T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was charged {$19.00} by XXXX for a trip. I couldn't find this trip anyway in my uber history on the app. I informed Wells Fargo about it. They called me and asked me for proof. I emailed screenshots of my app for days before and after XX/XX/year>, which was when the charge was posted. When I heard nothing, I went ahead and uploaded the documents onto the website under the dispute. Two days ago, Wells Fargo informed me that they had closed my dispute, no reason given. \n\nI complained previously that Wells Fargo no longer investigates credit card disputes. They are downsizing and cutting staff and this has affected the dispute handling process. Now, they simply close disputes without investigation."
+}
+
+Chunk:
+i was charged { $ 19. 00 } by xxxx for a trip. i couldn't find this trip anyway in my uber history on the app. i informed wells fargo about it. they called me and asked me for proof. i emailed screenshots of my app for days before and after xx / xx / year >, which was when the charge was posted. when i heard nothing, i went ahead and uploaded the documents onto the website under the dispute. two days ago, wells fargo informed me that they had closed my dispute, no reason given. i complained previously that wells fargo no longer investigates credit card disputes. they are downsizing and cutting staff and this has affected the dispute handling process. now, they simply close disputes without investigation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999409556388855
+}

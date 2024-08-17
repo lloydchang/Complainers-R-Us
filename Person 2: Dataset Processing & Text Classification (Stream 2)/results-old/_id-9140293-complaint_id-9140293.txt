@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9140293,
+  "complaint_id": "9140293",
+  "product": "Credit card",
+  "complaint_what_happened": "Regardless of multiple written requests, the unverified accounts listed below are still reporting on my credit report in violation of federal law. The XXXX XXXX XXXX XXXX  failed to comply with the Fair Credit Reporting Act, 15 U.S. Code 1681i within the time declared by law and continued reporting of unconfirmed information which now, given all my attempts to address it directly with the creditor, as willful negligence and non-compliance with federal statues. Please remove the following accounts completely from my credit reports. \nXXXX XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80241",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "Regardless of multiple written requests, the unverified accounts listed below are still reporting on my credit report in violation of federal law. The XXXX XXXX XXXX XXXX  failed to comply with the Fair Credit Reporting Act, 15 U.S. Code 1681i within the time declared by law and continued reporting of unconfirmed information which now, given all my attempts to address it directly with the creditor, as willful negligence and non-compliance with federal statues. Please remove the following accounts completely from my credit reports. \nXXXX XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+regardless of multiple written requests, the unverified accounts listed below are still reporting on my credit report in violation of federal law. the xxxx xxxx xxxx xxxx failed to comply with the fair credit reporting act, 15 u. s. code 1681i within the time declared by law and continued reporting of unconfirmed information which now, given all my attempts to address it directly with the creditor, as willful negligence and non - compliance with federal statues. please remove the following accounts completely from my credit reports. xxxx xxxx xxxx xxxx xxxx and xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999567449092865
+}

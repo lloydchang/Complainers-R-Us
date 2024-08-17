@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9261880,
+  "complaint_id": "9261880",
+  "product": "Credit card",
+  "complaint_what_happened": "Beginning XX/XX/XXXX I began receiving items from XXXX I did not order. I have a complex password and Multifactor Authentication enabled. Purchases are being made from my XXXX account, the items being purchased appear in my cart but not on my list of orders. I am receiving the strange items delivered to my home and addressed to my name. I did not order these items. \n\nApprox. XXXX, I called XXXX and explained what was going on. They told me to change my password for XXXX and my Email. I did both. I have had Multifactor Authentication turned on for months prior to this incident. Makes no sense. \n\nXX/XX/year> I noticed XXXX Bank of America Business Credit Cards, in my name, stored on my XXXX account that I never applied for and had no knowledge of until now. The only information about these XXXX cards is on XXXX. They provide the bank who issued the cards, my first and last name, and the last XXXX digits of the XXXX cards. XXXX XXXX XXXX and XXXX XXXX XXXX. \n\nXX/XX/year> I called Bank of America, gave them my name, the last XXXX of the XXXX credit cards, my social security number, phone number, etc. they have no record of any account in my name and not the XXXX mystery credit cards in my name. Bank of America told me to contact the credit reporting services. Which I did. \n\nXX/XX/year> I pulled my credit reports online from XXXX, XXXX and XXXX. They show no suspicious activity as of XX/XX/year>. I did see several Inquiries I did not recognize. \n\nXX/XX/year> I requested Fraud Alert be applied for 1 year from XXXX XXXX After no help from anyone, I decided to file a dispute with the Federal Trade Commission in case something shows up in the future.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "334XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Beginning XX/XX/XXXX I began receiving items from XXXX I did not order. I have a complex password and Multifactor Authentication enabled. Purchases are being made from my XXXX account, the items being purchased appear in my cart but not on my list of orders. I am receiving the strange items delivered to my home and addressed to my name. I did not order these items. \n\nApprox. XXXX, I called XXXX and explained what was going on. They told me to change my password for XXXX and my Email. I did both. I have had Multifactor Authentication turned on for months prior to this incident. Makes no sense. \n\nXX/XX/year> I noticed XXXX Bank of America Business Credit Cards, in my name, stored on my XXXX account that I never applied for and had no knowledge of until now. The only information about these XXXX cards is on XXXX. They provide the bank who issued the cards, my first and last name, and the last XXXX digits of the XXXX cards. XXXX XXXX XXXX and XXXX XXXX XXXX. \n\nXX/XX/year> I called Bank of America, gave them my name, the last XXXX of the XXXX credit cards, my social security number, phone number, etc. they have no record of any account in my name and not the XXXX mystery credit cards in my name. Bank of America told me to contact the credit reporting services. Which I did. \n\nXX/XX/year> I pulled my credit reports online from XXXX, XXXX and XXXX. They show no suspicious activity as of XX/XX/year>. I did see several Inquiries I did not recognize. \n\nXX/XX/year> I requested Fraud Alert be applied for 1 year from XXXX XXXX After no help from anyone, I decided to file a dispute with the Federal Trade Commission in case something shows up in the future."
+}
+
+Chunk:
+beginning xx / xx / xxxx i began receiving items from xxxx i did not order. i have a complex password and multifactor authentication enabled. purchases are being made from my xxxx account, the items being purchased appear in my cart but not on my list of orders. i am receiving the strange items delivered to my home and addressed to my name. i did not order these items. approx. xxxx, i called xxxx and explained what was going on. they told me to change my password for xxxx and my email. i did both. i have had multifactor authentication turned on for months prior to this incident. makes no sense. xx / xx / year > i noticed xxxx bank of america business credit cards, in my name, stored on my xxxx account that i never applied for and had no knowledge of until now. the only information about these xxxx cards is on xxxx. they provide the bank who issued the cards, my first and last name, and the last xxxx digits of the xxxx cards. xxxx xxxx xxxx and xxxx xxxx xxxx. xx / xx / year > i called bank of america, gave them my name, the last xxxx of the xxxx credit cards, my social security number, phone number, etc. they have no record of any account in my name and not the xxxx mystery credit cards in my name. bank of america told me to contact the credit reporting services. which i did. xx / xx / year > i pulled my credit reports online from xxxx, xxxx and xxxx. they show no suspicious activity as of xx / xx / year >. i did see several inquiries i did not recognize. xx / xx / year > i requested fraud alert be applied for 1 year from xxxx xxxx after no help from anyone, i decided to file a dispute with the federal trade commission in case something shows up in the future.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989787340164185
+}

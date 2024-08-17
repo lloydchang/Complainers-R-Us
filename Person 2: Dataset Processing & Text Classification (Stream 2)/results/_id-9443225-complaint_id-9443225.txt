@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9443225,
+  "complaint_id": "9443225",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a notice that my available credit balance had been cut in half. When I called to inquire what had occurred, I was simply referred back to the notice, which stated that the company was using data reported to XXXX from last XXXX, but did not consider that significant changes might have occurred since then. \n\nI requested that the \" periodic evaluation '' be considered adequately and with due diligence, if it was going to be done, and was informed that such was beyond the scope of what the customer service agents were capable of doing. The best I could hope for was to request a balance increase with the soft credit check that would trigger, which was one of the secondary issues, too many credit checks listed. \n\nI informed the agent that any company that was incapable of honest business was incapable of keeping me as a consumer and to close my account. I am solely informing the CFPB as a courtesy and to alert other consumers to the dishonest methods and outdated data the Synchrony Bank uses to defraud their customers and deny them credit balances.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "72118",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I received a notice that my available credit balance had been cut in half. When I called to inquire what had occurred, I was simply referred back to the notice, which stated that the company was using data reported to XXXX from last XXXX, but did not consider that significant changes might have occurred since then. \n\nI requested that the \" periodic evaluation '' be considered adequately and with due diligence, if it was going to be done, and was informed that such was beyond the scope of what the customer service agents were capable of doing. The best I could hope for was to request a balance increase with the soft credit check that would trigger, which was one of the secondary issues, too many credit checks listed. \n\nI informed the agent that any company that was incapable of honest business was incapable of keeping me as a consumer and to close my account. I am solely informing the CFPB as a courtesy and to alert other consumers to the dishonest methods and outdated data the Synchrony Bank uses to defraud their customers and deny them credit balances."
+}
+
+Chunk:
+i received a notice that my available credit balance had been cut in half. when i called to inquire what had occurred, i was simply referred back to the notice, which stated that the company was using data reported to xxxx from last xxxx, but did not consider that significant changes might have occurred since then. i requested that the " periodic evaluation'' be considered adequately and with due diligence, if it was going to be done, and was informed that such was beyond the scope of what the customer service agents were capable of doing. the best i could hope for was to request a balance increase with the soft credit check that would trigger, which was one of the secondary issues, too many credit checks listed. i informed the agent that any company that was incapable of honest business was incapable of keeping me as a consumer and to close my account. i am solely informing the cfpb as a courtesy and to alert other consumers to the dishonest methods and outdated data the synchrony bank uses to defraud their customers and deny them credit balances.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993231296539307
+}

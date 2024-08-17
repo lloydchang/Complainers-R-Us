@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9260323,
+  "complaint_id": "9260323",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a formal complaint against American Express for misleading communication and unfair customer treatment regarding the eligibility of a welcome bonus for the American Express XXXX XXXX XXXX. Below is a detailed history of my experience : XXXX. In XXXX, I applied for American Express XXXX XXXX XXXX. At no point during the application was I informed of any restrictions or conditions that would render me ineligible for the welcome bonus. \n\nXXXX. After submitting the Application, the Application remained pending, therefore, I called the number displayed on the screen.\n\n3. During the call, I was trying to ask why the Application is pending, and as we speak, the Application is approved. \n\nXXXX. After Approval, I remained on the call, and asked the representative from American Express to check the Welcome Bonus. \n\nXXXX. It was communicated to me that the Welcome Bonus is {$10000.00} USD spent to receive XXXX Membership Rewards Points within 3 months of card opening. \n\nXXXX. In late XXXX, I called American Express Customer Service again, to check how's my progression the Welcome Bonus. And I was notified that the Welcome Bonus is not available to me. \n\nXXXX. I immediately escalated the case, and the representative created an internal investigation to request the previous phone call. And I was asked to wait for XXXX weeks to call back to check the investigation. \n\nXXXX. In XXXX, I called American Express Customer Service again to see if the investigation is finished. And, yes, the investigation has finished, but the conclusion is that I am still not eligible for the Welcome Bonus despite the fact that American Express was able to confirm that the first Representative did say that the welcome bonus is {$10000.00} USD spent to receive XXXX Membership Rewards Points within 3 months of card opening. \n\nXXXX. In the same phone call, I kept escalating. After XXXX rounds of escalation, the supervisor is only able to issue a {$50.00} USD statement credit to my account to compensate for the miscommunication, which is not comparable to the Welcome Bonus that I was communicated with. \n-- -- -- -- -- -- -- -- -- -- -- -- - This series of events highlights a clear case of miscommunication and misrepresentation by American Express. As a long-standing customer, I find this treatment to be unacceptable and detrimental. I seek a full investigation into this matter and appropriate remedial action. \n\nAs a customer, I was tricked, scammed and wrongly communicated. Yet, I, as the customer of American Express, is bearing all the consequence.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I am writing to file a formal complaint against American Express for misleading communication and unfair customer treatment regarding the eligibility of a welcome bonus for the American Express XXXX XXXX XXXX. Below is a detailed history of my experience : XXXX. In XXXX, I applied for American Express XXXX XXXX XXXX. At no point during the application was I informed of any restrictions or conditions that would render me ineligible for the welcome bonus. \n\nXXXX. After submitting the Application, the Application remained pending, therefore, I called the number displayed on the screen.\n\n3. During the call, I was trying to ask why the Application is pending, and as we speak, the Application is approved. \n\nXXXX. After Approval, I remained on the call, and asked the representative from American Express to check the Welcome Bonus. \n\nXXXX. It was communicated to me that the Welcome Bonus is {$10000.00} USD spent to receive XXXX Membership Rewards Points within 3 months of card opening. \n\nXXXX. In late XXXX, I called American Express Customer Service again, to check how's my progression the Welcome Bonus. And I was notified that the Welcome Bonus is not available to me. \n\nXXXX. I immediately escalated the case, and the representative created an internal investigation to request the previous phone call. And I was asked to wait for XXXX weeks to call back to check the investigation. \n\nXXXX. In XXXX, I called American Express Customer Service again to see if the investigation is finished. And, yes, the investigation has finished, but the conclusion is that I am still not eligible for the Welcome Bonus despite the fact that American Express was able to confirm that the first Representative did say that the welcome bonus is {$10000.00} USD spent to receive XXXX Membership Rewards Points within 3 months of card opening. \n\nXXXX. In the same phone call, I kept escalating. After XXXX rounds of escalation, the supervisor is only able to issue a {$50.00} USD statement credit to my account to compensate for the miscommunication, which is not comparable to the Welcome Bonus that I was communicated with. \n-- -- -- -- -- -- -- -- -- -- -- -- - This series of events highlights a clear case of miscommunication and misrepresentation by American Express. As a long-standing customer, I find this treatment to be unacceptable and detrimental. I seek a full investigation into this matter and appropriate remedial action. \n\nAs a customer, I was tricked, scammed and wrongly communicated. Yet, I, as the customer of American Express, is bearing all the consequence."
+}
+
+Chunk:
+and appropriate remedial action. as a customer, i was tricked, scammed and wrongly communicated. yet, i, as the customer of american express, is bearing all the consequence.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9625120162963867
+}

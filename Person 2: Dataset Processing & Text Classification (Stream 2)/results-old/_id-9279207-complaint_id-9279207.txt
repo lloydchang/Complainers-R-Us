@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9279207,
+  "complaint_id": "9279207",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened up a synchrony card through a XXXX promotion. I scheduled bill pay to be set up through my XXXX XXXX account. I mistakenly added the wrong address to the bill pay ; the XXXX headquarters instead of synchrony 's address. \n\nThe first XXXX of XXXX payments went through electronically so I did not catch the mistake. These reached Synchrony card and those transactions were cleared as paid. \n\nPayment XXXX - XXXX - {$54.00} Payment XXXX XXXX - {$120.00} This is when things changed : Checks started to be cashed in person at XXXX XXXX  XXXX XXXX - XXXX This charge was the same amount for XXXX that was electronic. \n\nCheck XXXX - XXXX {$52.00} Check XXXX - XXXX - {$120.00} Same as the electronic payment above. \nCheck XXXX XXXX - {$43.00} Check XXXX XXXX - {$130.00} Check XXXX - XXXX {$49.00} XXXX I spoke with XXXX at XXXX XXXX XXXXXXXX and he worked to resolve the issue by stopping any further checks from being cashed. The first XXXX were too late. He was able to stop XXXX check. Letter included.\n\nAll these payments were cashed from a printed bill pay check manually at chase bank. I have spoke to XXXX and XXXX multiple times and they are not even affiliated with each other at all. That is the first time I realized that this was fraudulent activity. XXXX XXXX  confirms the fraud with letters attached to check. \n\nSynchrony refund me the full amount of the XXXX checks {$450.00} on XXXX I thought the issue was resolved. Then on XXXX Synchrony added all these charges as a correction back to my account with an additional interest of {$5.00} I have paid all of these payments in full, someone has the money through a chase bank. The back of the checks show the chase information. \n\nPlease help me get this resolved.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34471",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I opened up a synchrony card through a XXXX promotion. I scheduled bill pay to be set up through my XXXX XXXX account. I mistakenly added the wrong address to the bill pay ; the XXXX headquarters instead of synchrony 's address. \n\nThe first XXXX of XXXX payments went through electronically so I did not catch the mistake. These reached Synchrony card and those transactions were cleared as paid. \n\nPayment XXXX - XXXX - {$54.00} Payment XXXX XXXX - {$120.00} This is when things changed : Checks started to be cashed in person at XXXX XXXX  XXXX XXXX - XXXX This charge was the same amount for XXXX that was electronic. \n\nCheck XXXX - XXXX {$52.00} Check XXXX - XXXX - {$120.00} Same as the electronic payment above. \nCheck XXXX XXXX - {$43.00} Check XXXX XXXX - {$130.00} Check XXXX - XXXX {$49.00} XXXX I spoke with XXXX at XXXX XXXX XXXXXXXX and he worked to resolve the issue by stopping any further checks from being cashed. The first XXXX were too late. He was able to stop XXXX check. Letter included.\n\nAll these payments were cashed from a printed bill pay check manually at chase bank. I have spoke to XXXX and XXXX multiple times and they are not even affiliated with each other at all. That is the first time I realized that this was fraudulent activity. XXXX XXXX  confirms the fraud with letters attached to check. \n\nSynchrony refund me the full amount of the XXXX checks {$450.00} on XXXX I thought the issue was resolved. Then on XXXX Synchrony added all these charges as a correction back to my account with an additional interest of {$5.00} I have paid all of these payments in full, someone has the money through a chase bank. The back of the checks show the chase information. \n\nPlease help me get this resolved."
+}
+
+Chunk:
+i opened up a synchrony card through a xxxx promotion. i scheduled bill pay to be set up through my xxxx xxxx account. i mistakenly added the wrong address to the bill pay ; the xxxx headquarters instead of synchrony's address. the first xxxx of xxxx payments went through electronically so i did not catch the mistake. these reached synchrony card and those transactions were cleared as paid. payment xxxx - xxxx - { $ 54. 00 } payment xxxx xxxx - { $ 120. 00 } this is when things changed : checks started to be cashed in person at xxxx xxxx xxxx xxxx - xxxx this charge was the same amount for xxxx that was electronic. check xxxx - xxxx { $ 52. 00 } check xxxx - xxxx - { $ 120. 00 } same as the electronic payment above. check xxxx xxxx - { $ 43. 00 } check xxxx xxxx - { $ 130. 00 } check xxxx - xxxx { $ 49. 00 } xxxx i spoke with xxxx at xxxx xxxx xxxxxxxx and he worked to resolve the issue by stopping any further checks from being cashed. the first xxxx were too late. he was able to stop xxxx check. letter included. all these payments were cashed from a printed bill pay check manually at chase bank. i have spoke to xxxx and xxxx multiple times and they are not even affiliated with each other at all. that is the first time i realized that this was fraudulent activity. xxxx xxxx confirms the fraud with letters attached to check. synchrony refund me the full amount of the xxxx checks { $ 450. 00 } on xxxx i thought the issue was resolved. then on xxxx synchrony added all these charges as a correction back to my account with an additional interest of { $ 5. 00 } i have paid all of these payments in full, someone has the money through a chase bank. the back of the checks show the chase information. please help me get this resolved.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988524913787842
+}

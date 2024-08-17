@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9366629,
+  "complaint_id": "9366629",
+  "product": "Credit card",
+  "complaint_what_happened": "Application : Truist Bank Credit Card app # XXXX I was solicited by mail and asked to prequalify for a card product by submitting information and told I qualified for 5 products and that no credit inquiry would be recorded unless I accepted the offer.\n\nI accepted one of the offers and was told immediately that I didnt qualify for a card and now have an inquiry on my credit bureau . I would never have accepted the offer if I did not believe that I was going to get an account with 15 months of 0 % on balance transfers.\n\nNothing materially changed between the prequalifying and the acceptance of the offer.\n\nI think this was deceptive and trying to get my information while also damaging my credit further. Please investigate and audit Truists products accordingly.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32225",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Application : Truist Bank Credit Card app # XXXX I was solicited by mail and asked to prequalify for a card product by submitting information and told I qualified for 5 products and that no credit inquiry would be recorded unless I accepted the offer.\n\nI accepted one of the offers and was told immediately that I didnt qualify for a card and now have an inquiry on my credit bureau . I would never have accepted the offer if I did not believe that I was going to get an account with 15 months of 0 % on balance transfers.\n\nNothing materially changed between the prequalifying and the acceptance of the offer.\n\nI think this was deceptive and trying to get my information while also damaging my credit further. Please investigate and audit Truists products accordingly."
+}
+
+Chunk:
+application : truist bank credit card app # xxxx i was solicited by mail and asked to prequalify for a card product by submitting information and told i qualified for 5 products and that no credit inquiry would be recorded unless i accepted the offer. i accepted one of the offers and was told immediately that i didnt qualify for a card and now have an inquiry on my credit bureau. i would never have accepted the offer if i did not believe that i was going to get an account with 15 months of 0 % on balance transfers. nothing materially changed between the prequalifying and the acceptance of the offer. i think this was deceptive and trying to get my information while also damaging my credit further. please investigate and audit truists products accordingly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989129304885864
+}

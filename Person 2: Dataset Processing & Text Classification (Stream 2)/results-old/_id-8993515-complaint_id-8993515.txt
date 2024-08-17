@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8993515,
+  "complaint_id": "8993515",
+  "product": "Credit card",
+  "complaint_what_happened": "I have always ensured that payments on this account are made on time, never letting them become overdue. I am unsure about the reasons for reports of late payment remarks on my accounts. Corrections should be made in accordance with XXXX XXXX XXXX - Billing Error.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33436",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "I have always ensured that payments on this account are made on time, never letting them become overdue. I am unsure about the reasons for reports of late payment remarks on my accounts. Corrections should be made in accordance with XXXX XXXX XXXX - Billing Error."
+}
+
+Chunk:
+i have always ensured that payments on this account are made on time, never letting them become overdue. i am unsure about the reasons for reports of late payment remarks on my accounts. corrections should be made in accordance with xxxx xxxx xxxx - billing error.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947299957275391
+}

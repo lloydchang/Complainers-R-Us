@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024842,
+  "complaint_id": "9024842",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I was on a XXXX call with XXXX and was offered a service of a lead generation system. There was a charge for {$290.00} which I agreed to and charged on my XXXX credit card provided by Goldman Sachs. This was also paid by myself. XXXX moderator was also trying to sell additional services at {$5000.00}. I was interested but did not move forward or agree to any terms. I did not not sign any contract or receive any services. However, on XX/XX/XXXX XXXX charged my card for {$5000.00} without my permission. Once this charge was placed on my account, I was notified by email and text. I quickly contacted the company and they began the dispute.I contacted the company to tell them to remove. They agreed in phone conversation and text to refund me, but never refunded my card. I have had a total of 4 disputes each taking roughly 90 days to \" review and investigate the transaction '' Each time the company would say they would disclose to me the evidence that was provided by XXXX to validate the charge. Nothing was ever given and each investigation ended with the same result. I provided them a text conversation from XXXX stating they would refund me, but Goldman Sachs did not think that was good enough evidence.As of today XX/XX/XXXX almost a year later, Hours on the phone with Reps, months of waiting for a decision. I received the 4th decline letter this morning, and again with no evidence or reason why!",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/XXXX I was on a XXXX call with XXXX and was offered a service of a lead generation system. There was a charge for {$290.00} which I agreed to and charged on my XXXX credit card provided by Goldman Sachs. This was also paid by myself. XXXX moderator was also trying to sell additional services at {$5000.00}. I was interested but did not move forward or agree to any terms. I did not not sign any contract or receive any services. However, on XX/XX/XXXX XXXX charged my card for {$5000.00} without my permission. Once this charge was placed on my account, I was notified by email and text. I quickly contacted the company and they began the dispute.I contacted the company to tell them to remove. They agreed in phone conversation and text to refund me, but never refunded my card. I have had a total of 4 disputes each taking roughly 90 days to \" review and investigate the transaction '' Each time the company would say they would disclose to me the evidence that was provided by XXXX to validate the charge. Nothing was ever given and each investigation ended with the same result. I provided them a text conversation from XXXX stating they would refund me, but Goldman Sachs did not think that was good enough evidence.As of today XX/XX/XXXX almost a year later, Hours on the phone with Reps, months of waiting for a decision. I received the 4th decline letter this morning, and again with no evidence or reason why!"
+}
+
+Chunk:
+xx / xx / xxxx i was on a xxxx call with xxxx and was offered a service of a lead generation system. there was a charge for { $ 290. 00 } which i agreed to and charged on my xxxx credit card provided by goldman sachs. this was also paid by myself. xxxx moderator was also trying to sell additional services at { $ 5000. 00 }. i was interested but did not move forward or agree to any terms. i did not not sign any contract or receive any services. however, on xx / xx / xxxx xxxx charged my card for { $ 5000. 00 } without my permission. once this charge was placed on my account, i was notified by email and text. i quickly contacted the company and they began the dispute. i contacted the company to tell them to remove. they agreed in phone conversation and text to refund me, but never refunded my card. i have had a total of 4 disputes each taking roughly 90 days to " review and investigate the transaction'' each time the company would say they would disclose to me the evidence that was provided by xxxx to validate the charge. nothing was ever given and each investigation ended with the same result. i provided them a text conversation from xxxx stating they would refund me, but goldman sachs did not think that was good enough evidence. as of today xx / xx / xxxx almost a year later, hours on the phone with reps, months of waiting for a decision. i received the 4th decline letter this morning, and again with no evidence or reason why!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990910291671753
+}

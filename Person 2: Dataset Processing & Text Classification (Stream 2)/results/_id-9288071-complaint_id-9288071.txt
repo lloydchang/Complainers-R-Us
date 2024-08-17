@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9288071,
+  "complaint_id": "9288071",
+  "product": "Credit card",
+  "complaint_what_happened": "This company is abysmal. First they closed my account without properly getting XXXX which is their fiduciary responsibility as a bank. Then they charged multiple penalty XXXX  fees for them closing the card. As a result of their continuous lack of business acumen. They throw my account back into the XXXX by only allowing me to pay via mail. I get a notice saying pay {$190.00} and your account is back in standing I due so. I have sent countless checks to their address and the first time they misplaced the check and didnt apply. I have sent random amounts because I have no clue what is due because they have sent a paper statement since XXXX!!!!! I emailed asking why I havent received any statements and I get nothing. I call in and the operators can barely speak XXXX or know what a penalty apr or anything! How am I supposed to operate in XXXX  when a backwards disgusting company fails to apply payments sent to their XXXX XXXX XXXX! And how am I supposed to track payments without a statement!!!!!!??? Disabling online banking because you are a XXXX should be against the law!!!!!",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33139",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "This company is abysmal. First they closed my account without properly getting XXXX which is their fiduciary responsibility as a bank. Then they charged multiple penalty XXXX  fees for them closing the card. As a result of their continuous lack of business acumen. They throw my account back into the XXXX by only allowing me to pay via mail. I get a notice saying pay {$190.00} and your account is back in standing I due so. I have sent countless checks to their address and the first time they misplaced the check and didnt apply. I have sent random amounts because I have no clue what is due because they have sent a paper statement since XXXX!!!!! I emailed asking why I havent received any statements and I get nothing. I call in and the operators can barely speak XXXX or know what a penalty apr or anything! How am I supposed to operate in XXXX  when a backwards disgusting company fails to apply payments sent to their XXXX XXXX XXXX! And how am I supposed to track payments without a statement!!!!!!??? Disabling online banking because you are a XXXX should be against the law!!!!!"
+}
+
+Chunk:
+this company is abysmal. first they closed my account without properly getting xxxx which is their fiduciary responsibility as a bank. then they charged multiple penalty xxxx fees for them closing the card. as a result of their continuous lack of business acumen. they throw my account back into the xxxx by only allowing me to pay via mail. i get a notice saying pay { $ 190. 00 } and your account is back in standing i due so. i have sent countless checks to their address and the first time they misplaced the check and didnt apply. i have sent random amounts because i have no clue what is due because they have sent a paper statement since xxxx!!!!! i emailed asking why i havent received any statements and i get nothing. i call in and the operators can barely speak xxxx or know what a penalty apr or anything! how am i supposed to operate in xxxx when a backwards disgusting company fails to apply payments sent to their xxxx xxxx xxxx! and how am i supposed to track payments without a statement!!!!!!??? disabling online banking because you are a xxxx should be against the law!!!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997352957725525
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020220,
+  "complaint_id": "9020220",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase ink engaged in deceptive businesses practices by offering a pay in full credit card. In commercials and in advertisements it was never sold as a pay in full card. This should be addressed because it hurts small businesses",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20770",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "Chase ink engaged in deceptive businesses practices by offering a pay in full credit card. In commercials and in advertisements it was never sold as a pay in full card. This should be addressed because it hurts small businesses"
+}
+
+Chunk:
+chase ink engaged in deceptive businesses practices by offering a pay in full credit card. in commercials and in advertisements it was never sold as a pay in full card. this should be addressed because it hurts small businesses
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990946054458618
+}

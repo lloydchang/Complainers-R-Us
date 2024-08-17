@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9397332,
+  "complaint_id": "9397332",
+  "product": "Credit card",
+  "complaint_what_happened": "I Had a fraudulent transactions totaling over XXXX $ from my bestbuy citi credit card it had gotten stolen around XX/XX/XXXX and they racked up charges that maxed out my limit, clearly frustrated I called up citibank/bestbuy to dispute these completely fraudulent transactions and they told me everything was fine on the phone I even got my credit limit back to where it should of been before the fraud and everything was good. Now on XX/XX/XXXX I receive something in the mail saying dispute DENIED, reasoning for it being denied \" the facts and or information reviewed as part of investigation does not substantiate the claim of unauthorized use '' .... MY CARD WAS STOLEN and charges where made fraudulently what more could they ask for, this is complete and utter unprofessionalism from CITIBANK/BESTBUY. I will be getting a attorney involved if this matter is not situated promptly. \n\nCard ending in XXXX",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02169",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I Had a fraudulent transactions totaling over XXXX $ from my bestbuy citi credit card it had gotten stolen around XX/XX/XXXX and they racked up charges that maxed out my limit, clearly frustrated I called up citibank/bestbuy to dispute these completely fraudulent transactions and they told me everything was fine on the phone I even got my credit limit back to where it should of been before the fraud and everything was good. Now on XX/XX/XXXX I receive something in the mail saying dispute DENIED, reasoning for it being denied \" the facts and or information reviewed as part of investigation does not substantiate the claim of unauthorized use '' .... MY CARD WAS STOLEN and charges where made fraudulently what more could they ask for, this is complete and utter unprofessionalism from CITIBANK/BESTBUY. I will be getting a attorney involved if this matter is not situated promptly. \n\nCard ending in XXXX"
+}
+
+Chunk:
+i had a fraudulent transactions totaling over xxxx $ from my bestbuy citi credit card it had gotten stolen around xx / xx / xxxx and they racked up charges that maxed out my limit, clearly frustrated i called up citibank / bestbuy to dispute these completely fraudulent transactions and they told me everything was fine on the phone i even got my credit limit back to where it should of been before the fraud and everything was good. now on xx / xx / xxxx i receive something in the mail saying dispute denied, reasoning for it being denied " the facts and or information reviewed as part of investigation does not substantiate the claim of unauthorized use''.... my card was stolen and charges where made fraudulently what more could they ask for, this is complete and utter unprofessionalism from citibank / bestbuy. i will be getting a attorney involved if this matter is not situated promptly. card ending in xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994148015975952
+}

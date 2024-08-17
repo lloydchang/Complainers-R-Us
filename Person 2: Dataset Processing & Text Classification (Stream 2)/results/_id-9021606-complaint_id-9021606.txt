@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9021606,
+  "complaint_id": "9021606",
+  "product": "Credit card",
+  "complaint_what_happened": "i have filled a FRAUD claim with WELLS FARGO CREDIT CARD COMPANY and they are refusing to resolve the fraud case with me. I have filled a POLICE report and provided all the information to them i had also filled to receive a new ID Because i left to XXXX and recently had that done. And now the credit card company is refusing to solve the claim in my favor because they are saying the store that my card was used frequently it was used XXXX years ago same store. For me this doesn't make sense at all. I have filled a police report i didn't know i was supposed to and provided everything they had asked of me and now they are refusing to file the claim and do their du diligence and investigate to see its not me, but again they are refusing to do that i would like wells Fargo to be investigated because this is a very shady company i have never had to deal with this kind of company that is not willing to help me when i had fraud on my credit card, Please help me resolve this issue because they want to leave this charge on me they have send me a letter datedXX/XX/XXXX that they have completed the fraud case and it was authorized by me. This is not right this is unfair please fully investigate this company because this is wrong treatment to someone who is not guilty i have done everything they have asked from me they still don't care no one is helping me from wells Fargo department to resolve this. They have not done full investigation and they sre trying g to get rid of me. I feel like i am discriminated against and i am not being treated fully i don't know if its because of my voice or what but wells Fargo company is a fraud to me for not helping with this fraud case i have opened with them i even asked them to open a camera to view this is fraud they said you go and do that yourself they are not treating me fairly.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91605",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "i have filled a FRAUD claim with WELLS FARGO CREDIT CARD COMPANY and they are refusing to resolve the fraud case with me. I have filled a POLICE report and provided all the information to them i had also filled to receive a new ID Because i left to XXXX and recently had that done. And now the credit card company is refusing to solve the claim in my favor because they are saying the store that my card was used frequently it was used XXXX years ago same store. For me this doesn't make sense at all. I have filled a police report i didn't know i was supposed to and provided everything they had asked of me and now they are refusing to file the claim and do their du diligence and investigate to see its not me, but again they are refusing to do that i would like wells Fargo to be investigated because this is a very shady company i have never had to deal with this kind of company that is not willing to help me when i had fraud on my credit card, Please help me resolve this issue because they want to leave this charge on me they have send me a letter datedXX/XX/XXXX that they have completed the fraud case and it was authorized by me. This is not right this is unfair please fully investigate this company because this is wrong treatment to someone who is not guilty i have done everything they have asked from me they still don't care no one is helping me from wells Fargo department to resolve this. They have not done full investigation and they sre trying g to get rid of me. I feel like i am discriminated against and i am not being treated fully i don't know if its because of my voice or what but wells Fargo company is a fraud to me for not helping with this fraud case i have opened with them i even asked them to open a camera to view this is fraud they said you go and do that yourself they are not treating me fairly."
+}
+
+Chunk:
+i have filled a fraud claim with wells fargo credit card company and they are refusing to resolve the fraud case with me. i have filled a police report and provided all the information to them i had also filled to receive a new id because i left to xxxx and recently had that done. and now the credit card company is refusing to solve the claim in my favor because they are saying the store that my card was used frequently it was used xxxx years ago same store. for me this doesn't make sense at all. i have filled a police report i didn't know i was supposed to and provided everything they had asked of me and now they are refusing to file the claim and do their du diligence and investigate to see its not me, but again they are refusing to do that i would like wells fargo to be investigated because this is a very shady company i have never had to deal with this kind of company that is not willing to help me when i had fraud on my credit card, please help me resolve this issue because they want to leave this charge on me they have send me a letter datedxx / xx / xxxx that they have completed the fraud case and it was authorized by me. this is not right this is unfair please fully investigate this company because this is wrong treatment to someone who is not guilty i have done everything they have asked from me they still don't care no one is helping me from wells fargo department to resolve this. they have not done full investigation and they sre trying g to get rid of me. i feel like i am discriminated against and i am not being treated fully i don't know if its because of my voice or what but wells fargo company is a fraud to me for not helping with this fraud case i have opened with them i even asked them to open a camera to view this is fraud they said you go and do that yourself they are not treating me fairly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994742274284363
+}

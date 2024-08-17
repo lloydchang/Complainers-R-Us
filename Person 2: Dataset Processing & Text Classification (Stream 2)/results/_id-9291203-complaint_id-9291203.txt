@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9291203,
+  "complaint_id": "9291203",
+  "product": "Credit card",
+  "complaint_what_happened": "Early this year in notice that my credit card date was expiring so I contacted the credit card company for a new card. I was told that they need to do some investagation of my personnel finacnes that could possible effect my credit score. This company has refused to provide any credit increase for decades. This card is dead weight no other credit card company conducts business like this. I asked for the updated credit card ( 3 ) times and this company can mail a the updated card. I've use there credit properly I was told that it would hurt my credit by closing down the this account. Just resently this company rasied the limit of XXXX XXXX XXXX even that is normal. Please warn consumers thats this company act very aggressively even if you us the credit the right way.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90710",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "Early this year in notice that my credit card date was expiring so I contacted the credit card company for a new card. I was told that they need to do some investagation of my personnel finacnes that could possible effect my credit score. This company has refused to provide any credit increase for decades. This card is dead weight no other credit card company conducts business like this. I asked for the updated credit card ( 3 ) times and this company can mail a the updated card. I've use there credit properly I was told that it would hurt my credit by closing down the this account. Just resently this company rasied the limit of XXXX XXXX XXXX even that is normal. Please warn consumers thats this company act very aggressively even if you us the credit the right way."
+}
+
+Chunk:
+early this year in notice that my credit card date was expiring so i contacted the credit card company for a new card. i was told that they need to do some investagation of my personnel finacnes that could possible effect my credit score. this company has refused to provide any credit increase for decades. this card is dead weight no other credit card company conducts business like this. i asked for the updated credit card ( 3 ) times and this company can mail a the updated card. i've use there credit properly i was told that it would hurt my credit by closing down the this account. just resently this company rasied the limit of xxxx xxxx xxxx even that is normal. please warn consumers thats this company act very aggressively even if you us the credit the right way.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980515241622925
+}

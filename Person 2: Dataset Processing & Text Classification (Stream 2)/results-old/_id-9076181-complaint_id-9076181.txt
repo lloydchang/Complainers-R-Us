@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9076181,
+  "complaint_id": "9076181",
+  "product": "Credit card",
+  "complaint_what_happened": "I, XXXX XXXX, have contacted Discover bank on numerous occasions since XX/XX/year> to discuss the laws that are being broken. I was never contacted back by the company. \n\nAdverse action against a consumer is AGAINST THE LAW according to the Equal Credit Opportunity Act which is codified in 15 U.S.C 169lc and is pursuant to civil liability under 15 U.S.C 1692k.\n\nDiscover is subject to criminal liability for violating 15 U.S.C 1691 as I have proof that i was discriminated against by Discover due to the response I received.\n\nDiscover is in violation of 15 U.S. Code 1642. U.S.C1681m and 12 cfr 1002 because I, the consumer, made an application in good faith, but credit was issued and then taken away without consent. Furthermore, because my social security number ( credit card ) was used and i received NO benefit. This is proof of fraudulent activity ( unauthorized use of credit card ) on behalf of Discover.\n\nIf Discover fails to make any reasonable procedures to resolve this matter and compensate me for the use of my credit card by REMOVING FROM MY CONSUMER REPORT, I will indeed make Discover criminally and civilly liable for all actual damages pursuant to 15 USC 1681n and 15 USC 16810. \n\n\nI, XXXX XXXX XXXX, have gathered all this information for litigation to file lawsuits and seek jury trial on this matter against the credit bureaus and this company that is making money off me while maintaining my credit in the ruins and selling my information to third parties.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33055",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I, XXXX XXXX, have contacted Discover bank on numerous occasions since XX/XX/year> to discuss the laws that are being broken. I was never contacted back by the company. \n\nAdverse action against a consumer is AGAINST THE LAW according to the Equal Credit Opportunity Act which is codified in 15 U.S.C 169lc and is pursuant to civil liability under 15 U.S.C 1692k.\n\nDiscover is subject to criminal liability for violating 15 U.S.C 1691 as I have proof that i was discriminated against by Discover due to the response I received.\n\nDiscover is in violation of 15 U.S. Code 1642. U.S.C1681m and 12 cfr 1002 because I, the consumer, made an application in good faith, but credit was issued and then taken away without consent. Furthermore, because my social security number ( credit card ) was used and i received NO benefit. This is proof of fraudulent activity ( unauthorized use of credit card ) on behalf of Discover.\n\nIf Discover fails to make any reasonable procedures to resolve this matter and compensate me for the use of my credit card by REMOVING FROM MY CONSUMER REPORT, I will indeed make Discover criminally and civilly liable for all actual damages pursuant to 15 USC 1681n and 15 USC 16810. \n\n\nI, XXXX XXXX XXXX, have gathered all this information for litigation to file lawsuits and seek jury trial on this matter against the credit bureaus and this company that is making money off me while maintaining my credit in the ruins and selling my information to third parties."
+}
+
+Chunk:
+i, xxxx xxxx, have contacted discover bank on numerous occasions since xx / xx / year > to discuss the laws that are being broken. i was never contacted back by the company. adverse action against a consumer is against the law according to the equal credit opportunity act which is codified in 15 u. s. c 169lc and is pursuant to civil liability under 15 u. s. c 1692k. discover is subject to criminal liability for violating 15 u. s. c 1691 as i have proof that i was discriminated against by discover due to the response i received. discover is in violation of 15 u. s. code 1642. u. s. c1681m and 12 cfr 1002 because i, the consumer, made an application in good faith, but credit was issued and then taken away without consent. furthermore, because my social security number ( credit card ) was used and i received no benefit. this is proof of fraudulent activity ( unauthorized use of credit card ) on behalf of discover. if discover fails to make any reasonable procedures to resolve this matter and compensate me for the use of my credit card by removing from my consumer report, i will indeed make discover criminally and civilly liable for all actual damages pursuant to 15 usc 1681n and 15 usc 16810. i, xxxx xxxx xxxx, have gathered all this information for litigation to file lawsuits and seek jury trial on this matter against the credit bureaus and this company that is making money off me while maintaining my credit in the ruins and selling my information to third parties.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978348612785339
+}

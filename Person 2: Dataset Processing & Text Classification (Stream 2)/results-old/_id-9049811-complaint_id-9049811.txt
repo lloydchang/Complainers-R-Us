@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049811,
+  "complaint_id": "9049811",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an XXXX XXXX ( serviced by Synchrony Bank ). The credit card was opened in XXXX of XXXX. I started using the card in XXXX and started earning rewards. I've been making payments on all monthly card balances. \nI've earned, to date a total of XXXX points from the rewards program associated with this card. This is from all the purchases I make on the card. I have never redeemed any points on this card and I just keep accumulating the points for the simple reason being that there is no viable way for me to redeem them! I've been on phone calls with both XXXX and the Synchrony bank department responsible for this card for hours at a time on several calls and each time, XXXX says I have to speak to Synchrony and Synchrony says I have to speak to XXXX because it's an XXXX problem. Basically, they say that the way to redeem the points is to pay for future XXXX purchases at the checkout on XXXX however there is NO way to pay with points when I checkout on XXXX. Many other consumers have expressed this on XXXX community chats with no viable way to redeem their rewards which in essence makes these rewards fraudulent advertising. The dollar value of my rewards is now > {$2000.00} and I still can't use any of it! I am requesting a statement credit for the dollar value of my rewards and Synchrony refuses to provide this option. Both XXXX and Synchrony blame each other and keep repeating the same thing when you talk to them, \" just pay using points at XXXX checkout '' however that option just doesn't exist and it's not a web browser issue either.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08527",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have an XXXX XXXX ( serviced by Synchrony Bank ). The credit card was opened in XXXX of XXXX. I started using the card in XXXX and started earning rewards. I've been making payments on all monthly card balances. \nI've earned, to date a total of XXXX points from the rewards program associated with this card. This is from all the purchases I make on the card. I have never redeemed any points on this card and I just keep accumulating the points for the simple reason being that there is no viable way for me to redeem them! I've been on phone calls with both XXXX and the Synchrony bank department responsible for this card for hours at a time on several calls and each time, XXXX says I have to speak to Synchrony and Synchrony says I have to speak to XXXX because it's an XXXX problem. Basically, they say that the way to redeem the points is to pay for future XXXX purchases at the checkout on XXXX however there is NO way to pay with points when I checkout on XXXX. Many other consumers have expressed this on XXXX community chats with no viable way to redeem their rewards which in essence makes these rewards fraudulent advertising. The dollar value of my rewards is now > {$2000.00} and I still can't use any of it! I am requesting a statement credit for the dollar value of my rewards and Synchrony refuses to provide this option. Both XXXX and Synchrony blame each other and keep repeating the same thing when you talk to them, \" just pay using points at XXXX checkout '' however that option just doesn't exist and it's not a web browser issue either."
+}
+
+Chunk:
+i have an xxxx xxxx ( serviced by synchrony bank ). the credit card was opened in xxxx of xxxx. i started using the card in xxxx and started earning rewards. i've been making payments on all monthly card balances. i've earned, to date a total of xxxx points from the rewards program associated with this card. this is from all the purchases i make on the card. i have never redeemed any points on this card and i just keep accumulating the points for the simple reason being that there is no viable way for me to redeem them! i've been on phone calls with both xxxx and the synchrony bank department responsible for this card for hours at a time on several calls and each time, xxxx says i have to speak to synchrony and synchrony says i have to speak to xxxx because it's an xxxx problem. basically, they say that the way to redeem the points is to pay for future xxxx purchases at the checkout on xxxx however there is no way to pay with points when i checkout on xxxx. many other consumers have expressed this on xxxx community chats with no viable way to redeem their rewards which in essence makes these rewards fraudulent advertising. the dollar value of my rewards is now > { $ 2000. 00 } and i still can't use any of it! i am requesting a statement credit for the dollar value of my rewards and synchrony refuses to provide this option. both xxxx and synchrony blame each other and keep repeating the same thing when you talk to them, " just pay using points at xxxx checkout'' however that option just doesn't exist and it's not a web browser issue either.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993557333946228
+}

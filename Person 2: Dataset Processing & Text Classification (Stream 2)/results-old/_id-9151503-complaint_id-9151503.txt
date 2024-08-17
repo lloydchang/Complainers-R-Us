@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151503,
+  "complaint_id": "9151503",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased XXXX items And set up payment with my XXXX XXXXXXXX credit card not realizing that they applied my Amazon credit card to the account unknown to me however, I was billed for XXXX items That I purchased thinking that my credit card payment was coming out of my XXXX XXXXXXXX credit card. I received a text notice that I needed to pay the bill bill so I went to the Amazon account and it showed XXXX balance due. Therefore, to me, the text message was a scam, not realizing that I was going to get a text message instead of a statement. Im still not understanding how the payment structure is not showing on the Amazon account.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "28269",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased XXXX items And set up payment with my XXXX XXXXXXXX credit card not realizing that they applied my Amazon credit card to the account unknown to me however, I was billed for XXXX items That I purchased thinking that my credit card payment was coming out of my XXXX XXXXXXXX credit card. I received a text notice that I needed to pay the bill bill so I went to the Amazon account and it showed XXXX balance due. Therefore, to me, the text message was a scam, not realizing that I was going to get a text message instead of a statement. Im still not understanding how the payment structure is not showing on the Amazon account."
+}
+
+Chunk:
+i purchased xxxx items and set up payment with my xxxx xxxxxxxx credit card not realizing that they applied my amazon credit card to the account unknown to me however, i was billed for xxxx items that i purchased thinking that my credit card payment was coming out of my xxxx xxxxxxxx credit card. i received a text notice that i needed to pay the bill bill so i went to the amazon account and it showed xxxx balance due. therefore, to me, the text message was a scam, not realizing that i was going to get a text message instead of a statement. im still not understanding how the payment structure is not showing on the amazon account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993466734886169
+}

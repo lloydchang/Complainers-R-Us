@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9043134,
+  "complaint_id": "9043134",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a purchase for {$110.00} on XX/XX/XXXX. I did not recognize the merchant on my bill and called Citibank to verify the merchant. I was told the charge was from the XXXX XXXX XXXX XXXX of Courts. I did not make a charge to the XXXX XXXX XXXX XXXX XXXX so I disputed the charge and the charge was credited to my account. After further investigation I determined that charge was actually to a wine merchant that I recallled making a purchase from. The original credit was made by Citibank on XX/XX/XXXX. The credit was reversed on XX/XX/XXXX after I notified Citibank that I acknowledged the charge and was dropping the dispute. The charge was reversed again on XX/XX/XXXX. I spoke with Citibank on multiple occasions about the double reverse charge and they acknowledged the double reverse and said my account would be credited. I spoke with XXXX on XX/XX/XXXX, XXXX on XX/XX/XXXX, XXXX on XX/XX/XXXX and XXXX on XX/XX/XXXX. All representatives acknowledged the double reverse and said my account would be credited. The {$110.00}. To date my account has not been credited. This problem is purely the result of customer service at Citibank",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33150",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I made a purchase for {$110.00} on XX/XX/XXXX. I did not recognize the merchant on my bill and called Citibank to verify the merchant. I was told the charge was from the XXXX XXXX XXXX XXXX of Courts. I did not make a charge to the XXXX XXXX XXXX XXXX XXXX so I disputed the charge and the charge was credited to my account. After further investigation I determined that charge was actually to a wine merchant that I recallled making a purchase from. The original credit was made by Citibank on XX/XX/XXXX. The credit was reversed on XX/XX/XXXX after I notified Citibank that I acknowledged the charge and was dropping the dispute. The charge was reversed again on XX/XX/XXXX. I spoke with Citibank on multiple occasions about the double reverse charge and they acknowledged the double reverse and said my account would be credited. I spoke with XXXX on XX/XX/XXXX, XXXX on XX/XX/XXXX, XXXX on XX/XX/XXXX and XXXX on XX/XX/XXXX. All representatives acknowledged the double reverse and said my account would be credited. The {$110.00}. To date my account has not been credited. This problem is purely the result of customer service at Citibank"
+}
+
+Chunk:
+i made a purchase for { $ 110. 00 } on xx / xx / xxxx. i did not recognize the merchant on my bill and called citibank to verify the merchant. i was told the charge was from the xxxx xxxx xxxx xxxx of courts. i did not make a charge to the xxxx xxxx xxxx xxxx xxxx so i disputed the charge and the charge was credited to my account. after further investigation i determined that charge was actually to a wine merchant that i recallled making a purchase from. the original credit was made by citibank on xx / xx / xxxx. the credit was reversed on xx / xx / xxxx after i notified citibank that i acknowledged the charge and was dropping the dispute. the charge was reversed again on xx / xx / xxxx. i spoke with citibank on multiple occasions about the double reverse charge and they acknowledged the double reverse and said my account would be credited. i spoke with xxxx on xx / xx / xxxx, xxxx on xx / xx / xxxx, xxxx on xx / xx / xxxx and xxxx on xx / xx / xxxx. all representatives acknowledged the double reverse and said my account would be credited. the { $ 110. 00 }. to date my account has not been credited. this problem is purely the result of customer service at citibank
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982409477233887
+}

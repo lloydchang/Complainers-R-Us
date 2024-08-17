@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9010346,
+  "complaint_id": "9010346",
+  "product": "Credit card",
+  "complaint_what_happened": "I can not get ahold of a supervisor or U.S. representative of Capital One / Quicksilver credit card. I have {$1900.00} in fraud charges.\n\nI have received broken up information on these but still don't know if they are taken off completely. On these I am receiving late fees and interest charges...\n\nThe XXXX  problem is on XXXX  XXXX XXXX I stopped payment on a charge not authorized by me. The charge was removed from XXXX XXXX XXXX in XXXX XXXX, California. \nThis was NEVER paid out ..and after XXXX  days the dispute ended. This company is fraud.XXXX XXXX to move my household furniture..broke alot of it and didn't finish job. \nI have photos. \nI have received {$660.00} of this money..I am owed {$1300.00}.. {$2000.00} - {$660.00} = {$1300.00} ... correct?.. \nThe XXXX problem I made a payment on XX/XX/2024 to Capital One. This was negotiated by their bank on XX/XX/2024 which they say they never received... deposit # XXXX. \nI believe this mess started in XXXX... I have tried to speak to girls who say they are EQUIPTED..to help me..from some XXXX XXXXXXXX they have no clue! I need my money..this is the second time I have gotten fraudulent charges on XXXX cards..they say I have a new card??? I do not. I want my money back and I will no longer do business with them..This company has put me in collections and dropped my XXXX XXXX XXXX  to XXXX ... .Ii need this money I am on XXXX XXXX a fixed income... Thank you so much for your help.. \nSincerely, XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95949",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I can not get ahold of a supervisor or U.S. representative of Capital One / Quicksilver credit card. I have {$1900.00} in fraud charges.\n\nI have received broken up information on these but still don't know if they are taken off completely. On these I am receiving late fees and interest charges...\n\nThe XXXX  problem is on XXXX  XXXX XXXX I stopped payment on a charge not authorized by me. The charge was removed from XXXX XXXX XXXX in XXXX XXXX, California. \nThis was NEVER paid out ..and after XXXX  days the dispute ended. This company is fraud.XXXX XXXX to move my household furniture..broke alot of it and didn't finish job. \nI have photos. \nI have received {$660.00} of this money..I am owed {$1300.00}.. {$2000.00} - {$660.00} = {$1300.00} ... correct?.. \nThe XXXX problem I made a payment on XX/XX/2024 to Capital One. This was negotiated by their bank on XX/XX/2024 which they say they never received... deposit # XXXX. \nI believe this mess started in XXXX... I have tried to speak to girls who say they are EQUIPTED..to help me..from some XXXX XXXXXXXX they have no clue! I need my money..this is the second time I have gotten fraudulent charges on XXXX cards..they say I have a new card??? I do not. I want my money back and I will no longer do business with them..This company has put me in collections and dropped my XXXX XXXX XXXX  to XXXX ... .Ii need this money I am on XXXX XXXX a fixed income... Thank you so much for your help.. \nSincerely, XXXX XXXX XXXX"
+}
+
+Chunk:
+i can not get ahold of a supervisor or u. s. representative of capital one / quicksilver credit card. i have { $ 1900. 00 } in fraud charges. i have received broken up information on these but still don't know if they are taken off completely. on these i am receiving late fees and interest charges... the xxxx problem is on xxxx xxxx xxxx i stopped payment on a charge not authorized by me. the charge was removed from xxxx xxxx xxxx in xxxx xxxx, california. this was never paid out.. and after xxxx days the dispute ended. this company is fraud. xxxx xxxx to move my household furniture.. broke alot of it and didn't finish job. i have photos. i have received { $ 660. 00 } of this money.. i am owed { $ 1300. 00 }.. { $ 2000. 00 } - { $ 660. 00 } = { $ 1300. 00 }... correct?.. the xxxx problem i made a payment on xx / xx / 2024 to capital one. this was negotiated by their bank on xx / xx / 2024 which they say they never received... deposit # xxxx. i believe this mess started in xxxx... i have tried to speak to girls who say they are equipted.. to help me.. from some xxxx xxxxxxxx they have no clue! i need my money.. this is the second time i have gotten fraudulent charges on xxxx cards.. they say i have a new card??? i do not. i want my money back and i will no longer do business with them.. this company has put me in collections and dropped my xxxx xxxx xxxx to xxxx.... ii need this money i am on xxxx xxxx a fixed income... thank you so much for your help.. sincerely, xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996280670166016
+}

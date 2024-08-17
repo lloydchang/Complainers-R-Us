@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9607959,
+  "complaint_id": "9607959",
+  "product": "Credit card",
+  "complaint_what_happened": "I double paid my account accidentally. I called a week ago to correct the issue and they said it would take XXXX to XXXX days to correct. It has been a week, I called and the representative and he said it would be reviewed tomorrow, and if approved it would take another XXXX to XXXX days. This is totally unacceptable!",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23113",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-24T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I double paid my account accidentally. I called a week ago to correct the issue and they said it would take XXXX to XXXX days to correct. It has been a week, I called and the representative and he said it would be reviewed tomorrow, and if approved it would take another XXXX to XXXX days. This is totally unacceptable!"
+}
+
+Chunk:
+i double paid my account accidentally. i called a week ago to correct the issue and they said it would take xxxx to xxxx days to correct. it has been a week, i called and the representative and he said it would be reviewed tomorrow, and if approved it would take another xxxx to xxxx days. this is totally unacceptable!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997046589851379
+}

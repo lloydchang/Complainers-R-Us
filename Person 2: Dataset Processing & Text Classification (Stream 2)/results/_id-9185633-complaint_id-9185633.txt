@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9185633,
+  "complaint_id": "9185633",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed some unauthorized inquiries on my credit report that I would like to be removed. I never opened a credit card with First Progress. Never got a credit card from this company. I do believe this is a fraudulent application",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32707",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Synovus Bank",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I noticed some unauthorized inquiries on my credit report that I would like to be removed. I never opened a credit card with First Progress. Never got a credit card from this company. I do believe this is a fraudulent application"
+}
+
+Chunk:
+i noticed some unauthorized inquiries on my credit report that i would like to be removed. i never opened a credit card with first progress. never got a credit card from this company. i do believe this is a fraudulent application
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994640946388245
+}

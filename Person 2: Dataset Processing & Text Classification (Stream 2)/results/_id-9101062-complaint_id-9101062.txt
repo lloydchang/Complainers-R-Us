@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9101062,
+  "complaint_id": "9101062",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a purchase from XXXX XXXX. I returned all the items and paid the return fee. I then received a bill for the merchandise. I called several times and told them that I didnt owe them anything. They continued to send me bills. I placed a complaint and they finally said I didnt owe anything. But as this took them so long. They had reported my account to the credit bureau. They never removed it and it has affected my credit score by a good amount. I believe the items ordered were in XX/XX/XXXX. I even mailed a dispute on XX/XX/XXXX. They still tried to say I owed them. It took a long time before a phone call to a supervisor finally got them to say I didnt owe anything. But they made it seem like they wrote it off and closed my account. Ill NEVER buy from them again XXXX",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "31312",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I made a purchase from XXXX XXXX. I returned all the items and paid the return fee. I then received a bill for the merchandise. I called several times and told them that I didnt owe them anything. They continued to send me bills. I placed a complaint and they finally said I didnt owe anything. But as this took them so long. They had reported my account to the credit bureau. They never removed it and it has affected my credit score by a good amount. I believe the items ordered were in XX/XX/XXXX. I even mailed a dispute on XX/XX/XXXX. They still tried to say I owed them. It took a long time before a phone call to a supervisor finally got them to say I didnt owe anything. But they made it seem like they wrote it off and closed my account. Ill NEVER buy from them again XXXX"
+}
+
+Chunk:
+i made a purchase from xxxx xxxx. i returned all the items and paid the return fee. i then received a bill for the merchandise. i called several times and told them that i didnt owe them anything. they continued to send me bills. i placed a complaint and they finally said i didnt owe anything. but as this took them so long. they had reported my account to the credit bureau. they never removed it and it has affected my credit score by a good amount. i believe the items ordered were in xx / xx / xxxx. i even mailed a dispute on xx / xx / xxxx. they still tried to say i owed them. it took a long time before a phone call to a supervisor finally got them to say i didnt owe anything. but they made it seem like they wrote it off and closed my account. ill never buy from them again xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989688396453857
+}

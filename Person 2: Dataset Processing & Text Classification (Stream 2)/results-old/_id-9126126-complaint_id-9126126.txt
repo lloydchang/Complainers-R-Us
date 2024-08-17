@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126126,
+  "complaint_id": "9126126",
+  "product": "Credit card",
+  "complaint_what_happened": "My payments are always made promptly, of that I am certain. What puzzles me is the occasional late reporting from this company, which shouldn't be the case. Per USC 1666b, any billing error must be rectified promptly and updated to reflect payment as agreed.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30083",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "My payments are always made promptly, of that I am certain. What puzzles me is the occasional late reporting from this company, which shouldn't be the case. Per USC 1666b, any billing error must be rectified promptly and updated to reflect payment as agreed."
+}
+
+Chunk:
+my payments are always made promptly, of that i am certain. what puzzles me is the occasional late reporting from this company, which shouldn't be the case. per usc 1666b, any billing error must be rectified promptly and updated to reflect payment as agreed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9918287396430969
+}

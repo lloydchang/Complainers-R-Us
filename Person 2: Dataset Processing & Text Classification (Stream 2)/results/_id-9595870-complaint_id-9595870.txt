@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9595870,
+  "complaint_id": "9595870",
+  "product": "Credit card",
+  "complaint_what_happened": "Tried to use 2 credit card and purchases were declined multiple times. I called customer service multiple times. But help was not provided. Both cards continue to decline. This is so embarrassing.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "372XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Tried to use 2 credit card and purchases were declined multiple times. I called customer service multiple times. But help was not provided. Both cards continue to decline. This is so embarrassing."
+}
+
+Chunk:
+tried to use 2 credit card and purchases were declined multiple times. i called customer service multiple times. but help was not provided. both cards continue to decline. this is so embarrassing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996670484542847
+}

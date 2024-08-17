@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9080387,
+  "complaint_id": "9080387",
+  "product": "Credit card",
+  "complaint_what_happened": "IN STORE CREDIT - LOST TWO CARDS CARD # XXXX In-store credit of {$270.00} left on card ending in XXXX, the card was lost and I spent the last year going in circles. They tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use CARD # XXXX In-store credit of {$730.00} left on card ending in XXXX, the card was lost and I spent the last year going in circles. They tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "98040",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "IN STORE CREDIT - LOST TWO CARDS CARD # XXXX In-store credit of {$270.00} left on card ending in XXXX, the card was lost and I spent the last year going in circles. They tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use CARD # XXXX In-store credit of {$730.00} left on card ending in XXXX, the card was lost and I spent the last year going in circles. They tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use"
+}
+
+Chunk:
+in store credit - lost two cards card # xxxx in - store credit of { $ 270. 00 } left on card ending in xxxx, the card was lost and i spent the last year going in circles. they tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use card # xxxx in - store credit of { $ 730. 00 } left on card ending in xxxx, the card was lost and i spent the last year going in circles. they tell me they can actually see the outstanding amount available, but they are not willing to give me the credit to use
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991311430931091
+}

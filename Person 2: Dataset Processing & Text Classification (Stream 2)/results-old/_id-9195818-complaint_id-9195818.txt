@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195818,
+  "complaint_id": "9195818",
+  "product": "Credit card",
+  "complaint_what_happened": "Target credit card payment posting delay. \nI have a Target credit card with a limit of {$600.00}. I am set up on autopay, but I usually pay the balance off in full each month because I do not want to pay any interest. On XX/XX/2024, I made a one-time credit card payment of {$540.00}. My Target credit card account is linked to my XXXX checking account. The {$540.00} amount was withdrawn from my checking account on XX/XX/2024. However, on XX/XX/2024, when I tried to use my Target credit card, my transaction did not go through. I spoke with a supervisor who indicated payments can take up to 14 days to post to customer accounts. I thought that was odd since the payment was removed from my checking account as of XX/XX/2024. On XX/XX/2024, I tried to use my credit card and I received an error message. I am still unable to use my Target credit card. I called and spoke with a supervisor named XXXX who indicated the hold was because I was near my credit limit. It appears Target is holding and probably earning interest on customer payments during their payment verification process. Note this was an ACH payment. I checked both accounts and confirmed the payment debit from my checking account and the payment posting on my Target credit card account.it seems as though Target imposes an undue waiting period to release fund availability on customer accounts. I attached screenshots of my XXXX checking account statement, Target credit card home screen, and my Target credit card statement. I believe there is a pattern with these types of transactions as I previously closed my Target credit card because of this same issue.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "60540",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Target credit card payment posting delay. \nI have a Target credit card with a limit of {$600.00}. I am set up on autopay, but I usually pay the balance off in full each month because I do not want to pay any interest. On XX/XX/2024, I made a one-time credit card payment of {$540.00}. My Target credit card account is linked to my XXXX checking account. The {$540.00} amount was withdrawn from my checking account on XX/XX/2024. However, on XX/XX/2024, when I tried to use my Target credit card, my transaction did not go through. I spoke with a supervisor who indicated payments can take up to 14 days to post to customer accounts. I thought that was odd since the payment was removed from my checking account as of XX/XX/2024. On XX/XX/2024, I tried to use my credit card and I received an error message. I am still unable to use my Target credit card. I called and spoke with a supervisor named XXXX who indicated the hold was because I was near my credit limit. It appears Target is holding and probably earning interest on customer payments during their payment verification process. Note this was an ACH payment. I checked both accounts and confirmed the payment debit from my checking account and the payment posting on my Target credit card account.it seems as though Target imposes an undue waiting period to release fund availability on customer accounts. I attached screenshots of my XXXX checking account statement, Target credit card home screen, and my Target credit card statement. I believe there is a pattern with these types of transactions as I previously closed my Target credit card because of this same issue."
+}
+
+Chunk:
+target credit card payment posting delay. i have a target credit card with a limit of { $ 600. 00 }. i am set up on autopay, but i usually pay the balance off in full each month because i do not want to pay any interest. on xx / xx / 2024, i made a one - time credit card payment of { $ 540. 00 }. my target credit card account is linked to my xxxx checking account. the { $ 540. 00 } amount was withdrawn from my checking account on xx / xx / 2024. however, on xx / xx / 2024, when i tried to use my target credit card, my transaction did not go through. i spoke with a supervisor who indicated payments can take up to 14 days to post to customer accounts. i thought that was odd since the payment was removed from my checking account as of xx / xx / 2024. on xx / xx / 2024, i tried to use my credit card and i received an error message. i am still unable to use my target credit card. i called and spoke with a supervisor named xxxx who indicated the hold was because i was near my credit limit. it appears target is holding and probably earning interest on customer payments during their payment verification process. note this was an ach payment. i checked both accounts and confirmed the payment debit from my checking account and the payment posting on my target credit card account. it seems as though target imposes an undue waiting period to release fund availability on customer accounts. i attached screenshots of my xxxx checking account statement, target credit card home screen, and my target credit card statement. i believe there is a pattern with these types of transactions as i previously closed my target credit card because of this same issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999077558517456
+}

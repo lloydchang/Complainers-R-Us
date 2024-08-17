@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9095882,
+  "complaint_id": "9095882",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an Amazon Rewards Credit Card through Synchrony Bank. Every month, my statement is not updated on their website until a payment is due 7 days later. This effectively only gives me 7 days to make a payment, and recently resulted in a late payment and late fee. The only late payment I have ever had in my life, because I didn't check my credit card bill for a week. \n\nI had them reverse the late fee, but now my credit score is affected. It's not a huge deal, but it is wrong what they are doing and it should be illegal if it isn't already. \n\nOther than that, very great bank. Hate to complain.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "90405",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I have an Amazon Rewards Credit Card through Synchrony Bank. Every month, my statement is not updated on their website until a payment is due 7 days later. This effectively only gives me 7 days to make a payment, and recently resulted in a late payment and late fee. The only late payment I have ever had in my life, because I didn't check my credit card bill for a week. \n\nI had them reverse the late fee, but now my credit score is affected. It's not a huge deal, but it is wrong what they are doing and it should be illegal if it isn't already. \n\nOther than that, very great bank. Hate to complain."
+}
+
+Chunk:
+i have an amazon rewards credit card through synchrony bank. every month, my statement is not updated on their website until a payment is due 7 days later. this effectively only gives me 7 days to make a payment, and recently resulted in a late payment and late fee. the only late payment i have ever had in my life, because i didn't check my credit card bill for a week. i had them reverse the late fee, but now my credit score is affected. it's not a huge deal, but it is wrong what they are doing and it should be illegal if it isn't already. other than that, very great bank. hate to complain.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989896416664124
+}

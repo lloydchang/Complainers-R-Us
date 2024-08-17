@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9328553,
+  "complaint_id": "9328553",
+  "product": "Credit card",
+  "complaint_what_happened": "I became aware of this Identity theft on/about XX/XX/XXXX I noticed numerous fraudulent charges that I DID NOT complete on My Citi American AAdvantage Mastercard account and maxed it out my credit card for almost {$28000.00}. and Citi Custom Cash Card that I DID NOT apply or open and that was fraudulently charges for {$8800.00} on XX/XX/XXXX as well. Someone opens credit cards and used all my information. I informed CITI that all the transaction was not mine. that I became a victim of Identity theft. I have several credit cards account had the same fraudulent transactions. I did not authorized any of these transactions. I have relayed this information to the Citi credit cards company disputed charges for months. But there is no resolution or resolve the issue until now. I had sent Police Report to the CITI Financial Institution. I called Citi several times with the Restoration Specialist from XXXX Credit Bureau, she has been helping me with this nightmare. We explain to customer rep. what happens. Then CITI AAdvantage send me the confirmation letter saying that Account Dispute information received on XX/XX/XXXX. Please, I really do need help to resolve this problem for once. Because I still keep receiving phone calls from Debt collections agency about this debt that is NOT mine. I have had my personal information compromised and a stranger has pretended to be me. Again, I DID NOT authorize all the charges, and didn't open the Citi custom card.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28390",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I became aware of this Identity theft on/about XX/XX/XXXX I noticed numerous fraudulent charges that I DID NOT complete on My Citi American AAdvantage Mastercard account and maxed it out my credit card for almost {$28000.00}. and Citi Custom Cash Card that I DID NOT apply or open and that was fraudulently charges for {$8800.00} on XX/XX/XXXX as well. Someone opens credit cards and used all my information. I informed CITI that all the transaction was not mine. that I became a victim of Identity theft. I have several credit cards account had the same fraudulent transactions. I did not authorized any of these transactions. I have relayed this information to the Citi credit cards company disputed charges for months. But there is no resolution or resolve the issue until now. I had sent Police Report to the CITI Financial Institution. I called Citi several times with the Restoration Specialist from XXXX Credit Bureau, she has been helping me with this nightmare. We explain to customer rep. what happens. Then CITI AAdvantage send me the confirmation letter saying that Account Dispute information received on XX/XX/XXXX. Please, I really do need help to resolve this problem for once. Because I still keep receiving phone calls from Debt collections agency about this debt that is NOT mine. I have had my personal information compromised and a stranger has pretended to be me. Again, I DID NOT authorize all the charges, and didn't open the Citi custom card."
+}
+
+Chunk:
+i became aware of this identity theft on / about xx / xx / xxxx i noticed numerous fraudulent charges that i did not complete on my citi american aadvantage mastercard account and maxed it out my credit card for almost { $ 28000. 00 }. and citi custom cash card that i did not apply or open and that was fraudulently charges for { $ 8800. 00 } on xx / xx / xxxx as well. someone opens credit cards and used all my information. i informed citi that all the transaction was not mine. that i became a victim of identity theft. i have several credit cards account had the same fraudulent transactions. i did not authorized any of these transactions. i have relayed this information to the citi credit cards company disputed charges for months. but there is no resolution or resolve the issue until now. i had sent police report to the citi financial institution. i called citi several times with the restoration specialist from xxxx credit bureau, she has been helping me with this nightmare. we explain to customer rep. what happens. then citi aadvantage send me the confirmation letter saying that account dispute information received on xx / xx / xxxx. please, i really do need help to resolve this problem for once. because i still keep receiving phone calls from debt collections agency about this debt that is not mine. i have had my personal information compromised and a stranger has pretended to be me. again, i did not authorize all the charges, and didn't open the citi custom card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989975094795227
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9242450,
+  "complaint_id": "9242450",
+  "product": "Credit card",
+  "complaint_what_happened": "I was making a hotel reservation on XXXX when a XXXX  ( WellsFargo ) Credit Card offer was made just before completing my purchase, and it said I would received {$150.00} off of the reservation -- the screen literally showed my booking dollar amount with the {$150.00} deduction and the new reduced rate ( see uploaded screenshot ) -- so I proceeded with the application. I received an approval notice to my email with only the last four digits of an account number, which would not allow me to complete my hotel reservation. I called the phone number and asked to be provided my account number, and they transferred me to multiple departments, verifying my personal information each time, when someone came on and said they would give me the account number but only if I agree to open an on-line bank account for deposits. I found this very shady and refused. Ultimately they declined to provide the information I needed. I had to complete the booking without the offer. I would never have applied for this credit card were it not for this offer. I feel that this company is employing fraudulent tactics to get people to apply for credit cards and open bank accounts. They shouldn't be allowed to get away with it.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "18976",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Delay in processing application",
+  "text": "I was making a hotel reservation on XXXX when a XXXX  ( WellsFargo ) Credit Card offer was made just before completing my purchase, and it said I would received {$150.00} off of the reservation -- the screen literally showed my booking dollar amount with the {$150.00} deduction and the new reduced rate ( see uploaded screenshot ) -- so I proceeded with the application. I received an approval notice to my email with only the last four digits of an account number, which would not allow me to complete my hotel reservation. I called the phone number and asked to be provided my account number, and they transferred me to multiple departments, verifying my personal information each time, when someone came on and said they would give me the account number but only if I agree to open an on-line bank account for deposits. I found this very shady and refused. Ultimately they declined to provide the information I needed. I had to complete the booking without the offer. I would never have applied for this credit card were it not for this offer. I feel that this company is employing fraudulent tactics to get people to apply for credit cards and open bank accounts. They shouldn't be allowed to get away with it."
+}
+
+Chunk:
+i was making a hotel reservation on xxxx when a xxxx ( wellsfargo ) credit card offer was made just before completing my purchase, and it said i would received { $ 150. 00 } off of the reservation - - the screen literally showed my booking dollar amount with the { $ 150. 00 } deduction and the new reduced rate ( see uploaded screenshot ) - - so i proceeded with the application. i received an approval notice to my email with only the last four digits of an account number, which would not allow me to complete my hotel reservation. i called the phone number and asked to be provided my account number, and they transferred me to multiple departments, verifying my personal information each time, when someone came on and said they would give me the account number but only if i agree to open an on - line bank account for deposits. i found this very shady and refused. ultimately they declined to provide the information i needed. i had to complete the booking without the offer. i would never have applied for this credit card were it not for this offer. i feel that this company is employing fraudulent tactics to get people to apply for credit cards and open bank accounts. they shouldn't be allowed to get away with it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991843104362488
+}

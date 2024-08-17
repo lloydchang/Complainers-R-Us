@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9184769,
+  "complaint_id": "9184769",
+  "product": "Credit card",
+  "complaint_what_happened": "There were XXXX fraud transactions on my XXXX Bank of America Credit card ending in XXXX On XX/XX/XXXX at XXXX XXXX XXXX for {$460.00} which was automatically flagged by BOFA as suspicious and asking me to Authorized. I replied NO to this question and the charge was not applied to the card. \n\nOn XX/XX/XXXX XXXX fraud transactions were done on my XXXX Bank of America Credit card XXXX XXXX XXXX XXXX {$2600.00} XXXX XXXX XXXX # XXXX XXXX WA {$120.00} These were not flagged by BOFA as suspicious and they appeared on my credit card transactions list. \n\nWhen I saw these pending transactions, I immediately disputed them as fraud and raised a claim with BOFA Claim no : XXXX. I also cancelled & suspended the credit card and requested a replacement. \nBOFA declined the fraud claim with the following reason : We confirmed your card was used for the charge ( s ). The chip was read, your PIN was entered, and/or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present. \n\nHowever this was not the case, since the said card is still in my possession. I re-raised the claim in XXXX and it was denied again with the same aforementioned reason.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98033",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "There were XXXX fraud transactions on my XXXX Bank of America Credit card ending in XXXX On XX/XX/XXXX at XXXX XXXX XXXX for {$460.00} which was automatically flagged by BOFA as suspicious and asking me to Authorized. I replied NO to this question and the charge was not applied to the card. \n\nOn XX/XX/XXXX XXXX fraud transactions were done on my XXXX Bank of America Credit card XXXX XXXX XXXX XXXX {$2600.00} XXXX XXXX XXXX # XXXX XXXX WA {$120.00} These were not flagged by BOFA as suspicious and they appeared on my credit card transactions list. \n\nWhen I saw these pending transactions, I immediately disputed them as fraud and raised a claim with BOFA Claim no : XXXX. I also cancelled & suspended the credit card and requested a replacement. \nBOFA declined the fraud claim with the following reason : We confirmed your card was used for the charge ( s ). The chip was read, your PIN was entered, and/or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present. \n\nHowever this was not the case, since the said card is still in my possession. I re-raised the claim in XXXX and it was denied again with the same aforementioned reason."
+}
+
+Chunk:
+there were xxxx fraud transactions on my xxxx bank of america credit card ending in xxxx on xx / xx / xxxx at xxxx xxxx xxxx for { $ 460. 00 } which was automatically flagged by bofa as suspicious and asking me to authorized. i replied no to this question and the charge was not applied to the card. on xx / xx / xxxx xxxx fraud transactions were done on my xxxx bank of america credit card xxxx xxxx xxxx xxxx { $ 2600. 00 } xxxx xxxx xxxx # xxxx xxxx wa { $ 120. 00 } these were not flagged by bofa as suspicious and they appeared on my credit card transactions list. when i saw these pending transactions, i immediately disputed them as fraud and raised a claim with bofa claim no : xxxx. i also cancelled & suspended the credit card and requested a replacement. bofa declined the fraud claim with the following reason : we confirmed your card was used for the charge ( s ). the chip was read, your pin was entered, and / or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present. however this was not the case, since the said card is still in my possession. i re - raised the claim in xxxx and it was denied again with the same aforementioned reason.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986870884895325
+}

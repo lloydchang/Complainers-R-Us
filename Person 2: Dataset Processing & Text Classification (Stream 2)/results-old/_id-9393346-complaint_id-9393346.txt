@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9393346,
+  "complaint_id": "9393346",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank closed and or significantly decreased the credit limits on the below active accounts with XXXX balances due and without prior notification as to cause or reason for closure. I have asked for copies of the credit card agreements that explain account closures initiated by the bank and have not received them. These actions have caused a significant negative impact to my credit score. \n\nAmazon Store Card : Credit limit {$2000.00}, XXXX balance and no payment due. Notified of closure on XXXX XXXX by credit monitoring with XXXX XXXX. \n\nSynchrony Master Card : Credit limit decreased from {$1500.00} to {$250.00} in XX/XX/year> with XXXX balance and no payment due.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "30813",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Synchrony Bank closed and or significantly decreased the credit limits on the below active accounts with XXXX balances due and without prior notification as to cause or reason for closure. I have asked for copies of the credit card agreements that explain account closures initiated by the bank and have not received them. These actions have caused a significant negative impact to my credit score. \n\nAmazon Store Card : Credit limit {$2000.00}, XXXX balance and no payment due. Notified of closure on XXXX XXXX by credit monitoring with XXXX XXXX. \n\nSynchrony Master Card : Credit limit decreased from {$1500.00} to {$250.00} in XX/XX/year> with XXXX balance and no payment due."
+}
+
+Chunk:
+synchrony bank closed and or significantly decreased the credit limits on the below active accounts with xxxx balances due and without prior notification as to cause or reason for closure. i have asked for copies of the credit card agreements that explain account closures initiated by the bank and have not received them. these actions have caused a significant negative impact to my credit score. amazon store card : credit limit { $ 2000. 00 }, xxxx balance and no payment due. notified of closure on xxxx xxxx by credit monitoring with xxxx xxxx. synchrony master card : credit limit decreased from { $ 1500. 00 } to { $ 250. 00 } in xx / xx / year > with xxxx balance and no payment due.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997236132621765
+}
