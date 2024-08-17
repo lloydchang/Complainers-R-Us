@@ -35,3 +35,6 @@ except FileNotFoundError:
 
 except Exception as e:
     print(f"An error occurred: {e}")
+
+# Token indices sequence length is longer than the specified maximum sequence length for this model (944055 > 512). Running this sequence through the model will result in indexing errors
+# An error occurred: The size of tensor a (944055) must match the size of tensor b (512) at non-singleton dimension 1
