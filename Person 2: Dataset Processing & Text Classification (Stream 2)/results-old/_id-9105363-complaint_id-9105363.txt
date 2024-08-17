@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9105363,
+  "complaint_id": "9105363",
+  "product": "Credit card",
+  "complaint_what_happened": "At the beginning of XXXX, I received a email from XXXX XXXX  saying that no minimum payment was required at this time, therefore I didn't make a payment. \nI then received an email and text on XX/XX/year> saying my payment was past due and now I own a late fee. I don't understand. I was sent conflicting information. If I hadn't received the email saying no min payment was due, I would have made my payment as usual. I only owe {$XXXX} on this account and plan on paying this full balance within the next month ( XXXX ). \nThis company should be waving my late fee since they are ones that made a mistake. \nThanks XXXX",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "43119",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "At the beginning of XXXX, I received a email from XXXX XXXX  saying that no minimum payment was required at this time, therefore I didn't make a payment. \nI then received an email and text on XX/XX/year> saying my payment was past due and now I own a late fee. I don't understand. I was sent conflicting information. If I hadn't received the email saying no min payment was due, I would have made my payment as usual. I only owe {$XXXX} on this account and plan on paying this full balance within the next month ( XXXX ). \nThis company should be waving my late fee since they are ones that made a mistake. \nThanks XXXX"
+}
+
+Chunk:
+at the beginning of xxxx, i received a email from xxxx xxxx saying that no minimum payment was required at this time, therefore i didn't make a payment. i then received an email and text on xx / xx / year > saying my payment was past due and now i own a late fee. i don't understand. i was sent conflicting information. if i hadn't received the email saying no min payment was due, i would have made my payment as usual. i only owe { $ xxxx } on this account and plan on paying this full balance within the next month ( xxxx ). this company should be waving my late fee since they are ones that made a mistake. thanks xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989528656005859
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9308738,
+  "complaint_id": "9308738",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a t.v from XXXX for XXXX and put it on my Citi card on a flex pay plan on XXXX and it arrived on XXXX. I didn't know it was broke right away because the day they delivered it, they slid it in my front door and propped it against the wall. I had to wait until my father came to visit to help me put it up. It was an XXXX t.v. The t.v box had a hole punctured in the box, and where the hole was at the screen was cracked. We took it out and plugged it in and it didn't work. I called the company that delivered it and they said I had to call XXXX. XXXX didn't help and so I filed a dispute with my credit card company. They rejected the dispute and wouldn't give me a reason. I called XXXX, assuming that the money for the t.v was being held and they said it had already been refunded. I called Citi and they said no refund was issued. Meanwhile, the t.v was boxed back up in the original package and it was picked up on XXXX XXXX. The XXXX  tracking number is XXXX.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78634",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased a t.v from XXXX for XXXX and put it on my Citi card on a flex pay plan on XXXX and it arrived on XXXX. I didn't know it was broke right away because the day they delivered it, they slid it in my front door and propped it against the wall. I had to wait until my father came to visit to help me put it up. It was an XXXX t.v. The t.v box had a hole punctured in the box, and where the hole was at the screen was cracked. We took it out and plugged it in and it didn't work. I called the company that delivered it and they said I had to call XXXX. XXXX didn't help and so I filed a dispute with my credit card company. They rejected the dispute and wouldn't give me a reason. I called XXXX, assuming that the money for the t.v was being held and they said it had already been refunded. I called Citi and they said no refund was issued. Meanwhile, the t.v was boxed back up in the original package and it was picked up on XXXX XXXX. The XXXX  tracking number is XXXX."
+}
+
+Chunk:
+i purchased a t. v from xxxx for xxxx and put it on my citi card on a flex pay plan on xxxx and it arrived on xxxx. i didn't know it was broke right away because the day they delivered it, they slid it in my front door and propped it against the wall. i had to wait until my father came to visit to help me put it up. it was an xxxx t. v. the t. v box had a hole punctured in the box, and where the hole was at the screen was cracked. we took it out and plugged it in and it didn't work. i called the company that delivered it and they said i had to call xxxx. xxxx didn't help and so i filed a dispute with my credit card company. they rejected the dispute and wouldn't give me a reason. i called xxxx, assuming that the money for the t. v was being held and they said it had already been refunded. i called citi and they said no refund was issued. meanwhile, the t. v was boxed back up in the original package and it was picked up on xxxx xxxx. the xxxx tracking number is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997005462646484
+}

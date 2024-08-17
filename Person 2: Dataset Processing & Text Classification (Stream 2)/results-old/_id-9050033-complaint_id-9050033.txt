@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9050033,
+  "complaint_id": "9050033",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, I am requesting that Chase reopen a dispute. \n\nThe original reason for the dispute was incorrect. It states that I did not receive the goods, which is not true. The dispute should reflect that the item was not as described. \n\nI have asked Chase to correct this, but I have not received any assistance. This issue is affecting my interest and daily balance. Additionally, I have received multiple responses from Chase, all with different outcomes. \n\nThank you for your attention to this matter.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21740",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Hello, I am requesting that Chase reopen a dispute. \n\nThe original reason for the dispute was incorrect. It states that I did not receive the goods, which is not true. The dispute should reflect that the item was not as described. \n\nI have asked Chase to correct this, but I have not received any assistance. This issue is affecting my interest and daily balance. Additionally, I have received multiple responses from Chase, all with different outcomes. \n\nThank you for your attention to this matter."
+}
+
+Chunk:
+hello, i am requesting that chase reopen a dispute. the original reason for the dispute was incorrect. it states that i did not receive the goods, which is not true. the dispute should reflect that the item was not as described. i have asked chase to correct this, but i have not received any assistance. this issue is affecting my interest and daily balance. additionally, i have received multiple responses from chase, all with different outcomes. thank you for your attention to this matter.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.6180431246757507
+}

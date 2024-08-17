@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9127068,
+  "complaint_id": "9127068",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, Bank of America close my credit card account ending in XXXX. The account was in good standing and paid on time, average payment was well over the minimum expected. When I reached out to the bank they refused to listen to my concern and address the closure. The answer I got was they reviewed my customer profile and decided to close the account. My checking/savings account attached to this had over {$90000.00} currently. They closed it and sited the terms would have to change, meaning the APR or interest rate. Im now supposed to reapply at a higher cost. This to me seems like predatory lending, looking for ways to increase a fee for current customers to pad the bottom line. I want my card to reopened at the same terms. I also never agreed to have my credit reviewed, this was not approved and caused a hard inquiry on my credit profile. Please help in this situation.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "440XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year>, Bank of America close my credit card account ending in XXXX. The account was in good standing and paid on time, average payment was well over the minimum expected. When I reached out to the bank they refused to listen to my concern and address the closure. The answer I got was they reviewed my customer profile and decided to close the account. My checking/savings account attached to this had over {$90000.00} currently. They closed it and sited the terms would have to change, meaning the APR or interest rate. Im now supposed to reapply at a higher cost. This to me seems like predatory lending, looking for ways to increase a fee for current customers to pad the bottom line. I want my card to reopened at the same terms. I also never agreed to have my credit reviewed, this was not approved and caused a hard inquiry on my credit profile. Please help in this situation."
+}
+
+Chunk:
+on xx / xx / year >, bank of america close my credit card account ending in xxxx. the account was in good standing and paid on time, average payment was well over the minimum expected. when i reached out to the bank they refused to listen to my concern and address the closure. the answer i got was they reviewed my customer profile and decided to close the account. my checking / savings account attached to this had over { $ 90000. 00 } currently. they closed it and sited the terms would have to change, meaning the apr or interest rate. im now supposed to reapply at a higher cost. this to me seems like predatory lending, looking for ways to increase a fee for current customers to pad the bottom line. i want my card to reopened at the same terms. i also never agreed to have my credit reviewed, this was not approved and caused a hard inquiry on my credit profile. please help in this situation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993374943733215
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9399327,
+  "complaint_id": "9399327",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a closed account with Synchrony Bank for a XXXX XXXX credit card that I paid off. The payment was made by check drawn on XXXX XXXX  in XX/XX/year>. Synchrony cashed the check at the beginning of XXXX but the payment of {$2000.00} still has not been posted to my account. I've contacted them multiple times and sent multiple proof of payment with the canceled check. All they tell me is it can takes weeks for them to investigate but when I call back no one can tell me the status of the investigation or when this will be resolved and it's now been over 2 months. XXXX XXXX, who sent the check on my behalf, has also mailed Synchrony proof of payment with the same information hoping they might get better results. The account with Synchrony ends in XXXX and they have it linked to XXXX which is an old phone number for me but what they've asked me to reference when I've sent proof of payment. I feel totally helpless as I can not get anyone to help me resolve this issue and it's making it appear as if I still have this outstanding balance with regards to my credit utilization and I'm still making payments to avoid late fees and additional charges.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "44060",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have a closed account with Synchrony Bank for a XXXX XXXX credit card that I paid off. The payment was made by check drawn on XXXX XXXX  in XX/XX/year>. Synchrony cashed the check at the beginning of XXXX but the payment of {$2000.00} still has not been posted to my account. I've contacted them multiple times and sent multiple proof of payment with the canceled check. All they tell me is it can takes weeks for them to investigate but when I call back no one can tell me the status of the investigation or when this will be resolved and it's now been over 2 months. XXXX XXXX, who sent the check on my behalf, has also mailed Synchrony proof of payment with the same information hoping they might get better results. The account with Synchrony ends in XXXX and they have it linked to XXXX which is an old phone number for me but what they've asked me to reference when I've sent proof of payment. I feel totally helpless as I can not get anyone to help me resolve this issue and it's making it appear as if I still have this outstanding balance with regards to my credit utilization and I'm still making payments to avoid late fees and additional charges."
+}
+
+Chunk:
+i have a closed account with synchrony bank for a xxxx xxxx credit card that i paid off. the payment was made by check drawn on xxxx xxxx in xx / xx / year >. synchrony cashed the check at the beginning of xxxx but the payment of { $ 2000. 00 } still has not been posted to my account. i've contacted them multiple times and sent multiple proof of payment with the canceled check. all they tell me is it can takes weeks for them to investigate but when i call back no one can tell me the status of the investigation or when this will be resolved and it's now been over 2 months. xxxx xxxx, who sent the check on my behalf, has also mailed synchrony proof of payment with the same information hoping they might get better results. the account with synchrony ends in xxxx and they have it linked to xxxx which is an old phone number for me but what they've asked me to reference when i've sent proof of payment. i feel totally helpless as i can not get anyone to help me resolve this issue and it's making it appear as if i still have this outstanding balance with regards to my credit utilization and i'm still making payments to avoid late fees and additional charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984814524650574
+}

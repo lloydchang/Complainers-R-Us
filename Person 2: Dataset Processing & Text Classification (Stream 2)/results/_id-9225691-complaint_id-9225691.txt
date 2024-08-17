@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9225691,
+  "complaint_id": "9225691",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit card number was stolen and used on XX/XX/year> to open a fraudulent XXXX account ad purchase {$880.00} in tickets. The thief used my personal information and my email address to open an account. I noticed the email traffic and charge on my card on XX/XX/XXXX and contacted Barclay to report the fraud and close the card. Barclay removed the charge and issued a new card, but then they reinstated the charges on XX/XX/XXXX becuase the identity thief used my personal information when creating the fraudulent account. The tickets were bought and sent to the thief through XXXX using my email address, but XXXX has no information on the identity of the person who stole the money from me. XXXX has no active customer service phone number and emails have gone unanswered.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29455",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My credit card number was stolen and used on XX/XX/year> to open a fraudulent XXXX account ad purchase {$880.00} in tickets. The thief used my personal information and my email address to open an account. I noticed the email traffic and charge on my card on XX/XX/XXXX and contacted Barclay to report the fraud and close the card. Barclay removed the charge and issued a new card, but then they reinstated the charges on XX/XX/XXXX becuase the identity thief used my personal information when creating the fraudulent account. The tickets were bought and sent to the thief through XXXX using my email address, but XXXX has no information on the identity of the person who stole the money from me. XXXX has no active customer service phone number and emails have gone unanswered."
+}
+
+Chunk:
+my credit card number was stolen and used on xx / xx / year > to open a fraudulent xxxx account ad purchase { $ 880. 00 } in tickets. the thief used my personal information and my email address to open an account. i noticed the email traffic and charge on my card on xx / xx / xxxx and contacted barclay to report the fraud and close the card. barclay removed the charge and issued a new card, but then they reinstated the charges on xx / xx / xxxx becuase the identity thief used my personal information when creating the fraudulent account. the tickets were bought and sent to the thief through xxxx using my email address, but xxxx has no information on the identity of the person who stole the money from me. xxxx has no active customer service phone number and emails have gone unanswered.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992720484733582
+}

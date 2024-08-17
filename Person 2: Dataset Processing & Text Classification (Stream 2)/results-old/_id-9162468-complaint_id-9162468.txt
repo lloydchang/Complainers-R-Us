@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9162468,
+  "complaint_id": "9162468",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX was uncooperative when attempting to cancel a flight in the amount of {$71.00}. Their policy states a credit will be issued toward future travel in the event a refund is not applicable. This is the resolution I was expecting. I was unable to reach the airline by phone, email, chat, or app in order to cancel a flight. It was not until XXXX hours later that I was able to reach an agent on the phone who told me they did not have the authority to assist with getting a credit for this ticket and they were also not able to escalate the issue. They told me to dispute the charge with my bank to resolve the issue. \n\nAfter attempting to dispute with American Express I was told they were unable to open the dispute based on the timeline of the flight and purchase, but that I should be able to apply the value of the unused ticket toward future travel. When I stated that the airline was not providing the credit and ignoring my requests, I was told to continue contacting the airline to resolve the matter. After numerous attempts the airline is ignoring my attempts and refuses to look into the issue. I asked American Express what the next course of action would be if the merchant refuses to speak about the issue in bad faith. I was told there is nothing they can do.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "211XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX XXXX was uncooperative when attempting to cancel a flight in the amount of {$71.00}. Their policy states a credit will be issued toward future travel in the event a refund is not applicable. This is the resolution I was expecting. I was unable to reach the airline by phone, email, chat, or app in order to cancel a flight. It was not until XXXX hours later that I was able to reach an agent on the phone who told me they did not have the authority to assist with getting a credit for this ticket and they were also not able to escalate the issue. They told me to dispute the charge with my bank to resolve the issue. \n\nAfter attempting to dispute with American Express I was told they were unable to open the dispute based on the timeline of the flight and purchase, but that I should be able to apply the value of the unused ticket toward future travel. When I stated that the airline was not providing the credit and ignoring my requests, I was told to continue contacting the airline to resolve the matter. After numerous attempts the airline is ignoring my attempts and refuses to look into the issue. I asked American Express what the next course of action would be if the merchant refuses to speak about the issue in bad faith. I was told there is nothing they can do."
+}
+
+Chunk:
+xxxx xxxx was uncooperative when attempting to cancel a flight in the amount of { $ 71. 00 }. their policy states a credit will be issued toward future travel in the event a refund is not applicable. this is the resolution i was expecting. i was unable to reach the airline by phone, email, chat, or app in order to cancel a flight. it was not until xxxx hours later that i was able to reach an agent on the phone who told me they did not have the authority to assist with getting a credit for this ticket and they were also not able to escalate the issue. they told me to dispute the charge with my bank to resolve the issue. after attempting to dispute with american express i was told they were unable to open the dispute based on the timeline of the flight and purchase, but that i should be able to apply the value of the unused ticket toward future travel. when i stated that the airline was not providing the credit and ignoring my requests, i was told to continue contacting the airline to resolve the matter. after numerous attempts the airline is ignoring my attempts and refuses to look into the issue. i asked american express what the next course of action would be if the merchant refuses to speak about the issue in bad faith. i was told there is nothing they can do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996007084846497
+}

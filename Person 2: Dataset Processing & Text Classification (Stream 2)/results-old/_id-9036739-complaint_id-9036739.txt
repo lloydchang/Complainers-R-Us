@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036739,
+  "complaint_id": "9036739",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened an account with Synchrony Banks Lowes Card when I purchased a home. Roughly a year ago, in the last months Synchrony has done multiple pulls on my credit which has not only affected my credit but they have now closed my account. I have paid on time all but one month, which was a small amount early on as I did get the dates of payment and statements mixed up, but was quickly paid back with a late fee. Other than that my payments have been on time for the thousands of dollars that have been spent there over the course of the year. The pulls of my account have been in succession and the first lowered my credit balance to less than 20 % of what it was at. The second closed the account entirely without no notice, dispute or acknowledgment of previous payments. Furthermore they would withhold available balance for weeks after payment was made without prior warning or reasoning. \n\nAfter discussion with others it seems they have done a large scale clearance of accounts with the exact same description. They are purposefully and thoughtlessly changing the course of peoples lives, affecting individuals credit scores for their own financial gain. As the economy may continue to worsen, companies that have control over something as financial manipulating as credit is, seem to push their narrative at no thought to the consumer of their product. They need to understand the importance of an individuals ' credit should not be damaged as a way to for their company to XXXX. Opening a line of credit with a bank to use in the right way should not be punished because they are not profiting at their highest, the use of credit manipulation by larger banks to welt individuals from growing has to end and needs to start by companies like Synchrony being liable for their actions.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "02050",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I opened an account with Synchrony Banks Lowes Card when I purchased a home. Roughly a year ago, in the last months Synchrony has done multiple pulls on my credit which has not only affected my credit but they have now closed my account. I have paid on time all but one month, which was a small amount early on as I did get the dates of payment and statements mixed up, but was quickly paid back with a late fee. Other than that my payments have been on time for the thousands of dollars that have been spent there over the course of the year. The pulls of my account have been in succession and the first lowered my credit balance to less than 20 % of what it was at. The second closed the account entirely without no notice, dispute or acknowledgment of previous payments. Furthermore they would withhold available balance for weeks after payment was made without prior warning or reasoning. \n\nAfter discussion with others it seems they have done a large scale clearance of accounts with the exact same description. They are purposefully and thoughtlessly changing the course of peoples lives, affecting individuals credit scores for their own financial gain. As the economy may continue to worsen, companies that have control over something as financial manipulating as credit is, seem to push their narrative at no thought to the consumer of their product. They need to understand the importance of an individuals ' credit should not be damaged as a way to for their company to XXXX. Opening a line of credit with a bank to use in the right way should not be punished because they are not profiting at their highest, the use of credit manipulation by larger banks to welt individuals from growing has to end and needs to start by companies like Synchrony being liable for their actions."
+}
+
+Chunk:
+i opened an account with synchrony banks lowes card when i purchased a home. roughly a year ago, in the last months synchrony has done multiple pulls on my credit which has not only affected my credit but they have now closed my account. i have paid on time all but one month, which was a small amount early on as i did get the dates of payment and statements mixed up, but was quickly paid back with a late fee. other than that my payments have been on time for the thousands of dollars that have been spent there over the course of the year. the pulls of my account have been in succession and the first lowered my credit balance to less than 20 % of what it was at. the second closed the account entirely without no notice, dispute or acknowledgment of previous payments. furthermore they would withhold available balance for weeks after payment was made without prior warning or reasoning. after discussion with others it seems they have done a large scale clearance of accounts with the exact same description. they are purposefully and thoughtlessly changing the course of peoples lives, affecting individuals credit scores for their own financial gain. as the economy may continue to worsen, companies that have control over something as financial manipulating as credit is, seem to push their narrative at no thought to the consumer of their product. they need to understand the importance of an individuals'credit should not be damaged as a way to for their company to xxxx. opening a line of credit with a bank to use in the right way should not be punished because they are not profiting at their highest, the use of credit manipulation by larger banks to welt individuals from growing has to end and needs to start by companies like synchrony being liable for their actions.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9952064156532288
+}

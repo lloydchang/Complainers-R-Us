@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9317375,
+  "complaint_id": "9317375",
+  "product": "Credit card",
+  "complaint_what_happened": "My name is XXXX XXXX. My address is XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX, FL XXXX. My email address is : XXXX. Barclays phone number is : XXXX. I wanted to find information about this credit card. I proceeded to contact this Company, Barclays Bank of Delaware, and when the person I was speaking to told me that I would have to pay {$490.00}, a year, I told him that I wasnt interested, because I was retired, and I couldnt afford it. I repeated that twice and then I hung up. A couple of days later, they mailed me the card!! I was in shock. Well, I immediately mailed the card back, and I assumed that was the end of it. Wrong. In my email, I saw that XXXX Credit Report stated that my credit number had gone down. As soon as I saw the name, Barclays Bank of Delaware, and the amount I owed, {$490.00}, with an immediate payment of {$58.00}, I knew I had to do something. I never used the card, I dont even know the number on the credit card. I am writing to you people so that you can clear up this problem. If theyre doing this to me, there are probably others that are dealing with these fraudulent maneuvers, and they need to stop. My credit report needs to be restored to what it was before Barclays Bank of Delaware insidiously involved itself in my personal business, without my knowledge or consent. Thank you.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33321",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "My name is XXXX XXXX. My address is XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX, FL XXXX. My email address is : XXXX. Barclays phone number is : XXXX. I wanted to find information about this credit card. I proceeded to contact this Company, Barclays Bank of Delaware, and when the person I was speaking to told me that I would have to pay {$490.00}, a year, I told him that I wasnt interested, because I was retired, and I couldnt afford it. I repeated that twice and then I hung up. A couple of days later, they mailed me the card!! I was in shock. Well, I immediately mailed the card back, and I assumed that was the end of it. Wrong. In my email, I saw that XXXX Credit Report stated that my credit number had gone down. As soon as I saw the name, Barclays Bank of Delaware, and the amount I owed, {$490.00}, with an immediate payment of {$58.00}, I knew I had to do something. I never used the card, I dont even know the number on the credit card. I am writing to you people so that you can clear up this problem. If theyre doing this to me, there are probably others that are dealing with these fraudulent maneuvers, and they need to stop. My credit report needs to be restored to what it was before Barclays Bank of Delaware insidiously involved itself in my personal business, without my knowledge or consent. Thank you."
+}
+
+Chunk:
+my name is xxxx xxxx. my address is xxxx xxxx xxxx, xxxx xxxx xxxx, xxxx, fl xxxx. my email address is : xxxx. barclays phone number is : xxxx. i wanted to find information about this credit card. i proceeded to contact this company, barclays bank of delaware, and when the person i was speaking to told me that i would have to pay { $ 490. 00 }, a year, i told him that i wasnt interested, because i was retired, and i couldnt afford it. i repeated that twice and then i hung up. a couple of days later, they mailed me the card!! i was in shock. well, i immediately mailed the card back, and i assumed that was the end of it. wrong. in my email, i saw that xxxx credit report stated that my credit number had gone down. as soon as i saw the name, barclays bank of delaware, and the amount i owed, { $ 490. 00 }, with an immediate payment of { $ 58. 00 }, i knew i had to do something. i never used the card, i dont even know the number on the credit card. i am writing to you people so that you can clear up this problem. if theyre doing this to me, there are probably others that are dealing with these fraudulent maneuvers, and they need to stop. my credit report needs to be restored to what it was before barclays bank of delaware insidiously involved itself in my personal business, without my knowledge or consent. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992097616195679
+}

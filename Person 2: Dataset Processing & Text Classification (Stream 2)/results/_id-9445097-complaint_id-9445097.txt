@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9445097,
+  "complaint_id": "9445097",
+  "product": "Credit card",
+  "complaint_what_happened": "I was sent an email promotion ( below ) in XXXX. I registered for the offer and fulfilled the terms but Citibank still has not yet credited the award. I called in for help and the person had no idea what I was talking about. They then provided me an email address to contact. On XX/XX/XXXX I sent an email and to date have not received resolution or even an acknowledgement. Its aggravating to have to spend my time to chase this down. I am owed XXXX miles. \n\n\nHello, XXXX We love great rewards and know you do too. \n\nWe noticed youve been missing out on earning miles with your Citi / AAdvantage credit card, so you have an exclusive offer to earn up to XXXX bonus miles. \n\nIts simple Register by XX/XX/year> Use your Citi / AAdvantage credit card to make at least one eligible purchase in three separate credit card billing statements and earn up to XXXX bonus miles",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I was sent an email promotion ( below ) in XXXX. I registered for the offer and fulfilled the terms but Citibank still has not yet credited the award. I called in for help and the person had no idea what I was talking about. They then provided me an email address to contact. On XX/XX/XXXX I sent an email and to date have not received resolution or even an acknowledgement. Its aggravating to have to spend my time to chase this down. I am owed XXXX miles. \n\n\nHello, XXXX We love great rewards and know you do too. \n\nWe noticed youve been missing out on earning miles with your Citi / AAdvantage credit card, so you have an exclusive offer to earn up to XXXX bonus miles. \n\nIts simple Register by XX/XX/year> Use your Citi / AAdvantage credit card to make at least one eligible purchase in three separate credit card billing statements and earn up to XXXX bonus miles"
+}
+
+Chunk:
+i was sent an email promotion ( below ) in xxxx. i registered for the offer and fulfilled the terms but citibank still has not yet credited the award. i called in for help and the person had no idea what i was talking about. they then provided me an email address to contact. on xx / xx / xxxx i sent an email and to date have not received resolution or even an acknowledgement. its aggravating to have to spend my time to chase this down. i am owed xxxx miles. hello, xxxx we love great rewards and know you do too. we noticed youve been missing out on earning miles with your citi / aadvantage credit card, so you have an exclusive offer to earn up to xxxx bonus miles. its simple register by xx / xx / year > use your citi / aadvantage credit card to make at least one eligible purchase in three separate credit card billing statements and earn up to xxxx bonus miles
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979379773139954
+}

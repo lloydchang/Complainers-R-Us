@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9499071,
+  "complaint_id": "9499071",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a customer of Macy 's for over 50 years. Recently, XX/XX/year>, they issued a notice that informed me that my interest rate on purchases will be increased from what was a ridiculously high rate to one that is, I believe, illegal. The rate was based on the Prime rate of 8.5 % plus a add on rate of 24.99 % or a total of 34.99 %. They told me to either accept it or give up my card. I think this is a predatory tactic and as a XXXX senior living in XXXX, I think they should cease and desist this illegal activity. I recently file a similar complaint against Exxon with the exact interest rate boost. Both use Citibank as the intermediary.",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I have been a customer of Macy 's for over 50 years. Recently, XX/XX/year>, they issued a notice that informed me that my interest rate on purchases will be increased from what was a ridiculously high rate to one that is, I believe, illegal. The rate was based on the Prime rate of 8.5 % plus a add on rate of 24.99 % or a total of 34.99 %. They told me to either accept it or give up my card. I think this is a predatory tactic and as a XXXX senior living in XXXX, I think they should cease and desist this illegal activity. I recently file a similar complaint against Exxon with the exact interest rate boost. Both use Citibank as the intermediary."
+}
+
+Chunk:
+i have been a customer of macy's for over 50 years. recently, xx / xx / year >, they issued a notice that informed me that my interest rate on purchases will be increased from what was a ridiculously high rate to one that is, i believe, illegal. the rate was based on the prime rate of 8. 5 % plus a add on rate of 24. 99 % or a total of 34. 99 %. they told me to either accept it or give up my card. i think this is a predatory tactic and as a xxxx senior living in xxxx, i think they should cease and desist this illegal activity. i recently file a similar complaint against exxon with the exact interest rate boost. both use citibank as the intermediary.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977644681930542
+}

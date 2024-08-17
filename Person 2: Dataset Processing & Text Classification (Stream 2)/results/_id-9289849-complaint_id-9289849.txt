@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9289849,
+  "complaint_id": "9289849",
+  "product": "Credit card",
+  "complaint_what_happened": "Around noon yesterday, I logged into Barclay 's to make a payment. I entered the payment information, and it took me to confirmation page. I realized that I needed to move money into my checking account first, so I DID NOT CONFIRM THE TRANSACTION. I DID NOT PROCEED.\n\nLater in the day, I returned to my computer and found the Barclay 's web page had timed me out. I logged back in, re-entered my information, and confirmed transaction.\n\nI CONFIRMED A TOTAL OF ONE PAYMENTS. I DID NOT CONFIRM TWO PAYMENTS. WHY WOULD I MAKE TWO IDENTICAL PAYMENTS?\n\nI called Barclays and asked that they waive any fees associated with second payment being returned by my checking account bank. I asked that they remove any derogatory information from my account related to the duplicate payment being returned by my bank. The Barclay 's agent said there was nothing she could do - despite the problem arising BECAUSE THEIR WEB SITE PROCEEDED WITH A TRANSACTION THAT WAS NOT COMPLETED.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "577XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "SD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Around noon yesterday, I logged into Barclay 's to make a payment. I entered the payment information, and it took me to confirmation page. I realized that I needed to move money into my checking account first, so I DID NOT CONFIRM THE TRANSACTION. I DID NOT PROCEED.\n\nLater in the day, I returned to my computer and found the Barclay 's web page had timed me out. I logged back in, re-entered my information, and confirmed transaction.\n\nI CONFIRMED A TOTAL OF ONE PAYMENTS. I DID NOT CONFIRM TWO PAYMENTS. WHY WOULD I MAKE TWO IDENTICAL PAYMENTS?\n\nI called Barclays and asked that they waive any fees associated with second payment being returned by my checking account bank. I asked that they remove any derogatory information from my account related to the duplicate payment being returned by my bank. The Barclay 's agent said there was nothing she could do - despite the problem arising BECAUSE THEIR WEB SITE PROCEEDED WITH A TRANSACTION THAT WAS NOT COMPLETED."
+}
+
+Chunk:
+around noon yesterday, i logged into barclay's to make a payment. i entered the payment information, and it took me to confirmation page. i realized that i needed to move money into my checking account first, so i did not confirm the transaction. i did not proceed. later in the day, i returned to my computer and found the barclay's web page had timed me out. i logged back in, re - entered my information, and confirmed transaction. i confirmed a total of one payments. i did not confirm two payments. why would i make two identical payments? i called barclays and asked that they waive any fees associated with second payment being returned by my checking account bank. i asked that they remove any derogatory information from my account related to the duplicate payment being returned by my bank. the barclay's agent said there was nothing she could do - despite the problem arising because their web site proceeded with a transaction that was not completed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993947744369507
+}

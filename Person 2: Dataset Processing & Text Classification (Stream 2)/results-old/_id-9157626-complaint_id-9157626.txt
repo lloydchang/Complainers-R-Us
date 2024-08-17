@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9157626,
+  "complaint_id": "9157626",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX XXXX, I paid my Prosper credit card off. In XX/XX/year>, my card was hacked. I called the Prosper customer service number and they finally gave me the number to call the Prosper Fraud Department. Upon their ( fraud ) completion they did in fact said it was fraud. \n\nI then was charged by Prosper a {$39.00} fee for a credit card which was deemed fraudulent. I ended up paying the {$39.00} fee due to Prosper since they were putting later charges on my credit files/",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "280XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "In XXXX XXXX, I paid my Prosper credit card off. In XX/XX/year>, my card was hacked. I called the Prosper customer service number and they finally gave me the number to call the Prosper Fraud Department. Upon their ( fraud ) completion they did in fact said it was fraud. \n\nI then was charged by Prosper a {$39.00} fee for a credit card which was deemed fraudulent. I ended up paying the {$39.00} fee due to Prosper since they were putting later charges on my credit files/"
+}
+
+Chunk:
+in xxxx xxxx, i paid my prosper credit card off. in xx / xx / year >, my card was hacked. i called the prosper customer service number and they finally gave me the number to call the prosper fraud department. upon their ( fraud ) completion they did in fact said it was fraud. i then was charged by prosper a { $ 39. 00 } fee for a credit card which was deemed fraudulent. i ended up paying the { $ 39. 00 } fee due to prosper since they were putting later charges on my credit files /
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985125660896301
+}

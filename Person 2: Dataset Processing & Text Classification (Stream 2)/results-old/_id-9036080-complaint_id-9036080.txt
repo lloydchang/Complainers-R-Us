@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036080,
+  "complaint_id": "9036080",
+  "product": "Credit card",
+  "complaint_what_happened": "My payments for this account have always been timely, and I've never missed a due date. I am unclear about the late payment remarks reported on my accounts. Under 15 USC 1666b, billing errors should be addressed.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "191XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "My payments for this account have always been timely, and I've never missed a due date. I am unclear about the late payment remarks reported on my accounts. Under 15 USC 1666b, billing errors should be addressed."
+}
+
+Chunk:
+my payments for this account have always been timely, and i've never missed a due date. i am unclear about the late payment remarks reported on my accounts. under 15 usc 1666b, billing errors should be addressed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.736883819103241
+}

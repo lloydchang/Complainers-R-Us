@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9134883,
+  "complaint_id": "9134883",
+  "product": "Credit card",
+  "complaint_what_happened": "Received calls and emails from company during the initial days of my 15 day grace period to pay my bill. Also, received an email AFTER ( I received NO PRIOR NOTICE ) the company dropped my max limit for my card by XXXX received this email on XX/XX/24. Obviously, this XXXX drop on credit limit keeps me bound to making higher payments in such ways where I will never be able to pay-off and close this card. Absolutely unfair, unlawful, predatory lending tactics.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "070XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Upgrade, Inc.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Received calls and emails from company during the initial days of my 15 day grace period to pay my bill. Also, received an email AFTER ( I received NO PRIOR NOTICE ) the company dropped my max limit for my card by XXXX received this email on XX/XX/24. Obviously, this XXXX drop on credit limit keeps me bound to making higher payments in such ways where I will never be able to pay-off and close this card. Absolutely unfair, unlawful, predatory lending tactics."
+}
+
+Chunk:
+received calls and emails from company during the initial days of my 15 day grace period to pay my bill. also, received an email after ( i received no prior notice ) the company dropped my max limit for my card by xxxx received this email on xx / xx / 24. obviously, this xxxx drop on credit limit keeps me bound to making higher payments in such ways where i will never be able to pay - off and close this card. absolutely unfair, unlawful, predatory lending tactics.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980669617652893
+}

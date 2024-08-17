@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065716,
+  "complaint_id": "9065716",
+  "product": "Credit card",
+  "complaint_what_happened": "This is in regards to my former complaint XXXX. \n\nCiti has responded and acknowledged that I \" left the account short by {$94.00} '' when I paid it off. I just realized that the morons at Citi forgot to take off the {$95.00} annual membership fee that was to apply for another year 's membership from XXXX XXXX XXXX. I asked for its removal when I closed the account as the account renewed XXXX day before I closed it. Their agent on the call agreed to do so. By that account, they owe me {$0.00}. Do the math. Guess what, I'll forgive you Citi. Enjoy your XXXX cents. \n\nI attach a record of the call as they claim they have no record.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "604XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "This is in regards to my former complaint XXXX. \n\nCiti has responded and acknowledged that I \" left the account short by {$94.00} '' when I paid it off. I just realized that the morons at Citi forgot to take off the {$95.00} annual membership fee that was to apply for another year 's membership from XXXX XXXX XXXX. I asked for its removal when I closed the account as the account renewed XXXX day before I closed it. Their agent on the call agreed to do so. By that account, they owe me {$0.00}. Do the math. Guess what, I'll forgive you Citi. Enjoy your XXXX cents. \n\nI attach a record of the call as they claim they have no record."
+}
+
+Chunk:
+this is in regards to my former complaint xxxx. citi has responded and acknowledged that i " left the account short by { $ 94. 00 }'' when i paid it off. i just realized that the morons at citi forgot to take off the { $ 95. 00 } annual membership fee that was to apply for another year's membership from xxxx xxxx xxxx. i asked for its removal when i closed the account as the account renewed xxxx day before i closed it. their agent on the call agreed to do so. by that account, they owe me { $ 0. 00 }. do the math. guess what, i'll forgive you citi. enjoy your xxxx cents. i attach a record of the call as they claim they have no record.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988957643508911
+}

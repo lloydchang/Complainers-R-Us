@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9509073,
+  "complaint_id": "9509073",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email in early XXXX from Wellls Fargo that I owed a payment. I looked on Wells Fargo online account and saw that the balance on my card was zero so I called Wells Fargo. I had an account with WF in late 2023 that was closed this credit card ended in XXXX. I reported fraud to Wells Fargo XX/XX/XXXX. The charges are still appearing on this closed account. In fact Wells Fargo decided to send me a new card on a closed account. All my calls with Wells Fargo have done via relay and it is really difficult to try to work with Wells Fargo on XXXX calls. They still can't / won't tell me how charges were made to a closed account ending in XXXX",
+  "date_sent_to_company": "2024-07-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60014",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I received an email in early XXXX from Wellls Fargo that I owed a payment. I looked on Wells Fargo online account and saw that the balance on my card was zero so I called Wells Fargo. I had an account with WF in late 2023 that was closed this credit card ended in XXXX. I reported fraud to Wells Fargo XX/XX/XXXX. The charges are still appearing on this closed account. In fact Wells Fargo decided to send me a new card on a closed account. All my calls with Wells Fargo have done via relay and it is really difficult to try to work with Wells Fargo on XXXX calls. They still can't / won't tell me how charges were made to a closed account ending in XXXX"
+}
+
+Chunk:
+i received an email in early xxxx from wellls fargo that i owed a payment. i looked on wells fargo online account and saw that the balance on my card was zero so i called wells fargo. i had an account with wf in late 2023 that was closed this credit card ended in xxxx. i reported fraud to wells fargo xx / xx / xxxx. the charges are still appearing on this closed account. in fact wells fargo decided to send me a new card on a closed account. all my calls with wells fargo have done via relay and it is really difficult to try to work with wells fargo on xxxx calls. they still can't / won't tell me how charges were made to a closed account ending in xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992757439613342
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9451990,
+  "complaint_id": "9451990",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX U.S. BANK : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXXXXXX XXXX : DENIED A CREDIT CARD/LINE OF CREDIT XX/XX/XXXX XXXXXXXX XXXX XXXX : DENIED A CLI XX/XX/XXXX US BANCORP : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXX XXXX : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXX XXXX XXXX XXXX : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXXXXXX XXXX XXXX XXXX A CREDIT CARD",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30035",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "XX/XX/XXXX U.S. BANK : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXXXXXX XXXX : DENIED A CREDIT CARD/LINE OF CREDIT XX/XX/XXXX XXXXXXXX XXXX XXXX : DENIED A CLI XX/XX/XXXX US BANCORP : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXX XXXX : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXX XXXX XXXX XXXX : I DO NOT RECOGNIZE THIS INQUIRY. \n\nXX/XX/XXXX XXXXXXXX XXXX XXXX XXXX A CREDIT CARD"
+}
+
+Chunk:
+xx / xx / xxxx u. s. bank : i do not recognize this inquiry. xx / xx / xxxx xxxxxxxx xxxx : denied a credit card / line of credit xx / xx / xxxx xxxxxxxx xxxx xxxx : denied a cli xx / xx / xxxx us bancorp : i do not recognize this inquiry. xx / xx / xxxx xxxx xxxx : i do not recognize this inquiry. xx / xx / xxxx xxxx xxxx xxxx xxxx : i do not recognize this inquiry. xx / xx / xxxx xxxxxxxx xxxx xxxx xxxx a credit card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994681477546692
+}

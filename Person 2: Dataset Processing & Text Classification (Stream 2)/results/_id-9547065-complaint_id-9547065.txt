@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9547065,
+  "complaint_id": "9547065",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America charged {$51000.00} to my XXXX XXXX for a balance transfer that I did not authorize, and that there was not even an existing balance to pay on where they claim they made the payment to.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77042",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "Bank of America charged {$51000.00} to my XXXX XXXX for a balance transfer that I did not authorize, and that there was not even an existing balance to pay on where they claim they made the payment to."
+}
+
+Chunk:
+bank of america charged { $ 51000. 00 } to my xxxx xxxx for a balance transfer that i did not authorize, and that there was not even an existing balance to pay on where they claim they made the payment to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993141889572144
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113871,
+  "complaint_id": "9113871",
+  "product": "Credit card",
+  "complaint_what_happened": "Date of Transaction : XXXX Charge XXXX My source is the XXXX of XXXX 's # XXXX sent to me on XXXX XXXX  Transaction # XXXX Card # XXXX Approval # XXXX Reference # XXXX The XXXX 's XXXX sent this information to me via a text from XXXX I have an image of the \" Ticket Copy '' via text on my phone. \n\n*I do not remember his name. \n\nBarclays stopped a second attempt to use the cards XXXX miles away. \n\nI was notified by Barclays & locked my 4 accounts/cards I have with Barclays.\n\nI was under the impression that the charge would be removed by the Customer Service person. \n\nThe charge was removed, but was reinstated this month.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "371XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Date of Transaction : XXXX Charge XXXX My source is the XXXX of XXXX 's # XXXX sent to me on XXXX XXXX  Transaction # XXXX Card # XXXX Approval # XXXX Reference # XXXX The XXXX 's XXXX sent this information to me via a text from XXXX I have an image of the \" Ticket Copy '' via text on my phone. \n\n*I do not remember his name. \n\nBarclays stopped a second attempt to use the cards XXXX miles away. \n\nI was notified by Barclays & locked my 4 accounts/cards I have with Barclays.\n\nI was under the impression that the charge would be removed by the Customer Service person. \n\nThe charge was removed, but was reinstated this month."
+}
+
+Chunk:
+date of transaction : xxxx charge xxxx my source is the xxxx of xxxx's # xxxx sent to me on xxxx xxxx transaction # xxxx card # xxxx approval # xxxx reference # xxxx the xxxx's xxxx sent this information to me via a text from xxxx i have an image of the " ticket copy'' via text on my phone. * i do not remember his name. barclays stopped a second attempt to use the cards xxxx miles away. i was notified by barclays & locked my 4 accounts / cards i have with barclays. i was under the impression that the charge would be removed by the customer service person. the charge was removed, but was reinstated this month.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991598129272461
+}

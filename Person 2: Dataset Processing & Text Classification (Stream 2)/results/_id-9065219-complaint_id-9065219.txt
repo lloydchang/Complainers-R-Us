@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065219,
+  "complaint_id": "9065219",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I received emails from XXXX thanking me for my purchase Two charges were on my TD XXXX XXXX card for {$200.00} and XXXX. The charges were made online. I disputed the charges with the bank and reversed the charges. The charges were placed back on my account on XX/XX/XXXX. I called the bank requesting to know why I was recharged. The bank informed me that the claim had been denied due to my approving the charges. I did not approve these charges. I have never had an account with XXXX. I never purchased anything online or in-store. I contacted XXXX and was advised that the online order was picked up at a XXXX XXXX, FL store and my email was used. I have called the bank several times. Each time the Dispute and Claims Department would send me a letter of review determining fraud did not occur stating I authorized the purchase. I did not authorize the purchase. I filed a report on XXXX.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34491",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/XXXX I received emails from XXXX thanking me for my purchase Two charges were on my TD XXXX XXXX card for {$200.00} and XXXX. The charges were made online. I disputed the charges with the bank and reversed the charges. The charges were placed back on my account on XX/XX/XXXX. I called the bank requesting to know why I was recharged. The bank informed me that the claim had been denied due to my approving the charges. I did not approve these charges. I have never had an account with XXXX. I never purchased anything online or in-store. I contacted XXXX and was advised that the online order was picked up at a XXXX XXXX, FL store and my email was used. I have called the bank several times. Each time the Dispute and Claims Department would send me a letter of review determining fraud did not occur stating I authorized the purchase. I did not authorize the purchase. I filed a report on XXXX."
+}
+
+Chunk:
+xx / xx / xxxx i received emails from xxxx thanking me for my purchase two charges were on my td xxxx xxxx card for { $ 200. 00 } and xxxx. the charges were made online. i disputed the charges with the bank and reversed the charges. the charges were placed back on my account on xx / xx / xxxx. i called the bank requesting to know why i was recharged. the bank informed me that the claim had been denied due to my approving the charges. i did not approve these charges. i have never had an account with xxxx. i never purchased anything online or in - store. i contacted xxxx and was advised that the online order was picked up at a xxxx xxxx, fl store and my email was used. i have called the bank several times. each time the dispute and claims department would send me a letter of review determining fraud did not occur stating i authorized the purchase. i did not authorize the purchase. i filed a report on xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985505938529968
+}

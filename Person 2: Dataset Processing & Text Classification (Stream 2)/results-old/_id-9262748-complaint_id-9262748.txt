@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262748,
+  "complaint_id": "9262748",
+  "product": "Credit card",
+  "complaint_what_happened": "I had an unauthorized payment for the full balance of the credit card I have with XXXX XXXX  {$3900.00} pull on XX/XX/24. When I called and told them we needed the funds send back because it was unauthorized they said they have no way to send wires or ACH and that we would have to wait XXXX business days then call back and ask for a refund and the only way the could send funds back was with a check through XXXX. XXXX gave no other options of returning the fund that have drained my account. I have now called my back to dispute the charges coming from my account.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "730XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I had an unauthorized payment for the full balance of the credit card I have with XXXX XXXX  {$3900.00} pull on XX/XX/24. When I called and told them we needed the funds send back because it was unauthorized they said they have no way to send wires or ACH and that we would have to wait XXXX business days then call back and ask for a refund and the only way the could send funds back was with a check through XXXX. XXXX gave no other options of returning the fund that have drained my account. I have now called my back to dispute the charges coming from my account."
+}
+
+Chunk:
+i had an unauthorized payment for the full balance of the credit card i have with xxxx xxxx { $ 3900. 00 } pull on xx / xx / 24. when i called and told them we needed the funds send back because it was unauthorized they said they have no way to send wires or ach and that we would have to wait xxxx business days then call back and ask for a refund and the only way the could send funds back was with a check through xxxx. xxxx gave no other options of returning the fund that have drained my account. i have now called my back to dispute the charges coming from my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993398785591125
+}

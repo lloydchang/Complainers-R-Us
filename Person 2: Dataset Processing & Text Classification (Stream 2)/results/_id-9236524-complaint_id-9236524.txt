@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9236524,
+  "complaint_id": "9236524",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally dispute the accuracy of the information reported by Continental finance to the credit reporting agencies regarding an alleged charge-off on my account. After reviewing my credit report, I discovered that this information is both inaccurate and misleading, constituting a violation of the Fair Credit Reporting Act ( FCRA ). \n\nAccording to the FCRA, credit reporting agencies and furnishers of information, such as Continental finance, are required to ensure that all information reported is accurate and complete. The alleged charge-off reported on my account does not meet these standards. \n\nBecause of this account being erroneously reported my credit has been negatively affected.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08844",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "I am writing to formally dispute the accuracy of the information reported by Continental finance to the credit reporting agencies regarding an alleged charge-off on my account. After reviewing my credit report, I discovered that this information is both inaccurate and misleading, constituting a violation of the Fair Credit Reporting Act ( FCRA ). \n\nAccording to the FCRA, credit reporting agencies and furnishers of information, such as Continental finance, are required to ensure that all information reported is accurate and complete. The alleged charge-off reported on my account does not meet these standards. \n\nBecause of this account being erroneously reported my credit has been negatively affected."
+}
+
+Chunk:
+i am writing to formally dispute the accuracy of the information reported by continental finance to the credit reporting agencies regarding an alleged charge - off on my account. after reviewing my credit report, i discovered that this information is both inaccurate and misleading, constituting a violation of the fair credit reporting act ( fcra ). according to the fcra, credit reporting agencies and furnishers of information, such as continental finance, are required to ensure that all information reported is accurate and complete. the alleged charge - off reported on my account does not meet these standards. because of this account being erroneously reported my credit has been negatively affected.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995892643928528
+}

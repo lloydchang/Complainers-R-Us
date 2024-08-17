@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9402659,
+  "complaint_id": "9402659",
+  "product": "Credit card",
+  "complaint_what_happened": "i am XXXX XXXX XXXX XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX ] XXXX XXXX Synchrony Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX Account # XXXX To Whom It May Concern, PayPay Credit received payment via US Certified Mail with tracking on XX/XX/year>. Paypal has failed to update the principal account to reflect Paid in full nor did Paypal Credit return the payment. The amount of {$2300.00} that PayPay CREDIT is claiming the principal owes is incorrect. The alleged payment is in a positive form which means that amount should be credited to the account.\n\nThank you.\n\nAll Rights Reserved",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30064",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "i am XXXX XXXX XXXX XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX ] XXXX XXXX Synchrony Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX Account # XXXX To Whom It May Concern, PayPay Credit received payment via US Certified Mail with tracking on XX/XX/year>. Paypal has failed to update the principal account to reflect Paid in full nor did Paypal Credit return the payment. The amount of {$2300.00} that PayPay CREDIT is claiming the principal owes is incorrect. The alleged payment is in a positive form which means that amount should be credited to the account.\n\nThank you.\n\nAll Rights Reserved"
+}
+
+Chunk:
+i am xxxx xxxx xxxx xx / xx / year > xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxxxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxxxxxx ] xxxx xxxx synchrony bank xxxxxxxx xxxx xxxx xxxx xxxx xxxxxxxx account # xxxx to whom it may concern, paypay credit received payment via us certified mail with tracking on xx / xx / year >. paypal has failed to update the principal account to reflect paid in full nor did paypal credit return the payment. the amount of { $ 2300. 00 } that paypay credit is claiming the principal owes is incorrect. the alleged payment is in a positive form which means that amount should be credited to the account. thank you. all rights reserved
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9227531552314758
+}

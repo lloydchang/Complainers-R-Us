@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9304742,
+  "complaint_id": "9304742",
+  "product": "Credit card",
+  "complaint_what_happened": "I went to XXXX XXXX XXXX  located at XXXX XXXX XXXX, XXXX XXXX, LA XXXX ( phone : ( XXXX ) XXXX ) on XX/XX/XXXXXX/XX/XXXX with an initial pretip charge of {$45.00} on my CITI bank credit card. The final charge from the merchant on my card was {$500.00}, which is greater than any reasonable tip. \n\nI tried contacting the merchant, XXXX XXXX XXXX, via phone call, email, XXXX, and XXXX for resolution or a copy of the receipt for the purchase. I did not receive a response from them through any form of communication. \n\nFollowing that I disputed the charge with CITI bank online and through certified mail. The company decided that I was responsible for the charge since I can not get a receipt despite my communication about the noncooperation of the original merchant to provide a receipt. The bank did not contact the merchant themselves for more information.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "194XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I went to XXXX XXXX XXXX  located at XXXX XXXX XXXX, XXXX XXXX, LA XXXX ( phone : ( XXXX ) XXXX ) on XX/XX/XXXXXX/XX/XXXX with an initial pretip charge of {$45.00} on my CITI bank credit card. The final charge from the merchant on my card was {$500.00}, which is greater than any reasonable tip. \n\nI tried contacting the merchant, XXXX XXXX XXXX, via phone call, email, XXXX, and XXXX for resolution or a copy of the receipt for the purchase. I did not receive a response from them through any form of communication. \n\nFollowing that I disputed the charge with CITI bank online and through certified mail. The company decided that I was responsible for the charge since I can not get a receipt despite my communication about the noncooperation of the original merchant to provide a receipt. The bank did not contact the merchant themselves for more information."
+}
+
+Chunk:
+i went to xxxx xxxx xxxx located at xxxx xxxx xxxx, xxxx xxxx, la xxxx ( phone : ( xxxx ) xxxx ) on xx / xx / xxxxxx / xx / xxxx with an initial pretip charge of { $ 45. 00 } on my citi bank credit card. the final charge from the merchant on my card was { $ 500. 00 }, which is greater than any reasonable tip. i tried contacting the merchant, xxxx xxxx xxxx, via phone call, email, xxxx, and xxxx for resolution or a copy of the receipt for the purchase. i did not receive a response from them through any form of communication. following that i disputed the charge with citi bank online and through certified mail. the company decided that i was responsible for the charge since i can not get a receipt despite my communication about the noncooperation of the original merchant to provide a receipt. the bank did not contact the merchant themselves for more information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986100196838379
+}

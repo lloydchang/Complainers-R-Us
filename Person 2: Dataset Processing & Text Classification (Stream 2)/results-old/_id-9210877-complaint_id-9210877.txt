@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210877,
+  "complaint_id": "9210877",
+  "product": "Credit card",
+  "complaint_what_happened": "2 accounts with XXXX XXXX XXXX was charged off 1 in XXXX and 1 in XXXX i was garnished XXXX XXXX of my pay check in which i paid {$1100.00} i waited after i paid for it to be removed from my credit reports it hasnt as of today XXXX XXXX  sent to XXXX  and XXXX  i called them today they said it was paid in full they told me to contact lvnv i did lvnv said i owe additional {$1000.00} i then called credit one they said in XXXX charge off was {$85.00} and XXXX the charge off was {$370.00} Lvnv steals customers money XXXX XXXX XXXX  also does the same thing how a {$85.00} balance turn into a {$1100.00} and then a {$370.00} balance turn into a {$1000.00} i want lvnv funding llc to be removed from my credit reports all three i didnt sign a contract with lvnv it was XXXX  XXXX this called me a lot of hardship",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "441XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Resurgent Capital Services L.P.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "2 accounts with XXXX XXXX XXXX was charged off 1 in XXXX and 1 in XXXX i was garnished XXXX XXXX of my pay check in which i paid {$1100.00} i waited after i paid for it to be removed from my credit reports it hasnt as of today XXXX XXXX  sent to XXXX  and XXXX  i called them today they said it was paid in full they told me to contact lvnv i did lvnv said i owe additional {$1000.00} i then called credit one they said in XXXX charge off was {$85.00} and XXXX the charge off was {$370.00} Lvnv steals customers money XXXX XXXX XXXX  also does the same thing how a {$85.00} balance turn into a {$1100.00} and then a {$370.00} balance turn into a {$1000.00} i want lvnv funding llc to be removed from my credit reports all three i didnt sign a contract with lvnv it was XXXX  XXXX this called me a lot of hardship"
+}
+
+Chunk:
+2 accounts with xxxx xxxx xxxx was charged off 1 in xxxx and 1 in xxxx i was garnished xxxx xxxx of my pay check in which i paid { $ 1100. 00 } i waited after i paid for it to be removed from my credit reports it hasnt as of today xxxx xxxx sent to xxxx and xxxx i called them today they said it was paid in full they told me to contact lvnv i did lvnv said i owe additional { $ 1000. 00 } i then called credit one they said in xxxx charge off was { $ 85. 00 } and xxxx the charge off was { $ 370. 00 } lvnv steals customers money xxxx xxxx xxxx also does the same thing how a { $ 85. 00 } balance turn into a { $ 1100. 00 } and then a { $ 370. 00 } balance turn into a { $ 1000. 00 } i want lvnv funding llc to be removed from my credit reports all three i didnt sign a contract with lvnv it was xxxx xxxx this called me a lot of hardship
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990737438201904
+}

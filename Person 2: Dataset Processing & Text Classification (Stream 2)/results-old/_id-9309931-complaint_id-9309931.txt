@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9309931,
+  "complaint_id": "9309931",
+  "product": "Credit card",
+  "complaint_what_happened": "wells fargo credit card On XX/XX/year>, I visited XXXX XXXX in XXXX, FL. They were offering a membership that included XXXX facials every month, plus products. I attempted to purchase the package and provided them with a Wells Fargo credit card, which they used twice, and I signed. They then informed me that the transaction didn't go through and requested another credit card. I provided them with a XXXX ATM card. Ultimately, they used both of my cards and charged me on both. \nThen I realized these people were trying to scam or rob me directly. I decided not to purchase the membership or the products. I informed them to cancel everything, and they agreed, assuring me that no charges would be incurred as the transaction had not gone through anyway. \nHowever, the charges went through, and I was billed for a membership I did not agree to purchase and for products I never received. I called the credit card company the same day to inform them of the situation, and they assured me not to worry. But now, they are asking me to pay. I really need assistance with this matter. \nthank you, XXXX XXXX. ( XXXX ) XXXX",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "344XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "wells fargo credit card On XX/XX/year>, I visited XXXX XXXX in XXXX, FL. They were offering a membership that included XXXX facials every month, plus products. I attempted to purchase the package and provided them with a Wells Fargo credit card, which they used twice, and I signed. They then informed me that the transaction didn't go through and requested another credit card. I provided them with a XXXX ATM card. Ultimately, they used both of my cards and charged me on both. \nThen I realized these people were trying to scam or rob me directly. I decided not to purchase the membership or the products. I informed them to cancel everything, and they agreed, assuring me that no charges would be incurred as the transaction had not gone through anyway. \nHowever, the charges went through, and I was billed for a membership I did not agree to purchase and for products I never received. I called the credit card company the same day to inform them of the situation, and they assured me not to worry. But now, they are asking me to pay. I really need assistance with this matter. \nthank you, XXXX XXXX. ( XXXX ) XXXX"
+}
+
+Chunk:
+wells fargo credit card on xx / xx / year >, i visited xxxx xxxx in xxxx, fl. they were offering a membership that included xxxx facials every month, plus products. i attempted to purchase the package and provided them with a wells fargo credit card, which they used twice, and i signed. they then informed me that the transaction didn't go through and requested another credit card. i provided them with a xxxx atm card. ultimately, they used both of my cards and charged me on both. then i realized these people were trying to scam or rob me directly. i decided not to purchase the membership or the products. i informed them to cancel everything, and they agreed, assuring me that no charges would be incurred as the transaction had not gone through anyway. however, the charges went through, and i was billed for a membership i did not agree to purchase and for products i never received. i called the credit card company the same day to inform them of the situation, and they assured me not to worry. but now, they are asking me to pay. i really need assistance with this matter. thank you, xxxx xxxx. ( xxxx ) xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9899612665176392
+}

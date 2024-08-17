@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9386215,
+  "complaint_id": "9386215",
+  "product": "Credit card",
+  "complaint_what_happened": "These accounts were never late! I have maintained an exceptional payment history with XXXX XXXX, and all payments were placed on autopay. The late payment that is being reported is the result of a systematic error on their end in processing my payment. This was clearly a billing error made by the company and does not reflect my payment experience, which violates USC Code 1681eb. This error has caused severe harm to my reputation, character, mode of living, and my family! I demand that the late payment reported on these accounts be removed. They are not in compliance with the following law : 15 USC 1666b. Its requirements set the standards and guidance for a creditor to treat a payment as late, yet they are reporting a payment as late without complying with the law! 15 USC 1666b ( a ) Time to make payments : A creditor may not treat a payment on a credit card account under an open-end consumer credit plan as late for any purpose unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement, including the information required by section 1637 ( b ) of this title, is mailed or delivered to the consumer not later than 21 days before the payment due date. These accounts never sent the periodic statement along with the disclosures from section 1637 ( b ). I have requested proof that this information was mailed or delivered 21 days before the payment due date, and this information was requested in good faith pursuant to rule 1002. It was never provided. This is unfair, illegal, fraudulent, and inequitable to me as a consumer",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "64138",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "These accounts were never late! I have maintained an exceptional payment history with XXXX XXXX, and all payments were placed on autopay. The late payment that is being reported is the result of a systematic error on their end in processing my payment. This was clearly a billing error made by the company and does not reflect my payment experience, which violates USC Code 1681eb. This error has caused severe harm to my reputation, character, mode of living, and my family! I demand that the late payment reported on these accounts be removed. They are not in compliance with the following law : 15 USC 1666b. Its requirements set the standards and guidance for a creditor to treat a payment as late, yet they are reporting a payment as late without complying with the law! 15 USC 1666b ( a ) Time to make payments : A creditor may not treat a payment on a credit card account under an open-end consumer credit plan as late for any purpose unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement, including the information required by section 1637 ( b ) of this title, is mailed or delivered to the consumer not later than 21 days before the payment due date. These accounts never sent the periodic statement along with the disclosures from section 1637 ( b ). I have requested proof that this information was mailed or delivered 21 days before the payment due date, and this information was requested in good faith pursuant to rule 1002. It was never provided. This is unfair, illegal, fraudulent, and inequitable to me as a consumer"
+}
+
+Chunk:
+these accounts were never late! i have maintained an exceptional payment history with xxxx xxxx, and all payments were placed on autopay. the late payment that is being reported is the result of a systematic error on their end in processing my payment. this was clearly a billing error made by the company and does not reflect my payment experience, which violates usc code 1681eb. this error has caused severe harm to my reputation, character, mode of living, and my family! i demand that the late payment reported on these accounts be removed. they are not in compliance with the following law : 15 usc 1666b. its requirements set the standards and guidance for a creditor to treat a payment as late, yet they are reporting a payment as late without complying with the law! 15 usc 1666b ( a ) time to make payments : a creditor may not treat a payment on a credit card account under an open - end consumer credit plan as late for any purpose unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement, including the information required by section 1637 ( b ) of this title, is mailed or delivered to the consumer not later than 21 days before the payment due date. these accounts never sent the periodic statement along with the disclosures from section 1637 ( b ). i have requested proof that this information was mailed or delivered 21 days before the payment due date, and this information was requested in good faith pursuant to rule 1002. it was never provided. this is unfair, illegal, fraudulent, and inequitable to me as a consumer
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995442032814026
+}

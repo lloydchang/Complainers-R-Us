@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9560914,
+  "complaint_id": "9560914",
+  "product": "Credit card",
+  "complaint_what_happened": "US BANK Froze all accounts starting with my checking and XXXX credit card accounts, XXXX card that I had for 15 years, because I tried to send {$20.00} they XXXX, to someone they said was a scammer or a fraud according to them. I had no way of knowing this. All of my credit card accounts have bedn paid in full every month. This has been over XXXX weeks ago and I still have not received my money that was in my checking account.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "86409",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "US BANK Froze all accounts starting with my checking and XXXX credit card accounts, XXXX card that I had for 15 years, because I tried to send {$20.00} they XXXX, to someone they said was a scammer or a fraud according to them. I had no way of knowing this. All of my credit card accounts have bedn paid in full every month. This has been over XXXX weeks ago and I still have not received my money that was in my checking account."
+}
+
+Chunk:
+us bank froze all accounts starting with my checking and xxxx credit card accounts, xxxx card that i had for 15 years, because i tried to send { $ 20. 00 } they xxxx, to someone they said was a scammer or a fraud according to them. i had no way of knowing this. all of my credit card accounts have bedn paid in full every month. this has been over xxxx weeks ago and i still have not received my money that was in my checking account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996436834335327
+}

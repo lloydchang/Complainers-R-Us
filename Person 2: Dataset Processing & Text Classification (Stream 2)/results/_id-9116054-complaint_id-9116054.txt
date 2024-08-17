@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9116054,
+  "complaint_id": "9116054",
+  "product": "Credit card",
+  "complaint_what_happened": "on XXXX i was denied credit and my consumer right were violated, and i was discrimination against",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "on XXXX i was denied credit and my consumer right were violated, and i was discrimination against"
+}
+
+Chunk:
+on xxxx i was denied credit and my consumer right were violated, and i was discrimination against
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978218078613281
+}

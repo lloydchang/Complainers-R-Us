@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126083,
+  "complaint_id": "9126083",
+  "product": "Credit card",
+  "complaint_what_happened": "I was XXXX  for most of 2023, beginning the end of XXXX. When I came home all my bills were overdue, so my sister contact the companies to advise them of my situation and to see what she could do. Hardship payment arrangements were made and auto payments were set up in XX/XX/year>, with the exception of Lowes/Synchrony Bank . The rep refused to assist in providing help with making payments. He said that the account was being turned over to dispute, so he could not offer any assistance.However, that same day, J.C. Penny's/Synchrony account, also turning over to dispute was handled that same day. \n\nXXXX of the accounts, XXXX XXXX XXXX, initiated a hardship repayment plan; took out the initial funds, but did not credit the rest. When inquiring as to why the auto payments were not being taken out as authorized, the rep claims that auto payments are not allowed for hardship payments, so we turned the account over to collections. When providing the transaction confirmation number, the rep wanted to speak to his supervisor first, so we asked if we could just speak with her directly. He said he asked her, but she fussed to talk to us. \n\nBoth account, XXXX and Lowes/Synchrony Bank have been turned over to collections ; not because I was not willing to make arrangements or payments, but because the reps refused to assist.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "70460",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I was XXXX  for most of 2023, beginning the end of XXXX. When I came home all my bills were overdue, so my sister contact the companies to advise them of my situation and to see what she could do. Hardship payment arrangements were made and auto payments were set up in XX/XX/year>, with the exception of Lowes/Synchrony Bank . The rep refused to assist in providing help with making payments. He said that the account was being turned over to dispute, so he could not offer any assistance.However, that same day, J.C. Penny's/Synchrony account, also turning over to dispute was handled that same day. \n\nXXXX of the accounts, XXXX XXXX XXXX, initiated a hardship repayment plan; took out the initial funds, but did not credit the rest. When inquiring as to why the auto payments were not being taken out as authorized, the rep claims that auto payments are not allowed for hardship payments, so we turned the account over to collections. When providing the transaction confirmation number, the rep wanted to speak to his supervisor first, so we asked if we could just speak with her directly. He said he asked her, but she fussed to talk to us. \n\nBoth account, XXXX and Lowes/Synchrony Bank have been turned over to collections ; not because I was not willing to make arrangements or payments, but because the reps refused to assist."
+}
+
+Chunk:
+i was xxxx for most of 2023, beginning the end of xxxx. when i came home all my bills were overdue, so my sister contact the companies to advise them of my situation and to see what she could do. hardship payment arrangements were made and auto payments were set up in xx / xx / year >, with the exception of lowes / synchrony bank. the rep refused to assist in providing help with making payments. he said that the account was being turned over to dispute, so he could not offer any assistance. however, that same day, j. c. penny's / synchrony account, also turning over to dispute was handled that same day. xxxx of the accounts, xxxx xxxx xxxx, initiated a hardship repayment plan ; took out the initial funds, but did not credit the rest. when inquiring as to why the auto payments were not being taken out as authorized, the rep claims that auto payments are not allowed for hardship payments, so we turned the account over to collections. when providing the transaction confirmation number, the rep wanted to speak to his supervisor first, so we asked if we could just speak with her directly. he said he asked her, but she fussed to talk to us. both account, xxxx and lowes / synchrony bank have been turned over to collections ; not because i was not willing to make arrangements or payments, but because the reps refused to assist.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990242719650269
+}

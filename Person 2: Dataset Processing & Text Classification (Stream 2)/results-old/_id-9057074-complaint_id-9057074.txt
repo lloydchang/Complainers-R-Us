@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9057074,
+  "complaint_id": "9057074",
+  "product": "Credit card",
+  "complaint_what_happened": "It is a long story but I'll make it short. One of my XXXX XXXX  credit cards was hacked and they got into all 4 of my Citibank accounts. When I discovered this, I called to try to identify the fraudulent charges. I was prevented from doing so because they said they could not verify me online. They had sent me a letter by snail mail and I had to give them the 4 digit code off the letter which I had not yet received. ( You would think with all the personally information they have on me, they could have verified me using numerous criteria. They are using extremely arcade methods. ) Once I got the letter, I called back, but was told had sent a second letter by snail mail and I had to wait for that one. In the meantime, the hacker went crazy. Over the course of about 6 or to 8 phone calls I finally got it resolved, I thought. You should know on the very first phone call, I told them to close ALL of my city accounts and do not issue any new cards. They did not listen ; they sent a replacement card to the hackers address in Florida ; I live in Texas. Why would they do that? The hackers continued to rack up charges. I finally went in and put a freeze on my accounts with the 3 credit bureaus. About {$500.00} of the bill was mine ( and has been paid ) ; but over {$12000.00} was not. I thought it was resolved, but then CitiBank reported {$12000.00} that I owed them to 2 of the 3 credit bureaus. I have disputed each of these. I told them at the time, their responses were too slow, the hackers were too advanced and quicker, and this was on them because I told them to close all my accounts on the first phone call. I have initiated about 10 or 12 phone calls, sent 4 total with 2 being registered letters, and I have received NO CONTACT from them. I think they have been extremely negligent with this, and are now trying to stick me with their mistake. I tried very hard in good faith, to work with them from the very beginning. I got a little to no cooperation from them. In fact I got a lot of runaround. I have logs of all of my phone calls and documents for my letters. I want this issue resolved once for all! I want this fraudulent CitiBank charge taken off my credit record. That is all I desire.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75771",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "It is a long story but I'll make it short. One of my XXXX XXXX  credit cards was hacked and they got into all 4 of my Citibank accounts. When I discovered this, I called to try to identify the fraudulent charges. I was prevented from doing so because they said they could not verify me online. They had sent me a letter by snail mail and I had to give them the 4 digit code off the letter which I had not yet received. ( You would think with all the personally information they have on me, they could have verified me using numerous criteria. They are using extremely arcade methods. ) Once I got the letter, I called back, but was told had sent a second letter by snail mail and I had to wait for that one. In the meantime, the hacker went crazy. Over the course of about 6 or to 8 phone calls I finally got it resolved, I thought. You should know on the very first phone call, I told them to close ALL of my city accounts and do not issue any new cards. They did not listen ; they sent a replacement card to the hackers address in Florida ; I live in Texas. Why would they do that? The hackers continued to rack up charges. I finally went in and put a freeze on my accounts with the 3 credit bureaus. About {$500.00} of the bill was mine ( and has been paid ) ; but over {$12000.00} was not. I thought it was resolved, but then CitiBank reported {$12000.00} that I owed them to 2 of the 3 credit bureaus. I have disputed each of these. I told them at the time, their responses were too slow, the hackers were too advanced and quicker, and this was on them because I told them to close all my accounts on the first phone call. I have initiated about 10 or 12 phone calls, sent 4 total with 2 being registered letters, and I have received NO CONTACT from them. I think they have been extremely negligent with this, and are now trying to stick me with their mistake. I tried very hard in good faith, to work with them from the very beginning. I got a little to no cooperation from them. In fact I got a lot of runaround. I have logs of all of my phone calls and documents for my letters. I want this issue resolved once for all! I want this fraudulent CitiBank charge taken off my credit record. That is all I desire."
+}
+
+Chunk:
+all i desire.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9923075437545776
+}

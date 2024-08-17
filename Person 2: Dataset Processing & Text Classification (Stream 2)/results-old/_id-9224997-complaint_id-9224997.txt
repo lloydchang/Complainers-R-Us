@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224997,
+  "complaint_id": "9224997",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had an unknown charge on my account from my Apple Credit Card (run by Goldman Sachs) amounting to XXXX on XXXX at XXXX XXXX  in 24 hour format).  I have disputed it many times (dates below)XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX.\n\nMultiple dispute cases opened which never seem to go anywhere, first one was XXXX\n\nI have talked with XXXX  Apple Card specialists, and none of them seem to be able to help even after \"reporting it.\"\n\nI can not afford this charge and I need it take off, I have been only given a random location \"Apple Store.\"  They are not able to provide what item was bought or any proof I purchased the item.  Every time the charge is put back with an email following there was not enough information for the charge to be taken away.  The reason for the lack of proof is because the item does not exist, and never has.\n\nI have a close list of every large purchase I have made from Apple and I did not make any Apple item purchase within this time frame or anywhere close to the time frame.\n\nI am requesting help because I am at a loss on what to do next and it seems no one at Apple or Goldman Sachs can help, over the phone or email or texting I am always told they do not know what the item is but the charge is there and I have no choice.\n\nThis is fraud and I cannot afford it.\n\nI have attached a copy of an email the sent me after \"researching into the dispute and finding no data.  Again, no item listed on the email.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98290",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I have had an unknown charge on my account from my Apple Credit Card (run by Goldman Sachs) amounting to XXXX on XXXX at XXXX XXXX  in 24 hour format).  I have disputed it many times (dates below)XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX.\n\nMultiple dispute cases opened which never seem to go anywhere, first one was XXXX\n\nI have talked with XXXX  Apple Card specialists, and none of them seem to be able to help even after \"reporting it.\"\n\nI can not afford this charge and I need it take off, I have been only given a random location \"Apple Store.\"  They are not able to provide what item was bought or any proof I purchased the item.  Every time the charge is put back with an email following there was not enough information for the charge to be taken away.  The reason for the lack of proof is because the item does not exist, and never has.\n\nI have a close list of every large purchase I have made from Apple and I did not make any Apple item purchase within this time frame or anywhere close to the time frame.\n\nI am requesting help because I am at a loss on what to do next and it seems no one at Apple or Goldman Sachs can help, over the phone or email or texting I am always told they do not know what the item is but the charge is there and I have no choice.\n\nThis is fraud and I cannot afford it.\n\nI have attached a copy of an email the sent me after \"researching into the dispute and finding no data.  Again, no item listed on the email."
+}
+
+Chunk:
+i have had an unknown charge on my account from my apple credit card ( run by goldman sachs ) amounting to xxxx on xxxx at xxxx xxxx in 24 hour format ). i have disputed it many times ( dates below ) xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx. multiple dispute cases opened which never seem to go anywhere, first one was xxxx i have talked with xxxx apple card specialists, and none of them seem to be able to help even after " reporting it. " i can not afford this charge and i need it take off, i have been only given a random location " apple store. " they are not able to provide what item was bought or any proof i purchased the item. every time the charge is put back with an email following there was not enough information for the charge to be taken away. the reason for the lack of proof is because the item does not exist, and never has. i have a close list of every large purchase i have made from apple and i did not make any apple item purchase within this time frame or anywhere close to the time frame. i am requesting help because i am at a loss on what to do next and it seems no one at apple or goldman sachs can help, over the phone or email or texting i am always told they do not know what the item is but the charge is there and i have no choice. this is fraud and i cannot afford it. i have attached a copy of an email the sent me after " researching into the dispute and finding no data. again, no item listed on the email.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996151924133301
+}

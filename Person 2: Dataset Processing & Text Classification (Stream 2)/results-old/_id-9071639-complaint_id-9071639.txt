@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071639,
+  "complaint_id": "9071639",
+  "product": "Credit card",
+  "complaint_what_happened": "I had an existing credit card account with American Express ( XXXX XXXX XXXX  ). \nI logged in to my account and and saw a promotional offer for a new credit card ( XXXX XXXX XXXX ). The offer explicitly mentioned XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I followed the instructions and submitted the application to get the card. \n\nOnce the card was approved and showed up in my account, it turned out that it does not offer the advertised XXXX XXXX XXXX XXXX! \n\nI contacted American Express and they told me that this is because my previous card had already offered this feature and therefore they can not offer that feature to me a second time! \nThis explanation is unsatisfactory. If that is so, then why was such a feature offered to me for the second card? The offer was made as I was logged in to my account. Meaning they already had all the information about my account history. They did not have to make such an offer if I wasn't qualified. \n\nThis is false advertising and bait and switch. Plain and simple. Now I have a new hard inquiry on my credit report and more importantly I have a lower average credit card age due to a new credit card issued. Both will negatively impact my credit score. I would not have signed up for this card if it wasn't for this particular feature. \nFurthermore, I also can't close this card without having a significant negative impact on my XXXXredit score due to account closure.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95032",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I had an existing credit card account with American Express ( XXXX XXXX XXXX  ). \nI logged in to my account and and saw a promotional offer for a new credit card ( XXXX XXXX XXXX ). The offer explicitly mentioned XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I followed the instructions and submitted the application to get the card. \n\nOnce the card was approved and showed up in my account, it turned out that it does not offer the advertised XXXX XXXX XXXX XXXX! \n\nI contacted American Express and they told me that this is because my previous card had already offered this feature and therefore they can not offer that feature to me a second time! \nThis explanation is unsatisfactory. If that is so, then why was such a feature offered to me for the second card? The offer was made as I was logged in to my account. Meaning they already had all the information about my account history. They did not have to make such an offer if I wasn't qualified. \n\nThis is false advertising and bait and switch. Plain and simple. Now I have a new hard inquiry on my credit report and more importantly I have a lower average credit card age due to a new credit card issued. Both will negatively impact my credit score. I would not have signed up for this card if it wasn't for this particular feature. \nFurthermore, I also can't close this card without having a significant negative impact on my XXXXredit score due to account closure."
+}
+
+Chunk:
+i had an existing credit card account with american express ( xxxx xxxx xxxx ). i logged in to my account and and saw a promotional offer for a new credit card ( xxxx xxxx xxxx ). the offer explicitly mentioned xxxx xxxx xxxx xxxx xxxx xxxx xxxx. i followed the instructions and submitted the application to get the card. once the card was approved and showed up in my account, it turned out that it does not offer the advertised xxxx xxxx xxxx xxxx! i contacted american express and they told me that this is because my previous card had already offered this feature and therefore they can not offer that feature to me a second time! this explanation is unsatisfactory. if that is so, then why was such a feature offered to me for the second card? the offer was made as i was logged in to my account. meaning they already had all the information about my account history. they did not have to make such an offer if i wasn't qualified. this is false advertising and bait and switch. plain and simple. now i have a new hard inquiry on my credit report and more importantly i have a lower average credit card age due to a new credit card issued. both will negatively impact my credit score. i would not have signed up for this card if it wasn't for this particular feature. furthermore, i also can't close this card without having a significant negative impact on my xxxxredit score due to account closure.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995312690734863
+}

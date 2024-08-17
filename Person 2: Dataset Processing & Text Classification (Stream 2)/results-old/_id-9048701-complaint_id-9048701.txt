@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048701,
+  "complaint_id": "9048701",
+  "product": "Credit card",
+  "complaint_what_happened": "I have multiple XXXX XXXX fees from XXXX to present- In XXXX i called to set up -auto pay- Never was it added to my account in the mean time i have {$80.00} in late fees. this has happened before because i requested in the past to be put on auto pay- Capital one keeps charging me late fees when i have asked multiple times to be placed on auto pay. This is a horrible way to make money off of people and i am sure i am not the only one. Customer service placed me on auto pay today an refused to remove late fees because they were removed previously- i said yes because when i called originally that is when the auto pay was supposed to be placed! \nManager there would not remove my late fees- it's the principle of the matter! literally they're making extra money off of late fees and not setting up the auto pay when originally requested. This is ill-mannered and uncalled for!",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89169",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I have multiple XXXX XXXX fees from XXXX to present- In XXXX i called to set up -auto pay- Never was it added to my account in the mean time i have {$80.00} in late fees. this has happened before because i requested in the past to be put on auto pay- Capital one keeps charging me late fees when i have asked multiple times to be placed on auto pay. This is a horrible way to make money off of people and i am sure i am not the only one. Customer service placed me on auto pay today an refused to remove late fees because they were removed previously- i said yes because when i called originally that is when the auto pay was supposed to be placed! \nManager there would not remove my late fees- it's the principle of the matter! literally they're making extra money off of late fees and not setting up the auto pay when originally requested. This is ill-mannered and uncalled for!"
+}
+
+Chunk:
+i have multiple xxxx xxxx fees from xxxx to present - in xxxx i called to set up - auto pay - never was it added to my account in the mean time i have { $ 80. 00 } in late fees. this has happened before because i requested in the past to be put on auto pay - capital one keeps charging me late fees when i have asked multiple times to be placed on auto pay. this is a horrible way to make money off of people and i am sure i am not the only one. customer service placed me on auto pay today an refused to remove late fees because they were removed previously - i said yes because when i called originally that is when the auto pay was supposed to be placed! manager there would not remove my late fees - it's the principle of the matter! literally they're making extra money off of late fees and not setting up the auto pay when originally requested. this is ill - mannered and uncalled for!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994367957115173
+}

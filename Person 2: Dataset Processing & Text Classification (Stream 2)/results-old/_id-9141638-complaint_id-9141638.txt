@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9141638,
+  "complaint_id": "9141638",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX my credit card was charged for {$3300.00} for an item that I never ordered. \nI got a refund from the Citi bank twice and now again they are telling me that I'm responsible for this purchase. \nThe bank sent me a letter as an evidence that they were communicated with me, but actually it wasn't me since email address and phone number was wrong it wasn't mine. \nUps requested a signature for delivered item and it was never signed by me.And even XXXX wrote that they didn't have account with provided email address. \nI called Citi Bank many times and no one is trying to solve this problem.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90048",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XXXX XXXX my credit card was charged for {$3300.00} for an item that I never ordered. \nI got a refund from the Citi bank twice and now again they are telling me that I'm responsible for this purchase. \nThe bank sent me a letter as an evidence that they were communicated with me, but actually it wasn't me since email address and phone number was wrong it wasn't mine. \nUps requested a signature for delivered item and it was never signed by me.And even XXXX wrote that they didn't have account with provided email address. \nI called Citi Bank many times and no one is trying to solve this problem."
+}
+
+Chunk:
+xxxx xxxx my credit card was charged for { $ 3300. 00 } for an item that i never ordered. i got a refund from the citi bank twice and now again they are telling me that i'm responsible for this purchase. the bank sent me a letter as an evidence that they were communicated with me, but actually it wasn't me since email address and phone number was wrong it wasn't mine. ups requested a signature for delivered item and it was never signed by me. and even xxxx wrote that they didn't have account with provided email address. i called citi bank many times and no one is trying to solve this problem.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994484782218933
+}

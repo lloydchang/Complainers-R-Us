@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9550754,
+  "complaint_id": "9550754",
+  "product": "Credit card",
+  "complaint_what_happened": "I have called multiple times and requested that I be removed from my ex-wifes Fidelity Rewards Visa account and to stop emailing me statements and other account-related correspondence. Fidelity says I do not have authority to remove my email address from someone elses account. I have pointed out that because it is not my account, Fidelity should not be sending me any account-specific emails, in the first place. Fidelity refuses to do anything about it. I do not want to see my ex-wifes information and would like Fidelity to stop sending me any information for accounts that are not mine. I can not simply block Fidelity, however, because I also have my own accounts with Fidelity and I do need to receive emails regarding those accounts.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27516",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Privacy issues",
+  "text": "I have called multiple times and requested that I be removed from my ex-wifes Fidelity Rewards Visa account and to stop emailing me statements and other account-related correspondence. Fidelity says I do not have authority to remove my email address from someone elses account. I have pointed out that because it is not my account, Fidelity should not be sending me any account-specific emails, in the first place. Fidelity refuses to do anything about it. I do not want to see my ex-wifes information and would like Fidelity to stop sending me any information for accounts that are not mine. I can not simply block Fidelity, however, because I also have my own accounts with Fidelity and I do need to receive emails regarding those accounts."
+}
+
+Chunk:
+i have called multiple times and requested that i be removed from my ex - wifes fidelity rewards visa account and to stop emailing me statements and other account - related correspondence. fidelity says i do not have authority to remove my email address from someone elses account. i have pointed out that because it is not my account, fidelity should not be sending me any account - specific emails, in the first place. fidelity refuses to do anything about it. i do not want to see my ex - wifes information and would like fidelity to stop sending me any information for accounts that are not mine. i can not simply block fidelity, however, because i also have my own accounts with fidelity and i do need to receive emails regarding those accounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993724226951599
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9120503,
+  "complaint_id": "9120503",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I checked my Equifax consumer credit report and noticed XXXX XXXX XXXX XXXX XXXX accounts that don't belong to me. I filed a police report with the XXXX police department ( attached ) and FTC XXXX theft report with the reference number XXXX. \n15 U.S. Code 1681c2 - Block of information resulting from identity theft is the applicable law The list of accounts below have violated my federally protected consumer rights to privacy and confidentiality under 15 USC 1681 15 U.S.C XXXX section XXXX A states I have a right to privacy. \n\n15 U.S.C 1681 section XXXX A section XXXX States a consumer reporting agency can not furnish a account without my instructions. \n\n15 U.S. Code 1681s2 - Responsibilities of furnishers of information to consumer reporting agencies. A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate. \n\n\nXXXX XXXX XXXX XXXX XXXX XXXX account balance XXXX date opened XX/XX/XXXX XXXX ) XXXX XXXX XXXX XXXX Account balance XXXX Date opened XX/XX/XXXXXXXX XXXX",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95825",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/XXXX I checked my Equifax consumer credit report and noticed XXXX XXXX XXXX XXXX XXXX accounts that don't belong to me. I filed a police report with the XXXX police department ( attached ) and FTC XXXX theft report with the reference number XXXX. \n15 U.S. Code 1681c2 - Block of information resulting from identity theft is the applicable law The list of accounts below have violated my federally protected consumer rights to privacy and confidentiality under 15 USC 1681 15 U.S.C XXXX section XXXX A states I have a right to privacy. \n\n15 U.S.C 1681 section XXXX A section XXXX States a consumer reporting agency can not furnish a account without my instructions. \n\n15 U.S. Code 1681s2 - Responsibilities of furnishers of information to consumer reporting agencies. A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate. \n\n\nXXXX XXXX XXXX XXXX XXXX XXXX account balance XXXX date opened XX/XX/XXXX XXXX ) XXXX XXXX XXXX XXXX Account balance XXXX Date opened XX/XX/XXXXXXXX XXXX"
+}
+
+Chunk:
+on xx / xx / xxxx i checked my equifax consumer credit report and noticed xxxx xxxx xxxx xxxx xxxx accounts that don't belong to me. i filed a police report with the xxxx police department ( attached ) and ftc xxxx theft report with the reference number xxxx. 15 u. s. code 1681c2 - block of information resulting from identity theft is the applicable law the list of accounts below have violated my federally protected consumer rights to privacy and confidentiality under 15 usc 1681 15 u. s. c xxxx section xxxx a states i have a right to privacy. 15 u. s. c 1681 section xxxx a section xxxx states a consumer reporting agency can not furnish a account without my instructions. 15 u. s. code 1681s2 - responsibilities of furnishers of information to consumer reporting agencies. a person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate. xxxx xxxx xxxx xxxx xxxx xxxx account balance xxxx date opened xx / xx / xxxx xxxx ) xxxx xxxx xxxx xxxx account balance xxxx date opened xx / xx / xxxxxxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973809123039246
+}

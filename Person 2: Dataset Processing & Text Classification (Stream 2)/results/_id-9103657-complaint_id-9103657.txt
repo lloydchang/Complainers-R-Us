@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9103657,
+  "complaint_id": "9103657",
+  "product": "Credit card",
+  "complaint_what_happened": "For years Ive tried to get Old Navy to stop reporting negativity on my credit and they refuse. The account has been paid off for years but they never remove themselves. They keep finding a way to stay on my credit report and every year it is suppose to be removed they find a way to stay on.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "Store credit card",
+  "zip_code": "75052",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Old information reappears or never goes away",
+  "text": "For years Ive tried to get Old Navy to stop reporting negativity on my credit and they refuse. The account has been paid off for years but they never remove themselves. They keep finding a way to stay on my credit report and every year it is suppose to be removed they find a way to stay on."
+}
+
+Chunk:
+for years ive tried to get old navy to stop reporting negativity on my credit and they refuse. the account has been paid off for years but they never remove themselves. they keep finding a way to stay on my credit report and every year it is suppose to be removed they find a way to stay on.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974464178085327
+}

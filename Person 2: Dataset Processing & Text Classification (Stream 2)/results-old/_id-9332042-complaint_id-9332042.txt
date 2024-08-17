@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9332042,
+  "complaint_id": "9332042",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for the Wells Fargo Active Cash card on XX/XX/XXXX. My application was denied immediately after. I contacted the bank and they said a letter would be sent indicating why the application was denied. \n\nI received the letter today and none of the reasons apply to me. \n\nWells Fargo penalizes potential customers for paying off their credit card balance before the end of the billing cycle. \n\nWells Fargo said I did not have enough \" old accounts ''. This is not true and can be verified on my credit report such an active, in good standing card opened in XXXX for XXXX. I also have another card that was opened in XXXX. \n\nWells Fargo said my loan and balance ratio was too high, which again did not make sense since I pay everything off.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80015",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for the Wells Fargo Active Cash card on XX/XX/XXXX. My application was denied immediately after. I contacted the bank and they said a letter would be sent indicating why the application was denied. \n\nI received the letter today and none of the reasons apply to me. \n\nWells Fargo penalizes potential customers for paying off their credit card balance before the end of the billing cycle. \n\nWells Fargo said I did not have enough \" old accounts ''. This is not true and can be verified on my credit report such an active, in good standing card opened in XXXX for XXXX. I also have another card that was opened in XXXX. \n\nWells Fargo said my loan and balance ratio was too high, which again did not make sense since I pay everything off."
+}
+
+Chunk:
+i applied for the wells fargo active cash card on xx / xx / xxxx. my application was denied immediately after. i contacted the bank and they said a letter would be sent indicating why the application was denied. i received the letter today and none of the reasons apply to me. wells fargo penalizes potential customers for paying off their credit card balance before the end of the billing cycle. wells fargo said i did not have enough " old accounts''. this is not true and can be verified on my credit report such an active, in good standing card opened in xxxx for xxxx. i also have another card that was opened in xxxx. wells fargo said my loan and balance ratio was too high, which again did not make sense since i pay everything off.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995782971382141
+}

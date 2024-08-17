@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9603896,
+  "complaint_id": "9603896",
+  "product": "Credit card",
+  "complaint_what_happened": "A credit card appears to have been opened by a fraudulent entity using my SSN and personal information through XXXX. They used an incorrect mailing address and phone number. A credit limit o XXXX dollars as given and they left a balance of XXXX dollars. I am unaware of this account and just realized this was opened under my name when I pulled my recent credit report and my credit score was terrible due to \" delinquent payment '' from this account. Spoke with XXXX XXXX and they referred me to the fraud department who are currently investigating the manner. Also placed a fraud alert through XXXX and XXXX and they are both investigating the manner.",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11727",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-24T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "A credit card appears to have been opened by a fraudulent entity using my SSN and personal information through XXXX. They used an incorrect mailing address and phone number. A credit limit o XXXX dollars as given and they left a balance of XXXX dollars. I am unaware of this account and just realized this was opened under my name when I pulled my recent credit report and my credit score was terrible due to \" delinquent payment '' from this account. Spoke with XXXX XXXX and they referred me to the fraud department who are currently investigating the manner. Also placed a fraud alert through XXXX and XXXX and they are both investigating the manner."
+}
+
+Chunk:
+a credit card appears to have been opened by a fraudulent entity using my ssn and personal information through xxxx. they used an incorrect mailing address and phone number. a credit limit o xxxx dollars as given and they left a balance of xxxx dollars. i am unaware of this account and just realized this was opened under my name when i pulled my recent credit report and my credit score was terrible due to " delinquent payment'' from this account. spoke with xxxx xxxx and they referred me to the fraud department who are currently investigating the manner. also placed a fraud alert through xxxx and xxxx and they are both investigating the manner.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996216297149658
+}

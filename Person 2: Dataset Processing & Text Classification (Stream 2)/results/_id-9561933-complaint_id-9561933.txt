@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9561933,
+  "complaint_id": "9561933",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I got a call from my parents who live in XX/XX/XXXX that they received an XXXX XXXX credit card through Barclays Bank under my name that I did not apply for. Around the same time they also received cards from XXXX, XXXX, and XXXX, and a purchase for a new phone was made through XXXX on my credit as well. I had been the victim of identity theft, and Took the necessary measures to freeze my credit, inform each company about the fraudulent accounts, submit police reports stating what had happened, and submit disputes with the credit bureaus as well. \n\nAs of now, each of these cases have been resolved and I have not been held responsible for any charges, except for the XXXX XXXX account. The dispute I submitted through XXXX came back with a ruling that I was responsible for the charges, and I followed up over the phone to see why, and to have them reopen their investigation on the issue. On XX/XX/year>, I received a letter ( at my correct address in XX/XX/XXXX ) that their investigation once again ruled that I was responsible. I followed up over the phone AGAIN to see what caused them to rule that, and provided the additional information that I had been living in my current address in XX/XX/XXXX for the past 3 years, while the credit card that was fraudulently opened was sent back to my parent 's address in XX/XX/XXXX The investigation has once again been opened, but the present moment I am still being held accountable for the charges, and I have been contacted by them saying that my payment is past due.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "900XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year>, I got a call from my parents who live in XX/XX/XXXX that they received an XXXX XXXX credit card through Barclays Bank under my name that I did not apply for. Around the same time they also received cards from XXXX, XXXX, and XXXX, and a purchase for a new phone was made through XXXX on my credit as well. I had been the victim of identity theft, and Took the necessary measures to freeze my credit, inform each company about the fraudulent accounts, submit police reports stating what had happened, and submit disputes with the credit bureaus as well. \n\nAs of now, each of these cases have been resolved and I have not been held responsible for any charges, except for the XXXX XXXX account. The dispute I submitted through XXXX came back with a ruling that I was responsible for the charges, and I followed up over the phone to see why, and to have them reopen their investigation on the issue. On XX/XX/year>, I received a letter ( at my correct address in XX/XX/XXXX ) that their investigation once again ruled that I was responsible. I followed up over the phone AGAIN to see what caused them to rule that, and provided the additional information that I had been living in my current address in XX/XX/XXXX for the past 3 years, while the credit card that was fraudulently opened was sent back to my parent 's address in XX/XX/XXXX The investigation has once again been opened, but the present moment I am still being held accountable for the charges, and I have been contacted by them saying that my payment is past due."
+}
+
+Chunk:
+on xx / xx / year >, i got a call from my parents who live in xx / xx / xxxx that they received an xxxx xxxx credit card through barclays bank under my name that i did not apply for. around the same time they also received cards from xxxx, xxxx, and xxxx, and a purchase for a new phone was made through xxxx on my credit as well. i had been the victim of identity theft, and took the necessary measures to freeze my credit, inform each company about the fraudulent accounts, submit police reports stating what had happened, and submit disputes with the credit bureaus as well. as of now, each of these cases have been resolved and i have not been held responsible for any charges, except for the xxxx xxxx account. the dispute i submitted through xxxx came back with a ruling that i was responsible for the charges, and i followed up over the phone to see why, and to have them reopen their investigation on the issue. on xx / xx / year >, i received a letter ( at my correct address in xx / xx / xxxx ) that their investigation once again ruled that i was responsible. i followed up over the phone again to see what caused them to rule that, and provided the additional information that i had been living in my current address in xx / xx / xxxx for the past 3 years, while the credit card that was fraudulently opened was sent back to my parent's address in xx / xx / xxxx the investigation has once again been opened, but the present moment i am still being held accountable for the charges, and i have been contacted by them saying that my payment is past due.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981697797775269
+}

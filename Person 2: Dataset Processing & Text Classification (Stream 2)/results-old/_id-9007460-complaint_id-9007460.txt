@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9007460,
+  "complaint_id": "9007460",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, I subscribed to a newsletter at {$130.00} per month. In XX/XX/XXXX, I decided to stop the subscription due to not using the service. Well, I sent the merchant a request to stop service/delivery and followed the instructions on their website. From XXXX to XXXX I was charged each month from the merchant. In XX/XX/XXXX, I decided I had had enough and changed my card number, and filed a dispute with Citibank. Citibank claims they did an investigation and decided to side with the merchant. Citibank and I disagreed on the outcome ; so, I tried filing an appeal. It's been nearly two weeks, I have not heard anything.\n\nI realize now that there is only a 60-day period where they can give credit back for what happened, but Citibank still insists that the merchant is in the right. So, a partial credit would have been the most appropriate outcome. But, that was not the case at all. If I can't depend on my credit card company to back me when I'm in the right, then I have lost trust and will likely cancel our relationship of over XXXX  years. \n\nNOTE : Since I've gone through Citibank to try to resolve this issue, the merchant and Citibank are well aware of the transactions and no copies are necessary. But I can provide the information to you should you need it.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "618XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "In XX/XX/XXXX, I subscribed to a newsletter at {$130.00} per month. In XX/XX/XXXX, I decided to stop the subscription due to not using the service. Well, I sent the merchant a request to stop service/delivery and followed the instructions on their website. From XXXX to XXXX I was charged each month from the merchant. In XX/XX/XXXX, I decided I had had enough and changed my card number, and filed a dispute with Citibank. Citibank claims they did an investigation and decided to side with the merchant. Citibank and I disagreed on the outcome ; so, I tried filing an appeal. It's been nearly two weeks, I have not heard anything.\n\nI realize now that there is only a 60-day period where they can give credit back for what happened, but Citibank still insists that the merchant is in the right. So, a partial credit would have been the most appropriate outcome. But, that was not the case at all. If I can't depend on my credit card company to back me when I'm in the right, then I have lost trust and will likely cancel our relationship of over XXXX  years. \n\nNOTE : Since I've gone through Citibank to try to resolve this issue, the merchant and Citibank are well aware of the transactions and no copies are necessary. But I can provide the information to you should you need it."
+}
+
+Chunk:
+in xx / xx / xxxx, i subscribed to a newsletter at { $ 130. 00 } per month. in xx / xx / xxxx, i decided to stop the subscription due to not using the service. well, i sent the merchant a request to stop service / delivery and followed the instructions on their website. from xxxx to xxxx i was charged each month from the merchant. in xx / xx / xxxx, i decided i had had enough and changed my card number, and filed a dispute with citibank. citibank claims they did an investigation and decided to side with the merchant. citibank and i disagreed on the outcome ; so, i tried filing an appeal. it's been nearly two weeks, i have not heard anything. i realize now that there is only a 60 - day period where they can give credit back for what happened, but citibank still insists that the merchant is in the right. so, a partial credit would have been the most appropriate outcome. but, that was not the case at all. if i can't depend on my credit card company to back me when i'm in the right, then i have lost trust and will likely cancel our relationship of over xxxx years. note : since i've gone through citibank to try to resolve this issue, the merchant and citibank are well aware of the transactions and no copies are necessary. but i can provide the information to you should you need it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989373087882996
+}

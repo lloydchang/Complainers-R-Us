@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044261,
+  "complaint_id": "9044261",
+  "product": "Credit card",
+  "complaint_what_happened": "Subject : Complaint Regarding Unjust Closure of Credit Card Account by Chase Bank Dear Consumer Financial Protection Bureau, I am writing to file a complaint against Chase Bank regarding the unwarranted closure of my credit card account on XX/XX/XXXX under the pretext of \" abuse. '' The account closure occurred shortly after I requested details and support related to a merchant dispute with XXXX XXXX XXXX. I have always maintained a pristine record with Chase Bank, never missing a payment or raising complaints about any other issue besides this particular merchant dispute. \n\nAs a responsible consumer, I exercised my right to request information and documentation from the merchant to resolve the dispute in question. However, instead of cooperating and providing the necessary support, Chase Bank closed my credit card account, citing vague allegations of \" abuse. '' I wish to emphasize that I have always conducted myself responsibly and respectfully in my dealings with Chase Bank and other businesses. The sudden closure of my credit card account has caused considerable hardship, as it hampers my ability to manage my financial affairs effectively. \n\nI am seeking your intervention to investigate this matter thoroughly and ensure that my rights as a consumer are upheld. I urge the Consumer Financial Protection Bureau to hold Chase Bank accountable for its actions and provide me with a detailed explanation for the closure of my credit card account. \n\nI appreciate your attention to this pressing issue and look forward to a swift resolution. \n\nThank you for your assistance. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "03110",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Subject : Complaint Regarding Unjust Closure of Credit Card Account by Chase Bank Dear Consumer Financial Protection Bureau, I am writing to file a complaint against Chase Bank regarding the unwarranted closure of my credit card account on XX/XX/XXXX under the pretext of \" abuse. '' The account closure occurred shortly after I requested details and support related to a merchant dispute with XXXX XXXX XXXX. I have always maintained a pristine record with Chase Bank, never missing a payment or raising complaints about any other issue besides this particular merchant dispute. \n\nAs a responsible consumer, I exercised my right to request information and documentation from the merchant to resolve the dispute in question. However, instead of cooperating and providing the necessary support, Chase Bank closed my credit card account, citing vague allegations of \" abuse. '' I wish to emphasize that I have always conducted myself responsibly and respectfully in my dealings with Chase Bank and other businesses. The sudden closure of my credit card account has caused considerable hardship, as it hampers my ability to manage my financial affairs effectively. \n\nI am seeking your intervention to investigate this matter thoroughly and ensure that my rights as a consumer are upheld. I urge the Consumer Financial Protection Bureau to hold Chase Bank accountable for its actions and provide me with a detailed explanation for the closure of my credit card account. \n\nI appreciate your attention to this pressing issue and look forward to a swift resolution. \n\nThank you for your assistance. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+subject : complaint regarding unjust closure of credit card account by chase bank dear consumer financial protection bureau, i am writing to file a complaint against chase bank regarding the unwarranted closure of my credit card account on xx / xx / xxxx under the pretext of " abuse.'' the account closure occurred shortly after i requested details and support related to a merchant dispute with xxxx xxxx xxxx. i have always maintained a pristine record with chase bank, never missing a payment or raising complaints about any other issue besides this particular merchant dispute. as a responsible consumer, i exercised my right to request information and documentation from the merchant to resolve the dispute in question. however, instead of cooperating and providing the necessary support, chase bank closed my credit card account, citing vague allegations of " abuse.'' i wish to emphasize that i have always conducted myself responsibly and respectfully in my dealings with chase bank and other businesses. the sudden closure of my credit card account has caused considerable hardship, as it hampers my ability to manage my financial affairs effectively. i am seeking your intervention to investigate this matter thoroughly and ensure that my rights as a consumer are upheld. i urge the consumer financial protection bureau to hold chase bank accountable for its actions and provide me with a detailed explanation for the closure of my credit card account. i appreciate your attention to this pressing issue and look forward to a swift resolution. thank you for your assistance. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9592055082321167
+}

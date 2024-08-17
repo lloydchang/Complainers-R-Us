@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9441882,
+  "complaint_id": "9441882",
+  "product": "Credit card",
+  "complaint_what_happened": "Dispute # XXXX for {$790.00} at XXXX XXXX XXXX XXXX on My Fidelity Credit Card issued by ELAN was submitted on XX/XX/year> 1. Refund of {$450.00} fee for the destination shuttle ( promised to me at the time of move ). The movers did not use a big container truck and they did not need a destination shuttle to deliver my items.\n\n2. Refund of the misc extra storage ( 20 cubic feet ) suggested by the QA personnel if in case we go over the agreed-upon items.\n\n3. Claim for 2 broken bowls, one broken baking bowl, and one smart XXXX XXXX monitor. \n\nTotal of the above comes to {$790.00} Elan is terrible with dispute resolution. Other than the initial correspondence from Elan, there has been no correspondence from them. They have never notified me if anything is pending on my end to deliver regarding documentation. Even the resolution they came up with was that they could not help me and I needed to figure out with the merchant. There was no written documentation of the resolution, I had to call them to get an update. I was not able to resolve it with the merchant in the first place thats why i needed to involve my credit card issuer.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Dispute # XXXX for {$790.00} at XXXX XXXX XXXX XXXX on My Fidelity Credit Card issued by ELAN was submitted on XX/XX/year> 1. Refund of {$450.00} fee for the destination shuttle ( promised to me at the time of move ). The movers did not use a big container truck and they did not need a destination shuttle to deliver my items.\n\n2. Refund of the misc extra storage ( 20 cubic feet ) suggested by the QA personnel if in case we go over the agreed-upon items.\n\n3. Claim for 2 broken bowls, one broken baking bowl, and one smart XXXX XXXX monitor. \n\nTotal of the above comes to {$790.00} Elan is terrible with dispute resolution. Other than the initial correspondence from Elan, there has been no correspondence from them. They have never notified me if anything is pending on my end to deliver regarding documentation. Even the resolution they came up with was that they could not help me and I needed to figure out with the merchant. There was no written documentation of the resolution, I had to call them to get an update. I was not able to resolve it with the merchant in the first place thats why i needed to involve my credit card issuer."
+}
+
+Chunk:
+dispute # xxxx for { $ 790. 00 } at xxxx xxxx xxxx xxxx on my fidelity credit card issued by elan was submitted on xx / xx / year > 1. refund of { $ 450. 00 } fee for the destination shuttle ( promised to me at the time of move ). the movers did not use a big container truck and they did not need a destination shuttle to deliver my items. 2. refund of the misc extra storage ( 20 cubic feet ) suggested by the qa personnel if in case we go over the agreed - upon items. 3. claim for 2 broken bowls, one broken baking bowl, and one smart xxxx xxxx monitor. total of the above comes to { $ 790. 00 } elan is terrible with dispute resolution. other than the initial correspondence from elan, there has been no correspondence from them. they have never notified me if anything is pending on my end to deliver regarding documentation. even the resolution they came up with was that they could not help me and i needed to figure out with the merchant. there was no written documentation of the resolution, i had to call them to get an update. i was not able to resolve it with the merchant in the first place thats why i needed to involve my credit card issuer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990143775939941
+}

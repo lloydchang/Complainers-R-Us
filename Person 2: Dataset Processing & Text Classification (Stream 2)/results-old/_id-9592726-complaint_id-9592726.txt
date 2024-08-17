@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9592726,
+  "complaint_id": "9592726",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi Bank removed me from the joint ( me and my husband ) account on XX/XX/year>. According to them, they removed me because they discovered my association with a cannabis-related business. I sent them a letter on XX/XX/year>, telling I did not, do not, will not have any association with any cannabis-related business and requesting them to correct the mistake and to reinstate my account. However, they refused to correct their mistake, saying \" our position remains unchanged. As stated in the Terms and Conditions of the agreement that governs the relationship between Citibank and its customers, we XXXX close or suspend your account for any reason, or for no reason. We XXXX do this at any time, without notifying you, as allowed by law. '' It's not right because I did not, do not have any association with any cannabis-related business at all. There XXXX be hundreds of people who have the same name in XXXX. I know they made a mistake but refused to correct it.",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98027",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Citi Bank removed me from the joint ( me and my husband ) account on XX/XX/year>. According to them, they removed me because they discovered my association with a cannabis-related business. I sent them a letter on XX/XX/year>, telling I did not, do not, will not have any association with any cannabis-related business and requesting them to correct the mistake and to reinstate my account. However, they refused to correct their mistake, saying \" our position remains unchanged. As stated in the Terms and Conditions of the agreement that governs the relationship between Citibank and its customers, we XXXX close or suspend your account for any reason, or for no reason. We XXXX do this at any time, without notifying you, as allowed by law. '' It's not right because I did not, do not have any association with any cannabis-related business at all. There XXXX be hundreds of people who have the same name in XXXX. I know they made a mistake but refused to correct it."
+}
+
+Chunk:
+citi bank removed me from the joint ( me and my husband ) account on xx / xx / year >. according to them, they removed me because they discovered my association with a cannabis - related business. i sent them a letter on xx / xx / year >, telling i did not, do not, will not have any association with any cannabis - related business and requesting them to correct the mistake and to reinstate my account. however, they refused to correct their mistake, saying " our position remains unchanged. as stated in the terms and conditions of the agreement that governs the relationship between citibank and its customers, we xxxx close or suspend your account for any reason, or for no reason. we xxxx do this at any time, without notifying you, as allowed by law.'' it's not right because i did not, do not have any association with any cannabis - related business at all. there xxxx be hundreds of people who have the same name in xxxx. i know they made a mistake but refused to correct it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994893074035645
+}

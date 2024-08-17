@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9032279,
+  "complaint_id": "9032279",
+  "product": "Credit card",
+  "complaint_what_happened": "I have XXXX XXXX XXXX 's card for a long time and have rarely used it. About XX/XX/year>. I called their customer service, and I said that I am paying off and closing my account. I paid all my balance and asked the agent to close my account due to they keep sending me text messages regarding froglet activity in my account. Also, I asked the agent to email me the conformation, but the agent said It took 1 to 3 days to send you an email but I dont receive any email. \nAfter a couple of weeks when I checked I found that one of my card was closed and another new card that I am not aware of was their, and already has some charges. I called customer service again and I ask explanation. The agent was said \" Yes the old one closed and we issued a new card. '' I wasn't ask for it. I asked again I already paid off where this charge comes from? she/he said \" ohh..it is transferred from the old card. Even though I don't even received the new card, by calculating how much time and my energy I waist every time I called, I asked if I paid the amount my card will be closed? The agent said \" yes \" I paid all and I asked again to send me the conformation email or mail that I am not owing anything. As usual I don't received any email or mail regarding this. \nAgain, after a couple of weeks when I checked, I sow {$3000.00} charge and to make a payment. I called again, they told me to file dispute. After that, every time I called, they telling me different things. Sometimes they say It is under investigation the investigation takes a time, once you file dispute you shouldnt worry about it. You dont need to pay anything but in the other hand they are harassing me with phone calls regarding late fees. Also, some emails from Citibank. \nNow I realized, I can't do by myself and I need help regarding this issues.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95835",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have XXXX XXXX XXXX 's card for a long time and have rarely used it. About XX/XX/year>. I called their customer service, and I said that I am paying off and closing my account. I paid all my balance and asked the agent to close my account due to they keep sending me text messages regarding froglet activity in my account. Also, I asked the agent to email me the conformation, but the agent said It took 1 to 3 days to send you an email but I dont receive any email. \nAfter a couple of weeks when I checked I found that one of my card was closed and another new card that I am not aware of was their, and already has some charges. I called customer service again and I ask explanation. The agent was said \" Yes the old one closed and we issued a new card. '' I wasn't ask for it. I asked again I already paid off where this charge comes from? she/he said \" ohh..it is transferred from the old card. Even though I don't even received the new card, by calculating how much time and my energy I waist every time I called, I asked if I paid the amount my card will be closed? The agent said \" yes \" I paid all and I asked again to send me the conformation email or mail that I am not owing anything. As usual I don't received any email or mail regarding this. \nAgain, after a couple of weeks when I checked, I sow {$3000.00} charge and to make a payment. I called again, they told me to file dispute. After that, every time I called, they telling me different things. Sometimes they say It is under investigation the investigation takes a time, once you file dispute you shouldnt worry about it. You dont need to pay anything but in the other hand they are harassing me with phone calls regarding late fees. Also, some emails from Citibank. \nNow I realized, I can't do by myself and I need help regarding this issues."
+}
+
+Chunk:
+i have xxxx xxxx xxxx's card for a long time and have rarely used it. about xx / xx / year >. i called their customer service, and i said that i am paying off and closing my account. i paid all my balance and asked the agent to close my account due to they keep sending me text messages regarding froglet activity in my account. also, i asked the agent to email me the conformation, but the agent said it took 1 to 3 days to send you an email but i dont receive any email. after a couple of weeks when i checked i found that one of my card was closed and another new card that i am not aware of was their, and already has some charges. i called customer service again and i ask explanation. the agent was said " yes the old one closed and we issued a new card.'' i wasn't ask for it. i asked again i already paid off where this charge comes from? she / he said " ohh.. it is transferred from the old card. even though i don't even received the new card, by calculating how much time and my energy i waist every time i called, i asked if i paid the amount my card will be closed? the agent said " yes " i paid all and i asked again to send me the conformation email or mail that i am not owing anything. as usual i don't received any email or mail regarding this. again, after a couple of weeks when i checked, i sow { $ 3000. 00 } charge and to make a payment. i called again, they told me to file dispute. after that, every time i called, they telling me different things. sometimes they say it is under investigation the investigation takes a time, once you file dispute you shouldnt worry about it. you dont need to pay anything but in the other hand they are harassing me with phone calls regarding late fees. also, some emails from citibank. now i realized, i can't do by myself and i need help regarding this issues.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982768297195435
+}

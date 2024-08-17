@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067700,
+  "complaint_id": "9067700",
+  "product": "Credit card",
+  "complaint_what_happened": "I do not accept your findings. I have forwarded your most recent communication to Rooms to Go however I am aware of my rights as a consumer and you are violating them by refusing to offer me a fair dispute resolution. I originally informed you the merchant was unhelpful with me when attempting to file a dispute. You as my card issuer received a dispute from me and despite you ruling against me due to signed delivery slips, sales invoices, and proof of delivery. I then provided you with clear communication stating the delivery had not been done and also pointed that you both sent and accepted signed delivery slips for separate deliveries which do not pertain to my dispute to deny my claim. You have stated you cant verify delivery slip legitimacy however I still want to know what information you have verified as legitimate since you have decided to charge me, the policy set for by Rooms to Go does relate to you as the financing option through you is what is referenced meaning you have an agreement not to charge until furniture is delivered with Rooms to Go and therefore with me the cardholder, I again want to know what this proof is as you cant tell me to go contact a merchant who I have tried to resolve with as my card issuer if I contact you to file a dispute you need to take the information provided including the information i sent disproving the proof of delivery used and properly investigate my claim.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "78254",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I do not accept your findings. I have forwarded your most recent communication to Rooms to Go however I am aware of my rights as a consumer and you are violating them by refusing to offer me a fair dispute resolution. I originally informed you the merchant was unhelpful with me when attempting to file a dispute. You as my card issuer received a dispute from me and despite you ruling against me due to signed delivery slips, sales invoices, and proof of delivery. I then provided you with clear communication stating the delivery had not been done and also pointed that you both sent and accepted signed delivery slips for separate deliveries which do not pertain to my dispute to deny my claim. You have stated you cant verify delivery slip legitimacy however I still want to know what information you have verified as legitimate since you have decided to charge me, the policy set for by Rooms to Go does relate to you as the financing option through you is what is referenced meaning you have an agreement not to charge until furniture is delivered with Rooms to Go and therefore with me the cardholder, I again want to know what this proof is as you cant tell me to go contact a merchant who I have tried to resolve with as my card issuer if I contact you to file a dispute you need to take the information provided including the information i sent disproving the proof of delivery used and properly investigate my claim."
+}
+
+Chunk:
+i do not accept your findings. i have forwarded your most recent communication to rooms to go however i am aware of my rights as a consumer and you are violating them by refusing to offer me a fair dispute resolution. i originally informed you the merchant was unhelpful with me when attempting to file a dispute. you as my card issuer received a dispute from me and despite you ruling against me due to signed delivery slips, sales invoices, and proof of delivery. i then provided you with clear communication stating the delivery had not been done and also pointed that you both sent and accepted signed delivery slips for separate deliveries which do not pertain to my dispute to deny my claim. you have stated you cant verify delivery slip legitimacy however i still want to know what information you have verified as legitimate since you have decided to charge me, the policy set for by rooms to go does relate to you as the financing option through you is what is referenced meaning you have an agreement not to charge until furniture is delivered with rooms to go and therefore with me the cardholder, i again want to know what this proof is as you cant tell me to go contact a merchant who i have tried to resolve with as my card issuer if i contact you to file a dispute you need to take the information provided including the information i sent disproving the proof of delivery used and properly investigate my claim.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9924955368041992
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173418,
+  "complaint_id": "9173418",
+  "product": "Credit card",
+  "complaint_what_happened": "Due to continued and ongoing fraud perpetrated by XXXX, I recently had need to file several dispute and fraud cases with Capital One. On XX/XX/year>, I was made aware that these cases appeared to have been entered incorrectly. I faxed Capital One two letters requesting that all fraud cases be changed to disputes, with specific attention given to the retailer XXXX. Both are attached. However, XXXX started using it as an excuse not to issue refunds for those transactions the same day. I have yet to receive any confirmation from Capital One of receipt of this fax, and my account currently as of today, XX/XX/year>, shows no active disputes. I last spoke to two Capital One representatives on XX/XX/year>. During these calls which I recorded, the first representative informed me none of the current fraud cases have been converted to Disputes, and the second attempted to tell me that disputes can only be filed on the phone ( Which is clearly not true ). This was with regards to a different credit card account. No mention was ever made of my original above referenced request. Yet, for two weeks, XXXX has been using my disputing those charges, that they became aware of the same day I sent the fax, as an excuse not to issue refunds until I mentioned that 1 ) Many retailers appear to be waiting until I file a dispute to issue refunds 2 ) If they were to issue the refund before Capital One got around to processing my request and 3 ) Inquired how they became aware of disputes my bank has not yet acknowledged. XXXX has not yet responded but did manage to issue a refund for one of the disputed charges since then. I have attached the referenced correspondence along with a previous complaint I have made with regards to XXXX XXXX  There would appear to be a pattern developing wherein my financial institutions or employees thereof are participating in a scheme to help defraud me. Previously, Capital One had requested information with regards to two purchases made approximately 8 months ago. I showed these to XXXX XXXX  as they were the first financial institution to ever attempt to tell me a charge was too old to dispute. I after providing the information, I received two letters informing me in a somewhat rude manner that the charges were two old. When I called to inquire, I was again told a lie, that Master Card has a strict 60 day policy, and that they did do research while waiting for my additional information on the disputes they knew they would eventually deny due to this 60 day policy. I have since appealed their decision in writing and believe they may have reversed it, simply not retracted the provisional credit. I cant really be sure.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "490XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with customer service",
+  "text": "Due to continued and ongoing fraud perpetrated by XXXX, I recently had need to file several dispute and fraud cases with Capital One. On XX/XX/year>, I was made aware that these cases appeared to have been entered incorrectly. I faxed Capital One two letters requesting that all fraud cases be changed to disputes, with specific attention given to the retailer XXXX. Both are attached. However, XXXX started using it as an excuse not to issue refunds for those transactions the same day. I have yet to receive any confirmation from Capital One of receipt of this fax, and my account currently as of today, XX/XX/year>, shows no active disputes. I last spoke to two Capital One representatives on XX/XX/year>. During these calls which I recorded, the first representative informed me none of the current fraud cases have been converted to Disputes, and the second attempted to tell me that disputes can only be filed on the phone ( Which is clearly not true ). This was with regards to a different credit card account. No mention was ever made of my original above referenced request. Yet, for two weeks, XXXX has been using my disputing those charges, that they became aware of the same day I sent the fax, as an excuse not to issue refunds until I mentioned that 1 ) Many retailers appear to be waiting until I file a dispute to issue refunds 2 ) If they were to issue the refund before Capital One got around to processing my request and 3 ) Inquired how they became aware of disputes my bank has not yet acknowledged. XXXX has not yet responded but did manage to issue a refund for one of the disputed charges since then. I have attached the referenced correspondence along with a previous complaint I have made with regards to XXXX XXXX  There would appear to be a pattern developing wherein my financial institutions or employees thereof are participating in a scheme to help defraud me. Previously, Capital One had requested information with regards to two purchases made approximately 8 months ago. I showed these to XXXX XXXX  as they were the first financial institution to ever attempt to tell me a charge was too old to dispute. I after providing the information, I received two letters informing me in a somewhat rude manner that the charges were two old. When I called to inquire, I was again told a lie, that Master Card has a strict 60 day policy, and that they did do research while waiting for my additional information on the disputes they knew they would eventually deny due to this 60 day policy. I have since appealed their decision in writing and believe they may have reversed it, simply not retracted the provisional credit. I cant really be sure."
+}
+
+Chunk:
+deny due to this 60 day policy. i have since appealed their decision in writing and believe they may have reversed it, simply not retracted the provisional credit. i cant really be sure.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9755995869636536
+}

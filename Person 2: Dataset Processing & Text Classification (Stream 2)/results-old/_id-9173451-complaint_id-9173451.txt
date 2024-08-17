@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173451,
+  "complaint_id": "9173451",
+  "product": "Credit card",
+  "complaint_what_happened": "I rarely used this particular card and prior to being charged I received an email that my payment was processed successfully which I thought was odd. So I logged in and found charges to this card along with a significant late fee of {$30.00} for charges relating to two charges of {$1.00} each. I paid the charges in full but these charges are fraudulent and so is the resulting late fees associated with it. I have noticed lately that because I have gotten older that these companies think they can take advantage of you and use tactics that are completely dishonest and get away with it. \n\nI have had issued with these credit card companies and have cancelled them with only two exceptions and now I am cancelling this second to last one. \n\nThe company is XXXX XXXX XXXX and should you require any further information and I will be more than happy to provide it",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "146XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I rarely used this particular card and prior to being charged I received an email that my payment was processed successfully which I thought was odd. So I logged in and found charges to this card along with a significant late fee of {$30.00} for charges relating to two charges of {$1.00} each. I paid the charges in full but these charges are fraudulent and so is the resulting late fees associated with it. I have noticed lately that because I have gotten older that these companies think they can take advantage of you and use tactics that are completely dishonest and get away with it. \n\nI have had issued with these credit card companies and have cancelled them with only two exceptions and now I am cancelling this second to last one. \n\nThe company is XXXX XXXX XXXX and should you require any further information and I will be more than happy to provide it"
+}
+
+Chunk:
+i rarely used this particular card and prior to being charged i received an email that my payment was processed successfully which i thought was odd. so i logged in and found charges to this card along with a significant late fee of { $ 30. 00 } for charges relating to two charges of { $ 1. 00 } each. i paid the charges in full but these charges are fraudulent and so is the resulting late fees associated with it. i have noticed lately that because i have gotten older that these companies think they can take advantage of you and use tactics that are completely dishonest and get away with it. i have had issued with these credit card companies and have cancelled them with only two exceptions and now i am cancelling this second to last one. the company is xxxx xxxx xxxx and should you require any further information and i will be more than happy to provide it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9928739070892334
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9003364,
+  "complaint_id": "9003364",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America has an unfair practice in place when calculating minimum payments on their credit cards. In XXXX I made a payment to Bank of America in the amount of {$6200.00} which brought my balance to {$250.00}. Since the payment applied prior to the statement cutoff the minimum payment required to make on XXXX was {$200.00}. This practice is unfair as they are requiring me to pay majority of my statement balance. Meanwhile the payment I made in XXXX satisfied both XXXX and XXXX payments. They also told me that if my payment was one day later my minimum payment would have been one of which that reflects my outstanding balance. My complaint is that the minimum payment should be determined at the cut off of the statement. They way it currently is the statement balance fluctuates however the minimum payment does not which means they are calculating the minimum payment prior to any payment being made for the current month. With this practice if the statement was brought to a XXXX balance prior to the statement cut off the following month would still require a minimum balance. They stated they would not be the case but then they does tell me that there are inconsistency with how they calculate minimum payments on their credit cards which does not hold truth in what they disclose to their clients.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08724",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Bank of America has an unfair practice in place when calculating minimum payments on their credit cards. In XXXX I made a payment to Bank of America in the amount of {$6200.00} which brought my balance to {$250.00}. Since the payment applied prior to the statement cutoff the minimum payment required to make on XXXX was {$200.00}. This practice is unfair as they are requiring me to pay majority of my statement balance. Meanwhile the payment I made in XXXX satisfied both XXXX and XXXX payments. They also told me that if my payment was one day later my minimum payment would have been one of which that reflects my outstanding balance. My complaint is that the minimum payment should be determined at the cut off of the statement. They way it currently is the statement balance fluctuates however the minimum payment does not which means they are calculating the minimum payment prior to any payment being made for the current month. With this practice if the statement was brought to a XXXX balance prior to the statement cut off the following month would still require a minimum balance. They stated they would not be the case but then they does tell me that there are inconsistency with how they calculate minimum payments on their credit cards which does not hold truth in what they disclose to their clients."
+}
+
+Chunk:
+bank of america has an unfair practice in place when calculating minimum payments on their credit cards. in xxxx i made a payment to bank of america in the amount of { $ 6200. 00 } which brought my balance to { $ 250. 00 }. since the payment applied prior to the statement cutoff the minimum payment required to make on xxxx was { $ 200. 00 }. this practice is unfair as they are requiring me to pay majority of my statement balance. meanwhile the payment i made in xxxx satisfied both xxxx and xxxx payments. they also told me that if my payment was one day later my minimum payment would have been one of which that reflects my outstanding balance. my complaint is that the minimum payment should be determined at the cut off of the statement. they way it currently is the statement balance fluctuates however the minimum payment does not which means they are calculating the minimum payment prior to any payment being made for the current month. with this practice if the statement was brought to a xxxx balance prior to the statement cut off the following month would still require a minimum balance. they stated they would not be the case but then they does tell me that there are inconsistency with how they calculate minimum payments on their credit cards which does not hold truth in what they disclose to their clients.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994480013847351
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9499922,
+  "complaint_id": "9499922",
+  "product": "Credit card",
+  "complaint_what_happened": "This relates to XXXX different XXXX Card Accounts : XXXX XXXX card and XXXX XXXX XXXX by Barclay. Barclay took over from XXXXXXXX XXXX who originally had the card, and with whom I never had a problem. In fact, I never had a problem like this with any other credit card I've had. With XXXX, I signed up for a free trial on XXXX and cancelled well within the time limit, but they charged my card {$89.00} for a one-year subscription ( XXXX, XXXX ). As soon as I saw the charge, I called the only phone number I could find ( corporate, I think ) and left a message saying that the charge was wrong. I let Barclay 's know and started a fraud dispute with them ( XXXX XXXX & XXXX XXXX, XX/XX/XXXX ). In XXXX I tried to buy an airline ticket from XXXX to XXXX through a company called XXXX. I received an alert from Barclay 's saying it was fraud or a scam. I immediately cancelled the transaction through the credit card company and let XXXX know I wanted to cancel everything immediately. I also started a claim against XXXX through Barclays on XX/XX/XXXX ( XXXX XXXX & XXXX XXXX ). Barclays said they contacted both companies and that the company claims were legit! They sided with the fraudulent corporations! I tried calling Barclays on many occasions and wrote them a number of letters which included proof of the XXXX company being defunct. I sent copies of emails from both companies. XXXX said they would put the money back on my card and Barclays said they never did. I sent them proof of the confirmation from XXXX and spoke to supervisors with both the company and Barclays. The same XXXX. I both mailed and faxed the information from XXXX stating the company did not exist. XXXX all these months, I have explained repeatedly the fraudulent charges on these cards and Barclays should never have paid out these claims. They should have listened to me. In both cases, I wrote to them asking them to reopen the cases and including proof of the fraudulence of the charges. They have never listed to me on the phone or through the website when I have tried to communicate nor through the letters and faxed I have sent them. They have continued to ignore me and blow me off and now they're falsely hurting my excellent credit by saying I have not paid these fraudulent charges. XXXX even put some money back onto my card for the false airline ticket, and still Barclays doesn't recognize it it a wrong charge. I'm fed-up with trying to communicate with them and with XXXX. Please help take this off my report and restore my good and rightful credit. Thank you, XXXX XXXX",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "129XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This relates to XXXX different XXXX Card Accounts : XXXX XXXX card and XXXX XXXX XXXX by Barclay. Barclay took over from XXXXXXXX XXXX who originally had the card, and with whom I never had a problem. In fact, I never had a problem like this with any other credit card I've had. With XXXX, I signed up for a free trial on XXXX and cancelled well within the time limit, but they charged my card {$89.00} for a one-year subscription ( XXXX, XXXX ). As soon as I saw the charge, I called the only phone number I could find ( corporate, I think ) and left a message saying that the charge was wrong. I let Barclay 's know and started a fraud dispute with them ( XXXX XXXX & XXXX XXXX, XX/XX/XXXX ). In XXXX I tried to buy an airline ticket from XXXX to XXXX through a company called XXXX. I received an alert from Barclay 's saying it was fraud or a scam. I immediately cancelled the transaction through the credit card company and let XXXX know I wanted to cancel everything immediately. I also started a claim against XXXX through Barclays on XX/XX/XXXX ( XXXX XXXX & XXXX XXXX ). Barclays said they contacted both companies and that the company claims were legit! They sided with the fraudulent corporations! I tried calling Barclays on many occasions and wrote them a number of letters which included proof of the XXXX company being defunct. I sent copies of emails from both companies. XXXX said they would put the money back on my card and Barclays said they never did. I sent them proof of the confirmation from XXXX and spoke to supervisors with both the company and Barclays. The same XXXX. I both mailed and faxed the information from XXXX stating the company did not exist. XXXX all these months, I have explained repeatedly the fraudulent charges on these cards and Barclays should never have paid out these claims. They should have listened to me. In both cases, I wrote to them asking them to reopen the cases and including proof of the fraudulence of the charges. They have never listed to me on the phone or through the website when I have tried to communicate nor through the letters and faxed I have sent them. They have continued to ignore me and blow me off and now they're falsely hurting my excellent credit by saying I have not paid these fraudulent charges. XXXX even put some money back onto my card for the false airline ticket, and still Barclays doesn't recognize it it a wrong charge. I'm fed-up with trying to communicate with them and with XXXX. Please help take this off my report and restore my good and rightful credit. Thank you, XXXX XXXX"
+}
+
+Chunk:
+credit by saying i have not paid these fraudulent charges. xxxx even put some money back onto my card for the false airline ticket, and still barclays doesn't recognize it it a wrong charge. i'm fed - up with trying to communicate with them and with xxxx. please help take this off my report and restore my good and rightful credit. thank you, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966306090354919
+}

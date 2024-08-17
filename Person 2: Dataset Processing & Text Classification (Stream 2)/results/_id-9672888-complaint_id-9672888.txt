@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9672888,
+  "complaint_id": "9672888",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear sir or Ma'am I requested clarification XX/XX/year> from Citi Card account number XXXX via written dispute inquiring how the minimum payment goes from {$1800.00} to {$2200.00} in a month cycle. \nThen XX/XX/year> after an inquiry for clarification I was notified by Citi Card account was charged off. I would like an opportunity to satisfy this obligation with a monthly payment plan.",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Dear sir or Ma'am I requested clarification XX/XX/year> from Citi Card account number XXXX via written dispute inquiring how the minimum payment goes from {$1800.00} to {$2200.00} in a month cycle. \nThen XX/XX/year> after an inquiry for clarification I was notified by Citi Card account was charged off. I would like an opportunity to satisfy this obligation with a monthly payment plan."
+}
+
+Chunk:
+dear sir or ma'am i requested clarification xx / xx / year > from citi card account number xxxx via written dispute inquiring how the minimum payment goes from { $ 1800. 00 } to { $ 2200. 00 } in a month cycle. then xx / xx / year > after an inquiry for clarification i was notified by citi card account was charged off. i would like an opportunity to satisfy this obligation with a monthly payment plan.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9926930665969849
+}

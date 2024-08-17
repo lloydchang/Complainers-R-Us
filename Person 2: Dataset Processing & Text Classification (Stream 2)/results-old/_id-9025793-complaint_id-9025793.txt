@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025793,
+  "complaint_id": "9025793",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase closed my oldest credit card account. Never had any issues with chase ever before, I loved banking with them. I recently had a dispute with an over seas merchant where I returned the merchandise and I provided tracking. But chase rebelled my account so I called multiple times to ask to re open the case and now its showing as XXXX disputes for the same item on my account, so maybe that alerted the algorithm or something but Im so frustrated because I provided all documentation. I did everything correct. I had another dispute with a merchant who didnt even send the goods and the tracking shows returned to shipper still waiting on a resolution. Im so disgusted with chase right now. They said I opened too many disputes recently. I have paid my card multiple times in big amounts this past year and was using it for big purchases. But for every dispute I have proof and documentation. I thought it was safer to use my credit card because of the perks of having extra protection. But now they closed my account. And when I try calling back the person whose in charge of my complaint they dont answer. Its so frustrating.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Chase closed my oldest credit card account. Never had any issues with chase ever before, I loved banking with them. I recently had a dispute with an over seas merchant where I returned the merchandise and I provided tracking. But chase rebelled my account so I called multiple times to ask to re open the case and now its showing as XXXX disputes for the same item on my account, so maybe that alerted the algorithm or something but Im so frustrated because I provided all documentation. I did everything correct. I had another dispute with a merchant who didnt even send the goods and the tracking shows returned to shipper still waiting on a resolution. Im so disgusted with chase right now. They said I opened too many disputes recently. I have paid my card multiple times in big amounts this past year and was using it for big purchases. But for every dispute I have proof and documentation. I thought it was safer to use my credit card because of the perks of having extra protection. But now they closed my account. And when I try calling back the person whose in charge of my complaint they dont answer. Its so frustrating."
+}
+
+Chunk:
+chase closed my oldest credit card account. never had any issues with chase ever before, i loved banking with them. i recently had a dispute with an over seas merchant where i returned the merchandise and i provided tracking. but chase rebelled my account so i called multiple times to ask to re open the case and now its showing as xxxx disputes for the same item on my account, so maybe that alerted the algorithm or something but im so frustrated because i provided all documentation. i did everything correct. i had another dispute with a merchant who didnt even send the goods and the tracking shows returned to shipper still waiting on a resolution. im so disgusted with chase right now. they said i opened too many disputes recently. i have paid my card multiple times in big amounts this past year and was using it for big purchases. but for every dispute i have proof and documentation. i thought it was safer to use my credit card because of the perks of having extra protection. but now they closed my account. and when i try calling back the person whose in charge of my complaint they dont answer. its so frustrating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995279312133789
+}

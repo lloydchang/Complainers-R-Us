@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9293449,
+  "complaint_id": "9293449",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I had 3 credit card accounts hacked, including my account w/Prosper. I notified the company at that time regarding the unauthorized & fraudulent transactions. Since XX/XX/year>, I have written Prosper 5 letters & have made 7 phone calls regarding this issue. Again, I have requested to speak with a company representative in XXXX TX and have been denied this request numerous times. I want my balance cleared to zero & credit record to reflect no damage. The other 2 credit card companies have acknowledged the fraud and corrected my credit & corresponding rating.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "16506",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "In XX/XX/year>, I had 3 credit card accounts hacked, including my account w/Prosper. I notified the company at that time regarding the unauthorized & fraudulent transactions. Since XX/XX/year>, I have written Prosper 5 letters & have made 7 phone calls regarding this issue. Again, I have requested to speak with a company representative in XXXX TX and have been denied this request numerous times. I want my balance cleared to zero & credit record to reflect no damage. The other 2 credit card companies have acknowledged the fraud and corrected my credit & corresponding rating."
+}
+
+Chunk:
+in xx / xx / year >, i had 3 credit card accounts hacked, including my account w / prosper. i notified the company at that time regarding the unauthorized & fraudulent transactions. since xx / xx / year >, i have written prosper 5 letters & have made 7 phone calls regarding this issue. again, i have requested to speak with a company representative in xxxx tx and have been denied this request numerous times. i want my balance cleared to zero & credit record to reflect no damage. the other 2 credit card companies have acknowledged the fraud and corrected my credit & corresponding rating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9920862317085266
+}

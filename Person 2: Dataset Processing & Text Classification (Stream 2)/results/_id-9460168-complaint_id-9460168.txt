@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9460168,
+  "complaint_id": "9460168",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged interest XXXX $ in my XXXX, 2024 statement due to not making payment of the XXXX bill, but this late payment was because I never received any statement notification in my email since I received the card and started to used it in XXXX, although I'd subscribed to electronic statement from the very beginning. \n\nI got to know I didn't pay the XXXX bill only after I received physical mails of the XXXX statement and a Late Notice. I payed off all the statement amount once I got the mails. \n\nI reached out to FirstTech for the email notification issue and turned out there was some issue in FirstTech system because later after reporting the issue I was able to receive the email notification for my XXXX statement. I requested FirstTech to refund my interest charge because the late payment was all because I didn't receive any email notification for my XXXX bill. FirstTech refused this and insisted I can always check the statements online. How am I supposed to check the online system regularly to find out whether there is a new statement generated and how much I owe? That would totally defeat the purpose of the notification setting.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98115",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "First Technology Federal Credit Union",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I was charged interest XXXX $ in my XXXX, 2024 statement due to not making payment of the XXXX bill, but this late payment was because I never received any statement notification in my email since I received the card and started to used it in XXXX, although I'd subscribed to electronic statement from the very beginning. \n\nI got to know I didn't pay the XXXX bill only after I received physical mails of the XXXX statement and a Late Notice. I payed off all the statement amount once I got the mails. \n\nI reached out to FirstTech for the email notification issue and turned out there was some issue in FirstTech system because later after reporting the issue I was able to receive the email notification for my XXXX statement. I requested FirstTech to refund my interest charge because the late payment was all because I didn't receive any email notification for my XXXX bill. FirstTech refused this and insisted I can always check the statements online. How am I supposed to check the online system regularly to find out whether there is a new statement generated and how much I owe? That would totally defeat the purpose of the notification setting."
+}
+
+Chunk:
+i was charged interest xxxx $ in my xxxx, 2024 statement due to not making payment of the xxxx bill, but this late payment was because i never received any statement notification in my email since i received the card and started to used it in xxxx, although i'd subscribed to electronic statement from the very beginning. i got to know i didn't pay the xxxx bill only after i received physical mails of the xxxx statement and a late notice. i payed off all the statement amount once i got the mails. i reached out to firsttech for the email notification issue and turned out there was some issue in firsttech system because later after reporting the issue i was able to receive the email notification for my xxxx statement. i requested firsttech to refund my interest charge because the late payment was all because i didn't receive any email notification for my xxxx bill. firsttech refused this and insisted i can always check the statements online. how am i supposed to check the online system regularly to find out whether there is a new statement generated and how much i owe? that would totally defeat the purpose of the notification setting.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992527365684509
+}

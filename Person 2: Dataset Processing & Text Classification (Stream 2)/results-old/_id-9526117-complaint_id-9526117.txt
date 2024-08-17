@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9526117,
+  "complaint_id": "9526117",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I received a balance transfer offer via email. \n\nXX/XX/XXXX I contacted Elan Financial Services/US Bank to proactive obtain information on how to proceed with a balance transfer as I'd never done one before. \n\nI was told to go to the Elan Financial Services/US Bank website , login and choose \" request balance transfer '' from the drop down menu and enter the information on the amount transferring and the financial institution where the balance transfer would be sent. I was told that the funds would be sent and received by the other financial institution within 14 days. \n\nXX/XX/XXXX I initiated the balance transfer on the website, per the instructions received on XX/XX/XXXX. My balance transfer was flagged for further verification and I was instructed to call Elan Financial Services/US Bank . I called Elan Financial Services/US Bank , was verified and was told that the balance transfer was complete and to expect an email with written confirmation the following day, Monday XX/XX/XXXX. \n\nXX/XX/XXXX No confirmation was received. \n\nXX/XX/XXXX I attempted to login to my account online and it was locked. I was directed to call an XXXX number for verification. I called and was verified. I also asked if the payment would be received by my other bank by XX/XX/XXXX because of the delays on Elan Financial Services/US Bank 's end. I was told that they could no longer guarantee that they would receive payment by XX/XX/XXXX. \n\nI then told Elan Financial Services/US Bank that I wanted to cancel the balance transfer. Elan Financial Services/US Bank refused to cancel it. I repeatedly begged for a supervisor. Elan Financial Services/US Bank refused to put me in touch with one.\n\nSo, Elan Financial Services/US Bank doesn't honor timelines provided by their representatives. Repeatedly flags me for fraud even though I answer all questions correctly, login from the same place every time and there is no fraudulent activity on my account. And their fraud investigations delay every interaction. \n\nTHEY REFUSED TO CANCEL THE BALANCE TRANSFER. I DO NOT WANT TO MOVE FORWARD WITH THE BALANCE TRANSFER AFTER ALL OF THIS. BUT NOW THEY REFUSE TO CANCEL THE BALANCE TRANSFER WHILE REFUSING TO SEND PAYMENT TO THE OTHER BANK BY XX/XX/XXXX. \n\nI have no documents to attach because everything transpired on the phone because of all of their fraud holds. The only thing I have is a confirmation number : XXXX Balance transfers are predatory. The representatives engage in misinformation and mental abuse. Please make these illegal. I can't imagine what they do to desperate people who are deep in debt.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "802XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "XX/XX/XXXX I received a balance transfer offer via email. \n\nXX/XX/XXXX I contacted Elan Financial Services/US Bank to proactive obtain information on how to proceed with a balance transfer as I'd never done one before. \n\nI was told to go to the Elan Financial Services/US Bank website , login and choose \" request balance transfer '' from the drop down menu and enter the information on the amount transferring and the financial institution where the balance transfer would be sent. I was told that the funds would be sent and received by the other financial institution within 14 days. \n\nXX/XX/XXXX I initiated the balance transfer on the website, per the instructions received on XX/XX/XXXX. My balance transfer was flagged for further verification and I was instructed to call Elan Financial Services/US Bank . I called Elan Financial Services/US Bank , was verified and was told that the balance transfer was complete and to expect an email with written confirmation the following day, Monday XX/XX/XXXX. \n\nXX/XX/XXXX No confirmation was received. \n\nXX/XX/XXXX I attempted to login to my account online and it was locked. I was directed to call an XXXX number for verification. I called and was verified. I also asked if the payment would be received by my other bank by XX/XX/XXXX because of the delays on Elan Financial Services/US Bank 's end. I was told that they could no longer guarantee that they would receive payment by XX/XX/XXXX. \n\nI then told Elan Financial Services/US Bank that I wanted to cancel the balance transfer. Elan Financial Services/US Bank refused to cancel it. I repeatedly begged for a supervisor. Elan Financial Services/US Bank refused to put me in touch with one.\n\nSo, Elan Financial Services/US Bank doesn't honor timelines provided by their representatives. Repeatedly flags me for fraud even though I answer all questions correctly, login from the same place every time and there is no fraudulent activity on my account. And their fraud investigations delay every interaction. \n\nTHEY REFUSED TO CANCEL THE BALANCE TRANSFER. I DO NOT WANT TO MOVE FORWARD WITH THE BALANCE TRANSFER AFTER ALL OF THIS. BUT NOW THEY REFUSE TO CANCEL THE BALANCE TRANSFER WHILE REFUSING TO SEND PAYMENT TO THE OTHER BANK BY XX/XX/XXXX. \n\nI have no documents to attach because everything transpired on the phone because of all of their fraud holds. The only thing I have is a confirmation number : XXXX Balance transfers are predatory. The representatives engage in misinformation and mental abuse. Please make these illegal. I can't imagine what they do to desperate people who are deep in debt."
+}
+
+Chunk:
+a confirmation number : xxxx balance transfers are predatory. the representatives engage in misinformation and mental abuse. please make these illegal. i can't imagine what they do to desperate people who are deep in debt.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978162050247192
+}

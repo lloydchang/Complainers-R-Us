@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9402873,
+  "complaint_id": "9402873",
+  "product": "Credit card",
+  "complaint_what_happened": "Hired XXXX XXXX XXXX XXXX XXXX  to do a project. \nThey suggested using Synchrony Bank 's credit card to finance the project. \nI applied and was approved for the credit card. \n\nOn XX/XX/year> Synchrony had me sign a contract for the project 's {$16000.00} with the term \" Your card will not be charged until the project is complete ''. \nSee page 2 of Appendix A - Synchrony Sales Slip XXXX Reviewing my XXXX Synchrony credit card statement, XX/XX/year> I was billed for {$16000.00} ( even though the project had not started ). \nSee Appendix B - Synchrony XXXX Statement I called XXXX XXXX XXXXXXXX XXXX XXXX to complain, they did not return my call. \n\nThey started the project. As we watched the work, we noticed many low quality issues. After bringing them up with the company they became aggressive toward us. \n\nWe then had a 3rd party HVAC company come out and document a series of issues with the system. \nSee Appendix C - 3rd Party System Inspection - XXXX We filed a chargeback with Synchrony Bank for 2 reasons 1 ) Terms said \" Your card will not be charged until the project is complete '' Project is NOT complete ( 3rd party verified ).\n\n2 ) Company is using aggression and intimidation to try and pressure us to accept low quality work. \n\nSynchrony Bank has rejected the chargeback stating we should accept XXXX 's word that the system is delivered and high quality ( refuted by 3rd party HVAC company, on company letterhead, that system is not delivered or acceptable quality ) Synchrony Bank is violating their terms by allowing a charge when \" Your card will not be charged until the project is complete '' Project is NOT complete ( 3rd party verified )",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "370XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Hired XXXX XXXX XXXX XXXX XXXX  to do a project. \nThey suggested using Synchrony Bank 's credit card to finance the project. \nI applied and was approved for the credit card. \n\nOn XX/XX/year> Synchrony had me sign a contract for the project 's {$16000.00} with the term \" Your card will not be charged until the project is complete ''. \nSee page 2 of Appendix A - Synchrony Sales Slip XXXX Reviewing my XXXX Synchrony credit card statement, XX/XX/year> I was billed for {$16000.00} ( even though the project had not started ). \nSee Appendix B - Synchrony XXXX Statement I called XXXX XXXX XXXXXXXX XXXX XXXX to complain, they did not return my call. \n\nThey started the project. As we watched the work, we noticed many low quality issues. After bringing them up with the company they became aggressive toward us. \n\nWe then had a 3rd party HVAC company come out and document a series of issues with the system. \nSee Appendix C - 3rd Party System Inspection - XXXX We filed a chargeback with Synchrony Bank for 2 reasons 1 ) Terms said \" Your card will not be charged until the project is complete '' Project is NOT complete ( 3rd party verified ).\n\n2 ) Company is using aggression and intimidation to try and pressure us to accept low quality work. \n\nSynchrony Bank has rejected the chargeback stating we should accept XXXX 's word that the system is delivered and high quality ( refuted by 3rd party HVAC company, on company letterhead, that system is not delivered or acceptable quality ) Synchrony Bank is violating their terms by allowing a charge when \" Your card will not be charged until the project is complete '' Project is NOT complete ( 3rd party verified )"
+}
+
+Chunk:
+hired xxxx xxxx xxxx xxxx xxxx to do a project. they suggested using synchrony bank's credit card to finance the project. i applied and was approved for the credit card. on xx / xx / year > synchrony had me sign a contract for the project's { $ 16000. 00 } with the term " your card will not be charged until the project is complete''. see page 2 of appendix a - synchrony sales slip xxxx reviewing my xxxx synchrony credit card statement, xx / xx / year > i was billed for { $ 16000. 00 } ( even though the project had not started ). see appendix b - synchrony xxxx statement i called xxxx xxxx xxxxxxxx xxxx xxxx to complain, they did not return my call. they started the project. as we watched the work, we noticed many low quality issues. after bringing them up with the company they became aggressive toward us. we then had a 3rd party hvac company come out and document a series of issues with the system. see appendix c - 3rd party system inspection - xxxx we filed a chargeback with synchrony bank for 2 reasons 1 ) terms said " your card will not be charged until the project is complete'' project is not complete ( 3rd party verified ). 2 ) company is using aggression and intimidation to try and pressure us to accept low quality work. synchrony bank has rejected the chargeback stating we should accept xxxx's word that the system is delivered and high quality ( refuted by 3rd party hvac company, on company letterhead, that system is not delivered or acceptable quality ) synchrony bank is violating their terms by allowing a charge when " your card will not be charged until the project is complete'' project is not complete ( 3rd party verified )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987629652023315
+}

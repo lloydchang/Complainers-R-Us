@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9163881,
+  "complaint_id": "9163881",
+  "product": "Credit card",
+  "complaint_what_happened": "Concora Credit DBA Milestone Credit Card illegally kept trying to charge my XXXX XXXXXXXX XXXX  account without my authorization because I was late on a payment. Then they shut down my credit card and in retort I place a cease and desist order in place. They also negatively affected my credit score.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "805XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Concora Credit DBA Milestone Credit Card illegally kept trying to charge my XXXX XXXXXXXX XXXX  account without my authorization because I was late on a payment. Then they shut down my credit card and in retort I place a cease and desist order in place. They also negatively affected my credit score."
+}
+
+Chunk:
+concora credit dba milestone credit card illegally kept trying to charge my xxxx xxxxxxxx xxxx account without my authorization because i was late on a payment. then they shut down my credit card and in retort i place a cease and desist order in place. they also negatively affected my credit score.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997318387031555
+}

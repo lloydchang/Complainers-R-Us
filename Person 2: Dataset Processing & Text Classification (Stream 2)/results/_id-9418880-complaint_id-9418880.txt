@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9418880,
+  "complaint_id": "9418880",
+  "product": "Credit card",
+  "complaint_what_happened": "Whenever I call customer I am directed to do everything online. I am told this everytime I call customer service but the reality is that everytime I use online features from my credit card it tells me to call customer service instead specially during a dispute process. See attachment. I think Bank of America should fix this issue on my credit card so I don't have to call customer service every time. I have been told by reps that they want all customers to do everything themselves and they send me a link to follow to do it online. But how can I do anything online if it keeps telling me to call customer service. This has been an issue since I first got this card a year ago and I have been calling customer service since then. Please fix the issue. I wish I could just do everything online including disputes without having to call customer care. But when I call customer care reps almost refusing to take the call and ask me to follow the link emailed and do it myself. They even don't want to take a dispute or get anything else resolved. Please fix the error.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33160",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "Whenever I call customer I am directed to do everything online. I am told this everytime I call customer service but the reality is that everytime I use online features from my credit card it tells me to call customer service instead specially during a dispute process. See attachment. I think Bank of America should fix this issue on my credit card so I don't have to call customer service every time. I have been told by reps that they want all customers to do everything themselves and they send me a link to follow to do it online. But how can I do anything online if it keeps telling me to call customer service. This has been an issue since I first got this card a year ago and I have been calling customer service since then. Please fix the issue. I wish I could just do everything online including disputes without having to call customer care. But when I call customer care reps almost refusing to take the call and ask me to follow the link emailed and do it myself. They even don't want to take a dispute or get anything else resolved. Please fix the error."
+}
+
+Chunk:
+whenever i call customer i am directed to do everything online. i am told this everytime i call customer service but the reality is that everytime i use online features from my credit card it tells me to call customer service instead specially during a dispute process. see attachment. i think bank of america should fix this issue on my credit card so i don't have to call customer service every time. i have been told by reps that they want all customers to do everything themselves and they send me a link to follow to do it online. but how can i do anything online if it keeps telling me to call customer service. this has been an issue since i first got this card a year ago and i have been calling customer service since then. please fix the issue. i wish i could just do everything online including disputes without having to call customer care. but when i call customer care reps almost refusing to take the call and ask me to follow the link emailed and do it myself. they even don't want to take a dispute or get anything else resolved. please fix the error.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985560774803162
+}

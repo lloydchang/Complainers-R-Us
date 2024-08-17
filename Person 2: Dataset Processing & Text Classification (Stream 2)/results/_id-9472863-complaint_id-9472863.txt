@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9472863,
+  "complaint_id": "9472863",
+  "product": "Credit card",
+  "complaint_what_happened": "A purchase made with XXXX had XXXX deliveries. XXXX were received. XXXX shipment was never received total {$170.00}. XXXX made XX/XX/year>. I should be protected for this purchase. I contacted Regions and XXXX. Shipment message said the package was left at front door. I live in high rise building with XXXX concierge service. The other XXXX shipments in this order were received and signed by employee at front desk. There is no evidence of this delivery. I requested a credit for this shipment or redeliver the items. Neither were done. My credit card should protect my purchase.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33145",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "REGIONS FINANCIAL CORPORATION",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "A purchase made with XXXX had XXXX deliveries. XXXX were received. XXXX shipment was never received total {$170.00}. XXXX made XX/XX/year>. I should be protected for this purchase. I contacted Regions and XXXX. Shipment message said the package was left at front door. I live in high rise building with XXXX concierge service. The other XXXX shipments in this order were received and signed by employee at front desk. There is no evidence of this delivery. I requested a credit for this shipment or redeliver the items. Neither were done. My credit card should protect my purchase."
+}
+
+Chunk:
+a purchase made with xxxx had xxxx deliveries. xxxx were received. xxxx shipment was never received total { $ 170. 00 }. xxxx made xx / xx / year >. i should be protected for this purchase. i contacted regions and xxxx. shipment message said the package was left at front door. i live in high rise building with xxxx concierge service. the other xxxx shipments in this order were received and signed by employee at front desk. there is no evidence of this delivery. i requested a credit for this shipment or redeliver the items. neither were done. my credit card should protect my purchase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989898800849915
+}

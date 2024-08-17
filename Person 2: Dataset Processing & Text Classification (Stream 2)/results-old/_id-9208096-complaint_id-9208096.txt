@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208096,
+  "complaint_id": "9208096",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a pre-selected Chase Sapphire Preferred credit card offer in the mail. I accepted the offer through my cell phone on XX/XX/year> and was approved for the credit card and its benefits. I used it one time with success via XXXX XXXX XX/XX/year>. The next 3 times I attempted to use the credit on XX/XX/year>, with my XXXX XXXX it was rejected. I contacted their customer service same day and I was passed around to 3-4 different representatives and no one was able to tell me why my credit card was declined and one of their female security representatives was very rude. I spent over 2 hours talking to customer service and chase security team on my cell phone and they asked me many questions but could not provide any answer to why my card was declining. With such a bad experience I requested to cancel my credit card to the customer rep. and they did not allow me to do so either. They said I have no access to my own credit card. So I am unable to use my credit card, I am unable to take advantage of the introductory benefits and I am unable to cancel my credit card. I also spent 2 torturous hours with their customer service team with no resolution.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I received a pre-selected Chase Sapphire Preferred credit card offer in the mail. I accepted the offer through my cell phone on XX/XX/year> and was approved for the credit card and its benefits. I used it one time with success via XXXX XXXX XX/XX/year>. The next 3 times I attempted to use the credit on XX/XX/year>, with my XXXX XXXX it was rejected. I contacted their customer service same day and I was passed around to 3-4 different representatives and no one was able to tell me why my credit card was declined and one of their female security representatives was very rude. I spent over 2 hours talking to customer service and chase security team on my cell phone and they asked me many questions but could not provide any answer to why my card was declining. With such a bad experience I requested to cancel my credit card to the customer rep. and they did not allow me to do so either. They said I have no access to my own credit card. So I am unable to use my credit card, I am unable to take advantage of the introductory benefits and I am unable to cancel my credit card. I also spent 2 torturous hours with their customer service team with no resolution."
+}
+
+Chunk:
+i received a pre - selected chase sapphire preferred credit card offer in the mail. i accepted the offer through my cell phone on xx / xx / year > and was approved for the credit card and its benefits. i used it one time with success via xxxx xxxx xx / xx / year >. the next 3 times i attempted to use the credit on xx / xx / year >, with my xxxx xxxx it was rejected. i contacted their customer service same day and i was passed around to 3 - 4 different representatives and no one was able to tell me why my credit card was declined and one of their female security representatives was very rude. i spent over 2 hours talking to customer service and chase security team on my cell phone and they asked me many questions but could not provide any answer to why my card was declining. with such a bad experience i requested to cancel my credit card to the customer rep. and they did not allow me to do so either. they said i have no access to my own credit card. so i am unable to use my credit card, i am unable to take advantage of the introductory benefits and i am unable to cancel my credit card. i also spent 2 torturous hours with their customer service team with no resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993517994880676
+}

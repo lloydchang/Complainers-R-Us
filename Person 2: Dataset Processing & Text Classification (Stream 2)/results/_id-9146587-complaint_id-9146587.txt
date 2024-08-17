@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9146587,
+  "complaint_id": "9146587",
+  "product": "Credit card",
+  "complaint_what_happened": "Please refer to my last case opened ( and then closed without my agreement ) against Old Navy and Barclays Bank.\n\nThey have red flagged my account and I can not access it. They are sending me reminders ( Barclays ) to pay my bill that is due soon but they have not provided a means by which to do so.\n\nThey wont let me use my Old Navy/Barclays card for any purchases. Any orders that I try to place get immediately cancelled and to this day no one responsible for this knows why this is happening. \nWhen I try to call Im placed on hold for an unreasonable amount of time and when I do finally get a live person they have no answers. \nA representative from the Presidents office at Barclays Bank assured me ( after my last complaint ) that this was all fixed but it is not. I am getting very anxious about this as I dont want it to affect my credit score since I cant make any payments! Please Help!",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "92688",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Please refer to my last case opened ( and then closed without my agreement ) against Old Navy and Barclays Bank.\n\nThey have red flagged my account and I can not access it. They are sending me reminders ( Barclays ) to pay my bill that is due soon but they have not provided a means by which to do so.\n\nThey wont let me use my Old Navy/Barclays card for any purchases. Any orders that I try to place get immediately cancelled and to this day no one responsible for this knows why this is happening. \nWhen I try to call Im placed on hold for an unreasonable amount of time and when I do finally get a live person they have no answers. \nA representative from the Presidents office at Barclays Bank assured me ( after my last complaint ) that this was all fixed but it is not. I am getting very anxious about this as I dont want it to affect my credit score since I cant make any payments! Please Help!"
+}
+
+Chunk:
+please refer to my last case opened ( and then closed without my agreement ) against old navy and barclays bank. they have red flagged my account and i can not access it. they are sending me reminders ( barclays ) to pay my bill that is due soon but they have not provided a means by which to do so. they wont let me use my old navy / barclays card for any purchases. any orders that i try to place get immediately cancelled and to this day no one responsible for this knows why this is happening. when i try to call im placed on hold for an unreasonable amount of time and when i do finally get a live person they have no answers. a representative from the presidents office at barclays bank assured me ( after my last complaint ) that this was all fixed but it is not. i am getting very anxious about this as i dont want it to affect my credit score since i cant make any payments! please help!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992653727531433
+}

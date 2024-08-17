@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142165,
+  "complaint_id": "9142165",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a little more than XXXX reward points. If I redeemed the points online, I would get an additional 10 %. I searched my account for access to the points, I spoke to many card service representatives, I walked into my branch, I also had my personal banker online with me, while speaking to card services. I needed help from anyone, to access my reward points. The Wells Fargo website did not show my points. Only on my card statement, is how I knew how many reward points I had. Finally, this week, I was able to log into a redeeming website, but there was a message, the site was having technical issues, and the website was down. Every conversation with card service, they would begin or end each call, telling me that I could redeem online and earn an extra 10 %. I repeatedly stated that I was unable to access my points online. I was upset reading my XX/XX/year> statement. It read that XXXX points had expired. Fear of losing all my reward points, I redeemed all the points I could, over the phone with card service. The last conversation with card services, she sympathized with me for the expired points, and me not having access to the online Wells Fargo redemption. She indicated that there was nothing she could do. I did not get the extra 10 % that was advertised repeatedly and lost XXXX points.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91768",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I had a little more than XXXX reward points. If I redeemed the points online, I would get an additional 10 %. I searched my account for access to the points, I spoke to many card service representatives, I walked into my branch, I also had my personal banker online with me, while speaking to card services. I needed help from anyone, to access my reward points. The Wells Fargo website did not show my points. Only on my card statement, is how I knew how many reward points I had. Finally, this week, I was able to log into a redeeming website, but there was a message, the site was having technical issues, and the website was down. Every conversation with card service, they would begin or end each call, telling me that I could redeem online and earn an extra 10 %. I repeatedly stated that I was unable to access my points online. I was upset reading my XX/XX/year> statement. It read that XXXX points had expired. Fear of losing all my reward points, I redeemed all the points I could, over the phone with card service. The last conversation with card services, she sympathized with me for the expired points, and me not having access to the online Wells Fargo redemption. She indicated that there was nothing she could do. I did not get the extra 10 % that was advertised repeatedly and lost XXXX points."
+}
+
+Chunk:
+i had a little more than xxxx reward points. if i redeemed the points online, i would get an additional 10 %. i searched my account for access to the points, i spoke to many card service representatives, i walked into my branch, i also had my personal banker online with me, while speaking to card services. i needed help from anyone, to access my reward points. the wells fargo website did not show my points. only on my card statement, is how i knew how many reward points i had. finally, this week, i was able to log into a redeeming website, but there was a message, the site was having technical issues, and the website was down. every conversation with card service, they would begin or end each call, telling me that i could redeem online and earn an extra 10 %. i repeatedly stated that i was unable to access my points online. i was upset reading my xx / xx / year > statement. it read that xxxx points had expired. fear of losing all my reward points, i redeemed all the points i could, over the phone with card service. the last conversation with card services, she sympathized with me for the expired points, and me not having access to the online wells fargo redemption. she indicated that there was nothing she could do. i did not get the extra 10 % that was advertised repeatedly and lost xxxx points.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999715268611908
+}

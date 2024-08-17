@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9238160,
+  "complaint_id": "9238160",
+  "product": "Credit card",
+  "complaint_what_happened": "I was contacted by someone who said a credit card was applied for in my name. The call came from XXXX different numbers. They told me to quit paying and the credit card company would settle the debt on a different card.They also were going to charge {$4900.00} in legal fees to my card. I hung up and they tried to call me back. They said they were in XXXX FL and were affiliated with Experian.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "618XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I was contacted by someone who said a credit card was applied for in my name. The call came from XXXX different numbers. They told me to quit paying and the credit card company would settle the debt on a different card.They also were going to charge {$4900.00} in legal fees to my card. I hung up and they tried to call me back. They said they were in XXXX FL and were affiliated with Experian."
+}
+
+Chunk:
+i was contacted by someone who said a credit card was applied for in my name. the call came from xxxx different numbers. they told me to quit paying and the credit card company would settle the debt on a different card. they also were going to charge { $ 4900. 00 } in legal fees to my card. i hung up and they tried to call me back. they said they were in xxxx fl and were affiliated with experian.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993952512741089
+}

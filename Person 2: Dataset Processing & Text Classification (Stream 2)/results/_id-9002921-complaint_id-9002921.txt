@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9002921,
+  "complaint_id": "9002921",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card with this company that had a due date of XX/XX/2024. On that date I made a payment to that card well before the time of XXXX XX/XX/2024. Despite me making that payment on the due date the payment processed on XX/XX/XXXX which incurred a past due fee. Noting this error I contacted customer service to try and fix this immediately. I was advised by the rep to call back tomorrow ( XX/XX/XXXX ) when the actual fee occurs to get it removed. \n\nI called the next day as advised and the rep and the supervisor told me they were unable to remove the fee. When asked why they just said the system won't allow it and it had no reason to deny me the reversal. I asked if I can have any information ( an email, phone number ) with a higher rep to discuss this because this late fee was unwarranted and the supervisor refused to do so.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91343",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I have a credit card with this company that had a due date of XX/XX/2024. On that date I made a payment to that card well before the time of XXXX XX/XX/2024. Despite me making that payment on the due date the payment processed on XX/XX/XXXX which incurred a past due fee. Noting this error I contacted customer service to try and fix this immediately. I was advised by the rep to call back tomorrow ( XX/XX/XXXX ) when the actual fee occurs to get it removed. \n\nI called the next day as advised and the rep and the supervisor told me they were unable to remove the fee. When asked why they just said the system won't allow it and it had no reason to deny me the reversal. I asked if I can have any information ( an email, phone number ) with a higher rep to discuss this because this late fee was unwarranted and the supervisor refused to do so."
+}
+
+Chunk:
+i have a credit card with this company that had a due date of xx / xx / 2024. on that date i made a payment to that card well before the time of xxxx xx / xx / 2024. despite me making that payment on the due date the payment processed on xx / xx / xxxx which incurred a past due fee. noting this error i contacted customer service to try and fix this immediately. i was advised by the rep to call back tomorrow ( xx / xx / xxxx ) when the actual fee occurs to get it removed. i called the next day as advised and the rep and the supervisor told me they were unable to remove the fee. when asked why they just said the system won't allow it and it had no reason to deny me the reversal. i asked if i can have any information ( an email, phone number ) with a higher rep to discuss this because this late fee was unwarranted and the supervisor refused to do so.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991185069084167
+}

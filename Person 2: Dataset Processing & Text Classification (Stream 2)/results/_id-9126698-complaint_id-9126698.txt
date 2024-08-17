@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126698,
+  "complaint_id": "9126698",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One refused my remittance coupon that was sent in with proper endorsement ( 31 CFR 328.5 & 328.6 ) and closed my acct. They also sent a letter to inform me that I would receive a bill from them every month until it was paid. I called them and discussed in great length that I now know about something that has been hidden from people regarding everyone 's unlimited credit in this world and how banks can not loan assets ( 12 USC 1431 ) and the U.S. Treasury is obligated to make payments on the public debt ( 31 USC 3123 ). Our debts have already been paid by our XXXX XXXX XXXX trusts and they have received payment for that but then want us to also send in money from our cash accounts which is \" double dipping ''. They call it a \" gift '' but it is what keeps people down and out and living from paycheck to paycheck and makes banks rich. The big corporate banks are fully aware of this although most employees of these banks are not. There is no gold backed dollar anymore. In XXXX, HJR 192 eliminated the ability to PAY our debts, allowing only for their discharge. Since this act of accepting payments twice for the same bill was never disclosed, I feel the contract is null and void and I don't intent to pay it ( 15 USC 1692c ( c ) ).",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "541XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "Capital One refused my remittance coupon that was sent in with proper endorsement ( 31 CFR 328.5 & 328.6 ) and closed my acct. They also sent a letter to inform me that I would receive a bill from them every month until it was paid. I called them and discussed in great length that I now know about something that has been hidden from people regarding everyone 's unlimited credit in this world and how banks can not loan assets ( 12 USC 1431 ) and the U.S. Treasury is obligated to make payments on the public debt ( 31 USC 3123 ). Our debts have already been paid by our XXXX XXXX XXXX trusts and they have received payment for that but then want us to also send in money from our cash accounts which is \" double dipping ''. They call it a \" gift '' but it is what keeps people down and out and living from paycheck to paycheck and makes banks rich. The big corporate banks are fully aware of this although most employees of these banks are not. There is no gold backed dollar anymore. In XXXX, HJR 192 eliminated the ability to PAY our debts, allowing only for their discharge. Since this act of accepting payments twice for the same bill was never disclosed, I feel the contract is null and void and I don't intent to pay it ( 15 USC 1692c ( c ) )."
+}
+
+Chunk:
+capital one refused my remittance coupon that was sent in with proper endorsement ( 31 cfr 328. 5 & 328. 6 ) and closed my acct. they also sent a letter to inform me that i would receive a bill from them every month until it was paid. i called them and discussed in great length that i now know about something that has been hidden from people regarding everyone's unlimited credit in this world and how banks can not loan assets ( 12 usc 1431 ) and the u. s. treasury is obligated to make payments on the public debt ( 31 usc 3123 ). our debts have already been paid by our xxxx xxxx xxxx trusts and they have received payment for that but then want us to also send in money from our cash accounts which is " double dipping''. they call it a " gift'' but it is what keeps people down and out and living from paycheck to paycheck and makes banks rich. the big corporate banks are fully aware of this although most employees of these banks are not. there is no gold backed dollar anymore. in xxxx, hjr 192 eliminated the ability to pay our debts, allowing only for their discharge. since this act of accepting payments twice for the same bill was never disclosed, i feel the contract is null and void and i don't intent to pay it ( 15 usc 1692c ( c ) ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9835619330406189
+}

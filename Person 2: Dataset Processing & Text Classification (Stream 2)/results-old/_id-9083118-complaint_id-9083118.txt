@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083118,
+  "complaint_id": "9083118",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I used my Capital One card to make a purchase on XXXX  website in the amount of {$94.00}. It was scheduled for same day delivery. However, the delivery was made to the wrong address and the items were never received. I contacted XXXX  who told me I needed to file a chargeback with my credit card company which I did. Since then the dispute has been denied several times. I have supplied supporting evidence that this merchandise was never received but Capital One refuses to reverse the charge.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80214",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> I used my Capital One card to make a purchase on XXXX  website in the amount of {$94.00}. It was scheduled for same day delivery. However, the delivery was made to the wrong address and the items were never received. I contacted XXXX  who told me I needed to file a chargeback with my credit card company which I did. Since then the dispute has been denied several times. I have supplied supporting evidence that this merchandise was never received but Capital One refuses to reverse the charge."
+}
+
+Chunk:
+on xx / xx / year > i used my capital one card to make a purchase on xxxx website in the amount of { $ 94. 00 }. it was scheduled for same day delivery. however, the delivery was made to the wrong address and the items were never received. i contacted xxxx who told me i needed to file a chargeback with my credit card company which i did. since then the dispute has been denied several times. i have supplied supporting evidence that this merchandise was never received but capital one refuses to reverse the charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968632459640503
+}

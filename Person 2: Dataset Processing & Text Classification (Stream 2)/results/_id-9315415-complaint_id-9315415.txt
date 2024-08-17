@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9315415,
+  "complaint_id": "9315415",
+  "product": "Credit card",
+  "complaint_what_happened": "Did a balance transfer from XXXX credit card to wells fargo for {$2200.00} which was apparently written from XXXX XXXX XXXX and some info may have been incorrect but wells fargo cashed check and never applied to my account. No one would help put in XXXX After about 6 different calls to 6 different numbers I finally got someone I'm corporate office to put in claim. Once assigned a claim rep I explained I would not be able to get a copy of canceled check for a minimum of 10 days because it had to be requested and mailed from other company. They said as soon as I get it to send it in but they canceled and closed my case. I sent in information via fax and email same day I got notice of closed case because I finally just got it mail and I've called 3 times and no call back and no one looking to find my money from balance transfer. They basically have stolen my {$2200.00} and not applied to my account leaving my account overdrawn since they cashed check XX/XX/XXXXXXXX XXXX",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "14150",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Did a balance transfer from XXXX credit card to wells fargo for {$2200.00} which was apparently written from XXXX XXXX XXXX and some info may have been incorrect but wells fargo cashed check and never applied to my account. No one would help put in XXXX After about 6 different calls to 6 different numbers I finally got someone I'm corporate office to put in claim. Once assigned a claim rep I explained I would not be able to get a copy of canceled check for a minimum of 10 days because it had to be requested and mailed from other company. They said as soon as I get it to send it in but they canceled and closed my case. I sent in information via fax and email same day I got notice of closed case because I finally just got it mail and I've called 3 times and no call back and no one looking to find my money from balance transfer. They basically have stolen my {$2200.00} and not applied to my account leaving my account overdrawn since they cashed check XX/XX/XXXXXXXX XXXX"
+}
+
+Chunk:
+did a balance transfer from xxxx credit card to wells fargo for { $ 2200. 00 } which was apparently written from xxxx xxxx xxxx and some info may have been incorrect but wells fargo cashed check and never applied to my account. no one would help put in xxxx after about 6 different calls to 6 different numbers i finally got someone i'm corporate office to put in claim. once assigned a claim rep i explained i would not be able to get a copy of canceled check for a minimum of 10 days because it had to be requested and mailed from other company. they said as soon as i get it to send it in but they canceled and closed my case. i sent in information via fax and email same day i got notice of closed case because i finally just got it mail and i've called 3 times and no call back and no one looking to find my money from balance transfer. they basically have stolen my { $ 2200. 00 } and not applied to my account leaving my account overdrawn since they cashed check xx / xx / xxxxxxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991379976272583
+}

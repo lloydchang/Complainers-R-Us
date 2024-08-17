@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9115454,
+  "complaint_id": "9115454",
+  "product": "Credit card",
+  "complaint_what_happened": "My account had multiple balance transfers at various interest rates. Two of these balances were set to go from a lower rate of XXXX and XXXX to a full rate of 25.24 % as of XX/XX/2024. My statement dates close out on the XXXX of the month. \nKnowing that these rates were expiring, I sent in payments totallying {$4400.00} on XX/XX/XXXX, and then the minimum payment of XXXX was also automatically deducted on XX/XX/XXXX. \n\nAccording to my XXXX statement, the balances expiring were of the amounts {$2700.00} and {$1400.00} ( known as transfer balances XXXX XXXX XXXX  ). I also had a purchase balance at the high rate which was {$890.00}. These XXXX balances together equal {$5000.00}. \n\nAll of the {$4400.00} extra that I sent in should have effective reduced my balance at 25.24 % to about {$690.00}. Instead, only about {$400.00} of the {$4400.00} was applied to the balances whose promotional rates expired XX/XX/XXXX and were as of XX/XX/XXXX, at 25.24 %. Some went to the purchase balance of {$890.00}, then most went to balances at 4.99 % ( known as balances XXXX and XXXX ). \n\nWhat Citi is trying to claim is that, though the promotional rates expired XX/XX/XXXX and after that date I was being charged 25.24 %, they can legally apply the payments based on the rates at the time of the XXXX statement. As a consumer, this procedure is illogical, and of course I would have intended the payment to pay anything that as of XX/XX/XXXX, was at a higher rate, which included balances XXXX and XXXX as my first priority for payoff.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "560XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "My account had multiple balance transfers at various interest rates. Two of these balances were set to go from a lower rate of XXXX and XXXX to a full rate of 25.24 % as of XX/XX/2024. My statement dates close out on the XXXX of the month. \nKnowing that these rates were expiring, I sent in payments totallying {$4400.00} on XX/XX/XXXX, and then the minimum payment of XXXX was also automatically deducted on XX/XX/XXXX. \n\nAccording to my XXXX statement, the balances expiring were of the amounts {$2700.00} and {$1400.00} ( known as transfer balances XXXX XXXX XXXX  ). I also had a purchase balance at the high rate which was {$890.00}. These XXXX balances together equal {$5000.00}. \n\nAll of the {$4400.00} extra that I sent in should have effective reduced my balance at 25.24 % to about {$690.00}. Instead, only about {$400.00} of the {$4400.00} was applied to the balances whose promotional rates expired XX/XX/XXXX and were as of XX/XX/XXXX, at 25.24 %. Some went to the purchase balance of {$890.00}, then most went to balances at 4.99 % ( known as balances XXXX and XXXX ). \n\nWhat Citi is trying to claim is that, though the promotional rates expired XX/XX/XXXX and after that date I was being charged 25.24 %, they can legally apply the payments based on the rates at the time of the XXXX statement. As a consumer, this procedure is illogical, and of course I would have intended the payment to pay anything that as of XX/XX/XXXX, was at a higher rate, which included balances XXXX and XXXX as my first priority for payoff."
+}
+
+Chunk:
+my account had multiple balance transfers at various interest rates. two of these balances were set to go from a lower rate of xxxx and xxxx to a full rate of 25. 24 % as of xx / xx / 2024. my statement dates close out on the xxxx of the month. knowing that these rates were expiring, i sent in payments totallying { $ 4400. 00 } on xx / xx / xxxx, and then the minimum payment of xxxx was also automatically deducted on xx / xx / xxxx. according to my xxxx statement, the balances expiring were of the amounts { $ 2700. 00 } and { $ 1400. 00 } ( known as transfer balances xxxx xxxx xxxx ). i also had a purchase balance at the high rate which was { $ 890. 00 }. these xxxx balances together equal { $ 5000. 00 }. all of the { $ 4400. 00 } extra that i sent in should have effective reduced my balance at 25. 24 % to about { $ 690. 00 }. instead, only about { $ 400. 00 } of the { $ 4400. 00 } was applied to the balances whose promotional rates expired xx / xx / xxxx and were as of xx / xx / xxxx, at 25. 24 %. some went to the purchase balance of { $ 890. 00 }, then most went to balances at 4. 99 % ( known as balances xxxx and xxxx ). what citi is trying to claim is that, though the promotional rates expired xx / xx / xxxx and after that date i was being charged 25. 24 %, they can legally apply the payments based on the rates at the time of the xxxx statement. as a consumer, this procedure is illogical, and of course i would have intended the payment to pay anything that as of xx / xx / xxxx, was at a higher rate, which included balances xxxx and xxxx as my first priority for payoff.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992548823356628
+}

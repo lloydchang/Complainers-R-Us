@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9039001,
+  "complaint_id": "9039001",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to provide an update on the ongoing dispute concerning the charge from XXXX XXXX XXXX XXXX, which appeared on my Capital One Bank statement dated XX/XX/2024, totaling {$110.00}. \n\nUpon discovering this unauthorized charge, I promptly initiated a dispute process with Capital One Bank. In response, Capital One promptly commenced an investigation and requested additional information from me. Despite my timely and comprehensive response to their inquiry, it seems that the information provided did not meet their validation criteria. \n\nIn my efforts to resolve this matter, I attempted to directly engage with the merchant, XXXX XXXX XXXX XXXX. However, despite my repeated attempts to communicate via phone, XXXX XXXX has been unresponsive. Its worth noting that their cancellation process is solely facilitated through their app, which I adhered to, and I possess email evidence confirming the cancellation. Curiously, despite my repeated attempts, XXXX XXXX seems adamant about communicating only with Capital One Bank regarding this dispute, rather than directly engaging with me as their customer. \n\nI am deeply concerned about the handling of this situation by Capital One Bank. Despite previously issuing a credit for this disputed charge, they have since reversed it, leaving the unauthorized purchase still reflected on my credit card statement. \n\nIt is of utmost importance that Capital One Bank takes decisive steps to safeguard its customers ' interests, particularly in cases involving disputed transactions following service cancellations. I urgently request Capital One Bank to conduct a thorough reevaluation of this dispute and to promptly take the necessary actions to rectify this situation.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "44121",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to provide an update on the ongoing dispute concerning the charge from XXXX XXXX XXXX XXXX, which appeared on my Capital One Bank statement dated XX/XX/2024, totaling {$110.00}. \n\nUpon discovering this unauthorized charge, I promptly initiated a dispute process with Capital One Bank. In response, Capital One promptly commenced an investigation and requested additional information from me. Despite my timely and comprehensive response to their inquiry, it seems that the information provided did not meet their validation criteria. \n\nIn my efforts to resolve this matter, I attempted to directly engage with the merchant, XXXX XXXX XXXX XXXX. However, despite my repeated attempts to communicate via phone, XXXX XXXX has been unresponsive. Its worth noting that their cancellation process is solely facilitated through their app, which I adhered to, and I possess email evidence confirming the cancellation. Curiously, despite my repeated attempts, XXXX XXXX seems adamant about communicating only with Capital One Bank regarding this dispute, rather than directly engaging with me as their customer. \n\nI am deeply concerned about the handling of this situation by Capital One Bank. Despite previously issuing a credit for this disputed charge, they have since reversed it, leaving the unauthorized purchase still reflected on my credit card statement. \n\nIt is of utmost importance that Capital One Bank takes decisive steps to safeguard its customers ' interests, particularly in cases involving disputed transactions following service cancellations. I urgently request Capital One Bank to conduct a thorough reevaluation of this dispute and to promptly take the necessary actions to rectify this situation."
+}
+
+Chunk:
+i am writing to provide an update on the ongoing dispute concerning the charge from xxxx xxxx xxxx xxxx, which appeared on my capital one bank statement dated xx / xx / 2024, totaling { $ 110. 00 }. upon discovering this unauthorized charge, i promptly initiated a dispute process with capital one bank. in response, capital one promptly commenced an investigation and requested additional information from me. despite my timely and comprehensive response to their inquiry, it seems that the information provided did not meet their validation criteria. in my efforts to resolve this matter, i attempted to directly engage with the merchant, xxxx xxxx xxxx xxxx. however, despite my repeated attempts to communicate via phone, xxxx xxxx has been unresponsive. its worth noting that their cancellation process is solely facilitated through their app, which i adhered to, and i possess email evidence confirming the cancellation. curiously, despite my repeated attempts, xxxx xxxx seems adamant about communicating only with capital one bank regarding this dispute, rather than directly engaging with me as their customer. i am deeply concerned about the handling of this situation by capital one bank. despite previously issuing a credit for this disputed charge, they have since reversed it, leaving the unauthorized purchase still reflected on my credit card statement. it is of utmost importance that capital one bank takes decisive steps to safeguard its customers'interests, particularly in cases involving disputed transactions following service cancellations. i urgently request capital one bank to conduct a thorough reevaluation of this dispute and to promptly take the necessary actions to rectify this situation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9769328832626343
+}

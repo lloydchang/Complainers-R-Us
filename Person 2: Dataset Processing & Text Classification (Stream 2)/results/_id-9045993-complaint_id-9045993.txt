@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045993,
+  "complaint_id": "9045993",
+  "product": "Credit card",
+  "complaint_what_happened": "Per capital one policy, billing cycle ends on at XXXX on the closing day. Capital one decided to end my billing cycle a day early even though they admitted it supposed to end today ( XX/XX/19 ) per company policy. The manager accepted this but could not give a clear reason why this happened she also tried to take back her statement when I said I was going to report this to your company. Banks are required to follow policy but capital one has breached their own policy and this is going to really affect me. I dont know but I believe the representative I called yesterday to file a dispute may have ended the billing cycle early. This is going to affect my credit score and cause me pain and suffering for the next month because Im not going to be able to do a lot of things I need to do.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Per capital one policy, billing cycle ends on at XXXX on the closing day. Capital one decided to end my billing cycle a day early even though they admitted it supposed to end today ( XX/XX/19 ) per company policy. The manager accepted this but could not give a clear reason why this happened she also tried to take back her statement when I said I was going to report this to your company. Banks are required to follow policy but capital one has breached their own policy and this is going to really affect me. I dont know but I believe the representative I called yesterday to file a dispute may have ended the billing cycle early. This is going to affect my credit score and cause me pain and suffering for the next month because Im not going to be able to do a lot of things I need to do."
+}
+
+Chunk:
+per capital one policy, billing cycle ends on at xxxx on the closing day. capital one decided to end my billing cycle a day early even though they admitted it supposed to end today ( xx / xx / 19 ) per company policy. the manager accepted this but could not give a clear reason why this happened she also tried to take back her statement when i said i was going to report this to your company. banks are required to follow policy but capital one has breached their own policy and this is going to really affect me. i dont know but i believe the representative i called yesterday to file a dispute may have ended the billing cycle early. this is going to affect my credit score and cause me pain and suffering for the next month because im not going to be able to do a lot of things i need to do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991061091423035
+}

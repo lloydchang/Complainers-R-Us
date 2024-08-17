@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9009467,
+  "complaint_id": "9009467",
+  "product": "Credit card",
+  "complaint_what_happened": "Current annual APR % on the care credit account is already at 29.99 %. They are going to raise this to a ridiculous APR of 32.99 %. They claim on the last statement of XX/XX/XXXX, that I have the right to reject the changes. However, if I do reject the changes that I am allowed to reject, I will not be able to use the account for new transactions. Changes will take effect on the day after XX/XX/XXXX. They claim to be raising the rates due to market conditions. Yes I was notified, great, is this legal? Isn't this too high??? Who is watching over these companies? Stop screwing the middle class!",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94089",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Current annual APR % on the care credit account is already at 29.99 %. They are going to raise this to a ridiculous APR of 32.99 %. They claim on the last statement of XX/XX/XXXX, that I have the right to reject the changes. However, if I do reject the changes that I am allowed to reject, I will not be able to use the account for new transactions. Changes will take effect on the day after XX/XX/XXXX. They claim to be raising the rates due to market conditions. Yes I was notified, great, is this legal? Isn't this too high??? Who is watching over these companies? Stop screwing the middle class!"
+}
+
+Chunk:
+current annual apr % on the care credit account is already at 29. 99 %. they are going to raise this to a ridiculous apr of 32. 99 %. they claim on the last statement of xx / xx / xxxx, that i have the right to reject the changes. however, if i do reject the changes that i am allowed to reject, i will not be able to use the account for new transactions. changes will take effect on the day after xx / xx / xxxx. they claim to be raising the rates due to market conditions. yes i was notified, great, is this legal? isn't this too high??? who is watching over these companies? stop screwing the middle class!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987055063247681
+}

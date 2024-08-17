@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9243685,
+  "complaint_id": "9243685",
+  "product": "Credit card",
+  "complaint_what_happened": "I signed up for a Chase XXXX Credit card with an offer I received on a XXXX XXXX flight for the United Explorer mileage plus credit card. The pamphlet said I would receive XXXX XXXX  when using a code in the pamphlet to sign up for this specific credit card, and then spend {$3000.00} within the first 3 months of opening the credit card. I signed up, was approved for this specific card and began using it. I called to make sure the code from XXXX was in there as I had to enter it in a weird place when I applied and wanted to ensure I received my XXXX points. I was told the code was not accepted and that I would only receive XXXX XXXX per the current promotion for that card. I explained about the pamphlet and the promise of XXXX points, not XXXX and they submitted my dispute. I then received a letter saying they would not credit my card with the additional XXXX points owed to me. I have repeatedly called Chase, who denies it is their issue, and they refer me to XXXX, who then says Chase has to do it. It has become an exhausting game of no one taking accountability and me still being owed XXXX XXXX. I have since exceeding the {$3000.00} spend within the first 3 months and they only gave me XXXX XXXX.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80129",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I signed up for a Chase XXXX Credit card with an offer I received on a XXXX XXXX flight for the United Explorer mileage plus credit card. The pamphlet said I would receive XXXX XXXX  when using a code in the pamphlet to sign up for this specific credit card, and then spend {$3000.00} within the first 3 months of opening the credit card. I signed up, was approved for this specific card and began using it. I called to make sure the code from XXXX was in there as I had to enter it in a weird place when I applied and wanted to ensure I received my XXXX points. I was told the code was not accepted and that I would only receive XXXX XXXX per the current promotion for that card. I explained about the pamphlet and the promise of XXXX points, not XXXX and they submitted my dispute. I then received a letter saying they would not credit my card with the additional XXXX points owed to me. I have repeatedly called Chase, who denies it is their issue, and they refer me to XXXX, who then says Chase has to do it. It has become an exhausting game of no one taking accountability and me still being owed XXXX XXXX. I have since exceeding the {$3000.00} spend within the first 3 months and they only gave me XXXX XXXX."
+}
+
+Chunk:
+i signed up for a chase xxxx credit card with an offer i received on a xxxx xxxx flight for the united explorer mileage plus credit card. the pamphlet said i would receive xxxx xxxx when using a code in the pamphlet to sign up for this specific credit card, and then spend { $ 3000. 00 } within the first 3 months of opening the credit card. i signed up, was approved for this specific card and began using it. i called to make sure the code from xxxx was in there as i had to enter it in a weird place when i applied and wanted to ensure i received my xxxx points. i was told the code was not accepted and that i would only receive xxxx xxxx per the current promotion for that card. i explained about the pamphlet and the promise of xxxx points, not xxxx and they submitted my dispute. i then received a letter saying they would not credit my card with the additional xxxx points owed to me. i have repeatedly called chase, who denies it is their issue, and they refer me to xxxx, who then says chase has to do it. it has become an exhausting game of no one taking accountability and me still being owed xxxx xxxx. i have since exceeding the { $ 3000. 00 } spend within the first 3 months and they only gave me xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987964630126953
+}

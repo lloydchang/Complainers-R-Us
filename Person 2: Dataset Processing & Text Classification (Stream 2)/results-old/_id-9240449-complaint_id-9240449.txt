@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9240449,
+  "complaint_id": "9240449",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a knife from XXXX but they sold me a counterfeit XXXX knife so I asked them for a return label through email on which they replied they are doing full refund but after XXXX days when.no refund I contacted Barclays Bank to do a dispute but they denied my dispute of {$190.00}. I need help please",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "060XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased a knife from XXXX but they sold me a counterfeit XXXX knife so I asked them for a return label through email on which they replied they are doing full refund but after XXXX days when.no refund I contacted Barclays Bank to do a dispute but they denied my dispute of {$190.00}. I need help please"
+}
+
+Chunk:
+i purchased a knife from xxxx but they sold me a counterfeit xxxx knife so i asked them for a return label through email on which they replied they are doing full refund but after xxxx days when. no refund i contacted barclays bank to do a dispute but they denied my dispute of { $ 190. 00 }. i need help please
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975632429122925
+}

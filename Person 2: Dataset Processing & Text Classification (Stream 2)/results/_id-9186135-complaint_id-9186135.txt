@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186135,
+  "complaint_id": "9186135",
+  "product": "Credit card",
+  "complaint_what_happened": "The credit card ( not the prior self builder account.That is a seperate issue .They have opened a new self builder account for me but its not reflecting properly on my credit report ) is still showing as open and that I owe something .That credit card should have actually been closed because it was included in my bacnkrupcy .They need to close it. Also I had money available to me over {$500.00} and it was never returned to me from the credit card.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Filed for bankruptcy",
+  "text": "The credit card ( not the prior self builder account.That is a seperate issue .They have opened a new self builder account for me but its not reflecting properly on my credit report ) is still showing as open and that I owe something .That credit card should have actually been closed because it was included in my bacnkrupcy .They need to close it. Also I had money available to me over {$500.00} and it was never returned to me from the credit card."
+}
+
+Chunk:
+the credit card ( not the prior self builder account. that is a seperate issue. they have opened a new self builder account for me but its not reflecting properly on my credit report ) is still showing as open and that i owe something. that credit card should have actually been closed because it was included in my bacnkrupcy. they need to close it. also i had money available to me over { $ 500. 00 } and it was never returned to me from the credit card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971920847892761
+}

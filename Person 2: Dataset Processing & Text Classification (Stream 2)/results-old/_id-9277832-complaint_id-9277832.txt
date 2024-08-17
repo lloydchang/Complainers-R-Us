@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9277832,
+  "complaint_id": "9277832",
+  "product": "Credit card",
+  "complaint_what_happened": "I sent certified mail on XXXX XXXX With a requst to remove a account XXXX XXXX XXXX Account number : XXXX Balance : {$11000.00} Date opened : XX/XX/year>, it was a removel letter and a FTC report they did not include on my file a copy of my driver license and ssn card.I disputed the same account with XXXX and XXXX they fix the problem. I believe Exerian are acting in bad faith, and have not complied with the Fair Credit Reporting Act they hiding information that has been sent in. I have maintained careful records of there actions.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77469",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I sent certified mail on XXXX XXXX With a requst to remove a account XXXX XXXX XXXX Account number : XXXX Balance : {$11000.00} Date opened : XX/XX/year>, it was a removel letter and a FTC report they did not include on my file a copy of my driver license and ssn card.I disputed the same account with XXXX and XXXX they fix the problem. I believe Exerian are acting in bad faith, and have not complied with the Fair Credit Reporting Act they hiding information that has been sent in. I have maintained careful records of there actions."
+}
+
+Chunk:
+i sent certified mail on xxxx xxxx with a requst to remove a account xxxx xxxx xxxx account number : xxxx balance : { $ 11000. 00 } date opened : xx / xx / year >, it was a removel letter and a ftc report they did not include on my file a copy of my driver license and ssn card. i disputed the same account with xxxx and xxxx they fix the problem. i believe exerian are acting in bad faith, and have not complied with the fair credit reporting act they hiding information that has been sent in. i have maintained careful records of there actions.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984756112098694
+}

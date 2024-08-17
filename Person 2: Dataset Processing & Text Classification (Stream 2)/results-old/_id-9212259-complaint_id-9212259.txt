@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212259,
+  "complaint_id": "9212259",
+  "product": "Credit card",
+  "complaint_what_happened": "I have 2 separate CitiBank credit card accounts. I took advantage of their balance transfer option. The account balance was transferred in total and then they sent me a refund check in the amount of the balance transfer. I called to reassure that I was indeed due a refund check and was told by a representative that I was. I cashed it and was told that I had to pay it in full 2 months later. I cant get in contact with someone to settle this matter.",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10950",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have 2 separate CitiBank credit card accounts. I took advantage of their balance transfer option. The account balance was transferred in total and then they sent me a refund check in the amount of the balance transfer. I called to reassure that I was indeed due a refund check and was told by a representative that I was. I cashed it and was told that I had to pay it in full 2 months later. I cant get in contact with someone to settle this matter."
+}
+
+Chunk:
+i have 2 separate citibank credit card accounts. i took advantage of their balance transfer option. the account balance was transferred in total and then they sent me a refund check in the amount of the balance transfer. i called to reassure that i was indeed due a refund check and was told by a representative that i was. i cashed it and was told that i had to pay it in full 2 months later. i cant get in contact with someone to settle this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975047707557678
+}

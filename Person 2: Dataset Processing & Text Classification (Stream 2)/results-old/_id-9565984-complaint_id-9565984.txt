@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9565984,
+  "complaint_id": "9565984",
+  "product": "Credit card",
+  "complaint_what_happened": "My XXXX, 2024 bank card statement from Barclay 's Bank showed a transaction for {$100.00} paid to XXXX XXXX XXXX XXXX XXXXXXXX XXXX I did not make that charge. I live in Alabama and have my credit card in my possession. I called Barclay 's Bank Fraud Department at XXXX XXXX  on XX/XX/year>. I was told that they would send me a new card immediately and will investigate the transaction that was made. I told the representative that I would not activate the new credit card until they resolved this issue. \nWhen my XXXX, 2024 bank card statement came, Barclay 's Bank showed that my account was delinquent and they added both late fees and interests to my account. I called on XX/XX/year>, and was told that they were still investigating. I asked why late fees and interests were being applied to my account since the fraudulent transaction was being investigated. The response was that Barclay 's Bank would take off the late and interest fees from my account, but I had to activate the new card that was sent to me. I activated the card, Fees and interest charges were subtracted. However, the {$100.00} transaction that's in dispute, remains on my statement. \nI received a credit report from XXXX XXXX XXXX showing a decrease in my credit score of XXXX points and it also showed my Barclay 's Credit Card as being 30 days delinquent.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My XXXX, 2024 bank card statement from Barclay 's Bank showed a transaction for {$100.00} paid to XXXX XXXX XXXX XXXX XXXXXXXX XXXX I did not make that charge. I live in Alabama and have my credit card in my possession. I called Barclay 's Bank Fraud Department at XXXX XXXX  on XX/XX/year>. I was told that they would send me a new card immediately and will investigate the transaction that was made. I told the representative that I would not activate the new credit card until they resolved this issue. \nWhen my XXXX, 2024 bank card statement came, Barclay 's Bank showed that my account was delinquent and they added both late fees and interests to my account. I called on XX/XX/year>, and was told that they were still investigating. I asked why late fees and interests were being applied to my account since the fraudulent transaction was being investigated. The response was that Barclay 's Bank would take off the late and interest fees from my account, but I had to activate the new card that was sent to me. I activated the card, Fees and interest charges were subtracted. However, the {$100.00} transaction that's in dispute, remains on my statement. \nI received a credit report from XXXX XXXX XXXX showing a decrease in my credit score of XXXX points and it also showed my Barclay 's Credit Card as being 30 days delinquent."
+}
+
+Chunk:
+my xxxx, 2024 bank card statement from barclay's bank showed a transaction for { $ 100. 00 } paid to xxxx xxxx xxxx xxxx xxxxxxxx xxxx i did not make that charge. i live in alabama and have my credit card in my possession. i called barclay's bank fraud department at xxxx xxxx on xx / xx / year >. i was told that they would send me a new card immediately and will investigate the transaction that was made. i told the representative that i would not activate the new credit card until they resolved this issue. when my xxxx, 2024 bank card statement came, barclay's bank showed that my account was delinquent and they added both late fees and interests to my account. i called on xx / xx / year >, and was told that they were still investigating. i asked why late fees and interests were being applied to my account since the fraudulent transaction was being investigated. the response was that barclay's bank would take off the late and interest fees from my account, but i had to activate the new card that was sent to me. i activated the card, fees and interest charges were subtracted. however, the { $ 100. 00 } transaction that's in dispute, remains on my statement. i received a credit report from xxxx xxxx xxxx showing a decrease in my credit score of xxxx points and it also showed my barclay's credit card as being 30 days delinquent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997006356716156
+}

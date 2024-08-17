@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186703,
+  "complaint_id": "9186703",
+  "product": "Credit card",
+  "complaint_what_happened": "I requested an additional credit card for my husband XXXX XXXX, which never arrived in my house. It seems it was intercepted by someone and used in the XXXX area. I disputed the transactions many times with Wells Fargo, but they insist that I am the one that used the credit card and authorized the transactions. I filed a complaint in this site \" case number XXXX \" and the case was closed, Wells Fargo sent me a letter of denial stating that I was the one that called to active the card on XX/XX/year> from my phone number XXXX. \nI was never in possession of this credit card and neither was my husband, I never called Wells Fargo to activate the card as I was accused in the Wells Fargo letter. I looked in my XXXX XXXX XXXX log and there are no calls from my phone to Wells Fargo on that date. The Wells Fargo denial letter where they state I called to activate the card on that date, my XXXX XXXX XXXX XXXXog showing my calls for XX/XX/year>, police report and other paperwork related to this case. \nI have been really frustrated, feeling harassed and emotionally distressed by Wells Fargo since XXXXXXXX XXXX",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "349XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I requested an additional credit card for my husband XXXX XXXX, which never arrived in my house. It seems it was intercepted by someone and used in the XXXX area. I disputed the transactions many times with Wells Fargo, but they insist that I am the one that used the credit card and authorized the transactions. I filed a complaint in this site \" case number XXXX \" and the case was closed, Wells Fargo sent me a letter of denial stating that I was the one that called to active the card on XX/XX/year> from my phone number XXXX. \nI was never in possession of this credit card and neither was my husband, I never called Wells Fargo to activate the card as I was accused in the Wells Fargo letter. I looked in my XXXX XXXX XXXX log and there are no calls from my phone to Wells Fargo on that date. The Wells Fargo denial letter where they state I called to activate the card on that date, my XXXX XXXX XXXX XXXXog showing my calls for XX/XX/year>, police report and other paperwork related to this case. \nI have been really frustrated, feeling harassed and emotionally distressed by Wells Fargo since XXXXXXXX XXXX"
+}
+
+Chunk:
+i requested an additional credit card for my husband xxxx xxxx, which never arrived in my house. it seems it was intercepted by someone and used in the xxxx area. i disputed the transactions many times with wells fargo, but they insist that i am the one that used the credit card and authorized the transactions. i filed a complaint in this site " case number xxxx " and the case was closed, wells fargo sent me a letter of denial stating that i was the one that called to active the card on xx / xx / year > from my phone number xxxx. i was never in possession of this credit card and neither was my husband, i never called wells fargo to activate the card as i was accused in the wells fargo letter. i looked in my xxxx xxxx xxxx log and there are no calls from my phone to wells fargo on that date. the wells fargo denial letter where they state i called to activate the card on that date, my xxxx xxxx xxxx xxxxog showing my calls for xx / xx / year >, police report and other paperwork related to this case. i have been really frustrated, feeling harassed and emotionally distressed by wells fargo since xxxxxxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991717338562012
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9056253,
+  "complaint_id": "9056253",
+  "product": "Credit card",
+  "complaint_what_happened": "I received two notices from different sources claiming \" unusual activity '' on my J.P. Morgan Chase on-line banking account. Both said I had to visit their URL to regain on-line access. \n\nI know this is a scam because I logged into my account and everything was OK. I also have a freeze with all three credit agencies barring any new CC accounts.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I received two notices from different sources claiming \" unusual activity '' on my J.P. Morgan Chase on-line banking account. Both said I had to visit their URL to regain on-line access. \n\nI know this is a scam because I logged into my account and everything was OK. I also have a freeze with all three credit agencies barring any new CC accounts."
+}
+
+Chunk:
+i received two notices from different sources claiming " unusual activity'' on my j. p. morgan chase on - line banking account. both said i had to visit their url to regain on - line access. i know this is a scam because i logged into my account and everything was ok. i also have a freeze with all three credit agencies barring any new cc accounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971340894699097
+}

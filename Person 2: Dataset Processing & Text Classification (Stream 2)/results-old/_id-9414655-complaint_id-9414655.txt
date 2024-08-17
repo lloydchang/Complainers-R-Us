@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9414655,
+  "complaint_id": "9414655",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed a statement charge on my account of {$1.00}. I was curious since I was never notified in writing of the change on my account. The company then proceeded to close my account cause I asked why the charge? I reached out to company to find out why my account was closed. representative could not provide me an answer. Her claim was she assumes it was due to a credit report. I proceeded to ask her then I was supposed to be notified in writing of what triggered the change since I know my score is in the XXXX XXXX  and can not be outside my challenge per statement billing. This is grossly unfair. I was never notified of the change. When I asked was unfairly treated.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "85383",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I noticed a statement charge on my account of {$1.00}. I was curious since I was never notified in writing of the change on my account. The company then proceeded to close my account cause I asked why the charge? I reached out to company to find out why my account was closed. representative could not provide me an answer. Her claim was she assumes it was due to a credit report. I proceeded to ask her then I was supposed to be notified in writing of what triggered the change since I know my score is in the XXXX XXXX  and can not be outside my challenge per statement billing. This is grossly unfair. I was never notified of the change. When I asked was unfairly treated."
+}
+
+Chunk:
+i noticed a statement charge on my account of { $ 1. 00 }. i was curious since i was never notified in writing of the change on my account. the company then proceeded to close my account cause i asked why the charge? i reached out to company to find out why my account was closed. representative could not provide me an answer. her claim was she assumes it was due to a credit report. i proceeded to ask her then i was supposed to be notified in writing of what triggered the change since i know my score is in the xxxx xxxx and can not be outside my challenge per statement billing. this is grossly unfair. i was never notified of the change. when i asked was unfairly treated.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995456337928772
+}

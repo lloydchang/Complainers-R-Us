@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9486437,
+  "complaint_id": "9486437",
+  "product": "Credit card",
+  "complaint_what_happened": "The company, PayPal and their collector, Synchrony Bank, provided statements as requested. My question and complaint was for a charge of {$200.00} outstanding. This charge seems to be for XXXX of XXXX fraudulent purchases from XXXX XXXX made in XXXX, XXXX continue to explain and adamantly deny both charges. \nAfter filing a claim with CFPB, I received additional information from Synchrony. Their report indicates I have been credited for these purchases. Yet, the statements forthcoming daily via email, indicate I owe a balance of {$380.00}. The balance as of XXXX, is supposedly comprised of an initial purchase of {$200.00} to XXXX XXXX and several interest charges of {$70.00} monthly. \nI have not made any purchases for {$200.00} through PayPal during XXXX. The only charges were those afore mentioned. I have contacted XXXX XXXX about their refunding. They related refunding only {$200.00} to PayPal. \nWithin the statement provided by Synchrony on XX/XX/year>, are deferred charges from XX/XX/year> of {$200.00} ... .and described as as \" Miscellaneous Adjustment XXXXXXXX XXXX '' ; another, described exactly the same, for {$70.00}. This is not adequate. \nI have never not received an explanation as to this {$200.00} charge, if it not that from XXXX XXXX. What is it? Why is it? Why is this? \nI am more than hopeful that this ongoing issue will be resolved honestly and correctly. \nI will not pay for any fraudulent charge to my account and this is XXXX!",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "206XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The company, PayPal and their collector, Synchrony Bank, provided statements as requested. My question and complaint was for a charge of {$200.00} outstanding. This charge seems to be for XXXX of XXXX fraudulent purchases from XXXX XXXX made in XXXX, XXXX continue to explain and adamantly deny both charges. \nAfter filing a claim with CFPB, I received additional information from Synchrony. Their report indicates I have been credited for these purchases. Yet, the statements forthcoming daily via email, indicate I owe a balance of {$380.00}. The balance as of XXXX, is supposedly comprised of an initial purchase of {$200.00} to XXXX XXXX and several interest charges of {$70.00} monthly. \nI have not made any purchases for {$200.00} through PayPal during XXXX. The only charges were those afore mentioned. I have contacted XXXX XXXX about their refunding. They related refunding only {$200.00} to PayPal. \nWithin the statement provided by Synchrony on XX/XX/year>, are deferred charges from XX/XX/year> of {$200.00} ... .and described as as \" Miscellaneous Adjustment XXXXXXXX XXXX '' ; another, described exactly the same, for {$70.00}. This is not adequate. \nI have never not received an explanation as to this {$200.00} charge, if it not that from XXXX XXXX. What is it? Why is it? Why is this? \nI am more than hopeful that this ongoing issue will be resolved honestly and correctly. \nI will not pay for any fraudulent charge to my account and this is XXXX!"
+}
+
+Chunk:
+the company, paypal and their collector, synchrony bank, provided statements as requested. my question and complaint was for a charge of { $ 200. 00 } outstanding. this charge seems to be for xxxx of xxxx fraudulent purchases from xxxx xxxx made in xxxx, xxxx continue to explain and adamantly deny both charges. after filing a claim with cfpb, i received additional information from synchrony. their report indicates i have been credited for these purchases. yet, the statements forthcoming daily via email, indicate i owe a balance of { $ 380. 00 }. the balance as of xxxx, is supposedly comprised of an initial purchase of { $ 200. 00 } to xxxx xxxx and several interest charges of { $ 70. 00 } monthly. i have not made any purchases for { $ 200. 00 } through paypal during xxxx. the only charges were those afore mentioned. i have contacted xxxx xxxx about their refunding. they related refunding only { $ 200. 00 } to paypal. within the statement provided by synchrony on xx / xx / year >, are deferred charges from xx / xx / year > of { $ 200. 00 }.... and described as as " miscellaneous adjustment xxxxxxxx xxxx'' ; another, described exactly the same, for { $ 70. 00 }. this is not adequate. i have never not received an explanation as to this { $ 200. 00 } charge, if it not that from xxxx xxxx. what is it? why is it? why is this? i am more than hopeful that this ongoing issue will be resolved honestly and correctly. i will not pay for any fraudulent charge to my account and this is xxxx!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972420930862427
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9082238,
+  "complaint_id": "9082238",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a Home Depot/Citibank credit card when making a purchase on XX/XX/24, but have not received the credit card or communication from Home Depot/Citibank Credit Card Services and therefore unable to set up the account to make payments online. I have worked for nearly 2 months to learn about the status of my credit card and account and have made several calls to Home Depot/Citibank , including talking with the Asst Store Manager at the local Home Depot XXXX and together talking with Home Depot/Citibank Credit Card Services to clarify the problem. I have recently received a Account Statement with charges and late fees, with a partial account number that I have no record of, and received phone calls and email about making payments but I am informed that I can not with an account number and that I can not be verified. I want to have this matter addressed so that I can make payments online before due dates.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "967XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Delay in processing application",
+  "text": "I applied for a Home Depot/Citibank credit card when making a purchase on XX/XX/24, but have not received the credit card or communication from Home Depot/Citibank Credit Card Services and therefore unable to set up the account to make payments online. I have worked for nearly 2 months to learn about the status of my credit card and account and have made several calls to Home Depot/Citibank , including talking with the Asst Store Manager at the local Home Depot XXXX and together talking with Home Depot/Citibank Credit Card Services to clarify the problem. I have recently received a Account Statement with charges and late fees, with a partial account number that I have no record of, and received phone calls and email about making payments but I am informed that I can not with an account number and that I can not be verified. I want to have this matter addressed so that I can make payments online before due dates."
+}
+
+Chunk:
+i applied for a home depot / citibank credit card when making a purchase on xx / xx / 24, but have not received the credit card or communication from home depot / citibank credit card services and therefore unable to set up the account to make payments online. i have worked for nearly 2 months to learn about the status of my credit card and account and have made several calls to home depot / citibank, including talking with the asst store manager at the local home depot xxxx and together talking with home depot / citibank credit card services to clarify the problem. i have recently received a account statement with charges and late fees, with a partial account number that i have no record of, and received phone calls and email about making payments but i am informed that i can not with an account number and that i can not be verified. i want to have this matter addressed so that i can make payments online before due dates.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995458722114563
+}

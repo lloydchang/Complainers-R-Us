@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9162569,
+  "complaint_id": "9162569",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a dual power of attorney for my son to have access and to help me with everything I sent this company total visa a copy of the power of attorney but they refuse to honor it. I have a letter from them stating that during the dispute I have with them that I will not have to make any payments but all of a sudden they want money and I'm passed due and charges of interest and others are accumulating I tried to have my son assist me as he has power of attorney they refuse to accept the power of attorney",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91768",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST PORTFOLIO SERVICING INC",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I have a dual power of attorney for my son to have access and to help me with everything I sent this company total visa a copy of the power of attorney but they refuse to honor it. I have a letter from them stating that during the dispute I have with them that I will not have to make any payments but all of a sudden they want money and I'm passed due and charges of interest and others are accumulating I tried to have my son assist me as he has power of attorney they refuse to accept the power of attorney"
+}
+
+Chunk:
+i have a dual power of attorney for my son to have access and to help me with everything i sent this company total visa a copy of the power of attorney but they refuse to honor it. i have a letter from them stating that during the dispute i have with them that i will not have to make any payments but all of a sudden they want money and i'm passed due and charges of interest and others are accumulating i tried to have my son assist me as he has power of attorney they refuse to accept the power of attorney
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.995048463344574
+}

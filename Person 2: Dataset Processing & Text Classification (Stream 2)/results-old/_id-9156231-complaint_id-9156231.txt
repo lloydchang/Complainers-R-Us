@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156231,
+  "complaint_id": "9156231",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened my Capital One XXXX card last year, and XXXX of the stated benefits that I knew I would use is the ability to share miles with other XXXX cardholders, which my XXXX  has one as well. Once I put spending on the card and received miles into my account, I then went to go to transfer miles to his account for him to use, but when I tried, it would not give me this option. I called on XX/XX/year> to inquire why, and after being transferred to a supervisor, was told that \" yes this is a stated benefit of the card, but for some reason, it is not letting you make the transfer. '' She agreed this should be an option on the account, and referred it to another department to fix the issue. \n\nThe other department responded to me on XX/XX/XXXX and simply said, \" Unfortunately, we are unable to transfer your rewards because your account is in an unredeemable status. '' There is no explanation as to why. This is unacceptable to find this out after I have already spent money on the card, and no offer how to resolve. Capital One had no problem accepting my charges, but when trying to use a stated benefit on the card, they are unwilling to help. If this benefit was somehow removed since applying, they would have needed to notify me. And if there is some other reason why, they need to fix it. It is unacceptable to charge me a renewal annual fee and not even provide the benefits that were in the stated account terms. I even reached out about a refund on XX/XX/XXXX, and they ignored that request.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20032",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I opened my Capital One XXXX card last year, and XXXX of the stated benefits that I knew I would use is the ability to share miles with other XXXX cardholders, which my XXXX  has one as well. Once I put spending on the card and received miles into my account, I then went to go to transfer miles to his account for him to use, but when I tried, it would not give me this option. I called on XX/XX/year> to inquire why, and after being transferred to a supervisor, was told that \" yes this is a stated benefit of the card, but for some reason, it is not letting you make the transfer. '' She agreed this should be an option on the account, and referred it to another department to fix the issue. \n\nThe other department responded to me on XX/XX/XXXX and simply said, \" Unfortunately, we are unable to transfer your rewards because your account is in an unredeemable status. '' There is no explanation as to why. This is unacceptable to find this out after I have already spent money on the card, and no offer how to resolve. Capital One had no problem accepting my charges, but when trying to use a stated benefit on the card, they are unwilling to help. If this benefit was somehow removed since applying, they would have needed to notify me. And if there is some other reason why, they need to fix it. It is unacceptable to charge me a renewal annual fee and not even provide the benefits that were in the stated account terms. I even reached out about a refund on XX/XX/XXXX, and they ignored that request."
+}
+
+Chunk:
+i opened my capital one xxxx card last year, and xxxx of the stated benefits that i knew i would use is the ability to share miles with other xxxx cardholders, which my xxxx has one as well. once i put spending on the card and received miles into my account, i then went to go to transfer miles to his account for him to use, but when i tried, it would not give me this option. i called on xx / xx / year > to inquire why, and after being transferred to a supervisor, was told that " yes this is a stated benefit of the card, but for some reason, it is not letting you make the transfer.'' she agreed this should be an option on the account, and referred it to another department to fix the issue. the other department responded to me on xx / xx / xxxx and simply said, " unfortunately, we are unable to transfer your rewards because your account is in an unredeemable status.'' there is no explanation as to why. this is unacceptable to find this out after i have already spent money on the card, and no offer how to resolve. capital one had no problem accepting my charges, but when trying to use a stated benefit on the card, they are unwilling to help. if this benefit was somehow removed since applying, they would have needed to notify me. and if there is some other reason why, they need to fix it. it is unacceptable to charge me a renewal annual fee and not even provide the benefits that were in the stated account terms. i even reached out about a refund on xx / xx / xxxx, and they ignored that request.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996569156646729
+}

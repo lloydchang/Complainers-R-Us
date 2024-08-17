@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224929,
+  "complaint_id": "9224929",
+  "product": "Credit card",
+  "complaint_what_happened": "Denied me for a credit card with perfect credit score and history. Happened same thing with XXXX XXXX for years. Found out it was because I was XXXX after cfpb sued and won the lawsuit against XXXX for discrimination against XXXX for the last names ending in XXXX or XXXX. I believe same thing is happening here. I never get rejected for any credit cards. They sent me a letter saying we believe you would use this card for FRAUD.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Denied me for a credit card with perfect credit score and history. Happened same thing with XXXX XXXX for years. Found out it was because I was XXXX after cfpb sued and won the lawsuit against XXXX for discrimination against XXXX for the last names ending in XXXX or XXXX. I believe same thing is happening here. I never get rejected for any credit cards. They sent me a letter saying we believe you would use this card for FRAUD."
+}
+
+Chunk:
+denied me for a credit card with perfect credit score and history. happened same thing with xxxx xxxx for years. found out it was because i was xxxx after cfpb sued and won the lawsuit against xxxx for discrimination against xxxx for the last names ending in xxxx or xxxx. i believe same thing is happening here. i never get rejected for any credit cards. they sent me a letter saying we believe you would use this card for fraud.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9818155169487
+}

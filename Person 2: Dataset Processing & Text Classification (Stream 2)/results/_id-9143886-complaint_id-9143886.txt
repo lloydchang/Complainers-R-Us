@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143886,
+  "complaint_id": "9143886",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a SECURED card with Self Lender. I asked them to close the account on XX/XX/year>. On XX/XX/year> I made my last credit builder account and told Self Lender to apply this to my secured card and close the account. Self Lender didnt do that and began charging me late fees. They only closed my account in XXXX and continued to charge me late fees until they charged off the account and reported it to the credit bureaus. I DO NOT OWE SELF LENDER ONE XXXX!!!!!! Self lender is trying to scam me out of {$140.00}. They need to correct this account and either remove it from the credit bureaus or change it to paid as agreed. Once again I owe them XXXX DOLLARS!!!! Every XXXX that Self claims I owe them is LATE FEES on an account that I closed and they didnt!!!!!",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "380XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I had a SECURED card with Self Lender. I asked them to close the account on XX/XX/year>. On XX/XX/year> I made my last credit builder account and told Self Lender to apply this to my secured card and close the account. Self Lender didnt do that and began charging me late fees. They only closed my account in XXXX and continued to charge me late fees until they charged off the account and reported it to the credit bureaus. I DO NOT OWE SELF LENDER ONE XXXX!!!!!! Self lender is trying to scam me out of {$140.00}. They need to correct this account and either remove it from the credit bureaus or change it to paid as agreed. Once again I owe them XXXX DOLLARS!!!! Every XXXX that Self claims I owe them is LATE FEES on an account that I closed and they didnt!!!!!"
+}
+
+Chunk:
+i had a secured card with self lender. i asked them to close the account on xx / xx / year >. on xx / xx / year > i made my last credit builder account and told self lender to apply this to my secured card and close the account. self lender didnt do that and began charging me late fees. they only closed my account in xxxx and continued to charge me late fees until they charged off the account and reported it to the credit bureaus. i do not owe self lender one xxxx!!!!!! self lender is trying to scam me out of { $ 140. 00 }. they need to correct this account and either remove it from the credit bureaus or change it to paid as agreed. once again i owe them xxxx dollars!!!! every xxxx that self claims i owe them is late fees on an account that i closed and they didnt!!!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988142251968384
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9460718,
+  "complaint_id": "9460718",
+  "product": "Credit card",
+  "complaint_what_happened": "I am unable to pay my bill. First National Bank of Omaha refuses to allow me access to my bank account, not even to let me deposit money to pay overdraft, fees associated with overdraft, or even their credit card monies owed.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "68116",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "NE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I am unable to pay my bill. First National Bank of Omaha refuses to allow me access to my bank account, not even to let me deposit money to pay overdraft, fees associated with overdraft, or even their credit card monies owed."
+}
+
+Chunk:
+i am unable to pay my bill. first national bank of omaha refuses to allow me access to my bank account, not even to let me deposit money to pay overdraft, fees associated with overdraft, or even their credit card monies owed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996814727783203
+}

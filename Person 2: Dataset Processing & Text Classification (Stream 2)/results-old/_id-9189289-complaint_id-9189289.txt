@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9189289,
+  "complaint_id": "9189289",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>. I engaged in a purchase with XXXX  for various used RV equipment, including trailer hitches and electric RV stands, during their garage sale event. Following the transaction, I awaited the delivery of the purchased items, as agreed upon. \nHowever, after several weeks had passed without any update or delivery confirmation, I reached out to the merchant for clarification. To my dismay, I was informed by XXXX that they were unable to fulfill the order due to unforeseen circumstances. They explained that their merchant account had been closed, consequently hindering their ability to process transactions, including refunds. \nDespite my efforts to resolve the matter directly with the merchant, I have been unable to obtain a refund or any form of resolution. As a result, I am left with a significant financial loss and unresolved transaction Please note. \n\nI provide AMEX with proof of me trying to contact the merchant multiple time without success. \n\n\nHere are the dispute references numbers. \nXXXX XXXX XXXX I've reopened the dispute with amex 3 times. And it got closed. The reason they provided was. \" Based on our review, we believe no goods and/or services were purchased or exchanged in this transaction. ''",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11219",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>. I engaged in a purchase with XXXX  for various used RV equipment, including trailer hitches and electric RV stands, during their garage sale event. Following the transaction, I awaited the delivery of the purchased items, as agreed upon. \nHowever, after several weeks had passed without any update or delivery confirmation, I reached out to the merchant for clarification. To my dismay, I was informed by XXXX that they were unable to fulfill the order due to unforeseen circumstances. They explained that their merchant account had been closed, consequently hindering their ability to process transactions, including refunds. \nDespite my efforts to resolve the matter directly with the merchant, I have been unable to obtain a refund or any form of resolution. As a result, I am left with a significant financial loss and unresolved transaction Please note. \n\nI provide AMEX with proof of me trying to contact the merchant multiple time without success. \n\n\nHere are the dispute references numbers. \nXXXX XXXX XXXX I've reopened the dispute with amex 3 times. And it got closed. The reason they provided was. \" Based on our review, we believe no goods and/or services were purchased or exchanged in this transaction. ''"
+}
+
+Chunk:
+on xx / xx / year >. i engaged in a purchase with xxxx for various used rv equipment, including trailer hitches and electric rv stands, during their garage sale event. following the transaction, i awaited the delivery of the purchased items, as agreed upon. however, after several weeks had passed without any update or delivery confirmation, i reached out to the merchant for clarification. to my dismay, i was informed by xxxx that they were unable to fulfill the order due to unforeseen circumstances. they explained that their merchant account had been closed, consequently hindering their ability to process transactions, including refunds. despite my efforts to resolve the matter directly with the merchant, i have been unable to obtain a refund or any form of resolution. as a result, i am left with a significant financial loss and unresolved transaction please note. i provide amex with proof of me trying to contact the merchant multiple time without success. here are the dispute references numbers. xxxx xxxx xxxx i've reopened the dispute with amex 3 times. and it got closed. the reason they provided was. " based on our review, we believe no goods and / or services were purchased or exchanged in this transaction.''
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997629523277283
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9091745,
+  "complaint_id": "9091745",
+  "product": "Credit card",
+  "complaint_what_happened": "I am applying for a credit card XX/XX/XXXX, which I was approved for. On XX/XX/XXXX they indicated that I had 90 days to spend {$1000.00} to get {$200.00}. However the credit card does not arrive for over XXXX weeks so I cant use the credit card until its activated. I can not activate the card until I get it, so its really XXXX months and XXXX weeks not 90 days I have to spend {$1000.00}? XXXX this is misleading. My question to you is it responsible lending? As of this filing, I still do not have the credit card so I can not fulfill the XXXX dollars yet. When I called customer service, I asked will the 90 days be extended when I received the card and they indicated no. I understand they will not know when I receive the card but if they say in their email, it will take this amount of time to receive the card. Should they factor that into the 90 days?",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92649",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I am applying for a credit card XX/XX/XXXX, which I was approved for. On XX/XX/XXXX they indicated that I had 90 days to spend {$1000.00} to get {$200.00}. However the credit card does not arrive for over XXXX weeks so I cant use the credit card until its activated. I can not activate the card until I get it, so its really XXXX months and XXXX weeks not 90 days I have to spend {$1000.00}? XXXX this is misleading. My question to you is it responsible lending? As of this filing, I still do not have the credit card so I can not fulfill the XXXX dollars yet. When I called customer service, I asked will the 90 days be extended when I received the card and they indicated no. I understand they will not know when I receive the card but if they say in their email, it will take this amount of time to receive the card. Should they factor that into the 90 days?"
+}
+
+Chunk:
+i am applying for a credit card xx / xx / xxxx, which i was approved for. on xx / xx / xxxx they indicated that i had 90 days to spend { $ 1000. 00 } to get { $ 200. 00 }. however the credit card does not arrive for over xxxx weeks so i cant use the credit card until its activated. i can not activate the card until i get it, so its really xxxx months and xxxx weeks not 90 days i have to spend { $ 1000. 00 }? xxxx this is misleading. my question to you is it responsible lending? as of this filing, i still do not have the credit card so i can not fulfill the xxxx dollars yet. when i called customer service, i asked will the 90 days be extended when i received the card and they indicated no. i understand they will not know when i receive the card but if they say in their email, it will take this amount of time to receive the card. should they factor that into the 90 days?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992486834526062
+}

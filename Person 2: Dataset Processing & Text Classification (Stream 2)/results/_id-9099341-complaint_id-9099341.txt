@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9099341,
+  "complaint_id": "9099341",
+  "product": "Credit card",
+  "complaint_what_happened": "I always make payment of my Apple Card in full using my phone on the due date. There is only XXXX bank account in my Apple Wallet. I have made payments in this manner and from this account from at least XX/XX/XXXX. I made a payment in this manner on XX/XX/XXXX. My phone showed that my payment was successful. I left on a business trip and had no reason to use my card again until I returned on XX/XX/XXXX. My card was denied when I attempted a purchase. I checked my email and saw that the payment was denied. The email showed that the issuer attempted to take the payment from an account ending in XXXX which is not the account in my Apple Wallet. Realizing there was an error by the issuer in processing the payment, on XX/XX/XXXX I made the paymentin the same manner as described above using the account in my Apple Wallet. This payment was successful. \n\nI called customer support on XX/XX/XXXX to explain what happened. I was advised that I had been charged {$92.00} in interest because of the late payment. I asked that the interest be waived because the failure to process the payment on time was the result of the issuer using the wrong account. On XX/XX/XXXX Customer Service told me there would no waiver because I used the wrong account. I asked to speak to a supervisor who said they would ask for a waiver based on the circumstances. After that call, I checked my Apple Wallet and confirmed there is only XXXX bank account linked to the wallet. I called back Customer Support and they confirmed there is only XXXX bank account in my Apple Wallet. They updated the notes on my file. I spoke with a supervisor again on XX/XX/XXXX who told me that they would not waive the interest. He agains asked for a review of the matter based on our discussion. On XX/XX/XXXX I was again told that the interest would not be waived. Before filing this complaint, I was told I could schedule a call to discuss the matter with a higher level. That call was scheduled for noon on XX/XX/XXXX. I have not yet had a call from the issuer. \n\nI have repeatedly asked the issuer for a written response on their position and how I could have made a payment from a bank account that is not in my Apple Wallet. I have never received anything in writing. The people I have spoken to have said they can not see any information on how a payment was made. I asked for contact information for someone who could confirm that information and was told that consumers can not contact the people with that information.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I always make payment of my Apple Card in full using my phone on the due date. There is only XXXX bank account in my Apple Wallet. I have made payments in this manner and from this account from at least XX/XX/XXXX. I made a payment in this manner on XX/XX/XXXX. My phone showed that my payment was successful. I left on a business trip and had no reason to use my card again until I returned on XX/XX/XXXX. My card was denied when I attempted a purchase. I checked my email and saw that the payment was denied. The email showed that the issuer attempted to take the payment from an account ending in XXXX which is not the account in my Apple Wallet. Realizing there was an error by the issuer in processing the payment, on XX/XX/XXXX I made the paymentin the same manner as described above using the account in my Apple Wallet. This payment was successful. \n\nI called customer support on XX/XX/XXXX to explain what happened. I was advised that I had been charged {$92.00} in interest because of the late payment. I asked that the interest be waived because the failure to process the payment on time was the result of the issuer using the wrong account. On XX/XX/XXXX Customer Service told me there would no waiver because I used the wrong account. I asked to speak to a supervisor who said they would ask for a waiver based on the circumstances. After that call, I checked my Apple Wallet and confirmed there is only XXXX bank account linked to the wallet. I called back Customer Support and they confirmed there is only XXXX bank account in my Apple Wallet. They updated the notes on my file. I spoke with a supervisor again on XX/XX/XXXX who told me that they would not waive the interest. He agains asked for a review of the matter based on our discussion. On XX/XX/XXXX I was again told that the interest would not be waived. Before filing this complaint, I was told I could schedule a call to discuss the matter with a higher level. That call was scheduled for noon on XX/XX/XXXX. I have not yet had a call from the issuer. \n\nI have repeatedly asked the issuer for a written response on their position and how I could have made a payment from a bank account that is not in my Apple Wallet. I have never received anything in writing. The people I have spoken to have said they can not see any information on how a payment was made. I asked for contact information for someone who could confirm that information and was told that consumers can not contact the people with that information."
+}
+
+Chunk:
+spoken to have said they can not see any information on how a payment was made. i asked for contact information for someone who could confirm that information and was told that consumers can not contact the people with that information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999504804611206
+}

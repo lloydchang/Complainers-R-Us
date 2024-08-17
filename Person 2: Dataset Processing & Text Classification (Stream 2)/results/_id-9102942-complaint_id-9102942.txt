@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9102942,
+  "complaint_id": "9102942",
+  "product": "Credit card",
+  "complaint_what_happened": "I called XXXX XXXX after calling 7 other credit card companies ) to explain I am getting ready to get a divorce and wanted to make sure my name was not listed as an authorized user and to remove my name if it was. The agent told me there is no way unless speaking to the primary. I had already provided sufficient information to get the account accessed and the agent had it in from of them. I asked for a supervisor. I explained to the supervisor I work at a major credit card company as a supervisor and have called 7 other companies today who were happy to advise if my name was on the account or not since I am not asking for more account specific information. Not only did the \" supervisor '' tell me they can not without the primary cardholder but said I could not file a complaint with the bank but need to go to Kohl 's website. When I asked what bank they worked for the supervisor said Kohl 's. I asked again and said you work for a bank not kohls... Which bank do you work for, the supervisor finally told me capital one. I then asked for executive information and was told hours. It took pulling it out of the supervisor for an actual phone number.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "37615",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with customer service",
+  "text": "I called XXXX XXXX after calling 7 other credit card companies ) to explain I am getting ready to get a divorce and wanted to make sure my name was not listed as an authorized user and to remove my name if it was. The agent told me there is no way unless speaking to the primary. I had already provided sufficient information to get the account accessed and the agent had it in from of them. I asked for a supervisor. I explained to the supervisor I work at a major credit card company as a supervisor and have called 7 other companies today who were happy to advise if my name was on the account or not since I am not asking for more account specific information. Not only did the \" supervisor '' tell me they can not without the primary cardholder but said I could not file a complaint with the bank but need to go to Kohl 's website. When I asked what bank they worked for the supervisor said Kohl 's. I asked again and said you work for a bank not kohls... Which bank do you work for, the supervisor finally told me capital one. I then asked for executive information and was told hours. It took pulling it out of the supervisor for an actual phone number."
+}
+
+Chunk:
+i called xxxx xxxx after calling 7 other credit card companies ) to explain i am getting ready to get a divorce and wanted to make sure my name was not listed as an authorized user and to remove my name if it was. the agent told me there is no way unless speaking to the primary. i had already provided sufficient information to get the account accessed and the agent had it in from of them. i asked for a supervisor. i explained to the supervisor i work at a major credit card company as a supervisor and have called 7 other companies today who were happy to advise if my name was on the account or not since i am not asking for more account specific information. not only did the " supervisor'' tell me they can not without the primary cardholder but said i could not file a complaint with the bank but need to go to kohl's website. when i asked what bank they worked for the supervisor said kohl's. i asked again and said you work for a bank not kohls... which bank do you work for, the supervisor finally told me capital one. i then asked for executive information and was told hours. it took pulling it out of the supervisor for an actual phone number.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998660683631897
+}

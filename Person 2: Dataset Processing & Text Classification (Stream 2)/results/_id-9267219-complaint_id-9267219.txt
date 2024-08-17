@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9267219,
+  "complaint_id": "9267219",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I got an email from Capital One saying that my mobile number was changed and then another email ( same day ) saying my card was on the way to my address. \n\nIn addition to this, I received an email from XXXX saying that a XXXX XXXX had accessed my information ( typically because I applied for a credit card or loan or something similar ). Which of course, I had not done. \n\nI called on XX/XX/XXXX to XXXX and Capital One. XXXX told me to contact Capital one but that they would put a safety hold on my account. Capital One told me they would investigate the situation and get back to me but has not yet done so ( XX/XX/XXXX ).",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97219",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XX/XX/XXXX I got an email from Capital One saying that my mobile number was changed and then another email ( same day ) saying my card was on the way to my address. \n\nIn addition to this, I received an email from XXXX saying that a XXXX XXXX had accessed my information ( typically because I applied for a credit card or loan or something similar ). Which of course, I had not done. \n\nI called on XX/XX/XXXX to XXXX and Capital One. XXXX told me to contact Capital one but that they would put a safety hold on my account. Capital One told me they would investigate the situation and get back to me but has not yet done so ( XX/XX/XXXX )."
+}
+
+Chunk:
+xx / xx / xxxx i got an email from capital one saying that my mobile number was changed and then another email ( same day ) saying my card was on the way to my address. in addition to this, i received an email from xxxx saying that a xxxx xxxx had accessed my information ( typically because i applied for a credit card or loan or something similar ). which of course, i had not done. i called on xx / xx / xxxx to xxxx and capital one. xxxx told me to contact capital one but that they would put a safety hold on my account. capital one told me they would investigate the situation and get back to me but has not yet done so ( xx / xx / xxxx ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975746273994446
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9335383,
+  "complaint_id": "9335383",
+  "product": "Credit card",
+  "complaint_what_happened": "CITI credit cards have closed all three of my accounts with them all within this past year! I had XXXX balances and have always used and paid my cards in a timely manner! They are intentionally trying to lower my credit score!\n\nI have included the last four numbers of the three accounts they have closed on me this past year. DISGRACEFUL!",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "530XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "CITI credit cards have closed all three of my accounts with them all within this past year! I had XXXX balances and have always used and paid my cards in a timely manner! They are intentionally trying to lower my credit score!\n\nI have included the last four numbers of the three accounts they have closed on me this past year. DISGRACEFUL!"
+}
+
+Chunk:
+citi credit cards have closed all three of my accounts with them all within this past year! i had xxxx balances and have always used and paid my cards in a timely manner! they are intentionally trying to lower my credit score! i have included the last four numbers of the three accounts they have closed on me this past year. disgraceful!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988448619842529
+}

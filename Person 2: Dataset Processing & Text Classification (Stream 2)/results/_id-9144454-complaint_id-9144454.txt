@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144454,
+  "complaint_id": "9144454",
+  "product": "Credit card",
+  "complaint_what_happened": "My complain is two fold : I had Capital One Venture X card ( {$390.00} annual fee ). As part of that, there's a {$300.00} annual travel credit. Mine was expiring XX/XX/XXXX. It has said \" expires XX/XX/XXXX '' I went in today ( XX/XX/XXXX ) and it said {$0.00} travel credit. So, I called the Capital One XXXX ( not credit card ). They told me that they see my travel credits as expiring on XX/XX/XXXX & there was nothing they could do. I was connected to the credit card side of things, who said that my {$300.00} travel credit EXPIRED already on XX/XX/XXXX. I said it's still XX/XX/XXXX. They said there was nothing they could do, the date could not be extended, etc. I was not offered any other compensation ( miles, bonus, etc ). I decided to close my account, and decided to transfer my account miles ( XXXX ) to an airline partner before closing my account. In trying to do that, I was prompted to\n\ndo MFA ( multi factor authentication ) and just continuously got looped to log out. There was a number to call, which had me waiting on hold and I had to get back to work, so I logged off. I eventually cashed in the miles/points for cash, which I did NOT want to do since it's an ineffective use of them, but I wanted to close out the account as soon as possible. I did call to close the account and reiterated the situation, asking to have my two issues escalated. Again, I was not offered an alternative and was reminded of the travel credit that comes with the card, which I could not use. Long story short - could not use the {$300.00} credit THROUGH the date it said. The travel department of Capital One had a different expiry date than listed.\nAs an aside, I did ask the Capital One XXXX people why LAST year 's ( XXXX ) credit also shows an expiry date of XX/XX/XXXX, but they couldn't tell me. See attached for details.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "200XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "My complain is two fold : I had Capital One Venture X card ( {$390.00} annual fee ). As part of that, there's a {$300.00} annual travel credit. Mine was expiring XX/XX/XXXX. It has said \" expires XX/XX/XXXX '' I went in today ( XX/XX/XXXX ) and it said {$0.00} travel credit. So, I called the Capital One XXXX ( not credit card ). They told me that they see my travel credits as expiring on XX/XX/XXXX & there was nothing they could do. I was connected to the credit card side of things, who said that my {$300.00} travel credit EXPIRED already on XX/XX/XXXX. I said it's still XX/XX/XXXX. They said there was nothing they could do, the date could not be extended, etc. I was not offered any other compensation ( miles, bonus, etc ). I decided to close my account, and decided to transfer my account miles ( XXXX ) to an airline partner before closing my account. In trying to do that, I was prompted to\n\ndo MFA ( multi factor authentication ) and just continuously got looped to log out. There was a number to call, which had me waiting on hold and I had to get back to work, so I logged off. I eventually cashed in the miles/points for cash, which I did NOT want to do since it's an ineffective use of them, but I wanted to close out the account as soon as possible. I did call to close the account and reiterated the situation, asking to have my two issues escalated. Again, I was not offered an alternative and was reminded of the travel credit that comes with the card, which I could not use. Long story short - could not use the {$300.00} credit THROUGH the date it said. The travel department of Capital One had a different expiry date than listed.\nAs an aside, I did ask the Capital One XXXX people why LAST year 's ( XXXX ) credit also shows an expiry date of XX/XX/XXXX, but they couldn't tell me. See attached for details."
+}
+
+Chunk:
+my complain is two fold : i had capital one venture x card ( { $ 390. 00 } annual fee ). as part of that, there's a { $ 300. 00 } annual travel credit. mine was expiring xx / xx / xxxx. it has said " expires xx / xx / xxxx'' i went in today ( xx / xx / xxxx ) and it said { $ 0. 00 } travel credit. so, i called the capital one xxxx ( not credit card ). they told me that they see my travel credits as expiring on xx / xx / xxxx & there was nothing they could do. i was connected to the credit card side of things, who said that my { $ 300. 00 } travel credit expired already on xx / xx / xxxx. i said it's still xx / xx / xxxx. they said there was nothing they could do, the date could not be extended, etc. i was not offered any other compensation ( miles, bonus, etc ). i decided to close my account, and decided to transfer my account miles ( xxxx ) to an airline partner before closing my account. in trying to do that, i was prompted to do mfa ( multi factor authentication ) and just continuously got looped to log out. there was a number to call, which had me waiting on hold and i had to get back to work, so i logged off. i eventually cashed in the miles / points for cash, which i did not want to do since it's an ineffective use of them, but i wanted to close out the account as soon as possible. i did call to close the account and reiterated the situation, asking to have my two issues escalated. again, i was not offered an alternative and was reminded of the travel credit that comes with the card, which i could not use. long story short - could not use the { $ 300. 00 } credit through the date it said. the travel department of capital one had a different expiry date than listed. as an aside, i did ask the capital one xxxx people why last year's ( xxxx ) credit also shows an expiry date of xx / xx / xxxx, but they couldn't tell me. see attached for details.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991791844367981
+}

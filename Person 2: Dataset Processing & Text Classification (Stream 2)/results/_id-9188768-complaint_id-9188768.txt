@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9188768,
+  "complaint_id": "9188768",
+  "product": "Credit card",
+  "complaint_what_happened": "This account with SUNCOAST SCHOOLS FED has a balance of {$3500.00} which is labeled as a charge off account on my consumer report. As a bank I am pretty sure they filed a 1099C form for this debt I incurred to be in compliance with the IRS. Now a charge off gross or ordinary income. It is cancelled debt and its not suppose to be on my consumer report. Under Fairness and Accuracy reporting a charge off can not be reported on my consumer report and it has for the longest in return hurting my ability to live my best life. IRS said a charge off is gross or ordinary income, income doesnt get reported on report. Case Grugger V. USAA. This balance is on my equifax but not on my XXXX account so it is also inaccurately reporting and again causing me not to live my best life.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SUNCOAST CREDIT UNION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "This account with SUNCOAST SCHOOLS FED has a balance of {$3500.00} which is labeled as a charge off account on my consumer report. As a bank I am pretty sure they filed a 1099C form for this debt I incurred to be in compliance with the IRS. Now a charge off gross or ordinary income. It is cancelled debt and its not suppose to be on my consumer report. Under Fairness and Accuracy reporting a charge off can not be reported on my consumer report and it has for the longest in return hurting my ability to live my best life. IRS said a charge off is gross or ordinary income, income doesnt get reported on report. Case Grugger V. USAA. This balance is on my equifax but not on my XXXX account so it is also inaccurately reporting and again causing me not to live my best life."
+}
+
+Chunk:
+this account with suncoast schools fed has a balance of { $ 3500. 00 } which is labeled as a charge off account on my consumer report. as a bank i am pretty sure they filed a 1099c form for this debt i incurred to be in compliance with the irs. now a charge off gross or ordinary income. it is cancelled debt and its not suppose to be on my consumer report. under fairness and accuracy reporting a charge off can not be reported on my consumer report and it has for the longest in return hurting my ability to live my best life. irs said a charge off is gross or ordinary income, income doesnt get reported on report. case grugger v. usaa. this balance is on my equifax but not on my xxxx account so it is also inaccurately reporting and again causing me not to live my best life.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993546605110168
+}

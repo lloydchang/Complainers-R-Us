@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9130802,
+  "complaint_id": "9130802",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX XXXX. \nXXXX, KS XXXX Attn : XXXX, I received a notice that my accounts in good standing are being closed. I am requesting that these accounts be re-opened or allowed to remain open. I have held several of these accounts for years, and closing them will negatively impact my credit score. Additionally, I still actively use these accounts. \n\nA previous FTC report, which was filed in error, has now been corrected. \n\nThe specific accounts I request to be corrected/kept open include, but are not limited to, the following : - XXXX  # XXXX ( XX/XX/year> ) {$2300.00} - XXXX # XXXX ( XX/XX/year> XXXX XXXX XXXX # XXXX - XXXX # XXXX Confirmation and updated evidence have already been sent to all reporting credit bureaus. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "66209",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "KS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "XXXX XXXX XXXX XXXX XXXX. \nXXXX, KS XXXX Attn : XXXX, I received a notice that my accounts in good standing are being closed. I am requesting that these accounts be re-opened or allowed to remain open. I have held several of these accounts for years, and closing them will negatively impact my credit score. Additionally, I still actively use these accounts. \n\nA previous FTC report, which was filed in error, has now been corrected. \n\nThe specific accounts I request to be corrected/kept open include, but are not limited to, the following : - XXXX  # XXXX ( XX/XX/year> ) {$2300.00} - XXXX # XXXX ( XX/XX/year> XXXX XXXX XXXX # XXXX - XXXX # XXXX Confirmation and updated evidence have already been sent to all reporting credit bureaus. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx. xxxx, ks xxxx attn : xxxx, i received a notice that my accounts in good standing are being closed. i am requesting that these accounts be re - opened or allowed to remain open. i have held several of these accounts for years, and closing them will negatively impact my credit score. additionally, i still actively use these accounts. a previous ftc report, which was filed in error, has now been corrected. the specific accounts i request to be corrected / kept open include, but are not limited to, the following : - xxxx # xxxx ( xx / xx / year > ) { $ 2300. 00 } - xxxx # xxxx ( xx / xx / year > xxxx xxxx xxxx # xxxx - xxxx # xxxx confirmation and updated evidence have already been sent to all reporting credit bureaus. thank you for your attention to this matter. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9893989562988281
+}

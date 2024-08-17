@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9074513,
+  "complaint_id": "9074513",
+  "product": "Credit card",
+  "complaint_what_happened": "This is a follow up to original claim # XXXX, which should have never been closed. Just because American Express responded doesnt mean theyre right. If you look at the Statements they submitted, you will see the XXXX XXXX XXXX It Plan disappears from a statement in the middle of the alleged plan. Additionally, they are trying to charge me a late fee despite us being in the middle of a CFPB dispute which was filed well before the due date. \n\nAlso, if you look at the adjusted balanced and minimum payment dues on all of the statements that THEY PROVIDED IN RESPONSE, there is no accounting done for the Plan It Plans that were allegedly due. They have just demonstrated that their definition of an Adjusted Balance is in fact inaccurate along with their terms for a Plan It Plan itself. It is not my fault as the consumer that their system had an error that did not start accounting for the alleged plans in my account. No one could explain this, and theyve responded to the CFPB complaint in the same manner that theyve responded to me previously. THE BURDEN OF PROOF IS ON THEM AND THERE IS A CLEAR ISSUE. THEY HAVE JUST ADMITTED WHAT THEY ADVERTISE IS NOT WHAT IS ACCURATE. \n\nThis needs to be escalated both at the CFPB and American Express, because this horrible treatment for a longtime customer. This question deserves more than a poorly written email consider their own attachments in response verify what I am saying.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60142",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "This is a follow up to original claim # XXXX, which should have never been closed. Just because American Express responded doesnt mean theyre right. If you look at the Statements they submitted, you will see the XXXX XXXX XXXX It Plan disappears from a statement in the middle of the alleged plan. Additionally, they are trying to charge me a late fee despite us being in the middle of a CFPB dispute which was filed well before the due date. \n\nAlso, if you look at the adjusted balanced and minimum payment dues on all of the statements that THEY PROVIDED IN RESPONSE, there is no accounting done for the Plan It Plans that were allegedly due. They have just demonstrated that their definition of an Adjusted Balance is in fact inaccurate along with their terms for a Plan It Plan itself. It is not my fault as the consumer that their system had an error that did not start accounting for the alleged plans in my account. No one could explain this, and theyve responded to the CFPB complaint in the same manner that theyve responded to me previously. THE BURDEN OF PROOF IS ON THEM AND THERE IS A CLEAR ISSUE. THEY HAVE JUST ADMITTED WHAT THEY ADVERTISE IS NOT WHAT IS ACCURATE. \n\nThis needs to be escalated both at the CFPB and American Express, because this horrible treatment for a longtime customer. This question deserves more than a poorly written email consider their own attachments in response verify what I am saying."
+}
+
+Chunk:
+this is a follow up to original claim # xxxx, which should have never been closed. just because american express responded doesnt mean theyre right. if you look at the statements they submitted, you will see the xxxx xxxx xxxx it plan disappears from a statement in the middle of the alleged plan. additionally, they are trying to charge me a late fee despite us being in the middle of a cfpb dispute which was filed well before the due date. also, if you look at the adjusted balanced and minimum payment dues on all of the statements that they provided in response, there is no accounting done for the plan it plans that were allegedly due. they have just demonstrated that their definition of an adjusted balance is in fact inaccurate along with their terms for a plan it plan itself. it is not my fault as the consumer that their system had an error that did not start accounting for the alleged plans in my account. no one could explain this, and theyve responded to the cfpb complaint in the same manner that theyve responded to me previously. the burden of proof is on them and there is a clear issue. they have just admitted what they advertise is not what is accurate. this needs to be escalated both at the cfpb and american express, because this horrible treatment for a longtime customer. this question deserves more than a poorly written email consider their own attachments in response verify what i am saying.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996724128723145
+}

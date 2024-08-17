@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9170842,
+  "complaint_id": "9170842",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I booked a trip on XXXX XXXX XXXX XXXX, XXXX XXXX, but right after I paid, I realized that Ive put the wrong dates by mistake I was very worried because I did see the non-refundable policy from this property on the detail page. And I also checked the correct dates were actually not available to book, so there was no way to ask for a modification of my booking. Since it was midnight and no XXXX customer agents were available at that time, I only had to contact XXXX  credit card customer service to ask if there was anything they could do to help me with this case. \n\nThe agent on the call, the agent assured me that in this case, I could wait a few days for the pending charge to be posted, and cancel the service and submit a dispute, and eventually get money back with XXXX help. I was hopeful from what the agent told me, so I did what she told me to do, saw the pending charge posted on XX/XX/XXXX, canceled the stay with XXXX the same day, tried to work with them to get the dates modified or get the full refund but all failed. So I submitted a dispute, hoping to get my money back through my bank. After waiting for a few months, I got a rejection from XXXX for my dispute. I called XXXX customer service again to explain what happened and what the previous agent promised me. The new agent asked me to re-open the dispute by submitting supporting documents, which I did what she said. The case was re-opened but I was not being contacted or notified for the final results. I have been tracking the dispute process on my app though for a few months, and no updates until recently, the case was closed quietly. No notification, no contact from the bank, it secretly closed. And of course, I did not get my money back or even get an explanation. \n\nSince I did not actually stay at the property, I believe they did not have any losses due to this however, I lost {$XXXX} for nothing. XXXX it was caused by my own mistake in the first place, but I acted very quickly to try to correct the mistake, although the policy was too strict for me to do so. Moreover, what the first agent told me made me feel confident to get my money back with XXXX help, which turned out to be not, which is very frustrating : (. And the fact that no communication afterward is also frustrating. I hope XXXX  can help me get my money back as I indeed did not use the service at all. \n\nAlso I was unfortunately impacted by a mass layoff in XX/XX/XXXX, and not yet found a job due to the harsh market. {$XXXX} bucks would really mean a lot to me at this challenging time. I sincerely appreciate it.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91791",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX, I booked a trip on XXXX XXXX XXXX XXXX, XXXX XXXX, but right after I paid, I realized that Ive put the wrong dates by mistake I was very worried because I did see the non-refundable policy from this property on the detail page. And I also checked the correct dates were actually not available to book, so there was no way to ask for a modification of my booking. Since it was midnight and no XXXX customer agents were available at that time, I only had to contact XXXX  credit card customer service to ask if there was anything they could do to help me with this case. \n\nThe agent on the call, the agent assured me that in this case, I could wait a few days for the pending charge to be posted, and cancel the service and submit a dispute, and eventually get money back with XXXX help. I was hopeful from what the agent told me, so I did what she told me to do, saw the pending charge posted on XX/XX/XXXX, canceled the stay with XXXX the same day, tried to work with them to get the dates modified or get the full refund but all failed. So I submitted a dispute, hoping to get my money back through my bank. After waiting for a few months, I got a rejection from XXXX for my dispute. I called XXXX customer service again to explain what happened and what the previous agent promised me. The new agent asked me to re-open the dispute by submitting supporting documents, which I did what she said. The case was re-opened but I was not being contacted or notified for the final results. I have been tracking the dispute process on my app though for a few months, and no updates until recently, the case was closed quietly. No notification, no contact from the bank, it secretly closed. And of course, I did not get my money back or even get an explanation. \n\nSince I did not actually stay at the property, I believe they did not have any losses due to this however, I lost {$XXXX} for nothing. XXXX it was caused by my own mistake in the first place, but I acted very quickly to try to correct the mistake, although the policy was too strict for me to do so. Moreover, what the first agent told me made me feel confident to get my money back with XXXX help, which turned out to be not, which is very frustrating : (. And the fact that no communication afterward is also frustrating. I hope XXXX  can help me get my money back as I indeed did not use the service at all. \n\nAlso I was unfortunately impacted by a mass layoff in XX/XX/XXXX, and not yet found a job due to the harsh market. {$XXXX} bucks would really mean a lot to me at this challenging time. I sincerely appreciate it."
+}
+
+Chunk:
+the fact that no communication afterward is also frustrating. i hope xxxx can help me get my money back as i indeed did not use the service at all. also i was unfortunately impacted by a mass layoff in xx / xx / xxxx, and not yet found a job due to the harsh market. { $ xxxx } bucks would really mean a lot to me at this challenging time. i sincerely appreciate it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8941481113433838
+}

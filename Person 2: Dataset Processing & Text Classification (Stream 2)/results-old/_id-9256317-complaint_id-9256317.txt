@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256317,
+  "complaint_id": "9256317",
+  "product": "Credit card",
+  "complaint_what_happened": "Fortiva Credit Card, The revised Fortiva increased 2024 APR for Purchases ( Interest Rate of 36.00 % ) and increased Account Maintenance Fee ( of {$15.00} per month ) are predatory. With these terms, the principal balance is unlikely to be paid. The respective user would be paying the interest costs in perpetuity instead of making any progress on the principal. \nThank You.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with fees",
+  "text": "Fortiva Credit Card, The revised Fortiva increased 2024 APR for Purchases ( Interest Rate of 36.00 % ) and increased Account Maintenance Fee ( of {$15.00} per month ) are predatory. With these terms, the principal balance is unlikely to be paid. The respective user would be paying the interest costs in perpetuity instead of making any progress on the principal. \nThank You."
+}
+
+Chunk:
+fortiva credit card, the revised fortiva increased 2024 apr for purchases ( interest rate of 36. 00 % ) and increased account maintenance fee ( of { $ 15. 00 } per month ) are predatory. with these terms, the principal balance is unlikely to be paid. the respective user would be paying the interest costs in perpetuity instead of making any progress on the principal. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998557984828949
+}

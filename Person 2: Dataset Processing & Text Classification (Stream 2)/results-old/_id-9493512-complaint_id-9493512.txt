@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9493512,
+  "complaint_id": "9493512",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX. Purchased XXXX XXXX dining table from XXXX XXXX XXXX on their Synchrony credit card on XX/XX/XXXX for {$6900.00} XXXX. Less than a year later, table and chairs are peeling, clearly defective XXXX. After XXXX XXXX XXXX claimed without seeing the table that this is just normal patina XXXX. Opened claim with Synchrony credit card XX/XX/XXXX and submitted documentation on XX/XX/XXXX by uploading through XXXX XXXX XXXX XXXX ( including Merchant 's Response, Two Pictures clearly showing peeling and merchant 's advertised Product Description ) - and have screenshot showing message from Synchrony.com \" Your files have been successfully submitted '' XXXX. Synchrony letter on XX/XX/XXXX that no proof had been submitted, closing claim XXXX. XX/XX/XXXX call with XXXX at Synchrony who said she found the XXXX pictures that were previously loaded and was resubmitting the claim XXXX. XX/XX/XXXX letter from Synchrony that can't find the transaction XXXX. XX/XX/XXXX, had XXXX minute call with Synchrony representative named XXXX who incorrectly alleged account numbers had changed and amounts were wrong XXXX. XX/XX/XXXX confirmation letter that claim resubmitted XXXX. XX/XX/XXXX letter that claim closed again because no proof submitted XXXX. XX/XX/XXXX call to XXXX at Synchrony, telling her I was going to file this complaint and she said they can not accept pictures as proof that the table was defective XXXX. The credit card company is clearly protecting the credit card 's sponsor and rejecting all claims",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60614",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX. Purchased XXXX XXXX dining table from XXXX XXXX XXXX on their Synchrony credit card on XX/XX/XXXX for {$6900.00} XXXX. Less than a year later, table and chairs are peeling, clearly defective XXXX. After XXXX XXXX XXXX claimed without seeing the table that this is just normal patina XXXX. Opened claim with Synchrony credit card XX/XX/XXXX and submitted documentation on XX/XX/XXXX by uploading through XXXX XXXX XXXX XXXX ( including Merchant 's Response, Two Pictures clearly showing peeling and merchant 's advertised Product Description ) - and have screenshot showing message from Synchrony.com \" Your files have been successfully submitted '' XXXX. Synchrony letter on XX/XX/XXXX that no proof had been submitted, closing claim XXXX. XX/XX/XXXX call with XXXX at Synchrony who said she found the XXXX pictures that were previously loaded and was resubmitting the claim XXXX. XX/XX/XXXX letter from Synchrony that can't find the transaction XXXX. XX/XX/XXXX, had XXXX minute call with Synchrony representative named XXXX who incorrectly alleged account numbers had changed and amounts were wrong XXXX. XX/XX/XXXX confirmation letter that claim resubmitted XXXX. XX/XX/XXXX letter that claim closed again because no proof submitted XXXX. XX/XX/XXXX call to XXXX at Synchrony, telling her I was going to file this complaint and she said they can not accept pictures as proof that the table was defective XXXX. The credit card company is clearly protecting the credit card 's sponsor and rejecting all claims"
+}
+
+Chunk:
+xxxx. purchased xxxx xxxx dining table from xxxx xxxx xxxx on their synchrony credit card on xx / xx / xxxx for { $ 6900. 00 } xxxx. less than a year later, table and chairs are peeling, clearly defective xxxx. after xxxx xxxx xxxx claimed without seeing the table that this is just normal patina xxxx. opened claim with synchrony credit card xx / xx / xxxx and submitted documentation on xx / xx / xxxx by uploading through xxxx xxxx xxxx xxxx ( including merchant's response, two pictures clearly showing peeling and merchant's advertised product description ) - and have screenshot showing message from synchrony. com " your files have been successfully submitted'' xxxx. synchrony letter on xx / xx / xxxx that no proof had been submitted, closing claim xxxx. xx / xx / xxxx call with xxxx at synchrony who said she found the xxxx pictures that were previously loaded and was resubmitting the claim xxxx. xx / xx / xxxx letter from synchrony that can't find the transaction xxxx. xx / xx / xxxx, had xxxx minute call with synchrony representative named xxxx who incorrectly alleged account numbers had changed and amounts were wrong xxxx. xx / xx / xxxx confirmation letter that claim resubmitted xxxx. xx / xx / xxxx letter that claim closed again because no proof submitted xxxx. xx / xx / xxxx call to xxxx at synchrony, telling her i was going to file this complaint and she said they can not accept pictures as proof that the table was defective xxxx. the credit card company is clearly protecting the credit card's sponsor and rejecting all claims
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986515641212463
+}

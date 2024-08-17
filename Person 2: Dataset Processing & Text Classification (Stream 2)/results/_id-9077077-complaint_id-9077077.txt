@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9077077,
+  "complaint_id": "9077077",
+  "product": "Credit card",
+  "complaint_what_happened": "I rented a car using this credit card. The rental included all the insurances offered. There ws a side swap collision, not my fault, the other driver got a citation for that. I was told that any towing service would be provided by the rental company for free by the time of the rental. The key had a big red phone number and it was written to call them to get the free assistance for any problem, and so I did. I had my credit card locked because the procedure to rent that car was everything but professional, with the clerk taking pictures of my credit card information and sending to other person who was not present at the store to make the payment. After some time I got a message stating that there was a purchase attempt on my credit card but it was declined because the card was locked. So I didn't care about that. Now I'm being charged for more than {$200.00} on the same credit card by the same company for the attempted purchase that was declined, and they say me this is because of the toll service that was told me it was free. The credit card company, the same that charged me for a transaction they informed me was declined because I had my credit card locked now says I have to dispute the transaction with the rental company. So, I'm their customer, I had my credit card locked, what means I don't recognize any further purchase. They send me a SMS message and an email telling me the purchase was declined but they decided to charge me anyway and now they say I have to go through all this disputing charge process to give my money back and they can't do anything about it.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98125",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I rented a car using this credit card. The rental included all the insurances offered. There ws a side swap collision, not my fault, the other driver got a citation for that. I was told that any towing service would be provided by the rental company for free by the time of the rental. The key had a big red phone number and it was written to call them to get the free assistance for any problem, and so I did. I had my credit card locked because the procedure to rent that car was everything but professional, with the clerk taking pictures of my credit card information and sending to other person who was not present at the store to make the payment. After some time I got a message stating that there was a purchase attempt on my credit card but it was declined because the card was locked. So I didn't care about that. Now I'm being charged for more than {$200.00} on the same credit card by the same company for the attempted purchase that was declined, and they say me this is because of the toll service that was told me it was free. The credit card company, the same that charged me for a transaction they informed me was declined because I had my credit card locked now says I have to dispute the transaction with the rental company. So, I'm their customer, I had my credit card locked, what means I don't recognize any further purchase. They send me a SMS message and an email telling me the purchase was declined but they decided to charge me anyway and now they say I have to go through all this disputing charge process to give my money back and they can't do anything about it."
+}
+
+Chunk:
+i rented a car using this credit card. the rental included all the insurances offered. there ws a side swap collision, not my fault, the other driver got a citation for that. i was told that any towing service would be provided by the rental company for free by the time of the rental. the key had a big red phone number and it was written to call them to get the free assistance for any problem, and so i did. i had my credit card locked because the procedure to rent that car was everything but professional, with the clerk taking pictures of my credit card information and sending to other person who was not present at the store to make the payment. after some time i got a message stating that there was a purchase attempt on my credit card but it was declined because the card was locked. so i didn't care about that. now i'm being charged for more than { $ 200. 00 } on the same credit card by the same company for the attempted purchase that was declined, and they say me this is because of the toll service that was told me it was free. the credit card company, the same that charged me for a transaction they informed me was declined because i had my credit card locked now says i have to dispute the transaction with the rental company. so, i'm their customer, i had my credit card locked, what means i don't recognize any further purchase. they send me a sms message and an email telling me the purchase was declined but they decided to charge me anyway and now they say i have to go through all this disputing charge process to give my money back and they can't do anything about it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995847344398499
+}

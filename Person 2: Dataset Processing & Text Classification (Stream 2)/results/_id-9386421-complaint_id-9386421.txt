@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9386421,
+  "complaint_id": "9386421",
+  "product": "Credit card",
+  "complaint_what_happened": "Citibank has repeatedly lowered my credit limit despite no changes to my credit score or credit usage - I pay more off, they lower my limit. I pay more than the minimum- they lower my limit. My income has increased- they lower my limit. I filed a complaint earlier in the year with this agency, it was passed along to Citibank, they reviewed it and immediately denied the request to restore my credit limit. They are actively harming my credit score by repeatedly lowering my limit to make it appear I am using more credit - its been cut in half over the several years Ive had the card, despite no late payments. They also lower it shortly before the statement closing date so I hit the limit when they tack on interest. \nI believe they are targeting me because I have an Armenian last name, an XXXX group Citibank has been accused of discriminating against. \nhttps : XXXX",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11102",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Citibank has repeatedly lowered my credit limit despite no changes to my credit score or credit usage - I pay more off, they lower my limit. I pay more than the minimum- they lower my limit. My income has increased- they lower my limit. I filed a complaint earlier in the year with this agency, it was passed along to Citibank, they reviewed it and immediately denied the request to restore my credit limit. They are actively harming my credit score by repeatedly lowering my limit to make it appear I am using more credit - its been cut in half over the several years Ive had the card, despite no late payments. They also lower it shortly before the statement closing date so I hit the limit when they tack on interest. \nI believe they are targeting me because I have an Armenian last name, an XXXX group Citibank has been accused of discriminating against. \nhttps : XXXX"
+}
+
+Chunk:
+citibank has repeatedly lowered my credit limit despite no changes to my credit score or credit usage - i pay more off, they lower my limit. i pay more than the minimum - they lower my limit. my income has increased - they lower my limit. i filed a complaint earlier in the year with this agency, it was passed along to citibank, they reviewed it and immediately denied the request to restore my credit limit. they are actively harming my credit score by repeatedly lowering my limit to make it appear i am using more credit - its been cut in half over the several years ive had the card, despite no late payments. they also lower it shortly before the statement closing date so i hit the limit when they tack on interest. i believe they are targeting me because i have an armenian last name, an xxxx group citibank has been accused of discriminating against. https : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992867112159729
+}

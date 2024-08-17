@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9232397,
+  "complaint_id": "9232397",
+  "product": "Credit card",
+  "complaint_what_happened": "I was issued two identical refunds in the amount of {$500.00} via XXXX XXXX on XX/XX/XXXX. To my visa Upgrade card account. Upgrade by XXXX bank completely hid the second refund. Told me it wasnt issued and to contact the issuer. Which I did and they provided me the proof. I also contacted XXXX XXXX to insure that they agreed both went through. At which time I contacted upgrade. They admitted to getting both refund 's. Yet never credited the second refund to my account. Yet claimed that they did credit it. All this time they are charging me interest on the unissued refund balance. On XX/XX/XXXX they told me they were going to issue the refund but couldnt remove the two weeks of interest they illegally charged me on the refund they tried to hide.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28613",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "Upgrade, Inc.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "I was issued two identical refunds in the amount of {$500.00} via XXXX XXXX on XX/XX/XXXX. To my visa Upgrade card account. Upgrade by XXXX bank completely hid the second refund. Told me it wasnt issued and to contact the issuer. Which I did and they provided me the proof. I also contacted XXXX XXXX to insure that they agreed both went through. At which time I contacted upgrade. They admitted to getting both refund 's. Yet never credited the second refund to my account. Yet claimed that they did credit it. All this time they are charging me interest on the unissued refund balance. On XX/XX/XXXX they told me they were going to issue the refund but couldnt remove the two weeks of interest they illegally charged me on the refund they tried to hide."
+}
+
+Chunk:
+i was issued two identical refunds in the amount of { $ 500. 00 } via xxxx xxxx on xx / xx / xxxx. to my visa upgrade card account. upgrade by xxxx bank completely hid the second refund. told me it wasnt issued and to contact the issuer. which i did and they provided me the proof. i also contacted xxxx xxxx to insure that they agreed both went through. at which time i contacted upgrade. they admitted to getting both refund's. yet never credited the second refund to my account. yet claimed that they did credit it. all this time they are charging me interest on the unissued refund balance. on xx / xx / xxxx they told me they were going to issue the refund but couldnt remove the two weeks of interest they illegally charged me on the refund they tried to hide.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970993995666504
+}

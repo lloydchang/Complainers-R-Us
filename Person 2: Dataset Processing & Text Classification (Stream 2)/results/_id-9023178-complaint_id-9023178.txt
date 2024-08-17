@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023178,
+  "complaint_id": "9023178",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a promotional balance expiring on XX/XX/2024. On XX/XX/2024 I called the credit card company to make a payment towards the promotional balance. The customer service rep told me in clear terms that since we were within the 30 day period before the promotional balance ended, any payment made would automatically be applied towards the promotional balance. My intention was to pay roughly half of the promotional balance on XX/XX/XXXX and then the remainder on XX/XX/XXXX. I NEVER pay by phone, always online. I specifically made the phone payment and told them to apply to the promotional balance. They did not object and said it would be applied automatically. \n\nOn XX/XX/XXXX, I logged onto my account to make a payment only to see that my previous payment had not gone towards the promotional balance as I had specifically requested and been told that it would. I called the credit card company to inquire as to why it did not and to make sure they corrected the issue. The rep told me that they could not do that and that only the amount of the payment above the minimum payment would apply towards the promotional balance. The rep I spoke to on XX/XX/XXXX specifically told me that prior to the 30 day closing period before the end of the promotional balance, excess payments go toward the promotional balance. However, once you are within the 30 day period ALL payments go toward the promotional balance. \n\nI asked to speak to a supervisor and was given many excuses for why they were unable to get me to a supervisor. I was put on hold for 30 minutes until they disconnected me. \n\nThese practices are downright predatory and fraudulent.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92656",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I had a promotional balance expiring on XX/XX/2024. On XX/XX/2024 I called the credit card company to make a payment towards the promotional balance. The customer service rep told me in clear terms that since we were within the 30 day period before the promotional balance ended, any payment made would automatically be applied towards the promotional balance. My intention was to pay roughly half of the promotional balance on XX/XX/XXXX and then the remainder on XX/XX/XXXX. I NEVER pay by phone, always online. I specifically made the phone payment and told them to apply to the promotional balance. They did not object and said it would be applied automatically. \n\nOn XX/XX/XXXX, I logged onto my account to make a payment only to see that my previous payment had not gone towards the promotional balance as I had specifically requested and been told that it would. I called the credit card company to inquire as to why it did not and to make sure they corrected the issue. The rep told me that they could not do that and that only the amount of the payment above the minimum payment would apply towards the promotional balance. The rep I spoke to on XX/XX/XXXX specifically told me that prior to the 30 day closing period before the end of the promotional balance, excess payments go toward the promotional balance. However, once you are within the 30 day period ALL payments go toward the promotional balance. \n\nI asked to speak to a supervisor and was given many excuses for why they were unable to get me to a supervisor. I was put on hold for 30 minutes until they disconnected me. \n\nThese practices are downright predatory and fraudulent."
+}
+
+Chunk:
+i had a promotional balance expiring on xx / xx / 2024. on xx / xx / 2024 i called the credit card company to make a payment towards the promotional balance. the customer service rep told me in clear terms that since we were within the 30 day period before the promotional balance ended, any payment made would automatically be applied towards the promotional balance. my intention was to pay roughly half of the promotional balance on xx / xx / xxxx and then the remainder on xx / xx / xxxx. i never pay by phone, always online. i specifically made the phone payment and told them to apply to the promotional balance. they did not object and said it would be applied automatically. on xx / xx / xxxx, i logged onto my account to make a payment only to see that my previous payment had not gone towards the promotional balance as i had specifically requested and been told that it would. i called the credit card company to inquire as to why it did not and to make sure they corrected the issue. the rep told me that they could not do that and that only the amount of the payment above the minimum payment would apply towards the promotional balance. the rep i spoke to on xx / xx / xxxx specifically told me that prior to the 30 day closing period before the end of the promotional balance, excess payments go toward the promotional balance. however, once you are within the 30 day period all payments go toward the promotional balance. i asked to speak to a supervisor and was given many excuses for why they were unable to get me to a supervisor. i was put on hold for 30 minutes until they disconnected me. these practices are downright predatory and fraudulent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990500807762146
+}

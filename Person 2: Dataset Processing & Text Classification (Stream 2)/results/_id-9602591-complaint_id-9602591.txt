@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9602591,
+  "complaint_id": "9602591",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a complaint against Wells Fargo regarding the expiration of reward points on my Wells Fargo credit card. \n\nRecently, I discovered that my accumulated reward points had expired. This came as a surprise to me, as I have never encountered such an issue with reward points expiring with any other bank credit card I have used. Upon reaching out to Wells Fargo customer service, I was informed that the points had expired according to their terms.",
+  "date_sent_to_company": "2024-07-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22033",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-24T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I am writing to file a complaint against Wells Fargo regarding the expiration of reward points on my Wells Fargo credit card. \n\nRecently, I discovered that my accumulated reward points had expired. This came as a surprise to me, as I have never encountered such an issue with reward points expiring with any other bank credit card I have used. Upon reaching out to Wells Fargo customer service, I was informed that the points had expired according to their terms."
+}
+
+Chunk:
+i am writing to file a complaint against wells fargo regarding the expiration of reward points on my wells fargo credit card. recently, i discovered that my accumulated reward points had expired. this came as a surprise to me, as i have never encountered such an issue with reward points expiring with any other bank credit card i have used. upon reaching out to wells fargo customer service, i was informed that the points had expired according to their terms.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9928634762763977
+}

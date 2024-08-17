@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9107806,
+  "complaint_id": "9107806",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One issued me a credit card after receiving my consumer credit application. The application represents a note that is used for profits by Capital One. Capital One claimed to have charged the account off due to non payment but failed to pay me for my investment into their establishment. Investors are entitled to the compensation for their investment into these public traded comp. Capital One keeps responding that someone will reach out to me pertaining to my claims but no one has responded nor called back and the number that they ask me to call is a medical number for some type of insurance. This is my final attempt to get compensation for my security that Capital One is making money off of since they closed my consumer credit line. If you do not understand securities laws I urge you to consult your legal department you have XXXX days from the date of this complaint to forward my compensation from the monthly trading of this account.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Capital One issued me a credit card after receiving my consumer credit application. The application represents a note that is used for profits by Capital One. Capital One claimed to have charged the account off due to non payment but failed to pay me for my investment into their establishment. Investors are entitled to the compensation for their investment into these public traded comp. Capital One keeps responding that someone will reach out to me pertaining to my claims but no one has responded nor called back and the number that they ask me to call is a medical number for some type of insurance. This is my final attempt to get compensation for my security that Capital One is making money off of since they closed my consumer credit line. If you do not understand securities laws I urge you to consult your legal department you have XXXX days from the date of this complaint to forward my compensation from the monthly trading of this account."
+}
+
+Chunk:
+capital one issued me a credit card after receiving my consumer credit application. the application represents a note that is used for profits by capital one. capital one claimed to have charged the account off due to non payment but failed to pay me for my investment into their establishment. investors are entitled to the compensation for their investment into these public traded comp. capital one keeps responding that someone will reach out to me pertaining to my claims but no one has responded nor called back and the number that they ask me to call is a medical number for some type of insurance. this is my final attempt to get compensation for my security that capital one is making money off of since they closed my consumer credit line. if you do not understand securities laws i urge you to consult your legal department you have xxxx days from the date of this complaint to forward my compensation from the monthly trading of this account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992867112159729
+}

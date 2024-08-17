@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9172567,
+  "complaint_id": "9172567",
+  "product": "Credit card",
+  "complaint_what_happened": "My complaint concerns the interest rate charged by Synchrony Bank, which handles my department store credit card : Belk. In XXXX, XXXX the APR for purchases was 25.49 % and cash advances 29.99 %. As if that interest rate weren't bad enough, I just got my XXXX statement and within the statement was an attachment that stated, starting with transactions made after XX/XX/XXXX the interest rate for purchases will be 34.99 % ( a 27 % increase ) and APR for cash advances will be 36.49 %. Outrageous. However, a new XXXX has been added, the \" XXXX XXXX, '' which will be 39.99 %! In addition, they will also charge {$1.00} for a \" paper statement fee. '' My credit score is XXXX and I can afford to pay my bill in its entirety, therefore paying zero interest. What about the rest of the folks out there? There was a time, in this country, decades ago, when credit card companies could not charge these exorbitant interest rates. It is Mob-like usury. If Congress would actually work for the people instead of their social media accounts, maybe something could be done.\n\nMy complaint is meant for your information only ; I don't need any follow-up from Synchrony Bank XXXX Thank you.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "299XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "My complaint concerns the interest rate charged by Synchrony Bank, which handles my department store credit card : Belk. In XXXX, XXXX the APR for purchases was 25.49 % and cash advances 29.99 %. As if that interest rate weren't bad enough, I just got my XXXX statement and within the statement was an attachment that stated, starting with transactions made after XX/XX/XXXX the interest rate for purchases will be 34.99 % ( a 27 % increase ) and APR for cash advances will be 36.49 %. Outrageous. However, a new XXXX has been added, the \" XXXX XXXX, '' which will be 39.99 %! In addition, they will also charge {$1.00} for a \" paper statement fee. '' My credit score is XXXX and I can afford to pay my bill in its entirety, therefore paying zero interest. What about the rest of the folks out there? There was a time, in this country, decades ago, when credit card companies could not charge these exorbitant interest rates. It is Mob-like usury. If Congress would actually work for the people instead of their social media accounts, maybe something could be done.\n\nMy complaint is meant for your information only ; I don't need any follow-up from Synchrony Bank XXXX Thank you."
+}
+
+Chunk:
+my complaint concerns the interest rate charged by synchrony bank, which handles my department store credit card : belk. in xxxx, xxxx the apr for purchases was 25. 49 % and cash advances 29. 99 %. as if that interest rate weren't bad enough, i just got my xxxx statement and within the statement was an attachment that stated, starting with transactions made after xx / xx / xxxx the interest rate for purchases will be 34. 99 % ( a 27 % increase ) and apr for cash advances will be 36. 49 %. outrageous. however, a new xxxx has been added, the " xxxx xxxx,'' which will be 39. 99 %! in addition, they will also charge { $ 1. 00 } for a " paper statement fee.'' my credit score is xxxx and i can afford to pay my bill in its entirety, therefore paying zero interest. what about the rest of the folks out there? there was a time, in this country, decades ago, when credit card companies could not charge these exorbitant interest rates. it is mob - like usury. if congress would actually work for the people instead of their social media accounts, maybe something could be done. my complaint is meant for your information only ; i don't need any follow - up from synchrony bank xxxx thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970712661743164
+}

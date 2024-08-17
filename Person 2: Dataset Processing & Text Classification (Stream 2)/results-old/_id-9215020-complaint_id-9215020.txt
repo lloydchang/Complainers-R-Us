@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9215020,
+  "complaint_id": "9215020",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> For the largest American bank, their website, chase.com for credit card, makes payments almost virtually impossible. The website pushes you towards making an autopayment using one 's bank account but not a onetime payment of any dollar value. When reached Chase 's customer service, they had no clue and asked me to get in touch with Chase website tech service. I would have thought, the bank would make their website intuitive, easy to navigate, and convenient for customers to make payments to them. Instead of pushing customers to make autopayment, I would think Chase would have welcome a onetime payment of any dollar value and not push customer to link their bank account to pay automatically.\n\nChase can learn a lesson or two from XXXX XXXX. It is a breeze to make a payment on their websiteXXXX XXXX",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20814",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "XX/XX/year> For the largest American bank, their website, chase.com for credit card, makes payments almost virtually impossible. The website pushes you towards making an autopayment using one 's bank account but not a onetime payment of any dollar value. When reached Chase 's customer service, they had no clue and asked me to get in touch with Chase website tech service. I would have thought, the bank would make their website intuitive, easy to navigate, and convenient for customers to make payments to them. Instead of pushing customers to make autopayment, I would think Chase would have welcome a onetime payment of any dollar value and not push customer to link their bank account to pay automatically.\n\nChase can learn a lesson or two from XXXX XXXX. It is a breeze to make a payment on their websiteXXXX XXXX"
+}
+
+Chunk:
+xx / xx / year > for the largest american bank, their website, chase. com for credit card, makes payments almost virtually impossible. the website pushes you towards making an autopayment using one's bank account but not a onetime payment of any dollar value. when reached chase's customer service, they had no clue and asked me to get in touch with chase website tech service. i would have thought, the bank would make their website intuitive, easy to navigate, and convenient for customers to make payments to them. instead of pushing customers to make autopayment, i would think chase would have welcome a onetime payment of any dollar value and not push customer to link their bank account to pay automatically. chase can learn a lesson or two from xxxx xxxx. it is a breeze to make a payment on their websitexxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9908017516136169
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9199204,
+  "complaint_id": "9199204",
+  "product": "Credit card",
+  "complaint_what_happened": "I told the XXXXXXXX XXXX XXXX that I paid them off they had closed my account a while back and are still charging me and expected to still pay them XXXX that their charging me and my account was closed way before that",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "794XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I told the XXXXXXXX XXXX XXXX that I paid them off they had closed my account a while back and are still charging me and expected to still pay them XXXX that their charging me and my account was closed way before that"
+}
+
+Chunk:
+i told the xxxxxxxx xxxx xxxx that i paid them off they had closed my account a while back and are still charging me and expected to still pay them xxxx that their charging me and my account was closed way before that
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9953932762145996
+}

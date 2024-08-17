@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067643,
+  "complaint_id": "9067643",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear XXXX, There is a Financial Institution Elan Financial Services at XXXX provides Credit Card service to XXXX customers XXXX \nThis institution is running illegal business in USA. \nI have transferred $ XXXX on XX/XX/2024 to Elan Financial Services from another high interest credit card, Elan Financial did not apply that money into my account, instead they kept for a month in high interest market then they said they returned to the initiator. \nAfter more than a month they have no clue where $ XXXX went to, no tracking information. \nAs my high interest credit card started charging daily interest, I stated calling Elan Financial Services XXXX XXXX times but still they dont want to refund the money to me. \nI am requesting your help to resolve this matter. \nThanks in advance. \nXXXX XXXX XXXX ( m )",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "110XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "Dear XXXX, There is a Financial Institution Elan Financial Services at XXXX provides Credit Card service to XXXX customers XXXX \nThis institution is running illegal business in USA. \nI have transferred $ XXXX on XX/XX/2024 to Elan Financial Services from another high interest credit card, Elan Financial did not apply that money into my account, instead they kept for a month in high interest market then they said they returned to the initiator. \nAfter more than a month they have no clue where $ XXXX went to, no tracking information. \nAs my high interest credit card started charging daily interest, I stated calling Elan Financial Services XXXX XXXX times but still they dont want to refund the money to me. \nI am requesting your help to resolve this matter. \nThanks in advance. \nXXXX XXXX XXXX ( m )"
+}
+
+Chunk:
+dear xxxx, there is a financial institution elan financial services at xxxx provides credit card service to xxxx customers xxxx this institution is running illegal business in usa. i have transferred $ xxxx on xx / xx / 2024 to elan financial services from another high interest credit card, elan financial did not apply that money into my account, instead they kept for a month in high interest market then they said they returned to the initiator. after more than a month they have no clue where $ xxxx went to, no tracking information. as my high interest credit card started charging daily interest, i stated calling elan financial services xxxx xxxx times but still they dont want to refund the money to me. i am requesting your help to resolve this matter. thanks in advance. xxxx xxxx xxxx ( m )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9896742701530457
+}

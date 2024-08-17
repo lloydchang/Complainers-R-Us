@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113713,
+  "complaint_id": "9113713",
+  "product": "Credit card",
+  "complaint_what_happened": "I was offered a XXXX  % AMEX account on charges and balance transfers transfers for XXXX cycles. XXXX  months after the account was opened I saw the interest was raised to XXXX  %. \nI made XXXX calls until someone said, \" Oh, because you had an open account with the company, ( an account I tried to close with a {$200.00} limit that I never used ) you were not eligible for the XXXX % offer. .... I had to ask, \" Why did you open the account in the first place? \nNo answer. ... I said I will pay the {$8400.00}, ( amt. without fees ) at XXXX % for the XXXX  months. \nMy offer was never passed up to the decision makers. I was take advantage of by a company acting like a loan shark!",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "93035",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I was offered a XXXX  % AMEX account on charges and balance transfers transfers for XXXX cycles. XXXX  months after the account was opened I saw the interest was raised to XXXX  %. \nI made XXXX calls until someone said, \" Oh, because you had an open account with the company, ( an account I tried to close with a {$200.00} limit that I never used ) you were not eligible for the XXXX % offer. .... I had to ask, \" Why did you open the account in the first place? \nNo answer. ... I said I will pay the {$8400.00}, ( amt. without fees ) at XXXX % for the XXXX  months. \nMy offer was never passed up to the decision makers. I was take advantage of by a company acting like a loan shark!"
+}
+
+Chunk:
+i was offered a xxxx % amex account on charges and balance transfers transfers for xxxx cycles. xxxx months after the account was opened i saw the interest was raised to xxxx %. i made xxxx calls until someone said, " oh, because you had an open account with the company, ( an account i tried to close with a { $ 200. 00 } limit that i never used ) you were not eligible for the xxxx % offer..... i had to ask, " why did you open the account in the first place? no answer.... i said i will pay the { $ 8400. 00 }, ( amt. without fees ) at xxxx % for the xxxx months. my offer was never passed up to the decision makers. i was take advantage of by a company acting like a loan shark!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990928173065186
+}

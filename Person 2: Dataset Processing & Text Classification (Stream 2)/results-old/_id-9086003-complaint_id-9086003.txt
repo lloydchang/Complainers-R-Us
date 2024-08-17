@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9086003,
+  "complaint_id": "9086003",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been struggling to log into my account at Citi and had been unable to do it. I received a notice from Citi today ( via text, which is insecure, and using a URL which was not Citi 's typical landing page- which could be confused with phishing. ) This was my first notice about my payment. I finally managed to log in and identified that I had just been charged a late fee and interest. The late fee ( {$30.00} ) was in excess of coming requirements and was charged at XXXX dpd. There was no attempt to contact me before fees and interest were charged. I attempted to complain but there was no option to do so on Citi 's site ( the help menu directed me to a branch, and being currently in Montana, there are none. ) There was no option to complain online shown so I'm giving feedback via this channel. \n\nIt would appear that this method ( waiting to notify customers until just after fees were charged ) would constitute UDAAP. I would challenge Citi to explain to the CFPB why waiting until after fees to charged is a fair, acceptable and non-abusive practice.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55422",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have been struggling to log into my account at Citi and had been unable to do it. I received a notice from Citi today ( via text, which is insecure, and using a URL which was not Citi 's typical landing page- which could be confused with phishing. ) This was my first notice about my payment. I finally managed to log in and identified that I had just been charged a late fee and interest. The late fee ( {$30.00} ) was in excess of coming requirements and was charged at XXXX dpd. There was no attempt to contact me before fees and interest were charged. I attempted to complain but there was no option to do so on Citi 's site ( the help menu directed me to a branch, and being currently in Montana, there are none. ) There was no option to complain online shown so I'm giving feedback via this channel. \n\nIt would appear that this method ( waiting to notify customers until just after fees were charged ) would constitute UDAAP. I would challenge Citi to explain to the CFPB why waiting until after fees to charged is a fair, acceptable and non-abusive practice."
+}
+
+Chunk:
+i have been struggling to log into my account at citi and had been unable to do it. i received a notice from citi today ( via text, which is insecure, and using a url which was not citi's typical landing page - which could be confused with phishing. ) this was my first notice about my payment. i finally managed to log in and identified that i had just been charged a late fee and interest. the late fee ( { $ 30. 00 } ) was in excess of coming requirements and was charged at xxxx dpd. there was no attempt to contact me before fees and interest were charged. i attempted to complain but there was no option to do so on citi's site ( the help menu directed me to a branch, and being currently in montana, there are none. ) there was no option to complain online shown so i'm giving feedback via this channel. it would appear that this method ( waiting to notify customers until just after fees were charged ) would constitute udaap. i would challenge citi to explain to the cfpb why waiting until after fees to charged is a fair, acceptable and non - abusive practice.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984147548675537
+}

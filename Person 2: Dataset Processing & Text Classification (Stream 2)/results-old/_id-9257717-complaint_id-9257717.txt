@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9257717,
+  "complaint_id": "9257717",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I was a victim of fraud. Someone used my signature on a check and was able to remove about {$3000.00} from my checking account. I reported this immediately with my bank, XXXX XXXX. While my case was under investigation, my account was negative. This caused late payment issues with certain credit lines. On XX/XX/XXXX there wa a reversal transaction with an installment loan I have with XXXX XXXX. This must have been reported with a credit burerau. After the investigation, the bank found evidence to explain my innocence. The money was then returned. \n\nHowever, in XX/XX/XXXX, Citi bank cancelled my aadvantage card due to a late payment/ reversal that was recorded from the credit bureau XXXX I have all my credit lines set up with automatic payments so the only time this was true was during the investigation of the money that was missing from my account. \n\nI have asked Citi to re-review my account and they denied my request. I find it unjust that I was a victim of identify theft which caused me hardship for several weeks and then months later, I am still experiencing negative outcome from the situation.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33175",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/XXXX, I was a victim of fraud. Someone used my signature on a check and was able to remove about {$3000.00} from my checking account. I reported this immediately with my bank, XXXX XXXX. While my case was under investigation, my account was negative. This caused late payment issues with certain credit lines. On XX/XX/XXXX there wa a reversal transaction with an installment loan I have with XXXX XXXX. This must have been reported with a credit burerau. After the investigation, the bank found evidence to explain my innocence. The money was then returned. \n\nHowever, in XX/XX/XXXX, Citi bank cancelled my aadvantage card due to a late payment/ reversal that was recorded from the credit bureau XXXX I have all my credit lines set up with automatic payments so the only time this was true was during the investigation of the money that was missing from my account. \n\nI have asked Citi to re-review my account and they denied my request. I find it unjust that I was a victim of identify theft which caused me hardship for several weeks and then months later, I am still experiencing negative outcome from the situation."
+}
+
+Chunk:
+on xx / xx / xxxx, i was a victim of fraud. someone used my signature on a check and was able to remove about { $ 3000. 00 } from my checking account. i reported this immediately with my bank, xxxx xxxx. while my case was under investigation, my account was negative. this caused late payment issues with certain credit lines. on xx / xx / xxxx there wa a reversal transaction with an installment loan i have with xxxx xxxx. this must have been reported with a credit burerau. after the investigation, the bank found evidence to explain my innocence. the money was then returned. however, in xx / xx / xxxx, citi bank cancelled my aadvantage card due to a late payment / reversal that was recorded from the credit bureau xxxx i have all my credit lines set up with automatic payments so the only time this was true was during the investigation of the money that was missing from my account. i have asked citi to re - review my account and they denied my request. i find it unjust that i was a victim of identify theft which caused me hardship for several weeks and then months later, i am still experiencing negative outcome from the situation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990965127944946
+}

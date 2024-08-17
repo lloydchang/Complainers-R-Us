@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9241933,
+  "complaint_id": "9241933",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone opened a Chase bank account in my name. It was not me and I verified that with Chase bank. It is still on my credit report. They said it would be removed and it hasn't",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Someone opened a Chase bank account in my name. It was not me and I verified that with Chase bank. It is still on my credit report. They said it would be removed and it hasn't"
+}
+
+Chunk:
+someone opened a chase bank account in my name. it was not me and i verified that with chase bank. it is still on my credit report. they said it would be removed and it hasn't
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997495174407959
+}

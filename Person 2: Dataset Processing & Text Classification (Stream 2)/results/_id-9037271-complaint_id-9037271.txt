@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037271,
+  "complaint_id": "9037271",
+  "product": "Credit card",
+  "complaint_what_happened": "I rented a car through XXXX at XXXX XXXX in XXXX, I returned the car as normal in the condition it was rented to me in, it was checked over and all was fine. I received my invoice for the agreed amount plus a fuel surcharge and thought all looked normal ; a while later they tried to charge me nearly {$1000.00} ( XXXX ) for damage they claim I inflicted to an area of the vehicle I never touched ; the storage area of the spare tire which I didnt even know existed. I looked up many XXXX reviews and discovered this is a scam that have been running, as many people had similar experiences. I of course contacted XXXX and XXXX to no avail. So I disputed the charge through Chase bank. I listed it as a fraudulent charge because to me thats what it was, Chase took over 2 months to process this and re-bill me saying it wasnt their version of fraud and I would need to re-submit my dispute. I did exactly as I was prompted by a Chase dispute specialist in the most timely manner allowed by Chases hours, only to be told weeks later it is too late to submit a dispute on this charge and there is nothing they will do to help me. Chases slow processing times are to no fault of my own and I should not be punished for it, they should be protecting me as is their job to do after 15+ years of banking with them.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60423",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I rented a car through XXXX at XXXX XXXX in XXXX, I returned the car as normal in the condition it was rented to me in, it was checked over and all was fine. I received my invoice for the agreed amount plus a fuel surcharge and thought all looked normal ; a while later they tried to charge me nearly {$1000.00} ( XXXX ) for damage they claim I inflicted to an area of the vehicle I never touched ; the storage area of the spare tire which I didnt even know existed. I looked up many XXXX reviews and discovered this is a scam that have been running, as many people had similar experiences. I of course contacted XXXX and XXXX to no avail. So I disputed the charge through Chase bank. I listed it as a fraudulent charge because to me thats what it was, Chase took over 2 months to process this and re-bill me saying it wasnt their version of fraud and I would need to re-submit my dispute. I did exactly as I was prompted by a Chase dispute specialist in the most timely manner allowed by Chases hours, only to be told weeks later it is too late to submit a dispute on this charge and there is nothing they will do to help me. Chases slow processing times are to no fault of my own and I should not be punished for it, they should be protecting me as is their job to do after 15+ years of banking with them."
+}
+
+Chunk:
+i rented a car through xxxx at xxxx xxxx in xxxx, i returned the car as normal in the condition it was rented to me in, it was checked over and all was fine. i received my invoice for the agreed amount plus a fuel surcharge and thought all looked normal ; a while later they tried to charge me nearly { $ 1000. 00 } ( xxxx ) for damage they claim i inflicted to an area of the vehicle i never touched ; the storage area of the spare tire which i didnt even know existed. i looked up many xxxx reviews and discovered this is a scam that have been running, as many people had similar experiences. i of course contacted xxxx and xxxx to no avail. so i disputed the charge through chase bank. i listed it as a fraudulent charge because to me thats what it was, chase took over 2 months to process this and re - bill me saying it wasnt their version of fraud and i would need to re - submit my dispute. i did exactly as i was prompted by a chase dispute specialist in the most timely manner allowed by chases hours, only to be told weeks later it is too late to submit a dispute on this charge and there is nothing they will do to help me. chases slow processing times are to no fault of my own and i should not be punished for it, they should be protecting me as is their job to do after 15 + years of banking with them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983609318733215
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174593,
+  "complaint_id": "9174593",
+  "product": "Credit card",
+  "complaint_what_happened": "This morning, I received an email saying \" that we will make a Change in Terms to your Torrid Credit Card account. '' The email then asked me to sign into my secure message center to see those changes. \n\nI logged into my account ( not through the email ) and there were no messages in the secure message center. \n\nI called Comenity bank ( who handles the Torrid card ) to ask what was changing. They told me my XXXX was being raised to 35 %. \n\nI owe them no monies and I have never had a late payment. There is no reason for the interest rate to go up, much less to be at 35 %. \n\nI promptly cancelled my account. I then called the same bank about my AmEx card and found out that interest rate has been raised to 30 %. I cancelled that account as well. \n\nHowever, this is telling me that all the credit card companies are starting to charge exorbitant rates. After doing some research, I found out that ursury laws only apply to banks and not credit cards. BUT since banks issue the credit cards, I believe they should be held to the same usury laws.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "456XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "This morning, I received an email saying \" that we will make a Change in Terms to your Torrid Credit Card account. '' The email then asked me to sign into my secure message center to see those changes. \n\nI logged into my account ( not through the email ) and there were no messages in the secure message center. \n\nI called Comenity bank ( who handles the Torrid card ) to ask what was changing. They told me my XXXX was being raised to 35 %. \n\nI owe them no monies and I have never had a late payment. There is no reason for the interest rate to go up, much less to be at 35 %. \n\nI promptly cancelled my account. I then called the same bank about my AmEx card and found out that interest rate has been raised to 30 %. I cancelled that account as well. \n\nHowever, this is telling me that all the credit card companies are starting to charge exorbitant rates. After doing some research, I found out that ursury laws only apply to banks and not credit cards. BUT since banks issue the credit cards, I believe they should be held to the same usury laws."
+}
+
+Chunk:
+this morning, i received an email saying " that we will make a change in terms to your torrid credit card account.'' the email then asked me to sign into my secure message center to see those changes. i logged into my account ( not through the email ) and there were no messages in the secure message center. i called comenity bank ( who handles the torrid card ) to ask what was changing. they told me my xxxx was being raised to 35 %. i owe them no monies and i have never had a late payment. there is no reason for the interest rate to go up, much less to be at 35 %. i promptly cancelled my account. i then called the same bank about my amex card and found out that interest rate has been raised to 30 %. i cancelled that account as well. however, this is telling me that all the credit card companies are starting to charge exorbitant rates. after doing some research, i found out that ursury laws only apply to banks and not credit cards. but since banks issue the credit cards, i believe they should be held to the same usury laws.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994358420372009
+}

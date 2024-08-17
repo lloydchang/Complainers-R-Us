@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067814,
+  "complaint_id": "9067814",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express was Paid In FULL before the due date ( XXXX XX/XX/2024 ) when the Bill was paid in Full in late XX/XX/2024. \n\nHowever, I got a Statement in the mail from American Express about me owing them \" Back Interest '' Charges which does not make sense when the Bill has been Paid in FULL to Include their High Interest Rate Charge on the Card by the XXXX of Each Month.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89131",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "American Express was Paid In FULL before the due date ( XXXX XX/XX/2024 ) when the Bill was paid in Full in late XX/XX/2024. \n\nHowever, I got a Statement in the mail from American Express about me owing them \" Back Interest '' Charges which does not make sense when the Bill has been Paid in FULL to Include their High Interest Rate Charge on the Card by the XXXX of Each Month."
+}
+
+Chunk:
+american express was paid in full before the due date ( xxxx xx / xx / 2024 ) when the bill was paid in full in late xx / xx / 2024. however, i got a statement in the mail from american express about me owing them " back interest'' charges which does not make sense when the bill has been paid in full to include their high interest rate charge on the card by the xxxx of each month.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993834495544434
+}

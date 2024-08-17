@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9062214,
+  "complaint_id": "9062214",
+  "product": "Credit card",
+  "complaint_what_happened": "Last year my auto pay randomly shut off, I got it figured out via online through PNC It happened again after that and affected my credit..went to branch and they fixed the auto pay for the second time but said they couldnt fix that it put a ding on my credit ( which I know is not true ) auto pay shut off again affected credit for third time a couple months later went back to branch they assure me it wouldnt happen again. It happened for the fourth time now, affecting my credit each time. I refuse to pay them the late fees and want it off my credit score and they took it upon themselves to withdraw the fees and payments owed from my savings account without any approval. Ive been with PNC bank for 14 years",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30269",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "Last year my auto pay randomly shut off, I got it figured out via online through PNC It happened again after that and affected my credit..went to branch and they fixed the auto pay for the second time but said they couldnt fix that it put a ding on my credit ( which I know is not true ) auto pay shut off again affected credit for third time a couple months later went back to branch they assure me it wouldnt happen again. It happened for the fourth time now, affecting my credit each time. I refuse to pay them the late fees and want it off my credit score and they took it upon themselves to withdraw the fees and payments owed from my savings account without any approval. Ive been with PNC bank for 14 years"
+}
+
+Chunk:
+last year my auto pay randomly shut off, i got it figured out via online through pnc it happened again after that and affected my credit.. went to branch and they fixed the auto pay for the second time but said they couldnt fix that it put a ding on my credit ( which i know is not true ) auto pay shut off again affected credit for third time a couple months later went back to branch they assure me it wouldnt happen again. it happened for the fourth time now, affecting my credit each time. i refuse to pay them the late fees and want it off my credit score and they took it upon themselves to withdraw the fees and payments owed from my savings account without any approval. ive been with pnc bank for 14 years
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99915611743927
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9301310,
+  "complaint_id": "9301310",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a Citi Bank XXXX XXXX in XXXX of 2023. It had an offer of XXXX travel points after spending {$3000.00} within 90 days of opening the card. I did just that and decided to bank my travel points until I needed to buy plane tickets later in the year. Citi Bank then closed my card sometime in XX/XX/year> without giving me an explanation even though I had a XXXX balance on the card. They automatically cancelled all my travel points without giving me any grace period to redeem the points. I only found out in XXXX when I was trying to purchase a plane ticket. I called them over 10 times to get an explanation but they said they couldn't disclose the reason for cancelling my card over the phone but they would send me a letter. I received about 3 letters from them but none explained why the card was closed. All they stated was that the account was closed in XXXX and that all my reward points had been cancelled. I called over 10 times to resolve this issue but they refused to let me redeem my points I has earned in earnest. I finally gave up. Those points had a cash value of {$800.00}",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28173",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I applied for a Citi Bank XXXX XXXX in XXXX of 2023. It had an offer of XXXX travel points after spending {$3000.00} within 90 days of opening the card. I did just that and decided to bank my travel points until I needed to buy plane tickets later in the year. Citi Bank then closed my card sometime in XX/XX/year> without giving me an explanation even though I had a XXXX balance on the card. They automatically cancelled all my travel points without giving me any grace period to redeem the points. I only found out in XXXX when I was trying to purchase a plane ticket. I called them over 10 times to get an explanation but they said they couldn't disclose the reason for cancelling my card over the phone but they would send me a letter. I received about 3 letters from them but none explained why the card was closed. All they stated was that the account was closed in XXXX and that all my reward points had been cancelled. I called over 10 times to resolve this issue but they refused to let me redeem my points I has earned in earnest. I finally gave up. Those points had a cash value of {$800.00}"
+}
+
+Chunk:
+i applied for a citi bank xxxx xxxx in xxxx of 2023. it had an offer of xxxx travel points after spending { $ 3000. 00 } within 90 days of opening the card. i did just that and decided to bank my travel points until i needed to buy plane tickets later in the year. citi bank then closed my card sometime in xx / xx / year > without giving me an explanation even though i had a xxxx balance on the card. they automatically cancelled all my travel points without giving me any grace period to redeem the points. i only found out in xxxx when i was trying to purchase a plane ticket. i called them over 10 times to get an explanation but they said they couldn't disclose the reason for cancelling my card over the phone but they would send me a letter. i received about 3 letters from them but none explained why the card was closed. all they stated was that the account was closed in xxxx and that all my reward points had been cancelled. i called over 10 times to resolve this issue but they refused to let me redeem my points i has earned in earnest. i finally gave up. those points had a cash value of { $ 800. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992334842681885
+}

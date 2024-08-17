@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9400624,
+  "complaint_id": "9400624",
+  "product": "Credit card",
+  "complaint_what_happened": "I have always paid this card on time, last month I was sick an in the hospital. Once released I had paid my bills and thought I had paid at home. They decreased my credit limit thus putting over my balance. I understand it is the right of the creditor to decrease or increase the balance but if they decrease it close to or below the amount owed it not only pushes pass me credit limit but it also affects my credit score. This is a bit drastic for one late payment.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "180XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I have always paid this card on time, last month I was sick an in the hospital. Once released I had paid my bills and thought I had paid at home. They decreased my credit limit thus putting over my balance. I understand it is the right of the creditor to decrease or increase the balance but if they decrease it close to or below the amount owed it not only pushes pass me credit limit but it also affects my credit score. This is a bit drastic for one late payment."
+}
+
+Chunk:
+i have always paid this card on time, last month i was sick an in the hospital. once released i had paid my bills and thought i had paid at home. they decreased my credit limit thus putting over my balance. i understand it is the right of the creditor to decrease or increase the balance but if they decrease it close to or below the amount owed it not only pushes pass me credit limit but it also affects my credit score. this is a bit drastic for one late payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.993194580078125
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9022697,
+  "complaint_id": "9022697",
+  "product": "Credit card",
+  "complaint_what_happened": "[ See attachment for formatted text in pdf format. ] I pay my credit card balances to Chase on time, but recently I erred and sent my payment due on XX/XX/XXXX to the wrong company. Realizing the error, I sent my payment to Chase but it was four days late ( XX/XX/XXXX ). This triggered the imposition of a late fee and interest charges not only on the balance due on XX/XX/XXXX, but on ALL the purchases made during the subsequent billing cycle, the payment for which would not be due until XX/XX/XXXX. To make this more concrete, here is a table of the dates and amounts : BILLING PERIOD XX/XX/XXXX to XX/XX/XXXX XX/XX/XXXX to XX/XX/XXXX Period Purchases {$7200.00} {$12000.00} Billing Amount {$7200.00} {$19000.00} Payment Due date XX/XX/XXXX XX/XX/XXXX Actual Payment date XX/XX/XXXX XX/XX/XXXX Amount Paid {$7200.00} {$12000.00} Late Fees {$0.00} {$40.00} XXXX XXXX {$0.00} {$240.00} According to the XX/XX/XXXX statement, the interest charge of {$240.00} is based on a balance of {$13000.00} at a rate of 21.24 %. In the period from XXXX to XX/XX/XXXX, I made a few purchases, but far less than $ XXXX, so when Chase received my payment of {$7200.00}, they subtracted that from the current balance of {$7200.00} + a few purchases to yield a positive balance. Because the balance is positive, they start charging retroactive interest on ALL the purchases in the XX/XX/XXXX to XX/XX/XXXX billing cycle. So they are charging interest on purchases made during a billing cycle that has nothing to do with the purchases for which my payment was late. Had I made my payment XXXX days earlier ( XXXX ), those same purchases between XX/XX/XXXX to XX/XX/XXXX would not have incurred any interest charges. \n\nThis is a deceitful and outrageous practice. The interest charges should apply only to those amounts for which payment is actually late. Chase is charging interest on amounts that are not even due for payment until the following month. Now I imagine that the law allows them to do this, and I have written to my representatives, but I think the CFPB should play a role in curtailing these interest charges. \n\nIn my specific instance, Chase was willing to refund the interest and fees because I made an innocent mistake. Good on them. But the deceitful practice still exists and other consumers will be unfairly charged. \n\nFinally, in the interest of warning consumers, this insidious process used by the credit card companies to calculate and charge interest needs to be added to the CFPB informational website at https : XXXX",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85710",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "[ See attachment for formatted text in pdf format. ] I pay my credit card balances to Chase on time, but recently I erred and sent my payment due on XX/XX/XXXX to the wrong company. Realizing the error, I sent my payment to Chase but it was four days late ( XX/XX/XXXX ). This triggered the imposition of a late fee and interest charges not only on the balance due on XX/XX/XXXX, but on ALL the purchases made during the subsequent billing cycle, the payment for which would not be due until XX/XX/XXXX. To make this more concrete, here is a table of the dates and amounts : BILLING PERIOD XX/XX/XXXX to XX/XX/XXXX XX/XX/XXXX to XX/XX/XXXX Period Purchases {$7200.00} {$12000.00} Billing Amount {$7200.00} {$19000.00} Payment Due date XX/XX/XXXX XX/XX/XXXX Actual Payment date XX/XX/XXXX XX/XX/XXXX Amount Paid {$7200.00} {$12000.00} Late Fees {$0.00} {$40.00} XXXX XXXX {$0.00} {$240.00} According to the XX/XX/XXXX statement, the interest charge of {$240.00} is based on a balance of {$13000.00} at a rate of 21.24 %. In the period from XXXX to XX/XX/XXXX, I made a few purchases, but far less than $ XXXX, so when Chase received my payment of {$7200.00}, they subtracted that from the current balance of {$7200.00} + a few purchases to yield a positive balance. Because the balance is positive, they start charging retroactive interest on ALL the purchases in the XX/XX/XXXX to XX/XX/XXXX billing cycle. So they are charging interest on purchases made during a billing cycle that has nothing to do with the purchases for which my payment was late. Had I made my payment XXXX days earlier ( XXXX ), those same purchases between XX/XX/XXXX to XX/XX/XXXX would not have incurred any interest charges. \n\nThis is a deceitful and outrageous practice. The interest charges should apply only to those amounts for which payment is actually late. Chase is charging interest on amounts that are not even due for payment until the following month. Now I imagine that the law allows them to do this, and I have written to my representatives, but I think the CFPB should play a role in curtailing these interest charges. \n\nIn my specific instance, Chase was willing to refund the interest and fees because I made an innocent mistake. Good on them. But the deceitful practice still exists and other consumers will be unfairly charged. \n\nFinally, in the interest of warning consumers, this insidious process used by the credit card companies to calculate and charge interest needs to be added to the CFPB informational website at https : XXXX"
+}
+
+Chunk:
+is actually late. chase is charging interest on amounts that are not even due for payment until the following month. now i imagine that the law allows them to do this, and i have written to my representatives, but i think the cfpb should play a role in curtailing these interest charges. in my specific instance, chase was willing to refund the interest and fees because i made an innocent mistake. good on them. but the deceitful practice still exists and other consumers will be unfairly charged. finally, in the interest of warning consumers, this insidious process used by the credit card companies to calculate and charge interest needs to be added to the cfpb informational website at https : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992380142211914
+}

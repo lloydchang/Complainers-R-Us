@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9114742,
+  "complaint_id": "9114742",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a phone call from an XXXX XXXX, claiming to be with the Consumer Financial Protection Bureau. She asked if i opened an account today with Bank of America in Texas. She had the last XXXX digits of my XXXX XXXX XXXXXXXX. I stated that i had no knowledge of such an account. She gave me a XXXX # RL XXXX and said she needed to transfer my call to another department. I asked for the callback number and was given XXXX. She transferred my call to an XXXX XXXX, who was supposedly going to take steps to cancel the Bank of America account and then check to see if there were any other unauthorized accounts recently opened in my name. I informed this individual that I was not going to provide any personal information, and that he should not ask me. He insisted that he is not permitted to ask for personal information. I stated that he should go ahead and cancel the unauthorized Bank of America account. We kept going in circles with his assertion that he would cancel the account, but also needed to make sure there were no other accounts. His failure to handle this in a straightforward manner aroused my suspicion and I hung up. He called right back and asked if i had hung up the call. I hung up again. Can you verify whether a Bank of America account was actually opened in my name, please? XXXX XXXX, XXXX.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48075",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a phone call from an XXXX XXXX, claiming to be with the Consumer Financial Protection Bureau. She asked if i opened an account today with Bank of America in Texas. She had the last XXXX digits of my XXXX XXXX XXXXXXXX. I stated that i had no knowledge of such an account. She gave me a XXXX # RL XXXX and said she needed to transfer my call to another department. I asked for the callback number and was given XXXX. She transferred my call to an XXXX XXXX, who was supposedly going to take steps to cancel the Bank of America account and then check to see if there were any other unauthorized accounts recently opened in my name. I informed this individual that I was not going to provide any personal information, and that he should not ask me. He insisted that he is not permitted to ask for personal information. I stated that he should go ahead and cancel the unauthorized Bank of America account. We kept going in circles with his assertion that he would cancel the account, but also needed to make sure there were no other accounts. His failure to handle this in a straightforward manner aroused my suspicion and I hung up. He called right back and asked if i had hung up the call. I hung up again. Can you verify whether a Bank of America account was actually opened in my name, please? XXXX XXXX, XXXX."
+}
+
+Chunk:
+i received a phone call from an xxxx xxxx, claiming to be with the consumer financial protection bureau. she asked if i opened an account today with bank of america in texas. she had the last xxxx digits of my xxxx xxxx xxxxxxxx. i stated that i had no knowledge of such an account. she gave me a xxxx # rl xxxx and said she needed to transfer my call to another department. i asked for the callback number and was given xxxx. she transferred my call to an xxxx xxxx, who was supposedly going to take steps to cancel the bank of america account and then check to see if there were any other unauthorized accounts recently opened in my name. i informed this individual that i was not going to provide any personal information, and that he should not ask me. he insisted that he is not permitted to ask for personal information. i stated that he should go ahead and cancel the unauthorized bank of america account. we kept going in circles with his assertion that he would cancel the account, but also needed to make sure there were no other accounts. his failure to handle this in a straightforward manner aroused my suspicion and i hung up. he called right back and asked if i had hung up the call. i hung up again. can you verify whether a bank of america account was actually opened in my name, please? xxxx xxxx, xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994056224822998
+}

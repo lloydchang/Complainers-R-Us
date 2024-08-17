@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9153828,
+  "complaint_id": "9153828",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I spoke to several representatives who told me that I was eligible for a refund of {$5500.00}. However, it's been a month now and after numerous calls, I was informed by a different representative that they couldn't process the refund because the payment was supposed to be processed on the XXXX, but it went through on the XXXX, causing my credit line to drop. The setting was on automatic, and I'm not sure if this is my fault.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85020",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "On XX/XX/XXXX, I spoke to several representatives who told me that I was eligible for a refund of {$5500.00}. However, it's been a month now and after numerous calls, I was informed by a different representative that they couldn't process the refund because the payment was supposed to be processed on the XXXX, but it went through on the XXXX, causing my credit line to drop. The setting was on automatic, and I'm not sure if this is my fault."
+}
+
+Chunk:
+on xx / xx / xxxx, i spoke to several representatives who told me that i was eligible for a refund of { $ 5500. 00 }. however, it's been a month now and after numerous calls, i was informed by a different representative that they couldn't process the refund because the payment was supposed to be processed on the xxxx, but it went through on the xxxx, causing my credit line to drop. the setting was on automatic, and i'm not sure if this is my fault.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989765882492065
+}

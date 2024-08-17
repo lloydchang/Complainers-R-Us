@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9350591,
+  "complaint_id": "9350591",
+  "product": "Credit card",
+  "complaint_what_happened": "i purchase furnitue from XXXX XXXX in XXXX  XXXX mo account number XXXX and they used wells fargo for finacing which was {$9500.00} upon delivery of furntiure seveal items where broken and not in new condition ive reached out to XXXX XXXX explaining the broken furniture and they admitted at fault and said who ever they sent was a new guy and they apoligize for the damage furniture .i filed a dispute with wells fargo explaining the furniture received was broken and XXXX XXXX admitting a fault to the furniture being broken upon delivery XXXX XXXX resolution is to reach out to warranty company since i moved within there warranty which the warranty company said they do not cover items thats broken upon delivery.wells fargo dispute dpt XXXX explains he wouldnt pay for broken furniture but insist theres nothing i can do to fix the situations.This has been a hastle since ive recieved the furniture XX/XX/year> ive filled 5 disputes no resolution but to continue to pay for broken furniture which im very dissatisfied with and not going to continue to do.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "89015",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "i purchase furnitue from XXXX XXXX in XXXX  XXXX mo account number XXXX and they used wells fargo for finacing which was {$9500.00} upon delivery of furntiure seveal items where broken and not in new condition ive reached out to XXXX XXXX explaining the broken furniture and they admitted at fault and said who ever they sent was a new guy and they apoligize for the damage furniture .i filed a dispute with wells fargo explaining the furniture received was broken and XXXX XXXX admitting a fault to the furniture being broken upon delivery XXXX XXXX resolution is to reach out to warranty company since i moved within there warranty which the warranty company said they do not cover items thats broken upon delivery.wells fargo dispute dpt XXXX explains he wouldnt pay for broken furniture but insist theres nothing i can do to fix the situations.This has been a hastle since ive recieved the furniture XX/XX/year> ive filled 5 disputes no resolution but to continue to pay for broken furniture which im very dissatisfied with and not going to continue to do."
+}
+
+Chunk:
+i purchase furnitue from xxxx xxxx in xxxx xxxx mo account number xxxx and they used wells fargo for finacing which was { $ 9500. 00 } upon delivery of furntiure seveal items where broken and not in new condition ive reached out to xxxx xxxx explaining the broken furniture and they admitted at fault and said who ever they sent was a new guy and they apoligize for the damage furniture. i filed a dispute with wells fargo explaining the furniture received was broken and xxxx xxxx admitting a fault to the furniture being broken upon delivery xxxx xxxx resolution is to reach out to warranty company since i moved within there warranty which the warranty company said they do not cover items thats broken upon delivery. wells fargo dispute dpt xxxx explains he wouldnt pay for broken furniture but insist theres nothing i can do to fix the situations. this has been a hastle since ive recieved the furniture xx / xx / year > ive filled 5 disputes no resolution but to continue to pay for broken furniture which im very dissatisfied with and not going to continue to do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992225170135498
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9129957,
+  "complaint_id": "9129957",
+  "product": "Credit card",
+  "complaint_what_happened": "I have reached out to XXXX OF AMERICAN EXPRESS XXXX XXXX and AMERICAN EXPRESS has closed my account fraudulently due to presentment not disclosed on their terms and conditions. Which is a violation of TILA. It states that upon dishonored payment an assessed fee shall be imposed. It doesnt state that account closure shall persist. Correspondence on these returned payments hadnt been sent by American Express until after account closure. One email came before but nothing else. They are in violation of 12 cfr 1026.11. My credit balance must be credited by the creditor in full satisfaction.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have reached out to XXXX OF AMERICAN EXPRESS XXXX XXXX and AMERICAN EXPRESS has closed my account fraudulently due to presentment not disclosed on their terms and conditions. Which is a violation of TILA. It states that upon dishonored payment an assessed fee shall be imposed. It doesnt state that account closure shall persist. Correspondence on these returned payments hadnt been sent by American Express until after account closure. One email came before but nothing else. They are in violation of 12 cfr 1026.11. My credit balance must be credited by the creditor in full satisfaction."
+}
+
+Chunk:
+i have reached out to xxxx of american express xxxx xxxx and american express has closed my account fraudulently due to presentment not disclosed on their terms and conditions. which is a violation of tila. it states that upon dishonored payment an assessed fee shall be imposed. it doesnt state that account closure shall persist. correspondence on these returned payments hadnt been sent by american express until after account closure. one email came before but nothing else. they are in violation of 12 cfr 1026. 11. my credit balance must be credited by the creditor in full satisfaction.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968937635421753
+}

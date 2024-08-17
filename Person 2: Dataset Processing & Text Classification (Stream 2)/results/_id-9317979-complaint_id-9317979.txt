@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9317979,
+  "complaint_id": "9317979",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a Visa Gift Card. The first time I tried to use it at XXXX store I had to call the XXXX and was told it was flagged as fraud ( even right out of the Visa GC package! \n\nThe customer service rep unblocked it and let the transactions through, and said I should not hv any problem anymore with next purchases. But not true, I was not able to use the card at all. \n\nI called the and they told me I hv to proof I am the legal owner by sending a copy of my drivers license? This is an overseas call center and they are asking me to fax it. I didnt do it I called again today and they asked me to go to the website to report card lost and do it that way. Well the card was blocked by them right out of the package, and still blocked, so the website immediately returned with invalid card. So I called again they said I hv to fax my Drivers License in order for them to unblock the card?? \n\nI have a balance of {$190.00} ( they confirmed that on the call ) - and I cant use it XXXX searching this, it seems US bank is doing this a whole lot, people not able to use their gift cards. I believe this is a big fraud. I definitely dont feel comfortable faxing my drivers license to an overseas call center Pls help guide me on this? They need to be removed from the market!",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89135",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I received a Visa Gift Card. The first time I tried to use it at XXXX store I had to call the XXXX and was told it was flagged as fraud ( even right out of the Visa GC package! \n\nThe customer service rep unblocked it and let the transactions through, and said I should not hv any problem anymore with next purchases. But not true, I was not able to use the card at all. \n\nI called the and they told me I hv to proof I am the legal owner by sending a copy of my drivers license? This is an overseas call center and they are asking me to fax it. I didnt do it I called again today and they asked me to go to the website to report card lost and do it that way. Well the card was blocked by them right out of the package, and still blocked, so the website immediately returned with invalid card. So I called again they said I hv to fax my Drivers License in order for them to unblock the card?? \n\nI have a balance of {$190.00} ( they confirmed that on the call ) - and I cant use it XXXX searching this, it seems US bank is doing this a whole lot, people not able to use their gift cards. I believe this is a big fraud. I definitely dont feel comfortable faxing my drivers license to an overseas call center Pls help guide me on this? They need to be removed from the market!"
+}
+
+Chunk:
+i received a visa gift card. the first time i tried to use it at xxxx store i had to call the xxxx and was told it was flagged as fraud ( even right out of the visa gc package! the customer service rep unblocked it and let the transactions through, and said i should not hv any problem anymore with next purchases. but not true, i was not able to use the card at all. i called the and they told me i hv to proof i am the legal owner by sending a copy of my drivers license? this is an overseas call center and they are asking me to fax it. i didnt do it i called again today and they asked me to go to the website to report card lost and do it that way. well the card was blocked by them right out of the package, and still blocked, so the website immediately returned with invalid card. so i called again they said i hv to fax my drivers license in order for them to unblock the card?? i have a balance of { $ 190. 00 } ( they confirmed that on the call ) - and i cant use it xxxx searching this, it seems us bank is doing this a whole lot, people not able to use their gift cards. i believe this is a big fraud. i definitely dont feel comfortable faxing my drivers license to an overseas call center pls help guide me on this? they need to be removed from the market!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994325041770935
+}

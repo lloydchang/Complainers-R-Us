@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9225540,
+  "complaint_id": "9225540",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One is reporting 5 late payments on all 3 credit bureaus. XX/XX/year>, XX/XX/year>, XX/XX/year>, XX/XX/year>, XX/XX/year>. This has dropped my credit over XXXX points",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98030",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "Capital One is reporting 5 late payments on all 3 credit bureaus. XX/XX/year>, XX/XX/year>, XX/XX/year>, XX/XX/year>, XX/XX/year>. This has dropped my credit over XXXX points"
+}
+
+Chunk:
+capital one is reporting 5 late payments on all 3 credit bureaus. xx / xx / year >, xx / xx / year >, xx / xx / year >, xx / xx / year >, xx / xx / year >. this has dropped my credit over xxxx points
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993348717689514
+}

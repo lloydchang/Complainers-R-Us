@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048288,
+  "complaint_id": "9048288",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a XXXX, XXXX XXXX and XXXX XXXX card offered through Comenity and over the course of the last few months Comenity has decreased the limit on all of these cards. Theyve explained this is due to negative credit scores and/or the total balances that I have compared to my limits on my credit report. I believe this is an unfair and abusive practice practice that causes me harm because reducing my limit without giving me a chance to reduce my balance, negatively impacts my credit score due to my total limits decreasing ; which increases my card usage percentage. I also believe this is unfair because it uses my credit score without reasonable cause to make new credit decisions even though my credit activity with the company is strong ( I.e on time payments, higher than minimum payments, etc ) Comenity should understand that while making this decision may seem like they are managing to credit risk but they are actually taking away their customers ownership of their credit score. I chose to apply for this card and also choose when I use it and how much I pay back in order to maintain a good rating. Comenity should also give me a choice in this situation BEFORE deceasing limits ; either by allowing me to pay down my balance or even close the account. I disagree that they should be permitted to use my external Credit score for new credit decisions after I have been approved but they could at least send a letter to the customer before they decrease and not after the fact because that is the fair and right thing to do. In addition, Comenity may even advise in their agreement that these activities may occur however these are internal processes that the customer can not reasonably determine when or if they will occur.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "44310",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I have a XXXX, XXXX XXXX and XXXX XXXX card offered through Comenity and over the course of the last few months Comenity has decreased the limit on all of these cards. Theyve explained this is due to negative credit scores and/or the total balances that I have compared to my limits on my credit report. I believe this is an unfair and abusive practice practice that causes me harm because reducing my limit without giving me a chance to reduce my balance, negatively impacts my credit score due to my total limits decreasing ; which increases my card usage percentage. I also believe this is unfair because it uses my credit score without reasonable cause to make new credit decisions even though my credit activity with the company is strong ( I.e on time payments, higher than minimum payments, etc ) Comenity should understand that while making this decision may seem like they are managing to credit risk but they are actually taking away their customers ownership of their credit score. I chose to apply for this card and also choose when I use it and how much I pay back in order to maintain a good rating. Comenity should also give me a choice in this situation BEFORE deceasing limits ; either by allowing me to pay down my balance or even close the account. I disagree that they should be permitted to use my external Credit score for new credit decisions after I have been approved but they could at least send a letter to the customer before they decrease and not after the fact because that is the fair and right thing to do. In addition, Comenity may even advise in their agreement that these activities may occur however these are internal processes that the customer can not reasonably determine when or if they will occur."
+}
+
+Chunk:
+i have a xxxx, xxxx xxxx and xxxx xxxx card offered through comenity and over the course of the last few months comenity has decreased the limit on all of these cards. theyve explained this is due to negative credit scores and / or the total balances that i have compared to my limits on my credit report. i believe this is an unfair and abusive practice practice that causes me harm because reducing my limit without giving me a chance to reduce my balance, negatively impacts my credit score due to my total limits decreasing ; which increases my card usage percentage. i also believe this is unfair because it uses my credit score without reasonable cause to make new credit decisions even though my credit activity with the company is strong ( i. e on time payments, higher than minimum payments, etc ) comenity should understand that while making this decision may seem like they are managing to credit risk but they are actually taking away their customers ownership of their credit score. i chose to apply for this card and also choose when i use it and how much i pay back in order to maintain a good rating. comenity should also give me a choice in this situation before deceasing limits ; either by allowing me to pay down my balance or even close the account. i disagree that they should be permitted to use my external credit score for new credit decisions after i have been approved but they could at least send a letter to the customer before they decrease and not after the fact because that is the fair and right thing to do. in addition, comenity may even advise in their agreement that these activities may occur however these are internal processes that the customer can not reasonably determine when or if they will occur.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992844462394714
+}

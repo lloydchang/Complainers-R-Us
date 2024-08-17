@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9169968,
+  "complaint_id": "9169968",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I received an alert from Experian that an inquiry, showing XXXX, had been added to my credit report. I became baffled because I had not put in a credit application with this company.and I was paying {$4.00} a month to have my credit locked, I also have an active consumer alert summary that advises creditors to please contact me through sepecific contact instruction to extend credit. Yet, someone by the name, or the name she made up, XXXX XXXX had opened a credit card via XXXX XXXX without my consent. How did Experian allow this when I had taken all the necessary steps to protect myself from Identity Theft? I immediately called Experian and filed a dispute. The address this person used to ship the card to is : XXXX XXXX XXXX, XXXX, GA XXXX and the bogus email address the person provided is : XXXX. None of this information is connected to me in anyway, yet, Experian allowed for XXXX XXXX to open this credit card account in my name? Experian sends alerts every week that my information has been found on The Dark Web and people have access to my important information but doesn't protect me against Identity Theft, and then offer for me to sign up for a Premium Plan, {$29.00} and then they will remove my name and information from the sites that show my information. That is insane. I want real protection against Identity Theft and I shouldn't have to pay for it, to receive it if I've provided proof that I'm a current victim of Identity Theft.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78759",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year>, I received an alert from Experian that an inquiry, showing XXXX, had been added to my credit report. I became baffled because I had not put in a credit application with this company.and I was paying {$4.00} a month to have my credit locked, I also have an active consumer alert summary that advises creditors to please contact me through sepecific contact instruction to extend credit. Yet, someone by the name, or the name she made up, XXXX XXXX had opened a credit card via XXXX XXXX without my consent. How did Experian allow this when I had taken all the necessary steps to protect myself from Identity Theft? I immediately called Experian and filed a dispute. The address this person used to ship the card to is : XXXX XXXX XXXX, XXXX, GA XXXX and the bogus email address the person provided is : XXXX. None of this information is connected to me in anyway, yet, Experian allowed for XXXX XXXX to open this credit card account in my name? Experian sends alerts every week that my information has been found on The Dark Web and people have access to my important information but doesn't protect me against Identity Theft, and then offer for me to sign up for a Premium Plan, {$29.00} and then they will remove my name and information from the sites that show my information. That is insane. I want real protection against Identity Theft and I shouldn't have to pay for it, to receive it if I've provided proof that I'm a current victim of Identity Theft."
+}
+
+Chunk:
+on xx / xx / year >, i received an alert from experian that an inquiry, showing xxxx, had been added to my credit report. i became baffled because i had not put in a credit application with this company. and i was paying { $ 4. 00 } a month to have my credit locked, i also have an active consumer alert summary that advises creditors to please contact me through sepecific contact instruction to extend credit. yet, someone by the name, or the name she made up, xxxx xxxx had opened a credit card via xxxx xxxx without my consent. how did experian allow this when i had taken all the necessary steps to protect myself from identity theft? i immediately called experian and filed a dispute. the address this person used to ship the card to is : xxxx xxxx xxxx, xxxx, ga xxxx and the bogus email address the person provided is : xxxx. none of this information is connected to me in anyway, yet, experian allowed for xxxx xxxx to open this credit card account in my name? experian sends alerts every week that my information has been found on the dark web and people have access to my important information but doesn't protect me against identity theft, and then offer for me to sign up for a premium plan, { $ 29. 00 } and then they will remove my name and information from the sites that show my information. that is insane. i want real protection against identity theft and i shouldn't have to pay for it, to receive it if i've provided proof that i'm a current victim of identity theft.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989564418792725
+}

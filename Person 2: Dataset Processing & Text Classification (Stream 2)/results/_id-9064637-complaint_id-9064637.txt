@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064637,
+  "complaint_id": "9064637",
+  "product": "Credit card",
+  "complaint_what_happened": "In good faith, I submitted an application for the XXXX XXXX XXXX XXXX on XX/XX/XXXX. \nGot denied an extension of my credit via online response. \nAttempted to rectify a reconsideration on XX/XX/XXXX to receive valuable consideration for my negotiable instrument ( security ) that American Express retained. \nI then applied for the Platinum Card and on XX/XX/XXXX I submitted certified letter USPS mail to Investor Relations making them aware of American Express ' prospectus that relates to a firm offer of credit and XXXX is the offer made to investors. Once I submitted an application and it's securitized, I became an investor according to American Express prospectus. The application is a receivable that it securitized and transferred into the Master Trust and Issuance Trust. In doing so, American Express Bank funds receivables and loans through asset securitization. Through this process, the application ensures enough value to prepay my deposit security accounts.\n\nI know no company wants to participate in fraudulent dealings, hence I requested American Express to do what they said they would for me as an investor. I did not receive any benefit for value given. I requested both securities back via traceable mail if cards were not being issued. \n\nFor reference : XXXX XXXX XXXX Emailed XX/XX/XXXX",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20735",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "In good faith, I submitted an application for the XXXX XXXX XXXX XXXX on XX/XX/XXXX. \nGot denied an extension of my credit via online response. \nAttempted to rectify a reconsideration on XX/XX/XXXX to receive valuable consideration for my negotiable instrument ( security ) that American Express retained. \nI then applied for the Platinum Card and on XX/XX/XXXX I submitted certified letter USPS mail to Investor Relations making them aware of American Express ' prospectus that relates to a firm offer of credit and XXXX is the offer made to investors. Once I submitted an application and it's securitized, I became an investor according to American Express prospectus. The application is a receivable that it securitized and transferred into the Master Trust and Issuance Trust. In doing so, American Express Bank funds receivables and loans through asset securitization. Through this process, the application ensures enough value to prepay my deposit security accounts.\n\nI know no company wants to participate in fraudulent dealings, hence I requested American Express to do what they said they would for me as an investor. I did not receive any benefit for value given. I requested both securities back via traceable mail if cards were not being issued. \n\nFor reference : XXXX XXXX XXXX Emailed XX/XX/XXXX"
+}
+
+Chunk:
+in good faith, i submitted an application for the xxxx xxxx xxxx xxxx on xx / xx / xxxx. got denied an extension of my credit via online response. attempted to rectify a reconsideration on xx / xx / xxxx to receive valuable consideration for my negotiable instrument ( security ) that american express retained. i then applied for the platinum card and on xx / xx / xxxx i submitted certified letter usps mail to investor relations making them aware of american express'prospectus that relates to a firm offer of credit and xxxx is the offer made to investors. once i submitted an application and it's securitized, i became an investor according to american express prospectus. the application is a receivable that it securitized and transferred into the master trust and issuance trust. in doing so, american express bank funds receivables and loans through asset securitization. through this process, the application ensures enough value to prepay my deposit security accounts. i know no company wants to participate in fraudulent dealings, hence i requested american express to do what they said they would for me as an investor. i did not receive any benefit for value given. i requested both securities back via traceable mail if cards were not being issued. for reference : xxxx xxxx xxxx emailed xx / xx / xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9615917205810547
+}

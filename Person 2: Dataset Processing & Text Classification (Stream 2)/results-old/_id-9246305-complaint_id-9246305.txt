@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9246305,
+  "complaint_id": "9246305",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank/PayPal Credit refuses to refund a purchase I made on XX/XX/year> for {$150.00}. I cancelled the order by emailing the merchant within 2 hours after placing the order. The merchant apparently still shipped the item to my home address, but I never received the item ordered. I've tried contacting the merchant with no response. I've filed multiple disputes with Synchrony Bank/PayPal Credit and they refuse to issue a refund for merchandise I never received. I've filed disputes with XXXX, XXXX, XXXX, and the XXXX XXXX XXXX XXXX XXXX XXXX with no results supporting my conundrum. Meanwhile, Synchrony Bank/PayPal Credit continues to contact me by phone, email, & mail for payment and are adding interest & late payment fees making the total balance due {$260.00}. Now my credit rating has dropped from XXXX ( XXXX ) to XXXX ( XXXX ). I will not pay for something I never received. Synchrony Bank/PayPal Credit needs to do the right thing and refund my account to a {$0.00} balance.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Synchrony Bank/PayPal Credit refuses to refund a purchase I made on XX/XX/year> for {$150.00}. I cancelled the order by emailing the merchant within 2 hours after placing the order. The merchant apparently still shipped the item to my home address, but I never received the item ordered. I've tried contacting the merchant with no response. I've filed multiple disputes with Synchrony Bank/PayPal Credit and they refuse to issue a refund for merchandise I never received. I've filed disputes with XXXX, XXXX, XXXX, and the XXXX XXXX XXXX XXXX XXXX XXXX with no results supporting my conundrum. Meanwhile, Synchrony Bank/PayPal Credit continues to contact me by phone, email, & mail for payment and are adding interest & late payment fees making the total balance due {$260.00}. Now my credit rating has dropped from XXXX ( XXXX ) to XXXX ( XXXX ). I will not pay for something I never received. Synchrony Bank/PayPal Credit needs to do the right thing and refund my account to a {$0.00} balance."
+}
+
+Chunk:
+synchrony bank / paypal credit refuses to refund a purchase i made on xx / xx / year > for { $ 150. 00 }. i cancelled the order by emailing the merchant within 2 hours after placing the order. the merchant apparently still shipped the item to my home address, but i never received the item ordered. i've tried contacting the merchant with no response. i've filed multiple disputes with synchrony bank / paypal credit and they refuse to issue a refund for merchandise i never received. i've filed disputes with xxxx, xxxx, xxxx, and the xxxx xxxx xxxx xxxx xxxx xxxx with no results supporting my conundrum. meanwhile, synchrony bank / paypal credit continues to contact me by phone, email, & mail for payment and are adding interest & late payment fees making the total balance due { $ 260. 00 }. now my credit rating has dropped from xxxx ( xxxx ) to xxxx ( xxxx ). i will not pay for something i never received. synchrony bank / paypal credit needs to do the right thing and refund my account to a { $ 0. 00 } balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994786381721497
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9089845,
+  "complaint_id": "9089845",
+  "product": "Credit card",
+  "complaint_what_happened": "I have XXXX credit card with XXXX XXXX that I used to purchase XXXX tickets from XXXX in XX/XX/2023 for {$1300.00} XXXX filed a dispute with Wells Fargo ID number XXXX they refunded me the whole amount after few weeks then took the money back from my account later they called me to offer me getting refund of half the money. \nI refused because I need a-whole refund. \nThey did not help me get my refund back. \nThe merchandise did not serve us with the service that I paid for. \nwe went ahead of time to airport to check in they but our luggage out from the belt then say you can not go inside the plane later told us purchase another ticket with another airlines and call your credit card to get a refund. \nWe asked for help to go with another trip or any other options they refused to help. \nThey told us purchase another ticket and do refund from your banker which we did.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27609",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have XXXX credit card with XXXX XXXX that I used to purchase XXXX tickets from XXXX in XX/XX/2023 for {$1300.00} XXXX filed a dispute with Wells Fargo ID number XXXX they refunded me the whole amount after few weeks then took the money back from my account later they called me to offer me getting refund of half the money. \nI refused because I need a-whole refund. \nThey did not help me get my refund back. \nThe merchandise did not serve us with the service that I paid for. \nwe went ahead of time to airport to check in they but our luggage out from the belt then say you can not go inside the plane later told us purchase another ticket with another airlines and call your credit card to get a refund. \nWe asked for help to go with another trip or any other options they refused to help. \nThey told us purchase another ticket and do refund from your banker which we did."
+}
+
+Chunk:
+i have xxxx credit card with xxxx xxxx that i used to purchase xxxx tickets from xxxx in xx / xx / 2023 for { $ 1300. 00 } xxxx filed a dispute with wells fargo id number xxxx they refunded me the whole amount after few weeks then took the money back from my account later they called me to offer me getting refund of half the money. i refused because i need a - whole refund. they did not help me get my refund back. the merchandise did not serve us with the service that i paid for. we went ahead of time to airport to check in they but our luggage out from the belt then say you can not go inside the plane later told us purchase another ticket with another airlines and call your credit card to get a refund. we asked for help to go with another trip or any other options they refused to help. they told us purchase another ticket and do refund from your banker which we did.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988328814506531
+}

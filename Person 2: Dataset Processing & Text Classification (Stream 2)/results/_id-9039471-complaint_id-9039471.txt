@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9039471,
+  "complaint_id": "9039471",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I received a letter from Bank of America ( BoA ) regarding a claim associated with my account ending in XXXX. This letter indicated that BoA was working on my claim and requested that I provide additional information to support my dispute within the next 10 days. The communication advised that while the claim was being researched, I was not required to pay any part of the disputed amount and should continue making payments on the remaining balance to avoid interest charges or late fees. \n\nHowever, the letter lacked critical details necessary to properly address my dispute, including : The specific claim number, which is essential for submitting further documentation. \nThe transaction date related to the disputed amount. \nThe merchant 's name involved in the transaction. \nThe amount in question for the disputed transaction. \nThese omissions have significantly hindered my ability to respond appropriately to the request for additional information.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20009",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, I received a letter from Bank of America ( BoA ) regarding a claim associated with my account ending in XXXX. This letter indicated that BoA was working on my claim and requested that I provide additional information to support my dispute within the next 10 days. The communication advised that while the claim was being researched, I was not required to pay any part of the disputed amount and should continue making payments on the remaining balance to avoid interest charges or late fees. \n\nHowever, the letter lacked critical details necessary to properly address my dispute, including : The specific claim number, which is essential for submitting further documentation. \nThe transaction date related to the disputed amount. \nThe merchant 's name involved in the transaction. \nThe amount in question for the disputed transaction. \nThese omissions have significantly hindered my ability to respond appropriately to the request for additional information."
+}
+
+Chunk:
+on xx / xx / year >, i received a letter from bank of america ( boa ) regarding a claim associated with my account ending in xxxx. this letter indicated that boa was working on my claim and requested that i provide additional information to support my dispute within the next 10 days. the communication advised that while the claim was being researched, i was not required to pay any part of the disputed amount and should continue making payments on the remaining balance to avoid interest charges or late fees. however, the letter lacked critical details necessary to properly address my dispute, including : the specific claim number, which is essential for submitting further documentation. the transaction date related to the disputed amount. the merchant's name involved in the transaction. the amount in question for the disputed transaction. these omissions have significantly hindered my ability to respond appropriately to the request for additional information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997321963310242
+}

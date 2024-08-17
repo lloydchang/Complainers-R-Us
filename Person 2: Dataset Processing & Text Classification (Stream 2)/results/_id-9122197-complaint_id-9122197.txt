@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9122197,
+  "complaint_id": "9122197",
+  "product": "Credit card",
+  "complaint_what_happened": "I discovered a Paypal Credit account on my credit report over 6 months ago that I did not open. I have called three times and spent over 3 hours on the phone trying to get the account closed. Each time I have assured it will be taken care of, and each time I receive a new statement with the balance transferred to a new account. I have a letter from XXXX bank dated as far back as XX/XX/XXXX stating they will close the account, and I received yet another statement dated and XX/XX/XXXX for {$5500.00}",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "852XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I discovered a Paypal Credit account on my credit report over 6 months ago that I did not open. I have called three times and spent over 3 hours on the phone trying to get the account closed. Each time I have assured it will be taken care of, and each time I receive a new statement with the balance transferred to a new account. I have a letter from XXXX bank dated as far back as XX/XX/XXXX stating they will close the account, and I received yet another statement dated and XX/XX/XXXX for {$5500.00}"
+}
+
+Chunk:
+i discovered a paypal credit account on my credit report over 6 months ago that i did not open. i have called three times and spent over 3 hours on the phone trying to get the account closed. each time i have assured it will be taken care of, and each time i receive a new statement with the balance transferred to a new account. i have a letter from xxxx bank dated as far back as xx / xx / xxxx stating they will close the account, and i received yet another statement dated and xx / xx / xxxx for { $ 5500. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991051554679871
+}

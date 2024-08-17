@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9336488,
+  "complaint_id": "9336488",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX XXXX, I noticed an unauthorized charge of {$980.00} on my Digital Federal Credit Union ( DCU ) credit card. Despite reporting the issue promptly and affirming that I did not authorize the transaction, DCU 's investigation concluded with a letter from XXXX XXXX XXXX claiming that the charge was deemed authorized. \n\nThis outcome perplexes me as I have had possession of my card and did not engage in the alleged transaction, which is purportedly linked to a XXXX XXXX flight purchase in XX/XX/XXXX. However, this claim is baseless as I did not travel nor make any such purchase. My attempts to obtain further information from DCU have been unsuccessful, leaving me unable to resolve this matter independently. \n\nOne peculiar aspect of this case is that the charge supposedly made in XX/XX/XXXX only appeared on my account on XX/XX/XXXX. This delay raises questions about the transaction 's validity and the thoroughness of the investigation. \n\nDCU 's lack of transparency and assistance has resulted in a significant financial burden for me. As a recent graduate from XXXXXXXX XXXX, I am certain of my whereabouts and financial activities during XX/XX/XXXX, a time when I was preoccupied with academic commitments and personal responsibilities, such as XXXX my mother 's car at XXXX XXXX on XX/XX/XXXX.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02125",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DIGITAL FEDERAL CREDIT UNION",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX XXXX, I noticed an unauthorized charge of {$980.00} on my Digital Federal Credit Union ( DCU ) credit card. Despite reporting the issue promptly and affirming that I did not authorize the transaction, DCU 's investigation concluded with a letter from XXXX XXXX XXXX claiming that the charge was deemed authorized. \n\nThis outcome perplexes me as I have had possession of my card and did not engage in the alleged transaction, which is purportedly linked to a XXXX XXXX flight purchase in XX/XX/XXXX. However, this claim is baseless as I did not travel nor make any such purchase. My attempts to obtain further information from DCU have been unsuccessful, leaving me unable to resolve this matter independently. \n\nOne peculiar aspect of this case is that the charge supposedly made in XX/XX/XXXX only appeared on my account on XX/XX/XXXX. This delay raises questions about the transaction 's validity and the thoroughness of the investigation. \n\nDCU 's lack of transparency and assistance has resulted in a significant financial burden for me. As a recent graduate from XXXXXXXX XXXX, I am certain of my whereabouts and financial activities during XX/XX/XXXX, a time when I was preoccupied with academic commitments and personal responsibilities, such as XXXX my mother 's car at XXXX XXXX on XX/XX/XXXX."
+}
+
+Chunk:
+in xxxx xxxx, i noticed an unauthorized charge of { $ 980. 00 } on my digital federal credit union ( dcu ) credit card. despite reporting the issue promptly and affirming that i did not authorize the transaction, dcu's investigation concluded with a letter from xxxx xxxx xxxx claiming that the charge was deemed authorized. this outcome perplexes me as i have had possession of my card and did not engage in the alleged transaction, which is purportedly linked to a xxxx xxxx flight purchase in xx / xx / xxxx. however, this claim is baseless as i did not travel nor make any such purchase. my attempts to obtain further information from dcu have been unsuccessful, leaving me unable to resolve this matter independently. one peculiar aspect of this case is that the charge supposedly made in xx / xx / xxxx only appeared on my account on xx / xx / xxxx. this delay raises questions about the transaction's validity and the thoroughness of the investigation. dcu's lack of transparency and assistance has resulted in a significant financial burden for me. as a recent graduate from xxxxxxxx xxxx, i am certain of my whereabouts and financial activities during xx / xx / xxxx, a time when i was preoccupied with academic commitments and personal responsibilities, such as xxxx my mother's car at xxxx xxxx on xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989330172538757
+}

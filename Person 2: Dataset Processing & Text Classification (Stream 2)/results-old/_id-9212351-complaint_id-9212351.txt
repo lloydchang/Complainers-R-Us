@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212351,
+  "complaint_id": "9212351",
+  "product": "Credit card",
+  "complaint_what_happened": "I got a Goldman Sachs/Apple Card . I had a {$4500.00} max spend limit. I used their 'Monthly Installment ' option and they charged me the full amount which put me over {$4500.00} limit. 1 ) what's the point of 'Monthly Installment ' feature when you are charged the full amount? Perhaps I am mistaken but they should have 'declined ' anything over my max spend limit of {$4500.00}. I do not consent to allow them to go above the agreed upon max. 2 ) look at my XXXX credit score in XXXX during this time- it PLUMMETED. Now I'm spending months trying to fix it. XXXX ) when I tried to correct it, Goldman Sach said to call Apple. Apple said to call Goldman Sachs. GOLDMAN SACHS SAID TO CALL APPLE. APPLE SAID TO CALL GOLDMAN SACHS- this has been my life. And now I don't even use the Apple XXXX XXXX and have been trying to return it since XXXX but XXXX will not accept it.",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "111XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I got a Goldman Sachs/Apple Card . I had a {$4500.00} max spend limit. I used their 'Monthly Installment ' option and they charged me the full amount which put me over {$4500.00} limit. 1 ) what's the point of 'Monthly Installment ' feature when you are charged the full amount? Perhaps I am mistaken but they should have 'declined ' anything over my max spend limit of {$4500.00}. I do not consent to allow them to go above the agreed upon max. 2 ) look at my XXXX credit score in XXXX during this time- it PLUMMETED. Now I'm spending months trying to fix it. XXXX ) when I tried to correct it, Goldman Sach said to call Apple. Apple said to call Goldman Sachs. GOLDMAN SACHS SAID TO CALL APPLE. APPLE SAID TO CALL GOLDMAN SACHS- this has been my life. And now I don't even use the Apple XXXX XXXX and have been trying to return it since XXXX but XXXX will not accept it."
+}
+
+Chunk:
+i got a goldman sachs / apple card. i had a { $ 4500. 00 } max spend limit. i used their'monthly installment'option and they charged me the full amount which put me over { $ 4500. 00 } limit. 1 ) what's the point of'monthly installment'feature when you are charged the full amount? perhaps i am mistaken but they should have'declined'anything over my max spend limit of { $ 4500. 00 }. i do not consent to allow them to go above the agreed upon max. 2 ) look at my xxxx credit score in xxxx during this time - it plummeted. now i'm spending months trying to fix it. xxxx ) when i tried to correct it, goldman sach said to call apple. apple said to call goldman sachs. goldman sachs said to call apple. apple said to call goldman sachs - this has been my life. and now i don't even use the apple xxxx xxxx and have been trying to return it since xxxx but xxxx will not accept it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996095299720764
+}

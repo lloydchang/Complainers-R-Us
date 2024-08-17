@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262503,
+  "complaint_id": "9262503",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a loyal customer of Chase Bank for over XXXX years. I had a checking account, and multiple credit cards with them. I always made my card payments on time, and never missed a payment. However, last week Chase closed my bank account, and canceled all my credit cards with NO NOTICE or explanation. Chase Bank did not make ANY attempt to notify me of this drastic action : no letter, no email, no phone call. I am still making timely payments to their cards, and being charged interest, without being allowed to use the cards. \n\nI found out that there was a problem when my credit cards were declined at a gas pump. I immediately contacted Chase Bank to find out why this happened. I have spoken to several people at my bank branch, including the bank manager. They were unable to tell me why it was happening to me. I also contacted people in other departments, and they were unable to give me an explanation for why they closed my bank account and canceled my credit cards. I have done NOTHING wrong! \n\nSince they closed all my credit accounts, my credit is now destroyed. I have been a loyal customer for XXXX  years! I am shocked that this is happening to me. Their action has quickly ruined my credit. In a few months, I need to apply for a new apartment, so this also affects my ability to find housing. \n\nChase Bank needs to be held accountable, and must reverse this decision, and give an explanation. Perhaps someone in their office made an error, as this makes no sense at all. As a banking institution, they should be trustworthy, and know how to do their job effectively. I am a hard-working member of society. I have a job, I have a XXXX, I pay my bills on time. Something needs to be done immediately to reverse this action. This is wrong, and not ethical. Chase Bank has destroyed my livelihood.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85022",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have been a loyal customer of Chase Bank for over XXXX years. I had a checking account, and multiple credit cards with them. I always made my card payments on time, and never missed a payment. However, last week Chase closed my bank account, and canceled all my credit cards with NO NOTICE or explanation. Chase Bank did not make ANY attempt to notify me of this drastic action : no letter, no email, no phone call. I am still making timely payments to their cards, and being charged interest, without being allowed to use the cards. \n\nI found out that there was a problem when my credit cards were declined at a gas pump. I immediately contacted Chase Bank to find out why this happened. I have spoken to several people at my bank branch, including the bank manager. They were unable to tell me why it was happening to me. I also contacted people in other departments, and they were unable to give me an explanation for why they closed my bank account and canceled my credit cards. I have done NOTHING wrong! \n\nSince they closed all my credit accounts, my credit is now destroyed. I have been a loyal customer for XXXX  years! I am shocked that this is happening to me. Their action has quickly ruined my credit. In a few months, I need to apply for a new apartment, so this also affects my ability to find housing. \n\nChase Bank needs to be held accountable, and must reverse this decision, and give an explanation. Perhaps someone in their office made an error, as this makes no sense at all. As a banking institution, they should be trustworthy, and know how to do their job effectively. I am a hard-working member of society. I have a job, I have a XXXX, I pay my bills on time. Something needs to be done immediately to reverse this action. This is wrong, and not ethical. Chase Bank has destroyed my livelihood."
+}
+
+Chunk:
+i have been a loyal customer of chase bank for over xxxx years. i had a checking account, and multiple credit cards with them. i always made my card payments on time, and never missed a payment. however, last week chase closed my bank account, and canceled all my credit cards with no notice or explanation. chase bank did not make any attempt to notify me of this drastic action : no letter, no email, no phone call. i am still making timely payments to their cards, and being charged interest, without being allowed to use the cards. i found out that there was a problem when my credit cards were declined at a gas pump. i immediately contacted chase bank to find out why this happened. i have spoken to several people at my bank branch, including the bank manager. they were unable to tell me why it was happening to me. i also contacted people in other departments, and they were unable to give me an explanation for why they closed my bank account and canceled my credit cards. i have done nothing wrong! since they closed all my credit accounts, my credit is now destroyed. i have been a loyal customer for xxxx years! i am shocked that this is happening to me. their action has quickly ruined my credit. in a few months, i need to apply for a new apartment, so this also affects my ability to find housing. chase bank needs to be held accountable, and must reverse this decision, and give an explanation. perhaps someone in their office made an error, as this makes no sense at all. as a banking institution, they should be trustworthy, and know how to do their job effectively. i am a hard - working member of society. i have a job, i have a xxxx, i pay my bills on time. something needs to be done immediately to reverse this action. this is wrong, and not ethical. chase bank has destroyed my livelihood.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990091323852539
+}

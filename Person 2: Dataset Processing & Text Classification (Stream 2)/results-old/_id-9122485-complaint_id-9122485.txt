@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9122485,
+  "complaint_id": "9122485",
+  "product": "Credit card",
+  "complaint_what_happened": "I consistently make payments punctually. I'm confident about this. However, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. According to XXXX XXXX, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60617",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I consistently make payments punctually. I'm confident about this. However, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. According to XXXX XXXX, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed."
+}
+
+Chunk:
+i consistently make payments punctually. i'm confident about this. however, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. according to xxxx xxxx, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9885176420211792
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9400468,
+  "complaint_id": "9400468",
+  "product": "Credit card",
+  "complaint_what_happened": "I was a XXXX XXXX customer and got a XXXX XXXX card to earn more cash-back rewards ( XXXX Dollars ). I used the XXXX card for various purposes and accumulated a significant amount of cash-back rewards. However, I stopped being a XXXX XXXX customer on XX/XX/year>. I believed that since the Visa card was issued by Synchrony Bank, I could still use it and continue earning rewards, as no one from XXXX XXXX or Synchrony Bank mentioned otherwise. \n\nSo, I kept using the card and earning rewards. Recently, when I tried to use the XXXX Dollars I had collected, I was informed that I could not use them and that there was nothing I could do about it. I requested they explore other options to use the rewards, and I was told that I must have a XXXX XXXX account to use XXXX Dollars. So, I got a new line with XXXX, but I still couldn't use the XXXX Dollars I had accumulated for over a year. \n\nWhen I contacted customer care services, I was bounced back and forth between Synchrony Bank and XXXX. Each kept telling me to call the other company. Finally, XXXX representative told me that I needed to sync my XXXX card to my XXXX XXXX account through Synchrony Bank, but the representative there said they could not do it. As a result, I was told I wouldn't be able to claim my hard-earned cash-back rewards ( XXXX Dollars ) at all.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "718XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I was a XXXX XXXX customer and got a XXXX XXXX card to earn more cash-back rewards ( XXXX Dollars ). I used the XXXX card for various purposes and accumulated a significant amount of cash-back rewards. However, I stopped being a XXXX XXXX customer on XX/XX/year>. I believed that since the Visa card was issued by Synchrony Bank, I could still use it and continue earning rewards, as no one from XXXX XXXX or Synchrony Bank mentioned otherwise. \n\nSo, I kept using the card and earning rewards. Recently, when I tried to use the XXXX Dollars I had collected, I was informed that I could not use them and that there was nothing I could do about it. I requested they explore other options to use the rewards, and I was told that I must have a XXXX XXXX account to use XXXX Dollars. So, I got a new line with XXXX, but I still couldn't use the XXXX Dollars I had accumulated for over a year. \n\nWhen I contacted customer care services, I was bounced back and forth between Synchrony Bank and XXXX. Each kept telling me to call the other company. Finally, XXXX representative told me that I needed to sync my XXXX card to my XXXX XXXX account through Synchrony Bank, but the representative there said they could not do it. As a result, I was told I wouldn't be able to claim my hard-earned cash-back rewards ( XXXX Dollars ) at all."
+}
+
+Chunk:
+i was a xxxx xxxx customer and got a xxxx xxxx card to earn more cash - back rewards ( xxxx dollars ). i used the xxxx card for various purposes and accumulated a significant amount of cash - back rewards. however, i stopped being a xxxx xxxx customer on xx / xx / year >. i believed that since the visa card was issued by synchrony bank, i could still use it and continue earning rewards, as no one from xxxx xxxx or synchrony bank mentioned otherwise. so, i kept using the card and earning rewards. recently, when i tried to use the xxxx dollars i had collected, i was informed that i could not use them and that there was nothing i could do about it. i requested they explore other options to use the rewards, and i was told that i must have a xxxx xxxx account to use xxxx dollars. so, i got a new line with xxxx, but i still couldn't use the xxxx dollars i had accumulated for over a year. when i contacted customer care services, i was bounced back and forth between synchrony bank and xxxx. each kept telling me to call the other company. finally, xxxx representative told me that i needed to sync my xxxx card to my xxxx xxxx account through synchrony bank, but the representative there said they could not do it. as a result, i was told i wouldn't be able to claim my hard - earned cash - back rewards ( xxxx dollars ) at all.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994264841079712
+}

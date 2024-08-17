@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9495585,
+  "complaint_id": "9495585",
+  "product": "Credit card",
+  "complaint_what_happened": "I called City Bank on XX/XX/year> and spoke to them on the condition if I made a large payment paying off my card if they would credit me XXXX  months of interest charged which equalled about {$1300.00}. The agent said she was only able to go back XXXX months and would credit me if I was paying off the card at this time, which is how we got to that amount. I then made a payment on this agreement for {$25000.00} over the phone that would be the balance after the adjustment for the XXXX months as agreed. She informed me it could take XXXX days for the adjustment to process which was fine. About a week later I received a letter by mail stating they were not going to give me the credits as they original agreed to while taking a payment. I then called and asked to speak to a manager who said that they decided not to approve that, they said they would help file a complaint. It has now been an additional XXXX weeks. I made the payment in good faith based on the agreement their employee made with me and then took my payment. I would like to Citi XXXX it's promise it made while they accepted money on that pretense.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97045",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I called City Bank on XX/XX/year> and spoke to them on the condition if I made a large payment paying off my card if they would credit me XXXX  months of interest charged which equalled about {$1300.00}. The agent said she was only able to go back XXXX months and would credit me if I was paying off the card at this time, which is how we got to that amount. I then made a payment on this agreement for {$25000.00} over the phone that would be the balance after the adjustment for the XXXX months as agreed. She informed me it could take XXXX days for the adjustment to process which was fine. About a week later I received a letter by mail stating they were not going to give me the credits as they original agreed to while taking a payment. I then called and asked to speak to a manager who said that they decided not to approve that, they said they would help file a complaint. It has now been an additional XXXX weeks. I made the payment in good faith based on the agreement their employee made with me and then took my payment. I would like to Citi XXXX it's promise it made while they accepted money on that pretense."
+}
+
+Chunk:
+i called city bank on xx / xx / year > and spoke to them on the condition if i made a large payment paying off my card if they would credit me xxxx months of interest charged which equalled about { $ 1300. 00 }. the agent said she was only able to go back xxxx months and would credit me if i was paying off the card at this time, which is how we got to that amount. i then made a payment on this agreement for { $ 25000. 00 } over the phone that would be the balance after the adjustment for the xxxx months as agreed. she informed me it could take xxxx days for the adjustment to process which was fine. about a week later i received a letter by mail stating they were not going to give me the credits as they original agreed to while taking a payment. i then called and asked to speak to a manager who said that they decided not to approve that, they said they would help file a complaint. it has now been an additional xxxx weeks. i made the payment in good faith based on the agreement their employee made with me and then took my payment. i would like to citi xxxx it's promise it made while they accepted money on that pretense.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9957119226455688
+}

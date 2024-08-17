@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554681,
+  "complaint_id": "9554681",
+  "product": "Credit card",
+  "complaint_what_happened": "I've had the card over a year. Payments never late, always pay a bit over what's due, no issues. Citi pulls my credit report and after every payment, they lower my limit to the balance due. It was lowered twice just in this past week, even though everything is current and I've had no issues. They lower based on pulling your credit report and not your history with them. Then they have no customer service to address it and you're told you have to wait for a letter that only states it's based on your credit report. They are doing business based on what could possibly happen, not on your customer history. Very unfair business practice. Why even give the card if you aren't allowed to use it to build history?",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28269",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I've had the card over a year. Payments never late, always pay a bit over what's due, no issues. Citi pulls my credit report and after every payment, they lower my limit to the balance due. It was lowered twice just in this past week, even though everything is current and I've had no issues. They lower based on pulling your credit report and not your history with them. Then they have no customer service to address it and you're told you have to wait for a letter that only states it's based on your credit report. They are doing business based on what could possibly happen, not on your customer history. Very unfair business practice. Why even give the card if you aren't allowed to use it to build history?"
+}
+
+Chunk:
+i've had the card over a year. payments never late, always pay a bit over what's due, no issues. citi pulls my credit report and after every payment, they lower my limit to the balance due. it was lowered twice just in this past week, even though everything is current and i've had no issues. they lower based on pulling your credit report and not your history with them. then they have no customer service to address it and you're told you have to wait for a letter that only states it's based on your credit report. they are doing business based on what could possibly happen, not on your customer history. very unfair business practice. why even give the card if you aren't allowed to use it to build history?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995917677879333
+}

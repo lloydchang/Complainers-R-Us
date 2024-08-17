@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042578,
+  "complaint_id": "9042578",
+  "product": "Credit card",
+  "complaint_what_happened": "Re : Claim # - {$190.00} USD/ XXXX MXD The referenced claim was declined on XXXX occasions for reason of We requested, but didnt receive from you, a copy of the sales receipt or other documentation indicating the merchant charged the incorrect amount. \nI first uploaded the requested information to BofA at the end of XX/XX/XXXX. I received a decline letter, called the claims center and was informed they never received the additional information that I uploaded. I was instructed to resend the documentation and since I had little confidence in their internal processes for handling additional incoming claim information, I went to a Fed XXXX location, paid for the faxing service so that I could supply proof of transmission that I had in fact provided the information requested. This fax was transmitted to # XXXX on XX/XX/XXXX. I have the confirmation report if needed. \nAs illustrated on page XXXX, the last entry shows Refund Dispersion, however my B of A credit card was never credited for the {$190.00} refund due. \nI feel that no work was done to investigate my claim and that the claims department simply waited until the claim \" aged out '' and denied it a XXXX time. \nThanking you in advance for your assistance in resolving this dispute.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94598",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Re : Claim # - {$190.00} USD/ XXXX MXD The referenced claim was declined on XXXX occasions for reason of We requested, but didnt receive from you, a copy of the sales receipt or other documentation indicating the merchant charged the incorrect amount. \nI first uploaded the requested information to BofA at the end of XX/XX/XXXX. I received a decline letter, called the claims center and was informed they never received the additional information that I uploaded. I was instructed to resend the documentation and since I had little confidence in their internal processes for handling additional incoming claim information, I went to a Fed XXXX location, paid for the faxing service so that I could supply proof of transmission that I had in fact provided the information requested. This fax was transmitted to # XXXX on XX/XX/XXXX. I have the confirmation report if needed. \nAs illustrated on page XXXX, the last entry shows Refund Dispersion, however my B of A credit card was never credited for the {$190.00} refund due. \nI feel that no work was done to investigate my claim and that the claims department simply waited until the claim \" aged out '' and denied it a XXXX time. \nThanking you in advance for your assistance in resolving this dispute."
+}
+
+Chunk:
+re : claim # - { $ 190. 00 } usd / xxxx mxd the referenced claim was declined on xxxx occasions for reason of we requested, but didnt receive from you, a copy of the sales receipt or other documentation indicating the merchant charged the incorrect amount. i first uploaded the requested information to bofa at the end of xx / xx / xxxx. i received a decline letter, called the claims center and was informed they never received the additional information that i uploaded. i was instructed to resend the documentation and since i had little confidence in their internal processes for handling additional incoming claim information, i went to a fed xxxx location, paid for the faxing service so that i could supply proof of transmission that i had in fact provided the information requested. this fax was transmitted to # xxxx on xx / xx / xxxx. i have the confirmation report if needed. as illustrated on page xxxx, the last entry shows refund dispersion, however my b of a credit card was never credited for the { $ 190. 00 } refund due. i feel that no work was done to investigate my claim and that the claims department simply waited until the claim " aged out'' and denied it a xxxx time. thanking you in advance for your assistance in resolving this dispute.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996190071105957
+}

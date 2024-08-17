@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064243,
+  "complaint_id": "9064243",
+  "product": "Credit card",
+  "complaint_what_happened": "I order - from Home Depot online - {$290.00} worth of baseboard. \n\nThe delivery charge was {$35.00} Order was canceled within a short amount of time because local store did not have what I ordered. \n\nHowever, when called - I was told it would take up to 5 DAYS for refund to show up.\n\nthat is ridiculous this is HOME DEPOT. \n\nThink how much $ in interest they make off of these types of transactions!!! \n\nMy credit card company said transaction was pending so I couldn't cancel it until there was a dispute.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75087",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I order - from Home Depot online - {$290.00} worth of baseboard. \n\nThe delivery charge was {$35.00} Order was canceled within a short amount of time because local store did not have what I ordered. \n\nHowever, when called - I was told it would take up to 5 DAYS for refund to show up.\n\nthat is ridiculous this is HOME DEPOT. \n\nThink how much $ in interest they make off of these types of transactions!!! \n\nMy credit card company said transaction was pending so I couldn't cancel it until there was a dispute."
+}
+
+Chunk:
+i order - from home depot online - { $ 290. 00 } worth of baseboard. the delivery charge was { $ 35. 00 } order was canceled within a short amount of time because local store did not have what i ordered. however, when called - i was told it would take up to 5 days for refund to show up. that is ridiculous this is home depot. think how much $ in interest they make off of these types of transactions!!! my credit card company said transaction was pending so i couldn't cancel it until there was a dispute.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995372295379639
+}

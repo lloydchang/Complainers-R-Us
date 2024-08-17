@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9453353,
+  "complaint_id": "9453353",
+  "product": "Credit card",
+  "complaint_what_happened": "My husband requested a balance transfer from his XXXXXXXX XXXX  Card to our Citibank Credit Card in the amount of {$4000.00} on XX/XX/XXXX. This was reflected in both credit card statements. Then a second balance transfer was made on XX/XX/XXXX for the same amount of {$4000.00}. I don't know how this happened but it was also reflected on both statements. It put his XXXX account over the credit limit and created a negative balance ( credit ) on the Citibank account. \n\nI wanted to fix this and asked both banks to help reverse the transaction. XXXX credited the {$200.00} fee for the second balance transfer on XX/XX/XXXX. Citibank posted a transaction on XX/XX/XXXX, \" REVERSE PAYMENT POSTED IN ERROR '' for {$4000.00}. The problem is they took it out of the Citibank account and did not send it back to XXXX or us. They just took the money. \n\nMy husband has contacted Citibank 5 times without any results.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "030XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "My husband requested a balance transfer from his XXXXXXXX XXXX  Card to our Citibank Credit Card in the amount of {$4000.00} on XX/XX/XXXX. This was reflected in both credit card statements. Then a second balance transfer was made on XX/XX/XXXX for the same amount of {$4000.00}. I don't know how this happened but it was also reflected on both statements. It put his XXXX account over the credit limit and created a negative balance ( credit ) on the Citibank account. \n\nI wanted to fix this and asked both banks to help reverse the transaction. XXXX credited the {$200.00} fee for the second balance transfer on XX/XX/XXXX. Citibank posted a transaction on XX/XX/XXXX, \" REVERSE PAYMENT POSTED IN ERROR '' for {$4000.00}. The problem is they took it out of the Citibank account and did not send it back to XXXX or us. They just took the money. \n\nMy husband has contacted Citibank 5 times without any results."
+}
+
+Chunk:
+my husband requested a balance transfer from his xxxxxxxx xxxx card to our citibank credit card in the amount of { $ 4000. 00 } on xx / xx / xxxx. this was reflected in both credit card statements. then a second balance transfer was made on xx / xx / xxxx for the same amount of { $ 4000. 00 }. i don't know how this happened but it was also reflected on both statements. it put his xxxx account over the credit limit and created a negative balance ( credit ) on the citibank account. i wanted to fix this and asked both banks to help reverse the transaction. xxxx credited the { $ 200. 00 } fee for the second balance transfer on xx / xx / xxxx. citibank posted a transaction on xx / xx / xxxx, " reverse payment posted in error'' for { $ 4000. 00 }. the problem is they took it out of the citibank account and did not send it back to xxxx or us. they just took the money. my husband has contacted citibank 5 times without any results.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970546960830688
+}

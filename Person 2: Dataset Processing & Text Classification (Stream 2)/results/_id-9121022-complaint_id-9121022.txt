@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9121022,
+  "complaint_id": "9121022",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One opened a credit card in my name without my knowledge or consent. I reported this to Capital One. I also several times asked Capital One to give me any information that they might have that would help me to find out how this credit card was applied for and who might have fraudulently opened this card in my name. They have not done so. I have not received any follow ups from Capital One. I was asked to send documentation proving my identity and a letter asking for more information. Twice I was given the wrong fax number to send it to by Capital One representatives. I had to speak to a supervisor and spent almost an hour on the phone to get the supervisor to cooperate with me to help locate the documents I sent in and get them to the right department. Now the supervisor told me the right department should be able to process my request and will be in touch. But he would not tell me when that would happen. Or if it would happen via telephone or mail.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33009",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Capital One opened a credit card in my name without my knowledge or consent. I reported this to Capital One. I also several times asked Capital One to give me any information that they might have that would help me to find out how this credit card was applied for and who might have fraudulently opened this card in my name. They have not done so. I have not received any follow ups from Capital One. I was asked to send documentation proving my identity and a letter asking for more information. Twice I was given the wrong fax number to send it to by Capital One representatives. I had to speak to a supervisor and spent almost an hour on the phone to get the supervisor to cooperate with me to help locate the documents I sent in and get them to the right department. Now the supervisor told me the right department should be able to process my request and will be in touch. But he would not tell me when that would happen. Or if it would happen via telephone or mail."
+}
+
+Chunk:
+capital one opened a credit card in my name without my knowledge or consent. i reported this to capital one. i also several times asked capital one to give me any information that they might have that would help me to find out how this credit card was applied for and who might have fraudulently opened this card in my name. they have not done so. i have not received any follow ups from capital one. i was asked to send documentation proving my identity and a letter asking for more information. twice i was given the wrong fax number to send it to by capital one representatives. i had to speak to a supervisor and spent almost an hour on the phone to get the supervisor to cooperate with me to help locate the documents i sent in and get them to the right department. now the supervisor told me the right department should be able to process my request and will be in touch. but he would not tell me when that would happen. or if it would happen via telephone or mail.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982097148895264
+}

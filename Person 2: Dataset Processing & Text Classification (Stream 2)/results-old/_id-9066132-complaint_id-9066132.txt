@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9066132,
+  "complaint_id": "9066132",
+  "product": "Credit card",
+  "complaint_what_happened": "Hi, I opened a card with CareCredit and was approved for XXXX. \n\nMy credit limit was XXXX until XXXX \n\nOn XXXX statement, the credit limit was changed to {$810.00} without notice. \n\nWithout any missed payments or any notices, they lowered my credit limit. \n\nThis is a deceptive practice they are continuing to do for many consumers and needs to be investigated",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60053",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Hi, I opened a card with CareCredit and was approved for XXXX. \n\nMy credit limit was XXXX until XXXX \n\nOn XXXX statement, the credit limit was changed to {$810.00} without notice. \n\nWithout any missed payments or any notices, they lowered my credit limit. \n\nThis is a deceptive practice they are continuing to do for many consumers and needs to be investigated"
+}
+
+Chunk:
+hi, i opened a card with carecredit and was approved for xxxx. my credit limit was xxxx until xxxx on xxxx statement, the credit limit was changed to { $ 810. 00 } without notice. without any missed payments or any notices, they lowered my credit limit. this is a deceptive practice they are continuing to do for many consumers and needs to be investigated
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9715731143951416
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038634,
+  "complaint_id": "9038634",
+  "product": "Credit card",
+  "complaint_what_happened": "In accordance with the fair credit reporting act this creditor had violated my rights under 15 USC 1681 section 6 O 2 states I have the right to privacy. 15 USC 1681eecrion 6 0 4 a section 2 it also states a consumer agency connot furnish an account without my written instructions. Under section USCS 1666b a creditor may not treat a payment on a credit card account under an open end as late for any purpose",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85381",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Report provided to employer without your written authorization",
+  "text": "In accordance with the fair credit reporting act this creditor had violated my rights under 15 USC 1681 section 6 O 2 states I have the right to privacy. 15 USC 1681eecrion 6 0 4 a section 2 it also states a consumer agency connot furnish an account without my written instructions. Under section USCS 1666b a creditor may not treat a payment on a credit card account under an open end as late for any purpose"
+}
+
+Chunk:
+in accordance with the fair credit reporting act this creditor had violated my rights under 15 usc 1681 section 6 o 2 states i have the right to privacy. 15 usc 1681eecrion 6 0 4 a section 2 it also states a consumer agency connot furnish an account without my written instructions. under section uscs 1666b a creditor may not treat a payment on a credit card account under an open end as late for any purpose
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9944334626197815
+}

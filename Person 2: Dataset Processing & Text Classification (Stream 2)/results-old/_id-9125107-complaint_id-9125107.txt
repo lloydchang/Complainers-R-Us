@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125107,
+  "complaint_id": "9125107",
+  "product": "Credit card",
+  "complaint_what_happened": "American Express mails me unsolicited credit card applications several times a week.. I've tried to opt out but they refuse to remove me from their mailers.. I just to spoke to a supervisor and would not remove me from mailers as of today XXXX",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "American Express mails me unsolicited credit card applications several times a week.. I've tried to opt out but they refuse to remove me from their mailers.. I just to spoke to a supervisor and would not remove me from mailers as of today XXXX"
+}
+
+Chunk:
+american express mails me unsolicited credit card applications several times a week.. i've tried to opt out but they refuse to remove me from their mailers.. i just to spoke to a supervisor and would not remove me from mailers as of today xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9312129020690918
+}

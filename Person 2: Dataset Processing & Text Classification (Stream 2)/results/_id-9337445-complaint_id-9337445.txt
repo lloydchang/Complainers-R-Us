@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9337445,
+  "complaint_id": "9337445",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a purchase with order # XXXX which included the XXXX XXXX XXXX XXXX ( XXXX  ) phone, XXXX XXXX XXXX XXXX XXXX XXXX in XXXX, XXXX XXXX XXXX in XXXX, and the XXXX XXXX XXXX XXXX XXXX XXXX. I also sent in my XXXX XXXX, which XXXX valued at {$650.00}. However, after a few weeks of using the new XXXX XXXX XXXX, my XXXX XXXX stopped connecting and I received a notification. I contacted XXXX through email, text, and phone to inform them that I had purchased the new XXXX XXXX XXXX in XX/XX/XXXX to replace my XXXX XXXX. I had XXXX XXXX XXXX watches that were connected to the XXXX XXXX and had been purchased around XXXX. XXXX unexpectedly sent an update that discontinued support for the XXXX watches with phones purchased after XXXX, even though they had been paired and connected to the XXXX XXXX just the week before. This is similar to the issue with the XXXX XXXX XXXX XXXX, which also lost support only a few years after its release. XXXX sells expensive accessories but fails to adequately inform customers before discontinuing support for them. I do not recommend XXXX products due to their high cost and lack of notice before discontinuing accessories. XXXX should provide a XXXX notice before ending support for accessories, giving consumers time to make informed decisions. I was not aware of any time limits to return the phone due to XXXXXXXX XXXX failure to inform customers about the update that caused the accessories to stop working. When I called XXXX, they informed me that I could only return the phone for a refund, even though the window for returning all the items had already expired. I contacted Ally and informed them of what XXXX had told me. Ally sent a letter dated XXXX XXXX stating it would post a credit pending the dispute which would appear on my next billing cycle which was XXXX XXXX. The credit did not appear and when I called Ally the representative told me the dispute was dismissed on XXXX XXXX told the representative that I did not receive notice and if I could escalate this or appeal this the representative gave me a fax number that was busy after several attempts to fax so I sent Ally a secure message through its app. I ask why and was told because I did not return the phone I said in order to return the phone I must receive from XXXX a RETURN MERCHANDISE AUTHORIZATION NUMBER which I had not received. Ally has not protected my interest.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "275XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I made a purchase with order # XXXX which included the XXXX XXXX XXXX XXXX ( XXXX  ) phone, XXXX XXXX XXXX XXXX XXXX XXXX in XXXX, XXXX XXXX XXXX in XXXX, and the XXXX XXXX XXXX XXXX XXXX XXXX. I also sent in my XXXX XXXX, which XXXX valued at {$650.00}. However, after a few weeks of using the new XXXX XXXX XXXX, my XXXX XXXX stopped connecting and I received a notification. I contacted XXXX through email, text, and phone to inform them that I had purchased the new XXXX XXXX XXXX in XX/XX/XXXX to replace my XXXX XXXX. I had XXXX XXXX XXXX watches that were connected to the XXXX XXXX and had been purchased around XXXX. XXXX unexpectedly sent an update that discontinued support for the XXXX watches with phones purchased after XXXX, even though they had been paired and connected to the XXXX XXXX just the week before. This is similar to the issue with the XXXX XXXX XXXX XXXX, which also lost support only a few years after its release. XXXX sells expensive accessories but fails to adequately inform customers before discontinuing support for them. I do not recommend XXXX products due to their high cost and lack of notice before discontinuing accessories. XXXX should provide a XXXX notice before ending support for accessories, giving consumers time to make informed decisions. I was not aware of any time limits to return the phone due to XXXXXXXX XXXX failure to inform customers about the update that caused the accessories to stop working. When I called XXXX, they informed me that I could only return the phone for a refund, even though the window for returning all the items had already expired. I contacted Ally and informed them of what XXXX had told me. Ally sent a letter dated XXXX XXXX stating it would post a credit pending the dispute which would appear on my next billing cycle which was XXXX XXXX. The credit did not appear and when I called Ally the representative told me the dispute was dismissed on XXXX XXXX told the representative that I did not receive notice and if I could escalate this or appeal this the representative gave me a fax number that was busy after several attempts to fax so I sent Ally a secure message through its app. I ask why and was told because I did not return the phone I said in order to return the phone I must receive from XXXX a RETURN MERCHANDISE AUTHORIZATION NUMBER which I had not received. Ally has not protected my interest."
+}
+
+Chunk:
+was told because i did not return the phone i said in order to return the phone i must receive from xxxx a return merchandise authorization number which i had not received. ally has not protected my interest.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990676045417786
+}

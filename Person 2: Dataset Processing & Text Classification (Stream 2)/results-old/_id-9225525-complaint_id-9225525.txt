@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9225525,
+  "complaint_id": "9225525",
+  "product": "Credit card",
+  "complaint_what_happened": "A dispute was escalated to the Company ( Citibank ) since a merchant failed to perform according to his own resolutions described as follows : XXXX ) Refund the Customer for a damaged item shipped to the Customer for the amount of {$240.00} and XXXX ) pay to return back to the Merchant the damaged item shipped to Customer. \n\nThe Company ( Citibank ) grossly disregarded all the notices from the Merchant indicated above ( provided here as attachments ) that were submitted by Customer as main evidence to support his dispute case and resolved against the Customer charging the customer {$240.00} for a damaged item shipped by the Merchant.\n\nThe action of the Companys ( Citibank ) Dispute Department are simply too obviously suspicious as to make any reasonable person to believe there are corrupt employees receiving kickbacks from vendors to overlook the evidence provided by customers and rule against them.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "00956",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "A dispute was escalated to the Company ( Citibank ) since a merchant failed to perform according to his own resolutions described as follows : XXXX ) Refund the Customer for a damaged item shipped to the Customer for the amount of {$240.00} and XXXX ) pay to return back to the Merchant the damaged item shipped to Customer. \n\nThe Company ( Citibank ) grossly disregarded all the notices from the Merchant indicated above ( provided here as attachments ) that were submitted by Customer as main evidence to support his dispute case and resolved against the Customer charging the customer {$240.00} for a damaged item shipped by the Merchant.\n\nThe action of the Companys ( Citibank ) Dispute Department are simply too obviously suspicious as to make any reasonable person to believe there are corrupt employees receiving kickbacks from vendors to overlook the evidence provided by customers and rule against them."
+}
+
+Chunk:
+a dispute was escalated to the company ( citibank ) since a merchant failed to perform according to his own resolutions described as follows : xxxx ) refund the customer for a damaged item shipped to the customer for the amount of { $ 240. 00 } and xxxx ) pay to return back to the merchant the damaged item shipped to customer. the company ( citibank ) grossly disregarded all the notices from the merchant indicated above ( provided here as attachments ) that were submitted by customer as main evidence to support his dispute case and resolved against the customer charging the customer { $ 240. 00 } for a damaged item shipped by the merchant. the action of the companys ( citibank ) dispute department are simply too obviously suspicious as to make any reasonable person to believe there are corrupt employees receiving kickbacks from vendors to overlook the evidence provided by customers and rule against them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999606192111969
+}

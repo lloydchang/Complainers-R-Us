@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211176,
+  "complaint_id": "9211176",
+  "product": "Credit card",
+  "complaint_what_happened": "I currently have a charge account at Best Buy here in XXXX, TX. An old account number was replaced by a new number. As a result some of the payments that I made via my online XXXX XXXX XXXX account was made to the account that was supposed to be closed. As a result confusion started. Basically, I have only charged XXXX item to the account in the last XXXX to XXXX  months. It seems that they are charging me for items that I have not received. Over the course of 18 months the company has made XXXX refunds to me due to my overpayment. On around XX/XX/XXXX for {$280.00} and another around XX/XX/XXXX. Most of the time I call the Company to solve the problem i get different people who say different things concerning my account. On XXXX XX/XX/XXXX I wrote a letter with payment info on it in an attempt to resolve the problem to no avail. it appears to me that I have paid more than enough to cover what I am responsible for. I just want clarity and transparency on my account. XXXX attachments made.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "77088",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I currently have a charge account at Best Buy here in XXXX, TX. An old account number was replaced by a new number. As a result some of the payments that I made via my online XXXX XXXX XXXX account was made to the account that was supposed to be closed. As a result confusion started. Basically, I have only charged XXXX item to the account in the last XXXX to XXXX  months. It seems that they are charging me for items that I have not received. Over the course of 18 months the company has made XXXX refunds to me due to my overpayment. On around XX/XX/XXXX for {$280.00} and another around XX/XX/XXXX. Most of the time I call the Company to solve the problem i get different people who say different things concerning my account. On XXXX XX/XX/XXXX I wrote a letter with payment info on it in an attempt to resolve the problem to no avail. it appears to me that I have paid more than enough to cover what I am responsible for. I just want clarity and transparency on my account. XXXX attachments made."
+}
+
+Chunk:
+i currently have a charge account at best buy here in xxxx, tx. an old account number was replaced by a new number. as a result some of the payments that i made via my online xxxx xxxx xxxx account was made to the account that was supposed to be closed. as a result confusion started. basically, i have only charged xxxx item to the account in the last xxxx to xxxx months. it seems that they are charging me for items that i have not received. over the course of 18 months the company has made xxxx refunds to me due to my overpayment. on around xx / xx / xxxx for { $ 280. 00 } and another around xx / xx / xxxx. most of the time i call the company to solve the problem i get different people who say different things concerning my account. on xxxx xx / xx / xxxx i wrote a letter with payment info on it in an attempt to resolve the problem to no avail. it appears to me that i have paid more than enough to cover what i am responsible for. i just want clarity and transparency on my account. xxxx attachments made.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971126317977905
+}

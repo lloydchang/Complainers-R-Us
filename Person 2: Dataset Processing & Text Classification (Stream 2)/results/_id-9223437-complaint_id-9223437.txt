@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9223437,
+  "complaint_id": "9223437",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Credit Card with Bank of America : The Card Number is XXXX XXXX XXXX XXXX, that i always pay on time, 2 months ago i tried to use the card to put gas in my car, the transaction was cancel, when i call bank of america about that subject, they told me that they blocked the card because they proof that i am a citizen. I sent to them : My Social Security, Passport, Tax Return, what ever they asked me, they never call me back i have to call them every day no concret answer, Finally on XX/XX/year>, Bank Of America, sent me a letter to tell me that, they are sorry, they can't reopen my account because, i have too many accounts open. I called them, to explain that i '' m a good customer, never late on my payments, they told me that the decission is Final. now they keep charging me fees and Minimum payment. i call Bank of America to advise them, that i dont have a job now, they told me that is my problem, that i have to pay the fees. please i need help to stop that.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33069",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "I have a Credit Card with Bank of America : The Card Number is XXXX XXXX XXXX XXXX, that i always pay on time, 2 months ago i tried to use the card to put gas in my car, the transaction was cancel, when i call bank of america about that subject, they told me that they blocked the card because they proof that i am a citizen. I sent to them : My Social Security, Passport, Tax Return, what ever they asked me, they never call me back i have to call them every day no concret answer, Finally on XX/XX/year>, Bank Of America, sent me a letter to tell me that, they are sorry, they can't reopen my account because, i have too many accounts open. I called them, to explain that i '' m a good customer, never late on my payments, they told me that the decission is Final. now they keep charging me fees and Minimum payment. i call Bank of America to advise them, that i dont have a job now, they told me that is my problem, that i have to pay the fees. please i need help to stop that."
+}
+
+Chunk:
+i have a credit card with bank of america : the card number is xxxx xxxx xxxx xxxx, that i always pay on time, 2 months ago i tried to use the card to put gas in my car, the transaction was cancel, when i call bank of america about that subject, they told me that they blocked the card because they proof that i am a citizen. i sent to them : my social security, passport, tax return, what ever they asked me, they never call me back i have to call them every day no concret answer, finally on xx / xx / year >, bank of america, sent me a letter to tell me that, they are sorry, they can't reopen my account because, i have too many accounts open. i called them, to explain that i'' m a good customer, never late on my payments, they told me that the decission is final. now they keep charging me fees and minimum payment. i call bank of america to advise them, that i dont have a job now, they told me that is my problem, that i have to pay the fees. please i need help to stop that.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990686774253845
+}

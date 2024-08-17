@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9407304,
+  "complaint_id": "9407304",
+  "product": "Credit card",
+  "complaint_what_happened": "Police Report ( Case # XXXX ) and FTC Identity Theft Affidavit ( Reference # XXXX ) are attached. \n\nFrom the filed police report : I had a laptop bag containing a personal laptop, cell phone, and wallet stolen at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, XXXX, WA XXXX ) on Thursday ( XX/XX/year> ). Subsequently, I noticed a fraudulent charge of {$5000.00} from a merchant named XXXX on Tuesday ( XX/XX/year> ). After the incident, I was forced to purchase a new laptop and cell phone and obtain a new cell phone number, in addition to replacing critical personal documents ( Driver 's license, debit/credit cards ). Additionally, I received a highly suspicious XXXX invoice for the purchase of an equivalent amount of XXXX ( XXXX XXXX USD Equivalent {$5000.00} ). As a result of the fraudulent charge of {$5000.00} on my XXXX ending XXXX, I filed a fraud claim with Bank of America ( XXXX # : XXXX ). \n\nReporting agency XXXX Police Department XXXX XXXX XXXX XXXX, WA XXXX Ph : XXXX",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06516",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Police Report ( Case # XXXX ) and FTC Identity Theft Affidavit ( Reference # XXXX ) are attached. \n\nFrom the filed police report : I had a laptop bag containing a personal laptop, cell phone, and wallet stolen at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, XXXX, WA XXXX ) on Thursday ( XX/XX/year> ). Subsequently, I noticed a fraudulent charge of {$5000.00} from a merchant named XXXX on Tuesday ( XX/XX/year> ). After the incident, I was forced to purchase a new laptop and cell phone and obtain a new cell phone number, in addition to replacing critical personal documents ( Driver 's license, debit/credit cards ). Additionally, I received a highly suspicious XXXX invoice for the purchase of an equivalent amount of XXXX ( XXXX XXXX USD Equivalent {$5000.00} ). As a result of the fraudulent charge of {$5000.00} on my XXXX ending XXXX, I filed a fraud claim with Bank of America ( XXXX # : XXXX ). \n\nReporting agency XXXX Police Department XXXX XXXX XXXX XXXX, WA XXXX Ph : XXXX"
+}
+
+Chunk:
+police report ( case # xxxx ) and ftc identity theft affidavit ( reference # xxxx ) are attached. from the filed police report : i had a laptop bag containing a personal laptop, cell phone, and wallet stolen at xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx, xxxx, wa xxxx ) on thursday ( xx / xx / year > ). subsequently, i noticed a fraudulent charge of { $ 5000. 00 } from a merchant named xxxx on tuesday ( xx / xx / year > ). after the incident, i was forced to purchase a new laptop and cell phone and obtain a new cell phone number, in addition to replacing critical personal documents ( driver's license, debit / credit cards ). additionally, i received a highly suspicious xxxx invoice for the purchase of an equivalent amount of xxxx ( xxxx xxxx usd equivalent { $ 5000. 00 } ). as a result of the fraudulent charge of { $ 5000. 00 } on my xxxx ending xxxx, i filed a fraud claim with bank of america ( xxxx # : xxxx ). reporting agency xxxx police department xxxx xxxx xxxx xxxx, wa xxxx ph : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983736276626587
+}

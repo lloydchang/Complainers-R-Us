@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9161346,
+  "complaint_id": "9161346",
+  "product": "Credit card",
+  "complaint_what_happened": "I requested to change my payment due date to the XXXX  week of the month, I requested the XXXX or XXXX of each month. The representative over the phone informed me that this change can only happen once a year so it's very important to pick the correct date, I told him I would like the XXXX or XXXX of each month. When I logged into my account the following month I noticed that my due date was changed to the XXXX, this is not what I requested nor authorized. When I called Target XXXX XXXX XXXX customer service to inform them of the mistake they told me there was nothing they can do to fix their mistake. The changes made to my account is not what I authorized, I do not want a due date the first week of the month and they refuse to correct my account. I have already tried to fix this directly with Target Mastercard on XX/XX/XXXX ( as soon as I noticed the discrepancy ) my reference number is XXXX, I still have not gotten a response nor has my account been corrected. I attached XXXX statements showing the old due date as the XXXX and the new date as the XXXX.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "923XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I requested to change my payment due date to the XXXX  week of the month, I requested the XXXX or XXXX of each month. The representative over the phone informed me that this change can only happen once a year so it's very important to pick the correct date, I told him I would like the XXXX or XXXX of each month. When I logged into my account the following month I noticed that my due date was changed to the XXXX, this is not what I requested nor authorized. When I called Target XXXX XXXX XXXX customer service to inform them of the mistake they told me there was nothing they can do to fix their mistake. The changes made to my account is not what I authorized, I do not want a due date the first week of the month and they refuse to correct my account. I have already tried to fix this directly with Target Mastercard on XX/XX/XXXX ( as soon as I noticed the discrepancy ) my reference number is XXXX, I still have not gotten a response nor has my account been corrected. I attached XXXX statements showing the old due date as the XXXX and the new date as the XXXX."
+}
+
+Chunk:
+i requested to change my payment due date to the xxxx week of the month, i requested the xxxx or xxxx of each month. the representative over the phone informed me that this change can only happen once a year so it's very important to pick the correct date, i told him i would like the xxxx or xxxx of each month. when i logged into my account the following month i noticed that my due date was changed to the xxxx, this is not what i requested nor authorized. when i called target xxxx xxxx xxxx customer service to inform them of the mistake they told me there was nothing they can do to fix their mistake. the changes made to my account is not what i authorized, i do not want a due date the first week of the month and they refuse to correct my account. i have already tried to fix this directly with target mastercard on xx / xx / xxxx ( as soon as i noticed the discrepancy ) my reference number is xxxx, i still have not gotten a response nor has my account been corrected. i attached xxxx statements showing the old due date as the xxxx and the new date as the xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996229410171509
+}

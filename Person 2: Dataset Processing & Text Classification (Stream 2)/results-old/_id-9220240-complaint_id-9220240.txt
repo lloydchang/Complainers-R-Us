@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9220240,
+  "complaint_id": "9220240",
+  "product": "Credit card",
+  "complaint_what_happened": "This is with PayPal SYNCB/PAYP ending in XXXX. PayPal credit Ive had this account for years and this may be the 3rd time using it. I made a purchase with QVC to be billed on my Pay Pal account to be paid within 6 months. I also had some makeup on that same account. \nXXXX XXXX {$790.00} QVC XXXX. XXXX. \nTotal PayPal. XXXX ( Should have been XXXX ) XX/XX/XXXX Paid {$260.00} XXXX XXXX XXXX XXXX XXXX XXXXXXXX QVC XXXX XXXX XXXX XX/XX/XXXX Paid XXXX conf # XXXX. \nXX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX {$120.00} At this point I called customer service to ask what my balance was, XXXX told me O balance. I questioned her and she told me that was correct. I called a week later another rep told me {$33.00}. I knew that wasnt right so I called again a few days later, that rep told me {$150.00}. I tried speaking to a supervisor to no avail. They would put you on hold for 10-15 minutes then it would drop the call.\n\nI called QVC they told me I was paid in full and owed them nothing. Can you see how this got out of hand? I was more than willing to pay my bill but it seemed so deceptive that no one at PayPal had the same answer it felt smarmy. To this day I have no idea and they're just adding interest to my bill but have no real interest in solving the issue.\n\nThe other issue with PayPal is on their credit letter to me they say you have 6 months to pay but when speaking to XXXX they say NO its only 5 months. These credit card companies think the consumer is so XXXX. I had to end it there because no XXXX, XXXX or XXXX answers at PayPal were the same. \nOf course they are now acting like Im delinquent and hurting my credit score. Ive been at XXXX for most of my adulthood, now XXXX down to XXXX.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "151XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "This is with PayPal SYNCB/PAYP ending in XXXX. PayPal credit Ive had this account for years and this may be the 3rd time using it. I made a purchase with QVC to be billed on my Pay Pal account to be paid within 6 months. I also had some makeup on that same account. \nXXXX XXXX {$790.00} QVC XXXX. XXXX. \nTotal PayPal. XXXX ( Should have been XXXX ) XX/XX/XXXX Paid {$260.00} XXXX XXXX XXXX XXXX XXXX XXXXXXXX QVC XXXX XXXX XXXX XX/XX/XXXX Paid XXXX conf # XXXX. \nXX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX {$120.00} At this point I called customer service to ask what my balance was, XXXX told me O balance. I questioned her and she told me that was correct. I called a week later another rep told me {$33.00}. I knew that wasnt right so I called again a few days later, that rep told me {$150.00}. I tried speaking to a supervisor to no avail. They would put you on hold for 10-15 minutes then it would drop the call.\n\nI called QVC they told me I was paid in full and owed them nothing. Can you see how this got out of hand? I was more than willing to pay my bill but it seemed so deceptive that no one at PayPal had the same answer it felt smarmy. To this day I have no idea and they're just adding interest to my bill but have no real interest in solving the issue.\n\nThe other issue with PayPal is on their credit letter to me they say you have 6 months to pay but when speaking to XXXX they say NO its only 5 months. These credit card companies think the consumer is so XXXX. I had to end it there because no XXXX, XXXX or XXXX answers at PayPal were the same. \nOf course they are now acting like Im delinquent and hurting my credit score. Ive been at XXXX for most of my adulthood, now XXXX down to XXXX."
+}
+
+Chunk:
+this is with paypal syncb / payp ending in xxxx. paypal credit ive had this account for years and this may be the 3rd time using it. i made a purchase with qvc to be billed on my pay pal account to be paid within 6 months. i also had some makeup on that same account. xxxx xxxx { $ 790. 00 } qvc xxxx. xxxx. total paypal. xxxx ( should have been xxxx ) xx / xx / xxxx paid { $ 260. 00 } xxxx xxxx xxxx xxxx xxxx xxxxxxxx qvc xxxx xxxx xxxx xx / xx / xxxx paid xxxx conf # xxxx. xx / xx / xxxxxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxxxxxx { $ 120. 00 } at this point i called customer service to ask what my balance was, xxxx told me o balance. i questioned her and she told me that was correct. i called a week later another rep told me { $ 33. 00 }. i knew that wasnt right so i called again a few days later, that rep told me { $ 150. 00 }. i tried speaking to a supervisor to no avail. they would put you on hold for 10 - 15 minutes then it would drop the call. i called qvc they told me i was paid in full and owed them nothing. can you see how this got out of hand? i was more than willing to pay my bill but it seemed so deceptive that no one at paypal had the same answer it felt smarmy. to this day i have no idea and they're just adding interest to my bill but have no real interest in solving the issue. the other issue with paypal is on their credit letter to me they say you have 6 months to pay but when speaking to xxxx they say no its only 5 months. these credit card companies think the consumer is so xxxx. i had to end it there because no xxxx, xxxx or xxxx answers at paypal were the same. of course they are now acting like im delinquent and hurting my credit score. ive been at xxxx for most of my adulthood, now xxxx down to xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993752837181091
+}

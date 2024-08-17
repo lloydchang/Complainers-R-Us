@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9240475,
+  "complaint_id": "9240475",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX I was fraudulently billed XXXX. I thought I was talking to XXXX about flight changes needing to make a new flight plan. The person told me I would be refunded my original flight but would be billed XXXX. It was fraud since they did not refund me any money and did not provided me a new flight, but charged me. I called capital, the credit card that I used, as soon as I realized it was a scam, which was a within a few days. They created a dispute. The merchant that committed fraud gave capital one a doctored receipt. I explained that is not real and that Ive already payed for my flight originally with XXXX and I did not sign nor agree or get anything they said in that receipt, that the flight they claimed they booked, I booked through XXXX. I called capital one many times to see how I could resolve this and spoke to many managers- they told me I needed a cancellation to show they didnt provide anything. I told them if they followed up with XXXX, it would show that XXXX booked the flight, but they told me I need to show that the flight was cancelled. I provided receipts from XXXX and my correspondence from XXXX all corroborating that the charge of XXXX was fraud. It was extremely frustrating since all of capital one providers and managers that I spoke to were off shore and kept giving me what felt like the run around and robotic statements it kept going on with me providing receipts and correspondence until they told me that the time to resolve this has expired. The experience with capital one, that alone was horrible, so many hours waiting, talking to people who didnt understand what I was explaining and writing so many letters.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01760",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX I was fraudulently billed XXXX. I thought I was talking to XXXX about flight changes needing to make a new flight plan. The person told me I would be refunded my original flight but would be billed XXXX. It was fraud since they did not refund me any money and did not provided me a new flight, but charged me. I called capital, the credit card that I used, as soon as I realized it was a scam, which was a within a few days. They created a dispute. The merchant that committed fraud gave capital one a doctored receipt. I explained that is not real and that Ive already payed for my flight originally with XXXX and I did not sign nor agree or get anything they said in that receipt, that the flight they claimed they booked, I booked through XXXX. I called capital one many times to see how I could resolve this and spoke to many managers- they told me I needed a cancellation to show they didnt provide anything. I told them if they followed up with XXXX, it would show that XXXX booked the flight, but they told me I need to show that the flight was cancelled. I provided receipts from XXXX and my correspondence from XXXX all corroborating that the charge of XXXX was fraud. It was extremely frustrating since all of capital one providers and managers that I spoke to were off shore and kept giving me what felt like the run around and robotic statements it kept going on with me providing receipts and correspondence until they told me that the time to resolve this has expired. The experience with capital one, that alone was horrible, so many hours waiting, talking to people who didnt understand what I was explaining and writing so many letters."
+}
+
+Chunk:
+xxxx i was fraudulently billed xxxx. i thought i was talking to xxxx about flight changes needing to make a new flight plan. the person told me i would be refunded my original flight but would be billed xxxx. it was fraud since they did not refund me any money and did not provided me a new flight, but charged me. i called capital, the credit card that i used, as soon as i realized it was a scam, which was a within a few days. they created a dispute. the merchant that committed fraud gave capital one a doctored receipt. i explained that is not real and that ive already payed for my flight originally with xxxx and i did not sign nor agree or get anything they said in that receipt, that the flight they claimed they booked, i booked through xxxx. i called capital one many times to see how i could resolve this and spoke to many managers - they told me i needed a cancellation to show they didnt provide anything. i told them if they followed up with xxxx, it would show that xxxx booked the flight, but they told me i need to show that the flight was cancelled. i provided receipts from xxxx and my correspondence from xxxx all corroborating that the charge of xxxx was fraud. it was extremely frustrating since all of capital one providers and managers that i spoke to were off shore and kept giving me what felt like the run around and robotic statements it kept going on with me providing receipts and correspondence until they told me that the time to resolve this has expired. the experience with capital one, that alone was horrible, so many hours waiting, talking to people who didnt understand what i was explaining and writing so many letters.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996429681777954
+}

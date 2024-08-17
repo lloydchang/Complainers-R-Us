@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071849,
+  "complaint_id": "9071849",
+  "product": "Credit card",
+  "complaint_what_happened": "I have already made a complaint and the company responded with how my payments were applied to my account. The matter was closed. The whole point is how they say my payments were applied and it does not match up to my statements and nobody looked at my uploaded statements before closing the matter. I provided more detailed information with my response to COMPLAINT ID XXXX SUBMITTED ON XX/XX/year>",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60634",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I have already made a complaint and the company responded with how my payments were applied to my account. The matter was closed. The whole point is how they say my payments were applied and it does not match up to my statements and nobody looked at my uploaded statements before closing the matter. I provided more detailed information with my response to COMPLAINT ID XXXX SUBMITTED ON XX/XX/year>"
+}
+
+Chunk:
+i have already made a complaint and the company responded with how my payments were applied to my account. the matter was closed. the whole point is how they say my payments were applied and it does not match up to my statements and nobody looked at my uploaded statements before closing the matter. i provided more detailed information with my response to complaint id xxxx submitted on xx / xx / year >
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994377493858337
+}

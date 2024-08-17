@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037606,
+  "complaint_id": "9037606",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit Card for CitiBank N.A. acct # XXXX XXXX XXXX XXXX was sold to XXXX XXXX XXXX XXXXXXXX due to me filing Bankruptcy XXXX I have requested Statements for XXXX, XXXXXXXX XXXX XXXX XXXX XXXX and both companies will not help with request.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "760XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "My credit Card for CitiBank N.A. acct # XXXX XXXX XXXX XXXX was sold to XXXX XXXX XXXX XXXXXXXX due to me filing Bankruptcy XXXX I have requested Statements for XXXX, XXXXXXXX XXXX XXXX XXXX XXXX and both companies will not help with request."
+}
+
+Chunk:
+my credit card for citibank n. a. acct # xxxx xxxx xxxx xxxx was sold to xxxx xxxx xxxx xxxxxxxx due to me filing bankruptcy xxxx i have requested statements for xxxx, xxxxxxxx xxxx xxxx xxxx xxxx and both companies will not help with request.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986445307731628
+}

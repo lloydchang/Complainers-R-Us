@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9506107,
+  "complaint_id": "9506107",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a notification that a hard inquiry showed up on my credit report. I contacted Barclays bank Delaware to ask them about this. I have no knowledge and did not authorize anybody to apply for anything with my Social Security number and personal information. I called to speak to Barclays Bank Delaware on XX/XX/year> at about XXXX on a recorded line. I would like this removed off of my report being that I did not authorize or apply for any type of financial product. The company told me they had an application on file under my name and social security number but with a different address and phone number. The company confirmed it would report the application as fraudulent and deny it. They also said this should remove the hard inquiry from my credit account.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "62704",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Privacy issues",
+  "text": "I received a notification that a hard inquiry showed up on my credit report. I contacted Barclays bank Delaware to ask them about this. I have no knowledge and did not authorize anybody to apply for anything with my Social Security number and personal information. I called to speak to Barclays Bank Delaware on XX/XX/year> at about XXXX on a recorded line. I would like this removed off of my report being that I did not authorize or apply for any type of financial product. The company told me they had an application on file under my name and social security number but with a different address and phone number. The company confirmed it would report the application as fraudulent and deny it. They also said this should remove the hard inquiry from my credit account."
+}
+
+Chunk:
+i received a notification that a hard inquiry showed up on my credit report. i contacted barclays bank delaware to ask them about this. i have no knowledge and did not authorize anybody to apply for anything with my social security number and personal information. i called to speak to barclays bank delaware on xx / xx / year > at about xxxx on a recorded line. i would like this removed off of my report being that i did not authorize or apply for any type of financial product. the company told me they had an application on file under my name and social security number but with a different address and phone number. the company confirmed it would report the application as fraudulent and deny it. they also said this should remove the hard inquiry from my credit account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992356300354004
+}

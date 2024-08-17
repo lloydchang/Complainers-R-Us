@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037775,
+  "complaint_id": "9037775",
+  "product": "Credit card",
+  "complaint_what_happened": "I have several store credit cards that are serviced through this one bank. Recently the bank stated that they would be charging for the monthly paper statements. I called them to change to an electronic statement, and they said I had to go online myself to do it.\n\nI feel that they should be able to handle this change over the phone without me going online. I depend upon the mailed statement to show all account activity.in one glance. They are charging a fee for the paper statement. I feel that they are making it harder for the consumer to see their accounts. They are also creating a problem with the payments process. It makes it easier for the consumer to be late with the payment, and when they are, they will be charged a late fee. This whole situation could be eliminated by providing the previously free paper statement. These banks are great at coming up with ways to charge the consumer new fees. Thanks for your time and your help. Respectfully, XXXX",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "06492",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I have several store credit cards that are serviced through this one bank. Recently the bank stated that they would be charging for the monthly paper statements. I called them to change to an electronic statement, and they said I had to go online myself to do it.\n\nI feel that they should be able to handle this change over the phone without me going online. I depend upon the mailed statement to show all account activity.in one glance. They are charging a fee for the paper statement. I feel that they are making it harder for the consumer to see their accounts. They are also creating a problem with the payments process. It makes it easier for the consumer to be late with the payment, and when they are, they will be charged a late fee. This whole situation could be eliminated by providing the previously free paper statement. These banks are great at coming up with ways to charge the consumer new fees. Thanks for your time and your help. Respectfully, XXXX"
+}
+
+Chunk:
+i have several store credit cards that are serviced through this one bank. recently the bank stated that they would be charging for the monthly paper statements. i called them to change to an electronic statement, and they said i had to go online myself to do it. i feel that they should be able to handle this change over the phone without me going online. i depend upon the mailed statement to show all account activity. in one glance. they are charging a fee for the paper statement. i feel that they are making it harder for the consumer to see their accounts. they are also creating a problem with the payments process. it makes it easier for the consumer to be late with the payment, and when they are, they will be charged a late fee. this whole situation could be eliminated by providing the previously free paper statement. these banks are great at coming up with ways to charge the consumer new fees. thanks for your time and your help. respectfully, xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969865679740906
+}

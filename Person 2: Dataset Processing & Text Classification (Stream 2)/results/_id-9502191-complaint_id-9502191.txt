@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9502191,
+  "complaint_id": "9502191",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I signed for a transaction ( XXXX ) at the local Best Buy Store in XXXX, XXXX. On XX/XX/XXXX there was another charge of XXXX referencing the same transaction number. I disputed this on the statement and was told I was responsible for the charges. No other explanation. When I called to get an explanation I was told that I was not initially charged enough so they added in the extra. I renewed my dispute and which was instantly dismissed that I owed the charges. When I disputed this with the XXXX  i was told that I was not charged tax in the initial transaction and the extra charge was for tax. However, the XXXX  complaint ( XXXX ) did not allow me due process to rebut the explanation from Best Buy. When the transaction on XX/XX/XXXX was completed that issue is closed, a business does not simply \" decide '' to charge more to a customer. And with my using a credit card that is under their control they refuse to remove the charge. This is theft. Their decision to call this \" tax '' that they are required to collect? This tax was collected on XX/XX/XXXX. I signed for the transaction on XX/XX/XXXX. I did not sign for the transaction on XX/XX/XXXX.",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "37128",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "On XX/XX/XXXX I signed for a transaction ( XXXX ) at the local Best Buy Store in XXXX, XXXX. On XX/XX/XXXX there was another charge of XXXX referencing the same transaction number. I disputed this on the statement and was told I was responsible for the charges. No other explanation. When I called to get an explanation I was told that I was not initially charged enough so they added in the extra. I renewed my dispute and which was instantly dismissed that I owed the charges. When I disputed this with the XXXX  i was told that I was not charged tax in the initial transaction and the extra charge was for tax. However, the XXXX  complaint ( XXXX ) did not allow me due process to rebut the explanation from Best Buy. When the transaction on XX/XX/XXXX was completed that issue is closed, a business does not simply \" decide '' to charge more to a customer. And with my using a credit card that is under their control they refuse to remove the charge. This is theft. Their decision to call this \" tax '' that they are required to collect? This tax was collected on XX/XX/XXXX. I signed for the transaction on XX/XX/XXXX. I did not sign for the transaction on XX/XX/XXXX."
+}
+
+Chunk:
+on xx / xx / xxxx i signed for a transaction ( xxxx ) at the local best buy store in xxxx, xxxx. on xx / xx / xxxx there was another charge of xxxx referencing the same transaction number. i disputed this on the statement and was told i was responsible for the charges. no other explanation. when i called to get an explanation i was told that i was not initially charged enough so they added in the extra. i renewed my dispute and which was instantly dismissed that i owed the charges. when i disputed this with the xxxx i was told that i was not charged tax in the initial transaction and the extra charge was for tax. however, the xxxx complaint ( xxxx ) did not allow me due process to rebut the explanation from best buy. when the transaction on xx / xx / xxxx was completed that issue is closed, a business does not simply " decide'' to charge more to a customer. and with my using a credit card that is under their control they refuse to remove the charge. this is theft. their decision to call this " tax'' that they are required to collect? this tax was collected on xx / xx / xxxx. i signed for the transaction on xx / xx / xxxx. i did not sign for the transaction on xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986853003501892
+}

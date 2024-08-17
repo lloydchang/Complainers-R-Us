@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9108754,
+  "complaint_id": "9108754",
+  "product": "Credit card",
+  "complaint_what_happened": "Date from letter from Synchrony Bank XX/XX/2024 Billing Statement from XX/XX/2024 Account ending in XXXX I have had an account with Synchrony for almost 3 Months. We elected to use no -- interest on the XXXX XXXX bed purchase. We paid over $ XXXX dollars on our first payment. Then we waited for the second invoice to come in. We did not receive it until we got a late notice. I called an explained to the service center that it is difficult to pay for something when you don't receive the invoice as I pay by check. I was advised to pay on XXXX line. I told the service center that I did not want to pay on-line. They charged me {$30.00} for a late fee. \n\nI am not responsible for the post office, and I have no control over Synchrony Bank if and when they send the next invoice to me. This is just a ploy to extract money out of people. I paid over $ XXXX on the next payment as I have the means to pay. This is not ethical as I am paying the purchase and I have paid a lot over the minimum ( {$280.00} is my minimum and I am paying over {$1000.00} each time I send a check to them ). This is not consumer protection as I did not do anything wrong. I am almost ready to pay off the entire bill but I have no rights once it is paid off. Please keep this company honest.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Date from letter from Synchrony Bank XX/XX/2024 Billing Statement from XX/XX/2024 Account ending in XXXX I have had an account with Synchrony for almost 3 Months. We elected to use no -- interest on the XXXX XXXX bed purchase. We paid over $ XXXX dollars on our first payment. Then we waited for the second invoice to come in. We did not receive it until we got a late notice. I called an explained to the service center that it is difficult to pay for something when you don't receive the invoice as I pay by check. I was advised to pay on XXXX line. I told the service center that I did not want to pay on-line. They charged me {$30.00} for a late fee. \n\nI am not responsible for the post office, and I have no control over Synchrony Bank if and when they send the next invoice to me. This is just a ploy to extract money out of people. I paid over $ XXXX on the next payment as I have the means to pay. This is not ethical as I am paying the purchase and I have paid a lot over the minimum ( {$280.00} is my minimum and I am paying over {$1000.00} each time I send a check to them ). This is not consumer protection as I did not do anything wrong. I am almost ready to pay off the entire bill but I have no rights once it is paid off. Please keep this company honest."
+}
+
+Chunk:
+date from letter from synchrony bank xx / xx / 2024 billing statement from xx / xx / 2024 account ending in xxxx i have had an account with synchrony for almost 3 months. we elected to use no - - interest on the xxxx xxxx bed purchase. we paid over $ xxxx dollars on our first payment. then we waited for the second invoice to come in. we did not receive it until we got a late notice. i called an explained to the service center that it is difficult to pay for something when you don't receive the invoice as i pay by check. i was advised to pay on xxxx line. i told the service center that i did not want to pay on - line. they charged me { $ 30. 00 } for a late fee. i am not responsible for the post office, and i have no control over synchrony bank if and when they send the next invoice to me. this is just a ploy to extract money out of people. i paid over $ xxxx on the next payment as i have the means to pay. this is not ethical as i am paying the purchase and i have paid a lot over the minimum ( { $ 280. 00 } is my minimum and i am paying over { $ 1000. 00 } each time i send a check to them ). this is not consumer protection as i did not do anything wrong. i am almost ready to pay off the entire bill but i have no rights once it is paid off. please keep this company honest.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997812032699585
+}

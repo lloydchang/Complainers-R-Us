@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9293408,
+  "complaint_id": "9293408",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a purchase at Best Buy with my Citi Bank card on XX/XX/XXXX for {$1900.00}. I set up automatic payments for the minimum due every month, besides I make bigger payments, and I requested Citi Bank to allocate them to my promotion. None of my payments last year were applied that way, and when I called Citi Bank, they said it was too late, after that they supposed to enroll me in a plan where any excess after the minimum would be applied to the promo. It didnt happen. This year alone I had made {$1700.00} in payments besides the minimum payment due every month and Citi Bank refuses to allocate them to my promo, they say its too late, but Ive been calling them over and over for the same issue. Promo expires XX/XX/XXXX and according to them I still owe {$980.00}",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90640",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I made a purchase at Best Buy with my Citi Bank card on XX/XX/XXXX for {$1900.00}. I set up automatic payments for the minimum due every month, besides I make bigger payments, and I requested Citi Bank to allocate them to my promotion. None of my payments last year were applied that way, and when I called Citi Bank, they said it was too late, after that they supposed to enroll me in a plan where any excess after the minimum would be applied to the promo. It didnt happen. This year alone I had made {$1700.00} in payments besides the minimum payment due every month and Citi Bank refuses to allocate them to my promo, they say its too late, but Ive been calling them over and over for the same issue. Promo expires XX/XX/XXXX and according to them I still owe {$980.00}"
+}
+
+Chunk:
+i made a purchase at best buy with my citi bank card on xx / xx / xxxx for { $ 1900. 00 }. i set up automatic payments for the minimum due every month, besides i make bigger payments, and i requested citi bank to allocate them to my promotion. none of my payments last year were applied that way, and when i called citi bank, they said it was too late, after that they supposed to enroll me in a plan where any excess after the minimum would be applied to the promo. it didnt happen. this year alone i had made { $ 1700. 00 } in payments besides the minimum payment due every month and citi bank refuses to allocate them to my promo, they say its too late, but ive been calling them over and over for the same issue. promo expires xx / xx / xxxx and according to them i still owe { $ 980. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985449314117432
+}

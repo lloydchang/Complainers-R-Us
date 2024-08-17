@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9403269,
+  "complaint_id": "9403269",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Prosper Credit Card and never once missed a payment ; however, the card was practically rendered useless as they would restrict the card every single month to review 'potential fraud '. I have called them multiple times, but when they refused a charge for a copay for my doctor and my car insurance, stating their policies prohibit charges from doctor 's offices and similar vendors, especially while I was undergoing flare-ups of a medical condition, I had it. I tried talking to XXXX different people at Prosper Services, and upon finding out they chose to block charges to medical providers, given my condition, this is, to me, blatant medical discrimination. I have met my obligations and never missed a payment, but I'm subjected to discrimination and the refusal of them to pay charges when I only used perhaps a quarter of the limit of the card, which is {$1500.00}. \n\nI felt diminished. I am working a full-time job, pursuing my MSW, and it was utterly cruel to dehumanize me by refusing to pay ongoing medical charges and copays. And what's more, they were clear on this over the phone. It was blatant. While health care providers can refuse to take credit cards, credit card companies can not refuse to pay medical providers if their customers are paying the bill at the end of the month. \n\nI paid off the card and closed it today XX/XX/year>. I can not hold a card where the company participates in medical discrimination. I am very concerned about other customers of this company that they are marginalized and disenfranchised.",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "945XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-07-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I opened a Prosper Credit Card and never once missed a payment ; however, the card was practically rendered useless as they would restrict the card every single month to review 'potential fraud '. I have called them multiple times, but when they refused a charge for a copay for my doctor and my car insurance, stating their policies prohibit charges from doctor 's offices and similar vendors, especially while I was undergoing flare-ups of a medical condition, I had it. I tried talking to XXXX different people at Prosper Services, and upon finding out they chose to block charges to medical providers, given my condition, this is, to me, blatant medical discrimination. I have met my obligations and never missed a payment, but I'm subjected to discrimination and the refusal of them to pay charges when I only used perhaps a quarter of the limit of the card, which is {$1500.00}. \n\nI felt diminished. I am working a full-time job, pursuing my MSW, and it was utterly cruel to dehumanize me by refusing to pay ongoing medical charges and copays. And what's more, they were clear on this over the phone. It was blatant. While health care providers can refuse to take credit cards, credit card companies can not refuse to pay medical providers if their customers are paying the bill at the end of the month. \n\nI paid off the card and closed it today XX/XX/year>. I can not hold a card where the company participates in medical discrimination. I am very concerned about other customers of this company that they are marginalized and disenfranchised."
+}
+
+Chunk:
+i opened a prosper credit card and never once missed a payment ; however, the card was practically rendered useless as they would restrict the card every single month to review'potential fraud '. i have called them multiple times, but when they refused a charge for a copay for my doctor and my car insurance, stating their policies prohibit charges from doctor's offices and similar vendors, especially while i was undergoing flare - ups of a medical condition, i had it. i tried talking to xxxx different people at prosper services, and upon finding out they chose to block charges to medical providers, given my condition, this is, to me, blatant medical discrimination. i have met my obligations and never missed a payment, but i'm subjected to discrimination and the refusal of them to pay charges when i only used perhaps a quarter of the limit of the card, which is { $ 1500. 00 }. i felt diminished. i am working a full - time job, pursuing my msw, and it was utterly cruel to dehumanize me by refusing to pay ongoing medical charges and copays. and what's more, they were clear on this over the phone. it was blatant. while health care providers can refuse to take credit cards, credit card companies can not refuse to pay medical providers if their customers are paying the bill at the end of the month. i paid off the card and closed it today xx / xx / year >. i can not hold a card where the company participates in medical discrimination. i am very concerned about other customers of this company that they are marginalized and disenfranchised.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9802395701408386
+}

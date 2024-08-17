@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064855,
+  "complaint_id": "9064855",
+  "product": "Credit card",
+  "complaint_what_happened": "I attempted to purchase a washer and dryer from XXXX online in XXXX of 2024. Long story short, the dryer delivered did not work, so I refused delivery. The dryer was taken back with the understanding that a new dryer would be delivered. The new dryer was never delivered and I was told days later that the washer and dryer should have been returned together. At this point I told them to come get the washer, which had not been used, and to cancel the entire order. They came and took the washer the next day. In XXXX of 2024 I get a report that I have a bill 30 days delinquent from XXXX, which is the company that provides financing for XXXX. I explained this to them and was given the run around despite every operator confirming that my account did indeed show that the items had been returned/refused. They also did not seem to understand that they needed to report this error to the credit agencies as this had caused my credit score to drop XXXX points. So I lodged a complaint with the XXXX  on or around XX/XX/year>. This prompted XXXX XXXX an Executive Case Manager | Executive Escalations Support Group | eCommerce | XXXX XXXX XXXX to contact me promising to fix the issue as he could see that the items had indeed been returned/refused. \nToday, XX/XX/XXXX, I received an email asking me to confirm that I no longer had the items. After 15 days, that is the email response I get? Meanwhile, my credit score continues to drop and there has been no mention or attempt to mitigate the issue with the credit reporting agencies. I did open a dispute with the credit reporting agencies but have heard nothing back as of now.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "Store credit card",
+  "zip_code": "22407",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account information incorrect",
+  "text": "I attempted to purchase a washer and dryer from XXXX online in XXXX of 2024. Long story short, the dryer delivered did not work, so I refused delivery. The dryer was taken back with the understanding that a new dryer would be delivered. The new dryer was never delivered and I was told days later that the washer and dryer should have been returned together. At this point I told them to come get the washer, which had not been used, and to cancel the entire order. They came and took the washer the next day. In XXXX of 2024 I get a report that I have a bill 30 days delinquent from XXXX, which is the company that provides financing for XXXX. I explained this to them and was given the run around despite every operator confirming that my account did indeed show that the items had been returned/refused. They also did not seem to understand that they needed to report this error to the credit agencies as this had caused my credit score to drop XXXX points. So I lodged a complaint with the XXXX  on or around XX/XX/year>. This prompted XXXX XXXX an Executive Case Manager | Executive Escalations Support Group | eCommerce | XXXX XXXX XXXX to contact me promising to fix the issue as he could see that the items had indeed been returned/refused. \nToday, XX/XX/XXXX, I received an email asking me to confirm that I no longer had the items. After 15 days, that is the email response I get? Meanwhile, my credit score continues to drop and there has been no mention or attempt to mitigate the issue with the credit reporting agencies. I did open a dispute with the credit reporting agencies but have heard nothing back as of now."
+}
+
+Chunk:
+i attempted to purchase a washer and dryer from xxxx online in xxxx of 2024. long story short, the dryer delivered did not work, so i refused delivery. the dryer was taken back with the understanding that a new dryer would be delivered. the new dryer was never delivered and i was told days later that the washer and dryer should have been returned together. at this point i told them to come get the washer, which had not been used, and to cancel the entire order. they came and took the washer the next day. in xxxx of 2024 i get a report that i have a bill 30 days delinquent from xxxx, which is the company that provides financing for xxxx. i explained this to them and was given the run around despite every operator confirming that my account did indeed show that the items had been returned / refused. they also did not seem to understand that they needed to report this error to the credit agencies as this had caused my credit score to drop xxxx points. so i lodged a complaint with the xxxx on or around xx / xx / year >. this prompted xxxx xxxx an executive case manager | executive escalations support group | ecommerce | xxxx xxxx xxxx to contact me promising to fix the issue as he could see that the items had indeed been returned / refused. today, xx / xx / xxxx, i received an email asking me to confirm that i no longer had the items. after 15 days, that is the email response i get? meanwhile, my credit score continues to drop and there has been no mention or attempt to mitigate the issue with the credit reporting agencies. i did open a dispute with the credit reporting agencies but have heard nothing back as of now.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999568521976471
+}

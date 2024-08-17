@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068018,
+  "complaint_id": "9068018",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a credit card from the company Prosper over 3 years ago which was paid and closed with no balance. \nI have been a current victim of identity theft for the last several months and just received a letter from this company Prosper claiming I have an outstanding balance of {$910.00} and that it has been charged off and sent to collections. \nThe card I did have with them had a credit limit of {$500.00} and as I previously have said, it was paid in full and closed. \nThis one I am sending a complaint about is not mine it has been either reopened or another card with the same company was opened fraudulently without my consent and knowledge and used. \n\nXXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "143XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I had a credit card from the company Prosper over 3 years ago which was paid and closed with no balance. \nI have been a current victim of identity theft for the last several months and just received a letter from this company Prosper claiming I have an outstanding balance of {$910.00} and that it has been charged off and sent to collections. \nThe card I did have with them had a credit limit of {$500.00} and as I previously have said, it was paid in full and closed. \nThis one I am sending a complaint about is not mine it has been either reopened or another card with the same company was opened fraudulently without my consent and knowledge and used. \n\nXXXX XXXX XXXX"
+}
+
+Chunk:
+i had a credit card from the company prosper over 3 years ago which was paid and closed with no balance. i have been a current victim of identity theft for the last several months and just received a letter from this company prosper claiming i have an outstanding balance of { $ 910. 00 } and that it has been charged off and sent to collections. the card i did have with them had a credit limit of { $ 500. 00 } and as i previously have said, it was paid in full and closed. this one i am sending a complaint about is not mine it has been either reopened or another card with the same company was opened fraudulently without my consent and knowledge and used. xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990699887275696
+}

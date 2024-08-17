@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9593514,
+  "complaint_id": "9593514",
+  "product": "Credit card",
+  "complaint_what_happened": "This account has inaccurate reporting. The company has failed to properly investigate. These accounts do not belong to me. If not resolved, I will sue for damages.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30152",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account information incorrect",
+  "text": "This account has inaccurate reporting. The company has failed to properly investigate. These accounts do not belong to me. If not resolved, I will sue for damages."
+}
+
+Chunk:
+this account has inaccurate reporting. the company has failed to properly investigate. these accounts do not belong to me. if not resolved, i will sue for damages.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997581839561462
+}

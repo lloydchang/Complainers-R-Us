@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019782,
+  "complaint_id": "9019782",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> my wallet was stolen and my card was used without my authorization for the amount of {$2200.00} my wallet was found in an alley way and someone returned it to me I disputed the charge made on my account and Citibank said I was responsible for the charges I told them I never made the charges that my wallet was stolen they opened a fraudulent charges complaint and issued a new card then they decided I was responsible for the charges I never made they allowed an unauthorized person to make an {$2200.00} purchase with my card",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "AK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XX/XX/year> my wallet was stolen and my card was used without my authorization for the amount of {$2200.00} my wallet was found in an alley way and someone returned it to me I disputed the charge made on my account and Citibank said I was responsible for the charges I told them I never made the charges that my wallet was stolen they opened a fraudulent charges complaint and issued a new card then they decided I was responsible for the charges I never made they allowed an unauthorized person to make an {$2200.00} purchase with my card"
+}
+
+Chunk:
+xx / xx / year > my wallet was stolen and my card was used without my authorization for the amount of { $ 2200. 00 } my wallet was found in an alley way and someone returned it to me i disputed the charge made on my account and citibank said i was responsible for the charges i told them i never made the charges that my wallet was stolen they opened a fraudulent charges complaint and issued a new card then they decided i was responsible for the charges i never made they allowed an unauthorized person to make an { $ 2200. 00 } purchase with my card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983596205711365
+}

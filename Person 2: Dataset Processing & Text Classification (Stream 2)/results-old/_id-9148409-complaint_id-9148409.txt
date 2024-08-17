@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9148409,
+  "complaint_id": "9148409",
+  "product": "Credit card",
+  "complaint_what_happened": "I closed my Discover card on XX/XX/XXXX But the are still charging me interest. \nThe interest is almost as much as the payment. \nI paid {$78.00} in XX/XX/XXXX and was charged {$61.00} in interest.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "787XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I closed my Discover card on XX/XX/XXXX But the are still charging me interest. \nThe interest is almost as much as the payment. \nI paid {$78.00} in XX/XX/XXXX and was charged {$61.00} in interest."
+}
+
+Chunk:
+i closed my discover card on xx / xx / xxxx but the are still charging me interest. the interest is almost as much as the payment. i paid { $ 78. 00 } in xx / xx / xxxx and was charged { $ 61. 00 } in interest.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9760643243789673
+}

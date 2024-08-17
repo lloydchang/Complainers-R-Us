@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9512605,
+  "complaint_id": "9512605",
+  "product": "Credit card",
+  "complaint_what_happened": "After XXXX complaints against Macys in XXXX, both resolving in closing my account and paying me, I received a replacement credit card in the mail on XX/XX/XXXX. I did not request this card and have not had an account with them since XXXX per the prior XXXX resolutions. Macys sent this card to an address that they never had on file. XXXX of the letters they sent me even references the fact that my account was closed.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "75231",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "After XXXX complaints against Macys in XXXX, both resolving in closing my account and paying me, I received a replacement credit card in the mail on XX/XX/XXXX. I did not request this card and have not had an account with them since XXXX per the prior XXXX resolutions. Macys sent this card to an address that they never had on file. XXXX of the letters they sent me even references the fact that my account was closed."
+}
+
+Chunk:
+after xxxx complaints against macys in xxxx, both resolving in closing my account and paying me, i received a replacement credit card in the mail on xx / xx / xxxx. i did not request this card and have not had an account with them since xxxx per the prior xxxx resolutions. macys sent this card to an address that they never had on file. xxxx of the letters they sent me even references the fact that my account was closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997892439365387
+}

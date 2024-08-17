@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9001186,
+  "complaint_id": "9001186",
+  "product": "Credit card",
+  "complaint_what_happened": "A person called from a phone number ( XXXX ) XXXX identified as Wells Fargo called me to inform me that a person named XXXX XXXX from XXXX, FL was trying to apply for a joint credit card with my social security number. She said that she was transferring me to the Consumer Financial Protection Bureau and gave me a Case ID # of XXXX. \nAnother person then answered a phone and said her name was XXXX XXXX phone number XXXX. She said she was pulling up my file and began to ask me to verify my debt. She had names of my mortgage company and car lease company. It sounded like she was reading off my XXXX data. Then she began to ask me about my credit cards and wanted me to tell her my expiration dates. I began to feel uncomfortable and asked her for her phone number and if I could call her back. But I looked up the CFPB to call and it is closed and the number is different.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78258",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "A person called from a phone number ( XXXX ) XXXX identified as Wells Fargo called me to inform me that a person named XXXX XXXX from XXXX, FL was trying to apply for a joint credit card with my social security number. She said that she was transferring me to the Consumer Financial Protection Bureau and gave me a Case ID # of XXXX. \nAnother person then answered a phone and said her name was XXXX XXXX phone number XXXX. She said she was pulling up my file and began to ask me to verify my debt. She had names of my mortgage company and car lease company. It sounded like she was reading off my XXXX data. Then she began to ask me about my credit cards and wanted me to tell her my expiration dates. I began to feel uncomfortable and asked her for her phone number and if I could call her back. But I looked up the CFPB to call and it is closed and the number is different."
+}
+
+Chunk:
+a person called from a phone number ( xxxx ) xxxx identified as wells fargo called me to inform me that a person named xxxx xxxx from xxxx, fl was trying to apply for a joint credit card with my social security number. she said that she was transferring me to the consumer financial protection bureau and gave me a case id # of xxxx. another person then answered a phone and said her name was xxxx xxxx phone number xxxx. she said she was pulling up my file and began to ask me to verify my debt. she had names of my mortgage company and car lease company. it sounded like she was reading off my xxxx data. then she began to ask me about my credit cards and wanted me to tell her my expiration dates. i began to feel uncomfortable and asked her for her phone number and if i could call her back. but i looked up the cfpb to call and it is closed and the number is different.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979343414306641
+}

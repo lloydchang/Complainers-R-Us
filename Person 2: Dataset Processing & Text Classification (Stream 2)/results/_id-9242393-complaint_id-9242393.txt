@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9242393,
+  "complaint_id": "9242393",
+  "product": "Credit card",
+  "complaint_what_happened": "In accordance with the fair credit reporting act this creditor has violated my rights. Under 15 USC 1681 section 602 states I have the right to privacy. 15 USC 1681 section 604A section 2 it also states the consumer reporting agency can not furnish an account without my written instructions. Under 15 USC 1666B a creditor may not treat a payment on a credit card account under an open end consumer plan as late for any purpose",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76065",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "In accordance with the fair credit reporting act this creditor has violated my rights. Under 15 USC 1681 section 602 states I have the right to privacy. 15 USC 1681 section 604A section 2 it also states the consumer reporting agency can not furnish an account without my written instructions. Under 15 USC 1666B a creditor may not treat a payment on a credit card account under an open end consumer plan as late for any purpose"
+}
+
+Chunk:
+in accordance with the fair credit reporting act this creditor has violated my rights. under 15 usc 1681 section 602 states i have the right to privacy. 15 usc 1681 section 604a section 2 it also states the consumer reporting agency can not furnish an account without my written instructions. under 15 usc 1666b a creditor may not treat a payment on a credit card account under an open end consumer plan as late for any purpose
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9785754680633545
+}

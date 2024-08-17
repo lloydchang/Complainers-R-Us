@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142475,
+  "complaint_id": "9142475",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital Ones charged us Interest by applying part of our payment to the next promotional offer. the charge was XXXX. My wife and I called, and they would only agree to refund {$50.00}. I could tell that it was a scam and they were trained to not let it go any further. We tried to escalate it but he said there was no one to escalate it to. It is clear they are not interested in fair business practices.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "60103",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "Capital Ones charged us Interest by applying part of our payment to the next promotional offer. the charge was XXXX. My wife and I called, and they would only agree to refund {$50.00}. I could tell that it was a scam and they were trained to not let it go any further. We tried to escalate it but he said there was no one to escalate it to. It is clear they are not interested in fair business practices."
+}
+
+Chunk:
+capital ones charged us interest by applying part of our payment to the next promotional offer. the charge was xxxx. my wife and i called, and they would only agree to refund { $ 50. 00 }. i could tell that it was a scam and they were trained to not let it go any further. we tried to escalate it but he said there was no one to escalate it to. it is clear they are not interested in fair business practices.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999568521976471
+}

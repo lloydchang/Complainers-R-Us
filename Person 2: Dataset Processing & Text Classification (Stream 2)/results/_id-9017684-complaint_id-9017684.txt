@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017684,
+  "complaint_id": "9017684",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/24 - open homedepot card, purchased {$310.00} with the new account. Card supposed to send to my home XXXX business days. I have not received after XXXX weeks, than got text message that it used to purchase, I called Citi banks to cancel the card and account. They did but they resent me a replacement, which I didnt also recieved. \nXX/XX/24 - fraud purchase {$100.00} XX/XX/24 - fraud purchase {$1400.00} XX/XX/24 - fraud purchase {$55.00} XX/XX/24 - fraud purchase {$1100.00} XX/XX/24 - fraud purchase {$500.00} XX/XX/24 - fraud purchase {$810.00} XX/XX/24 - fraud purchase {$360.00} I called Citi bank and reported these fraud purchases many times and told them that I did not even got those cards. On top of that I was requested to cancel the account and card already, but the citi bank still sent card out. It got stolen and made fraud charges as listed above. \nXX/XX/24 - called citi bank dispute charge. They said they will investigate take XXXX weeks. \nXX/XX/24 - received statement that charges refund and clear. \nXX/XX/24 - paid {$310.00}, my purchase, by phone to citi bank customer service person. Citi bank told me my account is clear and close. \nXX/XX/24- received another statement with all above charges is on bill. I called citi bank right away, and they said those valid charges, that why it still remains on the bill. Again I never got those cards, and didnt make any charges, the only thing I did many times were calling citi bank notify them about fraud charge and the refuse to help and put those responsibilities on my account. \nPlease help to dispute these charges because those were made the frauds. \nPlease contact me at XXXX if you have any question. \nThank you.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "92704",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XX/XX/24 - open homedepot card, purchased {$310.00} with the new account. Card supposed to send to my home XXXX business days. I have not received after XXXX weeks, than got text message that it used to purchase, I called Citi banks to cancel the card and account. They did but they resent me a replacement, which I didnt also recieved. \nXX/XX/24 - fraud purchase {$100.00} XX/XX/24 - fraud purchase {$1400.00} XX/XX/24 - fraud purchase {$55.00} XX/XX/24 - fraud purchase {$1100.00} XX/XX/24 - fraud purchase {$500.00} XX/XX/24 - fraud purchase {$810.00} XX/XX/24 - fraud purchase {$360.00} I called Citi bank and reported these fraud purchases many times and told them that I did not even got those cards. On top of that I was requested to cancel the account and card already, but the citi bank still sent card out. It got stolen and made fraud charges as listed above. \nXX/XX/24 - called citi bank dispute charge. They said they will investigate take XXXX weeks. \nXX/XX/24 - received statement that charges refund and clear. \nXX/XX/24 - paid {$310.00}, my purchase, by phone to citi bank customer service person. Citi bank told me my account is clear and close. \nXX/XX/24- received another statement with all above charges is on bill. I called citi bank right away, and they said those valid charges, that why it still remains on the bill. Again I never got those cards, and didnt make any charges, the only thing I did many times were calling citi bank notify them about fraud charge and the refuse to help and put those responsibilities on my account. \nPlease help to dispute these charges because those were made the frauds. \nPlease contact me at XXXX if you have any question. \nThank you."
+}
+
+Chunk:
+xx / xx / 24 - open homedepot card, purchased { $ 310. 00 } with the new account. card supposed to send to my home xxxx business days. i have not received after xxxx weeks, than got text message that it used to purchase, i called citi banks to cancel the card and account. they did but they resent me a replacement, which i didnt also recieved. xx / xx / 24 - fraud purchase { $ 100. 00 } xx / xx / 24 - fraud purchase { $ 1400. 00 } xx / xx / 24 - fraud purchase { $ 55. 00 } xx / xx / 24 - fraud purchase { $ 1100. 00 } xx / xx / 24 - fraud purchase { $ 500. 00 } xx / xx / 24 - fraud purchase { $ 810. 00 } xx / xx / 24 - fraud purchase { $ 360. 00 } i called citi bank and reported these fraud purchases many times and told them that i did not even got those cards. on top of that i was requested to cancel the account and card already, but the citi bank still sent card out. it got stolen and made fraud charges as listed above. xx / xx / 24 - called citi bank dispute charge. they said they will investigate take xxxx weeks. xx / xx / 24 - received statement that charges refund and clear. xx / xx / 24 - paid { $ 310. 00 }, my purchase, by phone to citi bank customer service person. citi bank told me my account is clear and close. xx / xx / 24 - received another statement with all above charges is on bill. i called citi bank right away, and they said those valid charges, that why it still remains on the bill. again i never got those cards, and didnt make any charges, the only thing i did many times were calling citi bank notify them about fraud charge and the refuse to help and put those responsibilities on my account. please help to dispute these charges because those were made the frauds. please contact me at xxxx if you have any question. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984403252601624
+}

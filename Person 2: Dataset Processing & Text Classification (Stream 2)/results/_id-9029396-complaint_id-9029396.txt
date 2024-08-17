@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029396,
+  "complaint_id": "9029396",
+  "product": "Credit card",
+  "complaint_what_happened": "Review credit reports and found a discrepancy of a store credit never applied for never used by me identity theft. Previously file identity theft reports as well as supporting documents from local agencies. This conns credit was never used or ever been applied for by the complaintant. This credit is demanded to remove from credit file.\n\nDoes not reflect the entire account number!",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89011",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Review credit reports and found a discrepancy of a store credit never applied for never used by me identity theft. Previously file identity theft reports as well as supporting documents from local agencies. This conns credit was never used or ever been applied for by the complaintant. This credit is demanded to remove from credit file.\n\nDoes not reflect the entire account number!"
+}
+
+Chunk:
+review credit reports and found a discrepancy of a store credit never applied for never used by me identity theft. previously file identity theft reports as well as supporting documents from local agencies. this conns credit was never used or ever been applied for by the complaintant. this credit is demanded to remove from credit file. does not reflect the entire account number!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992358684539795
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9325832,
+  "complaint_id": "9325832",
+  "product": "Credit card",
+  "complaint_what_happened": "Experian is persistently reporting an account that does not belong to me. Despite multiple letters sent to them, they continue to remove and re-add the erroneous account to my credit files. This account and balance do not belong to me, and it is clearly a case of fraud/identity theft. XXXXXXXX XXXX has explicitly stated in a letter that they would remove this account ( letter attached ), in addition to the police report and FTC report that have been filed. This blatant disregard for regulations and continuous harassment are unacceptable. I demand immediate action to rectify this issue and remove this account from my credit file.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "93065",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Experian is persistently reporting an account that does not belong to me. Despite multiple letters sent to them, they continue to remove and re-add the erroneous account to my credit files. This account and balance do not belong to me, and it is clearly a case of fraud/identity theft. XXXXXXXX XXXX has explicitly stated in a letter that they would remove this account ( letter attached ), in addition to the police report and FTC report that have been filed. This blatant disregard for regulations and continuous harassment are unacceptable. I demand immediate action to rectify this issue and remove this account from my credit file."
+}
+
+Chunk:
+experian is persistently reporting an account that does not belong to me. despite multiple letters sent to them, they continue to remove and re - add the erroneous account to my credit files. this account and balance do not belong to me, and it is clearly a case of fraud / identity theft. xxxxxxxx xxxx has explicitly stated in a letter that they would remove this account ( letter attached ), in addition to the police report and ftc report that have been filed. this blatant disregard for regulations and continuous harassment are unacceptable. i demand immediate action to rectify this issue and remove this account from my credit file.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996731281280518
+}

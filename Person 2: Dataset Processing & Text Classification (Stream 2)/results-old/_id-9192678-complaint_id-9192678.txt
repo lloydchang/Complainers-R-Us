@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9192678,
+  "complaint_id": "9192678",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a victim of ID theft reported to XXXX Police Department XXXX. \nI have reported the fraud of the Capital One Credit Card stolen in United States Postal Service Mail. Or, from the mailbox at my residence. \nCapital One has not responded with a new card. \nOur correspondence has been on-going from XX/XX/XXXX to XX/XX/XXXX. \nI still have not gotten replacement card.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07032",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem getting a working replacement card",
+  "text": "I am a victim of ID theft reported to XXXX Police Department XXXX. \nI have reported the fraud of the Capital One Credit Card stolen in United States Postal Service Mail. Or, from the mailbox at my residence. \nCapital One has not responded with a new card. \nOur correspondence has been on-going from XX/XX/XXXX to XX/XX/XXXX. \nI still have not gotten replacement card."
+}
+
+Chunk:
+i am a victim of id theft reported to xxxx police department xxxx. i have reported the fraud of the capital one credit card stolen in united states postal service mail. or, from the mailbox at my residence. capital one has not responded with a new card. our correspondence has been on - going from xx / xx / xxxx to xx / xx / xxxx. i still have not gotten replacement card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991751313209534
+}

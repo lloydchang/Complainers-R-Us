@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9269260,
+  "complaint_id": "9269260",
+  "product": "Credit card",
+  "complaint_what_happened": "After opening my Apple Card with Goldman Sachs, I wanted to set it up in my bill payment feature with my normal financial institution. When I tried using the numbers that Apple/Goldman had provided, enrollment of the biller/payee failed. I was informed that the account number on Apple/Goldman cards is different than the numbers provided for purchases. Every time I try to ascertain the account number using the apps, they kept trying to force me into linking my bank accounts, allowing them to withdraw payments directly from my bank account. I did not want to do this, and I wanted to control the payments myself using Bill pay. I contacted them the only way possible as far as I could entertain, which is via Apple text messages using my XXXX. They told me they could not provide me the account number by any electronic means although every other aspect of this experiences electronic. They told me the only way to get my account account number is by US Postal Service and it would take at least 10 business days. After 10 business days had passed without receiving the account number, I contacted them again., they said they can see that I asked for the information a second time, which I had not done. They said to wait for 10 more days from either that date or from today. At this rate, I may not be able to pay my first bill on time without linking my bank account. This seems unfair, abusive, and deceptive to make it this hard to find out your account number on a credit card, just so they can force you to link your bank account to them.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22042",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "After opening my Apple Card with Goldman Sachs, I wanted to set it up in my bill payment feature with my normal financial institution. When I tried using the numbers that Apple/Goldman had provided, enrollment of the biller/payee failed. I was informed that the account number on Apple/Goldman cards is different than the numbers provided for purchases. Every time I try to ascertain the account number using the apps, they kept trying to force me into linking my bank accounts, allowing them to withdraw payments directly from my bank account. I did not want to do this, and I wanted to control the payments myself using Bill pay. I contacted them the only way possible as far as I could entertain, which is via Apple text messages using my XXXX. They told me they could not provide me the account number by any electronic means although every other aspect of this experiences electronic. They told me the only way to get my account account number is by US Postal Service and it would take at least 10 business days. After 10 business days had passed without receiving the account number, I contacted them again., they said they can see that I asked for the information a second time, which I had not done. They said to wait for 10 more days from either that date or from today. At this rate, I may not be able to pay my first bill on time without linking my bank account. This seems unfair, abusive, and deceptive to make it this hard to find out your account number on a credit card, just so they can force you to link your bank account to them."
+}
+
+Chunk:
+after opening my apple card with goldman sachs, i wanted to set it up in my bill payment feature with my normal financial institution. when i tried using the numbers that apple / goldman had provided, enrollment of the biller / payee failed. i was informed that the account number on apple / goldman cards is different than the numbers provided for purchases. every time i try to ascertain the account number using the apps, they kept trying to force me into linking my bank accounts, allowing them to withdraw payments directly from my bank account. i did not want to do this, and i wanted to control the payments myself using bill pay. i contacted them the only way possible as far as i could entertain, which is via apple text messages using my xxxx. they told me they could not provide me the account number by any electronic means although every other aspect of this experiences electronic. they told me the only way to get my account account number is by us postal service and it would take at least 10 business days. after 10 business days had passed without receiving the account number, i contacted them again., they said they can see that i asked for the information a second time, which i had not done. they said to wait for 10 more days from either that date or from today. at this rate, i may not be able to pay my first bill on time without linking my bank account. this seems unfair, abusive, and deceptive to make it this hard to find out your account number on a credit card, just so they can force you to link your bank account to them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995861649513245
+}

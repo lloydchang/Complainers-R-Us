@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9361289,
+  "complaint_id": "9361289",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Sir/Madam : On XX/XX/year>, I applied for a Barclay 's Bank Wyndham Rewards Credit Card and received an immediate rejection. On XX/XX/year>, I received a copy of the denial letter that indicated no credit report was pulled because of the following reason : \" Our records indicate that a previous credit card account that you held with Barclays Bank Delaware experienced charge-off, bankruptcy, severe delinquency, or other negative performance. '' I experienced a bankruptcy more than 15 years ago and it is apparent I am being blacklisted by Barclay 's Bank. \n\nSince my bankruptcy, I own my own home with XXXX of the mortgage already paid off, XXXX scores of XXXX ( XXXX ), XXXX ( XXXX ) XXXX and XXXX ( XXXX ), and I work for Combined Insurance making {$130000.00} per year. I clearly have the ability to pay my debts. \n\nIt is my opinion that this is in violation of The Federal Equal Credit Opportunity Act. I am demanding a credit officer pull my credit report and review my application for credit.",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60640",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Dear Sir/Madam : On XX/XX/year>, I applied for a Barclay 's Bank Wyndham Rewards Credit Card and received an immediate rejection. On XX/XX/year>, I received a copy of the denial letter that indicated no credit report was pulled because of the following reason : \" Our records indicate that a previous credit card account that you held with Barclays Bank Delaware experienced charge-off, bankruptcy, severe delinquency, or other negative performance. '' I experienced a bankruptcy more than 15 years ago and it is apparent I am being blacklisted by Barclay 's Bank. \n\nSince my bankruptcy, I own my own home with XXXX of the mortgage already paid off, XXXX scores of XXXX ( XXXX ), XXXX ( XXXX ) XXXX and XXXX ( XXXX ), and I work for Combined Insurance making {$130000.00} per year. I clearly have the ability to pay my debts. \n\nIt is my opinion that this is in violation of The Federal Equal Credit Opportunity Act. I am demanding a credit officer pull my credit report and review my application for credit."
+}
+
+Chunk:
+dear sir / madam : on xx / xx / year >, i applied for a barclay's bank wyndham rewards credit card and received an immediate rejection. on xx / xx / year >, i received a copy of the denial letter that indicated no credit report was pulled because of the following reason : " our records indicate that a previous credit card account that you held with barclays bank delaware experienced charge - off, bankruptcy, severe delinquency, or other negative performance.'' i experienced a bankruptcy more than 15 years ago and it is apparent i am being blacklisted by barclay's bank. since my bankruptcy, i own my own home with xxxx of the mortgage already paid off, xxxx scores of xxxx ( xxxx ), xxxx ( xxxx ) xxxx and xxxx ( xxxx ), and i work for combined insurance making { $ 130000. 00 } per year. i clearly have the ability to pay my debts. it is my opinion that this is in violation of the federal equal credit opportunity act. i am demanding a credit officer pull my credit report and review my application for credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970410466194153
+}

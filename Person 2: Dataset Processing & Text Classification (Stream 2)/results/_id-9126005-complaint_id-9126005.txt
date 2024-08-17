@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9126005,
+  "complaint_id": "9126005",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had 4 separate CC 's issued by Synchrony bank. Each card has had the credit limit lowered by them to what the balance on the CC was, even though I never missed a payment and paid on time. Each time this has happened my XXXX score has went down by XXXX points, I know as I track it using my XXXX app. I have closed all of the cards with them and in the process of paying off the balances so I can be completely done with them. Researching this on the internet I discovered this is a common practice by them and has damaged other consumers XXXX  scores as well. I believe this practice needs to be stopped and they need to be investigated, it is not fair that they are doing this and damaging my XXXX score which I have worked hard to maintain.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "85340",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have had 4 separate CC 's issued by Synchrony bank. Each card has had the credit limit lowered by them to what the balance on the CC was, even though I never missed a payment and paid on time. Each time this has happened my XXXX score has went down by XXXX points, I know as I track it using my XXXX app. I have closed all of the cards with them and in the process of paying off the balances so I can be completely done with them. Researching this on the internet I discovered this is a common practice by them and has damaged other consumers XXXX  scores as well. I believe this practice needs to be stopped and they need to be investigated, it is not fair that they are doing this and damaging my XXXX score which I have worked hard to maintain."
+}
+
+Chunk:
+i have had 4 separate cc's issued by synchrony bank. each card has had the credit limit lowered by them to what the balance on the cc was, even though i never missed a payment and paid on time. each time this has happened my xxxx score has went down by xxxx points, i know as i track it using my xxxx app. i have closed all of the cards with them and in the process of paying off the balances so i can be completely done with them. researching this on the internet i discovered this is a common practice by them and has damaged other consumers xxxx scores as well. i believe this practice needs to be stopped and they need to be investigated, it is not fair that they are doing this and damaging my xxxx score which i have worked hard to maintain.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993398785591125
+}

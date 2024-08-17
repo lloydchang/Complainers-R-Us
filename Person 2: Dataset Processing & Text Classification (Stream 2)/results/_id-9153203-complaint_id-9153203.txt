@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9153203,
+  "complaint_id": "9153203",
+  "product": "Credit card",
+  "complaint_what_happened": "I lost my Discover card at the XXXX XXXX XXXX on XX/XX/year> when I was travelling to XXXX. I didn't use the Discover card at all while I was on my trip to XXXX. I had flown back to my home in Texas on XX/XX/year>. When I turned my phone back on I received the email for my online bill from Discover and that is when I noticed those transactions done on the Discover card were not from me. My trip to XXXX was from XX/XX/year> and returned date was XX/XX/year>. I have charges on my Discover card from XX/XX/year> to XX/XX/year>. I had presented to Discover card evidence to show my flight boarding pass from XX/XX/year> to return date boarding pass XX/XX/year>. I had sent Discover card my passport with the XXXX stamp to show them I was in XXXX during that time frame and could not make those purchases. Discover failed to conduct a thorough investigation and resolved those dispute charges against me even though I had cleared evidence I was not in the U.S during the time of those charges done on my account.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75051",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I lost my Discover card at the XXXX XXXX XXXX on XX/XX/year> when I was travelling to XXXX. I didn't use the Discover card at all while I was on my trip to XXXX. I had flown back to my home in Texas on XX/XX/year>. When I turned my phone back on I received the email for my online bill from Discover and that is when I noticed those transactions done on the Discover card were not from me. My trip to XXXX was from XX/XX/year> and returned date was XX/XX/year>. I have charges on my Discover card from XX/XX/year> to XX/XX/year>. I had presented to Discover card evidence to show my flight boarding pass from XX/XX/year> to return date boarding pass XX/XX/year>. I had sent Discover card my passport with the XXXX stamp to show them I was in XXXX during that time frame and could not make those purchases. Discover failed to conduct a thorough investigation and resolved those dispute charges against me even though I had cleared evidence I was not in the U.S during the time of those charges done on my account."
+}
+
+Chunk:
+i lost my discover card at the xxxx xxxx xxxx on xx / xx / year > when i was travelling to xxxx. i didn't use the discover card at all while i was on my trip to xxxx. i had flown back to my home in texas on xx / xx / year >. when i turned my phone back on i received the email for my online bill from discover and that is when i noticed those transactions done on the discover card were not from me. my trip to xxxx was from xx / xx / year > and returned date was xx / xx / year >. i have charges on my discover card from xx / xx / year > to xx / xx / year >. i had presented to discover card evidence to show my flight boarding pass from xx / xx / year > to return date boarding pass xx / xx / year >. i had sent discover card my passport with the xxxx stamp to show them i was in xxxx during that time frame and could not make those purchases. discover failed to conduct a thorough investigation and resolved those dispute charges against me even though i had cleared evidence i was not in the u. s during the time of those charges done on my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999432384967804
+}

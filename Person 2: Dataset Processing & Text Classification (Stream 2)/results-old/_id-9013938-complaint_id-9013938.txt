@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9013938,
+  "complaint_id": "9013938",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a credit card with Avant credit. They ran a hard inquiry on my credit report. I then received my card in the mail, in which I activated that card. I proceeded to attempt to make a purchase, where it would not work and continued to decline all purchases. I downloaded the Avant app on my phone which shows {$500.00} available. I then contacted customer service where I was directed to send an email to the theft department. I was extremely confused because they told me that it was listed lost or stolen, which I never ever claimed a lost or stolen card considering I just received it and hadnt even used it yet. I was given the incorrect email. I then called back explaining my concerns, once again ; I was given the wrong email. I called back furious at this point, explaining once again, the issues that I was having. The customer service rep told me that there is no one to speak to on the phone and all of this had to go through email. I was finally given an accurate email address but since then, I have reached out multiple times with no response. I now have a credit card that can not be used along with a hard inquiry on my credit report. I have no idea whats going on. If someone was trying to hack my account and requested a new card, so much couldve taken place by now since no one has contacted me.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19805",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Avant Holding Company, Inc.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I opened a credit card with Avant credit. They ran a hard inquiry on my credit report. I then received my card in the mail, in which I activated that card. I proceeded to attempt to make a purchase, where it would not work and continued to decline all purchases. I downloaded the Avant app on my phone which shows {$500.00} available. I then contacted customer service where I was directed to send an email to the theft department. I was extremely confused because they told me that it was listed lost or stolen, which I never ever claimed a lost or stolen card considering I just received it and hadnt even used it yet. I was given the incorrect email. I then called back explaining my concerns, once again ; I was given the wrong email. I called back furious at this point, explaining once again, the issues that I was having. The customer service rep told me that there is no one to speak to on the phone and all of this had to go through email. I was finally given an accurate email address but since then, I have reached out multiple times with no response. I now have a credit card that can not be used along with a hard inquiry on my credit report. I have no idea whats going on. If someone was trying to hack my account and requested a new card, so much couldve taken place by now since no one has contacted me."
+}
+
+Chunk:
+i opened a credit card with avant credit. they ran a hard inquiry on my credit report. i then received my card in the mail, in which i activated that card. i proceeded to attempt to make a purchase, where it would not work and continued to decline all purchases. i downloaded the avant app on my phone which shows { $ 500. 00 } available. i then contacted customer service where i was directed to send an email to the theft department. i was extremely confused because they told me that it was listed lost or stolen, which i never ever claimed a lost or stolen card considering i just received it and hadnt even used it yet. i was given the incorrect email. i then called back explaining my concerns, once again ; i was given the wrong email. i called back furious at this point, explaining once again, the issues that i was having. the customer service rep told me that there is no one to speak to on the phone and all of this had to go through email. i was finally given an accurate email address but since then, i have reached out multiple times with no response. i now have a credit card that can not be used along with a hard inquiry on my credit report. i have no idea whats going on. if someone was trying to hack my account and requested a new card, so much couldve taken place by now since no one has contacted me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992998838424683
+}

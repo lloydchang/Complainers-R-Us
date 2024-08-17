@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9596957,
+  "complaint_id": "9596957",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX years ago I took out a XXXX XXXX interest loan from Lowes to build a deck. The salesman told me about the promotion and I asked him how any outstanding balance at the end would be handled. He explained to me that I would pay whatever the current interest rate was at the time. So I took out the loan paid every month on time and figured whatever small balance was left I would handle it then not giving much thought because I knew it was going to be a relatively small amount. Yesterday I was reviewing an email that I received form Lowes about my remaining balance which was XXXX and saw they added a XXXX interest charge. I immediately contacted Lowes and spoke to numerous managers and explained that not only was this not how it was sold to me but that the amount of interest is absurd. After XXXX managers and XXXX minutes on the phone the final XXXX said the best she could do was reduce the interest charge by half leaving me responsible for the difference which was XXXX. I need your help because XXXX is crazy on a XXXX which had to pay off yesterday in order to get the reduction. To make matters worse they explained to me that I had XXXX day grace period that i missed by XXXX days even thought the product I purchased was a special ordered deck which came in the wrong size and color which caused me an additional XXXX day wait time for the correct deck meaning the store should have cancelled my first charge and restarted the clock when they re-ordered they the correct deck which I was never informed of but they admitted was their employees fault. The final comment they made to me was I should contact Synchroneity bank by letter and see what they could offer. Any help would be greatly appreciated as I believe this gouging at its most egregious case.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "14075",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "XXXX years ago I took out a XXXX XXXX interest loan from Lowes to build a deck. The salesman told me about the promotion and I asked him how any outstanding balance at the end would be handled. He explained to me that I would pay whatever the current interest rate was at the time. So I took out the loan paid every month on time and figured whatever small balance was left I would handle it then not giving much thought because I knew it was going to be a relatively small amount. Yesterday I was reviewing an email that I received form Lowes about my remaining balance which was XXXX and saw they added a XXXX interest charge. I immediately contacted Lowes and spoke to numerous managers and explained that not only was this not how it was sold to me but that the amount of interest is absurd. After XXXX managers and XXXX minutes on the phone the final XXXX said the best she could do was reduce the interest charge by half leaving me responsible for the difference which was XXXX. I need your help because XXXX is crazy on a XXXX which had to pay off yesterday in order to get the reduction. To make matters worse they explained to me that I had XXXX day grace period that i missed by XXXX days even thought the product I purchased was a special ordered deck which came in the wrong size and color which caused me an additional XXXX day wait time for the correct deck meaning the store should have cancelled my first charge and restarted the clock when they re-ordered they the correct deck which I was never informed of but they admitted was their employees fault. The final comment they made to me was I should contact Synchroneity bank by letter and see what they could offer. Any help would be greatly appreciated as I believe this gouging at its most egregious case."
+}
+
+Chunk:
+xxxx years ago i took out a xxxx xxxx interest loan from lowes to build a deck. the salesman told me about the promotion and i asked him how any outstanding balance at the end would be handled. he explained to me that i would pay whatever the current interest rate was at the time. so i took out the loan paid every month on time and figured whatever small balance was left i would handle it then not giving much thought because i knew it was going to be a relatively small amount. yesterday i was reviewing an email that i received form lowes about my remaining balance which was xxxx and saw they added a xxxx interest charge. i immediately contacted lowes and spoke to numerous managers and explained that not only was this not how it was sold to me but that the amount of interest is absurd. after xxxx managers and xxxx minutes on the phone the final xxxx said the best she could do was reduce the interest charge by half leaving me responsible for the difference which was xxxx. i need your help because xxxx is crazy on a xxxx which had to pay off yesterday in order to get the reduction. to make matters worse they explained to me that i had xxxx day grace period that i missed by xxxx days even thought the product i purchased was a special ordered deck which came in the wrong size and color which caused me an additional xxxx day wait time for the correct deck meaning the store should have cancelled my first charge and restarted the clock when they re - ordered they the correct deck which i was never informed of but they admitted was their employees fault. the final comment they made to me was i should contact synchroneity bank by letter and see what they could offer. any help would be greatly appreciated as i believe this gouging at its most egregious case.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990893602371216
+}

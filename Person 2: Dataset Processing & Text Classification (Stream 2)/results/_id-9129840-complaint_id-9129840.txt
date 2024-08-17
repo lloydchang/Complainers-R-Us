@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9129840,
+  "complaint_id": "9129840",
+  "product": "Credit card",
+  "complaint_what_happened": "My Credit Report was run by unidentified credit card company I didnt request credit. Company called XXXXXXXX XXXX. I didnt ask or request credit from them.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33165",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "My Credit Report was run by unidentified credit card company I didnt request credit. Company called XXXXXXXX XXXX. I didnt ask or request credit from them."
+}
+
+Chunk:
+my credit report was run by unidentified credit card company i didnt request credit. company called xxxxxxxx xxxx. i didnt ask or request credit from them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986334443092346
+}

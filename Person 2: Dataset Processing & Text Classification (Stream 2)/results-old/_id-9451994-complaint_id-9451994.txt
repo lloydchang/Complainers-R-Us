@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9451994,
+  "complaint_id": "9451994",
+  "product": "Credit card",
+  "complaint_what_happened": "According to the fair credit report Act, section 605B it is illegal to report information on my credit report without permission thank you please remove this off of my credit report.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85712",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "According to the fair credit report Act, section 605B it is illegal to report information on my credit report without permission thank you please remove this off of my credit report."
+}
+
+Chunk:
+according to the fair credit report act, section 605b it is illegal to report information on my credit report without permission thank you please remove this off of my credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992173910140991
+}

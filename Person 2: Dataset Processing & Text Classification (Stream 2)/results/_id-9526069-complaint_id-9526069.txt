@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9526069,
+  "complaint_id": "9526069",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX. On XX/XX/year>, I scheduled a payment to Citi Double Cash credit card using the XXXX  checking account XXXX. On XX/XX/year>, I found fraud activity and reported it to XXXX, the checking account was frozen due to investigation. \nXXXX. On XX/XX/year>, I saw a {$30.00} charge on my Citi Double Cash credit card for a \" RETURN CHECK FEE '', I reached out to live chat customer service to explain what happened and the representative said I could get the charge waived the statement is out in early XXXX. \nXXXX. I called Citi customer service again in early XXXX, and the customer service suddenly said the charge could not be reversed. The same issue happened to my other credit card as well, none of them charged me such a fee, and I was able to switch the payment method much earlier than Citi Double Cash.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94560",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "XXXX. On XX/XX/year>, I scheduled a payment to Citi Double Cash credit card using the XXXX  checking account XXXX. On XX/XX/year>, I found fraud activity and reported it to XXXX, the checking account was frozen due to investigation. \nXXXX. On XX/XX/year>, I saw a {$30.00} charge on my Citi Double Cash credit card for a \" RETURN CHECK FEE '', I reached out to live chat customer service to explain what happened and the representative said I could get the charge waived the statement is out in early XXXX. \nXXXX. I called Citi customer service again in early XXXX, and the customer service suddenly said the charge could not be reversed. The same issue happened to my other credit card as well, none of them charged me such a fee, and I was able to switch the payment method much earlier than Citi Double Cash."
+}
+
+Chunk:
+xxxx. on xx / xx / year >, i scheduled a payment to citi double cash credit card using the xxxx checking account xxxx. on xx / xx / year >, i found fraud activity and reported it to xxxx, the checking account was frozen due to investigation. xxxx. on xx / xx / year >, i saw a { $ 30. 00 } charge on my citi double cash credit card for a " return check fee'', i reached out to live chat customer service to explain what happened and the representative said i could get the charge waived the statement is out in early xxxx. xxxx. i called citi customer service again in early xxxx, and the customer service suddenly said the charge could not be reversed. the same issue happened to my other credit card as well, none of them charged me such a fee, and i was able to switch the payment method much earlier than citi double cash.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984400868415833
+}

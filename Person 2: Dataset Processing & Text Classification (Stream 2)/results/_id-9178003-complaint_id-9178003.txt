@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178003,
+  "complaint_id": "9178003",
+  "product": "Credit card",
+  "complaint_what_happened": "A formal complaint was filed with Consumer Finance ( # XXXX ) against Synchrony Bank regarding issues with transactions and a loss of payment amounting to {$500.00}. On XX/XX/XXXX, an additional payment of {$400.00} was made, yet this transaction was also marked as late, despite being paid early, resulting in the imposition of late fees. Although Synchrony Bank corrected the accounts, they subsequently reduced our credit limit in retaliation and are attempting to close the account. \n\nI have made multiple inquiries to understand their business practices. We have consistently made substantial payments to the account, often before the due date. I communicated to a Synchrony representative that the frequent changes in due dates create difficulties in posting payments on time and result in irregular late fees. If this is their standard administrative practice, the collection of late fees from customers would be disproportionately high. For instance, a customer might expect their payment due date to be the XXXX of the month, but Synchrony could change it to the XXXX, leading to a late charge. \n\nI believe these business practices are unethical. Therefore, I am requesting that Synchrony Bank restore my credit limit to the original {$2000.00}, as we have never been late on this account, and ensure the account is in good standing.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "30180",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "A formal complaint was filed with Consumer Finance ( # XXXX ) against Synchrony Bank regarding issues with transactions and a loss of payment amounting to {$500.00}. On XX/XX/XXXX, an additional payment of {$400.00} was made, yet this transaction was also marked as late, despite being paid early, resulting in the imposition of late fees. Although Synchrony Bank corrected the accounts, they subsequently reduced our credit limit in retaliation and are attempting to close the account. \n\nI have made multiple inquiries to understand their business practices. We have consistently made substantial payments to the account, often before the due date. I communicated to a Synchrony representative that the frequent changes in due dates create difficulties in posting payments on time and result in irregular late fees. If this is their standard administrative practice, the collection of late fees from customers would be disproportionately high. For instance, a customer might expect their payment due date to be the XXXX of the month, but Synchrony could change it to the XXXX, leading to a late charge. \n\nI believe these business practices are unethical. Therefore, I am requesting that Synchrony Bank restore my credit limit to the original {$2000.00}, as we have never been late on this account, and ensure the account is in good standing."
+}
+
+Chunk:
+a formal complaint was filed with consumer finance ( # xxxx ) against synchrony bank regarding issues with transactions and a loss of payment amounting to { $ 500. 00 }. on xx / xx / xxxx, an additional payment of { $ 400. 00 } was made, yet this transaction was also marked as late, despite being paid early, resulting in the imposition of late fees. although synchrony bank corrected the accounts, they subsequently reduced our credit limit in retaliation and are attempting to close the account. i have made multiple inquiries to understand their business practices. we have consistently made substantial payments to the account, often before the due date. i communicated to a synchrony representative that the frequent changes in due dates create difficulties in posting payments on time and result in irregular late fees. if this is their standard administrative practice, the collection of late fees from customers would be disproportionately high. for instance, a customer might expect their payment due date to be the xxxx of the month, but synchrony could change it to the xxxx, leading to a late charge. i believe these business practices are unethical. therefore, i am requesting that synchrony bank restore my credit limit to the original { $ 2000. 00 }, as we have never been late on this account, and ensure the account is in good standing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975666999816895
+}

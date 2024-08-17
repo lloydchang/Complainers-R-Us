@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048401,
+  "complaint_id": "9048401",
+  "product": "Credit card",
+  "complaint_what_happened": "I looked up my credit report and I see I have XXXX hard inquirys that I have never in my life sign up for XX/XX/year> somebody tried to get a Citibank, best buy credit card in my name and a XXXXXXXX XXXX XXXX in my name XX/XX/year> as well witch I have never made in my life somebody use my information to try to scam to get them cards and now I have to hard inquiry pulls .this is fraud I am trying to get these XXXX hard inquirys removed of my credit please.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "21206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I looked up my credit report and I see I have XXXX hard inquirys that I have never in my life sign up for XX/XX/year> somebody tried to get a Citibank, best buy credit card in my name and a XXXXXXXX XXXX XXXX in my name XX/XX/year> as well witch I have never made in my life somebody use my information to try to scam to get them cards and now I have to hard inquiry pulls .this is fraud I am trying to get these XXXX hard inquirys removed of my credit please."
+}
+
+Chunk:
+i looked up my credit report and i see i have xxxx hard inquirys that i have never in my life sign up for xx / xx / year > somebody tried to get a citibank, best buy credit card in my name and a xxxxxxxx xxxx xxxx in my name xx / xx / year > as well witch i have never made in my life somebody use my information to try to scam to get them cards and now i have to hard inquiry pulls. this is fraud i am trying to get these xxxx hard inquirys removed of my credit please.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992406368255615
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9353444,
+  "complaint_id": "9353444",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I purchased home supplies for {$8000.00}. \nIt was on a 24 month no interest promotion. \nI noticed after the second statement that I was being charged interest. I called on XX/XX/XXXX and had the store manager send the revised no interest promotion to the synchrony who manages the card. Synchrony is incredibly unhelpful and unwilling to accommodate or review any issues. \nThe store \" XXXX XXXX '' has been kind and willing to help but Synchrony seems unwilling to review or make changes. Absolutely worst customer service of any credit company. \nI've now been charged {$1000.00} 's of dollars in interest while they continue to force me to pay.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "27410",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year> I purchased home supplies for {$8000.00}. \nIt was on a 24 month no interest promotion. \nI noticed after the second statement that I was being charged interest. I called on XX/XX/XXXX and had the store manager send the revised no interest promotion to the synchrony who manages the card. Synchrony is incredibly unhelpful and unwilling to accommodate or review any issues. \nThe store \" XXXX XXXX '' has been kind and willing to help but Synchrony seems unwilling to review or make changes. Absolutely worst customer service of any credit company. \nI've now been charged {$1000.00} 's of dollars in interest while they continue to force me to pay."
+}
+
+Chunk:
+on xx / xx / year > i purchased home supplies for { $ 8000. 00 }. it was on a 24 month no interest promotion. i noticed after the second statement that i was being charged interest. i called on xx / xx / xxxx and had the store manager send the revised no interest promotion to the synchrony who manages the card. synchrony is incredibly unhelpful and unwilling to accommodate or review any issues. the store " xxxx xxxx'' has been kind and willing to help but synchrony seems unwilling to review or make changes. absolutely worst customer service of any credit company. i've now been charged { $ 1000. 00 }'s of dollars in interest while they continue to force me to pay.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997420907020569
+}

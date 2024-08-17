@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9566827,
+  "complaint_id": "9566827",
+  "product": "Credit card",
+  "complaint_what_happened": "The unauthorized transactions were first reported to XXXX. Messages on the fuel pump that didn't make sense were reported and that I was unable to access my XXXX account. ( Turns out the emails were being diverted and I did not receive. ) In XXXX I called XXXX about emails I was receiving and {$1000.00} payments I was making? For what account? I was given no answer! Wife 's account I understand but enough information could have been shared not compromising that fiduciary relationship, yet given me enough information to understand the situation. \nThe account was set up in my wife 's name, I was trying to set her credit up when I died ( XXXX XXXX ) ( Based on the 20 year difference in our ages. ) I reported some XXXX bogus transactions, since almost the credit card was opened, transactions dating back to XX/XX/2023, I received provisional credit in XXXX. \nThe Credits were reversed in XXXX, the written explanation was that XXXX verified that I had made the transactions and sent me XXXX pages from XXXX detailing the transactions. \nIf anyone had looked at the transactions provided by XXXX they detailed only XXXX or XXXX transactions ( XXXX transactions repeated 4 times ) and all made by me and not disputed. \nThe provisional credit was reversed in early XXXX. Based on their OWN records these transactions occurred mainly at a XXXX store in Virginia.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "42101",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The unauthorized transactions were first reported to XXXX. Messages on the fuel pump that didn't make sense were reported and that I was unable to access my XXXX account. ( Turns out the emails were being diverted and I did not receive. ) In XXXX I called XXXX about emails I was receiving and {$1000.00} payments I was making? For what account? I was given no answer! Wife 's account I understand but enough information could have been shared not compromising that fiduciary relationship, yet given me enough information to understand the situation. \nThe account was set up in my wife 's name, I was trying to set her credit up when I died ( XXXX XXXX ) ( Based on the 20 year difference in our ages. ) I reported some XXXX bogus transactions, since almost the credit card was opened, transactions dating back to XX/XX/2023, I received provisional credit in XXXX. \nThe Credits were reversed in XXXX, the written explanation was that XXXX verified that I had made the transactions and sent me XXXX pages from XXXX detailing the transactions. \nIf anyone had looked at the transactions provided by XXXX they detailed only XXXX or XXXX transactions ( XXXX transactions repeated 4 times ) and all made by me and not disputed. \nThe provisional credit was reversed in early XXXX. Based on their OWN records these transactions occurred mainly at a XXXX store in Virginia."
+}
+
+Chunk:
+the unauthorized transactions were first reported to xxxx. messages on the fuel pump that didn't make sense were reported and that i was unable to access my xxxx account. ( turns out the emails were being diverted and i did not receive. ) in xxxx i called xxxx about emails i was receiving and { $ 1000. 00 } payments i was making? for what account? i was given no answer! wife's account i understand but enough information could have been shared not compromising that fiduciary relationship, yet given me enough information to understand the situation. the account was set up in my wife's name, i was trying to set her credit up when i died ( xxxx xxxx ) ( based on the 20 year difference in our ages. ) i reported some xxxx bogus transactions, since almost the credit card was opened, transactions dating back to xx / xx / 2023, i received provisional credit in xxxx. the credits were reversed in xxxx, the written explanation was that xxxx verified that i had made the transactions and sent me xxxx pages from xxxx detailing the transactions. if anyone had looked at the transactions provided by xxxx they detailed only xxxx or xxxx transactions ( xxxx transactions repeated 4 times ) and all made by me and not disputed. the provisional credit was reversed in early xxxx. based on their own records these transactions occurred mainly at a xxxx store in virginia.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993199110031128
+}

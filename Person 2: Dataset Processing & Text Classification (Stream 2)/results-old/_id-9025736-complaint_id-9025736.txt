@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025736,
+  "complaint_id": "9025736",
+  "product": "Credit card",
+  "complaint_what_happened": "To Whom it may Concern Im writing this letter in regards of my credit standing. I would like to dispute the negative remarks from XXXX XXXX XXXX ( both accounts ), the information is inaccurate and I was not aware of one of the accounts closing. I paid them {$170.00} and I had no idea the account was closed at the time. For both accounts Ive tried to work a payment plan but was refused which is frustrating and its reflecting on my credit report. If any resolve can come from this please let me know.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "60653",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Spring Oaks Capital, LLC",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "To Whom it may Concern Im writing this letter in regards of my credit standing. I would like to dispute the negative remarks from XXXX XXXX XXXX ( both accounts ), the information is inaccurate and I was not aware of one of the accounts closing. I paid them {$170.00} and I had no idea the account was closed at the time. For both accounts Ive tried to work a payment plan but was refused which is frustrating and its reflecting on my credit report. If any resolve can come from this please let me know."
+}
+
+Chunk:
+to whom it may concern im writing this letter in regards of my credit standing. i would like to dispute the negative remarks from xxxx xxxx xxxx ( both accounts ), the information is inaccurate and i was not aware of one of the accounts closing. i paid them { $ 170. 00 } and i had no idea the account was closed at the time. for both accounts ive tried to work a payment plan but was refused which is frustrating and its reflecting on my credit report. if any resolve can come from this please let me know.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983426332473755
+}

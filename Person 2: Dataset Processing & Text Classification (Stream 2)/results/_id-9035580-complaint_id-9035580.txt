@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9035580,
+  "complaint_id": "9035580",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Chase/ Amazon card. Chase decided to utilize the main number at my work ( landline ) at a place that I haven't worked at for 15 years, as my personal/primary phone number on my account. I called to rectify and they said they would. I never provided this number and is a huge security issue to my account, not to mention that I have trouble logging in because I need to verify my identity via a text message to this non-mobile number that is NOT MINE. In addition, they are utilizing a home address for me, not by my choice, which I have NOT lived in over 7 years. This is ridiculous and has to be an illegal practice, not to mention that it has cost me a lot of time and frustration. How is it legal for a credit company to utilize a random phone number and a random address to determine my identity?",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33021",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I opened a Chase/ Amazon card. Chase decided to utilize the main number at my work ( landline ) at a place that I haven't worked at for 15 years, as my personal/primary phone number on my account. I called to rectify and they said they would. I never provided this number and is a huge security issue to my account, not to mention that I have trouble logging in because I need to verify my identity via a text message to this non-mobile number that is NOT MINE. In addition, they are utilizing a home address for me, not by my choice, which I have NOT lived in over 7 years. This is ridiculous and has to be an illegal practice, not to mention that it has cost me a lot of time and frustration. How is it legal for a credit company to utilize a random phone number and a random address to determine my identity?"
+}
+
+Chunk:
+i opened a chase / amazon card. chase decided to utilize the main number at my work ( landline ) at a place that i haven't worked at for 15 years, as my personal / primary phone number on my account. i called to rectify and they said they would. i never provided this number and is a huge security issue to my account, not to mention that i have trouble logging in because i need to verify my identity via a text message to this non - mobile number that is not mine. in addition, they are utilizing a home address for me, not by my choice, which i have not lived in over 7 years. this is ridiculous and has to be an illegal practice, not to mention that it has cost me a lot of time and frustration. how is it legal for a credit company to utilize a random phone number and a random address to determine my identity?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993938207626343
+}

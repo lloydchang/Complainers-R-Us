@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9165129,
+  "complaint_id": "9165129",
+  "product": "Credit card",
+  "complaint_what_happened": "Upon review the files, it comes to the attention that there is an Error of FALSE information about a XXXX XXXX XXXX XXXX XXXX Account # ending : XXXX with the balance of {$5100.00} ( Date open XX/XX/year> ). I have No acknowledgment nor given consent permission to anyone in the institution to use my personal information to obtain or open the account to made unauthorized charges, I have reach out to the institution regarding about this matter and made sure the account open without my permission to be closed, remove and delete. As a Matter of rights under FCRA law to be in compliance, furnish-er of False information must provide any documentation that bears its original owners signature authorization and consent within 5 business days, failure to do so in the essence of time period must have the false information delete or remove before the matter is taken to the court because of Predatory Practice by the institution and the furnish-er of False information. Please taken step necessary to remove and delete prevent any account opened under owners personals information without permission nor consent.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95112",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Upon review the files, it comes to the attention that there is an Error of FALSE information about a XXXX XXXX XXXX XXXX XXXX Account # ending : XXXX with the balance of {$5100.00} ( Date open XX/XX/year> ). I have No acknowledgment nor given consent permission to anyone in the institution to use my personal information to obtain or open the account to made unauthorized charges, I have reach out to the institution regarding about this matter and made sure the account open without my permission to be closed, remove and delete. As a Matter of rights under FCRA law to be in compliance, furnish-er of False information must provide any documentation that bears its original owners signature authorization and consent within 5 business days, failure to do so in the essence of time period must have the false information delete or remove before the matter is taken to the court because of Predatory Practice by the institution and the furnish-er of False information. Please taken step necessary to remove and delete prevent any account opened under owners personals information without permission nor consent."
+}
+
+Chunk:
+upon review the files, it comes to the attention that there is an error of false information about a xxxx xxxx xxxx xxxx xxxx account # ending : xxxx with the balance of { $ 5100. 00 } ( date open xx / xx / year > ). i have no acknowledgment nor given consent permission to anyone in the institution to use my personal information to obtain or open the account to made unauthorized charges, i have reach out to the institution regarding about this matter and made sure the account open without my permission to be closed, remove and delete. as a matter of rights under fcra law to be in compliance, furnish - er of false information must provide any documentation that bears its original owners signature authorization and consent within 5 business days, failure to do so in the essence of time period must have the false information delete or remove before the matter is taken to the court because of predatory practice by the institution and the furnish - er of false information. please taken step necessary to remove and delete prevent any account opened under owners personals information without permission nor consent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988453388214111
+}

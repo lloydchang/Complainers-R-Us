@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9636622,
+  "complaint_id": "9636622",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX,2024 I received a statement of {$180.00}. This balance is made up entirely of fees and interest. On XX/XX/XXXX call, I worked with a customer service agent in the XXXX who confirm the balance would be reduced to XXXX. have been trying to communicate their error since XXXX XXXX, 2024, statement with a balance totaling {$3.00}. I had to request my account be closed in XXXX XXXX,2024, out of frustration due to MACYs agents in the XXXX were unable to understand issue due to a language barrier. Today I opened XX/XX/XXXX statement with a balance of {$230.00}. I need CFPB to help convey the message that Macys can not change fees on fees and interest on fees. What do customers less able to advocate for their situations due? Macys shows only predatorial behavior aimed to ruin credit ratings on those who are in good standing.\n\nI appreciate your advocacy in this case.\n\nRespectfully submitted, XXXX XXXX MACYs closed account number XXXX XXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "062XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "XXXX XXXX,2024 I received a statement of {$180.00}. This balance is made up entirely of fees and interest. On XX/XX/XXXX call, I worked with a customer service agent in the XXXX who confirm the balance would be reduced to XXXX. have been trying to communicate their error since XXXX XXXX, 2024, statement with a balance totaling {$3.00}. I had to request my account be closed in XXXX XXXX,2024, out of frustration due to MACYs agents in the XXXX were unable to understand issue due to a language barrier. Today I opened XX/XX/XXXX statement with a balance of {$230.00}. I need CFPB to help convey the message that Macys can not change fees on fees and interest on fees. What do customers less able to advocate for their situations due? Macys shows only predatorial behavior aimed to ruin credit ratings on those who are in good standing.\n\nI appreciate your advocacy in this case.\n\nRespectfully submitted, XXXX XXXX MACYs closed account number XXXX XXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx, 2024 i received a statement of { $ 180. 00 }. this balance is made up entirely of fees and interest. on xx / xx / xxxx call, i worked with a customer service agent in the xxxx who confirm the balance would be reduced to xxxx. have been trying to communicate their error since xxxx xxxx, 2024, statement with a balance totaling { $ 3. 00 }. i had to request my account be closed in xxxx xxxx, 2024, out of frustration due to macys agents in the xxxx were unable to understand issue due to a language barrier. today i opened xx / xx / xxxx statement with a balance of { $ 230. 00 }. i need cfpb to help convey the message that macys can not change fees on fees and interest on fees. what do customers less able to advocate for their situations due? macys shows only predatorial behavior aimed to ruin credit ratings on those who are in good standing. i appreciate your advocacy in this case. respectfully submitted, xxxx xxxx macys closed account number xxxx xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8934357166290283
+}

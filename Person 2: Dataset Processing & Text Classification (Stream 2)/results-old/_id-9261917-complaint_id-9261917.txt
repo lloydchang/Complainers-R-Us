@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9261917,
+  "complaint_id": "9261917",
+  "product": "Credit card",
+  "complaint_what_happened": "So I have a PayPal CC which is done through Syncrony. They have been telling me they CAN NOT access my account without verification so I told them to send me a code through the mail. I got code and lost my DAD during that time so Im just able to get with them today and now they are saying code is good but they still cant verify my account without my DL. This is absolutely ridiculous. I wanted them to apply my XXXX dollars to my bill and send me bill for the rest but they say they cant without my DL. I SHOULD NOT HAVE TO SEND THIS INFO. I tried to redeem money through the app but apparently my acct is locked down and they wont do it so if I close my acct they are telling me I forfeit my rewards which is unfair since I paid for items bought and earned that money. Please help me get this resolved. Also I shredded original card and only have new one they sent me a while back but because they locked my account down I cant do anything so the new number is XXXX and is the only one I have.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "373XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "So I have a PayPal CC which is done through Syncrony. They have been telling me they CAN NOT access my account without verification so I told them to send me a code through the mail. I got code and lost my DAD during that time so Im just able to get with them today and now they are saying code is good but they still cant verify my account without my DL. This is absolutely ridiculous. I wanted them to apply my XXXX dollars to my bill and send me bill for the rest but they say they cant without my DL. I SHOULD NOT HAVE TO SEND THIS INFO. I tried to redeem money through the app but apparently my acct is locked down and they wont do it so if I close my acct they are telling me I forfeit my rewards which is unfair since I paid for items bought and earned that money. Please help me get this resolved. Also I shredded original card and only have new one they sent me a while back but because they locked my account down I cant do anything so the new number is XXXX and is the only one I have."
+}
+
+Chunk:
+so i have a paypal cc which is done through syncrony. they have been telling me they can not access my account without verification so i told them to send me a code through the mail. i got code and lost my dad during that time so im just able to get with them today and now they are saying code is good but they still cant verify my account without my dl. this is absolutely ridiculous. i wanted them to apply my xxxx dollars to my bill and send me bill for the rest but they say they cant without my dl. i should not have to send this info. i tried to redeem money through the app but apparently my acct is locked down and they wont do it so if i close my acct they are telling me i forfeit my rewards which is unfair since i paid for items bought and earned that money. please help me get this resolved. also i shredded original card and only have new one they sent me a while back but because they locked my account down i cant do anything so the new number is xxxx and is the only one i have.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988948702812195
+}

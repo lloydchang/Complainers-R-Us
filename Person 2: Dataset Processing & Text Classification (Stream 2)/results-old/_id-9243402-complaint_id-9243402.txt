@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9243402,
+  "complaint_id": "9243402",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, my Chase reserve card ( I paid {$550.00} annual fee, which includes fraud protection ) was charged a fraudulent amount of {$190.00} by XXXX. We ordered one Smart Garage Door Opener on XXXX for {$190.00} and paid the entire balance with the XXXX gift card and XXXX credit card ( {$150.00} with our XXXX gift card and {$40.00} with the XXXX credit card ). However, XXXX also charged us another {$190.00} on the Chase credit card. As a result, we were charged twice for one product. In XXXX, we called XXXX four times to dispute this charge, and XXXX mentioned that the charge on the Chase credit card was not from our XXXX account and could not further assist with this issue. They recommended that we dispute this fraudulent charge with our credit card company. \n\nOn XX/XX/year>, we submitted the claim to Chase along with all supporting documents ( including Chase bank statements, XXXX purchase receipts, and all other supports to prove the fraudulent charge ). We requested a call back/follow up from Chase should there be any more information needed. However, we were not contacted and we did not receive any refund. We decided to call Chase on XX/XX/year> to follow up. We were told that there's not enough support provided and the claim was rejected. We have provided everything. Chase went ahead and closed the claim without letting us know and refused to reopen this claim. We have called and spoke with multiple Chase representatives on this and have exhausted everything we can do, but Chase has refused to respond to our request. We need help and protection as every day consumers.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91776",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, my Chase reserve card ( I paid {$550.00} annual fee, which includes fraud protection ) was charged a fraudulent amount of {$190.00} by XXXX. We ordered one Smart Garage Door Opener on XXXX for {$190.00} and paid the entire balance with the XXXX gift card and XXXX credit card ( {$150.00} with our XXXX gift card and {$40.00} with the XXXX credit card ). However, XXXX also charged us another {$190.00} on the Chase credit card. As a result, we were charged twice for one product. In XXXX, we called XXXX four times to dispute this charge, and XXXX mentioned that the charge on the Chase credit card was not from our XXXX account and could not further assist with this issue. They recommended that we dispute this fraudulent charge with our credit card company. \n\nOn XX/XX/year>, we submitted the claim to Chase along with all supporting documents ( including Chase bank statements, XXXX purchase receipts, and all other supports to prove the fraudulent charge ). We requested a call back/follow up from Chase should there be any more information needed. However, we were not contacted and we did not receive any refund. We decided to call Chase on XX/XX/year> to follow up. We were told that there's not enough support provided and the claim was rejected. We have provided everything. Chase went ahead and closed the claim without letting us know and refused to reopen this claim. We have called and spoke with multiple Chase representatives on this and have exhausted everything we can do, but Chase has refused to respond to our request. We need help and protection as every day consumers."
+}
+
+Chunk:
+on xx / xx / year >, my chase reserve card ( i paid { $ 550. 00 } annual fee, which includes fraud protection ) was charged a fraudulent amount of { $ 190. 00 } by xxxx. we ordered one smart garage door opener on xxxx for { $ 190. 00 } and paid the entire balance with the xxxx gift card and xxxx credit card ( { $ 150. 00 } with our xxxx gift card and { $ 40. 00 } with the xxxx credit card ). however, xxxx also charged us another { $ 190. 00 } on the chase credit card. as a result, we were charged twice for one product. in xxxx, we called xxxx four times to dispute this charge, and xxxx mentioned that the charge on the chase credit card was not from our xxxx account and could not further assist with this issue. they recommended that we dispute this fraudulent charge with our credit card company. on xx / xx / year >, we submitted the claim to chase along with all supporting documents ( including chase bank statements, xxxx purchase receipts, and all other supports to prove the fraudulent charge ). we requested a call back / follow up from chase should there be any more information needed. however, we were not contacted and we did not receive any refund. we decided to call chase on xx / xx / year > to follow up. we were told that there's not enough support provided and the claim was rejected. we have provided everything. chase went ahead and closed the claim without letting us know and refused to reopen this claim. we have called and spoke with multiple chase representatives on this and have exhausted everything we can do, but chase has refused to respond to our request. we need help and protection as every day consumers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987300038337708
+}

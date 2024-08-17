@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9445098,
+  "complaint_id": "9445098",
+  "product": "Credit card",
+  "complaint_what_happened": "I closed a credit card account with US bank after redeeming the rewards, the officer who closed the account confirmed that there wont be any issue while redemption of points and credit balance refund, however till date the bank did not issued the refund and every time I call them, they give me a response that the account is under review. While the account was XXXX balance as per the last statement, not sure what the bank is reviewing for 4 weeks",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "088XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I closed a credit card account with US bank after redeeming the rewards, the officer who closed the account confirmed that there wont be any issue while redemption of points and credit balance refund, however till date the bank did not issued the refund and every time I call them, they give me a response that the account is under review. While the account was XXXX balance as per the last statement, not sure what the bank is reviewing for 4 weeks"
+}
+
+Chunk:
+i closed a credit card account with us bank after redeeming the rewards, the officer who closed the account confirmed that there wont be any issue while redemption of points and credit balance refund, however till date the bank did not issued the refund and every time i call them, they give me a response that the account is under review. while the account was xxxx balance as per the last statement, not sure what the bank is reviewing for 4 weeks
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9929870963096619
+}

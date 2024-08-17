@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9584921,
+  "complaint_id": "9584921",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit card that was charged and was used physically in a place where I was not there. The bank told me the used of chip so it means physically presented. \nFirst of all I was in a different location ( XXXX  XXXX ) while the credit card is in my home in the United States. \nThere were 2 charges happened at the same incident the first one was about {$5.00} and the other was {$66.00} which includes tax. \nI was alerted by text messages so i called the bank and told them i did not do any purchases. \nApparently after talking to them they issued credit on both amounts, but the next thing that I know they took the credit back and charge the larger amount which is the {$66.00} to my credit card. \nThey put the charged back to my account because they said the chip was used during purchase. Up to now XX/XX/year> Ive been trying to resolve this by calling the bank several times. \nThis is a dilemma, this happened early XXXX of XXXX  and can not get people to handle it correctly by the US Bank. You have to wait several days for someone to call you back and ended waiting. \nTo me it doesnt make sense they give a credit on the small amount but not on the bigger amount on the same incidents. \nIts actually Im after the righteousness of what happened and in good faith.",
+  "date_sent_to_company": "2024-07-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77083",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-22T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My credit card that was charged and was used physically in a place where I was not there. The bank told me the used of chip so it means physically presented. \nFirst of all I was in a different location ( XXXX  XXXX ) while the credit card is in my home in the United States. \nThere were 2 charges happened at the same incident the first one was about {$5.00} and the other was {$66.00} which includes tax. \nI was alerted by text messages so i called the bank and told them i did not do any purchases. \nApparently after talking to them they issued credit on both amounts, but the next thing that I know they took the credit back and charge the larger amount which is the {$66.00} to my credit card. \nThey put the charged back to my account because they said the chip was used during purchase. Up to now XX/XX/year> Ive been trying to resolve this by calling the bank several times. \nThis is a dilemma, this happened early XXXX of XXXX  and can not get people to handle it correctly by the US Bank. You have to wait several days for someone to call you back and ended waiting. \nTo me it doesnt make sense they give a credit on the small amount but not on the bigger amount on the same incidents. \nIts actually Im after the righteousness of what happened and in good faith."
+}
+
+Chunk:
+my credit card that was charged and was used physically in a place where i was not there. the bank told me the used of chip so it means physically presented. first of all i was in a different location ( xxxx xxxx ) while the credit card is in my home in the united states. there were 2 charges happened at the same incident the first one was about { $ 5. 00 } and the other was { $ 66. 00 } which includes tax. i was alerted by text messages so i called the bank and told them i did not do any purchases. apparently after talking to them they issued credit on both amounts, but the next thing that i know they took the credit back and charge the larger amount which is the { $ 66. 00 } to my credit card. they put the charged back to my account because they said the chip was used during purchase. up to now xx / xx / year > ive been trying to resolve this by calling the bank several times. this is a dilemma, this happened early xxxx of xxxx and can not get people to handle it correctly by the us bank. you have to wait several days for someone to call you back and ended waiting. to me it doesnt make sense they give a credit on the small amount but not on the bigger amount on the same incidents. its actually im after the righteousness of what happened and in good faith.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990668892860413
+}

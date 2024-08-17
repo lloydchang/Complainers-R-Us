@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151565,
+  "complaint_id": "9151565",
+  "product": "Credit card",
+  "complaint_what_happened": "On or around XX/XX/XXXX, XXXX XXXX XXXX a XXXX XXXX {$1500.00} ) under my name without my consent or knowledge. I called the company ( Fortiva ) to inquire about the new credit card. I was told it was given to me for being a \" loyal customer since 2018 '', I mentioned to him that I did NOT ASK for the card. \n\nNow, that the card has been sent to me, my credit score has dropped XXXX points. This is an unwanted card so I have no intention on activating the credit card, therefore the card will be closed for inactivity which will affect my credit score again .... For a card I didn't ask for.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "31322",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On or around XX/XX/XXXX, XXXX XXXX XXXX a XXXX XXXX {$1500.00} ) under my name without my consent or knowledge. I called the company ( Fortiva ) to inquire about the new credit card. I was told it was given to me for being a \" loyal customer since 2018 '', I mentioned to him that I did NOT ASK for the card. \n\nNow, that the card has been sent to me, my credit score has dropped XXXX points. This is an unwanted card so I have no intention on activating the credit card, therefore the card will be closed for inactivity which will affect my credit score again .... For a card I didn't ask for."
+}
+
+Chunk:
+on or around xx / xx / xxxx, xxxx xxxx xxxx a xxxx xxxx { $ 1500. 00 } ) under my name without my consent or knowledge. i called the company ( fortiva ) to inquire about the new credit card. i was told it was given to me for being a " loyal customer since 2018'', i mentioned to him that i did not ask for the card. now, that the card has been sent to me, my credit score has dropped xxxx points. this is an unwanted card so i have no intention on activating the credit card, therefore the card will be closed for inactivity which will affect my credit score again.... for a card i didn't ask for.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995313882827759
+}

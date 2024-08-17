@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9171274,
+  "complaint_id": "9171274",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/24 while purchasing airline tickets on XXXX, a Special Offer was made on my computer screen to receive a {$400.00} statement credit on the ticket I was purchasing ( I have a screen shot ). I read the conditions for the statement credit ( I also have a screen shot of this ) and decided to proceed XX/XX/24 I clicked on the offer and completed the credit application for Platinum Select Citi Card XX/XX/24 I was approved and given a temporary digital card which I used to complete the ticket purchase ( I have a receipt ) I then waited the required XXXX weeks for a statement credit to be given on my new account The statement falling within the XXXX weeks waiting period closed on XX/XX/24 When I received that statement, I contacted customer service on XX/XX/24 and spoke with XXXX. She advised me to email XXXX XX/XX/24 I emailed XXXX from my personal email explaining I had been offered the special statement credit while applying for a NEW card XX/XX/24 I had not received a response to my email, so I followed up with a second request XX/XX/24 I still had received no response to my email, so I called customer service again. XXXX advised me that they have XXXX BUSINESS DAYS to respond to my email XX/XX/24 I received a letter dated XX/XX/24 and post marked XX/XX/24 ( which XXXX knew nothing about ) denying the {$400.00} new account offer to be applied to my EXISTING account I only opened the account because of the offer and I have no other existing accounts with Citi. \nXX/XX/24 after receiving the letter, I called the number given in the letter to receive further assistance as instructed and spoke with XXXX. He advised that new account inquiries need to be submitted within 90 days. At the 90 day point, I was waiting for the required XXXX weeks to receive the statement credit as explained above. He offered to transfer me to a supervisor and I then spoke with XXXX. She advised she could not help and that I needed to start the process all over by emailing the same email as before. \nXX/XX/24 - I received a second letter denying to honor the offer saying it was a generic online offer and I was not solicited for it. My screen shot says differently. \n\nTo advertise a promotional statement credit and then not honor the promotion is fraudulent and misleading. Consumers should beware.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "380XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "XX/XX/24 while purchasing airline tickets on XXXX, a Special Offer was made on my computer screen to receive a {$400.00} statement credit on the ticket I was purchasing ( I have a screen shot ). I read the conditions for the statement credit ( I also have a screen shot of this ) and decided to proceed XX/XX/24 I clicked on the offer and completed the credit application for Platinum Select Citi Card XX/XX/24 I was approved and given a temporary digital card which I used to complete the ticket purchase ( I have a receipt ) I then waited the required XXXX weeks for a statement credit to be given on my new account The statement falling within the XXXX weeks waiting period closed on XX/XX/24 When I received that statement, I contacted customer service on XX/XX/24 and spoke with XXXX. She advised me to email XXXX XX/XX/24 I emailed XXXX from my personal email explaining I had been offered the special statement credit while applying for a NEW card XX/XX/24 I had not received a response to my email, so I followed up with a second request XX/XX/24 I still had received no response to my email, so I called customer service again. XXXX advised me that they have XXXX BUSINESS DAYS to respond to my email XX/XX/24 I received a letter dated XX/XX/24 and post marked XX/XX/24 ( which XXXX knew nothing about ) denying the {$400.00} new account offer to be applied to my EXISTING account I only opened the account because of the offer and I have no other existing accounts with Citi. \nXX/XX/24 after receiving the letter, I called the number given in the letter to receive further assistance as instructed and spoke with XXXX. He advised that new account inquiries need to be submitted within 90 days. At the 90 day point, I was waiting for the required XXXX weeks to receive the statement credit as explained above. He offered to transfer me to a supervisor and I then spoke with XXXX. She advised she could not help and that I needed to start the process all over by emailing the same email as before. \nXX/XX/24 - I received a second letter denying to honor the offer saying it was a generic online offer and I was not solicited for it. My screen shot says differently. \n\nTo advertise a promotional statement credit and then not honor the promotion is fraudulent and misleading. Consumers should beware."
+}
+
+Chunk:
+beware.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9825636744499207
+}

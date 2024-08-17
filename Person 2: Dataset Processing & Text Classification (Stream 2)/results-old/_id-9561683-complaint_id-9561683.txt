@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9561683,
+  "complaint_id": "9561683",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America was contacted by you on my behalf in XX/XX/year> and again at the beginning of the month and they refuse to send me proof they closed the account by letter as ALL other financial institutions and stores can easily do. Should I contact the state 's attorney general or Congressman to get you to help me force them to comply. This is ridiculous. See attached proof.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22202",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "Bank of America was contacted by you on my behalf in XX/XX/year> and again at the beginning of the month and they refuse to send me proof they closed the account by letter as ALL other financial institutions and stores can easily do. Should I contact the state 's attorney general or Congressman to get you to help me force them to comply. This is ridiculous. See attached proof."
+}
+
+Chunk:
+bank of america was contacted by you on my behalf in xx / xx / year > and again at the beginning of the month and they refuse to send me proof they closed the account by letter as all other financial institutions and stores can easily do. should i contact the state's attorney general or congressman to get you to help me force them to comply. this is ridiculous. see attached proof.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994840621948242
+}

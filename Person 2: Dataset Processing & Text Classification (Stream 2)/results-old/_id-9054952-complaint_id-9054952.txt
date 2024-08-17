@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9054952,
+  "complaint_id": "9054952",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed a charge of {$86.00} from the XXXX XXXX XXXX \" XXXX XXXX '' on Wednesday XX/XX/year>. I have not been to that establishment in over three months so it's impossible for this charge to have occurred. I called them the same day and asked for more information regarding this charge because I suspected fraud. They told me there was a glitch in their billing system and several other people had been impacted by this glitch. I disputed the charge with AMEX. AMEX reached out to XXXX XXXX who sent them over a receipt of the transaction so they denied my dispute. However, since there was a glitch in their billing system, and I had already visited this location in the past, they would no doubt have my information handy and can easily produce a receipt. You can check my phone information, or other data, I was nowhere near that establishment at the time the transaction occurred.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75056",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I noticed a charge of {$86.00} from the XXXX XXXX XXXX \" XXXX XXXX '' on Wednesday XX/XX/year>. I have not been to that establishment in over three months so it's impossible for this charge to have occurred. I called them the same day and asked for more information regarding this charge because I suspected fraud. They told me there was a glitch in their billing system and several other people had been impacted by this glitch. I disputed the charge with AMEX. AMEX reached out to XXXX XXXX who sent them over a receipt of the transaction so they denied my dispute. However, since there was a glitch in their billing system, and I had already visited this location in the past, they would no doubt have my information handy and can easily produce a receipt. You can check my phone information, or other data, I was nowhere near that establishment at the time the transaction occurred."
+}
+
+Chunk:
+i noticed a charge of { $ 86. 00 } from the xxxx xxxx xxxx " xxxx xxxx'' on wednesday xx / xx / year >. i have not been to that establishment in over three months so it's impossible for this charge to have occurred. i called them the same day and asked for more information regarding this charge because i suspected fraud. they told me there was a glitch in their billing system and several other people had been impacted by this glitch. i disputed the charge with amex. amex reached out to xxxx xxxx who sent them over a receipt of the transaction so they denied my dispute. however, since there was a glitch in their billing system, and i had already visited this location in the past, they would no doubt have my information handy and can easily produce a receipt. you can check my phone information, or other data, i was nowhere near that establishment at the time the transaction occurred.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991772770881653
+}

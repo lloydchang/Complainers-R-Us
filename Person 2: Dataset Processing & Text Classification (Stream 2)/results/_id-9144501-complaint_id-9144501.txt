@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144501,
+  "complaint_id": "9144501",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase is in violation of 12 CFR 1026.11 - Treatment of credit balances ; account termination.\n\n12 CFR 1026.11 section ( A of 1,2,3 ) : Chase has not credited my account which shows that it is in excess of {$1.00}. Chase has not made a good faith effort to refund me any part of the remaining credit balance in the account by cash, check, or money order, or credit to a deposit account of the consumer.\n\n12 CFR 1026.11 ( A ) - Please complete your fiduciary duty and credit the account for the amount of the credit balance of my account.\n\n12 CFR 1026.11 ( A ) - Please complete your fiduciary duty and Refund any part of the remaining credit balance to my deposit account",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34952",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Chase is in violation of 12 CFR 1026.11 - Treatment of credit balances ; account termination.\n\n12 CFR 1026.11 section ( A of 1,2,3 ) : Chase has not credited my account which shows that it is in excess of {$1.00}. Chase has not made a good faith effort to refund me any part of the remaining credit balance in the account by cash, check, or money order, or credit to a deposit account of the consumer.\n\n12 CFR 1026.11 ( A ) - Please complete your fiduciary duty and credit the account for the amount of the credit balance of my account.\n\n12 CFR 1026.11 ( A ) - Please complete your fiduciary duty and Refund any part of the remaining credit balance to my deposit account"
+}
+
+Chunk:
+chase is in violation of 12 cfr 1026. 11 - treatment of credit balances ; account termination. 12 cfr 1026. 11 section ( a of 1, 2, 3 ) : chase has not credited my account which shows that it is in excess of { $ 1. 00 }. chase has not made a good faith effort to refund me any part of the remaining credit balance in the account by cash, check, or money order, or credit to a deposit account of the consumer. 12 cfr 1026. 11 ( a ) - please complete your fiduciary duty and credit the account for the amount of the credit balance of my account. 12 cfr 1026. 11 ( a ) - please complete your fiduciary duty and refund any part of the remaining credit balance to my deposit account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987210631370544
+}

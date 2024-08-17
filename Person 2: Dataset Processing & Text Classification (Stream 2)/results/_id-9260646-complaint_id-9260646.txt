@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9260646,
+  "complaint_id": "9260646",
+  "product": "Credit card",
+  "complaint_what_happened": "I signed up for an American Express card last year in XXXX or so. I was told I was getting a 0 % interest rate and a {$200.00} statement credit once I spent a set dollar amount ( which I reached almost immediately ). I called them back in the spring to get information on why I didnt get my credit and they told me there was no such thing and thats not what their agreement said. It 100 % told me on XXXX that American Express would provide both the promo interest rate and the credit. I have seen so many people complain about this on American Express. Its a problem that needs to be addressed.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "42303",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I signed up for an American Express card last year in XXXX or so. I was told I was getting a 0 % interest rate and a {$200.00} statement credit once I spent a set dollar amount ( which I reached almost immediately ). I called them back in the spring to get information on why I didnt get my credit and they told me there was no such thing and thats not what their agreement said. It 100 % told me on XXXX that American Express would provide both the promo interest rate and the credit. I have seen so many people complain about this on American Express. Its a problem that needs to be addressed."
+}
+
+Chunk:
+i signed up for an american express card last year in xxxx or so. i was told i was getting a 0 % interest rate and a { $ 200. 00 } statement credit once i spent a set dollar amount ( which i reached almost immediately ). i called them back in the spring to get information on why i didnt get my credit and they told me there was no such thing and thats not what their agreement said. it 100 % told me on xxxx that american express would provide both the promo interest rate and the credit. i have seen so many people complain about this on american express. its a problem that needs to be addressed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993746876716614
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9538064,
+  "complaint_id": "9538064",
+  "product": "Credit card",
+  "complaint_what_happened": "Starting late XXXX of this year XXXX purchases were made off of my XXXX account using my Old Navy store card that was linked to my XXXX account. I did not realize this card was still linked to my XXXX account, which was already confirmed It has been hacked confirmed by the XXXX XXXX XXXX XXXX. They confirmed this when the attempts were made on my XXXX XXXX XXXX XXXX XXXX transactions were made before I realized that my XXXX was still being used with one of my current cards still linked to it. I have contact XXXX. I have contacted Barclays Bank and XXXX to look into these fraudulent purchases, and they all keep coming back to me that they can not confirm its fraud.I was at my job at the time of almost all of these purchases. I also have not used XXXX in a long time because I have my own car now. I had asked XXXX to at least tell me where these XXXX rides were located and they couldnt give me that information so I have no idea if they were even in my own hometown. I keep re-opening the claims through Barclays bank, even though theyve came back to me several times that they cant confirm anything. \nXX/XX/XXXX, XXXX {$22.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$3.00} XX/XX/XXXX, XXXX {$19.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$16.00} I also dont know if it matters but the card these purchases were made on has been canceled and I have a new one.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "13090",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Starting late XXXX of this year XXXX purchases were made off of my XXXX account using my Old Navy store card that was linked to my XXXX account. I did not realize this card was still linked to my XXXX account, which was already confirmed It has been hacked confirmed by the XXXX XXXX XXXX XXXX. They confirmed this when the attempts were made on my XXXX XXXX XXXX XXXX XXXX transactions were made before I realized that my XXXX was still being used with one of my current cards still linked to it. I have contact XXXX. I have contacted Barclays Bank and XXXX to look into these fraudulent purchases, and they all keep coming back to me that they can not confirm its fraud.I was at my job at the time of almost all of these purchases. I also have not used XXXX in a long time because I have my own car now. I had asked XXXX to at least tell me where these XXXX rides were located and they couldnt give me that information so I have no idea if they were even in my own hometown. I keep re-opening the claims through Barclays bank, even though theyve came back to me several times that they cant confirm anything. \nXX/XX/XXXX, XXXX {$22.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$3.00} XX/XX/XXXX, XXXX {$19.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$16.00} I also dont know if it matters but the card these purchases were made on has been canceled and I have a new one."
+}
+
+Chunk:
+starting late xxxx of this year xxxx purchases were made off of my xxxx account using my old navy store card that was linked to my xxxx account. i did not realize this card was still linked to my xxxx account, which was already confirmed it has been hacked confirmed by the xxxx xxxx xxxx xxxx. they confirmed this when the attempts were made on my xxxx xxxx xxxx xxxx xxxx transactions were made before i realized that my xxxx was still being used with one of my current cards still linked to it. i have contact xxxx. i have contacted barclays bank and xxxx to look into these fraudulent purchases, and they all keep coming back to me that they can not confirm its fraud. i was at my job at the time of almost all of these purchases. i also have not used xxxx in a long time because i have my own car now. i had asked xxxx to at least tell me where these xxxx rides were located and they couldnt give me that information so i have no idea if they were even in my own hometown. i keep re - opening the claims through barclays bank, even though theyve came back to me several times that they cant confirm anything. xx / xx / xxxx, xxxx { $ 22. 00 } xx / xx / xxxx, xxxx { $ 24. 00 } xx / xx / xxxx, xxxx { $ 3. 00 } xx / xx / xxxx, xxxx { $ 19. 00 } xx / xx / xxxx, xxxx { $ 24. 00 } xx / xx / xxxx, xxxx { $ 16. 00 } i also dont know if it matters but the card these purchases were made on has been canceled and i have a new one.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983616471290588
+}

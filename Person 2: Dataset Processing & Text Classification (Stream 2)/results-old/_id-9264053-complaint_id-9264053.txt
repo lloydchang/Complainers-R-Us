@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9264053,
+  "complaint_id": "9264053",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XX/XX/year> I attempted to make a purchase using my AMEX Business credit card and was declined. I contacted AMEX only to find out/be told that my credit limit had been reduced because of inquiries, other credit limits and my XXXX score. I entered into a contract with AMEX on XX/XX/year> with a {$5000.00} credit limit, 2 weeks later I looked online at the credit limit was {$3000.00} ( no correspondence was sent explaining why ). XX/XX/year> AMEX ran my credit without my written or verbal permission to pull a FICO of XXXX and at that time decided to lower the business credit even lower to {$900.00} and sent a letter on XX/XX/year> that still has not arrived. I asked 2 representatives on XXXX XX/XX/year> for a copy of the initial credit report pulled, initial contract we went into with the {$5000.00} credit limit, a copy of the credit report pulled on XX/XX/XXXX XXXX and a copy of the decision letter. I was told that those items were system generated and that they could not send me any copies, I asked why and was told that any correspondence sent by AMEX is system generator and that AMEX has done nothing illegal by reviewing my credit to make a decision to increase or decrease my business credit. When I spoke up and said that I had not given written or verbal permission to run my credit I was told that it was a summary review and in the initial credit card agreement I agreed to allow AMEX to review and run my credit for updates.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30252",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "On XXXX XX/XX/year> I attempted to make a purchase using my AMEX Business credit card and was declined. I contacted AMEX only to find out/be told that my credit limit had been reduced because of inquiries, other credit limits and my XXXX score. I entered into a contract with AMEX on XX/XX/year> with a {$5000.00} credit limit, 2 weeks later I looked online at the credit limit was {$3000.00} ( no correspondence was sent explaining why ). XX/XX/year> AMEX ran my credit without my written or verbal permission to pull a FICO of XXXX and at that time decided to lower the business credit even lower to {$900.00} and sent a letter on XX/XX/year> that still has not arrived. I asked 2 representatives on XXXX XX/XX/year> for a copy of the initial credit report pulled, initial contract we went into with the {$5000.00} credit limit, a copy of the credit report pulled on XX/XX/XXXX XXXX and a copy of the decision letter. I was told that those items were system generated and that they could not send me any copies, I asked why and was told that any correspondence sent by AMEX is system generator and that AMEX has done nothing illegal by reviewing my credit to make a decision to increase or decrease my business credit. When I spoke up and said that I had not given written or verbal permission to run my credit I was told that it was a summary review and in the initial credit card agreement I agreed to allow AMEX to review and run my credit for updates."
+}
+
+Chunk:
+on xxxx xx / xx / year > i attempted to make a purchase using my amex business credit card and was declined. i contacted amex only to find out / be told that my credit limit had been reduced because of inquiries, other credit limits and my xxxx score. i entered into a contract with amex on xx / xx / year > with a { $ 5000. 00 } credit limit, 2 weeks later i looked online at the credit limit was { $ 3000. 00 } ( no correspondence was sent explaining why ). xx / xx / year > amex ran my credit without my written or verbal permission to pull a fico of xxxx and at that time decided to lower the business credit even lower to { $ 900. 00 } and sent a letter on xx / xx / year > that still has not arrived. i asked 2 representatives on xxxx xx / xx / year > for a copy of the initial credit report pulled, initial contract we went into with the { $ 5000. 00 } credit limit, a copy of the credit report pulled on xx / xx / xxxx xxxx and a copy of the decision letter. i was told that those items were system generated and that they could not send me any copies, i asked why and was told that any correspondence sent by amex is system generator and that amex has done nothing illegal by reviewing my credit to make a decision to increase or decrease my business credit. when i spoke up and said that i had not given written or verbal permission to run my credit i was told that it was a summary review and in the initial credit card agreement i agreed to allow amex to review and run my credit for updates.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988977909088135
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036466,
+  "complaint_id": "9036466",
+  "product": "Credit card",
+  "complaint_what_happened": "My SOFI credit card was fraudulently used at XXXX XXXX on XX/XX/23 for {$3100.00}, and the issue was disputed with SOFI, and a police report was filed and submitted to SOFI as requested. Since then, SOFI has refused to resolve the issues and also went further to report them on my credit history as an unpaid debt. I reported the issue to XXXX and XXXX but it is still not resolved. Currently, it is affecting my credit history. Please, I need help with this issue.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01960",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SOFI TECHNOLOGIES, INC.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My SOFI credit card was fraudulently used at XXXX XXXX on XX/XX/23 for {$3100.00}, and the issue was disputed with SOFI, and a police report was filed and submitted to SOFI as requested. Since then, SOFI has refused to resolve the issues and also went further to report them on my credit history as an unpaid debt. I reported the issue to XXXX and XXXX but it is still not resolved. Currently, it is affecting my credit history. Please, I need help with this issue."
+}
+
+Chunk:
+my sofi credit card was fraudulently used at xxxx xxxx on xx / xx / 23 for { $ 3100. 00 }, and the issue was disputed with sofi, and a police report was filed and submitted to sofi as requested. since then, sofi has refused to resolve the issues and also went further to report them on my credit history as an unpaid debt. i reported the issue to xxxx and xxxx but it is still not resolved. currently, it is affecting my credit history. please, i need help with this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977415800094604
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9002953,
+  "complaint_id": "9002953",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I ordered a new XXXX XXXX from XXXX. It said it would be delivered on or about XXXX then a delayed arrival of XX/XX/year>. It NEVER arrived. \n\nI called in various times to cancel the order since I was going off XXXX and would just buy a new printer at XXXX instead. After several conversations online in Chat and by Email and Phone, eventually a couple of different service representatives reached out to me trying to resolve the issue. I reiterated that I had NEVER received the item therefore it was ridiculous. The tracking number issued for the delivery was actually the same number used for another delivery as well. There were discrepancies with the entire delivery order. They wanted me to wait until they initially received the returned item in their hands before attempting to resolve the issue. I complained and said NO - IM NOT WAITING for that scenario to happen. Fix my account immediately. \n\nThis was in XXXX, fast forward 2 months later ( XX/XX/year> ) - I'm still being assessed late charges on my credit report now stating I'm 30 days late in making payments towards my Commenity Bank Dell Pay accout .... \n\nAfter speaking to a Case Specialist ( Name : XXXX XXXX ) for order number XXXX he said in an email describing an Approval for Refund status on XX/XX/year> and he'll follow up in 2-3 business days. Still no response. NO resolution, NO Credit issued, NOTHING!!! \n\nI'm at a loss as I'm evaluating my options on filing a Lawsuit requesting damages and court fees for this problem. They are ruining my credit further by not resolving this issue. \n\nMy phone number is XXXX. \n\nThank you XXXX XXXX",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "967XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> I ordered a new XXXX XXXX from XXXX. It said it would be delivered on or about XXXX then a delayed arrival of XX/XX/year>. It NEVER arrived. \n\nI called in various times to cancel the order since I was going off XXXX and would just buy a new printer at XXXX instead. After several conversations online in Chat and by Email and Phone, eventually a couple of different service representatives reached out to me trying to resolve the issue. I reiterated that I had NEVER received the item therefore it was ridiculous. The tracking number issued for the delivery was actually the same number used for another delivery as well. There were discrepancies with the entire delivery order. They wanted me to wait until they initially received the returned item in their hands before attempting to resolve the issue. I complained and said NO - IM NOT WAITING for that scenario to happen. Fix my account immediately. \n\nThis was in XXXX, fast forward 2 months later ( XX/XX/year> ) - I'm still being assessed late charges on my credit report now stating I'm 30 days late in making payments towards my Commenity Bank Dell Pay accout .... \n\nAfter speaking to a Case Specialist ( Name : XXXX XXXX ) for order number XXXX he said in an email describing an Approval for Refund status on XX/XX/year> and he'll follow up in 2-3 business days. Still no response. NO resolution, NO Credit issued, NOTHING!!! \n\nI'm at a loss as I'm evaluating my options on filing a Lawsuit requesting damages and court fees for this problem. They are ruining my credit further by not resolving this issue. \n\nMy phone number is XXXX. \n\nThank you XXXX XXXX"
+}
+
+Chunk:
+on xx / xx / year > i ordered a new xxxx xxxx from xxxx. it said it would be delivered on or about xxxx then a delayed arrival of xx / xx / year >. it never arrived. i called in various times to cancel the order since i was going off xxxx and would just buy a new printer at xxxx instead. after several conversations online in chat and by email and phone, eventually a couple of different service representatives reached out to me trying to resolve the issue. i reiterated that i had never received the item therefore it was ridiculous. the tracking number issued for the delivery was actually the same number used for another delivery as well. there were discrepancies with the entire delivery order. they wanted me to wait until they initially received the returned item in their hands before attempting to resolve the issue. i complained and said no - im not waiting for that scenario to happen. fix my account immediately. this was in xxxx, fast forward 2 months later ( xx / xx / year > ) - i'm still being assessed late charges on my credit report now stating i'm 30 days late in making payments towards my commenity bank dell pay accout.... after speaking to a case specialist ( name : xxxx xxxx ) for order number xxxx he said in an email describing an approval for refund status on xx / xx / year > and he'll follow up in 2 - 3 business days. still no response. no resolution, no credit issued, nothing!!! i'm at a loss as i'm evaluating my options on filing a lawsuit requesting damages and court fees for this problem. they are ruining my credit further by not resolving this issue. my phone number is xxxx. thank you xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997478127479553
+}

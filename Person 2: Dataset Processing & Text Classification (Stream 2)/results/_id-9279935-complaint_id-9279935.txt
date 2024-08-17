@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9279935,
+  "complaint_id": "9279935",
+  "product": "Credit card",
+  "complaint_what_happened": "Inquiry into credit to open a credit card with my information without my knowledge or consent on XX/XX/year>",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "03053",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Inquiry into credit to open a credit card with my information without my knowledge or consent on XX/XX/year>"
+}
+
+Chunk:
+inquiry into credit to open a credit card with my information without my knowledge or consent on xx / xx / year >
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.982962965965271
+}

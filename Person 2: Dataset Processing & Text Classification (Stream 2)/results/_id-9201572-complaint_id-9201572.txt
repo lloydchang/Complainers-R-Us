@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9201572,
+  "complaint_id": "9201572",
+  "product": "Credit card",
+  "complaint_what_happened": "While I do have an open complaint, I am adding to the complaint. \n\nXXXX XXXX told me that it takes 10 days to transfer an overpayment from the credit card to my bank account. I called her twice today ( XX/XX/year> ) with no return telephone call. Previously, a different individual wanted to send me a check in XXXX billing cycles ( 60 day ). In both cases this is a fraudulent scheme for Bank of America to keep the money and earn interest on the money. If a payment can be paid from my bank account to the credit card division in 1 day, there is no reason that they can't transfer an overpayment in one day. I want interest at 6 % on the money they are holding. \n\nI have wasted about 3/4 of an hour dealing with the hurdles Bank of America has placed in order to hold on to the money for as long as possible. I am a XXXX XXXX XXXX XXXX  and XXXX XXXX XXXX from the XXXX XXXX. My billing rate is {$300.00} per hour. I want Bank of America to pay me {$220.00} due to their fraudulent actions. \n\nThank you. \n\n\nXXXX XXXX",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "While I do have an open complaint, I am adding to the complaint. \n\nXXXX XXXX told me that it takes 10 days to transfer an overpayment from the credit card to my bank account. I called her twice today ( XX/XX/year> ) with no return telephone call. Previously, a different individual wanted to send me a check in XXXX billing cycles ( 60 day ). In both cases this is a fraudulent scheme for Bank of America to keep the money and earn interest on the money. If a payment can be paid from my bank account to the credit card division in 1 day, there is no reason that they can't transfer an overpayment in one day. I want interest at 6 % on the money they are holding. \n\nI have wasted about 3/4 of an hour dealing with the hurdles Bank of America has placed in order to hold on to the money for as long as possible. I am a XXXX XXXX XXXX XXXX  and XXXX XXXX XXXX from the XXXX XXXX. My billing rate is {$300.00} per hour. I want Bank of America to pay me {$220.00} due to their fraudulent actions. \n\nThank you. \n\n\nXXXX XXXX"
+}
+
+Chunk:
+while i do have an open complaint, i am adding to the complaint. xxxx xxxx told me that it takes 10 days to transfer an overpayment from the credit card to my bank account. i called her twice today ( xx / xx / year > ) with no return telephone call. previously, a different individual wanted to send me a check in xxxx billing cycles ( 60 day ). in both cases this is a fraudulent scheme for bank of america to keep the money and earn interest on the money. if a payment can be paid from my bank account to the credit card division in 1 day, there is no reason that they can't transfer an overpayment in one day. i want interest at 6 % on the money they are holding. i have wasted about 3 / 4 of an hour dealing with the hurdles bank of america has placed in order to hold on to the money for as long as possible. i am a xxxx xxxx xxxx xxxx and xxxx xxxx xxxx from the xxxx xxxx. my billing rate is { $ 300. 00 } per hour. i want bank of america to pay me { $ 220. 00 } due to their fraudulent actions. thank you. xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982650876045227
+}

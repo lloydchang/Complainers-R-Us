@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9379533,
+  "complaint_id": "9379533",
+  "product": "Credit card",
+  "complaint_what_happened": "I made an online booking using my credit card for traveling. on Sat, XXXXXXXX XXXX XXXX XXXXXXXX I went on CitiTravel.com and used my points ( XXXX points ) to book a 2-week stay from XX/XX/year> - XX/XX/year> When I arrived at my hotel, the booking was inaccurate. I specified a Deluxe Suite for my stay but on the hotel 's booking confirmation, it showed as a standard queen room which is not what I booked. \n\nI showed them my confirmation and it was very odd that whatever I booked did not show on the hotel 's confirmation. Nevertheless, I could not stay in that room and immediately booked another hotel in person. \n\nThis will all be resolved once I contacted the Citi Travel Department, who assured me that this would all be resolved. One year later with all my follow-up and evidence of incorrect confirmations, I still don't have my XXXX points or cash equivalent refunded to me. \n\nAfter countless amount of times that I reached out not one representative of CitiTravel told me to file a complaint and I had to be referred to CFPB by an attorney that is handling a case against CitiBank for other matters.",
+  "date_sent_to_company": "2024-06-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91504",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I made an online booking using my credit card for traveling. on Sat, XXXXXXXX XXXX XXXX XXXXXXXX I went on CitiTravel.com and used my points ( XXXX points ) to book a 2-week stay from XX/XX/year> - XX/XX/year> When I arrived at my hotel, the booking was inaccurate. I specified a Deluxe Suite for my stay but on the hotel 's booking confirmation, it showed as a standard queen room which is not what I booked. \n\nI showed them my confirmation and it was very odd that whatever I booked did not show on the hotel 's confirmation. Nevertheless, I could not stay in that room and immediately booked another hotel in person. \n\nThis will all be resolved once I contacted the Citi Travel Department, who assured me that this would all be resolved. One year later with all my follow-up and evidence of incorrect confirmations, I still don't have my XXXX points or cash equivalent refunded to me. \n\nAfter countless amount of times that I reached out not one representative of CitiTravel told me to file a complaint and I had to be referred to CFPB by an attorney that is handling a case against CitiBank for other matters."
+}
+
+Chunk:
+i made an online booking using my credit card for traveling. on sat, xxxxxxxx xxxx xxxx xxxxxxxx i went on cititravel. com and used my points ( xxxx points ) to book a 2 - week stay from xx / xx / year > - xx / xx / year > when i arrived at my hotel, the booking was inaccurate. i specified a deluxe suite for my stay but on the hotel's booking confirmation, it showed as a standard queen room which is not what i booked. i showed them my confirmation and it was very odd that whatever i booked did not show on the hotel's confirmation. nevertheless, i could not stay in that room and immediately booked another hotel in person. this will all be resolved once i contacted the citi travel department, who assured me that this would all be resolved. one year later with all my follow - up and evidence of incorrect confirmations, i still don't have my xxxx points or cash equivalent refunded to me. after countless amount of times that i reached out not one representative of cititravel told me to file a complaint and i had to be referred to cfpb by an attorney that is handling a case against citibank for other matters.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993360638618469
+}

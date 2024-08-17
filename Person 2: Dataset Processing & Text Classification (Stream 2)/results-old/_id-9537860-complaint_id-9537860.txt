@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9537860,
+  "complaint_id": "9537860",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a serious problem with Citibank which remains unresolved for more than 90 days. ( This is not what my complaint is about. Citibank owes me a check for the rewards balance of an account which Citibank closed on XX/XX/year>. Citibank does not deny the reward is owed, they just have failed to pay it. ). On XX/XX/year> I filed a request for arbitration exactly as required by Citibank, using the arbitration contact, XXXX XXXX XXXX ( XXXX ), provided by Citibank. I received confirmation that XXXX had received my request and I would hear from a case manager within 2-5 business days. I heard from no one after 5 business days. I waited another 5 business days and still heard from no one. After 10 business days on XX/XX/year> I emailed XXXX and asked for contact and status update. Today, 2 business days later, I have not had a response to the request for arbitration, nor the request for status. Citibank should not be permitted to require arbitration in their customer agreements because it is obviously not a XXXX XXXX for resolution.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34761",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "I have a serious problem with Citibank which remains unresolved for more than 90 days. ( This is not what my complaint is about. Citibank owes me a check for the rewards balance of an account which Citibank closed on XX/XX/year>. Citibank does not deny the reward is owed, they just have failed to pay it. ). On XX/XX/year> I filed a request for arbitration exactly as required by Citibank, using the arbitration contact, XXXX XXXX XXXX ( XXXX ), provided by Citibank. I received confirmation that XXXX had received my request and I would hear from a case manager within 2-5 business days. I heard from no one after 5 business days. I waited another 5 business days and still heard from no one. After 10 business days on XX/XX/year> I emailed XXXX and asked for contact and status update. Today, 2 business days later, I have not had a response to the request for arbitration, nor the request for status. Citibank should not be permitted to require arbitration in their customer agreements because it is obviously not a XXXX XXXX for resolution."
+}
+
+Chunk:
+i have a serious problem with citibank which remains unresolved for more than 90 days. ( this is not what my complaint is about. citibank owes me a check for the rewards balance of an account which citibank closed on xx / xx / year >. citibank does not deny the reward is owed, they just have failed to pay it. ). on xx / xx / year > i filed a request for arbitration exactly as required by citibank, using the arbitration contact, xxxx xxxx xxxx ( xxxx ), provided by citibank. i received confirmation that xxxx had received my request and i would hear from a case manager within 2 - 5 business days. i heard from no one after 5 business days. i waited another 5 business days and still heard from no one. after 10 business days on xx / xx / year > i emailed xxxx and asked for contact and status update. today, 2 business days later, i have not had a response to the request for arbitration, nor the request for status. citibank should not be permitted to require arbitration in their customer agreements because it is obviously not a xxxx xxxx for resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983660578727722
+}

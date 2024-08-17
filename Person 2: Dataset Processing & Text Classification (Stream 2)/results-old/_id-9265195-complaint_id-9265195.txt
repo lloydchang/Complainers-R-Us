@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265195,
+  "complaint_id": "9265195",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone took my identity and opened fraudulent cards and hooked them up to my bank account and paid them for years. I turned in information from my bank that showed theses were unauthorized transactions, a notarized statement from myself, bank statements and XXXX police reports. I've submitted this information to Capitol One twice, and they still haven't given me back the {$28000.00} that was taken out of my account even though the cards were deemed fraudulent by Capitol One. They're holding payments from my bank account and won't give them back.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "130XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Someone took my identity and opened fraudulent cards and hooked them up to my bank account and paid them for years. I turned in information from my bank that showed theses were unauthorized transactions, a notarized statement from myself, bank statements and XXXX police reports. I've submitted this information to Capitol One twice, and they still haven't given me back the {$28000.00} that was taken out of my account even though the cards were deemed fraudulent by Capitol One. They're holding payments from my bank account and won't give them back."
+}
+
+Chunk:
+someone took my identity and opened fraudulent cards and hooked them up to my bank account and paid them for years. i turned in information from my bank that showed theses were unauthorized transactions, a notarized statement from myself, bank statements and xxxx police reports. i've submitted this information to capitol one twice, and they still haven't given me back the { $ 28000. 00 } that was taken out of my account even though the cards were deemed fraudulent by capitol one. they're holding payments from my bank account and won't give them back.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996832549571991
+}

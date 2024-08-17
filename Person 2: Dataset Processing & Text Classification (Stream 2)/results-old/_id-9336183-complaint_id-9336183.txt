@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9336183,
+  "complaint_id": "9336183",
+  "product": "Credit card",
+  "complaint_what_happened": "I have the XXXX XXXX XXXX Credit card. I'm suppose to get reward points for payments and purchases. I haven't received reward points on the last 3 statements. I think it's because I stopped making purchases on the card in XX/XX/year> because I'm working to pay the card off. I should still be getting reward points for the payments I have made. I have called about this issue 3 times. I was told on two different occasions that there was a glitch and the last time I called in the agent hung up on me because I couldn't get my card number fast enough. He could have found my account by using my phone number or getting the last 4 of my SSN. It's not a lot of money but it's reward points I have earned.\n\nLast 4 of card XXXX.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78660",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have the XXXX XXXX XXXX Credit card. I'm suppose to get reward points for payments and purchases. I haven't received reward points on the last 3 statements. I think it's because I stopped making purchases on the card in XX/XX/year> because I'm working to pay the card off. I should still be getting reward points for the payments I have made. I have called about this issue 3 times. I was told on two different occasions that there was a glitch and the last time I called in the agent hung up on me because I couldn't get my card number fast enough. He could have found my account by using my phone number or getting the last 4 of my SSN. It's not a lot of money but it's reward points I have earned.\n\nLast 4 of card XXXX."
+}
+
+Chunk:
+i have the xxxx xxxx xxxx credit card. i'm suppose to get reward points for payments and purchases. i haven't received reward points on the last 3 statements. i think it's because i stopped making purchases on the card in xx / xx / year > because i'm working to pay the card off. i should still be getting reward points for the payments i have made. i have called about this issue 3 times. i was told on two different occasions that there was a glitch and the last time i called in the agent hung up on me because i couldn't get my card number fast enough. he could have found my account by using my phone number or getting the last 4 of my ssn. it's not a lot of money but it's reward points i have earned. last 4 of card xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970494508743286
+}

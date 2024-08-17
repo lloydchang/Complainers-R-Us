@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9150090,
+  "complaint_id": "9150090",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX I opened my billing statement from Synchony Bank and noticed a late fee of {$30.00} and a interest charge of {$3.00}. But according to my bank at XXXX I paid my entire balance online on XXXX, and my bank told me Synchony Bank would have it by XXXX. That's one day before Synchony Bank due date of XXXX. When I called Synchony Bank their first customer service rep on XXXX from the XXXX said she wouldn't reverse the charges until I told her my bank told me you would have my money by XXXX. She then took off the {$30.00} late fee. But she didn't erase interest charge. So I had to call Synchony Bank again on XXXX and spoke with \" XXXX '' from the XXXX around XXXX employee # XXXX, and she told me she would reverse the late fee and this interest charge. Which there should have been none when I paid them my entire balance before their due date according to my bank at XXXX XXXX XXXX. ( I have a screenshot from my bank as proof ) XXXX told me for the changes to take effect, it would be 24 to 48 hours. But I'm not really sure yet if they really did reverse these charges. And since they did this to me. I'm probably not the only person their doing this to.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23224",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XXXX I opened my billing statement from Synchony Bank and noticed a late fee of {$30.00} and a interest charge of {$3.00}. But according to my bank at XXXX I paid my entire balance online on XXXX, and my bank told me Synchony Bank would have it by XXXX. That's one day before Synchony Bank due date of XXXX. When I called Synchony Bank their first customer service rep on XXXX from the XXXX said she wouldn't reverse the charges until I told her my bank told me you would have my money by XXXX. She then took off the {$30.00} late fee. But she didn't erase interest charge. So I had to call Synchony Bank again on XXXX and spoke with \" XXXX '' from the XXXX around XXXX employee # XXXX, and she told me she would reverse the late fee and this interest charge. Which there should have been none when I paid them my entire balance before their due date according to my bank at XXXX XXXX XXXX. ( I have a screenshot from my bank as proof ) XXXX told me for the changes to take effect, it would be 24 to 48 hours. But I'm not really sure yet if they really did reverse these charges. And since they did this to me. I'm probably not the only person their doing this to."
+}
+
+Chunk:
+on xxxx i opened my billing statement from synchony bank and noticed a late fee of { $ 30. 00 } and a interest charge of { $ 3. 00 }. but according to my bank at xxxx i paid my entire balance online on xxxx, and my bank told me synchony bank would have it by xxxx. that's one day before synchony bank due date of xxxx. when i called synchony bank their first customer service rep on xxxx from the xxxx said she wouldn't reverse the charges until i told her my bank told me you would have my money by xxxx. she then took off the { $ 30. 00 } late fee. but she didn't erase interest charge. so i had to call synchony bank again on xxxx and spoke with " xxxx'' from the xxxx around xxxx employee # xxxx, and she told me she would reverse the late fee and this interest charge. which there should have been none when i paid them my entire balance before their due date according to my bank at xxxx xxxx xxxx. ( i have a screenshot from my bank as proof ) xxxx told me for the changes to take effect, it would be 24 to 48 hours. but i'm not really sure yet if they really did reverse these charges. and since they did this to me. i'm probably not the only person their doing this to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989498257637024
+}

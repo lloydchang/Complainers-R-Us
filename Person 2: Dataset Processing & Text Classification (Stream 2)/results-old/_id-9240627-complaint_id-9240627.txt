@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9240627,
+  "complaint_id": "9240627",
+  "product": "Credit card",
+  "complaint_what_happened": "I went online to purchase items from XXXX XXXX XXXX XXXXXXXX, but since they weren't available for pickup, I placed the order for shipping. Here are the details : Order Number : XXXX Order Date : XX/XX/2024, at XXXXXXXX XXXX \n\nAlthough I agreed to the estimated shipping time, the package wasn't delivered on time. I had to leave town, and when I returned, the package had been delivered but was nowhere to be found at my home. \n\nI called TCP three times, and each time the agent told me to contact my credit card company, My Place Rewards Credit Card offered by Comenity Capital Bank, which is part of Bread Financial. They also said they would not open a dispute. I have nowhere to turn except the Consumer Financial Protection Bureau. \n\nI informed them that I live on a busy street and we've had an uptick in porch pirates. I even offered them video evidence of the theft, captured on my neighbor 's XXXX XXXX. I asked if they would cover a replacement order and allow me to pick it up at the store, but they still said no.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "38116",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I went online to purchase items from XXXX XXXX XXXX XXXXXXXX, but since they weren't available for pickup, I placed the order for shipping. Here are the details : Order Number : XXXX Order Date : XX/XX/2024, at XXXXXXXX XXXX \n\nAlthough I agreed to the estimated shipping time, the package wasn't delivered on time. I had to leave town, and when I returned, the package had been delivered but was nowhere to be found at my home. \n\nI called TCP three times, and each time the agent told me to contact my credit card company, My Place Rewards Credit Card offered by Comenity Capital Bank, which is part of Bread Financial. They also said they would not open a dispute. I have nowhere to turn except the Consumer Financial Protection Bureau. \n\nI informed them that I live on a busy street and we've had an uptick in porch pirates. I even offered them video evidence of the theft, captured on my neighbor 's XXXX XXXX. I asked if they would cover a replacement order and allow me to pick it up at the store, but they still said no."
+}
+
+Chunk:
+i went online to purchase items from xxxx xxxx xxxx xxxxxxxx, but since they weren't available for pickup, i placed the order for shipping. here are the details : order number : xxxx order date : xx / xx / 2024, at xxxxxxxx xxxx although i agreed to the estimated shipping time, the package wasn't delivered on time. i had to leave town, and when i returned, the package had been delivered but was nowhere to be found at my home. i called tcp three times, and each time the agent told me to contact my credit card company, my place rewards credit card offered by comenity capital bank, which is part of bread financial. they also said they would not open a dispute. i have nowhere to turn except the consumer financial protection bureau. i informed them that i live on a busy street and we've had an uptick in porch pirates. i even offered them video evidence of the theft, captured on my neighbor's xxxx xxxx. i asked if they would cover a replacement order and allow me to pick it up at the store, but they still said no.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992081522941589
+}

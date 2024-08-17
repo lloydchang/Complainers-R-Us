@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9310809,
+  "complaint_id": "9310809",
+  "product": "Credit card",
+  "complaint_what_happened": "On Friday, XX/XX/year>, I received a communication from Citi regarding my credit limit being lowered significantly ( $ XXXX less ). Allegedly, this was due to a review of XXXX. This is not the first time that Citi has done this to me. Rather than being at about XXXX  % utilization, I now am at XXXX  %. Interest will make me over limit. \n\nI am requesting the following : XXXX Financial compensation in the amount of {$1000.00} by way of interest charge credits. I need to have more available credit and the sudden and drastic decrease is going to very negatively impact my credit score. 2- Going forward, I would like Citi to ask me if I want credit line increases, rather than giving them and snatching them away randomly. I'd like to provide consent for an increase so that they can not pick and and choose when to destroy my credit score. No other credit card that I have ever had has done this and it feels very unethical to make such sudden and drastic changes that so greatly impact customers.\n\nThis has happened before, and Citi provided an interest credit. I am asking for the same, however more than one month 's worth. Previously, I did not notify the CFPB but because this is a repeat incident without a worthy explanation from Citi, this should be reported.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23832",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "On Friday, XX/XX/year>, I received a communication from Citi regarding my credit limit being lowered significantly ( $ XXXX less ). Allegedly, this was due to a review of XXXX. This is not the first time that Citi has done this to me. Rather than being at about XXXX  % utilization, I now am at XXXX  %. Interest will make me over limit. \n\nI am requesting the following : XXXX Financial compensation in the amount of {$1000.00} by way of interest charge credits. I need to have more available credit and the sudden and drastic decrease is going to very negatively impact my credit score. 2- Going forward, I would like Citi to ask me if I want credit line increases, rather than giving them and snatching them away randomly. I'd like to provide consent for an increase so that they can not pick and and choose when to destroy my credit score. No other credit card that I have ever had has done this and it feels very unethical to make such sudden and drastic changes that so greatly impact customers.\n\nThis has happened before, and Citi provided an interest credit. I am asking for the same, however more than one month 's worth. Previously, I did not notify the CFPB but because this is a repeat incident without a worthy explanation from Citi, this should be reported."
+}
+
+Chunk:
+on friday, xx / xx / year >, i received a communication from citi regarding my credit limit being lowered significantly ( $ xxxx less ). allegedly, this was due to a review of xxxx. this is not the first time that citi has done this to me. rather than being at about xxxx % utilization, i now am at xxxx %. interest will make me over limit. i am requesting the following : xxxx financial compensation in the amount of { $ 1000. 00 } by way of interest charge credits. i need to have more available credit and the sudden and drastic decrease is going to very negatively impact my credit score. 2 - going forward, i would like citi to ask me if i want credit line increases, rather than giving them and snatching them away randomly. i'd like to provide consent for an increase so that they can not pick and and choose when to destroy my credit score. no other credit card that i have ever had has done this and it feels very unethical to make such sudden and drastic changes that so greatly impact customers. this has happened before, and citi provided an interest credit. i am asking for the same, however more than one month's worth. previously, i did not notify the cfpb but because this is a repeat incident without a worthy explanation from citi, this should be reported.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989842772483826
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178350,
+  "complaint_id": "9178350",
+  "product": "Credit card",
+  "complaint_what_happened": "O recently was given a {$300.00} credit increase for paying on time and being responsible with my credit. \nI made XXXX payments on this card in XXXX and then another on XX/XX/XXXX which was significantly higher than the minimum due on XX/XX/XXXX. \nI received a notice that my account was past due so I pulled up my account through the Continental Finance XXXX and noticed a {$45.00} fee for the increase which they charge XXXX XXXX which is not very ethical as it only shows that in very small print on the bottom of your statement so I can not dispute that but think it is a very underhanded way to do business. \n\nWhen I called to find out why I was charged a late feel as well as was reported to credit bureau for being late, I was told that there was no way to get the late fee reversed nor would they correct the inaccurate late payment reported to the credit bureaus. \n\nI made the XXXX payments in XXXX and the next payment on XX/XX/XXXX that was not due until the XXXX. I thought that was a good thing but CF explained that their billing cycle for XXXX closed on XX/XX/XXXX and since I made my payment on XXXX, they applied it the XXXX billing cycle so they are harassing me with late fees and notifications even after I spoke with them about my intent to file this complaint and the rep said she would notate the account. In less than XXXX hours, I have received a text about this payment being late, an email and phone call. \n\nLastly, I am on XXXX XXXX currently but I have credit protection on XXXX of my XXXX cards issued by them so they will not consider that for fees on this card.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30040",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "O recently was given a {$300.00} credit increase for paying on time and being responsible with my credit. \nI made XXXX payments on this card in XXXX and then another on XX/XX/XXXX which was significantly higher than the minimum due on XX/XX/XXXX. \nI received a notice that my account was past due so I pulled up my account through the Continental Finance XXXX and noticed a {$45.00} fee for the increase which they charge XXXX XXXX which is not very ethical as it only shows that in very small print on the bottom of your statement so I can not dispute that but think it is a very underhanded way to do business. \n\nWhen I called to find out why I was charged a late feel as well as was reported to credit bureau for being late, I was told that there was no way to get the late fee reversed nor would they correct the inaccurate late payment reported to the credit bureaus. \n\nI made the XXXX payments in XXXX and the next payment on XX/XX/XXXX that was not due until the XXXX. I thought that was a good thing but CF explained that their billing cycle for XXXX closed on XX/XX/XXXX and since I made my payment on XXXX, they applied it the XXXX billing cycle so they are harassing me with late fees and notifications even after I spoke with them about my intent to file this complaint and the rep said she would notate the account. In less than XXXX hours, I have received a text about this payment being late, an email and phone call. \n\nLastly, I am on XXXX XXXX currently but I have credit protection on XXXX of my XXXX cards issued by them so they will not consider that for fees on this card."
+}
+
+Chunk:
+o recently was given a { $ 300. 00 } credit increase for paying on time and being responsible with my credit. i made xxxx payments on this card in xxxx and then another on xx / xx / xxxx which was significantly higher than the minimum due on xx / xx / xxxx. i received a notice that my account was past due so i pulled up my account through the continental finance xxxx and noticed a { $ 45. 00 } fee for the increase which they charge xxxx xxxx which is not very ethical as it only shows that in very small print on the bottom of your statement so i can not dispute that but think it is a very underhanded way to do business. when i called to find out why i was charged a late feel as well as was reported to credit bureau for being late, i was told that there was no way to get the late fee reversed nor would they correct the inaccurate late payment reported to the credit bureaus. i made the xxxx payments in xxxx and the next payment on xx / xx / xxxx that was not due until the xxxx. i thought that was a good thing but cf explained that their billing cycle for xxxx closed on xx / xx / xxxx and since i made my payment on xxxx, they applied it the xxxx billing cycle so they are harassing me with late fees and notifications even after i spoke with them about my intent to file this complaint and the rep said she would notate the account. in less than xxxx hours, i have received a text about this payment being late, an email and phone call. lastly, i am on xxxx xxxx currently but i have credit protection on xxxx of my xxxx cards issued by them so they will not consider that for fees on this card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989309906959534
+}

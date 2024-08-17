@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173626,
+  "complaint_id": "9173626",
+  "product": "Credit card",
+  "complaint_what_happened": "Amex rejected my dispute within minutes claiming \" they gathered documentation proving the charge is valid ''. This is impossible because the charge is NOT valid ( I provided the relevant documentation showing it ) and they could not possibly contact the merchant and receive documentation within less than 10 minutes as they claim. They also failed to provide a copy of this so-called documentation.\n\nAmex also keeps rebilling me for fraudulent charges based upon fraudulent documentation coming from a foreign country. Furthermore, they have never provided a copy of the fraudulent documents they claim to hold as they are legally required to do.\n\nTwo different cards are involved now.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33411",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Amex rejected my dispute within minutes claiming \" they gathered documentation proving the charge is valid ''. This is impossible because the charge is NOT valid ( I provided the relevant documentation showing it ) and they could not possibly contact the merchant and receive documentation within less than 10 minutes as they claim. They also failed to provide a copy of this so-called documentation.\n\nAmex also keeps rebilling me for fraudulent charges based upon fraudulent documentation coming from a foreign country. Furthermore, they have never provided a copy of the fraudulent documents they claim to hold as they are legally required to do.\n\nTwo different cards are involved now."
+}
+
+Chunk:
+amex rejected my dispute within minutes claiming " they gathered documentation proving the charge is valid''. this is impossible because the charge is not valid ( i provided the relevant documentation showing it ) and they could not possibly contact the merchant and receive documentation within less than 10 minutes as they claim. they also failed to provide a copy of this so - called documentation. amex also keeps rebilling me for fraudulent charges based upon fraudulent documentation coming from a foreign country. furthermore, they have never provided a copy of the fraudulent documents they claim to hold as they are legally required to do. two different cards are involved now.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990013241767883
+}

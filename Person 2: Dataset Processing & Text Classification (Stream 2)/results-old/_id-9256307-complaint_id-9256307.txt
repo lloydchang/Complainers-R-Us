@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256307,
+  "complaint_id": "9256307",
+  "product": "Credit card",
+  "complaint_what_happened": "Name : Midland Credit Management Address : XXXX XXXX XXXX  XXXX XXXX XXXX XXXX, XXXX, MI XXXX Contact Information : ( XXXX ) XXXX Product : Debt Collection Description of the Complaint : I am filing a complaint against Midland Credit Management for violating my rights under U.S. Code, Title 15. They obtained my personal information illegally without my consent, violating the Fair Credit Reporting Act ( FCRA ) and the Fair Debt Collection Practices Act ( FDCPA ). \n\nWhen I called them to issue a cease and desist order, I was surprised to find out that this was not the first time they had violated my rights. Midland Credit Management admitted to repeatedly violating my rights by accessing my personal information without consent. Additionally, reports show accounts with incorrect balances. I did not consent to the original creditors to share or sell my personal information to them. \n\nViolations and Estimates : Unauthorized Access to Personal Information : Midland Credit Management obtained my personal information without my consent, in violation of 15 U.S.C. 1681b ( FCRA ).\n\nEstimated number of violations : 1.\n\nMisrepresentation and Incorrect Reporting : Midland Credit Management reported accounts with incorrect balances, violating 15 U.S.C. 1692e ( FDCPA ). \nEstimated number of accounts with incorrect balances : 1.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10552",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ENCORE CAPITAL GROUP INC.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "Name : Midland Credit Management Address : XXXX XXXX XXXX  XXXX XXXX XXXX XXXX, XXXX, MI XXXX Contact Information : ( XXXX ) XXXX Product : Debt Collection Description of the Complaint : I am filing a complaint against Midland Credit Management for violating my rights under U.S. Code, Title 15. They obtained my personal information illegally without my consent, violating the Fair Credit Reporting Act ( FCRA ) and the Fair Debt Collection Practices Act ( FDCPA ). \n\nWhen I called them to issue a cease and desist order, I was surprised to find out that this was not the first time they had violated my rights. Midland Credit Management admitted to repeatedly violating my rights by accessing my personal information without consent. Additionally, reports show accounts with incorrect balances. I did not consent to the original creditors to share or sell my personal information to them. \n\nViolations and Estimates : Unauthorized Access to Personal Information : Midland Credit Management obtained my personal information without my consent, in violation of 15 U.S.C. 1681b ( FCRA ).\n\nEstimated number of violations : 1.\n\nMisrepresentation and Incorrect Reporting : Midland Credit Management reported accounts with incorrect balances, violating 15 U.S.C. 1692e ( FDCPA ). \nEstimated number of accounts with incorrect balances : 1."
+}
+
+Chunk:
+name : midland credit management address : xxxx xxxx xxxx xxxx xxxx xxxx xxxx, xxxx, mi xxxx contact information : ( xxxx ) xxxx product : debt collection description of the complaint : i am filing a complaint against midland credit management for violating my rights under u. s. code, title 15. they obtained my personal information illegally without my consent, violating the fair credit reporting act ( fcra ) and the fair debt collection practices act ( fdcpa ). when i called them to issue a cease and desist order, i was surprised to find out that this was not the first time they had violated my rights. midland credit management admitted to repeatedly violating my rights by accessing my personal information without consent. additionally, reports show accounts with incorrect balances. i did not consent to the original creditors to share or sell my personal information to them. violations and estimates : unauthorized access to personal information : midland credit management obtained my personal information without my consent, in violation of 15 u. s. c. 1681b ( fcra ). estimated number of violations : 1. misrepresentation and incorrect reporting : midland credit management reported accounts with incorrect balances, violating 15 u. s. c. 1692e ( fdcpa ). estimated number of accounts with incorrect balances : 1.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984521865844727
+}

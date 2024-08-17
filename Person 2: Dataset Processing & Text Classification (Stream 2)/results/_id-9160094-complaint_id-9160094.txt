@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9160094,
+  "complaint_id": "9160094",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied with full faith and credit and clean hands on XXXX XXXX for a visa Platinum Credit card ref : XXXX after giving valuable consideration, A fair exchange was not executed on behalf of AMERICAN EXPRESS CO XXXX AXP ) ( CIK XXXX ) XXXX XXXX XXXX XXXX XXXX XXXX New York XXXX I pursued several attempts to remedy the situation including the retraction of my original application which was denied by XXXX XXXX XXXX and American Express my request went completely ignored any correspondence sent out to their investor relations department and chairman after a notice to cure was received by their office. The fraud being committed against my credit card ( 15 USC 1602 ( I ) and security interest is a direct violation of the securities exchange act and the indenture trustee act American Express agreed to.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76006",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I applied with full faith and credit and clean hands on XXXX XXXX for a visa Platinum Credit card ref : XXXX after giving valuable consideration, A fair exchange was not executed on behalf of AMERICAN EXPRESS CO XXXX AXP ) ( CIK XXXX ) XXXX XXXX XXXX XXXX XXXX XXXX New York XXXX I pursued several attempts to remedy the situation including the retraction of my original application which was denied by XXXX XXXX XXXX and American Express my request went completely ignored any correspondence sent out to their investor relations department and chairman after a notice to cure was received by their office. The fraud being committed against my credit card ( 15 USC 1602 ( I ) and security interest is a direct violation of the securities exchange act and the indenture trustee act American Express agreed to."
+}
+
+Chunk:
+i applied with full faith and credit and clean hands on xxxx xxxx for a visa platinum credit card ref : xxxx after giving valuable consideration, a fair exchange was not executed on behalf of american express co xxxx axp ) ( cik xxxx ) xxxx xxxx xxxx xxxx xxxx xxxx new york xxxx i pursued several attempts to remedy the situation including the retraction of my original application which was denied by xxxx xxxx xxxx and american express my request went completely ignored any correspondence sent out to their investor relations department and chairman after a notice to cure was received by their office. the fraud being committed against my credit card ( 15 usc 1602 ( i ) and security interest is a direct violation of the securities exchange act and the indenture trustee act american express agreed to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990441203117371
+}

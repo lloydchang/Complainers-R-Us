@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113870,
+  "complaint_id": "9113870",
+  "product": "Credit card",
+  "complaint_what_happened": "There were identity theft on my TD credit card and my XXXX checking accounts. The charges were from XX/XX/XXXX to XX/XX/XXXX. The fraudster requested {$XXXX0} from my checking amount to make payment to my TD credit account after he/she has XXXX out my credit card which had a credit limit of {$XXXX}. At the time of the fraud my balance on the credit card was {$XXXX}. I made check reversal claim to both bank for the returning of my {$XXXX}. XXXX has return my money and TD has also sent me a check in error of the of {$XXXX.00} and was made it as a purchase charge against my credit card on XX/XX/XXXX. I have contacted the bank several time and I was told that they could do a check reversal and closed out the balance on my account. I received a call from XXXX of the managers at XXXXXXXX XXXX on XX/XX/XXXX. I was also told by this XXXX to destroy the check and shouldn't cash it. The check reversal was not done and the balance was still on my account accruing interest. I made several calls to TD since then I was told me that it was the bank will correct the account. Since they I have accrued interest and my account is there in house collection section. After the fraud I was given a new credit card number but my old credit number is still active and being accruing interest. I received the check and was advised on XX/XX/XXXX by XXXX customer representative to deposit the check which I did but was given a manual receipt Since my credit card limited has decrease from {$XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11422",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "There were identity theft on my TD credit card and my XXXX checking accounts. The charges were from XX/XX/XXXX to XX/XX/XXXX. The fraudster requested {$XXXX0} from my checking amount to make payment to my TD credit account after he/she has XXXX out my credit card which had a credit limit of {$XXXX}. At the time of the fraud my balance on the credit card was {$XXXX}. I made check reversal claim to both bank for the returning of my {$XXXX}. XXXX has return my money and TD has also sent me a check in error of the of {$XXXX.00} and was made it as a purchase charge against my credit card on XX/XX/XXXX. I have contacted the bank several time and I was told that they could do a check reversal and closed out the balance on my account. I received a call from XXXX of the managers at XXXXXXXX XXXX on XX/XX/XXXX. I was also told by this XXXX to destroy the check and shouldn't cash it. The check reversal was not done and the balance was still on my account accruing interest. I made several calls to TD since then I was told me that it was the bank will correct the account. Since they I have accrued interest and my account is there in house collection section. After the fraud I was given a new credit card number but my old credit number is still active and being accruing interest. I received the check and was advised on XX/XX/XXXX by XXXX customer representative to deposit the check which I did but was given a manual receipt Since my credit card limited has decrease from {$XXXX XXXX XXXX"
+}
+
+Chunk:
+there were identity theft on my td credit card and my xxxx checking accounts. the charges were from xx / xx / xxxx to xx / xx / xxxx. the fraudster requested { $ xxxx0 } from my checking amount to make payment to my td credit account after he / she has xxxx out my credit card which had a credit limit of { $ xxxx }. at the time of the fraud my balance on the credit card was { $ xxxx }. i made check reversal claim to both bank for the returning of my { $ xxxx }. xxxx has return my money and td has also sent me a check in error of the of { $ xxxx. 00 } and was made it as a purchase charge against my credit card on xx / xx / xxxx. i have contacted the bank several time and i was told that they could do a check reversal and closed out the balance on my account. i received a call from xxxx of the managers at xxxxxxxx xxxx on xx / xx / xxxx. i was also told by this xxxx to destroy the check and shouldn't cash it. the check reversal was not done and the balance was still on my account accruing interest. i made several calls to td since then i was told me that it was the bank will correct the account. since they i have accrued interest and my account is there in house collection section. after the fraud i was given a new credit card number but my old credit number is still active and being accruing interest. i received the check and was advised on xx / xx / xxxx by xxxx customer representative to deposit the check which i did but was given a manual receipt since my credit card limited has decrease from { $ xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976931214332581
+}

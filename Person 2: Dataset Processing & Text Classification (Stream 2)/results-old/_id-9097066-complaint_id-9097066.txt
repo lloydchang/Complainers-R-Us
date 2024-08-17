@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9097066,
+  "complaint_id": "9097066",
+  "product": "Credit card",
+  "complaint_what_happened": "I was purchasing ticket on XXXX XXXX and received a promotional offer to apply for a citi bank advantage card to use to buy the flights and receive a statement credit if I use the card to purchase those ticket. After applying and being approved I went to get the temporary card information and the website timed out. I then tried to called citibank to get that information and no one could give it to me. Stated I had to wait 7-10 to to get my actual card. I told them I needed to buy today that is why applied and what they apply now option stated. Use on your purchase today in exact words. I spoke with a manager who told me I could cancel this application and after waiting 10 minutes I could apply again and see if the temporary card information worked. I waited 30 minutes applied again and was denied. I called again and spoke to another manager XXXX who told me that is not true it could take 24 hours and the later in the conversation that switched to 5-7 days. Then later she started stating 7-10 days for other stuff. And told me again no one has access to temporary card info. Nothing she can do to help. This is not right. When you are in a store and you open a credit they immediately give you the card information if you are approved. Especially do not advertise you can use it right way if you can not. And then get lied to by managers.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I was purchasing ticket on XXXX XXXX and received a promotional offer to apply for a citi bank advantage card to use to buy the flights and receive a statement credit if I use the card to purchase those ticket. After applying and being approved I went to get the temporary card information and the website timed out. I then tried to called citibank to get that information and no one could give it to me. Stated I had to wait 7-10 to to get my actual card. I told them I needed to buy today that is why applied and what they apply now option stated. Use on your purchase today in exact words. I spoke with a manager who told me I could cancel this application and after waiting 10 minutes I could apply again and see if the temporary card information worked. I waited 30 minutes applied again and was denied. I called again and spoke to another manager XXXX who told me that is not true it could take 24 hours and the later in the conversation that switched to 5-7 days. Then later she started stating 7-10 days for other stuff. And told me again no one has access to temporary card info. Nothing she can do to help. This is not right. When you are in a store and you open a credit they immediately give you the card information if you are approved. Especially do not advertise you can use it right way if you can not. And then get lied to by managers."
+}
+
+Chunk:
+i was purchasing ticket on xxxx xxxx and received a promotional offer to apply for a citi bank advantage card to use to buy the flights and receive a statement credit if i use the card to purchase those ticket. after applying and being approved i went to get the temporary card information and the website timed out. i then tried to called citibank to get that information and no one could give it to me. stated i had to wait 7 - 10 to to get my actual card. i told them i needed to buy today that is why applied and what they apply now option stated. use on your purchase today in exact words. i spoke with a manager who told me i could cancel this application and after waiting 10 minutes i could apply again and see if the temporary card information worked. i waited 30 minutes applied again and was denied. i called again and spoke to another manager xxxx who told me that is not true it could take 24 hours and the later in the conversation that switched to 5 - 7 days. then later she started stating 7 - 10 days for other stuff. and told me again no one has access to temporary card info. nothing she can do to help. this is not right. when you are in a store and you open a credit they immediately give you the card information if you are approved. especially do not advertise you can use it right way if you can not. and then get lied to by managers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992154836654663
+}

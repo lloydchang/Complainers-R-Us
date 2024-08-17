@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9107522,
+  "complaint_id": "9107522",
+  "product": "Credit card",
+  "complaint_what_happened": "I bought XXXX worth of items from a fender. Wing steering wheel, fender and bumper for my XXXXXXXX XXXX XXXX I have given them all the conversation with the party. He told me first he would send. Me the shipping money to send the stuff back he never did. Then I opened a dispute he then said if I close the dispute I can get the XXXX but I then found out the wing was poorly cheap and wanted XXXX no help nothing and then blocked me and wont do anything the bank showed me screenshots that he sent me addresses which Im aware but he never gave me a label as Im not paying for it. Then he later said if I close the dispute he will refund me. Venmo keeps siding with him knowing the agents I talk to read the conversation",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "180XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I bought XXXX worth of items from a fender. Wing steering wheel, fender and bumper for my XXXXXXXX XXXX XXXX I have given them all the conversation with the party. He told me first he would send. Me the shipping money to send the stuff back he never did. Then I opened a dispute he then said if I close the dispute I can get the XXXX but I then found out the wing was poorly cheap and wanted XXXX no help nothing and then blocked me and wont do anything the bank showed me screenshots that he sent me addresses which Im aware but he never gave me a label as Im not paying for it. Then he later said if I close the dispute he will refund me. Venmo keeps siding with him knowing the agents I talk to read the conversation"
+}
+
+Chunk:
+i bought xxxx worth of items from a fender. wing steering wheel, fender and bumper for my xxxxxxxx xxxx xxxx i have given them all the conversation with the party. he told me first he would send. me the shipping money to send the stuff back he never did. then i opened a dispute he then said if i close the dispute i can get the xxxx but i then found out the wing was poorly cheap and wanted xxxx no help nothing and then blocked me and wont do anything the bank showed me screenshots that he sent me addresses which im aware but he never gave me a label as im not paying for it. then he later said if i close the dispute he will refund me. venmo keeps siding with him knowing the agents i talk to read the conversation
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990695118904114
+}

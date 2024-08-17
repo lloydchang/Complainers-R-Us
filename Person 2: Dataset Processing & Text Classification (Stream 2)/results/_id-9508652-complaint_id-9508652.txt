@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9508652,
+  "complaint_id": "9508652",
+  "product": "Credit card",
+  "complaint_what_happened": "At the XXXX XXXX XXXX on XX/XX/year> I was approached by XXXX XXXX and we set up an appointment with XXXX XXXX to attend a seminar concerning timeshare I attended a timeshare presentation on XX/XX/year> at the XXXX XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX XXXX, CA XXXX for XXXX XXXX. XXXX and XXXX told me they would run a soft credit check to see what I would qualify for if I got approved and was interested in their product. I declined their product and the credit card. The next day I was sent an email that a credit card was being sent to my house.",
+  "date_sent_to_company": "2024-07-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92154",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "At the XXXX XXXX XXXX on XX/XX/year> I was approached by XXXX XXXX and we set up an appointment with XXXX XXXX to attend a seminar concerning timeshare I attended a timeshare presentation on XX/XX/year> at the XXXX XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX XXXX, CA XXXX for XXXX XXXX. XXXX and XXXX told me they would run a soft credit check to see what I would qualify for if I got approved and was interested in their product. I declined their product and the credit card. The next day I was sent an email that a credit card was being sent to my house."
+}
+
+Chunk:
+at the xxxx xxxx xxxx on xx / xx / year > i was approached by xxxx xxxx and we set up an appointment with xxxx xxxx to attend a seminar concerning timeshare i attended a timeshare presentation on xx / xx / year > at the xxxx xxxx xxxx xxxx, xxxx xxxx xxxx, xxxx xxxx, ca xxxx for xxxx xxxx. xxxx and xxxx told me they would run a soft credit check to see what i would qualify for if i got approved and was interested in their product. i declined their product and the credit card. the next day i was sent an email that a credit card was being sent to my house.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996712327003479
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9475068,
+  "complaint_id": "9475068",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX of XXXX, I took out a loan of {$7900.00} for the aforementioned installation. The loan agreement specified a XXXX XXXX period. To ensure timely payment, I diligently set up auto payments, confident that the entire loan amount would be paid off within the agreed period. \n\nHowever, to my dismay, I discovered that after only XXXX months, Citi Bank began charging me interest without prior notification. \n\nUpon contacting Home Depot, I was assured that the issue would be promptly addressed within a billing cycle or XXXX. Unfortunately, subsequent follow-ups revealed that neither Home Depot nor Citi Bank XXXX XXXX the error due to its belated discovery. \n\nAs of XX/XX/XXXX, I have dutifully paid off the entire principal loan amount of {$7900.00}. However, an unjustified balance of {$1400.00} in accrued interest persists. \nAttached to this correspondence are the pertinent documents, including the original loan contract explicitly stating the XXXX XXXX  terms, as well as the credit card disclosure outlining the same terms. I trust that upon review, the discrepancy in my account balance will be readily apparent. \n\nI formally requested a thorough review of the aforementioned information and accompanying materials. It is my fervent appeal that Home Depot/Citi Bank XXXX XXXX steps to rectify this error by removing the unjustified accrued interest from my balance. \n\nHome Depot and Citi Bank have rejected every attempt to rectify the issue and have sent a final letter stating they will no longer communicate with me on the issue.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "802XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX of XXXX, I took out a loan of {$7900.00} for the aforementioned installation. The loan agreement specified a XXXX XXXX period. To ensure timely payment, I diligently set up auto payments, confident that the entire loan amount would be paid off within the agreed period. \n\nHowever, to my dismay, I discovered that after only XXXX months, Citi Bank began charging me interest without prior notification. \n\nUpon contacting Home Depot, I was assured that the issue would be promptly addressed within a billing cycle or XXXX. Unfortunately, subsequent follow-ups revealed that neither Home Depot nor Citi Bank XXXX XXXX the error due to its belated discovery. \n\nAs of XX/XX/XXXX, I have dutifully paid off the entire principal loan amount of {$7900.00}. However, an unjustified balance of {$1400.00} in accrued interest persists. \nAttached to this correspondence are the pertinent documents, including the original loan contract explicitly stating the XXXX XXXX  terms, as well as the credit card disclosure outlining the same terms. I trust that upon review, the discrepancy in my account balance will be readily apparent. \n\nI formally requested a thorough review of the aforementioned information and accompanying materials. It is my fervent appeal that Home Depot/Citi Bank XXXX XXXX steps to rectify this error by removing the unjustified accrued interest from my balance. \n\nHome Depot and Citi Bank have rejected every attempt to rectify the issue and have sent a final letter stating they will no longer communicate with me on the issue."
+}
+
+Chunk:
+in xxxx of xxxx, i took out a loan of { $ 7900. 00 } for the aforementioned installation. the loan agreement specified a xxxx xxxx period. to ensure timely payment, i diligently set up auto payments, confident that the entire loan amount would be paid off within the agreed period. however, to my dismay, i discovered that after only xxxx months, citi bank began charging me interest without prior notification. upon contacting home depot, i was assured that the issue would be promptly addressed within a billing cycle or xxxx. unfortunately, subsequent follow - ups revealed that neither home depot nor citi bank xxxx xxxx the error due to its belated discovery. as of xx / xx / xxxx, i have dutifully paid off the entire principal loan amount of { $ 7900. 00 }. however, an unjustified balance of { $ 1400. 00 } in accrued interest persists. attached to this correspondence are the pertinent documents, including the original loan contract explicitly stating the xxxx xxxx terms, as well as the credit card disclosure outlining the same terms. i trust that upon review, the discrepancy in my account balance will be readily apparent. i formally requested a thorough review of the aforementioned information and accompanying materials. it is my fervent appeal that home depot / citi bank xxxx xxxx steps to rectify this error by removing the unjustified accrued interest from my balance. home depot and citi bank have rejected every attempt to rectify the issue and have sent a final letter stating they will no longer communicate with me on the issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9943926334381104
+}

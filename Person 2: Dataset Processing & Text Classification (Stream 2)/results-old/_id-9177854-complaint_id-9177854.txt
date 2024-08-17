@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9177854,
+  "complaint_id": "9177854",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase closed a dispute in the vendors favor, even though we chose a refundable airline ticket, showed that it was refundable in our reciept, all the airline did was show some random text for their NON-refundable tickets ( which we did not purchase ) that there was no refund, and Chase chose in their favor. This is not acceptable. They did not consider our evidence.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "72712",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Chase closed a dispute in the vendors favor, even though we chose a refundable airline ticket, showed that it was refundable in our reciept, all the airline did was show some random text for their NON-refundable tickets ( which we did not purchase ) that there was no refund, and Chase chose in their favor. This is not acceptable. They did not consider our evidence."
+}
+
+Chunk:
+chase closed a dispute in the vendors favor, even though we chose a refundable airline ticket, showed that it was refundable in our reciept, all the airline did was show some random text for their non - refundable tickets ( which we did not purchase ) that there was no refund, and chase chose in their favor. this is not acceptable. they did not consider our evidence.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996488094329834
+}

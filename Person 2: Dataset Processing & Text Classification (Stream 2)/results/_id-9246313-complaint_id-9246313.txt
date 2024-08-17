@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9246313,
+  "complaint_id": "9246313",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened up a card with Paypal in XX/XX/2023 use that card and only had it open for a few months was late due to my house obtaining Covid in this process they close the card. The balance was around {$2400.00} when it was closed, I paid it down to about {$2200.00} And logged in today and found that the card was now over its limit and they had charged over {$300.00} in interest in late fees to my card although I have been making {$41.00} minimum Payments on the card. The interest rate according to them is XXXX % and they stated thats the amount that will be charged every statement. Which is about {$290.00}. Im not understanding how Im supposed to pay off this card At a minimum payment of {$41.00} a month if theyre gon na continuously charge me {$290.00} in charges this card will never be paid off. According to the most recent bill against credit card issues, there was a cap placed on interest charges and late fees. I would like this investigated for the specific company and know my rights as I will never be able to pay off this card and it will occur in so much interest that the card will eventually be too much to pay. I tried to resolve this with a credit card issue and they refused to budge",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98662",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I opened up a card with Paypal in XX/XX/2023 use that card and only had it open for a few months was late due to my house obtaining Covid in this process they close the card. The balance was around {$2400.00} when it was closed, I paid it down to about {$2200.00} And logged in today and found that the card was now over its limit and they had charged over {$300.00} in interest in late fees to my card although I have been making {$41.00} minimum Payments on the card. The interest rate according to them is XXXX % and they stated thats the amount that will be charged every statement. Which is about {$290.00}. Im not understanding how Im supposed to pay off this card At a minimum payment of {$41.00} a month if theyre gon na continuously charge me {$290.00} in charges this card will never be paid off. According to the most recent bill against credit card issues, there was a cap placed on interest charges and late fees. I would like this investigated for the specific company and know my rights as I will never be able to pay off this card and it will occur in so much interest that the card will eventually be too much to pay. I tried to resolve this with a credit card issue and they refused to budge"
+}
+
+Chunk:
+i opened up a card with paypal in xx / xx / 2023 use that card and only had it open for a few months was late due to my house obtaining covid in this process they close the card. the balance was around { $ 2400. 00 } when it was closed, i paid it down to about { $ 2200. 00 } and logged in today and found that the card was now over its limit and they had charged over { $ 300. 00 } in interest in late fees to my card although i have been making { $ 41. 00 } minimum payments on the card. the interest rate according to them is xxxx % and they stated thats the amount that will be charged every statement. which is about { $ 290. 00 }. im not understanding how im supposed to pay off this card at a minimum payment of { $ 41. 00 } a month if theyre gon na continuously charge me { $ 290. 00 } in charges this card will never be paid off. according to the most recent bill against credit card issues, there was a cap placed on interest charges and late fees. i would like this investigated for the specific company and know my rights as i will never be able to pay off this card and it will occur in so much interest that the card will eventually be too much to pay. i tried to resolve this with a credit card issue and they refused to budge
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986380934715271
+}

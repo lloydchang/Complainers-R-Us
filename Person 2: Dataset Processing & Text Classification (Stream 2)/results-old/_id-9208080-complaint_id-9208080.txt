@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208080,
+  "complaint_id": "9208080",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a hard inquire in my credit report, for a credit line increase that I don't authorized",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "075XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I have a hard inquire in my credit report, for a credit line increase that I don't authorized"
+}
+
+Chunk:
+i have a hard inquire in my credit report, for a credit line increase that i don't authorized
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978345036506653
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340007,
+  "complaint_id": "9340007",
+  "product": "Credit card",
+  "complaint_what_happened": "I filed my previous complaint under an incorrect subject. The issue was about Citibank false advertising of a {$200.00} reward cash back after spending. {$1500.00} on purchases in the first 6 months {$200.00} BONUS CASH BACK Earn {$200.00} cash back after spending {$1500.00} on purchases in the first 6 months of account opening Which turned out to be hoax and gimmick, they simply want the consumer to spend {$1.00} in XXXX months, so that CITI can make money from the interest rate. And makes all sorts of fraudulent excuses regarding nonpayment of the advertised {$200.00} statement credit cash reward. Please see their attached advertisement to that effect. At minimum get them to stop with their attached false advertisement which they have been aggressively promoting to ensnare more victims to their advertisement gimmicks",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20782",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I filed my previous complaint under an incorrect subject. The issue was about Citibank false advertising of a {$200.00} reward cash back after spending. {$1500.00} on purchases in the first 6 months {$200.00} BONUS CASH BACK Earn {$200.00} cash back after spending {$1500.00} on purchases in the first 6 months of account opening Which turned out to be hoax and gimmick, they simply want the consumer to spend {$1.00} in XXXX months, so that CITI can make money from the interest rate. And makes all sorts of fraudulent excuses regarding nonpayment of the advertised {$200.00} statement credit cash reward. Please see their attached advertisement to that effect. At minimum get them to stop with their attached false advertisement which they have been aggressively promoting to ensnare more victims to their advertisement gimmicks"
+}
+
+Chunk:
+i filed my previous complaint under an incorrect subject. the issue was about citibank false advertising of a { $ 200. 00 } reward cash back after spending. { $ 1500. 00 } on purchases in the first 6 months { $ 200. 00 } bonus cash back earn { $ 200. 00 } cash back after spending { $ 1500. 00 } on purchases in the first 6 months of account opening which turned out to be hoax and gimmick, they simply want the consumer to spend { $ 1. 00 } in xxxx months, so that citi can make money from the interest rate. and makes all sorts of fraudulent excuses regarding nonpayment of the advertised { $ 200. 00 } statement credit cash reward. please see their attached advertisement to that effect. at minimum get them to stop with their attached false advertisement which they have been aggressively promoting to ensnare more victims to their advertisement gimmicks
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990608096122742
+}

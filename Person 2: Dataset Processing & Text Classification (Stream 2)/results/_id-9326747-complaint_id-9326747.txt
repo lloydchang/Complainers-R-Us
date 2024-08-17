@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9326747,
+  "complaint_id": "9326747",
+  "product": "Credit card",
+  "complaint_what_happened": "Months back, start of the year or so... I had a random amount charged to my card. I thought it was {$7.00} or something, but when I talked to the XXXX rewards lady the other day, she told me that it was around {$11.00}. The amount is trivial, I can pay that easily - but this amount was charged in XXXX. I have not been in XXXX XXXX XXXX \n\nPlease do NOT zone out yet - because this is the important part. The part that I actually care about ( who cares about a closed credit card account, I'm moving on, XXXX this XXXX company ) ... .... \n\nTHE IMPORTANT PART IS THAT I AM NOT THE ONLY ONE... \n\nI randomly brought this up to a friend who knows credit cards.. and he says that Wells Fargo pulls this with their XXXX  cards all the time. \n\nIf me and some random friend had it happened to them, it is probably massively widespread. Wells Fargo has done lots of dirty nasty shady things in the past.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94501",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Months back, start of the year or so... I had a random amount charged to my card. I thought it was {$7.00} or something, but when I talked to the XXXX rewards lady the other day, she told me that it was around {$11.00}. The amount is trivial, I can pay that easily - but this amount was charged in XXXX. I have not been in XXXX XXXX XXXX \n\nPlease do NOT zone out yet - because this is the important part. The part that I actually care about ( who cares about a closed credit card account, I'm moving on, XXXX this XXXX company ) ... .... \n\nTHE IMPORTANT PART IS THAT I AM NOT THE ONLY ONE... \n\nI randomly brought this up to a friend who knows credit cards.. and he says that Wells Fargo pulls this with their XXXX  cards all the time. \n\nIf me and some random friend had it happened to them, it is probably massively widespread. Wells Fargo has done lots of dirty nasty shady things in the past."
+}
+
+Chunk:
+months back, start of the year or so... i had a random amount charged to my card. i thought it was { $ 7. 00 } or something, but when i talked to the xxxx rewards lady the other day, she told me that it was around { $ 11. 00 }. the amount is trivial, i can pay that easily - but this amount was charged in xxxx. i have not been in xxxx xxxx xxxx please do not zone out yet - because this is the important part. the part that i actually care about ( who cares about a closed credit card account, i'm moving on, xxxx this xxxx company )....... the important part is that i am not the only one... i randomly brought this up to a friend who knows credit cards.. and he says that wells fargo pulls this with their xxxx cards all the time. if me and some random friend had it happened to them, it is probably massively widespread. wells fargo has done lots of dirty nasty shady things in the past.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.7633267045021057
+}

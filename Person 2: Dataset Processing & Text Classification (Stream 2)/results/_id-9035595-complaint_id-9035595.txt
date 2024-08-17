@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9035595,
+  "complaint_id": "9035595",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX and XXXX, XXXXXXXX XXXX fraudulent charges were made on my PayPal account for {$200.00} each. I alerted PayPal and Synchrony Bank contacted XXXX  XXXX XXXX several times with no success. In XXXX, I wrote to XXXX XXXX, from the Office of XXXX Attorney General. The involvment of that Office initiated communication with PayPal and Synchrony Bank. I was refunded {$200.00} from XXXX XXXX XXXX. The XX/XX/XXXX {$200.00} charge remained. On XXXX, I sent a certified check to Synchrony Bank for {$920.00} to close my entire account balance minus the XX/XX/XXXX {$200.00} charge. I am continually being billed for this fraudulent purchase, plus interest. \nOn XX/XX/XXXX, I sent a letter to Synchrony Bank, once again explaining the charge. There was and still is, no response. On XX/XX/2024, after more email reminders of my delinquent payment, I phoned Paypal and was transferred to the Synchrony fraud department. There, a representative named XXXX, employee number : XXXX, informed me that XXXX XXXX XXXX refunded {$600.00} to my account. And, she added that she could prove it. I need to add she actually laughed at me. \nSix days ago, I emailed XXXX XXXX XXXX because there was no alternate means of contact. I asked when and amount of their refund. I received an email response that ONLY ONE REFUND WAS MADE FOR {$200.00}!!! My credit has been impeccable. I refuse to pay my present balance of {$380.00} ( {$200.00} + interest ). \nThank you for whatever help you can provide me. This ongoing mess is affecting my health!!!",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "206XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX and XXXX, XXXXXXXX XXXX fraudulent charges were made on my PayPal account for {$200.00} each. I alerted PayPal and Synchrony Bank contacted XXXX  XXXX XXXX several times with no success. In XXXX, I wrote to XXXX XXXX, from the Office of XXXX Attorney General. The involvment of that Office initiated communication with PayPal and Synchrony Bank. I was refunded {$200.00} from XXXX XXXX XXXX. The XX/XX/XXXX {$200.00} charge remained. On XXXX, I sent a certified check to Synchrony Bank for {$920.00} to close my entire account balance minus the XX/XX/XXXX {$200.00} charge. I am continually being billed for this fraudulent purchase, plus interest. \nOn XX/XX/XXXX, I sent a letter to Synchrony Bank, once again explaining the charge. There was and still is, no response. On XX/XX/2024, after more email reminders of my delinquent payment, I phoned Paypal and was transferred to the Synchrony fraud department. There, a representative named XXXX, employee number : XXXX, informed me that XXXX XXXX XXXX refunded {$600.00} to my account. And, she added that she could prove it. I need to add she actually laughed at me. \nSix days ago, I emailed XXXX XXXX XXXX because there was no alternate means of contact. I asked when and amount of their refund. I received an email response that ONLY ONE REFUND WAS MADE FOR {$200.00}!!! My credit has been impeccable. I refuse to pay my present balance of {$380.00} ( {$200.00} + interest ). \nThank you for whatever help you can provide me. This ongoing mess is affecting my health!!!"
+}
+
+Chunk:
+on xx / xx / xxxx and xxxx, xxxxxxxx xxxx fraudulent charges were made on my paypal account for { $ 200. 00 } each. i alerted paypal and synchrony bank contacted xxxx xxxx xxxx several times with no success. in xxxx, i wrote to xxxx xxxx, from the office of xxxx attorney general. the involvment of that office initiated communication with paypal and synchrony bank. i was refunded { $ 200. 00 } from xxxx xxxx xxxx. the xx / xx / xxxx { $ 200. 00 } charge remained. on xxxx, i sent a certified check to synchrony bank for { $ 920. 00 } to close my entire account balance minus the xx / xx / xxxx { $ 200. 00 } charge. i am continually being billed for this fraudulent purchase, plus interest. on xx / xx / xxxx, i sent a letter to synchrony bank, once again explaining the charge. there was and still is, no response. on xx / xx / 2024, after more email reminders of my delinquent payment, i phoned paypal and was transferred to the synchrony fraud department. there, a representative named xxxx, employee number : xxxx, informed me that xxxx xxxx xxxx refunded { $ 600. 00 } to my account. and, she added that she could prove it. i need to add she actually laughed at me. six days ago, i emailed xxxx xxxx xxxx because there was no alternate means of contact. i asked when and amount of their refund. i received an email response that only one refund was made for { $ 200. 00 }!!! my credit has been impeccable. i refuse to pay my present balance of { $ 380. 00 } ( { $ 200. 00 } + interest ). thank you for whatever help you can provide me. this ongoing mess is affecting my health!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994625449180603
+}

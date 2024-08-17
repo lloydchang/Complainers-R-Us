@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9598421,
+  "complaint_id": "9598421",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank Of America refusing to add my checking bank account to make a payment towards my credit card. They do this on purpose so the the customers delayed in payments and they can charge a crazy amount of APR. I demand Bank of America to add my checking account from capital one that they know about it and its already has been tried to linked to the Bank of America app. Otherwise Bank of America will not receive any payments at all. Its a Bank Job to make sure to accept all legal forms of payments!!!!",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33460",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Bank Of America refusing to add my checking bank account to make a payment towards my credit card. They do this on purpose so the the customers delayed in payments and they can charge a crazy amount of APR. I demand Bank of America to add my checking account from capital one that they know about it and its already has been tried to linked to the Bank of America app. Otherwise Bank of America will not receive any payments at all. Its a Bank Job to make sure to accept all legal forms of payments!!!!"
+}
+
+Chunk:
+bank of america refusing to add my checking bank account to make a payment towards my credit card. they do this on purpose so the the customers delayed in payments and they can charge a crazy amount of apr. i demand bank of america to add my checking account from capital one that they know about it and its already has been tried to linked to the bank of america app. otherwise bank of america will not receive any payments at all. its a bank job to make sure to accept all legal forms of payments!!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987646341323853
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9122013,
+  "complaint_id": "9122013",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony XXXX XXXX XXXX XXXX, XXXX, CT XXXX Dear sir, I have received a mail which has copy of a billing statement of TJX Rewards Platinum Mastercard sent from unknown company office XXXX XXXX XXXX, XXXX, PA XXXX XXXX I would like to suggest having the company name to avoid the misunderstanding of customer, who is the victim of identity theft, that your company is breaching the personal information to other person ; since I have not asked this unknown company to reprint the billing statement which I closed, or the statement was not returned at all. I have received my past billing statement, which the copies were enclosed ; therefore, this unknown company office should have not received the billing at all. Either way, I request the explanation why this unknown company office has the right to reprint my closed credit card billing statement and sent to my address. \nSincerely,",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "076XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Synchrony XXXX XXXX XXXX XXXX, XXXX, CT XXXX Dear sir, I have received a mail which has copy of a billing statement of TJX Rewards Platinum Mastercard sent from unknown company office XXXX XXXX XXXX, XXXX, PA XXXX XXXX I would like to suggest having the company name to avoid the misunderstanding of customer, who is the victim of identity theft, that your company is breaching the personal information to other person ; since I have not asked this unknown company to reprint the billing statement which I closed, or the statement was not returned at all. I have received my past billing statement, which the copies were enclosed ; therefore, this unknown company office should have not received the billing at all. Either way, I request the explanation why this unknown company office has the right to reprint my closed credit card billing statement and sent to my address. \nSincerely,"
+}
+
+Chunk:
+synchrony xxxx xxxx xxxx xxxx, xxxx, ct xxxx dear sir, i have received a mail which has copy of a billing statement of tjx rewards platinum mastercard sent from unknown company office xxxx xxxx xxxx, xxxx, pa xxxx xxxx i would like to suggest having the company name to avoid the misunderstanding of customer, who is the victim of identity theft, that your company is breaching the personal information to other person ; since i have not asked this unknown company to reprint the billing statement which i closed, or the statement was not returned at all. i have received my past billing statement, which the copies were enclosed ; therefore, this unknown company office should have not received the billing at all. either way, i request the explanation why this unknown company office has the right to reprint my closed credit card billing statement and sent to my address. sincerely,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961316585540771
+}

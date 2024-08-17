@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9138779,
+  "complaint_id": "9138779",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX,, 2024 I was setting up to replace my hearing aids at Hear Again where I had previously purchased them over three years ago. These were a lot more expensive and my audiologist suggested applying for the XXXX XXXX XXXXXXXX XXXX XXXX which was listed on the purchase agreement as one of the forms of payment other than cash, check, or credit card. \nI did apply, however, several hours later received a call from my audiologist to contact Wells Fargo about a problem approving it. In the several weeks following, I have called and received calls from them without any explanation other than being told they could not \" identify me ''. The last phone call on XX/XX/XXXX, as well as the e-mail yesterday, were from XXXX XXXX, XXXX XXXX XXXXXXXX XXXX XXXX XXXX, XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX, ext XXXX. \nThe e-mail indicates the reason : \" unable to authenticate identity of applicant ''. It also indicates my XXXX XXXX at XXXX and yet they indicate \" No factors are available '' negatively affecting my XXXX XXXX. \nI have sent for a hard copy of the XXXX report ( XXXX pages ). This is upsetting to me and I want to understand what was WElls Fargo reason for the denial.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "060XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "On XX/XX/XXXX,, 2024 I was setting up to replace my hearing aids at Hear Again where I had previously purchased them over three years ago. These were a lot more expensive and my audiologist suggested applying for the XXXX XXXX XXXXXXXX XXXX XXXX which was listed on the purchase agreement as one of the forms of payment other than cash, check, or credit card. \nI did apply, however, several hours later received a call from my audiologist to contact Wells Fargo about a problem approving it. In the several weeks following, I have called and received calls from them without any explanation other than being told they could not \" identify me ''. The last phone call on XX/XX/XXXX, as well as the e-mail yesterday, were from XXXX XXXX, XXXX XXXX XXXXXXXX XXXX XXXX XXXX, XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX, ext XXXX. \nThe e-mail indicates the reason : \" unable to authenticate identity of applicant ''. It also indicates my XXXX XXXX at XXXX and yet they indicate \" No factors are available '' negatively affecting my XXXX XXXX. \nI have sent for a hard copy of the XXXX report ( XXXX pages ). This is upsetting to me and I want to understand what was WElls Fargo reason for the denial."
+}
+
+Chunk:
+on xx / xx / xxxx,, 2024 i was setting up to replace my hearing aids at hear again where i had previously purchased them over three years ago. these were a lot more expensive and my audiologist suggested applying for the xxxx xxxx xxxxxxxx xxxx xxxx which was listed on the purchase agreement as one of the forms of payment other than cash, check, or credit card. i did apply, however, several hours later received a call from my audiologist to contact wells fargo about a problem approving it. in the several weeks following, i have called and received calls from them without any explanation other than being told they could not " identify me''. the last phone call on xx / xx / xxxx, as well as the e - mail yesterday, were from xxxx xxxx, xxxx xxxx xxxxxxxx xxxx xxxx xxxx, xxxx xxxx xxxxxxxx xxxx xxxx xxxx xxxx xxxxxxxx, ext xxxx. the e - mail indicates the reason : " unable to authenticate identity of applicant''. it also indicates my xxxx xxxx at xxxx and yet they indicate " no factors are available'' negatively affecting my xxxx xxxx. i have sent for a hard copy of the xxxx report ( xxxx pages ). this is upsetting to me and i want to understand what was wells fargo reason for the denial.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988943934440613
+}

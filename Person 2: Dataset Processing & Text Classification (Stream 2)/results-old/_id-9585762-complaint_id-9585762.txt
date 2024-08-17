@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9585762,
+  "complaint_id": "9585762",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a XXXX XXXX credit card from Barclay Bank barclaycard. They sent an electronic request for additional information including my DL, SS card and a utility bill. I sent them by DL, SS card and my XXXX internet bill. Days later I received a letter asking for my DL, SS card and a utility bill. I ignored the letter because it asked for the information I had just sent. I didn't hear anything from Barclay Bank barclaycard for months. When I called to ask about the status of my application XXXX agent said it was denied. I asked for a letter on why I was denied. The next agent I was transferred to explained further. Barclay does not accept XXXX as a utility bill. The second request I received didn't make this clear and I did not respond ask I thought I had fulfilled their request. To Barclay Bank barclaycard I simply did not respond to their request for information and therefor I was not denied credit. I did not get a letter stating that my application was no longer being considered. \n\nAt the very least Barclay Bank barclaycard should have sent me a letter stating that my app was no longer under consideration, even if they don't consider it a denial of credit. \n\nMy credit score took a hit when they made a hard inquiry and they didn't even have the courtesy to let me know they were screwing me over. \n\nMy application was denied for insufficient documentation. I should have received a letter and a chance to respond or cure.",
+  "date_sent_to_company": "2024-07-22T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98226",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-22T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Delay in processing application",
+  "text": "I applied for a XXXX XXXX credit card from Barclay Bank barclaycard. They sent an electronic request for additional information including my DL, SS card and a utility bill. I sent them by DL, SS card and my XXXX internet bill. Days later I received a letter asking for my DL, SS card and a utility bill. I ignored the letter because it asked for the information I had just sent. I didn't hear anything from Barclay Bank barclaycard for months. When I called to ask about the status of my application XXXX agent said it was denied. I asked for a letter on why I was denied. The next agent I was transferred to explained further. Barclay does not accept XXXX as a utility bill. The second request I received didn't make this clear and I did not respond ask I thought I had fulfilled their request. To Barclay Bank barclaycard I simply did not respond to their request for information and therefor I was not denied credit. I did not get a letter stating that my application was no longer being considered. \n\nAt the very least Barclay Bank barclaycard should have sent me a letter stating that my app was no longer under consideration, even if they don't consider it a denial of credit. \n\nMy credit score took a hit when they made a hard inquiry and they didn't even have the courtesy to let me know they were screwing me over. \n\nMy application was denied for insufficient documentation. I should have received a letter and a chance to respond or cure."
+}
+
+Chunk:
+i applied for a xxxx xxxx credit card from barclay bank barclaycard. they sent an electronic request for additional information including my dl, ss card and a utility bill. i sent them by dl, ss card and my xxxx internet bill. days later i received a letter asking for my dl, ss card and a utility bill. i ignored the letter because it asked for the information i had just sent. i didn't hear anything from barclay bank barclaycard for months. when i called to ask about the status of my application xxxx agent said it was denied. i asked for a letter on why i was denied. the next agent i was transferred to explained further. barclay does not accept xxxx as a utility bill. the second request i received didn't make this clear and i did not respond ask i thought i had fulfilled their request. to barclay bank barclaycard i simply did not respond to their request for information and therefor i was not denied credit. i did not get a letter stating that my application was no longer being considered. at the very least barclay bank barclaycard should have sent me a letter stating that my app was no longer under consideration, even if they don't consider it a denial of credit. my credit score took a hit when they made a hard inquiry and they didn't even have the courtesy to let me know they were screwing me over. my application was denied for insufficient documentation. i should have received a letter and a chance to respond or cure.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999473512172699
+}

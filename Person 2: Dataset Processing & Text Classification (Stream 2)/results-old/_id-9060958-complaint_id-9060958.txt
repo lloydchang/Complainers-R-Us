@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9060958,
+  "complaint_id": "9060958",
+  "product": "Credit card",
+  "complaint_what_happened": "I was stolen from by an internet scam. I have since reported this through XXXX and FTC. I disputed it literally immediately upon realizing I was defrauded. This is {$880.00} which is a huge amount. Ive provided a map showing it was not delivered to my home. A plethora of other details and documentation. The merchant shut down their site the same day this item was supposed to be delivered and is still shut down. American Express would not provide me information on the merchant to provide to FBI/FTC and has continually accepted a falsified nonsensical XXXX XXXX document that anyone can create as proof that it was delivered. I can not open a XXXX dispute as Im not the shipper. Ok be done absolutely everything I can to get my money back from a scammer and American Express is aiding a thief instead. Ive wasted literally hours on this and American Express continues to tell me that Im out {$880.00} because this scammer provided a XXXX XXXX document that proves nothing and is self contradictory. I attached to incredibly poorly mad XXXX Document that the merchant even redacted their contact information from.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was stolen from by an internet scam. I have since reported this through XXXX and FTC. I disputed it literally immediately upon realizing I was defrauded. This is {$880.00} which is a huge amount. Ive provided a map showing it was not delivered to my home. A plethora of other details and documentation. The merchant shut down their site the same day this item was supposed to be delivered and is still shut down. American Express would not provide me information on the merchant to provide to FBI/FTC and has continually accepted a falsified nonsensical XXXX XXXX document that anyone can create as proof that it was delivered. I can not open a XXXX dispute as Im not the shipper. Ok be done absolutely everything I can to get my money back from a scammer and American Express is aiding a thief instead. Ive wasted literally hours on this and American Express continues to tell me that Im out {$880.00} because this scammer provided a XXXX XXXX document that proves nothing and is self contradictory. I attached to incredibly poorly mad XXXX Document that the merchant even redacted their contact information from."
+}
+
+Chunk:
+i was stolen from by an internet scam. i have since reported this through xxxx and ftc. i disputed it literally immediately upon realizing i was defrauded. this is { $ 880. 00 } which is a huge amount. ive provided a map showing it was not delivered to my home. a plethora of other details and documentation. the merchant shut down their site the same day this item was supposed to be delivered and is still shut down. american express would not provide me information on the merchant to provide to fbi / ftc and has continually accepted a falsified nonsensical xxxx xxxx document that anyone can create as proof that it was delivered. i can not open a xxxx dispute as im not the shipper. ok be done absolutely everything i can to get my money back from a scammer and american express is aiding a thief instead. ive wasted literally hours on this and american express continues to tell me that im out { $ 880. 00 } because this scammer provided a xxxx xxxx document that proves nothing and is self contradictory. i attached to incredibly poorly mad xxxx document that the merchant even redacted their contact information from.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995064735412598
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038514,
+  "complaint_id": "9038514",
+  "product": "Credit card",
+  "complaint_what_happened": "I contacted the card company to ask about the annual fees. I was informed that I owed {$250.00} for the first year. I asked if there was an option to remove the fee if I didnt activate the card. The representative told me that it could not be waived and I had to use the card every 90 days or the account would be closed and I would owe {$250.00}. I activated the card per their instructions, called back to ask the same question and was told that the previous representative misinformed me. They stated that since I made the purchase I could not have the annual fee waived. I asked if I had the transaction reversed could they cancel the card and they said no. I ended that call. I tried using my card several days later and it was declined. When i contacted the card company they stated that the representative closed my account and they could not reopen it. I requested for it to be escalated and there are not any updates on correcting the issue.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "245XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I contacted the card company to ask about the annual fees. I was informed that I owed {$250.00} for the first year. I asked if there was an option to remove the fee if I didnt activate the card. The representative told me that it could not be waived and I had to use the card every 90 days or the account would be closed and I would owe {$250.00}. I activated the card per their instructions, called back to ask the same question and was told that the previous representative misinformed me. They stated that since I made the purchase I could not have the annual fee waived. I asked if I had the transaction reversed could they cancel the card and they said no. I ended that call. I tried using my card several days later and it was declined. When i contacted the card company they stated that the representative closed my account and they could not reopen it. I requested for it to be escalated and there are not any updates on correcting the issue."
+}
+
+Chunk:
+i contacted the card company to ask about the annual fees. i was informed that i owed { $ 250. 00 } for the first year. i asked if there was an option to remove the fee if i didnt activate the card. the representative told me that it could not be waived and i had to use the card every 90 days or the account would be closed and i would owe { $ 250. 00 }. i activated the card per their instructions, called back to ask the same question and was told that the previous representative misinformed me. they stated that since i made the purchase i could not have the annual fee waived. i asked if i had the transaction reversed could they cancel the card and they said no. i ended that call. i tried using my card several days later and it was declined. when i contacted the card company they stated that the representative closed my account and they could not reopen it. i requested for it to be escalated and there are not any updates on correcting the issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993374943733215
+}

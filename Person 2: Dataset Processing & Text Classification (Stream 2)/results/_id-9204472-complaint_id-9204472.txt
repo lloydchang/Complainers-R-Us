@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204472,
+  "complaint_id": "9204472",
+  "product": "Credit card",
+  "complaint_what_happened": "I've contacted kickoff and expressed my concerns about the inaccurate information that is reporting negatively on my credit report. Its several accounts reporting different amount on my XXXX report it shows 2 accounts one closed and open but reporting two different amounts. I've sent documents to show to the inaccuracy on my credit report. My XXXX is filled with same inaccuracy.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29223",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Kikoff Inc.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I've contacted kickoff and expressed my concerns about the inaccurate information that is reporting negatively on my credit report. Its several accounts reporting different amount on my XXXX report it shows 2 accounts one closed and open but reporting two different amounts. I've sent documents to show to the inaccuracy on my credit report. My XXXX is filled with same inaccuracy."
+}
+
+Chunk:
+i've contacted kickoff and expressed my concerns about the inaccurate information that is reporting negatively on my credit report. its several accounts reporting different amount on my xxxx report it shows 2 accounts one closed and open but reporting two different amounts. i've sent documents to show to the inaccuracy on my credit report. my xxxx is filled with same inaccuracy.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990887641906738
+}

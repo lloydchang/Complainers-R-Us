@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9187571,
+  "complaint_id": "9187571",
+  "product": "Credit card",
+  "complaint_what_happened": "Received a letter from Citi on XX/XX/year> threatening me with a collection agency, they still charged me for purchases and interest charges on a closed account. I paid the balance in full {$220.00} as I get the impression that no matter what my complaints against Citi 's predatory practices are, big corporations will always win, and I will always be treated as being in the wrong. \n\nCiti Bank is a predatory business, managed by a pack of crooks. According to them, my accounts have finally been closed.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Received a letter from Citi on XX/XX/year> threatening me with a collection agency, they still charged me for purchases and interest charges on a closed account. I paid the balance in full {$220.00} as I get the impression that no matter what my complaints against Citi 's predatory practices are, big corporations will always win, and I will always be treated as being in the wrong. \n\nCiti Bank is a predatory business, managed by a pack of crooks. According to them, my accounts have finally been closed."
+}
+
+Chunk:
+received a letter from citi on xx / xx / year > threatening me with a collection agency, they still charged me for purchases and interest charges on a closed account. i paid the balance in full { $ 220. 00 } as i get the impression that no matter what my complaints against citi's predatory practices are, big corporations will always win, and i will always be treated as being in the wrong. citi bank is a predatory business, managed by a pack of crooks. according to them, my accounts have finally been closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9967117309570312
+}

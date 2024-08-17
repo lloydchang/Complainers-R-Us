@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167303,
+  "complaint_id": "9167303",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello your company is furnishing incorrect information, your company report late payment. Its actually goes against FDCRA 15 USC 1666B ( A ) TIMING OF PAYMENTS ( a ) Time to make payments A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose, unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement including the information required by section 1637 ( b ) of this title is mailed or delivered to the consumer not later than 21 days before the payment due date.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33313",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "The Aligned Company DBA Extra",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "Hello your company is furnishing incorrect information, your company report late payment. Its actually goes against FDCRA 15 USC 1666B ( A ) TIMING OF PAYMENTS ( a ) Time to make payments A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose, unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement including the information required by section 1637 ( b ) of this title is mailed or delivered to the consumer not later than 21 days before the payment due date."
+}
+
+Chunk:
+hello your company is furnishing incorrect information, your company report late payment. its actually goes against fdcra 15 usc 1666b ( a ) timing of payments ( a ) time to make payments a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose, unless the creditor has adopted reasonable procedures designed to ensure that each periodic statement including the information required by section 1637 ( b ) of this title is mailed or delivered to the consumer not later than 21 days before the payment due date.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989540576934814
+}

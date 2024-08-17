@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210858,
+  "complaint_id": "9210858",
+  "product": "Credit card",
+  "complaint_what_happened": "There is a large amount in dispute on my card ( {$1600.00} ). The company did not receive my documentation to support the dispute and closed it prematurely. I called back numerous times and they sent me a link to upload supporting documents, which was not done at first. They told me they would reopen the dispute and during that time the amount would not be on my account and would not accrue interest. I uploaded my documents. However, the company never reviewed them and left the charge there. I called back XXXX more times and each agent told me they would remove the charge while it is in dispute and it would not accrue interest while the investigation was going on. However they never actually reopened the investigation. I kept calling back and each time it takes half an hour at least to go through their menu loops. When I called yet again on XXXX the person told me that my documentation wasn't sufficient because it did not contain photos, even though it did, which tells me they did not review the photos. That person then transferred me to someone else who then said something completely different, that I didn't submit any documentation and they never reopened the investigation and used only documentation submitted by the merchant. They can't keep their story straight. Then they transferred me to another person who said they can not open a dispute because the time frame has passed, even though I submitted all the documentation back in XXXX and XXXX and they either say that they don't have it at all or it's not what they need, even though they list the items they need and that's exactly what I uploaded. I will not pay for fraudulent charges and I will not pay for interest on these charges that is not supposed to be charged.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28806",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "There is a large amount in dispute on my card ( {$1600.00} ). The company did not receive my documentation to support the dispute and closed it prematurely. I called back numerous times and they sent me a link to upload supporting documents, which was not done at first. They told me they would reopen the dispute and during that time the amount would not be on my account and would not accrue interest. I uploaded my documents. However, the company never reviewed them and left the charge there. I called back XXXX more times and each agent told me they would remove the charge while it is in dispute and it would not accrue interest while the investigation was going on. However they never actually reopened the investigation. I kept calling back and each time it takes half an hour at least to go through their menu loops. When I called yet again on XXXX the person told me that my documentation wasn't sufficient because it did not contain photos, even though it did, which tells me they did not review the photos. That person then transferred me to someone else who then said something completely different, that I didn't submit any documentation and they never reopened the investigation and used only documentation submitted by the merchant. They can't keep their story straight. Then they transferred me to another person who said they can not open a dispute because the time frame has passed, even though I submitted all the documentation back in XXXX and XXXX and they either say that they don't have it at all or it's not what they need, even though they list the items they need and that's exactly what I uploaded. I will not pay for fraudulent charges and I will not pay for interest on these charges that is not supposed to be charged."
+}
+
+Chunk:
+there is a large amount in dispute on my card ( { $ 1600. 00 } ). the company did not receive my documentation to support the dispute and closed it prematurely. i called back numerous times and they sent me a link to upload supporting documents, which was not done at first. they told me they would reopen the dispute and during that time the amount would not be on my account and would not accrue interest. i uploaded my documents. however, the company never reviewed them and left the charge there. i called back xxxx more times and each agent told me they would remove the charge while it is in dispute and it would not accrue interest while the investigation was going on. however they never actually reopened the investigation. i kept calling back and each time it takes half an hour at least to go through their menu loops. when i called yet again on xxxx the person told me that my documentation wasn't sufficient because it did not contain photos, even though it did, which tells me they did not review the photos. that person then transferred me to someone else who then said something completely different, that i didn't submit any documentation and they never reopened the investigation and used only documentation submitted by the merchant. they can't keep their story straight. then they transferred me to another person who said they can not open a dispute because the time frame has passed, even though i submitted all the documentation back in xxxx and xxxx and they either say that they don't have it at all or it's not what they need, even though they list the items they need and that's exactly what i uploaded. i will not pay for fraudulent charges and i will not pay for interest on these charges that is not supposed to be charged.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993371367454529
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9399166,
+  "complaint_id": "9399166",
+  "product": "Credit card",
+  "complaint_what_happened": "Last year, when I paid my Macys credit card bill, I immediately noticed an additional charge of around {$25.00} that I did not recognize. I called Macys customer service several times, but they never gave me a clear answer. Despite my repeated inquiries about the origin of this charge, nothing was ever clarified. I requested an investigation, but Macys showed no interest. All they kept telling me was to pay the amount, but I insisted that I wouldnt pay it until they clarified where the charge came from.\n\nIn the end, I had to call and pay {$31.00} to avoid damaging my credit. They assured me over the phone that I wouldnt be charged a late fee because I explained my reasons, but Macys lied and placed a late payment on my record in XX/XX/year>. This was the worst customer service experience Ive ever had. \n\nThey were only interested in getting paid, behaving like the XXXX, and never wanted to clarify the charge. This is what happens with these big companies ; they treat the working class like they dont matter and can damage anyones credit if they feel like it.\n\nThanks to Macys, my credit was damaged. I have never had a late payment with Macys and have always paid on time, but Macys never cared. My questions were only met with demands to pay or pay.\n\nWhat they have done is very unfair.\n\nI am a cybersecurity student with exemplary grades, and Macys damaged my credit because of an injustice.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "Store credit card",
+  "zip_code": "10701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "Last year, when I paid my Macys credit card bill, I immediately noticed an additional charge of around {$25.00} that I did not recognize. I called Macys customer service several times, but they never gave me a clear answer. Despite my repeated inquiries about the origin of this charge, nothing was ever clarified. I requested an investigation, but Macys showed no interest. All they kept telling me was to pay the amount, but I insisted that I wouldnt pay it until they clarified where the charge came from.\n\nIn the end, I had to call and pay {$31.00} to avoid damaging my credit. They assured me over the phone that I wouldnt be charged a late fee because I explained my reasons, but Macys lied and placed a late payment on my record in XX/XX/year>. This was the worst customer service experience Ive ever had. \n\nThey were only interested in getting paid, behaving like the XXXX, and never wanted to clarify the charge. This is what happens with these big companies ; they treat the working class like they dont matter and can damage anyones credit if they feel like it.\n\nThanks to Macys, my credit was damaged. I have never had a late payment with Macys and have always paid on time, but Macys never cared. My questions were only met with demands to pay or pay.\n\nWhat they have done is very unfair.\n\nI am a cybersecurity student with exemplary grades, and Macys damaged my credit because of an injustice."
+}
+
+Chunk:
+last year, when i paid my macys credit card bill, i immediately noticed an additional charge of around { $ 25. 00 } that i did not recognize. i called macys customer service several times, but they never gave me a clear answer. despite my repeated inquiries about the origin of this charge, nothing was ever clarified. i requested an investigation, but macys showed no interest. all they kept telling me was to pay the amount, but i insisted that i wouldnt pay it until they clarified where the charge came from. in the end, i had to call and pay { $ 31. 00 } to avoid damaging my credit. they assured me over the phone that i wouldnt be charged a late fee because i explained my reasons, but macys lied and placed a late payment on my record in xx / xx / year >. this was the worst customer service experience ive ever had. they were only interested in getting paid, behaving like the xxxx, and never wanted to clarify the charge. this is what happens with these big companies ; they treat the working class like they dont matter and can damage anyones credit if they feel like it. thanks to macys, my credit was damaged. i have never had a late payment with macys and have always paid on time, but macys never cared. my questions were only met with demands to pay or pay. what they have done is very unfair. i am a cybersecurity student with exemplary grades, and macys damaged my credit because of an injustice.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996531009674072
+}

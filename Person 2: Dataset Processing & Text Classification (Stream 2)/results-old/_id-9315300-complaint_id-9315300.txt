@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9315300,
+  "complaint_id": "9315300",
+  "product": "Credit card",
+  "complaint_what_happened": "I called Citibank Friday XX/XX/XXXX about XXXX, I wanted to know whyy minimum monthly payment jumped to XXXX $ from usual amount of XXXX I also tried calling earlier in the week and could not get help because I didn't know what my security word was, they would not accept it, this time I was able to create a new security verification word, but the woman lied and said I was charged an extra XXXX $ and change because I failed to make a minimum payment of XXXX XXXX I had logged in my laptop while I spoke to her and while I asked her to help find and view my payment history, I found it myself and I saw that I paid more than the XXXX $ she claimed I did not pay. Then she hung up on me when I said I could see that I paid XXXX $ and that's a lie! She chose to hang up! Dishonesty and robbery.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29577",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I called Citibank Friday XX/XX/XXXX about XXXX, I wanted to know whyy minimum monthly payment jumped to XXXX $ from usual amount of XXXX I also tried calling earlier in the week and could not get help because I didn't know what my security word was, they would not accept it, this time I was able to create a new security verification word, but the woman lied and said I was charged an extra XXXX $ and change because I failed to make a minimum payment of XXXX XXXX I had logged in my laptop while I spoke to her and while I asked her to help find and view my payment history, I found it myself and I saw that I paid more than the XXXX $ she claimed I did not pay. Then she hung up on me when I said I could see that I paid XXXX $ and that's a lie! She chose to hang up! Dishonesty and robbery."
+}
+
+Chunk:
+i called citibank friday xx / xx / xxxx about xxxx, i wanted to know whyy minimum monthly payment jumped to xxxx $ from usual amount of xxxx i also tried calling earlier in the week and could not get help because i didn't know what my security word was, they would not accept it, this time i was able to create a new security verification word, but the woman lied and said i was charged an extra xxxx $ and change because i failed to make a minimum payment of xxxx xxxx i had logged in my laptop while i spoke to her and while i asked her to help find and view my payment history, i found it myself and i saw that i paid more than the xxxx $ she claimed i did not pay. then she hung up on me when i said i could see that i paid xxxx $ and that's a lie! she chose to hang up! dishonesty and robbery.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990781545639038
+}

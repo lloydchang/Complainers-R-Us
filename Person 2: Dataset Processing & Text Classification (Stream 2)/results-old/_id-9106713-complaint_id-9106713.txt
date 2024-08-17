@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9106713,
+  "complaint_id": "9106713",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XXXX I submitted a credit card application to Citizens bank ( bank ). \nThe denial letter dated XX/XX/year> ( same as application date ) states UNABLE TO VERIFY INFORMATION ON CREDIT APPLICATION I called the bank and a customer service representative ( rep ) verified and confirmed the following information : First and Last names Social Security Number Date of birth Home address Mothers maiden name. \nHe transferred me directly to a supervisor ( sup ) who identified him/her self as XXXX XXXX XXXX spelling might be incorrect ). The sup stated that the bank is not able to identify myself. She refused to state any particular details stipulating that I can use that information to correct my personal data in order to obtain credit. This is a violation of the Equal Credit Opportunity Act ( ECOA ). Answering my question, she confirmed that the bank may use applicants origin and ethnicity data based upon how applicants name sound and their addresses in credit decisions. Please note that it is a direct violation of ECOA. She stated that that the refusal is based on the information from my XXXX credit report. Please note that the personal information I provided on the credit application and verified by the bank rep matches exactly XXXX data. In addition, I have an excellent credit rating based upon all three credit agencies data. \nFurthermore, the banks credit application contains XXXX ( legally troubled company known to provide incorrect information ) style questions such as asking about the make of the car I driven XXXX years ago, the street of an address I was affiliated with XXXX years ago and people I do not know. \nIn conclusion, the bank obtained my credit report with no intent to consider my credit application in violation of Section 604 the FCRA.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11235",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIZENS FINANCIAL GROUP, INC.",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "On XXXX XXXX I submitted a credit card application to Citizens bank ( bank ). \nThe denial letter dated XX/XX/year> ( same as application date ) states UNABLE TO VERIFY INFORMATION ON CREDIT APPLICATION I called the bank and a customer service representative ( rep ) verified and confirmed the following information : First and Last names Social Security Number Date of birth Home address Mothers maiden name. \nHe transferred me directly to a supervisor ( sup ) who identified him/her self as XXXX XXXX XXXX spelling might be incorrect ). The sup stated that the bank is not able to identify myself. She refused to state any particular details stipulating that I can use that information to correct my personal data in order to obtain credit. This is a violation of the Equal Credit Opportunity Act ( ECOA ). Answering my question, she confirmed that the bank may use applicants origin and ethnicity data based upon how applicants name sound and their addresses in credit decisions. Please note that it is a direct violation of ECOA. She stated that that the refusal is based on the information from my XXXX credit report. Please note that the personal information I provided on the credit application and verified by the bank rep matches exactly XXXX data. In addition, I have an excellent credit rating based upon all three credit agencies data. \nFurthermore, the banks credit application contains XXXX ( legally troubled company known to provide incorrect information ) style questions such as asking about the make of the car I driven XXXX years ago, the street of an address I was affiliated with XXXX years ago and people I do not know. \nIn conclusion, the bank obtained my credit report with no intent to consider my credit application in violation of Section 604 the FCRA."
+}
+
+Chunk:
+on xxxx xxxx i submitted a credit card application to citizens bank ( bank ). the denial letter dated xx / xx / year > ( same as application date ) states unable to verify information on credit application i called the bank and a customer service representative ( rep ) verified and confirmed the following information : first and last names social security number date of birth home address mothers maiden name. he transferred me directly to a supervisor ( sup ) who identified him / her self as xxxx xxxx xxxx spelling might be incorrect ). the sup stated that the bank is not able to identify myself. she refused to state any particular details stipulating that i can use that information to correct my personal data in order to obtain credit. this is a violation of the equal credit opportunity act ( ecoa ). answering my question, she confirmed that the bank may use applicants origin and ethnicity data based upon how applicants name sound and their addresses in credit decisions. please note that it is a direct violation of ecoa. she stated that that the refusal is based on the information from my xxxx credit report. please note that the personal information i provided on the credit application and verified by the bank rep matches exactly xxxx data. in addition, i have an excellent credit rating based upon all three credit agencies data. furthermore, the banks credit application contains xxxx ( legally troubled company known to provide incorrect information ) style questions such as asking about the make of the car i driven xxxx years ago, the street of an address i was affiliated with xxxx years ago and people i do not know. in conclusion, the bank obtained my credit report with no intent to consider my credit application in violation of section 604 the fcra.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9950644373893738
+}

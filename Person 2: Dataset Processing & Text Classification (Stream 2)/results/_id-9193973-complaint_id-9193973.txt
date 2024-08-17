@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9193973,
+  "complaint_id": "9193973",
+  "product": "Credit card",
+  "complaint_what_happened": "My email is not reliable and the bank is charging me {$1.00} a month to mail me paper statements. I feel this is discrimination against the elderly, uneducated and people that can not afford a computer. \n\nI spoke with a representative today and there is no exceptions for this new fee.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "134XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "My email is not reliable and the bank is charging me {$1.00} a month to mail me paper statements. I feel this is discrimination against the elderly, uneducated and people that can not afford a computer. \n\nI spoke with a representative today and there is no exceptions for this new fee."
+}
+
+Chunk:
+my email is not reliable and the bank is charging me { $ 1. 00 } a month to mail me paper statements. i feel this is discrimination against the elderly, uneducated and people that can not afford a computer. i spoke with a representative today and there is no exceptions for this new fee.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999357283115387
+}

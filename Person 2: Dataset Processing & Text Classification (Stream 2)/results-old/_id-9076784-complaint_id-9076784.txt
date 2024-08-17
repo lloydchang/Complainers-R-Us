@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9076784,
+  "complaint_id": "9076784",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a credit card with Capital One. My credit card due date is XX/XX/XXXX. I attempted to make my minimum payment on XX/XX/XXXX on their website. When I attempted to make the payment the website would not credit the payment for the due date and instead forced me to choose the next business day, XX/XX/XXXX. I went ahead and processed the minimum payment. \n\nI then called Capital One to find out why I could not process my payment for today ( XX/XX/XXXX ) even though the day was not over. I was given an excuse that it was past XXXX on the XXXX XXXX and because of that I could not credit the payment for my due date. This makes no sense since the day is not over and I live on the XXXX XXXX which is three hours earlier from the XXXX XXXX. I asked to speak with a supervisor and when I spoke with the supervisor he spoke in a condescending tone that I felt was disrespectful. \n\nI noticed that a late fee had been assessed to my account dated today ( XX/XX/XXXX ), even though the day was not over. I requested that the late fee be removed from my account and was told that they could not do so because it was after XXXX on my due date. Again this makes no sense.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85050",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I have a credit card with Capital One. My credit card due date is XX/XX/XXXX. I attempted to make my minimum payment on XX/XX/XXXX on their website. When I attempted to make the payment the website would not credit the payment for the due date and instead forced me to choose the next business day, XX/XX/XXXX. I went ahead and processed the minimum payment. \n\nI then called Capital One to find out why I could not process my payment for today ( XX/XX/XXXX ) even though the day was not over. I was given an excuse that it was past XXXX on the XXXX XXXX and because of that I could not credit the payment for my due date. This makes no sense since the day is not over and I live on the XXXX XXXX which is three hours earlier from the XXXX XXXX. I asked to speak with a supervisor and when I spoke with the supervisor he spoke in a condescending tone that I felt was disrespectful. \n\nI noticed that a late fee had been assessed to my account dated today ( XX/XX/XXXX ), even though the day was not over. I requested that the late fee be removed from my account and was told that they could not do so because it was after XXXX on my due date. Again this makes no sense."
+}
+
+Chunk:
+i have a credit card with capital one. my credit card due date is xx / xx / xxxx. i attempted to make my minimum payment on xx / xx / xxxx on their website. when i attempted to make the payment the website would not credit the payment for the due date and instead forced me to choose the next business day, xx / xx / xxxx. i went ahead and processed the minimum payment. i then called capital one to find out why i could not process my payment for today ( xx / xx / xxxx ) even though the day was not over. i was given an excuse that it was past xxxx on the xxxx xxxx and because of that i could not credit the payment for my due date. this makes no sense since the day is not over and i live on the xxxx xxxx which is three hours earlier from the xxxx xxxx. i asked to speak with a supervisor and when i spoke with the supervisor he spoke in a condescending tone that i felt was disrespectful. i noticed that a late fee had been assessed to my account dated today ( xx / xx / xxxx ), even though the day was not over. i requested that the late fee be removed from my account and was told that they could not do so because it was after xxxx on my due date. again this makes no sense.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996192455291748
+}

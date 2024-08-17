@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045012,
+  "complaint_id": "9045012",
+  "product": "Credit card",
+  "complaint_what_happened": "Citibank arbitrarily lowered my credit limit from {$2500.00} to {$880.00} for no good reason. \n\nI have been a customer of Citibank credit since XX/XX/2023. I have paid my bills on time every month. Yet, in under a year of being a customer of the bank, they took away most of the very reason I'm with them : my credit. \n\nFurthermore, I have paid my credit card bills on time, every month, with all other bank credit cards outside Citibank. \n\nThere is no good justification for the reduction of my credit limit. \n\nThey say that I am using too much credit on other bank cards. If I'm given credit, I'm allowed to use it. And as long as I pay on time, I shouldn't be penalized for having credit and using it when I need it.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90046",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Citibank arbitrarily lowered my credit limit from {$2500.00} to {$880.00} for no good reason. \n\nI have been a customer of Citibank credit since XX/XX/2023. I have paid my bills on time every month. Yet, in under a year of being a customer of the bank, they took away most of the very reason I'm with them : my credit. \n\nFurthermore, I have paid my credit card bills on time, every month, with all other bank credit cards outside Citibank. \n\nThere is no good justification for the reduction of my credit limit. \n\nThey say that I am using too much credit on other bank cards. If I'm given credit, I'm allowed to use it. And as long as I pay on time, I shouldn't be penalized for having credit and using it when I need it."
+}
+
+Chunk:
+citibank arbitrarily lowered my credit limit from { $ 2500. 00 } to { $ 880. 00 } for no good reason. i have been a customer of citibank credit since xx / xx / 2023. i have paid my bills on time every month. yet, in under a year of being a customer of the bank, they took away most of the very reason i'm with them : my credit. furthermore, i have paid my credit card bills on time, every month, with all other bank credit cards outside citibank. there is no good justification for the reduction of my credit limit. they say that i am using too much credit on other bank cards. if i'm given credit, i'm allowed to use it. and as long as i pay on time, i shouldn't be penalized for having credit and using it when i need it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995262622833252
+}

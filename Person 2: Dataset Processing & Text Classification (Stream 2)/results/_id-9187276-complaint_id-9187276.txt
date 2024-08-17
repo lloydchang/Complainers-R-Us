@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9187276,
+  "complaint_id": "9187276",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I deactivated a Bank of America credit card. Since then, I received a new card with a completely different account number. \n\nIn XX/XX/year>, I made my first payment on the new card, {$850.00}, but for some reason, the payment was applied to my deactivated card, which had a XXXX balance. I contacted Bank of America, asking them to either refund the payment or transfer it to my active account with a balance. They informed me that the transfer would take XXXX days or more, so I opted for a refund instead. XXXX days have passed without a refund, and when I followed up, I was told it would take XXXX business days to correct their mistake. \n\nI urgently need my money back, as I had to make an additional {$800.00} payment to the card that should have been paid to begin with. It's troubling that I can still make payments on my XXXX deactivated cards. Why am I able to pay on accounts that are closed and have no balance?",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34698",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "In XX/XX/year>, I deactivated a Bank of America credit card. Since then, I received a new card with a completely different account number. \n\nIn XX/XX/year>, I made my first payment on the new card, {$850.00}, but for some reason, the payment was applied to my deactivated card, which had a XXXX balance. I contacted Bank of America, asking them to either refund the payment or transfer it to my active account with a balance. They informed me that the transfer would take XXXX days or more, so I opted for a refund instead. XXXX days have passed without a refund, and when I followed up, I was told it would take XXXX business days to correct their mistake. \n\nI urgently need my money back, as I had to make an additional {$800.00} payment to the card that should have been paid to begin with. It's troubling that I can still make payments on my XXXX deactivated cards. Why am I able to pay on accounts that are closed and have no balance?"
+}
+
+Chunk:
+in xx / xx / year >, i deactivated a bank of america credit card. since then, i received a new card with a completely different account number. in xx / xx / year >, i made my first payment on the new card, { $ 850. 00 }, but for some reason, the payment was applied to my deactivated card, which had a xxxx balance. i contacted bank of america, asking them to either refund the payment or transfer it to my active account with a balance. they informed me that the transfer would take xxxx days or more, so i opted for a refund instead. xxxx days have passed without a refund, and when i followed up, i was told it would take xxxx business days to correct their mistake. i urgently need my money back, as i had to make an additional { $ 800. 00 } payment to the card that should have been paid to begin with. it's troubling that i can still make payments on my xxxx deactivated cards. why am i able to pay on accounts that are closed and have no balance?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999388575553894
+}

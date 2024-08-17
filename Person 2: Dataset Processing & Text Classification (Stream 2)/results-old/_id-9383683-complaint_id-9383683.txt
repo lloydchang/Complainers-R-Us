@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9383683,
+  "complaint_id": "9383683",
+  "product": "Credit card",
+  "complaint_what_happened": "Received notice of increase on Macy 's account to 34.49 %. Excellent credit, so it might be worse for others. This is usury. I am old enough to remember interest in the low XXXX when the fed rate was more than double what it is now. I hear that many department stores are doing the same. Seems coordinated. Investigation requested.",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80516",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Received notice of increase on Macy 's account to 34.49 %. Excellent credit, so it might be worse for others. This is usury. I am old enough to remember interest in the low XXXX when the fed rate was more than double what it is now. I hear that many department stores are doing the same. Seems coordinated. Investigation requested."
+}
+
+Chunk:
+received notice of increase on macy's account to 34. 49 %. excellent credit, so it might be worse for others. this is usury. i am old enough to remember interest in the low xxxx when the fed rate was more than double what it is now. i hear that many department stores are doing the same. seems coordinated. investigation requested.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9905813932418823
+}

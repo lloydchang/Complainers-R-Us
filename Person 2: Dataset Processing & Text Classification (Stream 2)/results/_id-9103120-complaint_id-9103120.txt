@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9103120,
+  "complaint_id": "9103120",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Sears MasterCard from Citi with which I periodically earn \" thankyou '' points on purchases. These points are advertised as redeemable for purchases at XXXX, XXXX, Shell XXXX, and XXXX. Sometimes the redemptions work, and sometimes they don't. This has been happening ever since Sears issued new cards last year. Their response is that they know about the problems and are working to fix them, but they don't give any time line, and the problems still exist after many months.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "04901",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have a Sears MasterCard from Citi with which I periodically earn \" thankyou '' points on purchases. These points are advertised as redeemable for purchases at XXXX, XXXX, Shell XXXX, and XXXX. Sometimes the redemptions work, and sometimes they don't. This has been happening ever since Sears issued new cards last year. Their response is that they know about the problems and are working to fix them, but they don't give any time line, and the problems still exist after many months."
+}
+
+Chunk:
+i have a sears mastercard from citi with which i periodically earn " thankyou'' points on purchases. these points are advertised as redeemable for purchases at xxxx, xxxx, shell xxxx, and xxxx. sometimes the redemptions work, and sometimes they don't. this has been happening ever since sears issued new cards last year. their response is that they know about the problems and are working to fix them, but they don't give any time line, and the problems still exist after many months.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99434494972229
+}

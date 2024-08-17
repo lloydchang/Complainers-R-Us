@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9534487,
+  "complaint_id": "9534487",
+  "product": "Credit card",
+  "complaint_what_happened": "A card was open without my authorization. I never signed up for Citi card {$10000.00} was used and it is showing on my credit report. This was not done with my approval. I have filed a complaint on XX/XX/XXXX of 2024, I filed a police report. I informed Credit companies and locked my credit. I keep getting the runaround. I am now getting calls every other day asking for payment. The only reason why they have my number is because they updated it three weeks ago when I asked them how they were going to contact me because I havent heard anything since XX/XX/XXXX and I kept having to call them, I am not getting anywhere with this company due to the fraud that was done and my credit score is dropping tremendously over something I never did. I dont have the credit card number or account number. This was never sent to me. I am not aware of the charges that are on this card. This card was never in my possession and I never asked for it or signed up for it.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80127",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Investigation took more than 30 days",
+  "text": "A card was open without my authorization. I never signed up for Citi card {$10000.00} was used and it is showing on my credit report. This was not done with my approval. I have filed a complaint on XX/XX/XXXX of 2024, I filed a police report. I informed Credit companies and locked my credit. I keep getting the runaround. I am now getting calls every other day asking for payment. The only reason why they have my number is because they updated it three weeks ago when I asked them how they were going to contact me because I havent heard anything since XX/XX/XXXX and I kept having to call them, I am not getting anywhere with this company due to the fraud that was done and my credit score is dropping tremendously over something I never did. I dont have the credit card number or account number. This was never sent to me. I am not aware of the charges that are on this card. This card was never in my possession and I never asked for it or signed up for it."
+}
+
+Chunk:
+a card was open without my authorization. i never signed up for citi card { $ 10000. 00 } was used and it is showing on my credit report. this was not done with my approval. i have filed a complaint on xx / xx / xxxx of 2024, i filed a police report. i informed credit companies and locked my credit. i keep getting the runaround. i am now getting calls every other day asking for payment. the only reason why they have my number is because they updated it three weeks ago when i asked them how they were going to contact me because i havent heard anything since xx / xx / xxxx and i kept having to call them, i am not getting anywhere with this company due to the fraud that was done and my credit score is dropping tremendously over something i never did. i dont have the credit card number or account number. this was never sent to me. i am not aware of the charges that are on this card. this card was never in my possession and i never asked for it or signed up for it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985842704772949
+}

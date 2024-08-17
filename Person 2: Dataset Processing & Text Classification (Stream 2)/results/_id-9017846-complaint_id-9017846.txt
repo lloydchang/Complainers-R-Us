@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017846,
+  "complaint_id": "9017846",
+  "product": "Credit card",
+  "complaint_what_happened": "Apparently I already had paperwork filed by them to my county Court House but haven't been notified by the court house or original debtor that I am aware of and supposedly been made payments on the account as well.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "443XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ENCORE CAPITAL GROUP INC.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Apparently I already had paperwork filed by them to my county Court House but haven't been notified by the court house or original debtor that I am aware of and supposedly been made payments on the account as well."
+}
+
+Chunk:
+apparently i already had paperwork filed by them to my county court house but haven't been notified by the court house or original debtor that i am aware of and supposedly been made payments on the account as well.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988707900047302
+}

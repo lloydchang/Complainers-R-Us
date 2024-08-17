@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9255929,
+  "complaint_id": "9255929",
+  "product": "Credit card",
+  "complaint_what_happened": "Today XX/XX/year> received an email stating unfortunately we reduced the credit line on your XXXX account, apologize for the inconvenience. I have XXXX XXXX  with BOA and over the last 2 months BOA have continued to reduce my credit limit on all. I have never been late nor over the limit and when possible, when life issues have not risen paid more than the min payment due. \nIt is beginning to appear to me BOA is on a witch hunt ; once my checking and saving accounts dropped below $ XXXX, I am no longer a customer BOA wants or need. \nI find no legitimate reason why BOA is reducing credit line when all my accounts are current.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97123",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Today XX/XX/year> received an email stating unfortunately we reduced the credit line on your XXXX account, apologize for the inconvenience. I have XXXX XXXX  with BOA and over the last 2 months BOA have continued to reduce my credit limit on all. I have never been late nor over the limit and when possible, when life issues have not risen paid more than the min payment due. \nIt is beginning to appear to me BOA is on a witch hunt ; once my checking and saving accounts dropped below $ XXXX, I am no longer a customer BOA wants or need. \nI find no legitimate reason why BOA is reducing credit line when all my accounts are current."
+}
+
+Chunk:
+today xx / xx / year > received an email stating unfortunately we reduced the credit line on your xxxx account, apologize for the inconvenience. i have xxxx xxxx with boa and over the last 2 months boa have continued to reduce my credit limit on all. i have never been late nor over the limit and when possible, when life issues have not risen paid more than the min payment due. it is beginning to appear to me boa is on a witch hunt ; once my checking and saving accounts dropped below $ xxxx, i am no longer a customer boa wants or need. i find no legitimate reason why boa is reducing credit line when all my accounts are current.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992625117301941
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263332,
+  "complaint_id": "9263332",
+  "product": "Credit card",
+  "complaint_what_happened": "Company refuses to reset password or assist after verification of my information over the phone will not allow me to log into my account will not reset my account will not reset my password unable to as a consumer utilize the tools I need to close the account or even pay or utilize my credit this is a violation United States code and federal consumer protection laws.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "36532",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "Company refuses to reset password or assist after verification of my information over the phone will not allow me to log into my account will not reset my account will not reset my password unable to as a consumer utilize the tools I need to close the account or even pay or utilize my credit this is a violation United States code and federal consumer protection laws."
+}
+
+Chunk:
+company refuses to reset password or assist after verification of my information over the phone will not allow me to log into my account will not reset my account will not reset my password unable to as a consumer utilize the tools i need to close the account or even pay or utilize my credit this is a violation united states code and federal consumer protection laws.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989714622497559
+}

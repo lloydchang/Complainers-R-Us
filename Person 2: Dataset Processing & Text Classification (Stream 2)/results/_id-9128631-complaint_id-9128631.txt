@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9128631,
+  "complaint_id": "9128631",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I received an email from XXXX that my Rooms-to-go account with Synchrony Bank had been closed . When I contacted Synchrony they said the account was closed because they have checked my credit and the credit usage for the account was too high. \nMy original credit line was {$5000.00}. On XX/XX/year> my balance was {$1900.00}, and without communicating me, Sychrony Bank have decreased my credit line to {$2000.00} - causing my credit score to drop XXXX points and increasing my credit usage to 86 %. \nMy complaints are as follows : 1- Synchrony Bank never informed me why they decreased my credit line considering I was making substantial payments.\n\n2- Synchrony Bank never informed me that they were going to check my credit prior to deciding on closing the account.\n\n3- Synchrony Bank never sent me a letter or left me a voicemail proposing a resolution prior to closing my account. \nAs a result of their actions, my credit score has been highly impacted going from XXXX ( verified with XXXX on XX/XX/year> ) to XXXX ( today ). As a consumer, it's frustrating ( to say the least ) that an institution would offer you credit, only to play with it when it's convenient. I made my payments to Synchrony Bank on time, and paid more than the minimum. I had another account with them in the past, to which I paid off, and they never closed that. \nThis action shows lack of transparency, and bad business practices.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "33570",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year> I received an email from XXXX that my Rooms-to-go account with Synchrony Bank had been closed . When I contacted Synchrony they said the account was closed because they have checked my credit and the credit usage for the account was too high. \nMy original credit line was {$5000.00}. On XX/XX/year> my balance was {$1900.00}, and without communicating me, Sychrony Bank have decreased my credit line to {$2000.00} - causing my credit score to drop XXXX points and increasing my credit usage to 86 %. \nMy complaints are as follows : 1- Synchrony Bank never informed me why they decreased my credit line considering I was making substantial payments.\n\n2- Synchrony Bank never informed me that they were going to check my credit prior to deciding on closing the account.\n\n3- Synchrony Bank never sent me a letter or left me a voicemail proposing a resolution prior to closing my account. \nAs a result of their actions, my credit score has been highly impacted going from XXXX ( verified with XXXX on XX/XX/year> ) to XXXX ( today ). As a consumer, it's frustrating ( to say the least ) that an institution would offer you credit, only to play with it when it's convenient. I made my payments to Synchrony Bank on time, and paid more than the minimum. I had another account with them in the past, to which I paid off, and they never closed that. \nThis action shows lack of transparency, and bad business practices."
+}
+
+Chunk:
+on xx / xx / year > i received an email from xxxx that my rooms - to - go account with synchrony bank had been closed. when i contacted synchrony they said the account was closed because they have checked my credit and the credit usage for the account was too high. my original credit line was { $ 5000. 00 }. on xx / xx / year > my balance was { $ 1900. 00 }, and without communicating me, sychrony bank have decreased my credit line to { $ 2000. 00 } - causing my credit score to drop xxxx points and increasing my credit usage to 86 %. my complaints are as follows : 1 - synchrony bank never informed me why they decreased my credit line considering i was making substantial payments. 2 - synchrony bank never informed me that they were going to check my credit prior to deciding on closing the account. 3 - synchrony bank never sent me a letter or left me a voicemail proposing a resolution prior to closing my account. as a result of their actions, my credit score has been highly impacted going from xxxx ( verified with xxxx on xx / xx / year > ) to xxxx ( today ). as a consumer, it's frustrating ( to say the least ) that an institution would offer you credit, only to play with it when it's convenient. i made my payments to synchrony bank on time, and paid more than the minimum. i had another account with them in the past, to which i paid off, and they never closed that. this action shows lack of transparency, and bad business practices.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991403818130493
+}

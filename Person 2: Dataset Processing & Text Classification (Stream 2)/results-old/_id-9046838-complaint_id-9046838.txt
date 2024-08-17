@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9046838,
+  "complaint_id": "9046838",
+  "product": "Credit card",
+  "complaint_what_happened": "The Synchrony Bank, which is the issuer of several of my credit cards ( listed below ), closed all my accounts abruptly and without warning. All of my accounts with them and other credit issuers are in good standing. I have always made my payments in full and before due date, never was late or delinquent or made even partial payments. I requested the reinstatement of all my accounts with the current/last approved credit limits. \n\nThese are the cards I have with them and they closed : - XXXX XXXX - XXXX credit - XXXX  store card - Synchrony Premier XXXX ( XXXX  % Cashback ) - XXXX XXXX XXXX credit card - XXXX XXXX - XXXX store card",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "275XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "The Synchrony Bank, which is the issuer of several of my credit cards ( listed below ), closed all my accounts abruptly and without warning. All of my accounts with them and other credit issuers are in good standing. I have always made my payments in full and before due date, never was late or delinquent or made even partial payments. I requested the reinstatement of all my accounts with the current/last approved credit limits. \n\nThese are the cards I have with them and they closed : - XXXX XXXX - XXXX credit - XXXX  store card - Synchrony Premier XXXX ( XXXX  % Cashback ) - XXXX XXXX XXXX credit card - XXXX XXXX - XXXX store card"
+}
+
+Chunk:
+the synchrony bank, which is the issuer of several of my credit cards ( listed below ), closed all my accounts abruptly and without warning. all of my accounts with them and other credit issuers are in good standing. i have always made my payments in full and before due date, never was late or delinquent or made even partial payments. i requested the reinstatement of all my accounts with the current / last approved credit limits. these are the cards i have with them and they closed : - xxxx xxxx - xxxx credit - xxxx store card - synchrony premier xxxx ( xxxx % cashback ) - xxxx xxxx xxxx credit card - xxxx xxxx - xxxx store card
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9956178665161133
+}

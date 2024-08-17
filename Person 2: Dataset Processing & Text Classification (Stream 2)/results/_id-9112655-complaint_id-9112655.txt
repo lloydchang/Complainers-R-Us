@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9112655,
+  "complaint_id": "9112655",
+  "product": "Credit card",
+  "complaint_what_happened": "I consistently make payments punctually. I'm confident about this. However, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. According to USC 1666b, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70068",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I consistently make payments punctually. I'm confident about this. However, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. According to USC 1666b, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed."
+}
+
+Chunk:
+i consistently make payments punctually. i'm confident about this. however, what puzzles me is why this particular company occasionally reports me as late in some months, which shouldn't happen. according to usc 1666b, any billing discrepancy should be rectified promptly and reflected accurately as paid as agreed.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9872291088104248
+}

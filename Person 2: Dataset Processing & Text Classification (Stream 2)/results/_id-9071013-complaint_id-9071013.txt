@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071013,
+  "complaint_id": "9071013",
+  "product": "Credit card",
+  "complaint_what_happened": "While I was booking a flight to XXXX XXXX on XXXX XXXX XXXX, an Ad popped up stating XXXX miles if I apply for the credit card. This miles was in addition to the statement credit of up to {$300.00}, which I have received. I applied the card, it got approved and delivered and I have also started using it. \n\nBut when I check the credit card app from Chase, it is only showing XXXX miles awarded. This is not fair. The attached screenshot clearly shows new member bonus for only XXXX miles while the original promise shown on the advertisement was XXXX miles.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "088XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "While I was booking a flight to XXXX XXXX on XXXX XXXX XXXX, an Ad popped up stating XXXX miles if I apply for the credit card. This miles was in addition to the statement credit of up to {$300.00}, which I have received. I applied the card, it got approved and delivered and I have also started using it. \n\nBut when I check the credit card app from Chase, it is only showing XXXX miles awarded. This is not fair. The attached screenshot clearly shows new member bonus for only XXXX miles while the original promise shown on the advertisement was XXXX miles."
+}
+
+Chunk:
+while i was booking a flight to xxxx xxxx on xxxx xxxx xxxx, an ad popped up stating xxxx miles if i apply for the credit card. this miles was in addition to the statement credit of up to { $ 300. 00 }, which i have received. i applied the card, it got approved and delivered and i have also started using it. but when i check the credit card app from chase, it is only showing xxxx miles awarded. this is not fair. the attached screenshot clearly shows new member bonus for only xxxx miles while the original promise shown on the advertisement was xxxx miles.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975242018699646
+}

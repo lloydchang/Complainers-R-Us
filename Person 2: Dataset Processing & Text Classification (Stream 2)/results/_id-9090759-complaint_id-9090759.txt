@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9090759,
+  "complaint_id": "9090759",
+  "product": "Credit card",
+  "complaint_what_happened": "I had one account with Fortiva ending in XXXX. \n\nThey are telling me I have two accounts, another ending XXXX. \n\nI have never had a card or account with that number. \n\nI asked both these accounts be closed, which they did do. \n\nNow they want me to {$80.00} for an account I do not have. \n\nThe XXXX never called me back, they are harassing me with emails. \n\nI dont know how to resolve this fraud.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85375",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I had one account with Fortiva ending in XXXX. \n\nThey are telling me I have two accounts, another ending XXXX. \n\nI have never had a card or account with that number. \n\nI asked both these accounts be closed, which they did do. \n\nNow they want me to {$80.00} for an account I do not have. \n\nThe XXXX never called me back, they are harassing me with emails. \n\nI dont know how to resolve this fraud."
+}
+
+Chunk:
+i had one account with fortiva ending in xxxx. they are telling me i have two accounts, another ending xxxx. i have never had a card or account with that number. i asked both these accounts be closed, which they did do. now they want me to { $ 80. 00 } for an account i do not have. the xxxx never called me back, they are harassing me with emails. i dont know how to resolve this fraud.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989354014396667
+}

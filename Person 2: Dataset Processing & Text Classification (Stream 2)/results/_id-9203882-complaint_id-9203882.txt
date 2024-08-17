@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9203882,
+  "complaint_id": "9203882",
+  "product": "Credit card",
+  "complaint_what_happened": "In accordance with FCRA, This creditor has violated my rights under 15 USC 1681 section 602 states I have the right to privacy. 15 USC 1681 section 604 ( a ) section 2 also states a consumer reporting agency cant furnish an account without my written instructions. Under 15 USC 1666 ( d ) a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "39601",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "In accordance with FCRA, This creditor has violated my rights under 15 USC 1681 section 602 states I have the right to privacy. 15 USC 1681 section 604 ( a ) section 2 also states a consumer reporting agency cant furnish an account without my written instructions. Under 15 USC 1666 ( d ) a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose"
+}
+
+Chunk:
+in accordance with fcra, this creditor has violated my rights under 15 usc 1681 section 602 states i have the right to privacy. 15 usc 1681 section 604 ( a ) section 2 also states a consumer reporting agency cant furnish an account without my written instructions. under 15 usc 1666 ( d ) a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9933007955551147
+}

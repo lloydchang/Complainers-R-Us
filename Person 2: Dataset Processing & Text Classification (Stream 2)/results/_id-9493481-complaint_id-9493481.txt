@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9493481,
+  "complaint_id": "9493481",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged 3 times for a service from XXXX that I did not order and reported this to the credit card company ( Barclays ). They ultimately sent a form letter that they contacted the merchant who validated the transaction. This form letter also misrepresented that on XX/XX/XXXX and XX/XX/year> they attempted to contact me and did not receive a response. That is untrue, no attempt to contact me was made, not by phone, not by fax, not by email and not by letter. \n\nI spoke to the number they provided in their letters. Six times they requested the last 4 of my social security. It was an obvious attempt to avoid responsibility.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92592",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was charged 3 times for a service from XXXX that I did not order and reported this to the credit card company ( Barclays ). They ultimately sent a form letter that they contacted the merchant who validated the transaction. This form letter also misrepresented that on XX/XX/XXXX and XX/XX/year> they attempted to contact me and did not receive a response. That is untrue, no attempt to contact me was made, not by phone, not by fax, not by email and not by letter. \n\nI spoke to the number they provided in their letters. Six times they requested the last 4 of my social security. It was an obvious attempt to avoid responsibility."
+}
+
+Chunk:
+i was charged 3 times for a service from xxxx that i did not order and reported this to the credit card company ( barclays ). they ultimately sent a form letter that they contacted the merchant who validated the transaction. this form letter also misrepresented that on xx / xx / xxxx and xx / xx / year > they attempted to contact me and did not receive a response. that is untrue, no attempt to contact me was made, not by phone, not by fax, not by email and not by letter. i spoke to the number they provided in their letters. six times they requested the last 4 of my social security. it was an obvious attempt to avoid responsibility.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989103078842163
+}

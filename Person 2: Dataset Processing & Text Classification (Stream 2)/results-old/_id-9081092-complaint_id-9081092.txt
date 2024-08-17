@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9081092,
+  "complaint_id": "9081092",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I applied for a Well Fargo credit card online and received application # XXXX via email. Immediately after filing this application, I received an XXXX XXXX informing me that Well Fargo did a hard pull on my credit file. However, on XX/XX/XXXX, I received a letter from Wells Fargo informing me that my application was denied due to \" Identity can't be verified '' despite all the identity information provided by XXXX. They requested to call XXXX to provide identity information. I called Well Fargo on XX/XX/XXXX, and faxed copies of my Arizona XXXX ID card, utility bills, and bank statement showing the correct address and name on all of these documents. However, I received an email message on XX/XX/XXXX informing me the following : \" After carefully reviewing your Wells Fargo Active Cash Visa card application, we can't provide you with a credit card at this time. \". \n\nDespite my excellent credit history, this company made a decision to deny me a credit card after damaging my credit report with hard pull and falsely claiming that my identity could not be verified despite all the information I've provided to them. This is unacceptable, I need full information on what they meant by their inability to verify my identity. What would a company need more that an ID card, utility bills, and credit report provided by the credit bureau??",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "On XX/XX/XXXX, I applied for a Well Fargo credit card online and received application # XXXX via email. Immediately after filing this application, I received an XXXX XXXX informing me that Well Fargo did a hard pull on my credit file. However, on XX/XX/XXXX, I received a letter from Wells Fargo informing me that my application was denied due to \" Identity can't be verified '' despite all the identity information provided by XXXX. They requested to call XXXX to provide identity information. I called Well Fargo on XX/XX/XXXX, and faxed copies of my Arizona XXXX ID card, utility bills, and bank statement showing the correct address and name on all of these documents. However, I received an email message on XX/XX/XXXX informing me the following : \" After carefully reviewing your Wells Fargo Active Cash Visa card application, we can't provide you with a credit card at this time. \". \n\nDespite my excellent credit history, this company made a decision to deny me a credit card after damaging my credit report with hard pull and falsely claiming that my identity could not be verified despite all the information I've provided to them. This is unacceptable, I need full information on what they meant by their inability to verify my identity. What would a company need more that an ID card, utility bills, and credit report provided by the credit bureau??"
+}
+
+Chunk:
+on xx / xx / xxxx, i applied for a well fargo credit card online and received application # xxxx via email. immediately after filing this application, i received an xxxx xxxx informing me that well fargo did a hard pull on my credit file. however, on xx / xx / xxxx, i received a letter from wells fargo informing me that my application was denied due to " identity can't be verified'' despite all the identity information provided by xxxx. they requested to call xxxx to provide identity information. i called well fargo on xx / xx / xxxx, and faxed copies of my arizona xxxx id card, utility bills, and bank statement showing the correct address and name on all of these documents. however, i received an email message on xx / xx / xxxx informing me the following : " after carefully reviewing your wells fargo active cash visa card application, we can't provide you with a credit card at this time. ". despite my excellent credit history, this company made a decision to deny me a credit card after damaging my credit report with hard pull and falsely claiming that my identity could not be verified despite all the information i've provided to them. this is unacceptable, i need full information on what they meant by their inability to verify my identity. what would a company need more that an id card, utility bills, and credit report provided by the credit bureau??
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992915391921997
+}

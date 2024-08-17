@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9009741,
+  "complaint_id": "9009741",
+  "product": "Credit card",
+  "complaint_what_happened": "I signed up with their agent for a program where I was to make a payment of XXXX dollars a month for 3 months and at the end of that the late fees etc where supposed to be removed and I would be back on track. I did that and actually made 2 payments of XXXX dollars. One payment was made on the XXXX of XXXX for XXXX dollars another made on XXXX of XXXX for XXXX Dollars and the initial payment of XXXX made on the XXXX of XXXX. After making these payments absolutely nothing happened and when I called first I was told it could tak a few days for it to reflect ok fine. I called back a few days later and was told I was being transferred to someone who could help and the phone went dead they hung up on me. That happened 3 times. I tried again today and was told since my first payment wasnt made before the XXXX th it didnt count I did not start the program till the XXXX and when I spoke to their agent a few days before I was told and I quote you should be fine as long as the payment is made before the end of the month. Funny they have no recollection of that call wonder why? Then today their agent after again insisting that I signed up online and should have made the payment on the XXXX th. That he could enroll me in their special zero interest program for 6 months. I told him I will want that in writing since you have already lied to me I bluntly do not trust anything you say over the phone. He told me he cant give me that in writing but would I like to sign up. I hung up. The agent earlier today told me if I pay XXXX today mind you I already paid XXXX this month I wouldnt owe anything till my next month payment of XXXX. I have been lied to gaslighted hung up on several times and am not at all happy",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80538",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I signed up with their agent for a program where I was to make a payment of XXXX dollars a month for 3 months and at the end of that the late fees etc where supposed to be removed and I would be back on track. I did that and actually made 2 payments of XXXX dollars. One payment was made on the XXXX of XXXX for XXXX dollars another made on XXXX of XXXX for XXXX Dollars and the initial payment of XXXX made on the XXXX of XXXX. After making these payments absolutely nothing happened and when I called first I was told it could tak a few days for it to reflect ok fine. I called back a few days later and was told I was being transferred to someone who could help and the phone went dead they hung up on me. That happened 3 times. I tried again today and was told since my first payment wasnt made before the XXXX th it didnt count I did not start the program till the XXXX and when I spoke to their agent a few days before I was told and I quote you should be fine as long as the payment is made before the end of the month. Funny they have no recollection of that call wonder why? Then today their agent after again insisting that I signed up online and should have made the payment on the XXXX th. That he could enroll me in their special zero interest program for 6 months. I told him I will want that in writing since you have already lied to me I bluntly do not trust anything you say over the phone. He told me he cant give me that in writing but would I like to sign up. I hung up. The agent earlier today told me if I pay XXXX today mind you I already paid XXXX this month I wouldnt owe anything till my next month payment of XXXX. I have been lied to gaslighted hung up on several times and am not at all happy"
+}
+
+Chunk:
+i signed up with their agent for a program where i was to make a payment of xxxx dollars a month for 3 months and at the end of that the late fees etc where supposed to be removed and i would be back on track. i did that and actually made 2 payments of xxxx dollars. one payment was made on the xxxx of xxxx for xxxx dollars another made on xxxx of xxxx for xxxx dollars and the initial payment of xxxx made on the xxxx of xxxx. after making these payments absolutely nothing happened and when i called first i was told it could tak a few days for it to reflect ok fine. i called back a few days later and was told i was being transferred to someone who could help and the phone went dead they hung up on me. that happened 3 times. i tried again today and was told since my first payment wasnt made before the xxxx th it didnt count i did not start the program till the xxxx and when i spoke to their agent a few days before i was told and i quote you should be fine as long as the payment is made before the end of the month. funny they have no recollection of that call wonder why? then today their agent after again insisting that i signed up online and should have made the payment on the xxxx th. that he could enroll me in their special zero interest program for 6 months. i told him i will want that in writing since you have already lied to me i bluntly do not trust anything you say over the phone. he told me he cant give me that in writing but would i like to sign up. i hung up. the agent earlier today told me if i pay xxxx today mind you i already paid xxxx this month i wouldnt owe anything till my next month payment of xxxx. i have been lied to gaslighted hung up on several times and am not at all happy
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992048144340515
+}

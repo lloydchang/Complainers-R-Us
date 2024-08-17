@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9398613,
+  "complaint_id": "9398613",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year>, I received two pieces of mail : one from Synchrony Bank and another from TJX Rewards Platinum Credit Cards. The credit card report from TJX Rewards Platinum Credit Cards stated that I owed {$780.00}. This unauthorized credit card account significantly impacted my credit score, reducing it to XXXX, which is considered poor. \n\nThe credit card report was initially sent to my previous apartment, Apartment XXXX. I did not receive it until today, XX/XX/year>, because the current tenant, who knew I had lived there before, gave me the mail before they moved out. \n\nUpon discovering this, I immediately contacted Synchrony Bank and the credit card company to dispute the account and report the fraudulent activity. Despite my efforts, the account remained unresolved, and the amount continued to be listed under my name. As a result, my credit history was adversely affected, limiting my ability to obtain new credit and resulting in potential financial losses due to higher interest rates and fees. \n\nThe companies involved have not taken appropriate actions to address the issue, and my credit score and history remain negatively impacted. I am seeking compensation for the direct financial losses, the negative impact on my credit score, the emotional distress and inconvenience caused, and potential credit repair costs. \n\nKey details : Date of Incident : XX/XX/year> Amount on Statement : {$780.00} Impact on Credit Score : Reduced to XXXX Actions Taken : Contacted Synchrony Bank and the credit card company to dispute the account and report fraud. \nMailing Issue : The report was sent to my previous apartment ( Apartment XXXX ), and I received it on XX/XX/year>, from the current tenant who was moving out. \n\nI am requesting compensation to cover these damages and to rectify the negative impact on my credit history.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92126",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "In XX/XX/year>, I received two pieces of mail : one from Synchrony Bank and another from TJX Rewards Platinum Credit Cards. The credit card report from TJX Rewards Platinum Credit Cards stated that I owed {$780.00}. This unauthorized credit card account significantly impacted my credit score, reducing it to XXXX, which is considered poor. \n\nThe credit card report was initially sent to my previous apartment, Apartment XXXX. I did not receive it until today, XX/XX/year>, because the current tenant, who knew I had lived there before, gave me the mail before they moved out. \n\nUpon discovering this, I immediately contacted Synchrony Bank and the credit card company to dispute the account and report the fraudulent activity. Despite my efforts, the account remained unresolved, and the amount continued to be listed under my name. As a result, my credit history was adversely affected, limiting my ability to obtain new credit and resulting in potential financial losses due to higher interest rates and fees. \n\nThe companies involved have not taken appropriate actions to address the issue, and my credit score and history remain negatively impacted. I am seeking compensation for the direct financial losses, the negative impact on my credit score, the emotional distress and inconvenience caused, and potential credit repair costs. \n\nKey details : Date of Incident : XX/XX/year> Amount on Statement : {$780.00} Impact on Credit Score : Reduced to XXXX Actions Taken : Contacted Synchrony Bank and the credit card company to dispute the account and report fraud. \nMailing Issue : The report was sent to my previous apartment ( Apartment XXXX ), and I received it on XX/XX/year>, from the current tenant who was moving out. \n\nI am requesting compensation to cover these damages and to rectify the negative impact on my credit history."
+}
+
+Chunk:
+in xx / xx / year >, i received two pieces of mail : one from synchrony bank and another from tjx rewards platinum credit cards. the credit card report from tjx rewards platinum credit cards stated that i owed { $ 780. 00 }. this unauthorized credit card account significantly impacted my credit score, reducing it to xxxx, which is considered poor. the credit card report was initially sent to my previous apartment, apartment xxxx. i did not receive it until today, xx / xx / year >, because the current tenant, who knew i had lived there before, gave me the mail before they moved out. upon discovering this, i immediately contacted synchrony bank and the credit card company to dispute the account and report the fraudulent activity. despite my efforts, the account remained unresolved, and the amount continued to be listed under my name. as a result, my credit history was adversely affected, limiting my ability to obtain new credit and resulting in potential financial losses due to higher interest rates and fees. the companies involved have not taken appropriate actions to address the issue, and my credit score and history remain negatively impacted. i am seeking compensation for the direct financial losses, the negative impact on my credit score, the emotional distress and inconvenience caused, and potential credit repair costs. key details : date of incident : xx / xx / year > amount on statement : { $ 780. 00 } impact on credit score : reduced to xxxx actions taken : contacted synchrony bank and the credit card company to dispute the account and report fraud. mailing issue : the report was sent to my previous apartment ( apartment xxxx ), and i received it on xx / xx / year >, from the current tenant who was moving out. i am requesting compensation to cover these damages and to rectify the negative impact on my credit history.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994420409202576
+}

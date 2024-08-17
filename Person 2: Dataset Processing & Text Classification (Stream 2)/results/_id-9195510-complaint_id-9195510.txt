@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195510,
+  "complaint_id": "9195510",
+  "product": "Credit card",
+  "complaint_what_happened": "Several hard inquiries on credit report that were not from myself.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "440XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Several hard inquiries on credit report that were not from myself."
+}
+
+Chunk:
+several hard inquiries on credit report that were not from myself.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981492757797241
+}

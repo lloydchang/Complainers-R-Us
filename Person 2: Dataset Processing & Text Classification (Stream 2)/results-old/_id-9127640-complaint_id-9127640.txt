@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9127640,
+  "complaint_id": "9127640",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been trying to pay off a credit card I had With digital federal credit union they have made it nearly impossible to pay. I have Been told different ways to pay every time I call and its crazy! I called To pay it off and they said I can only pay {$1000.00} at a time. So I called Back again the next day and was told I canT pay until it processes which could take 7-10 business days. \n\nI called To make another payment and was told I had To make a deposit to a savings account to make a payment 10 days later which would make it late again! They then said I can not not pay with XXXX XXXX which they took that payment before. Everytime I call they have a new rule or a different way to pay which was not feasible. \n\nEvery agent has given me higher amounts than what was shown because they keep adding interest and late fees. Which never would have been added if I was allowed to pay it off 8 months ago when I called To pay it off! They have hit my credit report multiple times with it being late when it should have never been late because I have been trying to pay it off! This account is now paid in full after many attempts to pay it off prior.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "027XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "DIGITAL FEDERAL CREDIT UNION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have been trying to pay off a credit card I had With digital federal credit union they have made it nearly impossible to pay. I have Been told different ways to pay every time I call and its crazy! I called To pay it off and they said I can only pay {$1000.00} at a time. So I called Back again the next day and was told I canT pay until it processes which could take 7-10 business days. \n\nI called To make another payment and was told I had To make a deposit to a savings account to make a payment 10 days later which would make it late again! They then said I can not not pay with XXXX XXXX which they took that payment before. Everytime I call they have a new rule or a different way to pay which was not feasible. \n\nEvery agent has given me higher amounts than what was shown because they keep adding interest and late fees. Which never would have been added if I was allowed to pay it off 8 months ago when I called To pay it off! They have hit my credit report multiple times with it being late when it should have never been late because I have been trying to pay it off! This account is now paid in full after many attempts to pay it off prior."
+}
+
+Chunk:
+i have been trying to pay off a credit card i had with digital federal credit union they have made it nearly impossible to pay. i have been told different ways to pay every time i call and its crazy! i called to pay it off and they said i can only pay { $ 1000. 00 } at a time. so i called back again the next day and was told i cant pay until it processes which could take 7 - 10 business days. i called to make another payment and was told i had to make a deposit to a savings account to make a payment 10 days later which would make it late again! they then said i can not not pay with xxxx xxxx which they took that payment before. everytime i call they have a new rule or a different way to pay which was not feasible. every agent has given me higher amounts than what was shown because they keep adding interest and late fees. which never would have been added if i was allowed to pay it off 8 months ago when i called to pay it off! they have hit my credit report multiple times with it being late when it should have never been late because i have been trying to pay it off! this account is now paid in full after many attempts to pay it off prior.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994980096817017
+}

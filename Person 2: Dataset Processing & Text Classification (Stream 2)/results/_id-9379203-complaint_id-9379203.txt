@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9379203,
+  "complaint_id": "9379203",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, I applied and was approved for the CitiBank Double Cash credit card. I did not use this card until XX/XX/XXXX. The credit card had a {$6800.00} credit limit. In XX/XX/XXXX, I used the credit card to cover the repair cost for my vehicle. Within one week of the transaction, I received an email from CitiBank informing me of the decision to reduce my credit limit to {$940.00}. The repair cost was {$910.00}. This decision drastically increased my credit limit usage ; therefore, negatively impacting my score. Because of this decision, my credit score dropped to XXXX from XXXX. My credit score is now deemed poor severely impacting any further chance of affordable lending options.",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70056",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "In XX/XX/XXXX, I applied and was approved for the CitiBank Double Cash credit card. I did not use this card until XX/XX/XXXX. The credit card had a {$6800.00} credit limit. In XX/XX/XXXX, I used the credit card to cover the repair cost for my vehicle. Within one week of the transaction, I received an email from CitiBank informing me of the decision to reduce my credit limit to {$940.00}. The repair cost was {$910.00}. This decision drastically increased my credit limit usage ; therefore, negatively impacting my score. Because of this decision, my credit score dropped to XXXX from XXXX. My credit score is now deemed poor severely impacting any further chance of affordable lending options."
+}
+
+Chunk:
+in xx / xx / xxxx, i applied and was approved for the citibank double cash credit card. i did not use this card until xx / xx / xxxx. the credit card had a { $ 6800. 00 } credit limit. in xx / xx / xxxx, i used the credit card to cover the repair cost for my vehicle. within one week of the transaction, i received an email from citibank informing me of the decision to reduce my credit limit to { $ 940. 00 }. the repair cost was { $ 910. 00 }. this decision drastically increased my credit limit usage ; therefore, negatively impacting my score. because of this decision, my credit score dropped to xxxx from xxxx. my credit score is now deemed poor severely impacting any further chance of affordable lending options.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995481371879578
+}

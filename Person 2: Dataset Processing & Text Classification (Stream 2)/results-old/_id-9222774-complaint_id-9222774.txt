@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9222774,
+  "complaint_id": "9222774",
+  "product": "Credit card",
+  "complaint_what_happened": "Hi I had a XXXX XXXX credit card that was closed due to a fraud listing on the account I received no notice or a replacement card for this account. I want this account fraud to be removed I want a replacement card and this account restored or given a new account.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "73120",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Hi I had a XXXX XXXX credit card that was closed due to a fraud listing on the account I received no notice or a replacement card for this account. I want this account fraud to be removed I want a replacement card and this account restored or given a new account."
+}
+
+Chunk:
+hi i had a xxxx xxxx credit card that was closed due to a fraud listing on the account i received no notice or a replacement card for this account. i want this account fraud to be removed i want a replacement card and this account restored or given a new account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999663233757019
+}

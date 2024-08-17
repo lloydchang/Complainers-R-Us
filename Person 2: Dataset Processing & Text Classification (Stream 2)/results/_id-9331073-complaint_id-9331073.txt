@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9331073,
+  "complaint_id": "9331073",
+  "product": "Credit card",
+  "complaint_what_happened": "The Bank of America XXXX XXXX card, knowing my credit score, gave me a card with a specific limit. I used a portion of that limit ( no where near the limit allowed ) and made large payments each month. ( Never the minimum. ) Out of the blue they dropped my limit, creating an adverse situation with my credit score by making it appear I was using a credit card to its limit - a new LOWER limit they created. As a result of this, now other cards are following suit. Because of BofA and for NO OTHER REASON, I now look like Im overusing my credit card limits. There should be consumer protection for this sort of bait and switch XXXX. Dont give people cards with high limits and then drop their limit after they use the card. This has a bad effect on their credit score completely perpetuated by the companies giving out cards like candy and then XXXX the consumer. I did contact the company twice to request they raise my limit and they have refused. I now hate them with the force of a XXXX suns.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98106",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "The Bank of America XXXX XXXX card, knowing my credit score, gave me a card with a specific limit. I used a portion of that limit ( no where near the limit allowed ) and made large payments each month. ( Never the minimum. ) Out of the blue they dropped my limit, creating an adverse situation with my credit score by making it appear I was using a credit card to its limit - a new LOWER limit they created. As a result of this, now other cards are following suit. Because of BofA and for NO OTHER REASON, I now look like Im overusing my credit card limits. There should be consumer protection for this sort of bait and switch XXXX. Dont give people cards with high limits and then drop their limit after they use the card. This has a bad effect on their credit score completely perpetuated by the companies giving out cards like candy and then XXXX the consumer. I did contact the company twice to request they raise my limit and they have refused. I now hate them with the force of a XXXX suns."
+}
+
+Chunk:
+the bank of america xxxx xxxx card, knowing my credit score, gave me a card with a specific limit. i used a portion of that limit ( no where near the limit allowed ) and made large payments each month. ( never the minimum. ) out of the blue they dropped my limit, creating an adverse situation with my credit score by making it appear i was using a credit card to its limit - a new lower limit they created. as a result of this, now other cards are following suit. because of bofa and for no other reason, i now look like im overusing my credit card limits. there should be consumer protection for this sort of bait and switch xxxx. dont give people cards with high limits and then drop their limit after they use the card. this has a bad effect on their credit score completely perpetuated by the companies giving out cards like candy and then xxxx the consumer. i did contact the company twice to request they raise my limit and they have refused. i now hate them with the force of a xxxx suns.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995843768119812
+}

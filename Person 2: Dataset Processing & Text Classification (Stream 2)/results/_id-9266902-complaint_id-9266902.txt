@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9266902,
+  "complaint_id": "9266902",
+  "product": "Credit card",
+  "complaint_what_happened": "Goldman Sachs closed by my Apple Card for some reason after requesting a credit balance refund in the amount of {$1100.00} on XXXX XXXX I requested to ask why and they couldnt tell me however my savings account is still open and functional. I requested to have my balance sent back to me via check and they told me that they have no information available and cant help me. They have been illegally holding this balance since XXXX and will not issue the credit balance refund despite it being my money I demand my money be returned to me either direct deposit in my account ending in XXXX or via check and the rest of my accounts with Goldman Sachs be closed or an apology with my account reinstated as this has been very frustrating.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92336",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Goldman Sachs closed by my Apple Card for some reason after requesting a credit balance refund in the amount of {$1100.00} on XXXX XXXX I requested to ask why and they couldnt tell me however my savings account is still open and functional. I requested to have my balance sent back to me via check and they told me that they have no information available and cant help me. They have been illegally holding this balance since XXXX and will not issue the credit balance refund despite it being my money I demand my money be returned to me either direct deposit in my account ending in XXXX or via check and the rest of my accounts with Goldman Sachs be closed or an apology with my account reinstated as this has been very frustrating."
+}
+
+Chunk:
+goldman sachs closed by my apple card for some reason after requesting a credit balance refund in the amount of { $ 1100. 00 } on xxxx xxxx i requested to ask why and they couldnt tell me however my savings account is still open and functional. i requested to have my balance sent back to me via check and they told me that they have no information available and cant help me. they have been illegally holding this balance since xxxx and will not issue the credit balance refund despite it being my money i demand my money be returned to me either direct deposit in my account ending in xxxx or via check and the rest of my accounts with goldman sachs be closed or an apology with my account reinstated as this has been very frustrating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992033839225769
+}

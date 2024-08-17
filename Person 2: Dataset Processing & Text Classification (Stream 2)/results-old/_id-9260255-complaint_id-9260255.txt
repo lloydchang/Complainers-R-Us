@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9260255,
+  "complaint_id": "9260255",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>. I recieved a new credit card from care credit despite I didn't apply for that. \nOfcourse, it impacted my score hardly, in mean while I need it these days.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37167",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year>. I recieved a new credit card from care credit despite I didn't apply for that. \nOfcourse, it impacted my score hardly, in mean while I need it these days."
+}
+
+Chunk:
+on xx / xx / year >. i recieved a new credit card from care credit despite i didn't apply for that. ofcourse, it impacted my score hardly, in mean while i need it these days.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9919008016586304
+}

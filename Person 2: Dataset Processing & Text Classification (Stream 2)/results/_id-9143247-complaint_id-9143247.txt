@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143247,
+  "complaint_id": "9143247",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, XXXXI received the bank letter, which is Chase and XXXX XXXX.It says that I got an identity theft, mentioned that some one may be using my personal information fraudulently and declined an application because of this.So, I want to know whats the reason that I have this kind of problem, and what should I do with this.Thank you.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19154",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/XXXX, XXXXI received the bank letter, which is Chase and XXXX XXXX.It says that I got an identity theft, mentioned that some one may be using my personal information fraudulently and declined an application because of this.So, I want to know whats the reason that I have this kind of problem, and what should I do with this.Thank you."
+}
+
+Chunk:
+on xx / xx / xxxx, xxxxi received the bank letter, which is chase and xxxx xxxx. it says that i got an identity theft, mentioned that some one may be using my personal information fraudulently and declined an application because of this. so, i want to know whats the reason that i have this kind of problem, and what should i do with this. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9558411240577698
+}

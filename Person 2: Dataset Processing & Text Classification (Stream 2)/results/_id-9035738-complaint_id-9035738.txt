@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9035738,
+  "complaint_id": "9035738",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX I purchased hearing aids from XXXX ( for {$2100.00} ). At that time they set me up with a payment account with Synchrony bank. They were adamant that as long as I made the minimum payment -- by automatic deduction from my bank account -- I would never be charged any interest, and all of my payment would go to principal. \nI didn't get a contract from Synchrony but I see that they were taking the prescribed {$44.00} out of my account. By XX/XX/XXXX I tried contact Synchrony to pay off the balance. I could not get hold of them and XXXX was not able to help. I tried emailing Synchrony to ask them to ask for my contract and never been able to get a reply but they kept deducting form my account. Finally, through my bank ( where the autodeduct was begining taken ) I was able to get a phone number and was told that despite paying on time and making payments that now exceed the principle, they changed and have been charging me interest. Since my agreement was with XXXX I don't have a contract. \n\nI do not owe any interest -- they claim I owe > {$1300.00} interest )",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30033",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "In XX/XX/XXXX I purchased hearing aids from XXXX ( for {$2100.00} ). At that time they set me up with a payment account with Synchrony bank. They were adamant that as long as I made the minimum payment -- by automatic deduction from my bank account -- I would never be charged any interest, and all of my payment would go to principal. \nI didn't get a contract from Synchrony but I see that they were taking the prescribed {$44.00} out of my account. By XX/XX/XXXX I tried contact Synchrony to pay off the balance. I could not get hold of them and XXXX was not able to help. I tried emailing Synchrony to ask them to ask for my contract and never been able to get a reply but they kept deducting form my account. Finally, through my bank ( where the autodeduct was begining taken ) I was able to get a phone number and was told that despite paying on time and making payments that now exceed the principle, they changed and have been charging me interest. Since my agreement was with XXXX I don't have a contract. \n\nI do not owe any interest -- they claim I owe > {$1300.00} interest )"
+}
+
+Chunk:
+in xx / xx / xxxx i purchased hearing aids from xxxx ( for { $ 2100. 00 } ). at that time they set me up with a payment account with synchrony bank. they were adamant that as long as i made the minimum payment - - by automatic deduction from my bank account - - i would never be charged any interest, and all of my payment would go to principal. i didn't get a contract from synchrony but i see that they were taking the prescribed { $ 44. 00 } out of my account. by xx / xx / xxxx i tried contact synchrony to pay off the balance. i could not get hold of them and xxxx was not able to help. i tried emailing synchrony to ask them to ask for my contract and never been able to get a reply but they kept deducting form my account. finally, through my bank ( where the autodeduct was begining taken ) i was able to get a phone number and was told that despite paying on time and making payments that now exceed the principle, they changed and have been charging me interest. since my agreement was with xxxx i don't have a contract. i do not owe any interest - - they claim i owe > { $ 1300. 00 } interest )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990824460983276
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9375803,
+  "complaint_id": "9375803",
+  "product": "Credit card",
+  "complaint_what_happened": "I have called every day for XXXX days starting XX/XX/year>. I have tried to have them issue back my credit balance from a refund from a doctor to my credit card of {$2000.00}. Two times I was told it will take 17 days and they have to mail a check to other times. I was told they would put it back in my checking account the same one with their bank that I use to make my payments on that credit card. I never get a answer. Today they said it has to wait and be reviewed for 17 days before they decide if I get my money I said is it being reviewed? She said its in the XXXX refund department of US Bank. I asked her to please check with them and see the status. She said Im looking at the status and it says you have to wait XXXX days before they decide. This is an obvious credit refund. There should be no questions asked give me my money and its {$2000.00}. I had to pay the bill because it was due before I got the refund so that caused the credit XXXX once the refund was processed by the doctor. Otherwise I wouldve had to pay very steep of XXXX XXXX. I dont do that. I pay in full each month. I said it would be very simple to put it into my checking the one I used to make the payments every month and XXXX of them I said well thats just not possible! I still dont have my money sent to me I ask how will I know its been sent to me and she could not answer that when I sign into my account online it shows a credit balance balance on that credit card of {$2000.00} no change from how its been all week.",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "62704",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I have called every day for XXXX days starting XX/XX/year>. I have tried to have them issue back my credit balance from a refund from a doctor to my credit card of {$2000.00}. Two times I was told it will take 17 days and they have to mail a check to other times. I was told they would put it back in my checking account the same one with their bank that I use to make my payments on that credit card. I never get a answer. Today they said it has to wait and be reviewed for 17 days before they decide if I get my money I said is it being reviewed? She said its in the XXXX refund department of US Bank. I asked her to please check with them and see the status. She said Im looking at the status and it says you have to wait XXXX days before they decide. This is an obvious credit refund. There should be no questions asked give me my money and its {$2000.00}. I had to pay the bill because it was due before I got the refund so that caused the credit XXXX once the refund was processed by the doctor. Otherwise I wouldve had to pay very steep of XXXX XXXX. I dont do that. I pay in full each month. I said it would be very simple to put it into my checking the one I used to make the payments every month and XXXX of them I said well thats just not possible! I still dont have my money sent to me I ask how will I know its been sent to me and she could not answer that when I sign into my account online it shows a credit balance balance on that credit card of {$2000.00} no change from how its been all week."
+}
+
+Chunk:
+i have called every day for xxxx days starting xx / xx / year >. i have tried to have them issue back my credit balance from a refund from a doctor to my credit card of { $ 2000. 00 }. two times i was told it will take 17 days and they have to mail a check to other times. i was told they would put it back in my checking account the same one with their bank that i use to make my payments on that credit card. i never get a answer. today they said it has to wait and be reviewed for 17 days before they decide if i get my money i said is it being reviewed? she said its in the xxxx refund department of us bank. i asked her to please check with them and see the status. she said im looking at the status and it says you have to wait xxxx days before they decide. this is an obvious credit refund. there should be no questions asked give me my money and its { $ 2000. 00 }. i had to pay the bill because it was due before i got the refund so that caused the credit xxxx once the refund was processed by the doctor. otherwise i wouldve had to pay very steep of xxxx xxxx. i dont do that. i pay in full each month. i said it would be very simple to put it into my checking the one i used to make the payments every month and xxxx of them i said well thats just not possible! i still dont have my money sent to me i ask how will i know its been sent to me and she could not answer that when i sign into my account online it shows a credit balance balance on that credit card of { $ 2000. 00 } no change from how its been all week.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995232820510864
+}

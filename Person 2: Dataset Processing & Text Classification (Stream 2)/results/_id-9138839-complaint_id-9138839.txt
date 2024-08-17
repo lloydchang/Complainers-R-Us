@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9138839,
+  "complaint_id": "9138839",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened XXXX disputes with Chase credit card services about a med spa that falsely sold me a XXXX XXXX and laser hair packages. Long story short, this med spa told me I have XXXX XXXX and XXXX and other issues and said I need a {$2500.00} XXXX XXXX to fix my health. They did not show me my blood work results until I was sent home. I got home and noticed all my blood work was normal. I confirmed this with XXXX nurses and my OBGYN. XXXX XXXX clearly stated in our patient portal that my blood test results look normal. Chase would not take this as proof and are requesting a letter from my doctor. My doctor said he can not legally provide a letter because they do not want to be subpoenaed to court. My XXXX disputes are for charges {$1500.00}, {$450.00}, and {$2500.00} This med spa has refused to refund me partially. I have asked them multiple times and explained that they are scamming people with false info just to sell very expensive packages. I have XXXX pellets remaining and XXXX laser sessions remaining so I should be getting at least XXXX back but Chase is not accepting the XXXX documents of proof I have submitted. They just keep denying my claims. I am now out {$4500.00} for services I have not even used because Chase does not care about its customers ( nor does that med spa ).",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77355",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I opened XXXX disputes with Chase credit card services about a med spa that falsely sold me a XXXX XXXX and laser hair packages. Long story short, this med spa told me I have XXXX XXXX and XXXX and other issues and said I need a {$2500.00} XXXX XXXX to fix my health. They did not show me my blood work results until I was sent home. I got home and noticed all my blood work was normal. I confirmed this with XXXX nurses and my OBGYN. XXXX XXXX clearly stated in our patient portal that my blood test results look normal. Chase would not take this as proof and are requesting a letter from my doctor. My doctor said he can not legally provide a letter because they do not want to be subpoenaed to court. My XXXX disputes are for charges {$1500.00}, {$450.00}, and {$2500.00} This med spa has refused to refund me partially. I have asked them multiple times and explained that they are scamming people with false info just to sell very expensive packages. I have XXXX pellets remaining and XXXX laser sessions remaining so I should be getting at least XXXX back but Chase is not accepting the XXXX documents of proof I have submitted. They just keep denying my claims. I am now out {$4500.00} for services I have not even used because Chase does not care about its customers ( nor does that med spa )."
+}
+
+Chunk:
+i opened xxxx disputes with chase credit card services about a med spa that falsely sold me a xxxx xxxx and laser hair packages. long story short, this med spa told me i have xxxx xxxx and xxxx and other issues and said i need a { $ 2500. 00 } xxxx xxxx to fix my health. they did not show me my blood work results until i was sent home. i got home and noticed all my blood work was normal. i confirmed this with xxxx nurses and my obgyn. xxxx xxxx clearly stated in our patient portal that my blood test results look normal. chase would not take this as proof and are requesting a letter from my doctor. my doctor said he can not legally provide a letter because they do not want to be subpoenaed to court. my xxxx disputes are for charges { $ 1500. 00 }, { $ 450. 00 }, and { $ 2500. 00 } this med spa has refused to refund me partially. i have asked them multiple times and explained that they are scamming people with false info just to sell very expensive packages. i have xxxx pellets remaining and xxxx laser sessions remaining so i should be getting at least xxxx back but chase is not accepting the xxxx documents of proof i have submitted. they just keep denying my claims. i am now out { $ 4500. 00 } for services i have not even used because chase does not care about its customers ( nor does that med spa ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989567995071411
+}

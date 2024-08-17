@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9473449,
+  "complaint_id": "9473449",
+  "product": "Credit card",
+  "complaint_what_happened": "My sister, XXXX XXXX XXXX, died unexpectedly on XX/XX/XXXX. At the time she was a long standing card holder of a XXXX Thank You XXXX XXXX. She had a credit balance of {$9.00} and a Thank You Rewards balance of {$43.00}, for a total of {$53.00}. I was an authorized user on the account. XXXX 's account number was XXXX XXXX XXXX XXXX, exp XX/XX/XXXX, XXXX digit code : XXXX. \nXXXX was a XXXX adult, a life-long XXXX XXXX and XXXX resident. XXXX had very little money throughout her life. She lived with our XXXX and myself. She did not leave an estate of any kind. \nXXXX insists they will only issue a refund check to the estate of XXXX XXXX XXXX, which means we can not get the {$53.00} back from them. I realize this is not a large amount of money, but for me its the idea that Citibank knows they owe this money and they are simply refusing to give it back, We would accept a check made payable to either my father or myself, or a transfer of credit to either my father or myself. They will not do either and say they will only issue a refund to the estate. Since there is no estate, we can not cash the checks. They are not willing to work with us at all. Please help if you can.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "13021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "My sister, XXXX XXXX XXXX, died unexpectedly on XX/XX/XXXX. At the time she was a long standing card holder of a XXXX Thank You XXXX XXXX. She had a credit balance of {$9.00} and a Thank You Rewards balance of {$43.00}, for a total of {$53.00}. I was an authorized user on the account. XXXX 's account number was XXXX XXXX XXXX XXXX, exp XX/XX/XXXX, XXXX digit code : XXXX. \nXXXX was a XXXX adult, a life-long XXXX XXXX and XXXX resident. XXXX had very little money throughout her life. She lived with our XXXX and myself. She did not leave an estate of any kind. \nXXXX insists they will only issue a refund check to the estate of XXXX XXXX XXXX, which means we can not get the {$53.00} back from them. I realize this is not a large amount of money, but for me its the idea that Citibank knows they owe this money and they are simply refusing to give it back, We would accept a check made payable to either my father or myself, or a transfer of credit to either my father or myself. They will not do either and say they will only issue a refund to the estate. Since there is no estate, we can not cash the checks. They are not willing to work with us at all. Please help if you can."
+}
+
+Chunk:
+my sister, xxxx xxxx xxxx, died unexpectedly on xx / xx / xxxx. at the time she was a long standing card holder of a xxxx thank you xxxx xxxx. she had a credit balance of { $ 9. 00 } and a thank you rewards balance of { $ 43. 00 }, for a total of { $ 53. 00 }. i was an authorized user on the account. xxxx's account number was xxxx xxxx xxxx xxxx, exp xx / xx / xxxx, xxxx digit code : xxxx. xxxx was a xxxx adult, a life - long xxxx xxxx and xxxx resident. xxxx had very little money throughout her life. she lived with our xxxx and myself. she did not leave an estate of any kind. xxxx insists they will only issue a refund check to the estate of xxxx xxxx xxxx, which means we can not get the { $ 53. 00 } back from them. i realize this is not a large amount of money, but for me its the idea that citibank knows they owe this money and they are simply refusing to give it back, we would accept a check made payable to either my father or myself, or a transfer of credit to either my father or myself. they will not do either and say they will only issue a refund to the estate. since there is no estate, we can not cash the checks. they are not willing to work with us at all. please help if you can.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996711254119873
+}

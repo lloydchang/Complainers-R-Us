@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9243742,
+  "complaint_id": "9243742",
+  "product": "Credit card",
+  "complaint_what_happened": "I was recently informed that my apple card issued by Goldman Sachs has been closed with no explanation. I have contacted apple support to get a resolution or explaination as for why my account was closed and they refused to provide any details informing me why my account was closed. I have always been in good terms with the service provider and never missed any payments, so I am not clear they did close my account.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94523",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I was recently informed that my apple card issued by Goldman Sachs has been closed with no explanation. I have contacted apple support to get a resolution or explaination as for why my account was closed and they refused to provide any details informing me why my account was closed. I have always been in good terms with the service provider and never missed any payments, so I am not clear they did close my account."
+}
+
+Chunk:
+i was recently informed that my apple card issued by goldman sachs has been closed with no explanation. i have contacted apple support to get a resolution or explaination as for why my account was closed and they refused to provide any details informing me why my account was closed. i have always been in good terms with the service provider and never missed any payments, so i am not clear they did close my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996560275554657
+}

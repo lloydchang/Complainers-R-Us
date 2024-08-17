@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9272174,
+  "complaint_id": "9272174",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment to Citibank , N.A . for my XXXX account in the amount of {$29.00} on XX/XX/year>. I made it early, and on the first day that my statement cycled. Under no circumstances does it say anywhere that you can not pay TOO EARLY, or that you would get penalized for that. Well, they did NOT COUNT my payment for my minimum payment, and have now charged me a late fee, and are making me pay a double payment plus some because of this! This is not fair! I want the late fee waived, the payment reduced to just one payment owed for XXXX, and the XX/XX/XXXX payment to count for the XXXX payment. I also want them to show where it states that a payment too early in the cycle will not count for the minimum payment.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "21030",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I made a payment to Citibank , N.A . for my XXXX account in the amount of {$29.00} on XX/XX/year>. I made it early, and on the first day that my statement cycled. Under no circumstances does it say anywhere that you can not pay TOO EARLY, or that you would get penalized for that. Well, they did NOT COUNT my payment for my minimum payment, and have now charged me a late fee, and are making me pay a double payment plus some because of this! This is not fair! I want the late fee waived, the payment reduced to just one payment owed for XXXX, and the XX/XX/XXXX payment to count for the XXXX payment. I also want them to show where it states that a payment too early in the cycle will not count for the minimum payment."
+}
+
+Chunk:
+i made a payment to citibank, n. a. for my xxxx account in the amount of { $ 29. 00 } on xx / xx / year >. i made it early, and on the first day that my statement cycled. under no circumstances does it say anywhere that you can not pay too early, or that you would get penalized for that. well, they did not count my payment for my minimum payment, and have now charged me a late fee, and are making me pay a double payment plus some because of this! this is not fair! i want the late fee waived, the payment reduced to just one payment owed for xxxx, and the xx / xx / xxxx payment to count for the xxxx payment. i also want them to show where it states that a payment too early in the cycle will not count for the minimum payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994888305664062
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9161543,
+  "complaint_id": "9161543",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello can someone at CFPB help with my dispute for Wells Fargo I opened a dispute provided all the information requested and Wells Fargo closed my dispute without refunded me When i talk to Wells Fargo they do not respond or tell me i didnt provide the information. \n\nAnd when i say they i did and i can email it to you again- they make up something else and its a never ending circle to keep my money",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89148",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Hello can someone at CFPB help with my dispute for Wells Fargo I opened a dispute provided all the information requested and Wells Fargo closed my dispute without refunded me When i talk to Wells Fargo they do not respond or tell me i didnt provide the information. \n\nAnd when i say they i did and i can email it to you again- they make up something else and its a never ending circle to keep my money"
+}
+
+Chunk:
+hello can someone at cfpb help with my dispute for wells fargo i opened a dispute provided all the information requested and wells fargo closed my dispute without refunded me when i talk to wells fargo they do not respond or tell me i didnt provide the information. and when i say they i did and i can email it to you again - they make up something else and its a never ending circle to keep my money
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9948946237564087
+}

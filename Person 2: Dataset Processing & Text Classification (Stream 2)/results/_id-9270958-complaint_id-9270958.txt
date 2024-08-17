@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270958,
+  "complaint_id": "9270958",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Lowes store credit card through Synchrony bank for the past XXXX months. I have been making payments on time and paying more than my minimum requirement. I have not used it for over a few months and last month they decreased my credit limit and reported it to credit agency. In return the credit agency reduced my credit rating. I was making payments and being a good customer and synchrony bank punished me for not using my card. Now Im trying to fix my credit rating because of them.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "503XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "IA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I have a Lowes store credit card through Synchrony bank for the past XXXX months. I have been making payments on time and paying more than my minimum requirement. I have not used it for over a few months and last month they decreased my credit limit and reported it to credit agency. In return the credit agency reduced my credit rating. I was making payments and being a good customer and synchrony bank punished me for not using my card. Now Im trying to fix my credit rating because of them."
+}
+
+Chunk:
+i have a lowes store credit card through synchrony bank for the past xxxx months. i have been making payments on time and paying more than my minimum requirement. i have not used it for over a few months and last month they decreased my credit limit and reported it to credit agency. in return the credit agency reduced my credit rating. i was making payments and being a good customer and synchrony bank punished me for not using my card. now im trying to fix my credit rating because of them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989481568336487
+}

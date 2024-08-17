@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211355,
+  "complaint_id": "9211355",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone tried to get chase credit card in XXXX  I need chase to delete these inquiries off my credit reports XXXX XXXX XXXXXX/XX/year> not me",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21244",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Someone tried to get chase credit card in XXXX  I need chase to delete these inquiries off my credit reports XXXX XXXX XXXXXX/XX/year> not me"
+}
+
+Chunk:
+someone tried to get chase credit card in xxxx i need chase to delete these inquiries off my credit reports xxxx xxxx xxxxxx / xx / year > not me
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996554851531982
+}

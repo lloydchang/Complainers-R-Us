@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9278920,
+  "complaint_id": "9278920",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> - I received an alert of hard inquiry from Experian about a XXXX XXXX XXXX card XX/XX/year> - I contacted Experian to remove the hard inquiry and to place a fraud alert on the report XX/XX/year> - Experian removed the hard inquiry and placed a fraud alert on the report XX/XX/year> - I received an alert of a new account opened under my name from Experian XX/XX/year>- I contacted Experian to dispute the account and was directed to file an FTC fraud report XX/XX/year> - I contacted Experian to dispute the wrong birth date on my credit report XX/XX/year> - I contacted XXXX XXXX XXXXXXXX to inform them of the fraudulent account XX/XX/year> - XXXX XXXX XXXXXXXX was unable to locate an account under my name, social security number, or address XX/XX/year> - I uploaded evidence of birthdate, identity, and address to Experian to correct the incorrect birth date information on my report",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10019",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XX/XX/year> - I received an alert of hard inquiry from Experian about a XXXX XXXX XXXX card XX/XX/year> - I contacted Experian to remove the hard inquiry and to place a fraud alert on the report XX/XX/year> - Experian removed the hard inquiry and placed a fraud alert on the report XX/XX/year> - I received an alert of a new account opened under my name from Experian XX/XX/year>- I contacted Experian to dispute the account and was directed to file an FTC fraud report XX/XX/year> - I contacted Experian to dispute the wrong birth date on my credit report XX/XX/year> - I contacted XXXX XXXX XXXXXXXX to inform them of the fraudulent account XX/XX/year> - XXXX XXXX XXXXXXXX was unable to locate an account under my name, social security number, or address XX/XX/year> - I uploaded evidence of birthdate, identity, and address to Experian to correct the incorrect birth date information on my report"
+}
+
+Chunk:
+xx / xx / year > - i received an alert of hard inquiry from experian about a xxxx xxxx xxxx card xx / xx / year > - i contacted experian to remove the hard inquiry and to place a fraud alert on the report xx / xx / year > - experian removed the hard inquiry and placed a fraud alert on the report xx / xx / year > - i received an alert of a new account opened under my name from experian xx / xx / year > - i contacted experian to dispute the account and was directed to file an ftc fraud report xx / xx / year > - i contacted experian to dispute the wrong birth date on my credit report xx / xx / year > - i contacted xxxx xxxx xxxxxxxx to inform them of the fraudulent account xx / xx / year > - xxxx xxxx xxxxxxxx was unable to locate an account under my name, social security number, or address xx / xx / year > - i uploaded evidence of birthdate, identity, and address to experian to correct the incorrect birth date information on my report
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992637038230896
+}

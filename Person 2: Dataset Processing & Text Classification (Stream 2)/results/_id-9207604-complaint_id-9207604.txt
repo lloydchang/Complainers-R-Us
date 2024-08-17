@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9207604,
+  "complaint_id": "9207604",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/year> someone tried to apply for a credit card fraudulently in my name. We called Chase and they shut that account down. However, ever since then we continue to get emails about an account to my & my wife 's email and with my first name. The emails report the % of balance used, when the balance is paid and come from XXXX. So somewhere my first name and our email are connected to an account that is not mine ( I do not have any accounts with Chase ). We have called Chase several times and they keep transferring us between fraud, customer support, and tech support and say they can not do anything about it. They say they can not search by an email ( which they should be able to search for since it is an element in their database ). After multiple attempts to resolve with Chase I am reaching out to you for help as my name and our email are being used fraudulently and without my permission and Chase refuses to rectify the situation. If you are not the correct agency to make them fix this, please let me know who to report to.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84092",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "In XX/XX/year> someone tried to apply for a credit card fraudulently in my name. We called Chase and they shut that account down. However, ever since then we continue to get emails about an account to my & my wife 's email and with my first name. The emails report the % of balance used, when the balance is paid and come from XXXX. So somewhere my first name and our email are connected to an account that is not mine ( I do not have any accounts with Chase ). We have called Chase several times and they keep transferring us between fraud, customer support, and tech support and say they can not do anything about it. They say they can not search by an email ( which they should be able to search for since it is an element in their database ). After multiple attempts to resolve with Chase I am reaching out to you for help as my name and our email are being used fraudulently and without my permission and Chase refuses to rectify the situation. If you are not the correct agency to make them fix this, please let me know who to report to."
+}
+
+Chunk:
+in xx / xx / year > someone tried to apply for a credit card fraudulently in my name. we called chase and they shut that account down. however, ever since then we continue to get emails about an account to my & my wife's email and with my first name. the emails report the % of balance used, when the balance is paid and come from xxxx. so somewhere my first name and our email are connected to an account that is not mine ( i do not have any accounts with chase ). we have called chase several times and they keep transferring us between fraud, customer support, and tech support and say they can not do anything about it. they say they can not search by an email ( which they should be able to search for since it is an element in their database ). after multiple attempts to resolve with chase i am reaching out to you for help as my name and our email are being used fraudulently and without my permission and chase refuses to rectify the situation. if you are not the correct agency to make them fix this, please let me know who to report to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995928406715393
+}

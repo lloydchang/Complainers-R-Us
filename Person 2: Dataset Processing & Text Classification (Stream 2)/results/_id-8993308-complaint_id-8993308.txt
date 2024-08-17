@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8993308,
+  "complaint_id": "8993308",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX of this year, I called BMO to close the credit card account, they agreed to send a refund check to me which included {$27.00} for a 'fee ' that was that was their error and they acknowledged the error in a letter. The {$27.00} plus the remaining rewards amount which was between {$11.00} to {$14.00}. was to be refunded to me. The BMO credit card representative explained it would take about 2 weeks to process. \n\nI never got the check from BMO. \nI called to find out the status on the following dates the answer was it was being processed : XXXX, XXXX, XXXX - BMO said it was sent out again XXXX Upon calling on XX/XX/XXXX, the BMO rep told me it was only a check for XXXX and the check cleared on XXXX. I asked why they didn't let me know when I called before? They said the information was just available. I want to see the endorsed copy of the check or get the refund check sent to me ASAP.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "989XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BMO Bank, N.A.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "In XXXX of this year, I called BMO to close the credit card account, they agreed to send a refund check to me which included {$27.00} for a 'fee ' that was that was their error and they acknowledged the error in a letter. The {$27.00} plus the remaining rewards amount which was between {$11.00} to {$14.00}. was to be refunded to me. The BMO credit card representative explained it would take about 2 weeks to process. \n\nI never got the check from BMO. \nI called to find out the status on the following dates the answer was it was being processed : XXXX, XXXX, XXXX - BMO said it was sent out again XXXX Upon calling on XX/XX/XXXX, the BMO rep told me it was only a check for XXXX and the check cleared on XXXX. I asked why they didn't let me know when I called before? They said the information was just available. I want to see the endorsed copy of the check or get the refund check sent to me ASAP."
+}
+
+Chunk:
+in xxxx of this year, i called bmo to close the credit card account, they agreed to send a refund check to me which included { $ 27. 00 } for a'fee'that was that was their error and they acknowledged the error in a letter. the { $ 27. 00 } plus the remaining rewards amount which was between { $ 11. 00 } to { $ 14. 00 }. was to be refunded to me. the bmo credit card representative explained it would take about 2 weeks to process. i never got the check from bmo. i called to find out the status on the following dates the answer was it was being processed : xxxx, xxxx, xxxx - bmo said it was sent out again xxxx upon calling on xx / xx / xxxx, the bmo rep told me it was only a check for xxxx and the check cleared on xxxx. i asked why they didn't let me know when i called before? they said the information was just available. i want to see the endorsed copy of the check or get the refund check sent to me asap.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991683959960938
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9325921,
+  "complaint_id": "9325921",
+  "product": "Credit card",
+  "complaint_what_happened": "The rewards program on my BofA Card allows for 3 % rewards on up to {$2500.00} in purchases each quarter. My choice is travel purchases. I have not reached {$2500.00} in purchases in the 2nd quarter of 2024, but BofA has said I reached the cap. The reason for this discrepancy is that BofA is counting a purchase I made in XXXX ( XX/XX/XXXX, but posted on XX/XX/XXXX ) as being in quarter 2 vs quarter 1. The website says \" 3 % and 2 % cash back on the first {$2500.00} in combined choice category/grocery store/wholesale club purchases each quarter ; then earn 1 % '' ( sceenshot of XX/XX/XXXX purchase and the copied phrase attached ). It does not say purchases posted in the quarter, it just says purchases each quarter. Since I made the purchase in Q1, it should be for Q1, not Q2. Also, in the Bank of America Customized Cash Rewards Program Rules ( attached ), I see no mention of the quarter being based on the time the purchase posted. Their is a specific part of the rules that states \" Choice Category Net Purchases in your new category that post to your account on the effective date but were made prior to the effective date will not be eligible for Bonus Cash Rewards ''. This means you can't make a purchase and then change the category before it posts and then expect to get rewards. So, BofA uses the purchase date of the transaction for this purpose, but apparently the posting date ( which is outside the customer 's control and not clearly documented anywhere I could find ) to decide which quarter the purchase is in. There is clearly a lack of disclosures and this is used in every case to limit the amount of rewards a customer can receive and prevent customers from getting the full rewards that should be earned.",
+  "date_sent_to_company": "2024-06-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75035",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "The rewards program on my BofA Card allows for 3 % rewards on up to {$2500.00} in purchases each quarter. My choice is travel purchases. I have not reached {$2500.00} in purchases in the 2nd quarter of 2024, but BofA has said I reached the cap. The reason for this discrepancy is that BofA is counting a purchase I made in XXXX ( XX/XX/XXXX, but posted on XX/XX/XXXX ) as being in quarter 2 vs quarter 1. The website says \" 3 % and 2 % cash back on the first {$2500.00} in combined choice category/grocery store/wholesale club purchases each quarter ; then earn 1 % '' ( sceenshot of XX/XX/XXXX purchase and the copied phrase attached ). It does not say purchases posted in the quarter, it just says purchases each quarter. Since I made the purchase in Q1, it should be for Q1, not Q2. Also, in the Bank of America Customized Cash Rewards Program Rules ( attached ), I see no mention of the quarter being based on the time the purchase posted. Their is a specific part of the rules that states \" Choice Category Net Purchases in your new category that post to your account on the effective date but were made prior to the effective date will not be eligible for Bonus Cash Rewards ''. This means you can't make a purchase and then change the category before it posts and then expect to get rewards. So, BofA uses the purchase date of the transaction for this purpose, but apparently the posting date ( which is outside the customer 's control and not clearly documented anywhere I could find ) to decide which quarter the purchase is in. There is clearly a lack of disclosures and this is used in every case to limit the amount of rewards a customer can receive and prevent customers from getting the full rewards that should be earned."
+}
+
+Chunk:
+the rewards program on my bofa card allows for 3 % rewards on up to { $ 2500. 00 } in purchases each quarter. my choice is travel purchases. i have not reached { $ 2500. 00 } in purchases in the 2nd quarter of 2024, but bofa has said i reached the cap. the reason for this discrepancy is that bofa is counting a purchase i made in xxxx ( xx / xx / xxxx, but posted on xx / xx / xxxx ) as being in quarter 2 vs quarter 1. the website says " 3 % and 2 % cash back on the first { $ 2500. 00 } in combined choice category / grocery store / wholesale club purchases each quarter ; then earn 1 %'' ( sceenshot of xx / xx / xxxx purchase and the copied phrase attached ). it does not say purchases posted in the quarter, it just says purchases each quarter. since i made the purchase in q1, it should be for q1, not q2. also, in the bank of america customized cash rewards program rules ( attached ), i see no mention of the quarter being based on the time the purchase posted. their is a specific part of the rules that states " choice category net purchases in your new category that post to your account on the effective date but were made prior to the effective date will not be eligible for bonus cash rewards''. this means you can't make a purchase and then change the category before it posts and then expect to get rewards. so, bofa uses the purchase date of the transaction for this purpose, but apparently the posting date ( which is outside the customer's control and not clearly documented anywhere i could find ) to decide which quarter the purchase is in. there is clearly a lack of disclosures and this is used in every case to limit the amount of rewards a customer can receive and prevent customers from getting the full rewards that should be earned.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989998936653137
+}

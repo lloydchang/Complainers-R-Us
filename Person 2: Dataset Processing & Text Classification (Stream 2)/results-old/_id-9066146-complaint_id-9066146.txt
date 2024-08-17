@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9066146,
+  "complaint_id": "9066146",
+  "product": "Credit card",
+  "complaint_what_happened": "Mercury Card company takes auto payments without crediting the account costing over credit charges etc unfairly. Then proceeds to lie saying the payments never go through by doubling the following payment to deceptively force me to pay 40 % of total amount due within 30 days! \n\nTotal amount due XX/XX/XXXX = XXXX Returned payment charge XXXX XXXX {$40.00} Payment of {$120.00} XX/XX/XXXX = processed but not credited Auto payment XX/XX/XXXX = {$210.00} without credit to account How can minimum payment go from {$120.00} in XXXX to {$210.00} when the card has not been used in over a year and the company is not crediting my account for payments made?",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97603",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Mercury Financial Intermediate LLC",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "Mercury Card company takes auto payments without crediting the account costing over credit charges etc unfairly. Then proceeds to lie saying the payments never go through by doubling the following payment to deceptively force me to pay 40 % of total amount due within 30 days! \n\nTotal amount due XX/XX/XXXX = XXXX Returned payment charge XXXX XXXX {$40.00} Payment of {$120.00} XX/XX/XXXX = processed but not credited Auto payment XX/XX/XXXX = {$210.00} without credit to account How can minimum payment go from {$120.00} in XXXX to {$210.00} when the card has not been used in over a year and the company is not crediting my account for payments made?"
+}
+
+Chunk:
+mercury card company takes auto payments without crediting the account costing over credit charges etc unfairly. then proceeds to lie saying the payments never go through by doubling the following payment to deceptively force me to pay 40 % of total amount due within 30 days! total amount due xx / xx / xxxx = xxxx returned payment charge xxxx xxxx { $ 40. 00 } payment of { $ 120. 00 } xx / xx / xxxx = processed but not credited auto payment xx / xx / xxxx = { $ 210. 00 } without credit to account how can minimum payment go from { $ 120. 00 } in xxxx to { $ 210. 00 } when the card has not been used in over a year and the company is not crediting my account for payments made?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989672899246216
+}

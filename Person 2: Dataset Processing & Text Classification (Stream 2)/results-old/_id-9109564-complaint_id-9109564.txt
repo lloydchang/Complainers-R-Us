@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9109564,
+  "complaint_id": "9109564",
+  "product": "Credit card",
+  "complaint_what_happened": "When I open with Paypal/Synchrony Bank XXXX a couple of years ago. I could see my account and the amount I was approved for which was {$1400.00}. I used {$950.00} of putting rotors and brakes on my truck. After Synchrony bank would send the pay through different dates. And if the payment did not go through the close the account like I defaulted on the loan with not questions asked. This happen several times even after I told them that I am retired and I get my retirement check on the XXXX of each month. Synchrony Bank have closed this account and open it some many times because they sent the payment in to my when they want to send it. Even after requesting the payment come out on the XXXX of the month. I was told that the payment could not be processed only on the XXXX not the XXXX and some other weird day which does not make since. For example, Synchrony Bank ran a payment on XX/XX/2024 {$30.00} which was declined. Also on XX/XX/2024 Synchrony Bank ran a payment for {$920.00} which was declined thank God. That is an example of Synchrony Bank just running the payment anytime they want too. I called to see how and why those payment were ran and after talking to XXXX people, customer service XXXX and a XXXX and neither could explain why that happen ... This company is ran by a bunch of backwoods XXXX!!!! No one there have talked to me about working this out in any way!!!! On XX/XX/XXXX Synchrony Bank can not withdrawal any payments from my account after the {$920.00} without my approval. XXXX XXXX XXXX XXXX has been notified.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77005",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "When I open with Paypal/Synchrony Bank XXXX a couple of years ago. I could see my account and the amount I was approved for which was {$1400.00}. I used {$950.00} of putting rotors and brakes on my truck. After Synchrony bank would send the pay through different dates. And if the payment did not go through the close the account like I defaulted on the loan with not questions asked. This happen several times even after I told them that I am retired and I get my retirement check on the XXXX of each month. Synchrony Bank have closed this account and open it some many times because they sent the payment in to my when they want to send it. Even after requesting the payment come out on the XXXX of the month. I was told that the payment could not be processed only on the XXXX not the XXXX and some other weird day which does not make since. For example, Synchrony Bank ran a payment on XX/XX/2024 {$30.00} which was declined. Also on XX/XX/2024 Synchrony Bank ran a payment for {$920.00} which was declined thank God. That is an example of Synchrony Bank just running the payment anytime they want too. I called to see how and why those payment were ran and after talking to XXXX people, customer service XXXX and a XXXX and neither could explain why that happen ... This company is ran by a bunch of backwoods XXXX!!!! No one there have talked to me about working this out in any way!!!! On XX/XX/XXXX Synchrony Bank can not withdrawal any payments from my account after the {$920.00} without my approval. XXXX XXXX XXXX XXXX has been notified."
+}
+
+Chunk:
+when i open with paypal / synchrony bank xxxx a couple of years ago. i could see my account and the amount i was approved for which was { $ 1400. 00 }. i used { $ 950. 00 } of putting rotors and brakes on my truck. after synchrony bank would send the pay through different dates. and if the payment did not go through the close the account like i defaulted on the loan with not questions asked. this happen several times even after i told them that i am retired and i get my retirement check on the xxxx of each month. synchrony bank have closed this account and open it some many times because they sent the payment in to my when they want to send it. even after requesting the payment come out on the xxxx of the month. i was told that the payment could not be processed only on the xxxx not the xxxx and some other weird day which does not make since. for example, synchrony bank ran a payment on xx / xx / 2024 { $ 30. 00 } which was declined. also on xx / xx / 2024 synchrony bank ran a payment for { $ 920. 00 } which was declined thank god. that is an example of synchrony bank just running the payment anytime they want too. i called to see how and why those payment were ran and after talking to xxxx people, customer service xxxx and a xxxx and neither could explain why that happen... this company is ran by a bunch of backwoods xxxx!!!! no one there have talked to me about working this out in any way!!!! on xx / xx / xxxx synchrony bank can not withdrawal any payments from my account after the { $ 920. 00 } without my approval. xxxx xxxx xxxx xxxx has been notified.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985139966011047
+}

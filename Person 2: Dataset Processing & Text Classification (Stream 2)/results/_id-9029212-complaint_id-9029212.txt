@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029212,
+  "complaint_id": "9029212",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX  someone used my identity to fraudulently apply for a Barclays XXXX XXXX. Barclays approved the application and the person proceeded to purchase items from an Old Navy store in Ohio. Total charges over {$360.00}. \n\nI received a delinquent payment letter in XXXX  and called Barclays to tell them I do not have a credit card with them. I reported this as fraud, and they said they would perform a thorough investigation. After investigating, they told me I was responsible. I was able to get a copy of the credit card application which had some accurate information but also had inaccurate information. \n\nBarclays said they would perform another thorough investigation. Soon I received another letter stating I was responsible for the charges. \n\nThis has gone on for 2 years and multiple phones calls with Barclays. When I call Barclays I get routed to many departments ( Fraud, Collections, customer service, etc ) but it is still not resolved. \n\nI then sought the help of XXXX XXXX identify theft department. XXXX ). XXXX XXXX called me, and we discussed it and then had a conference call with Barclays. \n\nThey have finally agreed that the application was fraudulent but that I still owe them the money! That doesn't make sense. \n\nI have filed a police report with the XXXX Texas Police department. The report number is XXXX. I have also reported this to the Consumer Protection agency of Texas.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "760XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX  someone used my identity to fraudulently apply for a Barclays XXXX XXXX. Barclays approved the application and the person proceeded to purchase items from an Old Navy store in Ohio. Total charges over {$360.00}. \n\nI received a delinquent payment letter in XXXX  and called Barclays to tell them I do not have a credit card with them. I reported this as fraud, and they said they would perform a thorough investigation. After investigating, they told me I was responsible. I was able to get a copy of the credit card application which had some accurate information but also had inaccurate information. \n\nBarclays said they would perform another thorough investigation. Soon I received another letter stating I was responsible for the charges. \n\nThis has gone on for 2 years and multiple phones calls with Barclays. When I call Barclays I get routed to many departments ( Fraud, Collections, customer service, etc ) but it is still not resolved. \n\nI then sought the help of XXXX XXXX identify theft department. XXXX ). XXXX XXXX called me, and we discussed it and then had a conference call with Barclays. \n\nThey have finally agreed that the application was fraudulent but that I still owe them the money! That doesn't make sense. \n\nI have filed a police report with the XXXX Texas Police department. The report number is XXXX. I have also reported this to the Consumer Protection agency of Texas."
+}
+
+Chunk:
+in xxxx someone used my identity to fraudulently apply for a barclays xxxx xxxx. barclays approved the application and the person proceeded to purchase items from an old navy store in ohio. total charges over { $ 360. 00 }. i received a delinquent payment letter in xxxx and called barclays to tell them i do not have a credit card with them. i reported this as fraud, and they said they would perform a thorough investigation. after investigating, they told me i was responsible. i was able to get a copy of the credit card application which had some accurate information but also had inaccurate information. barclays said they would perform another thorough investigation. soon i received another letter stating i was responsible for the charges. this has gone on for 2 years and multiple phones calls with barclays. when i call barclays i get routed to many departments ( fraud, collections, customer service, etc ) but it is still not resolved. i then sought the help of xxxx xxxx identify theft department. xxxx ). xxxx xxxx called me, and we discussed it and then had a conference call with barclays. they have finally agreed that the application was fraudulent but that i still owe them the money! that doesn't make sense. i have filed a police report with the xxxx texas police department. the report number is xxxx. i have also reported this to the consumer protection agency of texas.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999032735824585
+}

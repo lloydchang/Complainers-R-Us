@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9194687,
+  "complaint_id": "9194687",
+  "product": "Credit card",
+  "complaint_what_happened": "I contacted the Bank regarding a credit card that just closed on my credit file. I wanted to pay 5 months of the payments that I am behind on. I spoke with XXXX ( No ID was provided ) XXXX stated that there was a settlement available to me of 3 payments of {$1000.00} and that they would report the payments to my settlement to the credit bureau I told him that I would first need to consult with my financial advisor before I accepted this settlement and I would call back. XXXX then stated to me that I had no other choice other than to accept the settlement offer and that I can always cancel. \nHe went over a few disclosures via telephone then we hung up. Immediately after speaking to XXXX I contacted my financial advisor and she immediately told me to callback and clarify that it is not my intention to settle the debt but to instead pay in full. This settlement would not on damage my credit reliability and relationship with Bank of America it will be damaging to my credit as well. I called back and spoke to several representatives they denied me to withdraw this verbal deceptive agreement. I was denied the option to do so I mentioned the conversation XXXX and I had and made it clear that he told me that I can cancel it it hasn't even been a hour since the call ended. \nI spoke to XXXX on XX/XX/XXXX which is a manager as well as XXXX which is a representative. They all told me that I could not withdraw the settlement I told them that I will not be settling I will not be forced into a settlement and I requested them to send me my payment coupons as normal and that I will be paying the card in full I HAVE NOT RECEIVED ANYTHING AS OF YET. They are denying me to pay in full.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33138",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I contacted the Bank regarding a credit card that just closed on my credit file. I wanted to pay 5 months of the payments that I am behind on. I spoke with XXXX ( No ID was provided ) XXXX stated that there was a settlement available to me of 3 payments of {$1000.00} and that they would report the payments to my settlement to the credit bureau I told him that I would first need to consult with my financial advisor before I accepted this settlement and I would call back. XXXX then stated to me that I had no other choice other than to accept the settlement offer and that I can always cancel. \nHe went over a few disclosures via telephone then we hung up. Immediately after speaking to XXXX I contacted my financial advisor and she immediately told me to callback and clarify that it is not my intention to settle the debt but to instead pay in full. This settlement would not on damage my credit reliability and relationship with Bank of America it will be damaging to my credit as well. I called back and spoke to several representatives they denied me to withdraw this verbal deceptive agreement. I was denied the option to do so I mentioned the conversation XXXX and I had and made it clear that he told me that I can cancel it it hasn't even been a hour since the call ended. \nI spoke to XXXX on XX/XX/XXXX which is a manager as well as XXXX which is a representative. They all told me that I could not withdraw the settlement I told them that I will not be settling I will not be forced into a settlement and I requested them to send me my payment coupons as normal and that I will be paying the card in full I HAVE NOT RECEIVED ANYTHING AS OF YET. They are denying me to pay in full."
+}
+
+Chunk:
+i contacted the bank regarding a credit card that just closed on my credit file. i wanted to pay 5 months of the payments that i am behind on. i spoke with xxxx ( no id was provided ) xxxx stated that there was a settlement available to me of 3 payments of { $ 1000. 00 } and that they would report the payments to my settlement to the credit bureau i told him that i would first need to consult with my financial advisor before i accepted this settlement and i would call back. xxxx then stated to me that i had no other choice other than to accept the settlement offer and that i can always cancel. he went over a few disclosures via telephone then we hung up. immediately after speaking to xxxx i contacted my financial advisor and she immediately told me to callback and clarify that it is not my intention to settle the debt but to instead pay in full. this settlement would not on damage my credit reliability and relationship with bank of america it will be damaging to my credit as well. i called back and spoke to several representatives they denied me to withdraw this verbal deceptive agreement. i was denied the option to do so i mentioned the conversation xxxx and i had and made it clear that he told me that i can cancel it it hasn't even been a hour since the call ended. i spoke to xxxx on xx / xx / xxxx which is a manager as well as xxxx which is a representative. they all told me that i could not withdraw the settlement i told them that i will not be settling i will not be forced into a settlement and i requested them to send me my payment coupons as normal and that i will be paying the card in full i have not received anything as of yet. they are denying me to pay in full.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.993697464466095
+}

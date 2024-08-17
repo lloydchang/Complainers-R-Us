@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247267,
+  "complaint_id": "9247267",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX setup an auto-payment to transfer {$300.00} from my checking account to the credit card account twice a month. The first transfer occurred on XX/XX/year> and it was for {$150.00}. There is no indication on the auto-pay process that says they will divide it in half, thereby slowing down the process to pay off your card and building more interest. \n\nChat rep \" XXXX '' has been unresponsive other than saying this was correct.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46256",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "XXXX setup an auto-payment to transfer {$300.00} from my checking account to the credit card account twice a month. The first transfer occurred on XX/XX/year> and it was for {$150.00}. There is no indication on the auto-pay process that says they will divide it in half, thereby slowing down the process to pay off your card and building more interest. \n\nChat rep \" XXXX '' has been unresponsive other than saying this was correct."
+}
+
+Chunk:
+xxxx setup an auto - payment to transfer { $ 300. 00 } from my checking account to the credit card account twice a month. the first transfer occurred on xx / xx / year > and it was for { $ 150. 00 }. there is no indication on the auto - pay process that says they will divide it in half, thereby slowing down the process to pay off your card and building more interest. chat rep " xxxx'' has been unresponsive other than saying this was correct.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999555766582489
+}

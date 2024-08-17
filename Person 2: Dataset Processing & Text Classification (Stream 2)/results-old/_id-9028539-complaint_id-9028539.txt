@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9028539,
+  "complaint_id": "9028539",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment to my Wells Fargo credit card account ending XXXX on XX/XX/year>. I was waiting for my available credit to be updated. I was told by Wells Fargo they placed a 15 day hold on my payment. This is a violation of Reg E. The payment should have been applied the next business day. I have had this account for almost XXXX  years with no returned payments. I filed a complaint and was told I needed to allow 10 business days for a response. That will pass the hold time frame. This is unacceptable.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "870XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NM",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I made a payment to my Wells Fargo credit card account ending XXXX on XX/XX/year>. I was waiting for my available credit to be updated. I was told by Wells Fargo they placed a 15 day hold on my payment. This is a violation of Reg E. The payment should have been applied the next business day. I have had this account for almost XXXX  years with no returned payments. I filed a complaint and was told I needed to allow 10 business days for a response. That will pass the hold time frame. This is unacceptable."
+}
+
+Chunk:
+i made a payment to my wells fargo credit card account ending xxxx on xx / xx / year >. i was waiting for my available credit to be updated. i was told by wells fargo they placed a 15 day hold on my payment. this is a violation of reg e. the payment should have been applied the next business day. i have had this account for almost xxxx years with no returned payments. i filed a complaint and was told i needed to allow 10 business days for a response. that will pass the hold time frame. this is unacceptable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997406601905823
+}

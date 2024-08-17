@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9018706,
+  "complaint_id": "9018706",
+  "product": "Credit card",
+  "complaint_what_happened": "I tried to use my card twice today, at XXXX and at XXXX. And it didnt work it either place.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84094",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I tried to use my card twice today, at XXXX and at XXXX. And it didnt work it either place."
+}
+
+Chunk:
+i tried to use my card twice today, at xxxx and at xxxx. and it didnt work it either place.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996170997619629
+}

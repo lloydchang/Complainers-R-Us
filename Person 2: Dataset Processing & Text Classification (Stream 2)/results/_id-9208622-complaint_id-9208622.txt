@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208622,
+  "complaint_id": "9208622",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I responded to a \" {$10.00} coupon '' to use my previously dormant Victoria 's Secret Comenity Bank Credit card. \n\nOn XX/XX/XXXX, payment was due, and Victoria 's Secret Comenity Bank charged me a {$30.00} late fee when it was not received. \n\nI scheduled a payment on XX/XX/XXXX, then called in to get the late fee waived as this was a first. \n\nThe company declined to waive the {$30.00} fee, and pointed me to a change of terms in the previouis three months. I asked if this change had been communicated to me in a letter or an email, and they were unable to confirm. They said it was most likely in an XXXX statement. I pointed out that I had not received a statement in XXXX as my card was not used then. They were unable to honor the terms of the agreement I had in place with them, and would not refund the full {$30.00} late fee. \n\nI asked when the {$8.00} late fee cap couldn't be going into effect. They said it went into effect in XXXX. I asked why I had a {$30.00} late fee on XX/XX/XXXX. They were unable to explain why. \n\nSo I got baited into using a {$10.00} coupon, and instead now have to pay {$30.00} - a net {$20.00} loss.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "20878",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "On XX/XX/XXXX, I responded to a \" {$10.00} coupon '' to use my previously dormant Victoria 's Secret Comenity Bank Credit card. \n\nOn XX/XX/XXXX, payment was due, and Victoria 's Secret Comenity Bank charged me a {$30.00} late fee when it was not received. \n\nI scheduled a payment on XX/XX/XXXX, then called in to get the late fee waived as this was a first. \n\nThe company declined to waive the {$30.00} fee, and pointed me to a change of terms in the previouis three months. I asked if this change had been communicated to me in a letter or an email, and they were unable to confirm. They said it was most likely in an XXXX statement. I pointed out that I had not received a statement in XXXX as my card was not used then. They were unable to honor the terms of the agreement I had in place with them, and would not refund the full {$30.00} late fee. \n\nI asked when the {$8.00} late fee cap couldn't be going into effect. They said it went into effect in XXXX. I asked why I had a {$30.00} late fee on XX/XX/XXXX. They were unable to explain why. \n\nSo I got baited into using a {$10.00} coupon, and instead now have to pay {$30.00} - a net {$20.00} loss."
+}
+
+Chunk:
+on xx / xx / xxxx, i responded to a " { $ 10. 00 } coupon'' to use my previously dormant victoria's secret comenity bank credit card. on xx / xx / xxxx, payment was due, and victoria's secret comenity bank charged me a { $ 30. 00 } late fee when it was not received. i scheduled a payment on xx / xx / xxxx, then called in to get the late fee waived as this was a first. the company declined to waive the { $ 30. 00 } fee, and pointed me to a change of terms in the previouis three months. i asked if this change had been communicated to me in a letter or an email, and they were unable to confirm. they said it was most likely in an xxxx statement. i pointed out that i had not received a statement in xxxx as my card was not used then. they were unable to honor the terms of the agreement i had in place with them, and would not refund the full { $ 30. 00 } late fee. i asked when the { $ 8. 00 } late fee cap couldn't be going into effect. they said it went into effect in xxxx. i asked why i had a { $ 30. 00 } late fee on xx / xx / xxxx. they were unable to explain why. so i got baited into using a { $ 10. 00 } coupon, and instead now have to pay { $ 30. 00 } - a net { $ 20. 00 } loss.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996272325515747
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9058690,
+  "complaint_id": "9058690",
+  "product": "Credit card",
+  "complaint_what_happened": "Self lender is illegally reporting to my credit reports, and harming my credit. I have sent them multiple letters and they have refused to respond. \n\nMy information was sold and bought illegally because I was a victim of data breach by the direct negligence of XXXX XXXX XXXX and XXXX data breach. I want these items deleted from my credit reports effective immediately : SELF LENDER I am attaching proof that XXXX and XXXX XXXX XXXX have admitted that I was in fact a victim of these data breaches and XXXX has refused to remove these items. Please help me delete these illegal accounts from my credit reports as I am a victim of identity theft and data breaches.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85719",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Investigation took more than 30 days",
+  "text": "Self lender is illegally reporting to my credit reports, and harming my credit. I have sent them multiple letters and they have refused to respond. \n\nMy information was sold and bought illegally because I was a victim of data breach by the direct negligence of XXXX XXXX XXXX and XXXX data breach. I want these items deleted from my credit reports effective immediately : SELF LENDER I am attaching proof that XXXX and XXXX XXXX XXXX have admitted that I was in fact a victim of these data breaches and XXXX has refused to remove these items. Please help me delete these illegal accounts from my credit reports as I am a victim of identity theft and data breaches."
+}
+
+Chunk:
+self lender is illegally reporting to my credit reports, and harming my credit. i have sent them multiple letters and they have refused to respond. my information was sold and bought illegally because i was a victim of data breach by the direct negligence of xxxx xxxx xxxx and xxxx data breach. i want these items deleted from my credit reports effective immediately : self lender i am attaching proof that xxxx and xxxx xxxx xxxx have admitted that i was in fact a victim of these data breaches and xxxx has refused to remove these items. please help me delete these illegal accounts from my credit reports as i am a victim of identity theft and data breaches.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983273148536682
+}

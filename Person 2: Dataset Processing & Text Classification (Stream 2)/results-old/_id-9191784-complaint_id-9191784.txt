@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191784,
+  "complaint_id": "9191784",
+  "product": "Credit card",
+  "complaint_what_happened": "Some one stilled my identity opens two credit cards under my name an American Express card and a XXXX XXXX card",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19120",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "Some one stilled my identity opens two credit cards under my name an American Express card and a XXXX XXXX card"
+}
+
+Chunk:
+some one stilled my identity opens two credit cards under my name an american express card and a xxxx xxxx card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9925363063812256
+}

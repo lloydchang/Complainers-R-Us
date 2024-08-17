@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9674641,
+  "complaint_id": "9674641",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I called Citi to see about reducing my interest rate on my credit card. The representative told me they couldnt. I ask them what would happen if I closed my card with my interest rate and they said they would check on that. They put me on hold and then I was disconnected. I found out a month later my card was closed without me confirming or saying I actually wanted card closed. I called in XX/XX/XXXX that I would like my card reopened because I never requested it to be closed. The representative told me they would check and send me a letter if they could. I received a letter theyre going to leave credit card closed. Now my credit utilization on my credit report went way up and my credit score was reduced XXXX points. Im now not able to get a low interest rate for a vehicle.",
+  "date_sent_to_company": "2024-08-01T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-01T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/XXXX, I called Citi to see about reducing my interest rate on my credit card. The representative told me they couldnt. I ask them what would happen if I closed my card with my interest rate and they said they would check on that. They put me on hold and then I was disconnected. I found out a month later my card was closed without me confirming or saying I actually wanted card closed. I called in XX/XX/XXXX that I would like my card reopened because I never requested it to be closed. The representative told me they would check and send me a letter if they could. I received a letter theyre going to leave credit card closed. Now my credit utilization on my credit report went way up and my credit score was reduced XXXX points. Im now not able to get a low interest rate for a vehicle."
+}
+
+Chunk:
+on xx / xx / xxxx, i called citi to see about reducing my interest rate on my credit card. the representative told me they couldnt. i ask them what would happen if i closed my card with my interest rate and they said they would check on that. they put me on hold and then i was disconnected. i found out a month later my card was closed without me confirming or saying i actually wanted card closed. i called in xx / xx / xxxx that i would like my card reopened because i never requested it to be closed. the representative told me they would check and send me a letter if they could. i received a letter theyre going to leave credit card closed. now my credit utilization on my credit report went way up and my credit score was reduced xxxx points. im now not able to get a low interest rate for a vehicle.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996572732925415
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9245070,
+  "complaint_id": "9245070",
+  "product": "Credit card",
+  "complaint_what_happened": "Company is slow and non responsive in resolving a billing dispute. In fact, on XX/XX/XXXX, the merchant has informed me that they are unable to process the refund due to the charge being in dispute. On the above date, I asked the business three times to either force through the refund or remove the dispute so the merchant can process the refund. \n\nLoan ID : XXXX XXXX : XXXX XXXX XXXX, the business is falsely claiming my payment is overdue, this is even after initiating a dispute advising the merchandise has been completely returned to the merchant. \n\nExplain why a merchant is unable to process a refund when the loan is in dispute.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "342XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Affirm Holdings, Inc",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Company is slow and non responsive in resolving a billing dispute. In fact, on XX/XX/XXXX, the merchant has informed me that they are unable to process the refund due to the charge being in dispute. On the above date, I asked the business three times to either force through the refund or remove the dispute so the merchant can process the refund. \n\nLoan ID : XXXX XXXX : XXXX XXXX XXXX, the business is falsely claiming my payment is overdue, this is even after initiating a dispute advising the merchandise has been completely returned to the merchant. \n\nExplain why a merchant is unable to process a refund when the loan is in dispute."
+}
+
+Chunk:
+company is slow and non responsive in resolving a billing dispute. in fact, on xx / xx / xxxx, the merchant has informed me that they are unable to process the refund due to the charge being in dispute. on the above date, i asked the business three times to either force through the refund or remove the dispute so the merchant can process the refund. loan id : xxxx xxxx : xxxx xxxx xxxx, the business is falsely claiming my payment is overdue, this is even after initiating a dispute advising the merchandise has been completely returned to the merchant. explain why a merchant is unable to process a refund when the loan is in dispute.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997398257255554
+}

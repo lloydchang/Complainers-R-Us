@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9032414,
+  "complaint_id": "9032414",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I applied for Amex business gold card after seeing a sign up bonus of XXXX offer after {$10000.00} spending. The offer applies to all new business gold members. I have never had an Amex business gold card. On XX/XX/XXXX, I fulfilled the {$10000.00} spending requirement but amex did not honor the XXXX bonus. When inquired with customer service they indicate the promotion was not applied to my application and that my application did not come with any sign up bonus. This is a bait and switch. How can Amex advertise a XXXX bonus to all new businesses but at the same time market a link with no bonus at all? I feel very victimized by this tactic. A quick XXXX search of the Amex business gold card a promotion will always have a sign up promotion more or less. But to have a link for no bonus at all while advertising all these extravagant bonuses is deceptive. \n\nBelow is a link as of today XX/XX/XXXX for a XXXX point offer by simple XXXX search. \n\nXXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91748",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "On XX/XX/XXXX I applied for Amex business gold card after seeing a sign up bonus of XXXX offer after {$10000.00} spending. The offer applies to all new business gold members. I have never had an Amex business gold card. On XX/XX/XXXX, I fulfilled the {$10000.00} spending requirement but amex did not honor the XXXX bonus. When inquired with customer service they indicate the promotion was not applied to my application and that my application did not come with any sign up bonus. This is a bait and switch. How can Amex advertise a XXXX bonus to all new businesses but at the same time market a link with no bonus at all? I feel very victimized by this tactic. A quick XXXX search of the Amex business gold card a promotion will always have a sign up promotion more or less. But to have a link for no bonus at all while advertising all these extravagant bonuses is deceptive. \n\nBelow is a link as of today XX/XX/XXXX for a XXXX point offer by simple XXXX search. \n\nXXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+on xx / xx / xxxx i applied for amex business gold card after seeing a sign up bonus of xxxx offer after { $ 10000. 00 } spending. the offer applies to all new business gold members. i have never had an amex business gold card. on xx / xx / xxxx, i fulfilled the { $ 10000. 00 } spending requirement but amex did not honor the xxxx bonus. when inquired with customer service they indicate the promotion was not applied to my application and that my application did not come with any sign up bonus. this is a bait and switch. how can amex advertise a xxxx bonus to all new businesses but at the same time market a link with no bonus at all? i feel very victimized by this tactic. a quick xxxx search of the amex business gold card a promotion will always have a sign up promotion more or less. but to have a link for no bonus at all while advertising all these extravagant bonuses is deceptive. below is a link as of today xx / xx / xxxx for a xxxx point offer by simple xxxx search. xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986637830734253
+}

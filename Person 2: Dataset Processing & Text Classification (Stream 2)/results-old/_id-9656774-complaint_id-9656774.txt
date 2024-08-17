@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9656774,
+  "complaint_id": "9656774",
+  "product": "Credit card",
+  "complaint_what_happened": "I XXXX XXXX Open dispute with Wells Fargo XXXX XXXX XXXX XXXX XXXX for XXXX dollars for a bet on Celtics and mavericks I won but not according to XXXX XXXX so I ask Wellsfargo to dispute and recover my remaining balance on XXXX XXXX account for a total XXXX dollars This XXXX companies are ignoring my request to be fully be refunded for XXXX dollars",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "856XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "I XXXX XXXX Open dispute with Wells Fargo XXXX XXXX XXXX XXXX XXXX for XXXX dollars for a bet on Celtics and mavericks I won but not according to XXXX XXXX so I ask Wellsfargo to dispute and recover my remaining balance on XXXX XXXX account for a total XXXX dollars This XXXX companies are ignoring my request to be fully be refunded for XXXX dollars"
+}
+
+Chunk:
+i xxxx xxxx open dispute with wells fargo xxxx xxxx xxxx xxxx xxxx for xxxx dollars for a bet on celtics and mavericks i won but not according to xxxx xxxx so i ask wellsfargo to dispute and recover my remaining balance on xxxx xxxx account for a total xxxx dollars this xxxx companies are ignoring my request to be fully be refunded for xxxx dollars
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993257522583008
+}

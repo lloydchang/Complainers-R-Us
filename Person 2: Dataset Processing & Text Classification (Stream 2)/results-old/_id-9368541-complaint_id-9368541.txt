@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9368541,
+  "complaint_id": "9368541",
+  "product": "Credit card",
+  "complaint_what_happened": "Received in the mail on XX/XX/XXXX a notification from Citi that they needed further information to continue my credit card application. The problem is I never applied for a credit card. I phoned Citi and they showed that the received an application at their citibank in XXXX XXXX XXXX XXXX The application was complete with my address and Social Security number. The application was stopped and they are forwarding an alert to the credit reporting agencies. They also recommended that I get in touch with you on this problem because of the social violation.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "96003",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Received in the mail on XX/XX/XXXX a notification from Citi that they needed further information to continue my credit card application. The problem is I never applied for a credit card. I phoned Citi and they showed that the received an application at their citibank in XXXX XXXX XXXX XXXX The application was complete with my address and Social Security number. The application was stopped and they are forwarding an alert to the credit reporting agencies. They also recommended that I get in touch with you on this problem because of the social violation."
+}
+
+Chunk:
+received in the mail on xx / xx / xxxx a notification from citi that they needed further information to continue my credit card application. the problem is i never applied for a credit card. i phoned citi and they showed that the received an application at their citibank in xxxx xxxx xxxx xxxx the application was complete with my address and social security number. the application was stopped and they are forwarding an alert to the credit reporting agencies. they also recommended that i get in touch with you on this problem because of the social violation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996920108795166
+}

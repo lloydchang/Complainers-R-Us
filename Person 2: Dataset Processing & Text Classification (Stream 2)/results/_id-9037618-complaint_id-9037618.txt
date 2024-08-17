@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037618,
+  "complaint_id": "9037618",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony bank sent a notice with my latest bill ( received XX/XX/24 ) that starting within the next 60 days, a {$1.00} paper statement fee will be charged to my account each month I am sent a paper billing statement with a balance greater than {$2.00} ( even if one is also provided to me in electronic form ). \n\nThey are trying to charge me for a billing statement.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "078XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony bank sent a notice with my latest bill ( received XX/XX/24 ) that starting within the next 60 days, a {$1.00} paper statement fee will be charged to my account each month I am sent a paper billing statement with a balance greater than {$2.00} ( even if one is also provided to me in electronic form ). \n\nThey are trying to charge me for a billing statement."
+}
+
+Chunk:
+synchrony bank sent a notice with my latest bill ( received xx / xx / 24 ) that starting within the next 60 days, a { $ 1. 00 } paper statement fee will be charged to my account each month i am sent a paper billing statement with a balance greater than { $ 2. 00 } ( even if one is also provided to me in electronic form ). they are trying to charge me for a billing statement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9962396621704102
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9383482,
+  "complaint_id": "9383482",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for this credit card. They wanted me to go online to activate it. Once I tried to. The company wanted a {$35.00} a month service fee. So I called the # on my card that I received through the mail. And the individual. Told me yes there is a monthly fee. So I told the individual I wasn't going to activate the card. I hung up the phone and cut the card up. Without activating it. I received a letter in the mail .stating that there was fraudulent activity on this credit card I never activated. I perseved to call the 1800 # and the individual said that he could not see the problem until I activated the card online. Bank of America. Is the company",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37323",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I applied for this credit card. They wanted me to go online to activate it. Once I tried to. The company wanted a {$35.00} a month service fee. So I called the # on my card that I received through the mail. And the individual. Told me yes there is a monthly fee. So I told the individual I wasn't going to activate the card. I hung up the phone and cut the card up. Without activating it. I received a letter in the mail .stating that there was fraudulent activity on this credit card I never activated. I perseved to call the 1800 # and the individual said that he could not see the problem until I activated the card online. Bank of America. Is the company"
+}
+
+Chunk:
+i applied for this credit card. they wanted me to go online to activate it. once i tried to. the company wanted a { $ 35. 00 } a month service fee. so i called the # on my card that i received through the mail. and the individual. told me yes there is a monthly fee. so i told the individual i wasn't going to activate the card. i hung up the phone and cut the card up. without activating it. i received a letter in the mail. stating that there was fraudulent activity on this credit card i never activated. i perseved to call the 1800 # and the individual said that he could not see the problem until i activated the card online. bank of america. is the company
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995629191398621
+}

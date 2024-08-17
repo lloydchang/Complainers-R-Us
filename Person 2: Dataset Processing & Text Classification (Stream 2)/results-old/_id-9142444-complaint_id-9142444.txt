@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142444,
+  "complaint_id": "9142444",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from Kohls on XX/XX/year> at XXXX. It says this : \" Important Notice of a Change in Terms This notice provides a summary of changes that are being made to your Kohls Card Account Terms ( including to the new Account features offered on your new Kohls Rewards Visa card ). These changes will take effect on XX/XX/year>. \nYou have the right to reject the change to the Interest Charge Calculation in the Revised Terms table below until XXXX XXXX XXXX  on XX/XX/year>, by calling XXXX. If you reject this change, your Account will be closed on XX/XX/year>. '' Their systems will not let me reject the change in Interest Charge Calculation, which is the following : \" We will begin using daily periodic rates in place of monthly periodic rates in calculating Interest Charges. See enclosed Account Terms under sections What Are The Daily Periodic Rates Used To Calculate My Interest? and How Do You Calculate The Interest Charge? for details. \nWe will continue to use the average daily balance ( including new transactions ) balance computation method, however, new transactions may now include the prior days Interest Charges that will be calculated daily instead of monthly. '' On XX/XX/year> I called XXXX to reject the change and was told by the rep that they are not trained for this and she provided me another number to call which is XXXX. I was concerned that this was fraudulent so I logged into my Kohl 's credit card website and clicked on the \" contact us '' to grab the customer service number XXXX. I called that number and the rep told me to call XXXX. I did, and it was a number meant for those who already have a 16 digit Capital One card, which I don't. I only have a 12 digit Kohls store card. So, I called the customer service number on the back of my Kohl 's card XXXX. They said they did not have any information regarding helping me with the Capital One rejection but that they could go ahead and close my account regularly. So, I hung up and called the XXXX, the number I was afraid was fraudulent, which asked me to key in my 12 digit Kohls store card. But it would not register that I was typing in any numbers at all - I tried 3 times during that cellphone call. Then I hung up and called from my work phone and it still would not recognize that I was keying in any of the numbers from the front of my Kohls store card. \n\nIs it not illegal to provide notification of change of terms with instructions on what to do and then not allow the consumers to perform said instructions? \n\nI have never been more embarrassed of just how shiesty the American financial system is.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "762XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "I received an email from Kohls on XX/XX/year> at XXXX. It says this : \" Important Notice of a Change in Terms This notice provides a summary of changes that are being made to your Kohls Card Account Terms ( including to the new Account features offered on your new Kohls Rewards Visa card ). These changes will take effect on XX/XX/year>. \nYou have the right to reject the change to the Interest Charge Calculation in the Revised Terms table below until XXXX XXXX XXXX  on XX/XX/year>, by calling XXXX. If you reject this change, your Account will be closed on XX/XX/year>. '' Their systems will not let me reject the change in Interest Charge Calculation, which is the following : \" We will begin using daily periodic rates in place of monthly periodic rates in calculating Interest Charges. See enclosed Account Terms under sections What Are The Daily Periodic Rates Used To Calculate My Interest? and How Do You Calculate The Interest Charge? for details. \nWe will continue to use the average daily balance ( including new transactions ) balance computation method, however, new transactions may now include the prior days Interest Charges that will be calculated daily instead of monthly. '' On XX/XX/year> I called XXXX to reject the change and was told by the rep that they are not trained for this and she provided me another number to call which is XXXX. I was concerned that this was fraudulent so I logged into my Kohl 's credit card website and clicked on the \" contact us '' to grab the customer service number XXXX. I called that number and the rep told me to call XXXX. I did, and it was a number meant for those who already have a 16 digit Capital One card, which I don't. I only have a 12 digit Kohls store card. So, I called the customer service number on the back of my Kohl 's card XXXX. They said they did not have any information regarding helping me with the Capital One rejection but that they could go ahead and close my account regularly. So, I hung up and called the XXXX, the number I was afraid was fraudulent, which asked me to key in my 12 digit Kohls store card. But it would not register that I was typing in any numbers at all - I tried 3 times during that cellphone call. Then I hung up and called from my work phone and it still would not recognize that I was keying in any of the numbers from the front of my Kohls store card. \n\nIs it not illegal to provide notification of change of terms with instructions on what to do and then not allow the consumers to perform said instructions? \n\nI have never been more embarrassed of just how shiesty the American financial system is."
+}
+
+Chunk:
+in any of the numbers from the front of my kohls store card. is it not illegal to provide notification of change of terms with instructions on what to do and then not allow the consumers to perform said instructions? i have never been more embarrassed of just how shiesty the american financial system is.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9869185090065002
+}

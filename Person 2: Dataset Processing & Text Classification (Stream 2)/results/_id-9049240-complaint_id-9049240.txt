@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049240,
+  "complaint_id": "9049240",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had my Citibank card hacked to the balance of approx. {$1300.00}. That happened between XX/XX/XXXX and XX/XX/XXXX. I closed my card and they sent me another card that I never activated. They allowed more charges saying they were reoccurring charges however, thery were not my reoccuring charges. They were for cell phone accounts. I called them again when I saw more charges and they closed the card and sent me another card that I never activated but they allowed more charges. I have been able to have charges reversed and gotten my balance down to zero. Citibank then decided to reverse some of the charges and the balance is now XXXX. They are saying that I was at restaurants in Michigan and XXXX XXXX and had a membership to an online health club. I have done none of this. Never purchased these services and have never been in XXXX XXXX or Michigan. I have never asked for a health club membership and now they are saying there is something with XXXX XXXX XXXX. I have spent hours on the phone with multiple people from Security ops to customer service and just spent another XXXX hours with them today ( XX/XX/XXXX ) and they always say they are going to reverse charges and then it doesn't happen. That has happened no less than 4 times. They now have put on my credit report that I have not paid them in 90 days and they are ruining my credit.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "530XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have had my Citibank card hacked to the balance of approx. {$1300.00}. That happened between XX/XX/XXXX and XX/XX/XXXX. I closed my card and they sent me another card that I never activated. They allowed more charges saying they were reoccurring charges however, thery were not my reoccuring charges. They were for cell phone accounts. I called them again when I saw more charges and they closed the card and sent me another card that I never activated but they allowed more charges. I have been able to have charges reversed and gotten my balance down to zero. Citibank then decided to reverse some of the charges and the balance is now XXXX. They are saying that I was at restaurants in Michigan and XXXX XXXX and had a membership to an online health club. I have done none of this. Never purchased these services and have never been in XXXX XXXX or Michigan. I have never asked for a health club membership and now they are saying there is something with XXXX XXXX XXXX. I have spent hours on the phone with multiple people from Security ops to customer service and just spent another XXXX hours with them today ( XX/XX/XXXX ) and they always say they are going to reverse charges and then it doesn't happen. That has happened no less than 4 times. They now have put on my credit report that I have not paid them in 90 days and they are ruining my credit."
+}
+
+Chunk:
+i have had my citibank card hacked to the balance of approx. { $ 1300. 00 }. that happened between xx / xx / xxxx and xx / xx / xxxx. i closed my card and they sent me another card that i never activated. they allowed more charges saying they were reoccurring charges however, thery were not my reoccuring charges. they were for cell phone accounts. i called them again when i saw more charges and they closed the card and sent me another card that i never activated but they allowed more charges. i have been able to have charges reversed and gotten my balance down to zero. citibank then decided to reverse some of the charges and the balance is now xxxx. they are saying that i was at restaurants in michigan and xxxx xxxx and had a membership to an online health club. i have done none of this. never purchased these services and have never been in xxxx xxxx or michigan. i have never asked for a health club membership and now they are saying there is something with xxxx xxxx xxxx. i have spent hours on the phone with multiple people from security ops to customer service and just spent another xxxx hours with them today ( xx / xx / xxxx ) and they always say they are going to reverse charges and then it doesn't happen. that has happened no less than 4 times. they now have put on my credit report that i have not paid them in 90 days and they are ruining my credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993385672569275
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9169662,
+  "complaint_id": "9169662",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Costco credit card that I used primarily to buy from Costco and once in a while shop in other places. In XXXX I noticed a couple of fraudulent charges that summed up to {$860.00}. I called and disputed the charges right away. Few months later Costco sent me a letter that they closed the dispute and can not credit my account for the fraudulent charges because \" The card 's XXXX chip was used to make the disputed transactions, so they don't consider the charges fraudulent activity. '' I have explained to them multiple times that I do not make purchases with the type of merchants and do not buy the type of products. Yes, my card is physically with me XXXX. I did not make the purchase and have never entered the stores where the purchases where made in XXXX.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "11422",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have a Costco credit card that I used primarily to buy from Costco and once in a while shop in other places. In XXXX I noticed a couple of fraudulent charges that summed up to {$860.00}. I called and disputed the charges right away. Few months later Costco sent me a letter that they closed the dispute and can not credit my account for the fraudulent charges because \" The card 's XXXX chip was used to make the disputed transactions, so they don't consider the charges fraudulent activity. '' I have explained to them multiple times that I do not make purchases with the type of merchants and do not buy the type of products. Yes, my card is physically with me XXXX. I did not make the purchase and have never entered the stores where the purchases where made in XXXX."
+}
+
+Chunk:
+i have a costco credit card that i used primarily to buy from costco and once in a while shop in other places. in xxxx i noticed a couple of fraudulent charges that summed up to { $ 860. 00 }. i called and disputed the charges right away. few months later costco sent me a letter that they closed the dispute and can not credit my account for the fraudulent charges because " the card's xxxx chip was used to make the disputed transactions, so they don't consider the charges fraudulent activity.'' i have explained to them multiple times that i do not make purchases with the type of merchants and do not buy the type of products. yes, my card is physically with me xxxx. i did not make the purchase and have never entered the stores where the purchases where made in xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977739453315735
+}

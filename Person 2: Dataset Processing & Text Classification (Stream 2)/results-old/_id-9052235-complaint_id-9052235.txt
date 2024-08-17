@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9052235,
+  "complaint_id": "9052235",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX of XXXX I made a paypal credit purchase from the website mechanicsspace.com. The transaction was processed and the vendor never sent me a confirmation or tracking number for the shipment. I tried contacting the vendor numerous times and was never successful. In the meantime, the website was taken off line and the contact email address was no longer reachable. \nI filed a dispute with PayPal credit and they initially refunded my purchase price back to my account. On XX/XX/2023 paypal credit billed the purchase price back to my account under their name instead of the original vendor. \nI have filed XXXX subsequent disputes with PayPal credit and they have declined to pursue the dispute. I have tried multiple times to obtain the investigation info from them to no avail. I have records of the original dispute and have never received any info from the original vendor.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "637XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX of XXXX I made a paypal credit purchase from the website mechanicsspace.com. The transaction was processed and the vendor never sent me a confirmation or tracking number for the shipment. I tried contacting the vendor numerous times and was never successful. In the meantime, the website was taken off line and the contact email address was no longer reachable. \nI filed a dispute with PayPal credit and they initially refunded my purchase price back to my account. On XX/XX/2023 paypal credit billed the purchase price back to my account under their name instead of the original vendor. \nI have filed XXXX subsequent disputes with PayPal credit and they have declined to pursue the dispute. I have tried multiple times to obtain the investigation info from them to no avail. I have records of the original dispute and have never received any info from the original vendor."
+}
+
+Chunk:
+on xx / xx / xxxx of xxxx i made a paypal credit purchase from the website mechanicsspace. com. the transaction was processed and the vendor never sent me a confirmation or tracking number for the shipment. i tried contacting the vendor numerous times and was never successful. in the meantime, the website was taken off line and the contact email address was no longer reachable. i filed a dispute with paypal credit and they initially refunded my purchase price back to my account. on xx / xx / 2023 paypal credit billed the purchase price back to my account under their name instead of the original vendor. i have filed xxxx subsequent disputes with paypal credit and they have declined to pursue the dispute. i have tried multiple times to obtain the investigation info from them to no avail. i have records of the original dispute and have never received any info from the original vendor.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996498823165894
+}

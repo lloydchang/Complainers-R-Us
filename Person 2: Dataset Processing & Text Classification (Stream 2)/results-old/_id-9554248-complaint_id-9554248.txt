@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554248,
+  "complaint_id": "9554248",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX account ending in XXXX, opened XX/XX/year>, available credit {$3200.00}, contacted by myself XX/XX/year> for fraud XXXX account XXXX in XXXX, opened XX/XX/year>, available credit {$8400.00}, contacted by myself XX/XX/year> for fraud XXXX inquiry on credit report XX/XX/year>, phone number not accurate XXXX XXXX XXXX inquiry on credit report XX/XX/year>, no phone number listed",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "19701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XXXX account ending in XXXX, opened XX/XX/year>, available credit {$3200.00}, contacted by myself XX/XX/year> for fraud XXXX account XXXX in XXXX, opened XX/XX/year>, available credit {$8400.00}, contacted by myself XX/XX/year> for fraud XXXX inquiry on credit report XX/XX/year>, phone number not accurate XXXX XXXX XXXX inquiry on credit report XX/XX/year>, no phone number listed"
+}
+
+Chunk:
+xxxx account ending in xxxx, opened xx / xx / year >, available credit { $ 3200. 00 }, contacted by myself xx / xx / year > for fraud xxxx account xxxx in xxxx, opened xx / xx / year >, available credit { $ 8400. 00 }, contacted by myself xx / xx / year > for fraud xxxx inquiry on credit report xx / xx / year >, phone number not accurate xxxx xxxx xxxx inquiry on credit report xx / xx / year >, no phone number listed
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990045428276062
+}

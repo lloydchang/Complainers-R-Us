@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029161,
+  "complaint_id": "9029161",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed a fraudulent charge on my account. It was for {$640.00}. I monitor my purchases daily. I XXXX  the vendor to find that it does not exist but may be located in XXXX. I have never been to XXXX. I was told this was no issue and it would be refunded as my credit card has fraud protection. I was not contacted but I noticed that the charge was returned to my account. I called again and was told that a XXXX XXXX  had been added fraudulently to my account so I was liable. I have never had XXXX XXXX  nor has my partner nor have I owed a single XXXX cellular device. I spoke to multiple individuals and was told as told as I could provide documentation that I do not have XXXX XXXX  I would be reimbursed. I provided such documentation and was told I would hear back in five business days. I did not hear back. I called and escalated to management 3 separate times. I was told that I had made the purchases. I asked all of them what documentation I needed to provide to prove that this was not me and this was a scam. I was not given any information on what to provide. I was told that their system does not have a process for disputing electronic payment fraud despite this being a large issue in XXXX. I was also told that they had no vendor information so I could not",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "462XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I noticed a fraudulent charge on my account. It was for {$640.00}. I monitor my purchases daily. I XXXX  the vendor to find that it does not exist but may be located in XXXX. I have never been to XXXX. I was told this was no issue and it would be refunded as my credit card has fraud protection. I was not contacted but I noticed that the charge was returned to my account. I called again and was told that a XXXX XXXX  had been added fraudulently to my account so I was liable. I have never had XXXX XXXX  nor has my partner nor have I owed a single XXXX cellular device. I spoke to multiple individuals and was told as told as I could provide documentation that I do not have XXXX XXXX  I would be reimbursed. I provided such documentation and was told I would hear back in five business days. I did not hear back. I called and escalated to management 3 separate times. I was told that I had made the purchases. I asked all of them what documentation I needed to provide to prove that this was not me and this was a scam. I was not given any information on what to provide. I was told that their system does not have a process for disputing electronic payment fraud despite this being a large issue in XXXX. I was also told that they had no vendor information so I could not"
+}
+
+Chunk:
+i noticed a fraudulent charge on my account. it was for { $ 640. 00 }. i monitor my purchases daily. i xxxx the vendor to find that it does not exist but may be located in xxxx. i have never been to xxxx. i was told this was no issue and it would be refunded as my credit card has fraud protection. i was not contacted but i noticed that the charge was returned to my account. i called again and was told that a xxxx xxxx had been added fraudulently to my account so i was liable. i have never had xxxx xxxx nor has my partner nor have i owed a single xxxx cellular device. i spoke to multiple individuals and was told as told as i could provide documentation that i do not have xxxx xxxx i would be reimbursed. i provided such documentation and was told i would hear back in five business days. i did not hear back. i called and escalated to management 3 separate times. i was told that i had made the purchases. i asked all of them what documentation i needed to provide to prove that this was not me and this was a scam. i was not given any information on what to provide. i was told that their system does not have a process for disputing electronic payment fraud despite this being a large issue in xxxx. i was also told that they had no vendor information so i could not
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989672899246216
+}

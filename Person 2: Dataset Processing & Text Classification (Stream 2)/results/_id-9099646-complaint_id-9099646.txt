@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9099646,
+  "complaint_id": "9099646",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a USAA XXXX card in XXXX. This card offered a promotion with 0 % interest on balance transfers until XX/XX/XXXX. I transferred a balance from a card with a high interest rate and paid the balance on the USAA XXXX a little at a time. When the promotional period ended, I still had a balance. I was charged interest on this balance on XX/XX/XXXX and XX/XX/XXXX. No problem. I was aware this would happen if I didn't get the balance paid by the time the promotional period ended. \n\nOn XX/XX/XXXX I paid off the entire balance. This was the balance that was listed as the \" Pay in Full '' online PER USAA. However, on XX/XX/XXXX I was charged interest. This makes no sense. As of XX/XX/XXXX the entire balance was paidthe balance that USAA listed as being the full balance owed. \n\nI attempted to contact USAA to try to resolve the issue and have the interest charge reversed. What I was told was that the interest charge was \" a fee that USAA charges for cash advances. '' I was also told how important it is to \" pay my payments on time. '' I did pay it on time. What does that even have to do with it? It wasn't a late fee. It was an interest charge. AgainI paid off the entire card based on the balance USAA was showing. If they failed to include this interest charge on the what THEY were showing as the total amount owed, that's on them, not me. How is it possible, or even legal, to charge someone interest after the card has already been paid off?",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "41017",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes complaint represents an opportunity for improvement to better serve consumers",
+  "sub_issue": "Charged too much interest",
+  "text": "I opened a USAA XXXX card in XXXX. This card offered a promotion with 0 % interest on balance transfers until XX/XX/XXXX. I transferred a balance from a card with a high interest rate and paid the balance on the USAA XXXX a little at a time. When the promotional period ended, I still had a balance. I was charged interest on this balance on XX/XX/XXXX and XX/XX/XXXX. No problem. I was aware this would happen if I didn't get the balance paid by the time the promotional period ended. \n\nOn XX/XX/XXXX I paid off the entire balance. This was the balance that was listed as the \" Pay in Full '' online PER USAA. However, on XX/XX/XXXX I was charged interest. This makes no sense. As of XX/XX/XXXX the entire balance was paidthe balance that USAA listed as being the full balance owed. \n\nI attempted to contact USAA to try to resolve the issue and have the interest charge reversed. What I was told was that the interest charge was \" a fee that USAA charges for cash advances. '' I was also told how important it is to \" pay my payments on time. '' I did pay it on time. What does that even have to do with it? It wasn't a late fee. It was an interest charge. AgainI paid off the entire card based on the balance USAA was showing. If they failed to include this interest charge on the what THEY were showing as the total amount owed, that's on them, not me. How is it possible, or even legal, to charge someone interest after the card has already been paid off?"
+}
+
+Chunk:
+i opened a usaa xxxx card in xxxx. this card offered a promotion with 0 % interest on balance transfers until xx / xx / xxxx. i transferred a balance from a card with a high interest rate and paid the balance on the usaa xxxx a little at a time. when the promotional period ended, i still had a balance. i was charged interest on this balance on xx / xx / xxxx and xx / xx / xxxx. no problem. i was aware this would happen if i didn't get the balance paid by the time the promotional period ended. on xx / xx / xxxx i paid off the entire balance. this was the balance that was listed as the " pay in full'' online per usaa. however, on xx / xx / xxxx i was charged interest. this makes no sense. as of xx / xx / xxxx the entire balance was paidthe balance that usaa listed as being the full balance owed. i attempted to contact usaa to try to resolve the issue and have the interest charge reversed. what i was told was that the interest charge was " a fee that usaa charges for cash advances.'' i was also told how important it is to " pay my payments on time.'' i did pay it on time. what does that even have to do with it? it wasn't a late fee. it was an interest charge. againi paid off the entire card based on the balance usaa was showing. if they failed to include this interest charge on the what they were showing as the total amount owed, that's on them, not me. how is it possible, or even legal, to charge someone interest after the card has already been paid off?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991187453269958
+}

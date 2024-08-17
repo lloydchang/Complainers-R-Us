@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9438533,
+  "complaint_id": "9438533",
+  "product": "Credit card",
+  "complaint_what_happened": "I called WellsFargo last month and reported that my credit card was lost and they asked me all the transactions that were unauthorized so I told them everything and told me it will take up to 7 days for them to fix the problem which it did. They credited back those unauthorized charges, but not all of them. However, just today they brought those unauthorized charges back on my account when theyre not even made by me. I only spent {$1400.00} with it and I paid {$400.00} recently which leaves me with {$1000.00} in total. When I checked my bank account today, my balance went up to {$3900.00}.",
+  "date_sent_to_company": "2024-07-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95824",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-06T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I called WellsFargo last month and reported that my credit card was lost and they asked me all the transactions that were unauthorized so I told them everything and told me it will take up to 7 days for them to fix the problem which it did. They credited back those unauthorized charges, but not all of them. However, just today they brought those unauthorized charges back on my account when theyre not even made by me. I only spent {$1400.00} with it and I paid {$400.00} recently which leaves me with {$1000.00} in total. When I checked my bank account today, my balance went up to {$3900.00}."
+}
+
+Chunk:
+i called wellsfargo last month and reported that my credit card was lost and they asked me all the transactions that were unauthorized so i told them everything and told me it will take up to 7 days for them to fix the problem which it did. they credited back those unauthorized charges, but not all of them. however, just today they brought those unauthorized charges back on my account when theyre not even made by me. i only spent { $ 1400. 00 } with it and i paid { $ 400. 00 } recently which leaves me with { $ 1000. 00 } in total. when i checked my bank account today, my balance went up to { $ 3900. 00 }.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989069700241089
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048475,
+  "complaint_id": "9048475",
+  "product": "Credit card",
+  "complaint_what_happened": "Despite my many years of excellent account management of several CapitalOne cards, the credit limit on this account was reduced from {$17000.00} to {$6000.00} - for no reason other than mysterious risk management software. CapitalOne now refuses to return the limit to the previous amount. \n\nI successfully battled a zombie debt collection agency which improperly placed a collection item on my credit report in XX/XX/year>. After I took legal action, that item was eventually removed several months later - but only after my credit scores fell substantially ( XXXX points ). That triggered reduction in credit limits of several personal and business card accounts- THROUGH NO FAULT OF MINE - and the chain reaction continued because scores are based substantially on \" % of credit used ''. It becomes a self-fulfilling prophecy, i.e., scores reduced, limits reduced, scores reduced further, etc. WHY DON'T YOU GET IT?!? \n\nFurther, CapitalOne 's explanation letter ( attached ) used a different credit bureau report and score which was more than a month outdated from the date of my request. CapitalOne aggressively markets their \" XXXX '' product ( see history attached ) yet they use a different bureau and score for limit determination? This is deceptive, improper, and unethical- and should be illegal. As you can see, my score at the time of the request was significantly higher. Further, the XXXX score I see was XXXX at that same time. CapitalOne is improperly \" cherry picking '' bureaus and/or scores to support whatever determination they want- in this case, denial of returning my limit to previous.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Despite my many years of excellent account management of several CapitalOne cards, the credit limit on this account was reduced from {$17000.00} to {$6000.00} - for no reason other than mysterious risk management software. CapitalOne now refuses to return the limit to the previous amount. \n\nI successfully battled a zombie debt collection agency which improperly placed a collection item on my credit report in XX/XX/year>. After I took legal action, that item was eventually removed several months later - but only after my credit scores fell substantially ( XXXX points ). That triggered reduction in credit limits of several personal and business card accounts- THROUGH NO FAULT OF MINE - and the chain reaction continued because scores are based substantially on \" % of credit used ''. It becomes a self-fulfilling prophecy, i.e., scores reduced, limits reduced, scores reduced further, etc. WHY DON'T YOU GET IT?!? \n\nFurther, CapitalOne 's explanation letter ( attached ) used a different credit bureau report and score which was more than a month outdated from the date of my request. CapitalOne aggressively markets their \" XXXX '' product ( see history attached ) yet they use a different bureau and score for limit determination? This is deceptive, improper, and unethical- and should be illegal. As you can see, my score at the time of the request was significantly higher. Further, the XXXX score I see was XXXX at that same time. CapitalOne is improperly \" cherry picking '' bureaus and/or scores to support whatever determination they want- in this case, denial of returning my limit to previous."
+}
+
+Chunk:
+despite my many years of excellent account management of several capitalone cards, the credit limit on this account was reduced from { $ 17000. 00 } to { $ 6000. 00 } - for no reason other than mysterious risk management software. capitalone now refuses to return the limit to the previous amount. i successfully battled a zombie debt collection agency which improperly placed a collection item on my credit report in xx / xx / year >. after i took legal action, that item was eventually removed several months later - but only after my credit scores fell substantially ( xxxx points ). that triggered reduction in credit limits of several personal and business card accounts - through no fault of mine - and the chain reaction continued because scores are based substantially on " % of credit used''. it becomes a self - fulfilling prophecy, i. e., scores reduced, limits reduced, scores reduced further, etc. why don't you get it?!? further, capitalone's explanation letter ( attached ) used a different credit bureau report and score which was more than a month outdated from the date of my request. capitalone aggressively markets their " xxxx'' product ( see history attached ) yet they use a different bureau and score for limit determination? this is deceptive, improper, and unethical - and should be illegal. as you can see, my score at the time of the request was significantly higher. further, the xxxx score i see was xxxx at that same time. capitalone is improperly " cherry picking'' bureaus and / or scores to support whatever determination they want - in this case, denial of returning my limit to previous.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995661377906799
+}

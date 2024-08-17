@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9391308,
+  "complaint_id": "9391308",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America is not letting me use my credit card, by constantly blocking purchases. I have submitted a complaint earlier and I was contacted my a Bank of America representative who told me that I could call support to use my card. But, the solution that I was given does not work. My transactions are still being declined. When I call support, I am told that I'm supposed to be receiving alerts, which is the opposite of what the other representative told me. Sometimes I spend hours with many different support agents who all tell me different things, but none of them will help me make my purchases go through.",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91775",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Bank of America is not letting me use my credit card, by constantly blocking purchases. I have submitted a complaint earlier and I was contacted my a Bank of America representative who told me that I could call support to use my card. But, the solution that I was given does not work. My transactions are still being declined. When I call support, I am told that I'm supposed to be receiving alerts, which is the opposite of what the other representative told me. Sometimes I spend hours with many different support agents who all tell me different things, but none of them will help me make my purchases go through."
+}
+
+Chunk:
+bank of america is not letting me use my credit card, by constantly blocking purchases. i have submitted a complaint earlier and i was contacted my a bank of america representative who told me that i could call support to use my card. but, the solution that i was given does not work. my transactions are still being declined. when i call support, i am told that i'm supposed to be receiving alerts, which is the opposite of what the other representative told me. sometimes i spend hours with many different support agents who all tell me different things, but none of them will help me make my purchases go through.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993927478790283
+}

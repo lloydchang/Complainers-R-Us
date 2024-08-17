@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125054,
+  "complaint_id": "9125054",
+  "product": "Credit card",
+  "complaint_what_happened": "You never fixed my account. My balance is still over {$XXXX0}. The company owes me {$XXXX} for making the payment. You closed my complaint. Without fixing the problem.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08360",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "You never fixed my account. My balance is still over {$XXXX0}. The company owes me {$XXXX} for making the payment. You closed my complaint. Without fixing the problem."
+}
+
+Chunk:
+you never fixed my account. my balance is still over { $ xxxx0 }. the company owes me { $ xxxx } for making the payment. you closed my complaint. without fixing the problem.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990150928497314
+}

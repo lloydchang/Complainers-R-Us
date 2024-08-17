@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019487,
+  "complaint_id": "9019487",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a victim of identity theft. The thieves charged my Sam 's Club Mastercard several times. I've been calling Sam 's Club finance service synchrony bank for months to dispute these charges and to tell them that that was not me. I was charged multiple times for \" XXXX XXXX. \nCharges from XXXX : {$520.00} - XX/XX/23 {$550.00} - XX/XX/23 {$400.00} - XX/XX/23 {$4500.00} - XX/XX/23 {$860.00} - XX/XX/23 {$1500.00} - XX/XX/23 {$860.00} - XX/XX/23 {$570.00} - XX/XX/23 {$4300.00} - XX/XX/23 {$420.00} - XX/XX/23 {$4500.00} - XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 I have been calling both companies for months and there has been no resolution. All of the fraudulent charges are equating up to {$20000.00}. There is evidence attached to show all of these charges. It clearly shows on the billing statement how these XXXX charges are located in places like the XXXX XXXX XXXX XXXX. This has to be resolved ASAP.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28390",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I am a victim of identity theft. The thieves charged my Sam 's Club Mastercard several times. I've been calling Sam 's Club finance service synchrony bank for months to dispute these charges and to tell them that that was not me. I was charged multiple times for \" XXXX XXXX. \nCharges from XXXX : {$520.00} - XX/XX/23 {$550.00} - XX/XX/23 {$400.00} - XX/XX/23 {$4500.00} - XX/XX/23 {$860.00} - XX/XX/23 {$1500.00} - XX/XX/23 {$860.00} - XX/XX/23 {$570.00} - XX/XX/23 {$4300.00} - XX/XX/23 {$420.00} - XX/XX/23 {$4500.00} - XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 $ XXXX XX/XX/23 I have been calling both companies for months and there has been no resolution. All of the fraudulent charges are equating up to {$20000.00}. There is evidence attached to show all of these charges. It clearly shows on the billing statement how these XXXX charges are located in places like the XXXX XXXX XXXX XXXX. This has to be resolved ASAP."
+}
+
+Chunk:
+i am a victim of identity theft. the thieves charged my sam's club mastercard several times. i've been calling sam's club finance service synchrony bank for months to dispute these charges and to tell them that that was not me. i was charged multiple times for " xxxx xxxx. charges from xxxx : { $ 520. 00 } - xx / xx / 23 { $ 550. 00 } - xx / xx / 23 { $ 400. 00 } - xx / xx / 23 { $ 4500. 00 } - xx / xx / 23 { $ 860. 00 } - xx / xx / 23 { $ 1500. 00 } - xx / xx / 23 { $ 860. 00 } - xx / xx / 23 { $ 570. 00 } - xx / xx / 23 { $ 4300. 00 } - xx / xx / 23 { $ 420. 00 } - xx / xx / 23 { $ 4500. 00 } - xx / xx / 23 $ xxxx xx / xx / 23 $ xxxx xx / xx / 23 $ xxxx xx / xx / 23 $ xxxx xx / xx / 23 i have been calling both companies for months and there has been no resolution. all of the fraudulent charges are equating up to { $ 20000. 00 }. there is evidence attached to show all of these charges. it clearly shows on the billing statement how these xxxx charges are located in places like the xxxx xxxx xxxx xxxx. this has to be resolved asap.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989674091339111
+}

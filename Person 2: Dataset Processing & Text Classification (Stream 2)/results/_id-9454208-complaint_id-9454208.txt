@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9454208,
+  "complaint_id": "9454208",
+  "product": "Credit card",
+  "complaint_what_happened": "For almost 6 months I have been trying to resolve a dispute on my credit card for charges that were fraudulently made against my credit card the company in question is \" XXXX ''. \nI at thousands of dollars charge to my account sometimes 7- 9 times a day. \n\nI tried with the company to resolve this with no avail no response from them so I contacted Wells Fargo credit card company they repeatedly took my information for 6 months now they opened five different disputes every time saying they don't have nothing on it and I've given them dispute numbers this last time was XX/XX/XXXX I called today XX/XX/XXXX to verify what's going on the lady tells me they have nothing I told her I have a complaint number and that over XXXX from still unresolved. \nI filed a complaint with the California attorney general 's office against the company question XXXX, the attorney for XXXX responded by saying we apologize and that because of my dispute with my credit card company they can not give me a refund at this time but if it doesn't work out let them know I contacted the California attorney general who recommended that better off dealing with the credit card company it's faster. \nIt's been hell on Earth with them they are ignorant they don't care I submitted the California attorney general 's letter XXXX attorney letter sitting there apologize and would recommend highly to refund my money if it wasn't for my dispute every time Wells Fargo just ignores me and today they tell me that I have a better chance of going after XXXX. This company is ridiculous. I told them numerous times I never received anything if I did I returned it and I told the company that but I never got six to eight times a day anything maybe once in a month that was my mistake but Wells Fargo refuses for 6 months now to help me get out of this mess",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92562",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "For almost 6 months I have been trying to resolve a dispute on my credit card for charges that were fraudulently made against my credit card the company in question is \" XXXX ''. \nI at thousands of dollars charge to my account sometimes 7- 9 times a day. \n\nI tried with the company to resolve this with no avail no response from them so I contacted Wells Fargo credit card company they repeatedly took my information for 6 months now they opened five different disputes every time saying they don't have nothing on it and I've given them dispute numbers this last time was XX/XX/XXXX I called today XX/XX/XXXX to verify what's going on the lady tells me they have nothing I told her I have a complaint number and that over XXXX from still unresolved. \nI filed a complaint with the California attorney general 's office against the company question XXXX, the attorney for XXXX responded by saying we apologize and that because of my dispute with my credit card company they can not give me a refund at this time but if it doesn't work out let them know I contacted the California attorney general who recommended that better off dealing with the credit card company it's faster. \nIt's been hell on Earth with them they are ignorant they don't care I submitted the California attorney general 's letter XXXX attorney letter sitting there apologize and would recommend highly to refund my money if it wasn't for my dispute every time Wells Fargo just ignores me and today they tell me that I have a better chance of going after XXXX. This company is ridiculous. I told them numerous times I never received anything if I did I returned it and I told the company that but I never got six to eight times a day anything maybe once in a month that was my mistake but Wells Fargo refuses for 6 months now to help me get out of this mess"
+}
+
+Chunk:
+for almost 6 months i have been trying to resolve a dispute on my credit card for charges that were fraudulently made against my credit card the company in question is " xxxx''. i at thousands of dollars charge to my account sometimes 7 - 9 times a day. i tried with the company to resolve this with no avail no response from them so i contacted wells fargo credit card company they repeatedly took my information for 6 months now they opened five different disputes every time saying they don't have nothing on it and i've given them dispute numbers this last time was xx / xx / xxxx i called today xx / xx / xxxx to verify what's going on the lady tells me they have nothing i told her i have a complaint number and that over xxxx from still unresolved. i filed a complaint with the california attorney general's office against the company question xxxx, the attorney for xxxx responded by saying we apologize and that because of my dispute with my credit card company they can not give me a refund at this time but if it doesn't work out let them know i contacted the california attorney general who recommended that better off dealing with the credit card company it's faster. it's been hell on earth with them they are ignorant they don't care i submitted the california attorney general's letter xxxx attorney letter sitting there apologize and would recommend highly to refund my money if it wasn't for my dispute every time wells fargo just ignores me and today they tell me that i have a better chance of going after xxxx. this company is ridiculous. i told them numerous times i never received anything if i did i returned it and i told the company that but i never got six to eight times a day anything maybe once in a month that was my mistake but wells fargo refuses for 6 months now to help me get out of this mess
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995013475418091
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9136736,
+  "complaint_id": "9136736",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One has closed my credit accounts for missed payments and i was told this multiple times and they attempt to switch it. I had the sufficient funds in the account they attempted to withdraw from just they couldn't because it would return on there end twice. We finally made the decision to manually step in and charge our other bank to pay off our whole debt with Capital One. \n\nIt is well known, Capital One closed my accounts because they had a error trying to take the payment from my other institutions. This is a problem that could of easily be solved instead they decided to close my accounts. Very sad day as I have been banking with Capital One for years and years. \n\nI have so many questions, Will my future credit accounts down the road 1-3 years from now be closed because of these closed accounts? \n\nWill Capital One take responsibility of there mistake and reopen? \n\nWhy didn't they send a notice or call me that they were having a error trying to process payments? \n\n\nSuch a bummer situation, i attempted to open a new account and they closed that one also. So is my credit banking relations with Capital One over forever?",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06108",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Capital One has closed my credit accounts for missed payments and i was told this multiple times and they attempt to switch it. I had the sufficient funds in the account they attempted to withdraw from just they couldn't because it would return on there end twice. We finally made the decision to manually step in and charge our other bank to pay off our whole debt with Capital One. \n\nIt is well known, Capital One closed my accounts because they had a error trying to take the payment from my other institutions. This is a problem that could of easily be solved instead they decided to close my accounts. Very sad day as I have been banking with Capital One for years and years. \n\nI have so many questions, Will my future credit accounts down the road 1-3 years from now be closed because of these closed accounts? \n\nWill Capital One take responsibility of there mistake and reopen? \n\nWhy didn't they send a notice or call me that they were having a error trying to process payments? \n\n\nSuch a bummer situation, i attempted to open a new account and they closed that one also. So is my credit banking relations with Capital One over forever?"
+}
+
+Chunk:
+capital one has closed my credit accounts for missed payments and i was told this multiple times and they attempt to switch it. i had the sufficient funds in the account they attempted to withdraw from just they couldn't because it would return on there end twice. we finally made the decision to manually step in and charge our other bank to pay off our whole debt with capital one. it is well known, capital one closed my accounts because they had a error trying to take the payment from my other institutions. this is a problem that could of easily be solved instead they decided to close my accounts. very sad day as i have been banking with capital one for years and years. i have so many questions, will my future credit accounts down the road 1 - 3 years from now be closed because of these closed accounts? will capital one take responsibility of there mistake and reopen? why didn't they send a notice or call me that they were having a error trying to process payments? such a bummer situation, i attempted to open a new account and they closed that one also. so is my credit banking relations with capital one over forever?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995267391204834
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247994,
+  "complaint_id": "9247994",
+  "product": "Credit card",
+  "complaint_what_happened": "I spoke to multiple representatives who stated that although I was behind in payments that my account would not be closed because I am apart of a payment plan. I was tricked and mislead by XXXX whom of which I spoke to in XXXX and XXXX XXXX who I spoke to in XXXX. I was not clear on the terms of my contact and wanted verification on reasons for closure and the renewal/FICO score discrepancy was not stated. They only mentioned that if I missed a certain amount of payments it could close but since I satisfied the payment arrangement I was okay. I spoke with XXXX today and let her know how I was mislead and she tried to justify why I was not told the full information but this is unacceptable as a credit card company. I was ambiguous to the terms and why my account would close, I was reassured it would not close and now I see I have been lied to. I was told after the 3 payments of {$110.00} my account would have spending privileges again.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "44094",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I spoke to multiple representatives who stated that although I was behind in payments that my account would not be closed because I am apart of a payment plan. I was tricked and mislead by XXXX whom of which I spoke to in XXXX and XXXX XXXX who I spoke to in XXXX. I was not clear on the terms of my contact and wanted verification on reasons for closure and the renewal/FICO score discrepancy was not stated. They only mentioned that if I missed a certain amount of payments it could close but since I satisfied the payment arrangement I was okay. I spoke with XXXX today and let her know how I was mislead and she tried to justify why I was not told the full information but this is unacceptable as a credit card company. I was ambiguous to the terms and why my account would close, I was reassured it would not close and now I see I have been lied to. I was told after the 3 payments of {$110.00} my account would have spending privileges again."
+}
+
+Chunk:
+i spoke to multiple representatives who stated that although i was behind in payments that my account would not be closed because i am apart of a payment plan. i was tricked and mislead by xxxx whom of which i spoke to in xxxx and xxxx xxxx who i spoke to in xxxx. i was not clear on the terms of my contact and wanted verification on reasons for closure and the renewal / fico score discrepancy was not stated. they only mentioned that if i missed a certain amount of payments it could close but since i satisfied the payment arrangement i was okay. i spoke with xxxx today and let her know how i was mislead and she tried to justify why i was not told the full information but this is unacceptable as a credit card company. i was ambiguous to the terms and why my account would close, i was reassured it would not close and now i see i have been lied to. i was told after the 3 payments of { $ 110. 00 } my account would have spending privileges again.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972354769706726
+}

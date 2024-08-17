@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9575779,
+  "complaint_id": "9575779",
+  "product": "Credit card",
+  "complaint_what_happened": "Today XX/XX/year>, I used my credit card at a convienence store for {$8.00}. I went to my car and noticed I had dropped it. I looked over and watched a man pick it up and put in his pocket. I immediately called my bank and blocked the card. Was assured it was blocked and a new card would be coming. I then receive a fraud alert for $ XXXX in charges I didn't make- now when I call my bank I can't be authenticated so I can't discuss this or mark them as fraud. I asked to talk to someone that can help me was told that isn't possible- I asked to have public record questions asked of me- nope can't do that either for your proctection. Your not protecting me when my card is being used and I can't do anything about it. I've been with them for 21 years not that anyone cares. I understand about privacy and have worked in the industry. But there is always a way to escalate when the situation warrants and I am getting road blocked. This is not protecting my privacy. Send key token to an app that I can't access because I'm at work and not provided any other options is not helpful.",
+  "date_sent_to_company": "2024-07-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "680XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-07-22T12:00:00-05:00",
+  "state": "NE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes complaint represents an opportunity for improvement to better serve consumers",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Today XX/XX/year>, I used my credit card at a convienence store for {$8.00}. I went to my car and noticed I had dropped it. I looked over and watched a man pick it up and put in his pocket. I immediately called my bank and blocked the card. Was assured it was blocked and a new card would be coming. I then receive a fraud alert for $ XXXX in charges I didn't make- now when I call my bank I can't be authenticated so I can't discuss this or mark them as fraud. I asked to talk to someone that can help me was told that isn't possible- I asked to have public record questions asked of me- nope can't do that either for your proctection. Your not protecting me when my card is being used and I can't do anything about it. I've been with them for 21 years not that anyone cares. I understand about privacy and have worked in the industry. But there is always a way to escalate when the situation warrants and I am getting road blocked. This is not protecting my privacy. Send key token to an app that I can't access because I'm at work and not provided any other options is not helpful."
+}
+
+Chunk:
+today xx / xx / year >, i used my credit card at a convienence store for { $ 8. 00 }. i went to my car and noticed i had dropped it. i looked over and watched a man pick it up and put in his pocket. i immediately called my bank and blocked the card. was assured it was blocked and a new card would be coming. i then receive a fraud alert for $ xxxx in charges i didn't make - now when i call my bank i can't be authenticated so i can't discuss this or mark them as fraud. i asked to talk to someone that can help me was told that isn't possible - i asked to have public record questions asked of me - nope can't do that either for your proctection. your not protecting me when my card is being used and i can't do anything about it. i've been with them for 21 years not that anyone cares. i understand about privacy and have worked in the industry. but there is always a way to escalate when the situation warrants and i am getting road blocked. this is not protecting my privacy. send key token to an app that i can't access because i'm at work and not provided any other options is not helpful.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994018077850342
+}

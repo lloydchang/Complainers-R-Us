@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9562386,
+  "complaint_id": "9562386",
+  "product": "Credit card",
+  "complaint_what_happened": "I only need CIti to BLOCK a {$79.00} monthly debit on my credit card that is from XXXX, which continues to debit and Citi just sends me a new card so I now have XXXX cards issued from Citi. \n\nI have notified the XXXX at XXXX in person to cancel my membership as they are not XXXX compliant. She now says she has no access to cancellations she keyed as the software has changed. The corp. is in XXXX. The system has my last name misspelled, but has my CITI card with correct spelling! Now she says the membership was cancelled. \n\nI sent Citi XXXX XXXXXX/XX/XXXXXXXX in XXXX XXXXXX/XX/XXXXXXXX registered mail certified receipts to complain on disputed debits. \n\nXXXX is located at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XX/XX/XXXX XXXX. They rejected my XXXX Mail. XXXX return not there. I physically went to XXXX to advise on returned mail. Mgr. confirmed it is odd and obviously the address is CORRECT. Received assurance cancel is in effect. Still {$79.00} hit again. \n\nI get CITI automated collection calls. No live person when I call back. XXXX months of this.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I only need CIti to BLOCK a {$79.00} monthly debit on my credit card that is from XXXX, which continues to debit and Citi just sends me a new card so I now have XXXX cards issued from Citi. \n\nI have notified the XXXX at XXXX in person to cancel my membership as they are not XXXX compliant. She now says she has no access to cancellations she keyed as the software has changed. The corp. is in XXXX. The system has my last name misspelled, but has my CITI card with correct spelling! Now she says the membership was cancelled. \n\nI sent Citi XXXX XXXXXX/XX/XXXXXXXX in XXXX XXXXXX/XX/XXXXXXXX registered mail certified receipts to complain on disputed debits. \n\nXXXX is located at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XX/XX/XXXX XXXX. They rejected my XXXX Mail. XXXX return not there. I physically went to XXXX to advise on returned mail. Mgr. confirmed it is odd and obviously the address is CORRECT. Received assurance cancel is in effect. Still {$79.00} hit again. \n\nI get CITI automated collection calls. No live person when I call back. XXXX months of this."
+}
+
+Chunk:
+i only need citi to block a { $ 79. 00 } monthly debit on my credit card that is from xxxx, which continues to debit and citi just sends me a new card so i now have xxxx cards issued from citi. i have notified the xxxx at xxxx in person to cancel my membership as they are not xxxx compliant. she now says she has no access to cancellations she keyed as the software has changed. the corp. is in xxxx. the system has my last name misspelled, but has my citi card with correct spelling! now she says the membership was cancelled. i sent citi xxxx xxxxxx / xx / xxxxxxxx in xxxx xxxxxx / xx / xxxxxxxx registered mail certified receipts to complain on disputed debits. xxxx is located at xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xx / xx / xxxx xxxx. they rejected my xxxx mail. xxxx return not there. i physically went to xxxx to advise on returned mail. mgr. confirmed it is odd and obviously the address is correct. received assurance cancel is in effect. still { $ 79. 00 } hit again. i get citi automated collection calls. no live person when i call back. xxxx months of this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995505213737488
+}

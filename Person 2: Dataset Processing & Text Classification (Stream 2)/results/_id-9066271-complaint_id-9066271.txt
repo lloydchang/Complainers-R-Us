@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9066271,
+  "complaint_id": "9066271",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank, erroneously charge my account XXXX XXXX It took them 13 months to fix the problem and they have. In that 13 months I was charged XXXX XXXX on that fraudulent debt. That over charged interest is still currently being charged at XXXX XXXX, so this fraudulent charge is still accruing interest totaling over XXXX XXXX Synchrony Bank has not responded to 3 Dispute forms we have submitted. Attached is the statement where the amount was corrected and the balance that had been charged interest. The interest should have been refunded when the charge was corrected, so I have been falsely charge interest on the amount that should have been refunded.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "912XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Synchrony Bank, erroneously charge my account XXXX XXXX It took them 13 months to fix the problem and they have. In that 13 months I was charged XXXX XXXX on that fraudulent debt. That over charged interest is still currently being charged at XXXX XXXX, so this fraudulent charge is still accruing interest totaling over XXXX XXXX Synchrony Bank has not responded to 3 Dispute forms we have submitted. Attached is the statement where the amount was corrected and the balance that had been charged interest. The interest should have been refunded when the charge was corrected, so I have been falsely charge interest on the amount that should have been refunded."
+}
+
+Chunk:
+synchrony bank, erroneously charge my account xxxx xxxx it took them 13 months to fix the problem and they have. in that 13 months i was charged xxxx xxxx on that fraudulent debt. that over charged interest is still currently being charged at xxxx xxxx, so this fraudulent charge is still accruing interest totaling over xxxx xxxx synchrony bank has not responded to 3 dispute forms we have submitted. attached is the statement where the amount was corrected and the balance that had been charged interest. the interest should have been refunded when the charge was corrected, so i have been falsely charge interest on the amount that should have been refunded.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991663694381714
+}

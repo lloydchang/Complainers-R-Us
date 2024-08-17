@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9298949,
+  "complaint_id": "9298949",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I received some text messages about a Costco XXXX Card that asked if I opened one, I responded no to that. I later received some messages ostensibly from Bestbuy about a Best Buy card I don't own. I originally thought it was a phishing attempt so reported it and didn't respond. \nOn XX/XX/year> I got a Credit Report and noticed three Credit Cards that I did not apply for myself : 1. A Citibank ( CBNA ) Costco Card : {$1300.00} 2. A Citibank ( CBNA ) Best Buy Card : {$4300.00} 3. XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  XXXX {$96.00} ( prices are the balance when credit report was checked ) It seems that someone has applied for these cards under my old name, XXXX XXXX. I'm XXXX  and legally changed my name to XXXX XXXX a few years ago. \n\nI've filed a report for each card and both banks and the Costco and XXXX cards were removed from my credit report, but the Citibank Best buy department refused to do the same despite them acknowledging that the Costco card was fraud. \n\nI never had any of these cards, someone else has applied for them under my ( old ) name and I have no idea who might have done this, whoever it is seems to have access to my social security number, an old address, my previous name, and my current phone number. I suspect maybe this was leaked from the recenXXXX XXXX XXXX XXXX XXXX  as I was a customer with them at that old address. \n\nI've spoken to Citibank Bestbuy fraud department I believe four or five times now and each time I contact them they tell me they've closed the case and said it wasn't fraud and then they reopen the case while I'm on the call. The only information they have requested is a copy of my driver 's license which I faxed to them but despite that they closed the case again. I've sent them the police report number ( XXXX XXXX POLICE DEPARTMENT XXXX REPORT # XXXX ) and copies of my email correspondence with the detective on the case. I have also reported the identity theft to the FTC ( reference number XXXX ) and placed a security/fraud hold on my credit. \n\nI've also requested from a supervisor that they contact me before closing the case if they need more information and they said they would but they haven't and they've still closed the case without taking any action. \n\nDespite all this, and the fact that the card was opened under a name that isn't even my legal name now or at the time the cards were opened, the card is still on my credit report and the past due amount has been consistently lowering my score and causing issues.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "92104",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year> I received some text messages about a Costco XXXX Card that asked if I opened one, I responded no to that. I later received some messages ostensibly from Bestbuy about a Best Buy card I don't own. I originally thought it was a phishing attempt so reported it and didn't respond. \nOn XX/XX/year> I got a Credit Report and noticed three Credit Cards that I did not apply for myself : 1. A Citibank ( CBNA ) Costco Card : {$1300.00} 2. A Citibank ( CBNA ) Best Buy Card : {$4300.00} 3. XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  XXXX {$96.00} ( prices are the balance when credit report was checked ) It seems that someone has applied for these cards under my old name, XXXX XXXX. I'm XXXX  and legally changed my name to XXXX XXXX a few years ago. \n\nI've filed a report for each card and both banks and the Costco and XXXX cards were removed from my credit report, but the Citibank Best buy department refused to do the same despite them acknowledging that the Costco card was fraud. \n\nI never had any of these cards, someone else has applied for them under my ( old ) name and I have no idea who might have done this, whoever it is seems to have access to my social security number, an old address, my previous name, and my current phone number. I suspect maybe this was leaked from the recenXXXX XXXX XXXX XXXX XXXX  as I was a customer with them at that old address. \n\nI've spoken to Citibank Bestbuy fraud department I believe four or five times now and each time I contact them they tell me they've closed the case and said it wasn't fraud and then they reopen the case while I'm on the call. The only information they have requested is a copy of my driver 's license which I faxed to them but despite that they closed the case again. I've sent them the police report number ( XXXX XXXX POLICE DEPARTMENT XXXX REPORT # XXXX ) and copies of my email correspondence with the detective on the case. I have also reported the identity theft to the FTC ( reference number XXXX ) and placed a security/fraud hold on my credit. \n\nI've also requested from a supervisor that they contact me before closing the case if they need more information and they said they would but they haven't and they've still closed the case without taking any action. \n\nDespite all this, and the fact that the card was opened under a name that isn't even my legal name now or at the time the cards were opened, the card is still on my credit report and the past due amount has been consistently lowering my score and causing issues."
+}
+
+Chunk:
+a supervisor that they contact me before closing the case if they need more information and they said they would but they haven't and they've still closed the case without taking any action. despite all this, and the fact that the card was opened under a name that isn't even my legal name now or at the time the cards were opened, the card is still on my credit report and the past due amount has been consistently lowering my score and causing issues.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992423057556152
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9274302,
+  "complaint_id": "9274302",
+  "product": "Credit card",
+  "complaint_what_happened": "Penfed has blocked my checking and credit cards, making it difficult for me to deposit money or pay my credit card bills. I do not have access to a Penfed bank nearby, so I rely on online banking for deposits. Unfortunately, they have limited my deposit options, causing me hardship as I try to make monthly payments on my credit cards. My account is frozen, preventing me from receiving XXXX deposits to pay towards my credit card balance. They also control where deposited funds go, resulting in the closure of XXXX of my credit cards. Though I have made payments on my gold credit card, the balance remains unavailable due to these restrictions. I am unable to manage my finances and pay necessary bills, which I find to be unjust treatment by the bank.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "350XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PENTAGON FEDERAL CREDIT UNION",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Penfed has blocked my checking and credit cards, making it difficult for me to deposit money or pay my credit card bills. I do not have access to a Penfed bank nearby, so I rely on online banking for deposits. Unfortunately, they have limited my deposit options, causing me hardship as I try to make monthly payments on my credit cards. My account is frozen, preventing me from receiving XXXX deposits to pay towards my credit card balance. They also control where deposited funds go, resulting in the closure of XXXX of my credit cards. Though I have made payments on my gold credit card, the balance remains unavailable due to these restrictions. I am unable to manage my finances and pay necessary bills, which I find to be unjust treatment by the bank."
+}
+
+Chunk:
+penfed has blocked my checking and credit cards, making it difficult for me to deposit money or pay my credit card bills. i do not have access to a penfed bank nearby, so i rely on online banking for deposits. unfortunately, they have limited my deposit options, causing me hardship as i try to make monthly payments on my credit cards. my account is frozen, preventing me from receiving xxxx deposits to pay towards my credit card balance. they also control where deposited funds go, resulting in the closure of xxxx of my credit cards. though i have made payments on my gold credit card, the balance remains unavailable due to these restrictions. i am unable to manage my finances and pay necessary bills, which i find to be unjust treatment by the bank.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996607303619385
+}

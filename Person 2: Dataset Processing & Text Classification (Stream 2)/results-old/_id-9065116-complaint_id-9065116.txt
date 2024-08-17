@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065116,
+  "complaint_id": "9065116",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I requested a balance transfer for {$53000.00} from my Barclays XXXX XXXX to my bank account. The account rep asked for my bank account number and nothing else. I have requested this same balance transfer for the last 3 years because of the great 0 % interest rate. I was told that it would take 2 weeks for the funds to arrive in my account. The other times I received the transfers within a couple days. It has been 40 days since I requested the transfer and the funds are not in my account. The biggest issue is that the balance and fees are on my account. Now they expect me to pay the monthly fee associated with the {$53000.00} balance that I never received. I have called Barclays over 15 times in the last 40 days and still have not received a satisfactory answer. I have been told that the funds have been transferred to a wrong location and that the rep should have taken my routing number ( which she did not request ). The customer service reps are just giving me the run around. They say it will take up to 2 billing cycles to finish the investigation. I will have to pay monthly payments for funds I never received. Please help me get this rectified.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92807",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "On XX/XX/year> I requested a balance transfer for {$53000.00} from my Barclays XXXX XXXX to my bank account. The account rep asked for my bank account number and nothing else. I have requested this same balance transfer for the last 3 years because of the great 0 % interest rate. I was told that it would take 2 weeks for the funds to arrive in my account. The other times I received the transfers within a couple days. It has been 40 days since I requested the transfer and the funds are not in my account. The biggest issue is that the balance and fees are on my account. Now they expect me to pay the monthly fee associated with the {$53000.00} balance that I never received. I have called Barclays over 15 times in the last 40 days and still have not received a satisfactory answer. I have been told that the funds have been transferred to a wrong location and that the rep should have taken my routing number ( which she did not request ). The customer service reps are just giving me the run around. They say it will take up to 2 billing cycles to finish the investigation. I will have to pay monthly payments for funds I never received. Please help me get this rectified."
+}
+
+Chunk:
+on xx / xx / year > i requested a balance transfer for { $ 53000. 00 } from my barclays xxxx xxxx to my bank account. the account rep asked for my bank account number and nothing else. i have requested this same balance transfer for the last 3 years because of the great 0 % interest rate. i was told that it would take 2 weeks for the funds to arrive in my account. the other times i received the transfers within a couple days. it has been 40 days since i requested the transfer and the funds are not in my account. the biggest issue is that the balance and fees are on my account. now they expect me to pay the monthly fee associated with the { $ 53000. 00 } balance that i never received. i have called barclays over 15 times in the last 40 days and still have not received a satisfactory answer. i have been told that the funds have been transferred to a wrong location and that the rep should have taken my routing number ( which she did not request ). the customer service reps are just giving me the run around. they say it will take up to 2 billing cycles to finish the investigation. i will have to pay monthly payments for funds i never received. please help me get this rectified.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994977712631226
+}

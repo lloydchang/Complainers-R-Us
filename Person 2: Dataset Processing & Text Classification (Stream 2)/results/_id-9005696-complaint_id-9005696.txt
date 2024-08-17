@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9005696,
+  "complaint_id": "9005696",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX Capital One refuses repayment plan to stop incurring past due fees// XX/XX/year> - {$100.00} payment ( {$130.00} due ) // XXXX {$280.00} account balance // XXXX {$40.00} past due fee // XXXX {$10.00} interest charges // XXXX {$40.00} past due fee ( {$53.00} due ) // XXXX {$370.00} account balance // XXXX Capital One refuses to remove or reduce late fees, or setup a payment plan, and claims the new CPB rule ( Regulation Z ) does not apply to this account ( normal major credit card - \" XXXX XXXX XXXX' ) // Is the new rule applicable to my Capital One credit card accounts? I understand it should be. \nAlso, is this rule retroactive, or to work on fees imposed after the bill was passed and before it was active XX/XX/year> ( today )? // Capital One stated my accounts would not qualify for the XXXX $ or 25 % maximum fees. Is this a lie? Which credit card issuers can I trust to not charge me 75 % of the monthly amount due or nearly 30 % of my total account balance in a single month in late fees? //",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "59714",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "XXXX Capital One refuses repayment plan to stop incurring past due fees// XX/XX/year> - {$100.00} payment ( {$130.00} due ) // XXXX {$280.00} account balance // XXXX {$40.00} past due fee // XXXX {$10.00} interest charges // XXXX {$40.00} past due fee ( {$53.00} due ) // XXXX {$370.00} account balance // XXXX Capital One refuses to remove or reduce late fees, or setup a payment plan, and claims the new CPB rule ( Regulation Z ) does not apply to this account ( normal major credit card - \" XXXX XXXX XXXX' ) // Is the new rule applicable to my Capital One credit card accounts? I understand it should be. \nAlso, is this rule retroactive, or to work on fees imposed after the bill was passed and before it was active XX/XX/year> ( today )? // Capital One stated my accounts would not qualify for the XXXX $ or 25 % maximum fees. Is this a lie? Which credit card issuers can I trust to not charge me 75 % of the monthly amount due or nearly 30 % of my total account balance in a single month in late fees? //"
+}
+
+Chunk:
+xxxx capital one refuses repayment plan to stop incurring past due fees / / xx / xx / year > - { $ 100. 00 } payment ( { $ 130. 00 } due ) / / xxxx { $ 280. 00 } account balance / / xxxx { $ 40. 00 } past due fee / / xxxx { $ 10. 00 } interest charges / / xxxx { $ 40. 00 } past due fee ( { $ 53. 00 } due ) / / xxxx { $ 370. 00 } account balance / / xxxx capital one refuses to remove or reduce late fees, or setup a payment plan, and claims the new cpb rule ( regulation z ) does not apply to this account ( normal major credit card - " xxxx xxxx xxxx') / / is the new rule applicable to my capital one credit card accounts? i understand it should be. also, is this rule retroactive, or to work on fees imposed after the bill was passed and before it was active xx / xx / year > ( today )? / / capital one stated my accounts would not qualify for the xxxx $ or 25 % maximum fees. is this a lie? which credit card issuers can i trust to not charge me 75 % of the monthly amount due or nearly 30 % of my total account balance in a single month in late fees? / /
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993732571601868
+}

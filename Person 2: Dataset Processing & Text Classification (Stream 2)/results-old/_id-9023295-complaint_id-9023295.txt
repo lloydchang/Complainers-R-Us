@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023295,
+  "complaint_id": "9023295",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX I applied for a credit card at the age of XXXX and got approved without any supporting documentation or personal financial responsibility, credit card act of XXXX is in place to protect young people from companies issuing these accounts. The account is now charged off and they are pursuing litigation after not following regulations put in place for them to follow. I do not feel I am responsible for this account when at XXXX i am unable to enter a XXXX XXXX contract. \n\nXXXX XX/XX/XXXX",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "In XX/XX/XXXX I applied for a credit card at the age of XXXX and got approved without any supporting documentation or personal financial responsibility, credit card act of XXXX is in place to protect young people from companies issuing these accounts. The account is now charged off and they are pursuing litigation after not following regulations put in place for them to follow. I do not feel I am responsible for this account when at XXXX i am unable to enter a XXXX XXXX contract. \n\nXXXX XX/XX/XXXX"
+}
+
+Chunk:
+in xx / xx / xxxx i applied for a credit card at the age of xxxx and got approved without any supporting documentation or personal financial responsibility, credit card act of xxxx is in place to protect young people from companies issuing these accounts. the account is now charged off and they are pursuing litigation after not following regulations put in place for them to follow. i do not feel i am responsible for this account when at xxxx i am unable to enter a xxxx xxxx contract. xxxx xx / xx / xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973697662353516
+}

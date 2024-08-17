@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064610,
+  "complaint_id": "9064610",
+  "product": "Credit card",
+  "complaint_what_happened": "Ive had an Avant credit card for nearly 4 years and have never had an issue until XXXX of XXXX  when I accidentally used a closed bank account to pay my bill so I was assessed a late fee which if I hadn't checked the payment i would have never known the website said minimum payment was XXXX no accurately reflecting how much I owed for the minimum so in XXXX made a XXXX payment and my account was still negative because the paper statement said my minimum due was actually XXXX not the XXXX it said so I got another late fee and the member fee was assessed in XXXX but didn't show up until this month so I made a payment of XXXX this month and the website said my minimum payment was XXXX but the paper statement says XXXX checked this morning and now the account says i owe XXXX payment for XX/XX/XXXX after i paid XXXX they keep changing the amounts after I make the payments they don't notify anyone of returned payments they assess late fees but its not accurately reflected online only on there paper statements i can't access those statements on there website cause the links are broken I canceled my card today and they are now saying there going to assess me a late fee every month till the balance is paid on full I would like to have any improper late fees returned and any future late fees assessed to be stopped considering there are no late fees cause on paper my XXXX balance has been satisfied just not on there website where there encouraging people to go paperless so they can rip them off by breaking the links to the statements",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "99163",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Avant Holding Company, Inc.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Ive had an Avant credit card for nearly 4 years and have never had an issue until XXXX of XXXX  when I accidentally used a closed bank account to pay my bill so I was assessed a late fee which if I hadn't checked the payment i would have never known the website said minimum payment was XXXX no accurately reflecting how much I owed for the minimum so in XXXX made a XXXX payment and my account was still negative because the paper statement said my minimum due was actually XXXX not the XXXX it said so I got another late fee and the member fee was assessed in XXXX but didn't show up until this month so I made a payment of XXXX this month and the website said my minimum payment was XXXX but the paper statement says XXXX checked this morning and now the account says i owe XXXX payment for XX/XX/XXXX after i paid XXXX they keep changing the amounts after I make the payments they don't notify anyone of returned payments they assess late fees but its not accurately reflected online only on there paper statements i can't access those statements on there website cause the links are broken I canceled my card today and they are now saying there going to assess me a late fee every month till the balance is paid on full I would like to have any improper late fees returned and any future late fees assessed to be stopped considering there are no late fees cause on paper my XXXX balance has been satisfied just not on there website where there encouraging people to go paperless so they can rip them off by breaking the links to the statements"
+}
+
+Chunk:
+ive had an avant credit card for nearly 4 years and have never had an issue until xxxx of xxxx when i accidentally used a closed bank account to pay my bill so i was assessed a late fee which if i hadn't checked the payment i would have never known the website said minimum payment was xxxx no accurately reflecting how much i owed for the minimum so in xxxx made a xxxx payment and my account was still negative because the paper statement said my minimum due was actually xxxx not the xxxx it said so i got another late fee and the member fee was assessed in xxxx but didn't show up until this month so i made a payment of xxxx this month and the website said my minimum payment was xxxx but the paper statement says xxxx checked this morning and now the account says i owe xxxx payment for xx / xx / xxxx after i paid xxxx they keep changing the amounts after i make the payments they don't notify anyone of returned payments they assess late fees but its not accurately reflected online only on there paper statements i can't access those statements on there website cause the links are broken i canceled my card today and they are now saying there going to assess me a late fee every month till the balance is paid on full i would like to have any improper late fees returned and any future late fees assessed to be stopped considering there are no late fees cause on paper my xxxx balance has been satisfied just not on there website where there encouraging people to go paperless so they can rip them off by breaking the links to the statements
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990847110748291
+}

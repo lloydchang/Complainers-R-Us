@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9089947,
+  "complaint_id": "9089947",
+  "product": "Credit card",
+  "complaint_what_happened": "Underpaid Comenity-Lands End Visa Credit Card by {$.00} by mistake on XX/XX/year>. Bill was {$14.00}, and I paid {$14.00}. I recieved a bill from them but did not open it in time as I had not charged anything further to Lands End and did not expect a bill.\n\nThe bill was for {$16.00}, {$14.00} in late fees and {$2.00} in interest. Called Comenity and they waived the late fee but would not waive the {$2.00} interest. I paid the {$2.00} a day late on XX/XX/year>. Now I have received another bill for {$33.00} but was told on the phone by a Comenity Supervisor that {$18.00} is due and there will be no further waiver of fees. I paid {$20.00}, the {$2.00} overage both to annoy them and to make sure there would not be another {$2.00} interest charge. \nI asked to cancel the credit card on my first call expecting to be transferred to someone who could waive the {$2.00} fee and accept the day late payment without further charges. Instead the original customer service person cancelled the car. \nIn summary the {$.00} error has cost me {$22.00} and a card that I enjoyed using.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "086XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Underpaid Comenity-Lands End Visa Credit Card by {$.00} by mistake on XX/XX/year>. Bill was {$14.00}, and I paid {$14.00}. I recieved a bill from them but did not open it in time as I had not charged anything further to Lands End and did not expect a bill.\n\nThe bill was for {$16.00}, {$14.00} in late fees and {$2.00} in interest. Called Comenity and they waived the late fee but would not waive the {$2.00} interest. I paid the {$2.00} a day late on XX/XX/year>. Now I have received another bill for {$33.00} but was told on the phone by a Comenity Supervisor that {$18.00} is due and there will be no further waiver of fees. I paid {$20.00}, the {$2.00} overage both to annoy them and to make sure there would not be another {$2.00} interest charge. \nI asked to cancel the credit card on my first call expecting to be transferred to someone who could waive the {$2.00} fee and accept the day late payment without further charges. Instead the original customer service person cancelled the car. \nIn summary the {$.00} error has cost me {$22.00} and a card that I enjoyed using."
+}
+
+Chunk:
+underpaid comenity - lands end visa credit card by { $. 00 } by mistake on xx / xx / year >. bill was { $ 14. 00 }, and i paid { $ 14. 00 }. i recieved a bill from them but did not open it in time as i had not charged anything further to lands end and did not expect a bill. the bill was for { $ 16. 00 }, { $ 14. 00 } in late fees and { $ 2. 00 } in interest. called comenity and they waived the late fee but would not waive the { $ 2. 00 } interest. i paid the { $ 2. 00 } a day late on xx / xx / year >. now i have received another bill for { $ 33. 00 } but was told on the phone by a comenity supervisor that { $ 18. 00 } is due and there will be no further waiver of fees. i paid { $ 20. 00 }, the { $ 2. 00 } overage both to annoy them and to make sure there would not be another { $ 2. 00 } interest charge. i asked to cancel the credit card on my first call expecting to be transferred to someone who could waive the { $ 2. 00 } fee and accept the day late payment without further charges. instead the original customer service person cancelled the car. in summary the { $. 00 } error has cost me { $ 22. 00 } and a card that i enjoyed using.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987875819206238
+}

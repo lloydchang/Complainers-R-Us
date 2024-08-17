@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9104968,
+  "complaint_id": "9104968",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied online for the XXXX XXXX Reward Mastercard from Barclays credit card. I received a letter in the mail from Barclays stating they needed additional information in order to process my request. They told me to mail them a copy of the front and back of the following documents : drivers license, social security card and bank statement. I called the company and told them I'd be happy to send them that information but I was not comfortable sending it through the mail because of the risk of identity thieves intercepting my information and asked if I could send it another way. The representative I spoke to said mailing the documents was my only option. When I pointed out to her the fraud risk, she said she understood but that they would only accept documents by mail. I asked her if I could fax or email and she said no. I believe the Social Security Number Fraud Prevention Act of 2017 prohibits the inclusion of an individuals Social Security number ( SSN ) on any document sent through the mail. I told them I wouldn't be applying for the credit card if I had to send my information through the mail. I don't need this credit card but I felt others could be taken advantage if I didn't point this out to someone. I hope you will work with the company to put in place other methods for getting this information. No other credit card I have has asked for information to be provided in this manner.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20009",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Delay in processing application",
+  "text": "I applied online for the XXXX XXXX Reward Mastercard from Barclays credit card. I received a letter in the mail from Barclays stating they needed additional information in order to process my request. They told me to mail them a copy of the front and back of the following documents : drivers license, social security card and bank statement. I called the company and told them I'd be happy to send them that information but I was not comfortable sending it through the mail because of the risk of identity thieves intercepting my information and asked if I could send it another way. The representative I spoke to said mailing the documents was my only option. When I pointed out to her the fraud risk, she said she understood but that they would only accept documents by mail. I asked her if I could fax or email and she said no. I believe the Social Security Number Fraud Prevention Act of 2017 prohibits the inclusion of an individuals Social Security number ( SSN ) on any document sent through the mail. I told them I wouldn't be applying for the credit card if I had to send my information through the mail. I don't need this credit card but I felt others could be taken advantage if I didn't point this out to someone. I hope you will work with the company to put in place other methods for getting this information. No other credit card I have has asked for information to be provided in this manner."
+}
+
+Chunk:
+i applied online for the xxxx xxxx reward mastercard from barclays credit card. i received a letter in the mail from barclays stating they needed additional information in order to process my request. they told me to mail them a copy of the front and back of the following documents : drivers license, social security card and bank statement. i called the company and told them i'd be happy to send them that information but i was not comfortable sending it through the mail because of the risk of identity thieves intercepting my information and asked if i could send it another way. the representative i spoke to said mailing the documents was my only option. when i pointed out to her the fraud risk, she said she understood but that they would only accept documents by mail. i asked her if i could fax or email and she said no. i believe the social security number fraud prevention act of 2017 prohibits the inclusion of an individuals social security number ( ssn ) on any document sent through the mail. i told them i wouldn't be applying for the credit card if i had to send my information through the mail. i don't need this credit card but i felt others could be taken advantage if i didn't point this out to someone. i hope you will work with the company to put in place other methods for getting this information. no other credit card i have has asked for information to be provided in this manner.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997860848903656
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9251466,
+  "complaint_id": "9251466",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a victim of identity theft. I have charges on my credit card I did not authorize. I notified the IRS as my taxes were affected, the FTC, my banks and credit bureaus. I disputed the charges and uploaded the letter stating that my info was hacked by of all places the health marketplace, but they denied it. I submitted an appeal and it was denied AGAIN!",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29906",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am a victim of identity theft. I have charges on my credit card I did not authorize. I notified the IRS as my taxes were affected, the FTC, my banks and credit bureaus. I disputed the charges and uploaded the letter stating that my info was hacked by of all places the health marketplace, but they denied it. I submitted an appeal and it was denied AGAIN!"
+}
+
+Chunk:
+i am a victim of identity theft. i have charges on my credit card i did not authorize. i notified the irs as my taxes were affected, the ftc, my banks and credit bureaus. i disputed the charges and uploaded the letter stating that my info was hacked by of all places the health marketplace, but they denied it. i submitted an appeal and it was denied again!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976624250411987
+}

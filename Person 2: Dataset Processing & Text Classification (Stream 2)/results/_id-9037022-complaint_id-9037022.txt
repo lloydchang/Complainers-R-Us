@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037022,
+  "complaint_id": "9037022",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Bank XXXX XXXX XXXX XXXX. The expiration date is XX/XX/XXXX. Bank of America sent me an email on XX/XX/XXXX that a new card was going to be shipped. That card never arrived and was likley stolen in transit. It was used to make {$3600.00} of purchases at XXXX XXXX, XXXX XXXX and XXXX in Massachusetts and Texas. I live in XXXX XXXX. I do not regular use this card so I caught it about a week later. I filed a dispute with Bank of America on XX/XX/XXXX. On XX/XX/XXXX Bank of America sent the following notice. \n\n\" We confirmed your card was used for the charge ( s ). The chip was read, your PIN was entered, and/or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present. '' None this information is correct. There is no PIN since its not a debit card. I could not have been present at either of those locations and a signature is not enough to validate that. I have proof I was in XXXX XXXX at the time of the purchases. The purchases are all for exact dollar amounts of either {$400.00} or {$500.00} which is highly unlikely given they happened in states with sales tax. This is clearly fraudulent but Bank of America does not agree and is telling me their is nothing they can do.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "071XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have a Bank XXXX XXXX XXXX XXXX. The expiration date is XX/XX/XXXX. Bank of America sent me an email on XX/XX/XXXX that a new card was going to be shipped. That card never arrived and was likley stolen in transit. It was used to make {$3600.00} of purchases at XXXX XXXX, XXXX XXXX and XXXX in Massachusetts and Texas. I live in XXXX XXXX. I do not regular use this card so I caught it about a week later. I filed a dispute with Bank of America on XX/XX/XXXX. On XX/XX/XXXX Bank of America sent the following notice. \n\n\" We confirmed your card was used for the charge ( s ). The chip was read, your PIN was entered, and/or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present. '' None this information is correct. There is no PIN since its not a debit card. I could not have been present at either of those locations and a signature is not enough to validate that. I have proof I was in XXXX XXXX at the time of the purchases. The purchases are all for exact dollar amounts of either {$400.00} or {$500.00} which is highly unlikely given they happened in states with sales tax. This is clearly fraudulent but Bank of America does not agree and is telling me their is nothing they can do."
+}
+
+Chunk:
+i have a bank xxxx xxxx xxxx xxxx. the expiration date is xx / xx / xxxx. bank of america sent me an email on xx / xx / xxxx that a new card was going to be shipped. that card never arrived and was likley stolen in transit. it was used to make { $ 3600. 00 } of purchases at xxxx xxxx, xxxx xxxx and xxxx in massachusetts and texas. i live in xxxx xxxx. i do not regular use this card so i caught it about a week later. i filed a dispute with bank of america on xx / xx / xxxx. on xx / xx / xxxx bank of america sent the following notice. " we confirmed your card was used for the charge ( s ). the chip was read, your pin was entered, and / or you signed for the merchandise or service, which indicates you or someone you allowed to use your card was present.'' none this information is correct. there is no pin since its not a debit card. i could not have been present at either of those locations and a signature is not enough to validate that. i have proof i was in xxxx xxxx at the time of the purchases. the purchases are all for exact dollar amounts of either { $ 400. 00 } or { $ 500. 00 } which is highly unlikely given they happened in states with sales tax. this is clearly fraudulent but bank of america does not agree and is telling me their is nothing they can do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995577931404114
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9124944,
+  "complaint_id": "9124944",
+  "product": "Credit card",
+  "complaint_what_happened": "My balance is over XXXX. It should probably be XXXX. In fact I might have a credit for my balance.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08360",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My balance is over XXXX. It should probably be XXXX. In fact I might have a credit for my balance."
+}
+
+Chunk:
+my balance is over xxxx. it should probably be xxxx. in fact i might have a credit for my balance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9900093674659729
+}

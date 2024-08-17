@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9596857,
+  "complaint_id": "9596857",
+  "product": "Credit card",
+  "complaint_what_happened": "On the weekend of XXXX XXXX XXXX I over paid my credit card. I paid off the balance twice on accident. I now have a large credit, but they will not let me access it with the credit card, they blocked it. They also tell me a check refund is more than 20 days away. They will not issue me a new card, or tell me why my card is blocked. I was willing to use the overpayment on bills, but the card is blocked. The customer service agent says they are going to send a refund in the mail because they wont take the hold off the card. I didnt want that, but they could barely speak XXXX and must have misunderstood me, or decided my wishes didnt matter.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "83704",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "On the weekend of XXXX XXXX XXXX I over paid my credit card. I paid off the balance twice on accident. I now have a large credit, but they will not let me access it with the credit card, they blocked it. They also tell me a check refund is more than 20 days away. They will not issue me a new card, or tell me why my card is blocked. I was willing to use the overpayment on bills, but the card is blocked. The customer service agent says they are going to send a refund in the mail because they wont take the hold off the card. I didnt want that, but they could barely speak XXXX and must have misunderstood me, or decided my wishes didnt matter."
+}
+
+Chunk:
+on the weekend of xxxx xxxx xxxx i over paid my credit card. i paid off the balance twice on accident. i now have a large credit, but they will not let me access it with the credit card, they blocked it. they also tell me a check refund is more than 20 days away. they will not issue me a new card, or tell me why my card is blocked. i was willing to use the overpayment on bills, but the card is blocked. the customer service agent says they are going to send a refund in the mail because they wont take the hold off the card. i didnt want that, but they could barely speak xxxx and must have misunderstood me, or decided my wishes didnt matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994511008262634
+}

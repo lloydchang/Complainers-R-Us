@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9245590,
+  "complaint_id": "9245590",
+  "product": "Credit card",
+  "complaint_what_happened": "This letter was received in the mail at my home, an emailed to me at a work address. The letter states that my application for their credit card is missing information to be processed. I was taken aback, because my first thought was that I had just gotten a new store credit card, also a XXXX, so that maybe this had to do with that card. But as I really thought about that, the store would have already taken all the information to XXXX me instant credit access. \n\nWhen I saw the email at my work account, I thought maybe it had to do with a medical expense card/HSA card ; however, this particular employer is strictly now per diem, so I wouldn't have a card like that coming through to me. \n\nThere is no contact information listed on this letter ; only a website to where I can upload the \" missing '' information. When I finally was able to find a number on the internet and get a person on the phone, he politely declared to me that \" this was just an advertisement. '' The letter, paraphrased, states, \" Thank you for applying... we need the following information to continue processing, within the next 30 days. '' No where in the letter or in it's fine print, is it made clear that this is an advertisement or marketing attempt to enroll someone to a new account. \n\nThis letter really bothered me, because I know I have elderly family and less critically thinking friends, who would have likely sent this information to the website, as instructed. It is not just misleading, but it blatantly lies by declaring, \" Thank you for applying ... '' This is just a scam, in order to collect personal information and issue high-rate credit cards.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "064XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "This letter was received in the mail at my home, an emailed to me at a work address. The letter states that my application for their credit card is missing information to be processed. I was taken aback, because my first thought was that I had just gotten a new store credit card, also a XXXX, so that maybe this had to do with that card. But as I really thought about that, the store would have already taken all the information to XXXX me instant credit access. \n\nWhen I saw the email at my work account, I thought maybe it had to do with a medical expense card/HSA card ; however, this particular employer is strictly now per diem, so I wouldn't have a card like that coming through to me. \n\nThere is no contact information listed on this letter ; only a website to where I can upload the \" missing '' information. When I finally was able to find a number on the internet and get a person on the phone, he politely declared to me that \" this was just an advertisement. '' The letter, paraphrased, states, \" Thank you for applying... we need the following information to continue processing, within the next 30 days. '' No where in the letter or in it's fine print, is it made clear that this is an advertisement or marketing attempt to enroll someone to a new account. \n\nThis letter really bothered me, because I know I have elderly family and less critically thinking friends, who would have likely sent this information to the website, as instructed. It is not just misleading, but it blatantly lies by declaring, \" Thank you for applying ... '' This is just a scam, in order to collect personal information and issue high-rate credit cards."
+}
+
+Chunk:
+this letter was received in the mail at my home, an emailed to me at a work address. the letter states that my application for their credit card is missing information to be processed. i was taken aback, because my first thought was that i had just gotten a new store credit card, also a xxxx, so that maybe this had to do with that card. but as i really thought about that, the store would have already taken all the information to xxxx me instant credit access. when i saw the email at my work account, i thought maybe it had to do with a medical expense card / hsa card ; however, this particular employer is strictly now per diem, so i wouldn't have a card like that coming through to me. there is no contact information listed on this letter ; only a website to where i can upload the " missing'' information. when i finally was able to find a number on the internet and get a person on the phone, he politely declared to me that " this was just an advertisement.'' the letter, paraphrased, states, " thank you for applying... we need the following information to continue processing, within the next 30 days.'' no where in the letter or in it's fine print, is it made clear that this is an advertisement or marketing attempt to enroll someone to a new account. this letter really bothered me, because i know i have elderly family and less critically thinking friends, who would have likely sent this information to the website, as instructed. it is not just misleading, but it blatantly lies by declaring, " thank you for applying...'' this is just a scam, in order to collect personal information and issue high - rate credit cards.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996078610420227
+}

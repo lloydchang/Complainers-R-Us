@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9172976,
+  "complaint_id": "9172976",
+  "product": "Credit card",
+  "complaint_what_happened": "I am filing a complaint regarding Chase Bank 's recent reduction of my credit line. This action was taken without prior notice and has adversely affected my credit utilization ratio and financial stability. This sudden reduction occurred right before XXXX XXXX weekend and impacted not only myself but also a cohort of other customers. \n\nKey Issues : 1. Lack of Notice and Justification : Chase reduced my credit limit without any prior notice or adequate justification.\n\n2. Adverse Impact on Credit Score : The reduction has increased my credit utilization ratio, potentially harming my credit score.\n\n3. Inappropriate Timing : The timing right before a major holiday suggests a strategic move by Chase to manage their liquidity at the expense of their customers.\n\n4. Disregard for Consumer Loyalty : Despite my strong credit history, high earning potential, and promising job prospects, this action reflects a disregard for customer loyalty and financial health. \n\nRequest : I request an investigation into Chase Bank 's practices to determine if they violate any consumer protection regulations. \n\nSpecifically, I urge an examination of : - The criteria and process used by Chase to determine credit line reductions. \n- The communication and justification provided to affected customers. \n- The impact of these actions on consumers ' credit scores and financial stability. \n\nThank you for your attention to this matter.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89509",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I am filing a complaint regarding Chase Bank 's recent reduction of my credit line. This action was taken without prior notice and has adversely affected my credit utilization ratio and financial stability. This sudden reduction occurred right before XXXX XXXX weekend and impacted not only myself but also a cohort of other customers. \n\nKey Issues : 1. Lack of Notice and Justification : Chase reduced my credit limit without any prior notice or adequate justification.\n\n2. Adverse Impact on Credit Score : The reduction has increased my credit utilization ratio, potentially harming my credit score.\n\n3. Inappropriate Timing : The timing right before a major holiday suggests a strategic move by Chase to manage their liquidity at the expense of their customers.\n\n4. Disregard for Consumer Loyalty : Despite my strong credit history, high earning potential, and promising job prospects, this action reflects a disregard for customer loyalty and financial health. \n\nRequest : I request an investigation into Chase Bank 's practices to determine if they violate any consumer protection regulations. \n\nSpecifically, I urge an examination of : - The criteria and process used by Chase to determine credit line reductions. \n- The communication and justification provided to affected customers. \n- The impact of these actions on consumers ' credit scores and financial stability. \n\nThank you for your attention to this matter."
+}
+
+Chunk:
+i am filing a complaint regarding chase bank's recent reduction of my credit line. this action was taken without prior notice and has adversely affected my credit utilization ratio and financial stability. this sudden reduction occurred right before xxxx xxxx weekend and impacted not only myself but also a cohort of other customers. key issues : 1. lack of notice and justification : chase reduced my credit limit without any prior notice or adequate justification. 2. adverse impact on credit score : the reduction has increased my credit utilization ratio, potentially harming my credit score. 3. inappropriate timing : the timing right before a major holiday suggests a strategic move by chase to manage their liquidity at the expense of their customers. 4. disregard for consumer loyalty : despite my strong credit history, high earning potential, and promising job prospects, this action reflects a disregard for customer loyalty and financial health. request : i request an investigation into chase bank's practices to determine if they violate any consumer protection regulations. specifically, i urge an examination of : - the criteria and process used by chase to determine credit line reductions. - the communication and justification provided to affected customers. - the impact of these actions on consumers'credit scores and financial stability. thank you for your attention to this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990222454071045
+}

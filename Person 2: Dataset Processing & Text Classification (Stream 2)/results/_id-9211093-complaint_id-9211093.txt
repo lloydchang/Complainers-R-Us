@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211093,
+  "complaint_id": "9211093",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone stole or found my navy federal credit card in XX/XX/year> and used it. Navy federal never flagged it as fraud or asked me it they charges was me. So when I disputed it they said that i was financially responsible and they closed my card because i kept disputing it because it was not me that made this transaction and I shouldnt have to pay for it so they closed my account so I couldnt keep fighting the claim",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91767",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Someone stole or found my navy federal credit card in XX/XX/year> and used it. Navy federal never flagged it as fraud or asked me it they charges was me. So when I disputed it they said that i was financially responsible and they closed my card because i kept disputing it because it was not me that made this transaction and I shouldnt have to pay for it so they closed my account so I couldnt keep fighting the claim"
+}
+
+Chunk:
+someone stole or found my navy federal credit card in xx / xx / year > and used it. navy federal never flagged it as fraud or asked me it they charges was me. so when i disputed it they said that i was financially responsible and they closed my card because i kept disputing it because it was not me that made this transaction and i shouldnt have to pay for it so they closed my account so i couldnt keep fighting the claim
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986742734909058
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340717,
+  "complaint_id": "9340717",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I filed a dispute via CITIBANK of {$1500.00} ; however, CITIBANK never responded to me either via email or phone call to confirm the evidence documents I sent them at least XXXX times, nor put the evidence documents onto my case. \nAfter 45 days I had to work with the vendor to get my money back all by myself. \nI called the CITIBANK Dispute department at least XXXX times, and each time I talked with a different rep or supervisor, none of them were able to help me, their comments were the same, and lies that they never received my documents and they only write something for their internal people ( never know who??? ) to handle. \nCITIBANK doesn't have a dispute department, anyone is a dispute rep., can only take messages but not action to handle my dispute case, for the past 45 days. \nThe worst case was due to their incompetence, CITBNAK refused to credit the balances to me and charged me the fees that I was put on a dispute. Not only were they unethical, also practiced illegal business on my case by taking the money that I owed to them with a dispute case. I read a lot of similar complaint cases against CITIBANK here, I hope the Consumer Financial Protection Bureau can investigate CITIBIBANK to protect consumers like me. Now I request CITBNAK to refund {$1500.00} back to my credit card and take responsibility for dealing with the vendor on my behalf, immediately.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95129",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "On XX/XX/year>, I filed a dispute via CITIBANK of {$1500.00} ; however, CITIBANK never responded to me either via email or phone call to confirm the evidence documents I sent them at least XXXX times, nor put the evidence documents onto my case. \nAfter 45 days I had to work with the vendor to get my money back all by myself. \nI called the CITIBANK Dispute department at least XXXX times, and each time I talked with a different rep or supervisor, none of them were able to help me, their comments were the same, and lies that they never received my documents and they only write something for their internal people ( never know who??? ) to handle. \nCITIBANK doesn't have a dispute department, anyone is a dispute rep., can only take messages but not action to handle my dispute case, for the past 45 days. \nThe worst case was due to their incompetence, CITBNAK refused to credit the balances to me and charged me the fees that I was put on a dispute. Not only were they unethical, also practiced illegal business on my case by taking the money that I owed to them with a dispute case. I read a lot of similar complaint cases against CITIBANK here, I hope the Consumer Financial Protection Bureau can investigate CITIBIBANK to protect consumers like me. Now I request CITBNAK to refund {$1500.00} back to my credit card and take responsibility for dealing with the vendor on my behalf, immediately."
+}
+
+Chunk:
+on xx / xx / year >, i filed a dispute via citibank of { $ 1500. 00 } ; however, citibank never responded to me either via email or phone call to confirm the evidence documents i sent them at least xxxx times, nor put the evidence documents onto my case. after 45 days i had to work with the vendor to get my money back all by myself. i called the citibank dispute department at least xxxx times, and each time i talked with a different rep or supervisor, none of them were able to help me, their comments were the same, and lies that they never received my documents and they only write something for their internal people ( never know who??? ) to handle. citibank doesn't have a dispute department, anyone is a dispute rep., can only take messages but not action to handle my dispute case, for the past 45 days. the worst case was due to their incompetence, citbnak refused to credit the balances to me and charged me the fees that i was put on a dispute. not only were they unethical, also practiced illegal business on my case by taking the money that i owed to them with a dispute case. i read a lot of similar complaint cases against citibank here, i hope the consumer financial protection bureau can investigate citibibank to protect consumers like me. now i request citbnak to refund { $ 1500. 00 } back to my credit card and take responsibility for dealing with the vendor on my behalf, immediately.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989990592002869
+}

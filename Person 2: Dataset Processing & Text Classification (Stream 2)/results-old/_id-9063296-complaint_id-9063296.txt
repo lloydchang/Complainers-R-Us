@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9063296,
+  "complaint_id": "9063296",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX of XXXX a payment was made for my Synchrony bank Amazon store card for the full amount of charges due, Leaving the account with a XXXX balance. Unfortunately, Due to fraud on a XXXX XXXX  account, completely separate from this one, I was forced to file for bankruptcy in XXXX of XXXX, however luckily With the help of loans from family and friends was able to re establish my affairs and dismiss the bankruptcy case. To my surprise and dismay, Synchrony bank had added itself as a creditor seeking relief in my bankruptcy case, seeking full relief for the bill that had already been paid since XX/XX/XXXX in full. Via a recorded conversation by me in XX/XX/XXXX With synchrony bank, in which I did advise them I was recording the call, they did acknowledge and confirm receipt of the payment made in full XX/XX/XXXX of XXXX for over {$4500.00} The Synchrony bank Representative was as confused as I was However, told me she could not see anything further on my account. I sent a letter requesting verification of payment And questioning why they had closed my account and why They were requesting full payment again When payment was already made. In return I received a letter from Synchrony Amazon store card asking If I was satisfied with the representatives assistance and nothing more. Approximately a month later I was phoned by a collection agency and also told by the collection agency attempting to collect on this account they also were very confused because they did see the payment was made in full, thus prompting the collection agency to initiate a dispute for me as well in regard to this account and this matter. My account was unjustly closed, Synchrony attempted to fraudulently collect on a debt that had already been paid, and at this point I can not even log into my account.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "913XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "In XXXX of XXXX a payment was made for my Synchrony bank Amazon store card for the full amount of charges due, Leaving the account with a XXXX balance. Unfortunately, Due to fraud on a XXXX XXXX  account, completely separate from this one, I was forced to file for bankruptcy in XXXX of XXXX, however luckily With the help of loans from family and friends was able to re establish my affairs and dismiss the bankruptcy case. To my surprise and dismay, Synchrony bank had added itself as a creditor seeking relief in my bankruptcy case, seeking full relief for the bill that had already been paid since XX/XX/XXXX in full. Via a recorded conversation by me in XX/XX/XXXX With synchrony bank, in which I did advise them I was recording the call, they did acknowledge and confirm receipt of the payment made in full XX/XX/XXXX of XXXX for over {$4500.00} The Synchrony bank Representative was as confused as I was However, told me she could not see anything further on my account. I sent a letter requesting verification of payment And questioning why they had closed my account and why They were requesting full payment again When payment was already made. In return I received a letter from Synchrony Amazon store card asking If I was satisfied with the representatives assistance and nothing more. Approximately a month later I was phoned by a collection agency and also told by the collection agency attempting to collect on this account they also were very confused because they did see the payment was made in full, thus prompting the collection agency to initiate a dispute for me as well in regard to this account and this matter. My account was unjustly closed, Synchrony attempted to fraudulently collect on a debt that had already been paid, and at this point I can not even log into my account."
+}
+
+Chunk:
+in xxxx of xxxx a payment was made for my synchrony bank amazon store card for the full amount of charges due, leaving the account with a xxxx balance. unfortunately, due to fraud on a xxxx xxxx account, completely separate from this one, i was forced to file for bankruptcy in xxxx of xxxx, however luckily with the help of loans from family and friends was able to re establish my affairs and dismiss the bankruptcy case. to my surprise and dismay, synchrony bank had added itself as a creditor seeking relief in my bankruptcy case, seeking full relief for the bill that had already been paid since xx / xx / xxxx in full. via a recorded conversation by me in xx / xx / xxxx with synchrony bank, in which i did advise them i was recording the call, they did acknowledge and confirm receipt of the payment made in full xx / xx / xxxx of xxxx for over { $ 4500. 00 } the synchrony bank representative was as confused as i was however, told me she could not see anything further on my account. i sent a letter requesting verification of payment and questioning why they had closed my account and why they were requesting full payment again when payment was already made. in return i received a letter from synchrony amazon store card asking if i was satisfied with the representatives assistance and nothing more. approximately a month later i was phoned by a collection agency and also told by the collection agency attempting to collect on this account they also were very confused because they did see the payment was made in full, thus prompting the collection agency to initiate a dispute for me as well in regard to this account and this matter. my account was unjustly closed, synchrony attempted to fraudulently collect on a debt that had already been paid, and at this point i can not even log into my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990129470825195
+}

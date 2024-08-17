@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9192601,
+  "complaint_id": "9192601",
+  "product": "Credit card",
+  "complaint_what_happened": "I've purchase an XXXX XXXX  from XXXX official website on XX/XX/XXXX, in an amount of {$2600.00} USD, using my apple card online. About a year later, around mid XX/XX/XXXX, the unit stopped working. I've tried unplug and plug it back in but still nothing light up. I've then try to call the customer support line number on their website and was left on hold for an hour and a half, then disconnected from their end. I've tried to call back 2-3 times but no one pick up. On XX/XX/XXXX, I filed a dispute with apple card Goldman Sachs , for faulty unit that not as described, stopped working, and unable to contact merchant via email or phone call, regardless of multiple attempts. No service were performed since they don't have a local office or a physical in person store, everything is online. I still haven't able to talk to anyone at the merchant, to this day. Apple card support kept opening and closing my dispute in favor of merchant with reason being not enough evidence to support my claim. I sent them my most recent email with the merchant and every information I do have. I am not able to reach the merchant for a solution and apple card support does not seem to understand.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97266",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I've purchase an XXXX XXXX  from XXXX official website on XX/XX/XXXX, in an amount of {$2600.00} USD, using my apple card online. About a year later, around mid XX/XX/XXXX, the unit stopped working. I've tried unplug and plug it back in but still nothing light up. I've then try to call the customer support line number on their website and was left on hold for an hour and a half, then disconnected from their end. I've tried to call back 2-3 times but no one pick up. On XX/XX/XXXX, I filed a dispute with apple card Goldman Sachs , for faulty unit that not as described, stopped working, and unable to contact merchant via email or phone call, regardless of multiple attempts. No service were performed since they don't have a local office or a physical in person store, everything is online. I still haven't able to talk to anyone at the merchant, to this day. Apple card support kept opening and closing my dispute in favor of merchant with reason being not enough evidence to support my claim. I sent them my most recent email with the merchant and every information I do have. I am not able to reach the merchant for a solution and apple card support does not seem to understand."
+}
+
+Chunk:
+i've purchase an xxxx xxxx from xxxx official website on xx / xx / xxxx, in an amount of { $ 2600. 00 } usd, using my apple card online. about a year later, around mid xx / xx / xxxx, the unit stopped working. i've tried unplug and plug it back in but still nothing light up. i've then try to call the customer support line number on their website and was left on hold for an hour and a half, then disconnected from their end. i've tried to call back 2 - 3 times but no one pick up. on xx / xx / xxxx, i filed a dispute with apple card goldman sachs, for faulty unit that not as described, stopped working, and unable to contact merchant via email or phone call, regardless of multiple attempts. no service were performed since they don't have a local office or a physical in person store, everything is online. i still haven't able to talk to anyone at the merchant, to this day. apple card support kept opening and closing my dispute in favor of merchant with reason being not enough evidence to support my claim. i sent them my most recent email with the merchant and every information i do have. i am not able to reach the merchant for a solution and apple card support does not seem to understand.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994986057281494
+}

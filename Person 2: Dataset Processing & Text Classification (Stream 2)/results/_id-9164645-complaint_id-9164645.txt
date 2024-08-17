@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9164645,
+  "complaint_id": "9164645",
+  "product": "Credit card",
+  "complaint_what_happened": "My account has had numerous fraudulent charges and Home Depot/citi card does not do their part in correcting the situation Thus far they have charged me interest and have filed late charges on my credit report that arent because of me They have screwed up my credit score I make my payments and homedepot/citi card pay off the fraud charges with such payment Then they continue to XXXX me by wanting more money than what is due Since I have promotional balances with set expiration dates sort of pointless at this moment I now have late payments on my credit score because of them I need this to stop already their third world employees dont even understand English so how can they address my issues correctly please help in fixing my current issue with this company I believe their system has been breached and my account was one of them I have been fighting this issue since XXXXXXXX XXXX XXXX  the company does nothing to correct it but over charging me fees they do not want to refund me the fees owed to me I should be entitled to all fees reversed since the problem is on their end not mine Their response to this is we cant do anymore fee reversals again this is not my problem So now Im being screwed over again On top of the hackers hacking my account I feel homedepot /citi is hacking me for extra funds",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "06118",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My account has had numerous fraudulent charges and Home Depot/citi card does not do their part in correcting the situation Thus far they have charged me interest and have filed late charges on my credit report that arent because of me They have screwed up my credit score I make my payments and homedepot/citi card pay off the fraud charges with such payment Then they continue to XXXX me by wanting more money than what is due Since I have promotional balances with set expiration dates sort of pointless at this moment I now have late payments on my credit score because of them I need this to stop already their third world employees dont even understand English so how can they address my issues correctly please help in fixing my current issue with this company I believe their system has been breached and my account was one of them I have been fighting this issue since XXXXXXXX XXXX XXXX  the company does nothing to correct it but over charging me fees they do not want to refund me the fees owed to me I should be entitled to all fees reversed since the problem is on their end not mine Their response to this is we cant do anymore fee reversals again this is not my problem So now Im being screwed over again On top of the hackers hacking my account I feel homedepot /citi is hacking me for extra funds"
+}
+
+Chunk:
+my account has had numerous fraudulent charges and home depot / citi card does not do their part in correcting the situation thus far they have charged me interest and have filed late charges on my credit report that arent because of me they have screwed up my credit score i make my payments and homedepot / citi card pay off the fraud charges with such payment then they continue to xxxx me by wanting more money than what is due since i have promotional balances with set expiration dates sort of pointless at this moment i now have late payments on my credit score because of them i need this to stop already their third world employees dont even understand english so how can they address my issues correctly please help in fixing my current issue with this company i believe their system has been breached and my account was one of them i have been fighting this issue since xxxxxxxx xxxx xxxx the company does nothing to correct it but over charging me fees they do not want to refund me the fees owed to me i should be entitled to all fees reversed since the problem is on their end not mine their response to this is we cant do anymore fee reversals again this is not my problem so now im being screwed over again on top of the hackers hacking my account i feel homedepot / citi is hacking me for extra funds
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999529242515564
+}

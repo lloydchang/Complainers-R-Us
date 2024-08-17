@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113650,
+  "complaint_id": "9113650",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank Verizon Visa Card. Starting in XX/XX/year> Synchrony Bank will start charging a monthly {$1.00} fee to receive a paper bill in the mail. Contacted Synchrony customer service and the management via phone on XXXX to complain about the fee. They state there is nothing they can do to stop the new fee. I did not agree to any new Terms & Conditions, but they do not care. This new fee and change is an unfair business practice and a terrible way to treat a customer that ALWAYS pays the bill on time and the account remains in good standing. \n\nAdditionally, I reported this new fee directly to Verizon to ensure they know how Synchrony Bank is now charging additional junk fees. I requested Verizon re-evaluate their relationship with Synchrony Bank the Verizon Visa card issuer. It is in the best interest of the customer that Verizon knows how their customer is being treated by Synchrony Bank.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92596",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony Bank Verizon Visa Card. Starting in XX/XX/year> Synchrony Bank will start charging a monthly {$1.00} fee to receive a paper bill in the mail. Contacted Synchrony customer service and the management via phone on XXXX to complain about the fee. They state there is nothing they can do to stop the new fee. I did not agree to any new Terms & Conditions, but they do not care. This new fee and change is an unfair business practice and a terrible way to treat a customer that ALWAYS pays the bill on time and the account remains in good standing. \n\nAdditionally, I reported this new fee directly to Verizon to ensure they know how Synchrony Bank is now charging additional junk fees. I requested Verizon re-evaluate their relationship with Synchrony Bank the Verizon Visa card issuer. It is in the best interest of the customer that Verizon knows how their customer is being treated by Synchrony Bank."
+}
+
+Chunk:
+synchrony bank verizon visa card. starting in xx / xx / year > synchrony bank will start charging a monthly { $ 1. 00 } fee to receive a paper bill in the mail. contacted synchrony customer service and the management via phone on xxxx to complain about the fee. they state there is nothing they can do to stop the new fee. i did not agree to any new terms & conditions, but they do not care. this new fee and change is an unfair business practice and a terrible way to treat a customer that always pays the bill on time and the account remains in good standing. additionally, i reported this new fee directly to verizon to ensure they know how synchrony bank is now charging additional junk fees. i requested verizon re - evaluate their relationship with synchrony bank the verizon visa card issuer. it is in the best interest of the customer that verizon knows how their customer is being treated by synchrony bank.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9815800786018372
+}

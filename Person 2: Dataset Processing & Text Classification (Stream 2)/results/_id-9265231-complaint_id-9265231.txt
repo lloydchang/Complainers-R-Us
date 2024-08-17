@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265231,
+  "complaint_id": "9265231",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, I requested a new card but never received it. Subsequently, I noticed unauthorized charges on my account. I called and reported the fraudulent activity, explaining that I had not received the card in the mail. After an investigation, the charges were denied. \n\nDespite continuing to seek a resolution, I was informed that I needed to submit a police report. I had already done this and provided the case number, but months passed, and the fraud claim was still denied. I asked why, pointing out that I could not have made the purchases without having the card in my possession. I was again instructed to send the police report, which I did. However, even after two more months, the fraud claim was still denied. \n\nI refuse to pay for charges I did not authorize. I am seeking assistance with this matter. \n\nBest regards,",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06108",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Hello, I requested a new card but never received it. Subsequently, I noticed unauthorized charges on my account. I called and reported the fraudulent activity, explaining that I had not received the card in the mail. After an investigation, the charges were denied. \n\nDespite continuing to seek a resolution, I was informed that I needed to submit a police report. I had already done this and provided the case number, but months passed, and the fraud claim was still denied. I asked why, pointing out that I could not have made the purchases without having the card in my possession. I was again instructed to send the police report, which I did. However, even after two more months, the fraud claim was still denied. \n\nI refuse to pay for charges I did not authorize. I am seeking assistance with this matter. \n\nBest regards,"
+}
+
+Chunk:
+hello, i requested a new card but never received it. subsequently, i noticed unauthorized charges on my account. i called and reported the fraudulent activity, explaining that i had not received the card in the mail. after an investigation, the charges were denied. despite continuing to seek a resolution, i was informed that i needed to submit a police report. i had already done this and provided the case number, but months passed, and the fraud claim was still denied. i asked why, pointing out that i could not have made the purchases without having the card in my possession. i was again instructed to send the police report, which i did. however, even after two more months, the fraud claim was still denied. i refuse to pay for charges i did not authorize. i am seeking assistance with this matter. best regards,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996694803237915
+}

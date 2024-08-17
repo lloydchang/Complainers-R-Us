@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9269266,
+  "complaint_id": "9269266",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I made an online purchase for fertilizer. When I did not receive any tracking information, on XX/XX/XXXX I emailed the vendor inquiring about my order. I received no response. I never received the fertilizer, so, I filed a disputed charge with Wells Fargo since it was their card I used. I received a response that rejected my dispute. I sent a XXXX  request on XX/XX/XXXX for them to review the decision and received another rejection. I wrote a letter to the Operational Initiatives Manager, XXXX XXXX, on XX/XX/XXXX and received another rejection. \nI believe all Wells Fargo had to do was have the vendor provide verification that the order was shipped. I have never received what I ordered, no communication from the vendor, and nothing but rejection from Wells Fargo.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX I made an online purchase for fertilizer. When I did not receive any tracking information, on XX/XX/XXXX I emailed the vendor inquiring about my order. I received no response. I never received the fertilizer, so, I filed a disputed charge with Wells Fargo since it was their card I used. I received a response that rejected my dispute. I sent a XXXX  request on XX/XX/XXXX for them to review the decision and received another rejection. I wrote a letter to the Operational Initiatives Manager, XXXX XXXX, on XX/XX/XXXX and received another rejection. \nI believe all Wells Fargo had to do was have the vendor provide verification that the order was shipped. I have never received what I ordered, no communication from the vendor, and nothing but rejection from Wells Fargo."
+}
+
+Chunk:
+on xx / xx / xxxx i made an online purchase for fertilizer. when i did not receive any tracking information, on xx / xx / xxxx i emailed the vendor inquiring about my order. i received no response. i never received the fertilizer, so, i filed a disputed charge with wells fargo since it was their card i used. i received a response that rejected my dispute. i sent a xxxx request on xx / xx / xxxx for them to review the decision and received another rejection. i wrote a letter to the operational initiatives manager, xxxx xxxx, on xx / xx / xxxx and received another rejection. i believe all wells fargo had to do was have the vendor provide verification that the order was shipped. i have never received what i ordered, no communication from the vendor, and nothing but rejection from wells fargo.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996289014816284
+}

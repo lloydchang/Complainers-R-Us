@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9069975,
+  "complaint_id": "9069975",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had an account with Goldman-Sachs via Apple for quiet some time. I always pay my bill on time. I made a payment. My phone inadvertantly selected the wrong account for payment and the payment was decline ( rightfully so ), I immediately picked the right bank account when I learned the problem. The payment has cleard my bank so they have my money but the system identified my account for a hold. So they have my money and I am out of my money from my bank account but yet they are still holding on my account and I have MULTIPLE auto withdrawals from the account and they are getting declined b/c with the \" payment hold '' even tho they have the payment, they are still punishing me when my payment was on time and has clearned my bank account. This puts me in a bind at a minimum very inconvenient and bad customer care but at worst I could have services interrupted and fees applied for declined payment and that this could get reported to credit beaureau when i did nothing wrong. They have my payment. This is an unfair practice and they should be told that they can not treat their customers this way. I called and spoke to the bank and they said this was \" automatic and they canot undo it. '' I will not clear for another several days and they have my payment. Please address this.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "40222",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I have had an account with Goldman-Sachs via Apple for quiet some time. I always pay my bill on time. I made a payment. My phone inadvertantly selected the wrong account for payment and the payment was decline ( rightfully so ), I immediately picked the right bank account when I learned the problem. The payment has cleard my bank so they have my money but the system identified my account for a hold. So they have my money and I am out of my money from my bank account but yet they are still holding on my account and I have MULTIPLE auto withdrawals from the account and they are getting declined b/c with the \" payment hold '' even tho they have the payment, they are still punishing me when my payment was on time and has clearned my bank account. This puts me in a bind at a minimum very inconvenient and bad customer care but at worst I could have services interrupted and fees applied for declined payment and that this could get reported to credit beaureau when i did nothing wrong. They have my payment. This is an unfair practice and they should be told that they can not treat their customers this way. I called and spoke to the bank and they said this was \" automatic and they canot undo it. '' I will not clear for another several days and they have my payment. Please address this."
+}
+
+Chunk:
+i have had an account with goldman - sachs via apple for quiet some time. i always pay my bill on time. i made a payment. my phone inadvertantly selected the wrong account for payment and the payment was decline ( rightfully so ), i immediately picked the right bank account when i learned the problem. the payment has cleard my bank so they have my money but the system identified my account for a hold. so they have my money and i am out of my money from my bank account but yet they are still holding on my account and i have multiple auto withdrawals from the account and they are getting declined b / c with the " payment hold'' even tho they have the payment, they are still punishing me when my payment was on time and has clearned my bank account. this puts me in a bind at a minimum very inconvenient and bad customer care but at worst i could have services interrupted and fees applied for declined payment and that this could get reported to credit beaureau when i did nothing wrong. they have my payment. this is an unfair practice and they should be told that they can not treat their customers this way. i called and spoke to the bank and they said this was " automatic and they canot undo it.'' i will not clear for another several days and they have my payment. please address this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987988471984863
+}

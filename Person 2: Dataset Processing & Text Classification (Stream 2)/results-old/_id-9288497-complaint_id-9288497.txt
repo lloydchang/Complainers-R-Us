@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9288497,
+  "complaint_id": "9288497",
+  "product": "Credit card",
+  "complaint_what_happened": "Charges on my Citibank debit card appeared after I was victim to a phishing email used to comprise my XXXX  XXXX  account. I reported the charges as fraud on XX/XX/year> only to find out that they were filed as a dispute and not a fraudulent charge. My initial dispute was denied so I appealed the decision and had it submitted correctly as fraud on XX/XX/XXXX. Throughout this whole process I was never reimbursed the funds or given provisional credits through the investigation which took over a month. After 9 business days and multiple attempts to call the dispute center and check the status of my dispute and provisional credits I finally spoke to someone who first said by dispute was denied XX/XX/XXXX then said she made a mistake and the dispute was denied this morning XX/XX/XXXX. I was never given the opportunity to provide evidence to back my claim even after informing my bank I had such evidence. \n\nMy questions are when will I be provided provisional credits or reimbursement? \n\nWhat kind of charge were these charges. Manual enters or chip? \n\nWas a charge back ever attempted with the merchant if so can you provide the representment docs. \n\nHere is the reference number for my most recent dispute. \n\nXXXX XXXX XXXX XXXX Citibank Account XXXX XXXX",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89141",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Charges on my Citibank debit card appeared after I was victim to a phishing email used to comprise my XXXX  XXXX  account. I reported the charges as fraud on XX/XX/year> only to find out that they were filed as a dispute and not a fraudulent charge. My initial dispute was denied so I appealed the decision and had it submitted correctly as fraud on XX/XX/XXXX. Throughout this whole process I was never reimbursed the funds or given provisional credits through the investigation which took over a month. After 9 business days and multiple attempts to call the dispute center and check the status of my dispute and provisional credits I finally spoke to someone who first said by dispute was denied XX/XX/XXXX then said she made a mistake and the dispute was denied this morning XX/XX/XXXX. I was never given the opportunity to provide evidence to back my claim even after informing my bank I had such evidence. \n\nMy questions are when will I be provided provisional credits or reimbursement? \n\nWhat kind of charge were these charges. Manual enters or chip? \n\nWas a charge back ever attempted with the merchant if so can you provide the representment docs. \n\nHere is the reference number for my most recent dispute. \n\nXXXX XXXX XXXX XXXX Citibank Account XXXX XXXX"
+}
+
+Chunk:
+charges on my citibank debit card appeared after i was victim to a phishing email used to comprise my xxxx xxxx account. i reported the charges as fraud on xx / xx / year > only to find out that they were filed as a dispute and not a fraudulent charge. my initial dispute was denied so i appealed the decision and had it submitted correctly as fraud on xx / xx / xxxx. throughout this whole process i was never reimbursed the funds or given provisional credits through the investigation which took over a month. after 9 business days and multiple attempts to call the dispute center and check the status of my dispute and provisional credits i finally spoke to someone who first said by dispute was denied xx / xx / xxxx then said she made a mistake and the dispute was denied this morning xx / xx / xxxx. i was never given the opportunity to provide evidence to back my claim even after informing my bank i had such evidence. my questions are when will i be provided provisional credits or reimbursement? what kind of charge were these charges. manual enters or chip? was a charge back ever attempted with the merchant if so can you provide the representment docs. here is the reference number for my most recent dispute. xxxx xxxx xxxx xxxx citibank account xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992179870605469
+}

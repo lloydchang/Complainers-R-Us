@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9342098,
+  "complaint_id": "9342098",
+  "product": "Credit card",
+  "complaint_what_happened": "They closed my account. I kept making payments now account is at XXXX balance but they closed my account.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02127",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "They closed my account. I kept making payments now account is at XXXX balance but they closed my account."
+}
+
+Chunk:
+they closed my account. i kept making payments now account is at xxxx balance but they closed my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974107146263123
+}

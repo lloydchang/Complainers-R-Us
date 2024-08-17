@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9117788,
+  "complaint_id": "9117788",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a card offer in the mail for XXXX and Victoria secret. I accepted and I use both cards paying what they asked me to pay the maximum. So then I went up and start paying more only to find out that with XXXX I have been paying almost 4 years or more and it never goes down with Victoria 's. Secret is about the same, nothing changes. I keep putting it in my balance keep getting the same. That's not how it goes. I talk to them and they all said the same. It's your interest. If you don't pay it out all at once we can add our interest to me. If I ain't paying more than the maximum, why is it that I can't get my bill to come down? I asked them to show me the amount I put in since the time I first opened a card they refuse",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "395XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I received a card offer in the mail for XXXX and Victoria secret. I accepted and I use both cards paying what they asked me to pay the maximum. So then I went up and start paying more only to find out that with XXXX I have been paying almost 4 years or more and it never goes down with Victoria 's. Secret is about the same, nothing changes. I keep putting it in my balance keep getting the same. That's not how it goes. I talk to them and they all said the same. It's your interest. If you don't pay it out all at once we can add our interest to me. If I ain't paying more than the maximum, why is it that I can't get my bill to come down? I asked them to show me the amount I put in since the time I first opened a card they refuse"
+}
+
+Chunk:
+i received a card offer in the mail for xxxx and victoria secret. i accepted and i use both cards paying what they asked me to pay the maximum. so then i went up and start paying more only to find out that with xxxx i have been paying almost 4 years or more and it never goes down with victoria's. secret is about the same, nothing changes. i keep putting it in my balance keep getting the same. that's not how it goes. i talk to them and they all said the same. it's your interest. if you don't pay it out all at once we can add our interest to me. if i ain't paying more than the maximum, why is it that i can't get my bill to come down? i asked them to show me the amount i put in since the time i first opened a card they refuse
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977512955665588
+}

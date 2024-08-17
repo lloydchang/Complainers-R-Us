@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037738,
+  "complaint_id": "9037738",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a XXXX balance for several months, was issued the card XXXX years ago ; I inquired about the promotion they kept sending e-mails and mail about. I also asked to apply for a lower XXXX since my credit is great and I'd never been late on a payment. They said you need to use the convenience check-without explaining a XXXX % fee to utilize the promotion. I originally used the promotion when I bought a refrigerator from XXXX in 2014 or earlier, there were no fees. I just made the check on Tuesday XX/XX/XXXX for a XXXX bill. Today I checked my account to see when a payment would be due, well payment due on XXXX XXXX with the added XXXX % on my balance. I called them a third time to try and clear this issue, no way and no reduction of interest rate-currently XXXX % when my credit score is XXXX. \nI told them these were unfair financial practices since they advised me to use the check without explanation of fees in order to utilize promotion. I told them I wanted to cancel because I have cards with lower rates or XXXX  % on a XXXX or XXXX bill. I don't think I owe them XXXX  %. By the way it's a Citibank Mastercard.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with convenience check",
+  "text": "I had a XXXX balance for several months, was issued the card XXXX years ago ; I inquired about the promotion they kept sending e-mails and mail about. I also asked to apply for a lower XXXX since my credit is great and I'd never been late on a payment. They said you need to use the convenience check-without explaining a XXXX % fee to utilize the promotion. I originally used the promotion when I bought a refrigerator from XXXX in 2014 or earlier, there were no fees. I just made the check on Tuesday XX/XX/XXXX for a XXXX bill. Today I checked my account to see when a payment would be due, well payment due on XXXX XXXX with the added XXXX % on my balance. I called them a third time to try and clear this issue, no way and no reduction of interest rate-currently XXXX % when my credit score is XXXX. \nI told them these were unfair financial practices since they advised me to use the check without explanation of fees in order to utilize promotion. I told them I wanted to cancel because I have cards with lower rates or XXXX  % on a XXXX or XXXX bill. I don't think I owe them XXXX  %. By the way it's a Citibank Mastercard."
+}
+
+Chunk:
+i had a xxxx balance for several months, was issued the card xxxx years ago ; i inquired about the promotion they kept sending e - mails and mail about. i also asked to apply for a lower xxxx since my credit is great and i'd never been late on a payment. they said you need to use the convenience check - without explaining a xxxx % fee to utilize the promotion. i originally used the promotion when i bought a refrigerator from xxxx in 2014 or earlier, there were no fees. i just made the check on tuesday xx / xx / xxxx for a xxxx bill. today i checked my account to see when a payment would be due, well payment due on xxxx xxxx with the added xxxx % on my balance. i called them a third time to try and clear this issue, no way and no reduction of interest rate - currently xxxx % when my credit score is xxxx. i told them these were unfair financial practices since they advised me to use the check without explanation of fees in order to utilize promotion. i told them i wanted to cancel because i have cards with lower rates or xxxx % on a xxxx or xxxx bill. i don't think i owe them xxxx %. by the way it's a citibank mastercard.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989063739776611
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9226077,
+  "complaint_id": "9226077",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally lodge a complaint regarding a significant discrepancy on my credit report associated with Fortiva Credit. The issue pertains to an alleged missed payment that was erroneously reported on my credit profile. \nFortiva Credit inaccurately reported that I missed a payment. However, I can unequivocally confirm that this is not the case. I diligently maintain my financial obligations and can provide evidence, including bank statements, confirming that the payment in question was indeed made on time. \nUpon discovering this error, I promptly contacted Fortiva Credit to rectify the situation. In response, they acknowledged their mistake and assured me that they would promptly notify all relevant credit bureaus to correct the misinformation. I have documentation, in the form of email correspondence, confirming this acknowledgment. \nHowever, despite their assurance and the passage of over XXXX  days since the acknowledgment, the erroneous information has not been rectified on my credit report. This oversight is causing undue harm to my creditworthiness and financial standing.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77449",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Other problem",
+  "text": "I am writing to formally lodge a complaint regarding a significant discrepancy on my credit report associated with Fortiva Credit. The issue pertains to an alleged missed payment that was erroneously reported on my credit profile. \nFortiva Credit inaccurately reported that I missed a payment. However, I can unequivocally confirm that this is not the case. I diligently maintain my financial obligations and can provide evidence, including bank statements, confirming that the payment in question was indeed made on time. \nUpon discovering this error, I promptly contacted Fortiva Credit to rectify the situation. In response, they acknowledged their mistake and assured me that they would promptly notify all relevant credit bureaus to correct the misinformation. I have documentation, in the form of email correspondence, confirming this acknowledgment. \nHowever, despite their assurance and the passage of over XXXX  days since the acknowledgment, the erroneous information has not been rectified on my credit report. This oversight is causing undue harm to my creditworthiness and financial standing."
+}
+
+Chunk:
+i am writing to formally lodge a complaint regarding a significant discrepancy on my credit report associated with fortiva credit. the issue pertains to an alleged missed payment that was erroneously reported on my credit profile. fortiva credit inaccurately reported that i missed a payment. however, i can unequivocally confirm that this is not the case. i diligently maintain my financial obligations and can provide evidence, including bank statements, confirming that the payment in question was indeed made on time. upon discovering this error, i promptly contacted fortiva credit to rectify the situation. in response, they acknowledged their mistake and assured me that they would promptly notify all relevant credit bureaus to correct the misinformation. i have documentation, in the form of email correspondence, confirming this acknowledgment. however, despite their assurance and the passage of over xxxx days since the acknowledgment, the erroneous information has not been rectified on my credit report. this oversight is causing undue harm to my creditworthiness and financial standing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978222846984863
+}

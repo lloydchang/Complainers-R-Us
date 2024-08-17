@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137916,
+  "complaint_id": "9137916",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX or XXXX I created a dispute for {$1200.00}. I never received the order. CitiBank/Home XXXX says it was delivered XX/XX/XXXX. They also claim it was signed for. I was returning from California on that date so there is no way I could have signed for it. In addition it was going to my office building which was closed for the holiday. They offered a settlement of {$350.00}. Unsatisfactory! I tried to call CitiBank several times after that and could not get through to a real person. I finally had to go into XXXX XXXX and have the manager call. I reopened the dispute in XXXX of XXXX. I had not heard from them for several months so, I called and was told they closed the case without any correspondence or phone calls. On XX/XX/XXXX, I sent a certified letter. To date I have still not heard a word from them.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "447XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX or XXXX I created a dispute for {$1200.00}. I never received the order. CitiBank/Home XXXX says it was delivered XX/XX/XXXX. They also claim it was signed for. I was returning from California on that date so there is no way I could have signed for it. In addition it was going to my office building which was closed for the holiday. They offered a settlement of {$350.00}. Unsatisfactory! I tried to call CitiBank several times after that and could not get through to a real person. I finally had to go into XXXX XXXX and have the manager call. I reopened the dispute in XXXX of XXXX. I had not heard from them for several months so, I called and was told they closed the case without any correspondence or phone calls. On XX/XX/XXXX, I sent a certified letter. To date I have still not heard a word from them."
+}
+
+Chunk:
+in xxxx or xxxx i created a dispute for { $ 1200. 00 }. i never received the order. citibank / home xxxx says it was delivered xx / xx / xxxx. they also claim it was signed for. i was returning from california on that date so there is no way i could have signed for it. in addition it was going to my office building which was closed for the holiday. they offered a settlement of { $ 350. 00 }. unsatisfactory! i tried to call citibank several times after that and could not get through to a real person. i finally had to go into xxxx xxxx and have the manager call. i reopened the dispute in xxxx of xxxx. i had not heard from them for several months so, i called and was told they closed the case without any correspondence or phone calls. on xx / xx / xxxx, i sent a certified letter. to date i have still not heard a word from them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994630217552185
+}

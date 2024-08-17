@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041162,
+  "complaint_id": "9041162",
+  "product": "Credit card",
+  "complaint_what_happened": "I asked them to provide evidence proving this account belonging to me. I DID NOT receive that. No signatures nor Id was sent to prove ownership. This has been ongoing issue with multiple harassing phone calls to me and family members. On going harassment for the past several months",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78258",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ENCORE CAPITAL GROUP INC.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I asked them to provide evidence proving this account belonging to me. I DID NOT receive that. No signatures nor Id was sent to prove ownership. This has been ongoing issue with multiple harassing phone calls to me and family members. On going harassment for the past several months"
+}
+
+Chunk:
+i asked them to provide evidence proving this account belonging to me. i did not receive that. no signatures nor id was sent to prove ownership. this has been ongoing issue with multiple harassing phone calls to me and family members. on going harassment for the past several months
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993240833282471
+}

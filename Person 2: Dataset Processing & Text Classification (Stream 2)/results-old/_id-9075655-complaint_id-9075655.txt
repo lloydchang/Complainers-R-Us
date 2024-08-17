@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9075655,
+  "complaint_id": "9075655",
+  "product": "Credit card",
+  "complaint_what_happened": "I received numerous offers to open a 0 % balance transfer offer on a credit card. I had several offers but decided to go with a bank where I already had accounts. I was pre-approved for the account and decided to move forward. Once I opened the card, the site said I could not transfer a balance. I called and was informed the account was new and I had to wait a few days. I waited several weeks and tried again. This time, I received the same message that the balance transfer was not available. I called and spoke to a rep who answered the phone and her supervisor. I was told there are no balance transfers available to me. I indicated I ONLY got the card for the balance transfer offer and what happened between when I applied and now. They indicated Capital One can change the terms at any time. This is a deceptive practice. I was deceived to get me to open an account. Now I have a negative inquiry on my credit score for no reason. Capital One needs to honor the promotion they offered. I have been a loyal customer for over 20 years and will likely move banks.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20721",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I received numerous offers to open a 0 % balance transfer offer on a credit card. I had several offers but decided to go with a bank where I already had accounts. I was pre-approved for the account and decided to move forward. Once I opened the card, the site said I could not transfer a balance. I called and was informed the account was new and I had to wait a few days. I waited several weeks and tried again. This time, I received the same message that the balance transfer was not available. I called and spoke to a rep who answered the phone and her supervisor. I was told there are no balance transfers available to me. I indicated I ONLY got the card for the balance transfer offer and what happened between when I applied and now. They indicated Capital One can change the terms at any time. This is a deceptive practice. I was deceived to get me to open an account. Now I have a negative inquiry on my credit score for no reason. Capital One needs to honor the promotion they offered. I have been a loyal customer for over 20 years and will likely move banks."
+}
+
+Chunk:
+i received numerous offers to open a 0 % balance transfer offer on a credit card. i had several offers but decided to go with a bank where i already had accounts. i was pre - approved for the account and decided to move forward. once i opened the card, the site said i could not transfer a balance. i called and was informed the account was new and i had to wait a few days. i waited several weeks and tried again. this time, i received the same message that the balance transfer was not available. i called and spoke to a rep who answered the phone and her supervisor. i was told there are no balance transfers available to me. i indicated i only got the card for the balance transfer offer and what happened between when i applied and now. they indicated capital one can change the terms at any time. this is a deceptive practice. i was deceived to get me to open an account. now i have a negative inquiry on my credit score for no reason. capital one needs to honor the promotion they offered. i have been a loyal customer for over 20 years and will likely move banks.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989000558853149
+}

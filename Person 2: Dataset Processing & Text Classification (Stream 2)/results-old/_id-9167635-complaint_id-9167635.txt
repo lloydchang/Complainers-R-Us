@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167635,
+  "complaint_id": "9167635",
+  "product": "Credit card",
+  "complaint_what_happened": "To Whom it May Concern, This is a letter containing two complaints/issues I need addressed as the bank has made multiple errors affecting my credit and welcome offers in just the few weeks since I signed up. \n\nI applied for a Marriott Bonvoy Boundless Card on XX/XX/year> through the Marriott Bonvoy app on my phone. I have only had the card for a few weeks and JP Morgan has defrauded me twice already. I will detail the two instances of this below : 1. Incorrect Welcome Offer Applied to my Account When I signed up for this credit card on ( add date ), the offer I signed up for was a {$300.00} Marriott E-Gift Card and XXXX bonus points after {$3000.00} spend within the first 3 months. The offer that was applied to my account was for a {$250.00} XXXX XXXX and XXXX bonus points after {$3000.00} of spend within the first 3 months. I have called customer service multiple times on this and they have been mostly rude and short with me. They said my account is not eligible for that offer however I know it was because that is the offer I clicked on when I applied for the card and that upgraded offer is the reason I applied. I am telling you what was offered to me when I signed up. I have a picture of it that I have enclosed on the next page. I would not be able to get that picture taken on my own XXXX if it was not offered. This offer was active exactly when I applied for the card on my Marriott Bonvoy app by clicking the link.\n\n2. An unauthorized credit pull I signed up for the Marriott Bonvoy Boundless credit card in my name one time. Somehow JP Morgan processed two applications and pulled my hard credit twice. That is a mistake. I NEED THE SECOND PULL ERASED FROM MY CREDIT REPORT. You can only have the same credit card once so any further pulls on my credit for the exact same card application would have been unauthorized by me. I am not sure how or why this happened. It could have been a system glitch or any number of reasons but the fact of the matter is the intent and outcome is that I have one Marriott Bonvoy Boundless card that was accepted after one hard credit pull on one application. Any further pulls need to be removed from my credit report and this needs to be initiated from your end as a mistaken or unauthorized credit pull.\n\nI have called in about this multiple times to no avail. The representatives are unwilling to help, and I have received extremely poor customer service on this issue. \n\nI am also requesting an additional XXXX Marriott Bonvoy points as a courtesy for all the issues JPMorgan Chase has caused in just the first few weeks since receiving my XXXX card. \n\nThank you",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "064XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "To Whom it May Concern, This is a letter containing two complaints/issues I need addressed as the bank has made multiple errors affecting my credit and welcome offers in just the few weeks since I signed up. \n\nI applied for a Marriott Bonvoy Boundless Card on XX/XX/year> through the Marriott Bonvoy app on my phone. I have only had the card for a few weeks and JP Morgan has defrauded me twice already. I will detail the two instances of this below : 1. Incorrect Welcome Offer Applied to my Account When I signed up for this credit card on ( add date ), the offer I signed up for was a {$300.00} Marriott E-Gift Card and XXXX bonus points after {$3000.00} spend within the first 3 months. The offer that was applied to my account was for a {$250.00} XXXX XXXX and XXXX bonus points after {$3000.00} of spend within the first 3 months. I have called customer service multiple times on this and they have been mostly rude and short with me. They said my account is not eligible for that offer however I know it was because that is the offer I clicked on when I applied for the card and that upgraded offer is the reason I applied. I am telling you what was offered to me when I signed up. I have a picture of it that I have enclosed on the next page. I would not be able to get that picture taken on my own XXXX if it was not offered. This offer was active exactly when I applied for the card on my Marriott Bonvoy app by clicking the link.\n\n2. An unauthorized credit pull I signed up for the Marriott Bonvoy Boundless credit card in my name one time. Somehow JP Morgan processed two applications and pulled my hard credit twice. That is a mistake. I NEED THE SECOND PULL ERASED FROM MY CREDIT REPORT. You can only have the same credit card once so any further pulls on my credit for the exact same card application would have been unauthorized by me. I am not sure how or why this happened. It could have been a system glitch or any number of reasons but the fact of the matter is the intent and outcome is that I have one Marriott Bonvoy Boundless card that was accepted after one hard credit pull on one application. Any further pulls need to be removed from my credit report and this needs to be initiated from your end as a mistaken or unauthorized credit pull.\n\nI have called in about this multiple times to no avail. The representatives are unwilling to help, and I have received extremely poor customer service on this issue. \n\nI am also requesting an additional XXXX Marriott Bonvoy points as a courtesy for all the issues JPMorgan Chase has caused in just the first few weeks since receiving my XXXX card. \n\nThank you"
+}
+
+Chunk:
+multiple times to no avail. the representatives are unwilling to help, and i have received extremely poor customer service on this issue. i am also requesting an additional xxxx marriott bonvoy points as a courtesy for all the issues jpmorgan chase has caused in just the first few weeks since receiving my xxxx card. thank you
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994326233863831
+}

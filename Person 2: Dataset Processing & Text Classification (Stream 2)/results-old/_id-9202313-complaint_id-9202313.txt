@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9202313,
+  "complaint_id": "9202313",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a large payment to my account earlier than the payment was due ( XXXX ). They generated the statement earlier than normal. My monthly payment was XXXX. They charged me a XXXX late fee. I asked for it to be credited as a courtesy, because of my previous large payment and the fact that I had never been late. They said \" the system says I can't do it, but I don't know why. '' I escalated to another agent who said the same thing. I asked had I ever been late and he said no and said \" the system won't let me do it. '' A XXXX dollar late fee when my payment was only XXXX is exorbitantly ridiculous and considering my last payment XXXX and most recent payment of XXXX the XXXX should have have been credited immediately. How can they just charged 32 % of the payment I owed.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I made a large payment to my account earlier than the payment was due ( XXXX ). They generated the statement earlier than normal. My monthly payment was XXXX. They charged me a XXXX late fee. I asked for it to be credited as a courtesy, because of my previous large payment and the fact that I had never been late. They said \" the system says I can't do it, but I don't know why. '' I escalated to another agent who said the same thing. I asked had I ever been late and he said no and said \" the system won't let me do it. '' A XXXX dollar late fee when my payment was only XXXX is exorbitantly ridiculous and considering my last payment XXXX and most recent payment of XXXX the XXXX should have have been credited immediately. How can they just charged 32 % of the payment I owed."
+}
+
+Chunk:
+i made a large payment to my account earlier than the payment was due ( xxxx ). they generated the statement earlier than normal. my monthly payment was xxxx. they charged me a xxxx late fee. i asked for it to be credited as a courtesy, because of my previous large payment and the fact that i had never been late. they said " the system says i can't do it, but i don't know why.'' i escalated to another agent who said the same thing. i asked had i ever been late and he said no and said " the system won't let me do it.'' a xxxx dollar late fee when my payment was only xxxx is exorbitantly ridiculous and considering my last payment xxxx and most recent payment of xxxx the xxxx should have have been credited immediately. how can they just charged 32 % of the payment i owed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977107048034668
+}

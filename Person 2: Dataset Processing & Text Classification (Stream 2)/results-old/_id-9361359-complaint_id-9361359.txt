@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9361359,
+  "complaint_id": "9361359",
+  "product": "Credit card",
+  "complaint_what_happened": "Called today to try and get my over payment allocated to my balance transfer instead of the promotional balance. They told me no. I asked if I can make a payment directly to the balance transfer. They said Im not allowed to and Id have to pay off both entirely with the interest accrued. This is a deceptive business practice. I would not have done a balance transfer if I had known this.",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "765XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "Called today to try and get my over payment allocated to my balance transfer instead of the promotional balance. They told me no. I asked if I can make a payment directly to the balance transfer. They said Im not allowed to and Id have to pay off both entirely with the interest accrued. This is a deceptive business practice. I would not have done a balance transfer if I had known this."
+}
+
+Chunk:
+called today to try and get my over payment allocated to my balance transfer instead of the promotional balance. they told me no. i asked if i can make a payment directly to the balance transfer. they said im not allowed to and id have to pay off both entirely with the interest accrued. this is a deceptive business practice. i would not have done a balance transfer if i had known this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9108387231826782
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9084460,
+  "complaint_id": "9084460",
+  "product": "Credit card",
+  "complaint_what_happened": "I was contacted by Discover in regards to verifying my personal information for their records in XXXX of 2024. I received a call in regards tot his matter, and was unsure of whether the call was a scam or not so I said Id call back. Upon calling Discover, I was advised it was a call from Discover and they did need to verify me. I then completed the verification process. \nWithout my knowledge, Discover then was unable to verify my information, and sent an email in regards to me needing to submit more information. I didnt see the email, and Discover later closed the account. I am a XXXX XXXX and my preferred method of contact with anything business related is phone calls due to me not being as active with checking emails due to my multiple XXXX XXXX, XXXX XXXX I never received another call from Discover informing me of their decision like they did with the initial outreach, and after not receiving a call they didnt try a different method of contact. \nI called Discover XX/XX/XXXX after noticing my available balance wasnt reflecting the payments I was making on the account. That was when I was informed of their decision to close my account in XXXX. I asked if it could be reinstated due to me not knowing, they said no. I didnt ignore their request due to lack of proof or documents needed, I just honestly am unable to keep up with emails.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27545",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I was contacted by Discover in regards to verifying my personal information for their records in XXXX of 2024. I received a call in regards tot his matter, and was unsure of whether the call was a scam or not so I said Id call back. Upon calling Discover, I was advised it was a call from Discover and they did need to verify me. I then completed the verification process. \nWithout my knowledge, Discover then was unable to verify my information, and sent an email in regards to me needing to submit more information. I didnt see the email, and Discover later closed the account. I am a XXXX XXXX and my preferred method of contact with anything business related is phone calls due to me not being as active with checking emails due to my multiple XXXX XXXX, XXXX XXXX I never received another call from Discover informing me of their decision like they did with the initial outreach, and after not receiving a call they didnt try a different method of contact. \nI called Discover XX/XX/XXXX after noticing my available balance wasnt reflecting the payments I was making on the account. That was when I was informed of their decision to close my account in XXXX. I asked if it could be reinstated due to me not knowing, they said no. I didnt ignore their request due to lack of proof or documents needed, I just honestly am unable to keep up with emails."
+}
+
+Chunk:
+i was contacted by discover in regards to verifying my personal information for their records in xxxx of 2024. i received a call in regards tot his matter, and was unsure of whether the call was a scam or not so i said id call back. upon calling discover, i was advised it was a call from discover and they did need to verify me. i then completed the verification process. without my knowledge, discover then was unable to verify my information, and sent an email in regards to me needing to submit more information. i didnt see the email, and discover later closed the account. i am a xxxx xxxx and my preferred method of contact with anything business related is phone calls due to me not being as active with checking emails due to my multiple xxxx xxxx, xxxx xxxx i never received another call from discover informing me of their decision like they did with the initial outreach, and after not receiving a call they didnt try a different method of contact. i called discover xx / xx / xxxx after noticing my available balance wasnt reflecting the payments i was making on the account. that was when i was informed of their decision to close my account in xxxx. i asked if it could be reinstated due to me not knowing, they said no. i didnt ignore their request due to lack of proof or documents needed, i just honestly am unable to keep up with emails.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992731213569641
+}

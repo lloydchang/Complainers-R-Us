@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9240325,
+  "complaint_id": "9240325",
+  "product": "Credit card",
+  "complaint_what_happened": "Barclays Bank Delaware/ Old Navy stopped my auto payments, sent checks and they didnt cash them for some time. Charged me outrageous fees. \n\nXX/XX/year> till current date",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "91320",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Barclays Bank Delaware/ Old Navy stopped my auto payments, sent checks and they didnt cash them for some time. Charged me outrageous fees. \n\nXX/XX/year> till current date"
+}
+
+Chunk:
+barclays bank delaware / old navy stopped my auto payments, sent checks and they didnt cash them for some time. charged me outrageous fees. xx / xx / year > till current date
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9950842261314392
+}

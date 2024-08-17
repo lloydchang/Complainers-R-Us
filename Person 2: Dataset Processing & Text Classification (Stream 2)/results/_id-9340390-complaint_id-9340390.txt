@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340390,
+  "complaint_id": "9340390",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX has refused to resolve a debt and has in written from company XXXX XXXX that the furniture that was sent to me was broken upon delivery Ive reached out the past year over and over regarding this same situation with dispute after dispute with proof the furniture was damaged upon delivery several phone reps tell me they wouldnt pay for broken furniture neither but within there policy theres nothing they can help me with still no resolution after a whole year and trying to charge me for broken furniture.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "64134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX has refused to resolve a debt and has in written from company XXXX XXXX that the furniture that was sent to me was broken upon delivery Ive reached out the past year over and over regarding this same situation with dispute after dispute with proof the furniture was damaged upon delivery several phone reps tell me they wouldnt pay for broken furniture neither but within there policy theres nothing they can help me with still no resolution after a whole year and trying to charge me for broken furniture."
+}
+
+Chunk:
+xxxx has refused to resolve a debt and has in written from company xxxx xxxx that the furniture that was sent to me was broken upon delivery ive reached out the past year over and over regarding this same situation with dispute after dispute with proof the furniture was damaged upon delivery several phone reps tell me they wouldnt pay for broken furniture neither but within there policy theres nothing they can help me with still no resolution after a whole year and trying to charge me for broken furniture.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992319345474243
+}

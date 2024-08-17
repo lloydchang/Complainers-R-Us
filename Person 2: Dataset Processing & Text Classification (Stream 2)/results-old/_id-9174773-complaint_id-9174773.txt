@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174773,
+  "complaint_id": "9174773",
+  "product": "Credit card",
+  "complaint_what_happened": "I became aware of this Identity theft on about XXXX XXXX I noticed numerous fraudulent charges that I DID NOT complete on XXXXXXXX XXXX XXXX XXXX, and several credit cards account had the same fraudulent transaction with this XXXX. I did not authorized any of these transactions. I have relayed this information to the credit cards company disputed charges for months. But there is no resolution or resolve the issue. I really do need help to resolve this problem for once. I still keep receiving phone calls and statement from XXXX XXXX regarding my Chase credit card that included several XXXX charges that I DID NOT authorize. They charged the following amounts ; {$520.00} - XX/XX/year> - {$350.00} - XXXX {$580.00} - XXXX $ XXXX XXXX {$790.00} - XX/XX/year> - $ XXXX XX/XX/year> {$350.00} - XX/XX/year> {$660.00} - XXXX $ XXXX XX/XX/year>. I have had my personal information compromised and a stranger has pretended to be me. After several stressful calls, I spoke with the XXXX merchant who confirmed my email address was NOT the confirmation email address on the booking. Again, I DID NOT authorize ANY XXXX charges.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28390",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I became aware of this Identity theft on about XXXX XXXX I noticed numerous fraudulent charges that I DID NOT complete on XXXXXXXX XXXX XXXX XXXX, and several credit cards account had the same fraudulent transaction with this XXXX. I did not authorized any of these transactions. I have relayed this information to the credit cards company disputed charges for months. But there is no resolution or resolve the issue. I really do need help to resolve this problem for once. I still keep receiving phone calls and statement from XXXX XXXX regarding my Chase credit card that included several XXXX charges that I DID NOT authorize. They charged the following amounts ; {$520.00} - XX/XX/year> - {$350.00} - XXXX {$580.00} - XXXX $ XXXX XXXX {$790.00} - XX/XX/year> - $ XXXX XX/XX/year> {$350.00} - XX/XX/year> {$660.00} - XXXX $ XXXX XX/XX/year>. I have had my personal information compromised and a stranger has pretended to be me. After several stressful calls, I spoke with the XXXX merchant who confirmed my email address was NOT the confirmation email address on the booking. Again, I DID NOT authorize ANY XXXX charges."
+}
+
+Chunk:
+i became aware of this identity theft on about xxxx xxxx i noticed numerous fraudulent charges that i did not complete on xxxxxxxx xxxx xxxx xxxx, and several credit cards account had the same fraudulent transaction with this xxxx. i did not authorized any of these transactions. i have relayed this information to the credit cards company disputed charges for months. but there is no resolution or resolve the issue. i really do need help to resolve this problem for once. i still keep receiving phone calls and statement from xxxx xxxx regarding my chase credit card that included several xxxx charges that i did not authorize. they charged the following amounts ; { $ 520. 00 } - xx / xx / year > - { $ 350. 00 } - xxxx { $ 580. 00 } - xxxx $ xxxx xxxx { $ 790. 00 } - xx / xx / year > - $ xxxx xx / xx / year > { $ 350. 00 } - xx / xx / year > { $ 660. 00 } - xxxx $ xxxx xx / xx / year >. i have had my personal information compromised and a stranger has pretended to be me. after several stressful calls, i spoke with the xxxx merchant who confirmed my email address was not the confirmation email address on the booking. again, i did not authorize any xxxx charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987345337867737
+}

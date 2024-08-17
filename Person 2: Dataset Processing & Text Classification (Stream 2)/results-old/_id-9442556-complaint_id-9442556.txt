@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9442556,
+  "complaint_id": "9442556",
+  "product": "Credit card",
+  "complaint_what_happened": "US BANK approved me for 2 credit cards, one {$3500.00} and the other {$4500.00}, the credit on XX/XX/XXXX the checked my credit score of XXXX XXXX and on XX/XX/XXXX they sent me twXXXX separate letters closing my card because i was going to commit fraud, they will be able to check my credit record like everything client uses them and then pays them or pays them, thats what credit cards are for",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33172",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "US BANK approved me for 2 credit cards, one {$3500.00} and the other {$4500.00}, the credit on XX/XX/XXXX the checked my credit score of XXXX XXXX and on XX/XX/XXXX they sent me twXXXX separate letters closing my card because i was going to commit fraud, they will be able to check my credit record like everything client uses them and then pays them or pays them, thats what credit cards are for"
+}
+
+Chunk:
+us bank approved me for 2 credit cards, one { $ 3500. 00 } and the other { $ 4500. 00 }, the credit on xx / xx / xxxx the checked my credit score of xxxx xxxx and on xx / xx / xxxx they sent me twxxxx separate letters closing my card because i was going to commit fraud, they will be able to check my credit record like everything client uses them and then pays them or pays them, thats what credit cards are for
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9706491231918335
+}

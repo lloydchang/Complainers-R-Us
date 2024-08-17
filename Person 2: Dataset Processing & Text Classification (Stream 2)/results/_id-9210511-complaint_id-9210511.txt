@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210511,
+  "complaint_id": "9210511",
+  "product": "Credit card",
+  "complaint_what_happened": "As of our XX/XX/XXXX Statement we were carrying a 0 % APR balance transfer of {$12000.00}. We also had a balance of {$580.00} on the account at 22.24 % APR. \n\nFrom XX/XX/XXXX to XX/XX/XXXX we traveled to XXXX XXXX and utilized the XXXX Chase card heavily. Making a payment of {$5000.00} on XX/XX/XXXX to cover the minimum payment due, plus the {$580.00} on the account AND any charges that were made during the month. \n\nChase instead applied the payment to the minimum due, then around {$3200.00} ( {$3200.00} in total but some of that was part of the minimum payment due ) to the 0 % APR. Chase stated to me- and is shown in the statements - that they are charging interest immediately on any transaction to the card because of the 0 % APR balance transfer. \n\nIn addition to the payment from XXXX that was misapplied, I also reviewed my XXXX statement where Chase applied {$200.00} above and beyond the minimum due on the balance transfer to the 0 % APR BEFORE applying it to the interest bearing amount. I haven't gone further back in my statements, but I imagine that it likes holds true in prior months.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20017",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "As of our XX/XX/XXXX Statement we were carrying a 0 % APR balance transfer of {$12000.00}. We also had a balance of {$580.00} on the account at 22.24 % APR. \n\nFrom XX/XX/XXXX to XX/XX/XXXX we traveled to XXXX XXXX and utilized the XXXX Chase card heavily. Making a payment of {$5000.00} on XX/XX/XXXX to cover the minimum payment due, plus the {$580.00} on the account AND any charges that were made during the month. \n\nChase instead applied the payment to the minimum due, then around {$3200.00} ( {$3200.00} in total but some of that was part of the minimum payment due ) to the 0 % APR. Chase stated to me- and is shown in the statements - that they are charging interest immediately on any transaction to the card because of the 0 % APR balance transfer. \n\nIn addition to the payment from XXXX that was misapplied, I also reviewed my XXXX statement where Chase applied {$200.00} above and beyond the minimum due on the balance transfer to the 0 % APR BEFORE applying it to the interest bearing amount. I haven't gone further back in my statements, but I imagine that it likes holds true in prior months."
+}
+
+Chunk:
+as of our xx / xx / xxxx statement we were carrying a 0 % apr balance transfer of { $ 12000. 00 }. we also had a balance of { $ 580. 00 } on the account at 22. 24 % apr. from xx / xx / xxxx to xx / xx / xxxx we traveled to xxxx xxxx and utilized the xxxx chase card heavily. making a payment of { $ 5000. 00 } on xx / xx / xxxx to cover the minimum payment due, plus the { $ 580. 00 } on the account and any charges that were made during the month. chase instead applied the payment to the minimum due, then around { $ 3200. 00 } ( { $ 3200. 00 } in total but some of that was part of the minimum payment due ) to the 0 % apr. chase stated to me - and is shown in the statements - that they are charging interest immediately on any transaction to the card because of the 0 % apr balance transfer. in addition to the payment from xxxx that was misapplied, i also reviewed my xxxx statement where chase applied { $ 200. 00 } above and beyond the minimum due on the balance transfer to the 0 % apr before applying it to the interest bearing amount. i haven't gone further back in my statements, but i imagine that it likes holds true in prior months.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8503009080886841
+}

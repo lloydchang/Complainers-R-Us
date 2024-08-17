@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9455387,
+  "complaint_id": "9455387",
+  "product": "Credit card",
+  "complaint_what_happened": "For the second time in years, Citi Cards misapplied funds for one account into our other account. We use our credit union to make bill payments and in XXXX, and Citi applied both amounts to one of our accounts; leaving one account past due. No text, email, or phone call was made to me until XXXX couldn't process a payment and I contacted Citi. \n\nI have been with Citi Cards for over 23 years and always pay before it is due. My wife is also on this card. Years ago, my wife also got her own card as a backup, I am also on this card. We also travel a lot, including internationally. \n\nEach credit card has its own account number of course, and that is on the bill pay with our credit union. The payments went out 3 days apart due to their respective due dates. \n\nWhen I found out about the issue, XX/XX/XXXX, I called and a rep reversed the amount and applied it into the correct account. On XX/XX/XXXX, I called again and said I wanted to make a \" complaint '' and wanted a supervisor. XXXX took all my information but they do not have a reference number for the complaint, nor will Citi send me a personalized letter stating how this happened ; and what they are doing to ensure it doesn't happen again. \n\nI believe this issue is happening to others and systemic issue with Citi.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75028",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "For the second time in years, Citi Cards misapplied funds for one account into our other account. We use our credit union to make bill payments and in XXXX, and Citi applied both amounts to one of our accounts; leaving one account past due. No text, email, or phone call was made to me until XXXX couldn't process a payment and I contacted Citi. \n\nI have been with Citi Cards for over 23 years and always pay before it is due. My wife is also on this card. Years ago, my wife also got her own card as a backup, I am also on this card. We also travel a lot, including internationally. \n\nEach credit card has its own account number of course, and that is on the bill pay with our credit union. The payments went out 3 days apart due to their respective due dates. \n\nWhen I found out about the issue, XX/XX/XXXX, I called and a rep reversed the amount and applied it into the correct account. On XX/XX/XXXX, I called again and said I wanted to make a \" complaint '' and wanted a supervisor. XXXX took all my information but they do not have a reference number for the complaint, nor will Citi send me a personalized letter stating how this happened ; and what they are doing to ensure it doesn't happen again. \n\nI believe this issue is happening to others and systemic issue with Citi."
+}
+
+Chunk:
+for the second time in years, citi cards misapplied funds for one account into our other account. we use our credit union to make bill payments and in xxxx, and citi applied both amounts to one of our accounts ; leaving one account past due. no text, email, or phone call was made to me until xxxx couldn't process a payment and i contacted citi. i have been with citi cards for over 23 years and always pay before it is due. my wife is also on this card. years ago, my wife also got her own card as a backup, i am also on this card. we also travel a lot, including internationally. each credit card has its own account number of course, and that is on the bill pay with our credit union. the payments went out 3 days apart due to their respective due dates. when i found out about the issue, xx / xx / xxxx, i called and a rep reversed the amount and applied it into the correct account. on xx / xx / xxxx, i called again and said i wanted to make a " complaint'' and wanted a supervisor. xxxx took all my information but they do not have a reference number for the complaint, nor will citi send me a personalized letter stating how this happened ; and what they are doing to ensure it doesn't happen again. i believe this issue is happening to others and systemic issue with citi.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981008172035217
+}

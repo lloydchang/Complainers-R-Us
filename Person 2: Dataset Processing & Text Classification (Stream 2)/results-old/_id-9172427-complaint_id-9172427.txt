@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9172427,
+  "complaint_id": "9172427",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XX/XX/year> I tried to convert my Venture One points to XXXX of Capital One 's transfer partners. When I select Convert Rewards, it sends me to an authentication page and tells me to enter my phone number. I enter my phone number and it goes through, but then the next page to load, loads to nothing. I've tried doing this on my mobile device and desktop and neither one gets me to the appropriate page. Based on several other testimonies online this issue has been going on for months without being resolved. We pay for this rewards service, so by not having access to the page this is false advertising and we are not being given all services we have paid for.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95833",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "XXXX XX/XX/year> I tried to convert my Venture One points to XXXX of Capital One 's transfer partners. When I select Convert Rewards, it sends me to an authentication page and tells me to enter my phone number. I enter my phone number and it goes through, but then the next page to load, loads to nothing. I've tried doing this on my mobile device and desktop and neither one gets me to the appropriate page. Based on several other testimonies online this issue has been going on for months without being resolved. We pay for this rewards service, so by not having access to the page this is false advertising and we are not being given all services we have paid for."
+}
+
+Chunk:
+xxxx xx / xx / year > i tried to convert my venture one points to xxxx of capital one's transfer partners. when i select convert rewards, it sends me to an authentication page and tells me to enter my phone number. i enter my phone number and it goes through, but then the next page to load, loads to nothing. i've tried doing this on my mobile device and desktop and neither one gets me to the appropriate page. based on several other testimonies online this issue has been going on for months without being resolved. we pay for this rewards service, so by not having access to the page this is false advertising and we are not being given all services we have paid for.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996366500854492
+}

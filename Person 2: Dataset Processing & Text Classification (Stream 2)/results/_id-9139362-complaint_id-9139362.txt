@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9139362,
+  "complaint_id": "9139362",
+  "product": "Credit card",
+  "complaint_what_happened": "As someone who has consistently adhered to payment deadlines, it is troubling to discover an error suggesting a late payment on my account. This mistake is causing undue stress, and I urge you to promptly correct it by ensuring my records are updated accordingly.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75126",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account status incorrect",
+  "text": "As someone who has consistently adhered to payment deadlines, it is troubling to discover an error suggesting a late payment on my account. This mistake is causing undue stress, and I urge you to promptly correct it by ensuring my records are updated accordingly."
+}
+
+Chunk:
+as someone who has consistently adhered to payment deadlines, it is troubling to discover an error suggesting a late payment on my account. this mistake is causing undue stress, and i urge you to promptly correct it by ensuring my records are updated accordingly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992075562477112
+}

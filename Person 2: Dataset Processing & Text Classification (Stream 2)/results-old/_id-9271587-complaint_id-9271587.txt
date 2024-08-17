@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9271587,
+  "complaint_id": "9271587",
+  "product": "Credit card",
+  "complaint_what_happened": "In early XX/XX/year>, I logged into my XXXX credit reporting agency to check my credit score before I applied for credit. My credit score at the time was XXXX. ( Same score as of this writing. ) On or about XX/XX/year>, I requested a credit limit increase for my USAA  XXXX XXXX Rewards credit card. I was subsequently denied. I also applied for USAA 's Cashback Rewards Plus credit Card and again was denied. I am in receipt of the XXXX denial letters and the XXXX credit scores for each application was XXXX and XXXX respectfully. A XXXX and XXXX disparities. \n\nI requested an explanation why my XXXX XXXX XXXX I see online in my account has a disparity of XXXX points what they see. The representative explained that if I do not agree with the credit score, they listed, I need to file a dispute with credit bureau. I explained back that the credit bureau is not the problem because I see XXXX but they claim its XXXX and XXXX. ( XXXX would have turn around and my complaint should be with USAA. ) I understand that there are different versions FICO scores. But a XXXX disparity is unbelievable. Had my XXXX score I see in my XXXX account at XXXX ( at the time of requesting a credit limit increase ) I would have NOT applied for credit limit increase and applied for the other credit card from USAA. \n\nSeveral years ago, USAA provided a credit reporting and XXXX XXXX through XXXX. Because they use that XXXX XXXX XXXX, I based my decision to apply for credit limited increase and new credit card of the score of XXXX. Although they do not provide this service anymore as of this writing, a USAA member like me presumes they would honor the same XXXX XXXX that members see on their XXXX account- in my case a XXXX score.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23322",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Difficulty submitting a dispute or getting information about a dispute over the phone",
+  "text": "In early XX/XX/year>, I logged into my XXXX credit reporting agency to check my credit score before I applied for credit. My credit score at the time was XXXX. ( Same score as of this writing. ) On or about XX/XX/year>, I requested a credit limit increase for my USAA  XXXX XXXX Rewards credit card. I was subsequently denied. I also applied for USAA 's Cashback Rewards Plus credit Card and again was denied. I am in receipt of the XXXX denial letters and the XXXX credit scores for each application was XXXX and XXXX respectfully. A XXXX and XXXX disparities. \n\nI requested an explanation why my XXXX XXXX XXXX I see online in my account has a disparity of XXXX points what they see. The representative explained that if I do not agree with the credit score, they listed, I need to file a dispute with credit bureau. I explained back that the credit bureau is not the problem because I see XXXX but they claim its XXXX and XXXX. ( XXXX would have turn around and my complaint should be with USAA. ) I understand that there are different versions FICO scores. But a XXXX disparity is unbelievable. Had my XXXX score I see in my XXXX account at XXXX ( at the time of requesting a credit limit increase ) I would have NOT applied for credit limit increase and applied for the other credit card from USAA. \n\nSeveral years ago, USAA provided a credit reporting and XXXX XXXX through XXXX. Because they use that XXXX XXXX XXXX, I based my decision to apply for credit limited increase and new credit card of the score of XXXX. Although they do not provide this service anymore as of this writing, a USAA member like me presumes they would honor the same XXXX XXXX that members see on their XXXX account- in my case a XXXX score."
+}
+
+Chunk:
+in early xx / xx / year >, i logged into my xxxx credit reporting agency to check my credit score before i applied for credit. my credit score at the time was xxxx. ( same score as of this writing. ) on or about xx / xx / year >, i requested a credit limit increase for my usaa xxxx xxxx rewards credit card. i was subsequently denied. i also applied for usaa's cashback rewards plus credit card and again was denied. i am in receipt of the xxxx denial letters and the xxxx credit scores for each application was xxxx and xxxx respectfully. a xxxx and xxxx disparities. i requested an explanation why my xxxx xxxx xxxx i see online in my account has a disparity of xxxx points what they see. the representative explained that if i do not agree with the credit score, they listed, i need to file a dispute with credit bureau. i explained back that the credit bureau is not the problem because i see xxxx but they claim its xxxx and xxxx. ( xxxx would have turn around and my complaint should be with usaa. ) i understand that there are different versions fico scores. but a xxxx disparity is unbelievable. had my xxxx score i see in my xxxx account at xxxx ( at the time of requesting a credit limit increase ) i would have not applied for credit limit increase and applied for the other credit card from usaa. several years ago, usaa provided a credit reporting and xxxx xxxx through xxxx. because they use that xxxx xxxx xxxx, i based my decision to apply for credit limited increase and new credit card of the score of xxxx. although they do not provide this service anymore as of this writing, a usaa member like me presumes they would honor the same xxxx xxxx that members see on their xxxx account - in my case a xxxx score.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996193528175354
+}

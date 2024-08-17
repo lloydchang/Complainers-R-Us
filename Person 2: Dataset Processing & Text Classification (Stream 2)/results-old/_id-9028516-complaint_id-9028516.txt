@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9028516,
+  "complaint_id": "9028516",
+  "product": "Credit card",
+  "complaint_what_happened": "I have contacted American Express at least half a dozen times asking for a hard block on previous credit card numbers after receiving replacement cards. I did this in order to stop certain companies from continuing to charge my account for services I did not authorize. As these charges occurred, I have done my best to keep up with them and filed disputes, but it is time consuming and sometimes difficult to keep up with. Each time I have attempted to initiate the hard blocks, I have gotten various answers from American Express, but always the same results. Sometimes the agents have guaranteed me that none of my old credit card numbers will continue to work after they supposedly put the block in place, while other times I have even had agents ( including supervisors ) tell me there is no such thing as a hard block. When I called again Last week The agent told me that American Express had streamlined the hard block process and it was now easier to put it in place. I waited while he said he blocked all old card numbers and sent me a new card, but within 48 hours I had two unauthorized charges to my account",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32952",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I have contacted American Express at least half a dozen times asking for a hard block on previous credit card numbers after receiving replacement cards. I did this in order to stop certain companies from continuing to charge my account for services I did not authorize. As these charges occurred, I have done my best to keep up with them and filed disputes, but it is time consuming and sometimes difficult to keep up with. Each time I have attempted to initiate the hard blocks, I have gotten various answers from American Express, but always the same results. Sometimes the agents have guaranteed me that none of my old credit card numbers will continue to work after they supposedly put the block in place, while other times I have even had agents ( including supervisors ) tell me there is no such thing as a hard block. When I called again Last week The agent told me that American Express had streamlined the hard block process and it was now easier to put it in place. I waited while he said he blocked all old card numbers and sent me a new card, but within 48 hours I had two unauthorized charges to my account"
+}
+
+Chunk:
+i have contacted american express at least half a dozen times asking for a hard block on previous credit card numbers after receiving replacement cards. i did this in order to stop certain companies from continuing to charge my account for services i did not authorize. as these charges occurred, i have done my best to keep up with them and filed disputes, but it is time consuming and sometimes difficult to keep up with. each time i have attempted to initiate the hard blocks, i have gotten various answers from american express, but always the same results. sometimes the agents have guaranteed me that none of my old credit card numbers will continue to work after they supposedly put the block in place, while other times i have even had agents ( including supervisors ) tell me there is no such thing as a hard block. when i called again last week the agent told me that american express had streamlined the hard block process and it was now easier to put it in place. i waited while he said he blocked all old card numbers and sent me a new card, but within 48 hours i had two unauthorized charges to my account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999221920967102
+}

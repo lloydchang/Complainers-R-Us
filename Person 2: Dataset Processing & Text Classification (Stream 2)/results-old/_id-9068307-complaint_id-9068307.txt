@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068307,
+  "complaint_id": "9068307",
+  "product": "Credit card",
+  "complaint_what_happened": "I received the letter from your company dated XX/XX/2024. my previous complaint is not from a THIRD PARTY. Again I just want to reverse or remove the late payment history of my account BMW FINANCIAL SERVICES XXXX. I paid on time, and there an error in the payment system.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "943XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BMW Financial Services NA, LLC",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Investigation took more than 30 days",
+  "text": "I received the letter from your company dated XX/XX/2024. my previous complaint is not from a THIRD PARTY. Again I just want to reverse or remove the late payment history of my account BMW FINANCIAL SERVICES XXXX. I paid on time, and there an error in the payment system."
+}
+
+Chunk:
+i received the letter from your company dated xx / xx / 2024. my previous complaint is not from a third party. again i just want to reverse or remove the late payment history of my account bmw financial services xxxx. i paid on time, and there an error in the payment system.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997162222862244
+}

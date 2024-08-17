@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9056316,
+  "complaint_id": "9056316",
+  "product": "Credit card",
+  "complaint_what_happened": "My name is XXXX XXXX. Citi Bank closed all my credit card accounts without specific reasons on XX/XX/XXXX, which caused damage to my credit score and loss of money. I filed the small claim court in New York Civil Court against Citi Bank on XX/XX/XXXX. The court ruled in my favor. I forwarded the Notice of Judgement to the Citi Bank Executivte Reposne unit at XXXX on XX/XX/XXXX, without any response. According to the court judgment, Please send me the check for payment of {$9900.00} to my address at XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX, NY, XXXX. I have attached the notice of judgment to this complaint as well. According to the court judgment, please also repair my damaged credit score by removing \" closed by the bank '' and replaced by \" closed by customer '' for all my closed CITI bank credit cards on the three credit bureaus for my account. Thank you!",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10036",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "My name is XXXX XXXX. Citi Bank closed all my credit card accounts without specific reasons on XX/XX/XXXX, which caused damage to my credit score and loss of money. I filed the small claim court in New York Civil Court against Citi Bank on XX/XX/XXXX. The court ruled in my favor. I forwarded the Notice of Judgement to the Citi Bank Executivte Reposne unit at XXXX on XX/XX/XXXX, without any response. According to the court judgment, Please send me the check for payment of {$9900.00} to my address at XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX, NY, XXXX. I have attached the notice of judgment to this complaint as well. According to the court judgment, please also repair my damaged credit score by removing \" closed by the bank '' and replaced by \" closed by customer '' for all my closed CITI bank credit cards on the three credit bureaus for my account. Thank you!"
+}
+
+Chunk:
+my name is xxxx xxxx. citi bank closed all my credit card accounts without specific reasons on xx / xx / xxxx, which caused damage to my credit score and loss of money. i filed the small claim court in new york civil court against citi bank on xx / xx / xxxx. the court ruled in my favor. i forwarded the notice of judgement to the citi bank executivte reposne unit at xxxx on xx / xx / xxxx, without any response. according to the court judgment, please send me the check for payment of { $ 9900. 00 } to my address at xxxx xxxx, xxxx xxxx xxxx xxxx xxxx xxxx, xxxx xxxx, ny, xxxx. i have attached the notice of judgment to this complaint as well. according to the court judgment, please also repair my damaged credit score by removing " closed by the bank'' and replaced by " closed by customer'' for all my closed citi bank credit cards on the three credit bureaus for my account. thank you!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989503026008606
+}

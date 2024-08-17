@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9227825,
+  "complaint_id": "9227825",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I made a purchase online at XXXX. I never received the item. The merchant acknowledge that the items were sent, but were returned to them, but I never received a refund. I filed a dispute for the charge with Wells Fargo for {$360.00}. That is shown in the attached evidence as page XXXX. The merchant also informed Wells Fargo that they have gotten the merchandise back. so there is NO LEGAL REASON that this dispute should be denied. \n\nOn page XXXX of my attachment, Wells Fargo states that they've issued me a refund for {$260.00}, which isn't even the full amount of the dispute. But regardless, on page XXXX of my attachment, you will see where Wells Fargo REVERSED that refund. I was given no valid reason, and no info at all why the full refund wasn't issued, and I was never informed why the partial refund that was applied to my account, was reversed. I have had XXXX  explanation from Wells Fargo. All of my letters to them about this issue have been completely ignored. At this point, I am out {$360.00}, even though the merchant has made it very clear to Wells Fargo that the merchandise was returned to them. This is another example of fraudulent activity by Wells Fargo.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46201",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> I made a purchase online at XXXX. I never received the item. The merchant acknowledge that the items were sent, but were returned to them, but I never received a refund. I filed a dispute for the charge with Wells Fargo for {$360.00}. That is shown in the attached evidence as page XXXX. The merchant also informed Wells Fargo that they have gotten the merchandise back. so there is NO LEGAL REASON that this dispute should be denied. \n\nOn page XXXX of my attachment, Wells Fargo states that they've issued me a refund for {$260.00}, which isn't even the full amount of the dispute. But regardless, on page XXXX of my attachment, you will see where Wells Fargo REVERSED that refund. I was given no valid reason, and no info at all why the full refund wasn't issued, and I was never informed why the partial refund that was applied to my account, was reversed. I have had XXXX  explanation from Wells Fargo. All of my letters to them about this issue have been completely ignored. At this point, I am out {$360.00}, even though the merchant has made it very clear to Wells Fargo that the merchandise was returned to them. This is another example of fraudulent activity by Wells Fargo."
+}
+
+Chunk:
+on xx / xx / year > i made a purchase online at xxxx. i never received the item. the merchant acknowledge that the items were sent, but were returned to them, but i never received a refund. i filed a dispute for the charge with wells fargo for { $ 360. 00 }. that is shown in the attached evidence as page xxxx. the merchant also informed wells fargo that they have gotten the merchandise back. so there is no legal reason that this dispute should be denied. on page xxxx of my attachment, wells fargo states that they've issued me a refund for { $ 260. 00 }, which isn't even the full amount of the dispute. but regardless, on page xxxx of my attachment, you will see where wells fargo reversed that refund. i was given no valid reason, and no info at all why the full refund wasn't issued, and i was never informed why the partial refund that was applied to my account, was reversed. i have had xxxx explanation from wells fargo. all of my letters to them about this issue have been completely ignored. at this point, i am out { $ 360. 00 }, even though the merchant has made it very clear to wells fargo that the merchandise was returned to them. this is another example of fraudulent activity by wells fargo.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991377592086792
+}

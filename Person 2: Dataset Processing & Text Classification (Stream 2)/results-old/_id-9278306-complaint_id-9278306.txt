@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9278306,
+  "complaint_id": "9278306",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a mail at my address on XX/XX/2024. When I opened it, it thanked me for being a part of USAA. Confused, I called USAA and discovered that there was an account in my name that I hadn't opened. I informed them that I didn't open the account, and they initiated a fraud investigation. USAA advised me to notify my credit card companies as well, providing me with a link for further steps.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10314",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a mail at my address on XX/XX/2024. When I opened it, it thanked me for being a part of USAA. Confused, I called USAA and discovered that there was an account in my name that I hadn't opened. I informed them that I didn't open the account, and they initiated a fraud investigation. USAA advised me to notify my credit card companies as well, providing me with a link for further steps."
+}
+
+Chunk:
+i received a mail at my address on xx / xx / 2024. when i opened it, it thanked me for being a part of usaa. confused, i called usaa and discovered that there was an account in my name that i hadn't opened. i informed them that i didn't open the account, and they initiated a fraud investigation. usaa advised me to notify my credit card companies as well, providing me with a link for further steps.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972711205482483
+}

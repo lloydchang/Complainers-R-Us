@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262759,
+  "complaint_id": "9262759",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a victim of identity theft for a couple years. I have had my identity stolen and there have been fraudulent items reporting to my credit that do not belong to me NAVY FEDERAL CR UN ( Account Number XXXX ), Balance {$8000.00}. Upon receiving your communication dated [ XXXX ], I was taken aback by your attempt to collect this debt via email. It has come to my attention that this action violates the Fair Debt Collection Practices Act ( FDCPA ), specifically Secction 805 ( 2 ) ( b ), which prohibits from communicating with consumers through means known or should be known to be inconvenient. Email communication for debt collection purposes falls under this category, as it is intrusive and lacks the necessary privacy afforded by other forms of communication. \nYour attempt to collect a debt via email has caused me undue distress and is a clear violation of my rights as a consumer under federal law. Therefore, I am hereby demanding the following remedies and compensation for the damages incurred : 1.Immidiate Cease of reporting this alleged debt to any Credit Reporting Agency 2 . Immediate cessation of all further communication regarding the alleged debt via email.\n\n3. A formal apology from NAVY FEDERAL CR UNION for the violation of my rights under the FDCPA.\n\n4. Compensation for emotional distress and inconvenience caused by your unlawful collection efforts, in the amount of {$1000.00}. 5. Reimbursement of any legal fees incurred in addressing this matter. On XXXX XXXX XXXX NAVY FEDERAL CR UNION contacted me via email on an attempt to collect a debt. Below I have an attached my FTC report as well as NAVY FEDERAL CR UNION email attempt to collect a debt that does not belong to me. ( Please See Attachments )!",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89130",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I have been a victim of identity theft for a couple years. I have had my identity stolen and there have been fraudulent items reporting to my credit that do not belong to me NAVY FEDERAL CR UN ( Account Number XXXX ), Balance {$8000.00}. Upon receiving your communication dated [ XXXX ], I was taken aback by your attempt to collect this debt via email. It has come to my attention that this action violates the Fair Debt Collection Practices Act ( FDCPA ), specifically Secction 805 ( 2 ) ( b ), which prohibits from communicating with consumers through means known or should be known to be inconvenient. Email communication for debt collection purposes falls under this category, as it is intrusive and lacks the necessary privacy afforded by other forms of communication. \nYour attempt to collect a debt via email has caused me undue distress and is a clear violation of my rights as a consumer under federal law. Therefore, I am hereby demanding the following remedies and compensation for the damages incurred : 1.Immidiate Cease of reporting this alleged debt to any Credit Reporting Agency 2 . Immediate cessation of all further communication regarding the alleged debt via email.\n\n3. A formal apology from NAVY FEDERAL CR UNION for the violation of my rights under the FDCPA.\n\n4. Compensation for emotional distress and inconvenience caused by your unlawful collection efforts, in the amount of {$1000.00}. 5. Reimbursement of any legal fees incurred in addressing this matter. On XXXX XXXX XXXX NAVY FEDERAL CR UNION contacted me via email on an attempt to collect a debt. Below I have an attached my FTC report as well as NAVY FEDERAL CR UNION email attempt to collect a debt that does not belong to me. ( Please See Attachments )!"
+}
+
+Chunk:
+i have been a victim of identity theft for a couple years. i have had my identity stolen and there have been fraudulent items reporting to my credit that do not belong to me navy federal cr un ( account number xxxx ), balance { $ 8000. 00 }. upon receiving your communication dated [ xxxx ], i was taken aback by your attempt to collect this debt via email. it has come to my attention that this action violates the fair debt collection practices act ( fdcpa ), specifically secction 805 ( 2 ) ( b ), which prohibits from communicating with consumers through means known or should be known to be inconvenient. email communication for debt collection purposes falls under this category, as it is intrusive and lacks the necessary privacy afforded by other forms of communication. your attempt to collect a debt via email has caused me undue distress and is a clear violation of my rights as a consumer under federal law. therefore, i am hereby demanding the following remedies and compensation for the damages incurred : 1. immidiate cease of reporting this alleged debt to any credit reporting agency 2. immediate cessation of all further communication regarding the alleged debt via email. 3. a formal apology from navy federal cr union for the violation of my rights under the fdcpa. 4. compensation for emotional distress and inconvenience caused by your unlawful collection efforts, in the amount of { $ 1000. 00 }. 5. reimbursement of any legal fees incurred in addressing this matter. on xxxx xxxx xxxx navy federal cr union contacted me via email on an attempt to collect a debt. below i have an attached my ftc report as well as navy federal cr union email attempt to collect a debt that does not belong to me. ( please see attachments )!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991543292999268
+}

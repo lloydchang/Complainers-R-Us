@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9469650,
+  "complaint_id": "9469650",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello I had got my credit report from XXXX and seen that my report had 2 inquiries with THD/CBNA. This was a fraudulent I never authorized for THD/CBNA to run my credit and I would like to get inquiries removed due to fraud. \nIt shows THD/CBNA ran my credit on XXXX and on XXXX.",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "95833",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Hello I had got my credit report from XXXX and seen that my report had 2 inquiries with THD/CBNA. This was a fraudulent I never authorized for THD/CBNA to run my credit and I would like to get inquiries removed due to fraud. \nIt shows THD/CBNA ran my credit on XXXX and on XXXX."
+}
+
+Chunk:
+hello i had got my credit report from xxxx and seen that my report had 2 inquiries with thd / cbna. this was a fraudulent i never authorized for thd / cbna to run my credit and i would like to get inquiries removed due to fraud. it shows thd / cbna ran my credit on xxxx and on xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986300468444824
+}

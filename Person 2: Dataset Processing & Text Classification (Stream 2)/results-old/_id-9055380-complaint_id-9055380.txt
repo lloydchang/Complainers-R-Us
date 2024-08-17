@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055380,
+  "complaint_id": "9055380",
+  "product": "Credit card",
+  "complaint_what_happened": "Best Buy canceled my card since 2020 but they continued to automatically charge my account and I never stopped paying. But from the date of cancellation they did not allow me to see my account statement online even though they charged my card. When I closed my bank account to get them to contact me, they sent me messages charging more interest. I don't want to stop paying my debt but they are forcing me to send the balance I owe to that company to a collection company. This process is not fair or ethical for anyone because they have been charging me and without giving me the right to information on my account balance. I feel cheated by that company because they did not give me the opportunity to pay my full debt for more than 4 years but they did benefit from the interest they overcharged me.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "33021",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Best Buy canceled my card since 2020 but they continued to automatically charge my account and I never stopped paying. But from the date of cancellation they did not allow me to see my account statement online even though they charged my card. When I closed my bank account to get them to contact me, they sent me messages charging more interest. I don't want to stop paying my debt but they are forcing me to send the balance I owe to that company to a collection company. This process is not fair or ethical for anyone because they have been charging me and without giving me the right to information on my account balance. I feel cheated by that company because they did not give me the opportunity to pay my full debt for more than 4 years but they did benefit from the interest they overcharged me."
+}
+
+Chunk:
+best buy canceled my card since 2020 but they continued to automatically charge my account and i never stopped paying. but from the date of cancellation they did not allow me to see my account statement online even though they charged my card. when i closed my bank account to get them to contact me, they sent me messages charging more interest. i don't want to stop paying my debt but they are forcing me to send the balance i owe to that company to a collection company. this process is not fair or ethical for anyone because they have been charging me and without giving me the right to information on my account balance. i feel cheated by that company because they did not give me the opportunity to pay my full debt for more than 4 years but they did benefit from the interest they overcharged me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9907038807868958
+}

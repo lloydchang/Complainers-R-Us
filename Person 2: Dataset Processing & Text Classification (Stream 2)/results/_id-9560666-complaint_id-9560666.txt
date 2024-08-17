@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9560666,
+  "complaint_id": "9560666",
+  "product": "Credit card",
+  "complaint_what_happened": "I found there was an unknown transaction of {$380.00} from my Bank of America credit card on XX/XX/year>. And I couldnt find this credit card. So I reported to Bank of America about the card lost and fraud transaction. Claim ID : XXXX. But after several days, BOA denied and closed this claim. They stated that they received the receipt and shipping documentation from the seller. But from the documents, the customer 's name, phone, email, address, purchase IP address are not mine.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95035",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I found there was an unknown transaction of {$380.00} from my Bank of America credit card on XX/XX/year>. And I couldnt find this credit card. So I reported to Bank of America about the card lost and fraud transaction. Claim ID : XXXX. But after several days, BOA denied and closed this claim. They stated that they received the receipt and shipping documentation from the seller. But from the documents, the customer 's name, phone, email, address, purchase IP address are not mine."
+}
+
+Chunk:
+i found there was an unknown transaction of { $ 380. 00 } from my bank of america credit card on xx / xx / year >. and i couldnt find this credit card. so i reported to bank of america about the card lost and fraud transaction. claim id : xxxx. but after several days, boa denied and closed this claim. they stated that they received the receipt and shipping documentation from the seller. but from the documents, the customer's name, phone, email, address, purchase ip address are not mine.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976301193237305
+}

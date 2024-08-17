@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9119678,
+  "complaint_id": "9119678",
+  "product": "Credit card",
+  "complaint_what_happened": "I Travel for work and have a lengthy contract in XXXX so I paid my account in full to use, updated my address with XXXX as I have before with no problem online. XXXX updated my address within my account and on my statements but waited until I attempted to use my card to advise they restricted the card due to the inability to verify the address. They then required me to change my XXXX  driver 's license to a XXXX  license ( although they were the only credit merchant that requested that I comply ) then they stated they wanted a utility bill, I explained I'm here for work and the place I'm at I do not pay utilities. Per XXXX that's the only way to verify the XXXX address. So I advise that I changed my DL, have been receiving mail to the new address from XXXX asking me to call to verify that I have my card in my possession to relieve the hold in which I did, and still the card is restricted with no reasonable reason outside of them wanting a utility bill and for me to change my business account address to XXXX and send the complete statement which I'm not open to doing because I run my business out of XXXX. I have been trying to get this resolved, Per XXXX request I sent my personal bank statement, they stated that I can't use it although it shows the XXXX address it does not have the online banking physical address not that Im sure why the bank physical address matters since XXXX has technically updated the address in their system and send me mail. Im concerned about my credit score and have asked that my account not close due to inactivity since XXXX refuse to allow usage after I have been with them for years.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "303XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST PORTFOLIO SERVICING INC",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I Travel for work and have a lengthy contract in XXXX so I paid my account in full to use, updated my address with XXXX as I have before with no problem online. XXXX updated my address within my account and on my statements but waited until I attempted to use my card to advise they restricted the card due to the inability to verify the address. They then required me to change my XXXX  driver 's license to a XXXX  license ( although they were the only credit merchant that requested that I comply ) then they stated they wanted a utility bill, I explained I'm here for work and the place I'm at I do not pay utilities. Per XXXX that's the only way to verify the XXXX address. So I advise that I changed my DL, have been receiving mail to the new address from XXXX asking me to call to verify that I have my card in my possession to relieve the hold in which I did, and still the card is restricted with no reasonable reason outside of them wanting a utility bill and for me to change my business account address to XXXX and send the complete statement which I'm not open to doing because I run my business out of XXXX. I have been trying to get this resolved, Per XXXX request I sent my personal bank statement, they stated that I can't use it although it shows the XXXX address it does not have the online banking physical address not that Im sure why the bank physical address matters since XXXX has technically updated the address in their system and send me mail. Im concerned about my credit score and have asked that my account not close due to inactivity since XXXX refuse to allow usage after I have been with them for years."
+}
+
+Chunk:
+i travel for work and have a lengthy contract in xxxx so i paid my account in full to use, updated my address with xxxx as i have before with no problem online. xxxx updated my address within my account and on my statements but waited until i attempted to use my card to advise they restricted the card due to the inability to verify the address. they then required me to change my xxxx driver's license to a xxxx license ( although they were the only credit merchant that requested that i comply ) then they stated they wanted a utility bill, i explained i'm here for work and the place i'm at i do not pay utilities. per xxxx that's the only way to verify the xxxx address. so i advise that i changed my dl, have been receiving mail to the new address from xxxx asking me to call to verify that i have my card in my possession to relieve the hold in which i did, and still the card is restricted with no reasonable reason outside of them wanting a utility bill and for me to change my business account address to xxxx and send the complete statement which i'm not open to doing because i run my business out of xxxx. i have been trying to get this resolved, per xxxx request i sent my personal bank statement, they stated that i can't use it although it shows the xxxx address it does not have the online banking physical address not that im sure why the bank physical address matters since xxxx has technically updated the address in their system and send me mail. im concerned about my credit score and have asked that my account not close due to inactivity since xxxx refuse to allow usage after i have been with them for years.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993335604667664
+}

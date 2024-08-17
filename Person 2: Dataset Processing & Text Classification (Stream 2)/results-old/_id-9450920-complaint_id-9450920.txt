@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9450920,
+  "complaint_id": "9450920",
+  "product": "Credit card",
+  "complaint_what_happened": "We received email from Lowe 's with attached invoices that are fraudulent. Under acct. ending XXXX, Invoice # XXXX, XXXX XX/XX/year> for {$360.00} and invoice # XXXX dated XX/XX/year> for {$330.00}. They are from Lowe 's in XXXXXXXX XXXX. We reside in XXXXXXXX XXXX. Our daughter is listed as the buyer but did not make any changes to this account. She's also in XXXXXXXX XXXX. What do we do? \nAttached invoices",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "91504",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "We received email from Lowe 's with attached invoices that are fraudulent. Under acct. ending XXXX, Invoice # XXXX, XXXX XX/XX/year> for {$360.00} and invoice # XXXX dated XX/XX/year> for {$330.00}. They are from Lowe 's in XXXXXXXX XXXX. We reside in XXXXXXXX XXXX. Our daughter is listed as the buyer but did not make any changes to this account. She's also in XXXXXXXX XXXX. What do we do? \nAttached invoices"
+}
+
+Chunk:
+we received email from lowe's with attached invoices that are fraudulent. under acct. ending xxxx, invoice # xxxx, xxxx xx / xx / year > for { $ 360. 00 } and invoice # xxxx dated xx / xx / year > for { $ 330. 00 }. they are from lowe's in xxxxxxxx xxxx. we reside in xxxxxxxx xxxx. our daughter is listed as the buyer but did not make any changes to this account. she's also in xxxxxxxx xxxx. what do we do? attached invoices
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988914132118225
+}

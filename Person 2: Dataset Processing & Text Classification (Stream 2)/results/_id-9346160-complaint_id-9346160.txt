@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9346160,
+  "complaint_id": "9346160",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened the US Bank Business Leverage card on XX/XX/XXXX. I was unaware that their business credit cards have a central billing system. I could not pay on the card account, so I called customer service. I made the payment on the account for the statement credit. She explained that business cards have central billing and I must create a new account for it. She also mentioned I could merge the billing account with my credit card, so I would be able to make payments on the card directly. She told me that the change would take place after the second billing cycle. At the time, I had about XXXX points ( worth {$27.00} ) after the first billing cycle, and I made about {$2800.00} in purchases during the second billing cycle. I should have about XXXX points balance after the second statement, but my reward balance went to ( XXXX ) balance after the second billing statement. I called customer service on XX/XX/XXXX and was told that due to the merging of the account, I forfeited all my points. To which I replied : \" I was never told by the rep I spoke with. Otherwise, I would redeem all my points, and would never ask for the change ''. She offered me only XXXX points ( worth {$25.00} ), and I told her that I lost more than twice as much from the first two billing statements. She transferred my call to the supervisor, but he/she did not answer. She set up a call from a supervisor within 24 hours.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77375",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I opened the US Bank Business Leverage card on XX/XX/XXXX. I was unaware that their business credit cards have a central billing system. I could not pay on the card account, so I called customer service. I made the payment on the account for the statement credit. She explained that business cards have central billing and I must create a new account for it. She also mentioned I could merge the billing account with my credit card, so I would be able to make payments on the card directly. She told me that the change would take place after the second billing cycle. At the time, I had about XXXX points ( worth {$27.00} ) after the first billing cycle, and I made about {$2800.00} in purchases during the second billing cycle. I should have about XXXX points balance after the second statement, but my reward balance went to ( XXXX ) balance after the second billing statement. I called customer service on XX/XX/XXXX and was told that due to the merging of the account, I forfeited all my points. To which I replied : \" I was never told by the rep I spoke with. Otherwise, I would redeem all my points, and would never ask for the change ''. She offered me only XXXX points ( worth {$25.00} ), and I told her that I lost more than twice as much from the first two billing statements. She transferred my call to the supervisor, but he/she did not answer. She set up a call from a supervisor within 24 hours."
+}
+
+Chunk:
+i opened the us bank business leverage card on xx / xx / xxxx. i was unaware that their business credit cards have a central billing system. i could not pay on the card account, so i called customer service. i made the payment on the account for the statement credit. she explained that business cards have central billing and i must create a new account for it. she also mentioned i could merge the billing account with my credit card, so i would be able to make payments on the card directly. she told me that the change would take place after the second billing cycle. at the time, i had about xxxx points ( worth { $ 27. 00 } ) after the first billing cycle, and i made about { $ 2800. 00 } in purchases during the second billing cycle. i should have about xxxx points balance after the second statement, but my reward balance went to ( xxxx ) balance after the second billing statement. i called customer service on xx / xx / xxxx and was told that due to the merging of the account, i forfeited all my points. to which i replied : " i was never told by the rep i spoke with. otherwise, i would redeem all my points, and would never ask for the change''. she offered me only xxxx points ( worth { $ 25. 00 } ), and i told her that i lost more than twice as much from the first two billing statements. she transferred my call to the supervisor, but he / she did not answer. she set up a call from a supervisor within 24 hours.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989516735076904
+}

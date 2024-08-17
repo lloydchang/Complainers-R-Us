@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247483,
+  "complaint_id": "9247483",
+  "product": "Credit card",
+  "complaint_what_happened": "My due date for my payment was XXXX XXXX XXXX, I called to make a payment around XXXX XXXX XXXX XXXX the automated system said my payment would be considered last because it was after XXXX XXXX. I talk to a customer service representative she avise me that there was nothing she could do because I had a late payment in XXXX. So I asked her about how much late fee charges would be ... since the new law got passed that it shouldn't be no more that {$8.00}, she said {$40.00} for the customer that previous had account, that new customers would be {$8.00}. I told her that was not what I had read about the new law on late fees.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27405",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "My due date for my payment was XXXX XXXX XXXX, I called to make a payment around XXXX XXXX XXXX XXXX the automated system said my payment would be considered last because it was after XXXX XXXX. I talk to a customer service representative she avise me that there was nothing she could do because I had a late payment in XXXX. So I asked her about how much late fee charges would be ... since the new law got passed that it shouldn't be no more that {$8.00}, she said {$40.00} for the customer that previous had account, that new customers would be {$8.00}. I told her that was not what I had read about the new law on late fees."
+}
+
+Chunk:
+my due date for my payment was xxxx xxxx xxxx, i called to make a payment around xxxx xxxx xxxx xxxx the automated system said my payment would be considered last because it was after xxxx xxxx. i talk to a customer service representative she avise me that there was nothing she could do because i had a late payment in xxxx. so i asked her about how much late fee charges would be... since the new law got passed that it shouldn't be no more that { $ 8. 00 }, she said { $ 40. 00 } for the customer that previous had account, that new customers would be { $ 8. 00 }. i told her that was not what i had read about the new law on late fees.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994064569473267
+}

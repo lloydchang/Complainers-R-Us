@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9223446,
+  "complaint_id": "9223446",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently I was looking at my credit report because I am trying to buy a house. I noticed Navy Federal reporting late payments on my report from this year. I am confused because I was reading the fcra online and 15 USC 1666b says late payments are not to be reported. The reporting of this adverse information is affecting my ability to obtain a loan and properly support my XXXX XXXX XXXX.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08205",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Reporting company used your report improperly",
+  "text": "Recently I was looking at my credit report because I am trying to buy a house. I noticed Navy Federal reporting late payments on my report from this year. I am confused because I was reading the fcra online and 15 USC 1666b says late payments are not to be reported. The reporting of this adverse information is affecting my ability to obtain a loan and properly support my XXXX XXXX XXXX."
+}
+
+Chunk:
+recently i was looking at my credit report because i am trying to buy a house. i noticed navy federal reporting late payments on my report from this year. i am confused because i was reading the fcra online and 15 usc 1666b says late payments are not to be reported. the reporting of this adverse information is affecting my ability to obtain a loan and properly support my xxxx xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981802701950073
+}

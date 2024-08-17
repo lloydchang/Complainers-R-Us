@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9090880,
+  "complaint_id": "9090880",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XXXX a fraudulent charge for {$120.00} appeared on my statement from Barclays. They were notified of this charge and said they would investigate which led to them to a false conclusion in a XX/XX/year> letter I received which stated based on information available have concluded that the transaction is not fraudulent. \n\nNot only is this wrong but Barclays let a card that was stopped early XXXX by the bank to process this transaction when it should have been denied",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11561",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XXXX XXXX a fraudulent charge for {$120.00} appeared on my statement from Barclays. They were notified of this charge and said they would investigate which led to them to a false conclusion in a XX/XX/year> letter I received which stated based on information available have concluded that the transaction is not fraudulent. \n\nNot only is this wrong but Barclays let a card that was stopped early XXXX by the bank to process this transaction when it should have been denied"
+}
+
+Chunk:
+on xxxx xxxx a fraudulent charge for { $ 120. 00 } appeared on my statement from barclays. they were notified of this charge and said they would investigate which led to them to a false conclusion in a xx / xx / year > letter i received which stated based on information available have concluded that the transaction is not fraudulent. not only is this wrong but barclays let a card that was stopped early xxxx by the bank to process this transaction when it should have been denied
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9938110709190369
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9247694,
+  "complaint_id": "9247694",
+  "product": "Credit card",
+  "complaint_what_happened": "I have two credit cards with Capital One. I found out Capital One closed both yesterday. The representative would only provide a generic response about why it may have been closed. I have not purchased anything on it that would go against a credit card 's intended use. I asked about receiving or transferring the rewards I've built up, and she told me I could not have them.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "71291",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I have two credit cards with Capital One. I found out Capital One closed both yesterday. The representative would only provide a generic response about why it may have been closed. I have not purchased anything on it that would go against a credit card 's intended use. I asked about receiving or transferring the rewards I've built up, and she told me I could not have them."
+}
+
+Chunk:
+i have two credit cards with capital one. i found out capital one closed both yesterday. the representative would only provide a generic response about why it may have been closed. i have not purchased anything on it that would go against a credit card's intended use. i asked about receiving or transferring the rewards i've built up, and she told me i could not have them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996113181114197
+}

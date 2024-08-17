@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9528089,
+  "complaint_id": "9528089",
+  "product": "Credit card",
+  "complaint_what_happened": "I received my XXXX statement and noticed the interest charge is more then it should be. My balance owed on account as of XXXX XXXX is {$1800.00}. However the interest charged on my balance is {$1700.00}. Base on an interest rate of 29.9 %, my interest rate charged should have been {$540.00}. I called account service phone ( XXXX ) on XX/XX/year> to get an answer but person I contacted would not give me an answer other then repeating what was on my current XXXX statement. Would not give an explanation on the amount of interest charged.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "144XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I received my XXXX statement and noticed the interest charge is more then it should be. My balance owed on account as of XXXX XXXX is {$1800.00}. However the interest charged on my balance is {$1700.00}. Base on an interest rate of 29.9 %, my interest rate charged should have been {$540.00}. I called account service phone ( XXXX ) on XX/XX/year> to get an answer but person I contacted would not give me an answer other then repeating what was on my current XXXX statement. Would not give an explanation on the amount of interest charged."
+}
+
+Chunk:
+i received my xxxx statement and noticed the interest charge is more then it should be. my balance owed on account as of xxxx xxxx is { $ 1800. 00 }. however the interest charged on my balance is { $ 1700. 00 }. base on an interest rate of 29. 9 %, my interest rate charged should have been { $ 540. 00 }. i called account service phone ( xxxx ) on xx / xx / year > to get an answer but person i contacted would not give me an answer other then repeating what was on my current xxxx statement. would not give an explanation on the amount of interest charged.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986732006072998
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156194,
+  "complaint_id": "9156194",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I placed an order from XXXX XXXX  using the XXXX XXXX  issued by Synchrony Bank in XX/XX/XXXX. The purchase was accepted, the order even showed the last 4 of the credit card number on the invoice. I even received my order just days later. I went to check on the balance of the card yesterday, XX/XX/XXXX, but the account was not listed on the XXXX portal. When I called them and asked what happened, the representative told me that the account was closed due to inactivity. But I have never received any notifications to that fact! It was very suspicious to me that they would close the account the very first time I made a purchase using this card. I have since read similar instances in various online forums where they closed accounts the moment a purchase was made. They claimed it was because of inactivity over one year from the date of issue, but there is another XXXX card that I have not used in over a year that is still open! They would not reinstate my account, and said that I would receive paper statements by which to pay my bill. Having elected paperless billing as I do with all accounts, this will force me into being charged {$2.00} every month for paper billing on an account that I can not access online. And they don't even know why it's not appearing in their online portal! This is shady business practice and they should be investigated.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "890XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/XXXX, I placed an order from XXXX XXXX  using the XXXX XXXX  issued by Synchrony Bank in XX/XX/XXXX. The purchase was accepted, the order even showed the last 4 of the credit card number on the invoice. I even received my order just days later. I went to check on the balance of the card yesterday, XX/XX/XXXX, but the account was not listed on the XXXX portal. When I called them and asked what happened, the representative told me that the account was closed due to inactivity. But I have never received any notifications to that fact! It was very suspicious to me that they would close the account the very first time I made a purchase using this card. I have since read similar instances in various online forums where they closed accounts the moment a purchase was made. They claimed it was because of inactivity over one year from the date of issue, but there is another XXXX card that I have not used in over a year that is still open! They would not reinstate my account, and said that I would receive paper statements by which to pay my bill. Having elected paperless billing as I do with all accounts, this will force me into being charged {$2.00} every month for paper billing on an account that I can not access online. And they don't even know why it's not appearing in their online portal! This is shady business practice and they should be investigated."
+}
+
+Chunk:
+on xx / xx / xxxx, i placed an order from xxxx xxxx using the xxxx xxxx issued by synchrony bank in xx / xx / xxxx. the purchase was accepted, the order even showed the last 4 of the credit card number on the invoice. i even received my order just days later. i went to check on the balance of the card yesterday, xx / xx / xxxx, but the account was not listed on the xxxx portal. when i called them and asked what happened, the representative told me that the account was closed due to inactivity. but i have never received any notifications to that fact! it was very suspicious to me that they would close the account the very first time i made a purchase using this card. i have since read similar instances in various online forums where they closed accounts the moment a purchase was made. they claimed it was because of inactivity over one year from the date of issue, but there is another xxxx card that i have not used in over a year that is still open! they would not reinstate my account, and said that i would receive paper statements by which to pay my bill. having elected paperless billing as i do with all accounts, this will force me into being charged { $ 2. 00 } every month for paper billing on an account that i can not access online. and they don't even know why it's not appearing in their online portal! this is shady business practice and they should be investigated.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981777667999268
+}

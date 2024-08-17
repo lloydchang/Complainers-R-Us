@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9245795,
+  "complaint_id": "9245795",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a member at US Bank for 6 years for both my personal and business accounts. They randomly decided to discontinue the relationship and wont tell me why. I had several thousand dollars worth of credit card points and they are saying that they are just gone and I will not get anything for them. This seems like a gross example of a large institution taking advantage of a hard working member of society. I need those points to at least go towards paying of my remaining debt on the credit card. I understand that in the agreement with the bank they are not responsible for telling me why they closed my accounts but to rob me of all of my hard earned points is unamerican and criminal.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have been a member at US Bank for 6 years for both my personal and business accounts. They randomly decided to discontinue the relationship and wont tell me why. I had several thousand dollars worth of credit card points and they are saying that they are just gone and I will not get anything for them. This seems like a gross example of a large institution taking advantage of a hard working member of society. I need those points to at least go towards paying of my remaining debt on the credit card. I understand that in the agreement with the bank they are not responsible for telling me why they closed my accounts but to rob me of all of my hard earned points is unamerican and criminal."
+}
+
+Chunk:
+i have been a member at us bank for 6 years for both my personal and business accounts. they randomly decided to discontinue the relationship and wont tell me why. i had several thousand dollars worth of credit card points and they are saying that they are just gone and i will not get anything for them. this seems like a gross example of a large institution taking advantage of a hard working member of society. i need those points to at least go towards paying of my remaining debt on the credit card. i understand that in the agreement with the bank they are not responsible for telling me why they closed my accounts but to rob me of all of my hard earned points is unamerican and criminal.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996582269668579
+}

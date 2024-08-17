@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041595,
+  "complaint_id": "9041595",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a bill in the mail from Citibank XX/XX/year> which i never received a credit card or accessed the card. The mail was sent to wrong address. My correct address is XXXX XXXX XXXX mail was sent to XXXX XXXX XXXX. I called Citibank and received no help.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "731XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a bill in the mail from Citibank XX/XX/year> which i never received a credit card or accessed the card. The mail was sent to wrong address. My correct address is XXXX XXXX XXXX mail was sent to XXXX XXXX XXXX. I called Citibank and received no help."
+}
+
+Chunk:
+i received a bill in the mail from citibank xx / xx / year > which i never received a credit card or accessed the card. the mail was sent to wrong address. my correct address is xxxx xxxx xxxx mail was sent to xxxx xxxx xxxx. i called citibank and received no help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987049102783203
+}

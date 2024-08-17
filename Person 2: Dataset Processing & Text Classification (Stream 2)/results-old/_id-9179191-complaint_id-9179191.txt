@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9179191,
+  "complaint_id": "9179191",
+  "product": "Credit card",
+  "complaint_what_happened": "Created a dispute with the credit card company and sent them a lot of information in regards to my dispute a few times. They kept saying the didn't receive the information but then closed out my case. They finally admitted the received the information but they couldn't view what I sent them because they're system compresses pictures so they can't make them out that easily, even though the person I talked to could. Stated the case would be reopened but it never was.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29707",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Created a dispute with the credit card company and sent them a lot of information in regards to my dispute a few times. They kept saying the didn't receive the information but then closed out my case. They finally admitted the received the information but they couldn't view what I sent them because they're system compresses pictures so they can't make them out that easily, even though the person I talked to could. Stated the case would be reopened but it never was."
+}
+
+Chunk:
+created a dispute with the credit card company and sent them a lot of information in regards to my dispute a few times. they kept saying the didn't receive the information but then closed out my case. they finally admitted the received the information but they couldn't view what i sent them because they're system compresses pictures so they can't make them out that easily, even though the person i talked to could. stated the case would be reopened but it never was.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980756044387817
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9345858,
+  "complaint_id": "9345858",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I received an email from a company supposedly called XXXX XXXX confirming a flight that I supposedly booked. I receive quite a few phising and scam emails so I just ignored it and deleted it since I never booked a flight and never heard of this company. I kept receiving email updates from this company throughout the next couple of days and thought that was strange so I decided to investigate on XX/XX/2024. On XX/XX/XXXX, I noticed a transaction on my Bank of America credit card in the amount of {$1300.00} from what looked to be that same company 'XXXX '. I proceeded to call Bank of America to file a fraud claim, spoke with a representative, a received a temporary credit on my account while they conducted their investigation. The following week, I called to get an update on my claim and found out that the representative erroneously submitted my claim as a regular dispute, not a fraud claim. This was very frustrating and then the representative I spoke with submitted the correct fraud claim. My fraud claim was denied twice ( original & reconsideration ) and I was told that XXXX claimed that I flew the flight which is also impossible. This is now becoming an identity theft issue and I don't know whether XXXX is just saying this to win a dispute or they truly have evidence of this ( which they don't because I didn't know anything about this purchase to begin with ). On the email, it also looks like my last name is spelled incorrectly ( XXXX instead of XXXX ).",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55347",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/2024, I received an email from a company supposedly called XXXX XXXX confirming a flight that I supposedly booked. I receive quite a few phising and scam emails so I just ignored it and deleted it since I never booked a flight and never heard of this company. I kept receiving email updates from this company throughout the next couple of days and thought that was strange so I decided to investigate on XX/XX/2024. On XX/XX/XXXX, I noticed a transaction on my Bank of America credit card in the amount of {$1300.00} from what looked to be that same company 'XXXX '. I proceeded to call Bank of America to file a fraud claim, spoke with a representative, a received a temporary credit on my account while they conducted their investigation. The following week, I called to get an update on my claim and found out that the representative erroneously submitted my claim as a regular dispute, not a fraud claim. This was very frustrating and then the representative I spoke with submitted the correct fraud claim. My fraud claim was denied twice ( original & reconsideration ) and I was told that XXXX claimed that I flew the flight which is also impossible. This is now becoming an identity theft issue and I don't know whether XXXX is just saying this to win a dispute or they truly have evidence of this ( which they don't because I didn't know anything about this purchase to begin with ). On the email, it also looks like my last name is spelled incorrectly ( XXXX instead of XXXX )."
+}
+
+Chunk:
+on xx / xx / 2024, i received an email from a company supposedly called xxxx xxxx confirming a flight that i supposedly booked. i receive quite a few phising and scam emails so i just ignored it and deleted it since i never booked a flight and never heard of this company. i kept receiving email updates from this company throughout the next couple of days and thought that was strange so i decided to investigate on xx / xx / 2024. on xx / xx / xxxx, i noticed a transaction on my bank of america credit card in the amount of { $ 1300. 00 } from what looked to be that same company'xxxx '. i proceeded to call bank of america to file a fraud claim, spoke with a representative, a received a temporary credit on my account while they conducted their investigation. the following week, i called to get an update on my claim and found out that the representative erroneously submitted my claim as a regular dispute, not a fraud claim. this was very frustrating and then the representative i spoke with submitted the correct fraud claim. my fraud claim was denied twice ( original & reconsideration ) and i was told that xxxx claimed that i flew the flight which is also impossible. this is now becoming an identity theft issue and i don't know whether xxxx is just saying this to win a dispute or they truly have evidence of this ( which they don't because i didn't know anything about this purchase to begin with ). on the email, it also looks like my last name is spelled incorrectly ( xxxx instead of xxxx ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991908669471741
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9006247,
+  "complaint_id": "9006247",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, my credit card was charged XXXX ( {$50.00}, {$200.00}, {$200.00}, {$310.00} ) different times at XXXX different XXXX in the state of XXXX I live in the XXXX and have not been to a XXXX. I have reached out to XXXX Credit Card 5 times for information on the charges and to dispute them. Their words are they have no idea about the charges but they are on my statement and XXXX is wanting payment. I have been transferred multiple times and I believe that was done so I would stop calling the company. The phone number I used for XXXX ( service marks used by Celtic bank ) /Continental Finance Company XXXX credit card service company XXXX is XXXX.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "744XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, my credit card was charged XXXX ( {$50.00}, {$200.00}, {$200.00}, {$310.00} ) different times at XXXX different XXXX in the state of XXXX I live in the XXXX and have not been to a XXXX. I have reached out to XXXX Credit Card 5 times for information on the charges and to dispute them. Their words are they have no idea about the charges but they are on my statement and XXXX is wanting payment. I have been transferred multiple times and I believe that was done so I would stop calling the company. The phone number I used for XXXX ( service marks used by Celtic bank ) /Continental Finance Company XXXX credit card service company XXXX is XXXX."
+}
+
+Chunk:
+on xx / xx / year >, my credit card was charged xxxx ( { $ 50. 00 }, { $ 200. 00 }, { $ 200. 00 }, { $ 310. 00 } ) different times at xxxx different xxxx in the state of xxxx i live in the xxxx and have not been to a xxxx. i have reached out to xxxx credit card 5 times for information on the charges and to dispute them. their words are they have no idea about the charges but they are on my statement and xxxx is wanting payment. i have been transferred multiple times and i believe that was done so i would stop calling the company. the phone number i used for xxxx ( service marks used by celtic bank ) / continental finance company xxxx credit card service company xxxx is xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971259236335754
+}

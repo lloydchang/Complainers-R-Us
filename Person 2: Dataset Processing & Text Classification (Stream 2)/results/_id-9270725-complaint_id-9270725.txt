@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270725,
+  "complaint_id": "9270725",
+  "product": "Credit card",
+  "complaint_what_happened": "On Wednesday XX/XX/XXXX between XXXX pm, I went into A bank of America XXXX XXXX XXXX XXXX a problem I was having with my credit card due to financial hardship. \nI met with an advisor to ask about any programs that helped customers in a time of hardship to freeze my credit card account. The XXXX said yes. He said he was putting in my request. I asked if they would be adding finance charges. He said no. He said they had options for 6 months or a year. He said I would receive a call in XXXX days to work that out. The information he gave was very specific and I saw him input the request in my account. Unless he was literally pretending to input information on my account. \nIt's XX/XX/year>. My payment is due today and I have not heard from them. I called today I was put on hold and then transferred to the payment department. I told her that the call I was told would be coming had not. She said there was no such program. She didn't know why the XXXX had misled me but there was nothing she could do about it. \nI am trying to settle my problem with a company I have been doing business with responsibly and maintain a business relationship. I have been misled. \nSo it seems the only option Bank of America will take is to add to a customer 's hardship, rather than help them.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11201",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "On Wednesday XX/XX/XXXX between XXXX pm, I went into A bank of America XXXX XXXX XXXX XXXX a problem I was having with my credit card due to financial hardship. \nI met with an advisor to ask about any programs that helped customers in a time of hardship to freeze my credit card account. The XXXX said yes. He said he was putting in my request. I asked if they would be adding finance charges. He said no. He said they had options for 6 months or a year. He said I would receive a call in XXXX days to work that out. The information he gave was very specific and I saw him input the request in my account. Unless he was literally pretending to input information on my account. \nIt's XX/XX/year>. My payment is due today and I have not heard from them. I called today I was put on hold and then transferred to the payment department. I told her that the call I was told would be coming had not. She said there was no such program. She didn't know why the XXXX had misled me but there was nothing she could do about it. \nI am trying to settle my problem with a company I have been doing business with responsibly and maintain a business relationship. I have been misled. \nSo it seems the only option Bank of America will take is to add to a customer 's hardship, rather than help them."
+}
+
+Chunk:
+on wednesday xx / xx / xxxx between xxxx pm, i went into a bank of america xxxx xxxx xxxx xxxx a problem i was having with my credit card due to financial hardship. i met with an advisor to ask about any programs that helped customers in a time of hardship to freeze my credit card account. the xxxx said yes. he said he was putting in my request. i asked if they would be adding finance charges. he said no. he said they had options for 6 months or a year. he said i would receive a call in xxxx days to work that out. the information he gave was very specific and i saw him input the request in my account. unless he was literally pretending to input information on my account. it's xx / xx / year >. my payment is due today and i have not heard from them. i called today i was put on hold and then transferred to the payment department. i told her that the call i was told would be coming had not. she said there was no such program. she didn't know why the xxxx had misled me but there was nothing she could do about it. i am trying to settle my problem with a company i have been doing business with responsibly and maintain a business relationship. i have been misled. so it seems the only option bank of america will take is to add to a customer's hardship, rather than help them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991725087165833
+}

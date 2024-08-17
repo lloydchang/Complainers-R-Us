@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265570,
+  "complaint_id": "9265570",
+  "product": "Credit card",
+  "complaint_what_happened": "An order for fish tank anti-biotic was placed with XXXX on XX/XX/year> XXXX. Order confirmation was received from XXXX. This has been the ONLY COMMUNICATION from the merchant to date. \n\nXXXX. There was no further detail from them re preparation, shipment, tracking number, delivery notification NOTHING. \n\n4. On XX/XX/year>, I tried contacting the merchant but discovered their website XXXX  NO LONGER EXISTS. Thats when I called Citibank to dispute the charge. On that day, I specifically told your customer rep that the website is no longer reachable and I suspected XXXX to be a scam. I had requested the case be referred to the Citibank fraud team. \n\nApparently, my request had been ignored. I have never been contacted by the Charge dispute team ( by phone or email ) about the status of this disputed charge. Not having heard from Citibank re this case for so long, I finally called their customer service about this on XX/XX/year>. Thats when I was informed that the case had been concluded, that the merchant had claimed the product was shipped out to me and that I could look it up under Disputed Charges in Citibank online. \n\nQuestions : 1. Did the merchant show any actual proof of the shipment? 2. Was any t\nracking number provided to Citibank? If so, what is that USPS tracking number?\n\n3. Why is there no communication from Citibank with me during and after the case was concluded?\n\n4. Did Citibank ever verify that the merchants website is no longer reachable online?\n\nThis case should have been referred to the Citibank fraud team before any more customers get conned by this same merchant, maybe under a different name and website.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20850",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "An order for fish tank anti-biotic was placed with XXXX on XX/XX/year> XXXX. Order confirmation was received from XXXX. This has been the ONLY COMMUNICATION from the merchant to date. \n\nXXXX. There was no further detail from them re preparation, shipment, tracking number, delivery notification NOTHING. \n\n4. On XX/XX/year>, I tried contacting the merchant but discovered their website XXXX  NO LONGER EXISTS. Thats when I called Citibank to dispute the charge. On that day, I specifically told your customer rep that the website is no longer reachable and I suspected XXXX to be a scam. I had requested the case be referred to the Citibank fraud team. \n\nApparently, my request had been ignored. I have never been contacted by the Charge dispute team ( by phone or email ) about the status of this disputed charge. Not having heard from Citibank re this case for so long, I finally called their customer service about this on XX/XX/year>. Thats when I was informed that the case had been concluded, that the merchant had claimed the product was shipped out to me and that I could look it up under Disputed Charges in Citibank online. \n\nQuestions : 1. Did the merchant show any actual proof of the shipment? 2. Was any t\nracking number provided to Citibank? If so, what is that USPS tracking number?\n\n3. Why is there no communication from Citibank with me during and after the case was concluded?\n\n4. Did Citibank ever verify that the merchants website is no longer reachable online?\n\nThis case should have been referred to the Citibank fraud team before any more customers get conned by this same merchant, maybe under a different name and website."
+}
+
+Chunk:
+an order for fish tank anti - biotic was placed with xxxx on xx / xx / year > xxxx. order confirmation was received from xxxx. this has been the only communication from the merchant to date. xxxx. there was no further detail from them re preparation, shipment, tracking number, delivery notification nothing. 4. on xx / xx / year >, i tried contacting the merchant but discovered their website xxxx no longer exists. thats when i called citibank to dispute the charge. on that day, i specifically told your customer rep that the website is no longer reachable and i suspected xxxx to be a scam. i had requested the case be referred to the citibank fraud team. apparently, my request had been ignored. i have never been contacted by the charge dispute team ( by phone or email ) about the status of this disputed charge. not having heard from citibank re this case for so long, i finally called their customer service about this on xx / xx / year >. thats when i was informed that the case had been concluded, that the merchant had claimed the product was shipped out to me and that i could look it up under disputed charges in citibank online. questions : 1. did the merchant show any actual proof of the shipment? 2. was any t racking number provided to citibank? if so, what is that usps tracking number? 3. why is there no communication from citibank with me during and after the case was concluded? 4. did citibank ever verify that the merchants website is no longer reachable online? this case should have been referred to the citibank fraud team before any more customers get conned by this same merchant, maybe under a different name and website.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995201826095581
+}

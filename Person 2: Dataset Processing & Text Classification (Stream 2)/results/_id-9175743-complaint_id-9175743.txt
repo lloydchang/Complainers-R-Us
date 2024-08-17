@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9175743,
+  "complaint_id": "9175743",
+  "product": "Credit card",
+  "complaint_what_happened": "Original, still open Complaint ID : XXXX submitted on XX/XX/year> I have major privacy issues with Chase. First they utilize an address that was not mine and a phone number that was not mine, now they have changed my address without discussing with me that they were updating it. It is correct now, but they changed my address without my authorization, which customer service told me ( called XXXX minutes ago ) that We can not change your address and we are not allowed to change your address. And yet, my address was changed. \n\nWhen I first called them a month ago to have them fix the issue with using other peoples contact information for mine phone number and address they said they can make any address or phone number my primary if it has ever been associated with my SSN. Really?? Im sure there are regulations against this activity. I am still not able to login to the mobile app or update any of my information because it requires me to authenticate with the phone number which is not mine and has never been my personal phone number. \n\nI do not feel confident that my personal information is safe with this company and that they are utilizing the appropriate privacy guidelines.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33021",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Privacy issues",
+  "text": "Original, still open Complaint ID : XXXX submitted on XX/XX/year> I have major privacy issues with Chase. First they utilize an address that was not mine and a phone number that was not mine, now they have changed my address without discussing with me that they were updating it. It is correct now, but they changed my address without my authorization, which customer service told me ( called XXXX minutes ago ) that We can not change your address and we are not allowed to change your address. And yet, my address was changed. \n\nWhen I first called them a month ago to have them fix the issue with using other peoples contact information for mine phone number and address they said they can make any address or phone number my primary if it has ever been associated with my SSN. Really?? Im sure there are regulations against this activity. I am still not able to login to the mobile app or update any of my information because it requires me to authenticate with the phone number which is not mine and has never been my personal phone number. \n\nI do not feel confident that my personal information is safe with this company and that they are utilizing the appropriate privacy guidelines."
+}
+
+Chunk:
+original, still open complaint id : xxxx submitted on xx / xx / year > i have major privacy issues with chase. first they utilize an address that was not mine and a phone number that was not mine, now they have changed my address without discussing with me that they were updating it. it is correct now, but they changed my address without my authorization, which customer service told me ( called xxxx minutes ago ) that we can not change your address and we are not allowed to change your address. and yet, my address was changed. when i first called them a month ago to have them fix the issue with using other peoples contact information for mine phone number and address they said they can make any address or phone number my primary if it has ever been associated with my ssn. really?? im sure there are regulations against this activity. i am still not able to login to the mobile app or update any of my information because it requires me to authenticate with the phone number which is not mine and has never been my personal phone number. i do not feel confident that my personal information is safe with this company and that they are utilizing the appropriate privacy guidelines.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981018900871277
+}

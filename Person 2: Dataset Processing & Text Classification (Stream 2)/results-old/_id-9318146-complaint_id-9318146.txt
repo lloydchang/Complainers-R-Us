@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9318146,
+  "complaint_id": "9318146",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a XXXX XXXX XXXX XXXX through Wells Fargo. Recently i Worked with XXXX, this is the case number XXXX. The person who owns the checking account of the unauthorized charges affiliated to this case is stating XXXX never received the check that Wells Fargo had sent. The balance went back on to my balance so to protect myself i would like to get confirmation in writing that XXXX received a check from Wells Fargo.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "078XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have a XXXX XXXX XXXX XXXX through Wells Fargo. Recently i Worked with XXXX, this is the case number XXXX. The person who owns the checking account of the unauthorized charges affiliated to this case is stating XXXX never received the check that Wells Fargo had sent. The balance went back on to my balance so to protect myself i would like to get confirmation in writing that XXXX received a check from Wells Fargo."
+}
+
+Chunk:
+i have a xxxx xxxx xxxx xxxx through wells fargo. recently i worked with xxxx, this is the case number xxxx. the person who owns the checking account of the unauthorized charges affiliated to this case is stating xxxx never received the check that wells fargo had sent. the balance went back on to my balance so to protect myself i would like to get confirmation in writing that xxxx received a check from wells fargo.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999268114566803
+}

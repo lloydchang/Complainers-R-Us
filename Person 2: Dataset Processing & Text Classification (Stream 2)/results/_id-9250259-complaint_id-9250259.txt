@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9250259,
+  "complaint_id": "9250259",
+  "product": "Credit card",
+  "complaint_what_happened": "IN XX/XX/XXXX I VISITED XXXX XXXX OF XXXX IN XXXX FLORIDA. I PAID DIRECT OUT OF POCKET YET BORROWED {$3600.00} AS A DOWN PAYMENT. INTEREST FREE FOR XXXX YEARS. \nI CHECKED WITH MY BANK AND MY PAYMENTS FOR XXXX ARE {$1000.00}. FOR XXXX THE TOTAL AMOUT IS {$1200.00}. AND FOR XXXX IS {$340.00} THUS FAR. ALL XXXX  TOTAL {$2600.00} LEAVING balance of {$940.00}. \n\nALPHAEON COMENITY BANK IS UNDER BREAD FINANCIAL. WHAT THEYRE DOING IS CHARGING BACK FROM THE ORIGINAL {$3600.00} AND ARE EXPECTING {$1200.00} FROM LAST ( XXXX ) MONTH N INTEREST THAT COMES TO {$280.00} AND NOW ARE EXPECTIG ME TO PAY {$2500.00} FOR MONTH OF XXXX. ITS LIKE PAYING THE WHOLE AMOUNT XXXX. THE INTEREST FEES THEY'RE CHARGING ME ARE EXHORBITANT AND ABSURD. \n\nIN XXXX OF THIS YEAR MY MOTHER WENT TO THE HOSPITAL, I GOT SICK MY DAD GOT SICK AND LANDED IN THE HOSPITAL. SO, I MISSED THE DEADLINE TO PAY OFF THE BALANCE OF {$940.00}. \n\nTHIS BANKING INSTITUTIOIN WAS OFFEERED THROUGH THE XXXX XXXX OF XXXX. ALSO, I HAD CHARGES ADDED ON THE ACCOUNT ( XXXX XXXX {$250.00} & XXXX XXXX {$99.00} ) AND WAS TOLD I HAD AN EXTRA XXXX ( XXXX ) MONTHS TO PAY IT OFF. WELL, THAT DID NOT HAPPEN. I WAS ADVISED WRONG BY THE DENTAL PRACTICE. I ALSO PAID OUT OF POCKET EXPENSES BECAUSE MY DENTAL INSURANCE ( XXXX XXXX ) MADE EXCUSES AND DID NOT PROVIDE ME WITH A BENEFIT I WAS ENTITLED TO. \n\nTHIS BANKING INSTITUTION, BREAD FINANCIAL ARE CROOKS. THEY NEED TO BE INVESTIGATED, AND OR PROSECUTED AND FINED FOR THEIR BAD BUSINESS PRACTICES. FINALLY, ALL MONIES SHOULD BE RETURNED TO THE CONSUMER FOR OVERPAYMENS. \n. \n\n\n\n.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33069",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "IN XX/XX/XXXX I VISITED XXXX XXXX OF XXXX IN XXXX FLORIDA. I PAID DIRECT OUT OF POCKET YET BORROWED {$3600.00} AS A DOWN PAYMENT. INTEREST FREE FOR XXXX YEARS. \nI CHECKED WITH MY BANK AND MY PAYMENTS FOR XXXX ARE {$1000.00}. FOR XXXX THE TOTAL AMOUT IS {$1200.00}. AND FOR XXXX IS {$340.00} THUS FAR. ALL XXXX  TOTAL {$2600.00} LEAVING balance of {$940.00}. \n\nALPHAEON COMENITY BANK IS UNDER BREAD FINANCIAL. WHAT THEYRE DOING IS CHARGING BACK FROM THE ORIGINAL {$3600.00} AND ARE EXPECTING {$1200.00} FROM LAST ( XXXX ) MONTH N INTEREST THAT COMES TO {$280.00} AND NOW ARE EXPECTIG ME TO PAY {$2500.00} FOR MONTH OF XXXX. ITS LIKE PAYING THE WHOLE AMOUNT XXXX. THE INTEREST FEES THEY'RE CHARGING ME ARE EXHORBITANT AND ABSURD. \n\nIN XXXX OF THIS YEAR MY MOTHER WENT TO THE HOSPITAL, I GOT SICK MY DAD GOT SICK AND LANDED IN THE HOSPITAL. SO, I MISSED THE DEADLINE TO PAY OFF THE BALANCE OF {$940.00}. \n\nTHIS BANKING INSTITUTIOIN WAS OFFEERED THROUGH THE XXXX XXXX OF XXXX. ALSO, I HAD CHARGES ADDED ON THE ACCOUNT ( XXXX XXXX {$250.00} & XXXX XXXX {$99.00} ) AND WAS TOLD I HAD AN EXTRA XXXX ( XXXX ) MONTHS TO PAY IT OFF. WELL, THAT DID NOT HAPPEN. I WAS ADVISED WRONG BY THE DENTAL PRACTICE. I ALSO PAID OUT OF POCKET EXPENSES BECAUSE MY DENTAL INSURANCE ( XXXX XXXX ) MADE EXCUSES AND DID NOT PROVIDE ME WITH A BENEFIT I WAS ENTITLED TO. \n\nTHIS BANKING INSTITUTION, BREAD FINANCIAL ARE CROOKS. THEY NEED TO BE INVESTIGATED, AND OR PROSECUTED AND FINED FOR THEIR BAD BUSINESS PRACTICES. FINALLY, ALL MONIES SHOULD BE RETURNED TO THE CONSUMER FOR OVERPAYMENS. \n. \n\n\n\n."
+}
+
+Chunk:
+in xx / xx / xxxx i visited xxxx xxxx of xxxx in xxxx florida. i paid direct out of pocket yet borrowed { $ 3600. 00 } as a down payment. interest free for xxxx years. i checked with my bank and my payments for xxxx are { $ 1000. 00 }. for xxxx the total amout is { $ 1200. 00 }. and for xxxx is { $ 340. 00 } thus far. all xxxx total { $ 2600. 00 } leaving balance of { $ 940. 00 }. alphaeon comenity bank is under bread financial. what theyre doing is charging back from the original { $ 3600. 00 } and are expecting { $ 1200. 00 } from last ( xxxx ) month n interest that comes to { $ 280. 00 } and now are expectig me to pay { $ 2500. 00 } for month of xxxx. its like paying the whole amount xxxx. the interest fees they're charging me are exhorbitant and absurd. in xxxx of this year my mother went to the hospital, i got sick my dad got sick and landed in the hospital. so, i missed the deadline to pay off the balance of { $ 940. 00 }. this banking institutioin was offeered through the xxxx xxxx of xxxx. also, i had charges added on the account ( xxxx xxxx { $ 250. 00 } & xxxx xxxx { $ 99. 00 } ) and was told i had an extra xxxx ( xxxx ) months to pay it off. well, that did not happen. i was advised wrong by the dental practice. i also paid out of pocket expenses because my dental insurance ( xxxx xxxx ) made excuses and did not provide me with a benefit i was entitled to. this banking institution, bread financial are crooks. they need to be investigated, and or prosecuted and fined for their bad business practices. finally, all monies should be returned to the consumer for overpaymens...
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993427395820618
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9172653,
+  "complaint_id": "9172653",
+  "product": "Credit card",
+  "complaint_what_happened": "Approximately at the beginning of XX/XX/year>, I went into my online account with XXXX XXXX to schedule my payment for the end of the month. I noticed that my balance didn't match up with the balance online. I then noticed a charge of {$580.00} in interest. It was the promo I was under for a purchase made in XXXX and what I thought was on an equal payment plan. Apparently, it was not, just minimum payment and have balance paid off by the end of the promo. Since I was on paperless billing, which I never agreed to be on, I didn't receive any alert that the remaining balance was coming due and the date due. I have contacted the company numerous times to see about getting consideration of the mishap and have the deferred interest removed. Let me state that as soon as I found out the amount was due, I made the minimum payment for XXXX and the balance of what was due on the promo. I keep being told that an alert is on the bill, but information that is supposed to appear on the bill anyway and isn't anything special in alerting the customer. on the XXXX of XXXX I went online to pay my bill and as soon as I logged in an alert popped up on the screen giving me a XXXX reminder that I had a second promo coming due in XXXX. I immediately took a screenshot and contacted comenity bank about why I hadn't received the same alert XXXX  days before the XXXX promo was due. NO ONE had an answer for me ; after getting the charge I went back to paper bills, and a rep that day told me \" Maybe ai received it because I went back to paper bills '' but wouldn't that be backwards and very misleading since XXXX push for customer to go on paperless billing? Shouldn't I have received the alert because I was on paperless billing which makes more sense? I have tried to upload the screenshot, of approx. XXXX, as an attachment that can hold up to XXXX of attachments when sending/responding to a message. I have prided myself in having and maintainig good credit and paying all my bills on time. Only a fool would spend over $ XXXX, as I had on this account, on promos then not have them paid off on time. I have also included an attachment of the screenshot made on my phone that shows the XXXX alert for the XXXX  promo due in XXXX.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "49009",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Approximately at the beginning of XX/XX/year>, I went into my online account with XXXX XXXX to schedule my payment for the end of the month. I noticed that my balance didn't match up with the balance online. I then noticed a charge of {$580.00} in interest. It was the promo I was under for a purchase made in XXXX and what I thought was on an equal payment plan. Apparently, it was not, just minimum payment and have balance paid off by the end of the promo. Since I was on paperless billing, which I never agreed to be on, I didn't receive any alert that the remaining balance was coming due and the date due. I have contacted the company numerous times to see about getting consideration of the mishap and have the deferred interest removed. Let me state that as soon as I found out the amount was due, I made the minimum payment for XXXX and the balance of what was due on the promo. I keep being told that an alert is on the bill, but information that is supposed to appear on the bill anyway and isn't anything special in alerting the customer. on the XXXX of XXXX I went online to pay my bill and as soon as I logged in an alert popped up on the screen giving me a XXXX reminder that I had a second promo coming due in XXXX. I immediately took a screenshot and contacted comenity bank about why I hadn't received the same alert XXXX  days before the XXXX promo was due. NO ONE had an answer for me ; after getting the charge I went back to paper bills, and a rep that day told me \" Maybe ai received it because I went back to paper bills '' but wouldn't that be backwards and very misleading since XXXX push for customer to go on paperless billing? Shouldn't I have received the alert because I was on paperless billing which makes more sense? I have tried to upload the screenshot, of approx. XXXX, as an attachment that can hold up to XXXX of attachments when sending/responding to a message. I have prided myself in having and maintainig good credit and paying all my bills on time. Only a fool would spend over $ XXXX, as I had on this account, on promos then not have them paid off on time. I have also included an attachment of the screenshot made on my phone that shows the XXXX alert for the XXXX  promo due in XXXX."
+}
+
+Chunk:
+promo due in xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8646472692489624
+}

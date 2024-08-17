@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263691,
+  "complaint_id": "9263691",
+  "product": "Credit card",
+  "complaint_what_happened": "I was having trouble with XXXX overcharging my discover card so I froze the account. Discover allowed charges to come through anyway and charged me duplicate ( see attached ). I closed the account 3 months ago and they just recently charged me again. Discover sided with XXXX from the beginning. They were uncooperative and rude every time I called. This company is pro creditor and the consumer will never get a fair shake. You can see by the screenshot of the statement that the account was frozen and I was charged twice",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02072",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was having trouble with XXXX overcharging my discover card so I froze the account. Discover allowed charges to come through anyway and charged me duplicate ( see attached ). I closed the account 3 months ago and they just recently charged me again. Discover sided with XXXX from the beginning. They were uncooperative and rude every time I called. This company is pro creditor and the consumer will never get a fair shake. You can see by the screenshot of the statement that the account was frozen and I was charged twice"
+}
+
+Chunk:
+i was having trouble with xxxx overcharging my discover card so i froze the account. discover allowed charges to come through anyway and charged me duplicate ( see attached ). i closed the account 3 months ago and they just recently charged me again. discover sided with xxxx from the beginning. they were uncooperative and rude every time i called. this company is pro creditor and the consumer will never get a fair shake. you can see by the screenshot of the statement that the account was frozen and i was charged twice
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989890456199646
+}

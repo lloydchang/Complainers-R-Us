@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9258613,
+  "complaint_id": "9258613",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Capital One Credit Card in XXXX. The approved credit card included a monthly membership fee of {$3.00}. \n\nMy credit and income profile has changed significantly since XXXX, and I have tried repeatedlty to ask them to remove it. \n\nRecently, this year, I was offered a credit line increase. I accepted the increase and later called to revisit the membership fee. \n\nI was advised, after the representative reviewed my account, that they were unable to change my card type and remove the membership fee. \n\nCapital One advised that the only way to get rid of the fee is to close the account and reapply for a new credit card. This is a deceptive and predatory practice. Given how credit scores work, if I were to close an account i've held for 14 years, it will negatively impact my score and impact my ability to secure credit as needed. Plus, opening a new account will also impact my score. \n\nI've called Capital One about this at least 3 times, probably more, without success. \n\nI understand that I agreed to pay a membership fee, but this practice of forcing me to close the account to remove the fee is predatory and creates severe consequences for the consumer.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07110",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I opened a Capital One Credit Card in XXXX. The approved credit card included a monthly membership fee of {$3.00}. \n\nMy credit and income profile has changed significantly since XXXX, and I have tried repeatedlty to ask them to remove it. \n\nRecently, this year, I was offered a credit line increase. I accepted the increase and later called to revisit the membership fee. \n\nI was advised, after the representative reviewed my account, that they were unable to change my card type and remove the membership fee. \n\nCapital One advised that the only way to get rid of the fee is to close the account and reapply for a new credit card. This is a deceptive and predatory practice. Given how credit scores work, if I were to close an account i've held for 14 years, it will negatively impact my score and impact my ability to secure credit as needed. Plus, opening a new account will also impact my score. \n\nI've called Capital One about this at least 3 times, probably more, without success. \n\nI understand that I agreed to pay a membership fee, but this practice of forcing me to close the account to remove the fee is predatory and creates severe consequences for the consumer."
+}
+
+Chunk:
+i opened a capital one credit card in xxxx. the approved credit card included a monthly membership fee of { $ 3. 00 }. my credit and income profile has changed significantly since xxxx, and i have tried repeatedlty to ask them to remove it. recently, this year, i was offered a credit line increase. i accepted the increase and later called to revisit the membership fee. i was advised, after the representative reviewed my account, that they were unable to change my card type and remove the membership fee. capital one advised that the only way to get rid of the fee is to close the account and reapply for a new credit card. this is a deceptive and predatory practice. given how credit scores work, if i were to close an account i've held for 14 years, it will negatively impact my score and impact my ability to secure credit as needed. plus, opening a new account will also impact my score. i've called capital one about this at least 3 times, probably more, without success. i understand that i agreed to pay a membership fee, but this practice of forcing me to close the account to remove the fee is predatory and creates severe consequences for the consumer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988914132118225
+}

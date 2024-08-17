@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083602,
+  "complaint_id": "9083602",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone stole my credit information and proceeded to charge up my card to over the sum of XXXX XXXX And also used my account to set up pay it later is a monthly billing for products that you dont want to pay in total upfront. So she created several reoccurring charges on my account.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21207",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Someone stole my credit information and proceeded to charge up my card to over the sum of XXXX XXXX And also used my account to set up pay it later is a monthly billing for products that you dont want to pay in total upfront. So she created several reoccurring charges on my account."
+}
+
+Chunk:
+someone stole my credit information and proceeded to charge up my card to over the sum of xxxx xxxx and also used my account to set up pay it later is a monthly billing for products that you dont want to pay in total upfront. so she created several reoccurring charges on my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991344809532166
+}

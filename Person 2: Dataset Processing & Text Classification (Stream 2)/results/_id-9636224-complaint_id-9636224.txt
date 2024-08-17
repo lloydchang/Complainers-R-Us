@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9636224,
+  "complaint_id": "9636224",
+  "product": "Credit card",
+  "complaint_what_happened": "I have two credit cards with Bank of America. I recently had to use both for some major purchases. Today I logged on to set up Auto Pay so that I can pay the debt down. The company has removed the ability to set up a specific amount to be paid each month and only allow the option of Statement Balance or Minimum Due. I find this extremely unfair as I can not currently pay the Statement Balance amount but want to pay more than the Minimum Due. Because I can't schedule such payments any longer and now need to take time to log in each month to pay beyond the Minimum Due. Of course, if I forget or fail to do so for some other reason ( work, health, family, vacation, plenty of reasons this could happen ), Bank of America benefits by earning extra interest on the amount I hold on the credit card and do not pay down each month. This is not reasonable and just a way to juice consumers for more money when they are already making tidy profits on high interest rates. \n\nI called the company today ( XX/XX/2024 ) and the agent I spoke with confirmed that they did not offer any option for amounts other than Minimum Due or Statement BalancXXXX. I asked if they could set up a recurring payment for me and she said they could not. She took a complaint down and said the company was really good about reading them. I asked if I would hear back from anyone on the issue and she said, \" No ''.",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06320",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have two credit cards with Bank of America. I recently had to use both for some major purchases. Today I logged on to set up Auto Pay so that I can pay the debt down. The company has removed the ability to set up a specific amount to be paid each month and only allow the option of Statement Balance or Minimum Due. I find this extremely unfair as I can not currently pay the Statement Balance amount but want to pay more than the Minimum Due. Because I can't schedule such payments any longer and now need to take time to log in each month to pay beyond the Minimum Due. Of course, if I forget or fail to do so for some other reason ( work, health, family, vacation, plenty of reasons this could happen ), Bank of America benefits by earning extra interest on the amount I hold on the credit card and do not pay down each month. This is not reasonable and just a way to juice consumers for more money when they are already making tidy profits on high interest rates. \n\nI called the company today ( XX/XX/2024 ) and the agent I spoke with confirmed that they did not offer any option for amounts other than Minimum Due or Statement BalancXXXX. I asked if they could set up a recurring payment for me and she said they could not. She took a complaint down and said the company was really good about reading them. I asked if I would hear back from anyone on the issue and she said, \" No ''."
+}
+
+Chunk:
+i have two credit cards with bank of america. i recently had to use both for some major purchases. today i logged on to set up auto pay so that i can pay the debt down. the company has removed the ability to set up a specific amount to be paid each month and only allow the option of statement balance or minimum due. i find this extremely unfair as i can not currently pay the statement balance amount but want to pay more than the minimum due. because i can't schedule such payments any longer and now need to take time to log in each month to pay beyond the minimum due. of course, if i forget or fail to do so for some other reason ( work, health, family, vacation, plenty of reasons this could happen ), bank of america benefits by earning extra interest on the amount i hold on the credit card and do not pay down each month. this is not reasonable and just a way to juice consumers for more money when they are already making tidy profits on high interest rates. i called the company today ( xx / xx / 2024 ) and the agent i spoke with confirmed that they did not offer any option for amounts other than minimum due or statement balancxxxx. i asked if they could set up a recurring payment for me and she said they could not. she took a complaint down and said the company was really good about reading them. i asked if i would hear back from anyone on the issue and she said, " no''.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996341466903687
+}

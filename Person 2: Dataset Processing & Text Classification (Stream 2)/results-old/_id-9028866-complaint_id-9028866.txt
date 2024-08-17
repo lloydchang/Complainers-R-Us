@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9028866,
+  "complaint_id": "9028866",
+  "product": "Credit card",
+  "complaint_what_happened": "Navy federal closed my credit card account due to delinquent payment, I am XXXX XXXX XXXX  since XX/XX/XXXX, I am protected under scra. Navy federal stated they are only required to offer XXXX  % interest rate. Which isnt true.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30349",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Company closed your account",
+  "text": "Navy federal closed my credit card account due to delinquent payment, I am XXXX XXXX XXXX  since XX/XX/XXXX, I am protected under scra. Navy federal stated they are only required to offer XXXX  % interest rate. Which isnt true."
+}
+
+Chunk:
+navy federal closed my credit card account due to delinquent payment, i am xxxx xxxx xxxx since xx / xx / xxxx, i am protected under scra. navy federal stated they are only required to offer xxxx % interest rate. which isnt true.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969424605369568
+}

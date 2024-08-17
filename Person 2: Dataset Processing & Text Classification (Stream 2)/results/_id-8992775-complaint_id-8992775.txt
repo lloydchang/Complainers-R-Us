@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8992775,
+  "complaint_id": "8992775",
+  "product": "Credit card",
+  "complaint_what_happened": "I began receiving emails from Chime saying my account was established and my debit card was on the way. All of the information was under my name and the card was sent to my address and there was no fraudulent behavior. The issue is I never signed up for the card and nothing seemed to be fraudulent. When I called chime they immediately closed the account. XXXX suspicious that chime opened the account without my permission and had access to my information through a XXXX  party.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "028XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "RI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I began receiving emails from Chime saying my account was established and my debit card was on the way. All of the information was under my name and the card was sent to my address and there was no fraudulent behavior. The issue is I never signed up for the card and nothing seemed to be fraudulent. When I called chime they immediately closed the account. XXXX suspicious that chime opened the account without my permission and had access to my information through a XXXX  party."
+}
+
+Chunk:
+i began receiving emails from chime saying my account was established and my debit card was on the way. all of the information was under my name and the card was sent to my address and there was no fraudulent behavior. the issue is i never signed up for the card and nothing seemed to be fraudulent. when i called chime they immediately closed the account. xxxx suspicious that chime opened the account without my permission and had access to my information through a xxxx party.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971550703048706
+}

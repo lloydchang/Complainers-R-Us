@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9366993,
+  "complaint_id": "9366993",
+  "product": "Credit card",
+  "complaint_what_happened": "Due to XXXX misconduct, even though I was totally quiet, I was accused of not being calm merely because I asked for a supervisor. I was told that because the representative was from XXXX too I just needed to be quiet and I did not have a right to speak to a supervisor. I was then hung up on as if I was low XXXX XXXX who had no right to even be able to ask to speak to a supervisor. Ive never felt so dehumanized until Citi Bank dabbled into discriminatory misconduct.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28208",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Due to XXXX misconduct, even though I was totally quiet, I was accused of not being calm merely because I asked for a supervisor. I was told that because the representative was from XXXX too I just needed to be quiet and I did not have a right to speak to a supervisor. I was then hung up on as if I was low XXXX XXXX who had no right to even be able to ask to speak to a supervisor. Ive never felt so dehumanized until Citi Bank dabbled into discriminatory misconduct."
+}
+
+Chunk:
+due to xxxx misconduct, even though i was totally quiet, i was accused of not being calm merely because i asked for a supervisor. i was told that because the representative was from xxxx too i just needed to be quiet and i did not have a right to speak to a supervisor. i was then hung up on as if i was low xxxx xxxx who had no right to even be able to ask to speak to a supervisor. ive never felt so dehumanized until citi bank dabbled into discriminatory misconduct.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996306896209717
+}

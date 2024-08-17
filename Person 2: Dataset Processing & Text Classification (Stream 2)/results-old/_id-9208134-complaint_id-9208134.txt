@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208134,
+  "complaint_id": "9208134",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased airline tickets but I never received a confirmation from XXXX XXXX. When I contacted XXXX they had no record of my purchase when I called. Then my credit card was charged for the purchase I contacted XXXX again to ask them for the ticket reservation information which they failed to provide. That's when I contacted my credit card company which said they would contact XXXX to investigate. A month later my credit card company sent me a letter stating that the issue was resolved and they were issuing a credit. Thinking that the issue was resolved I purchased new airline tickets from XXXX XXXX. Two months later my Citibank reversed their decision and charged me again for the airline tickets. They told me to contact the merchant to resolve the issue. XXXX canceled my airline tickets because I requested a refund from the credit card company. XXXX tells me to get my money back from the credit card company and the credit card company tells me to get my money back from XXXX. I am out {$950.00} dollars plus interest and no airline tickets as well. I have provided 26 pages of documents to Citibank yet they refuse to properly investigate my claim. XX/XX/XXXXis the worst airline ever and Citibank Shop Your Way Card ( Sears Credit Card ) is very irresponsible in not doing a proper investigation.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "925XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased airline tickets but I never received a confirmation from XXXX XXXX. When I contacted XXXX they had no record of my purchase when I called. Then my credit card was charged for the purchase I contacted XXXX again to ask them for the ticket reservation information which they failed to provide. That's when I contacted my credit card company which said they would contact XXXX to investigate. A month later my credit card company sent me a letter stating that the issue was resolved and they were issuing a credit. Thinking that the issue was resolved I purchased new airline tickets from XXXX XXXX. Two months later my Citibank reversed their decision and charged me again for the airline tickets. They told me to contact the merchant to resolve the issue. XXXX canceled my airline tickets because I requested a refund from the credit card company. XXXX tells me to get my money back from the credit card company and the credit card company tells me to get my money back from XXXX. I am out {$950.00} dollars plus interest and no airline tickets as well. I have provided 26 pages of documents to Citibank yet they refuse to properly investigate my claim. XX/XX/XXXXis the worst airline ever and Citibank Shop Your Way Card ( Sears Credit Card ) is very irresponsible in not doing a proper investigation."
+}
+
+Chunk:
+i purchased airline tickets but i never received a confirmation from xxxx xxxx. when i contacted xxxx they had no record of my purchase when i called. then my credit card was charged for the purchase i contacted xxxx again to ask them for the ticket reservation information which they failed to provide. that's when i contacted my credit card company which said they would contact xxxx to investigate. a month later my credit card company sent me a letter stating that the issue was resolved and they were issuing a credit. thinking that the issue was resolved i purchased new airline tickets from xxxx xxxx. two months later my citibank reversed their decision and charged me again for the airline tickets. they told me to contact the merchant to resolve the issue. xxxx canceled my airline tickets because i requested a refund from the credit card company. xxxx tells me to get my money back from the credit card company and the credit card company tells me to get my money back from xxxx. i am out { $ 950. 00 } dollars plus interest and no airline tickets as well. i have provided 26 pages of documents to citibank yet they refuse to properly investigate my claim. xx / xx / xxxxis the worst airline ever and citibank shop your way card ( sears credit card ) is very irresponsible in not doing a proper investigation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996987581253052
+}

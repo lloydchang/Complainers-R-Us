@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045641,
+  "complaint_id": "9045641",
+  "product": "Credit card",
+  "complaint_what_happened": "My Coinbase account was compromised and converted into USD and withdrawn from my Coinbase account to two fradulently opened credit card accounts in my name. Several buybacks were attempted through the account. XXXX response was that the perpetrator stated that they were you and checked the box when they filled out the form. \n\nXXXX opened these accounts despite a credit freeze on all 3 accounts.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "161XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Coinbase, Inc.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with customer service",
+  "text": "My Coinbase account was compromised and converted into USD and withdrawn from my Coinbase account to two fradulently opened credit card accounts in my name. Several buybacks were attempted through the account. XXXX response was that the perpetrator stated that they were you and checked the box when they filled out the form. \n\nXXXX opened these accounts despite a credit freeze on all 3 accounts."
+}
+
+Chunk:
+my coinbase account was compromised and converted into usd and withdrawn from my coinbase account to two fradulently opened credit card accounts in my name. several buybacks were attempted through the account. xxxx response was that the perpetrator stated that they were you and checked the box when they filled out the form. xxxx opened these accounts despite a credit freeze on all 3 accounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974038004875183
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9135772,
+  "complaint_id": "9135772",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX, a merchant charged my Chase Freedom XXXX XXXX XXXX for {$660.00}. This charge was posted on my XXXX statement payable in XXXX. In XX/XX/XXXX ( within 90 days of the statement ), I disputed the charge as being invalid in writing using Chase 's messaging system. Chase never responded to my inquiry. \n\nBetween XX/XX/XXXX and XX/XX/XXXX, I sent multiple follow-up requests. In XXXX XXXX, Chase responded that because the charge was outside of the timeframe ( i.e., the charge was posted on my XXXX statement and it was XXXX ), they will not dispute it. \n\nIn XX/XX/XXXX, I contacted the Chase XXXX XXXX who confirmed that they received my message in XX/XX/XXXX and that they never responded to it. Chase XXXX # XXXX",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10550",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XX/XX/XXXX, a merchant charged my Chase Freedom XXXX XXXX XXXX for {$660.00}. This charge was posted on my XXXX statement payable in XXXX. In XX/XX/XXXX ( within 90 days of the statement ), I disputed the charge as being invalid in writing using Chase 's messaging system. Chase never responded to my inquiry. \n\nBetween XX/XX/XXXX and XX/XX/XXXX, I sent multiple follow-up requests. In XXXX XXXX, Chase responded that because the charge was outside of the timeframe ( i.e., the charge was posted on my XXXX statement and it was XXXX ), they will not dispute it. \n\nIn XX/XX/XXXX, I contacted the Chase XXXX XXXX who confirmed that they received my message in XX/XX/XXXX and that they never responded to it. Chase XXXX # XXXX"
+}
+
+Chunk:
+in xx / xx / xxxx, a merchant charged my chase freedom xxxx xxxx xxxx for { $ 660. 00 }. this charge was posted on my xxxx statement payable in xxxx. in xx / xx / xxxx ( within 90 days of the statement ), i disputed the charge as being invalid in writing using chase's messaging system. chase never responded to my inquiry. between xx / xx / xxxx and xx / xx / xxxx, i sent multiple follow - up requests. in xxxx xxxx, chase responded that because the charge was outside of the timeframe ( i. e., the charge was posted on my xxxx statement and it was xxxx ), they will not dispute it. in xx / xx / xxxx, i contacted the chase xxxx xxxx who confirmed that they received my message in xx / xx / xxxx and that they never responded to it. chase xxxx # xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989487528800964
+}

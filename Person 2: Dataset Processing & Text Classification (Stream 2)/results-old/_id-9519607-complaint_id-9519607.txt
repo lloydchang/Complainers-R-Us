@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9519607,
+  "complaint_id": "9519607",
+  "product": "Credit card",
+  "complaint_what_happened": "The credit card that payment processor venmo issues will allow their new client to run up the full amount of the credit card, but if a client tries to pay that balance in full before 6 months they withhold the payment for 15 days. they took the money out of my bank account on XX/XX/XXXX and will not be updating my available credit until XX/XX/XXXX. I dont understand how a credit card company is able to penalize their clients for wanting to pay off the balance in full to avoid interest. the name on my credit card is an exact match to the name & ssn on my bank account. so essentially if i use their card to capacity every month for the first 6 month ( because it has a cash back feature ) & pay it in full they can hold my money for 15 days. sounds highly unethical if not illegal.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02919",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "RI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "The credit card that payment processor venmo issues will allow their new client to run up the full amount of the credit card, but if a client tries to pay that balance in full before 6 months they withhold the payment for 15 days. they took the money out of my bank account on XX/XX/XXXX and will not be updating my available credit until XX/XX/XXXX. I dont understand how a credit card company is able to penalize their clients for wanting to pay off the balance in full to avoid interest. the name on my credit card is an exact match to the name & ssn on my bank account. so essentially if i use their card to capacity every month for the first 6 month ( because it has a cash back feature ) & pay it in full they can hold my money for 15 days. sounds highly unethical if not illegal."
+}
+
+Chunk:
+the credit card that payment processor venmo issues will allow their new client to run up the full amount of the credit card, but if a client tries to pay that balance in full before 6 months they withhold the payment for 15 days. they took the money out of my bank account on xx / xx / xxxx and will not be updating my available credit until xx / xx / xxxx. i dont understand how a credit card company is able to penalize their clients for wanting to pay off the balance in full to avoid interest. the name on my credit card is an exact match to the name & ssn on my bank account. so essentially if i use their card to capacity every month for the first 6 month ( because it has a cash back feature ) & pay it in full they can hold my money for 15 days. sounds highly unethical if not illegal.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994764924049377
+}

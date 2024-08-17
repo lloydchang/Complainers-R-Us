@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9127587,
+  "complaint_id": "9127587",
+  "product": "Credit card",
+  "complaint_what_happened": "I did not authorize these companies to check my credit. Therefore, the statement provided above should be in accordance.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91915",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I did not authorize these companies to check my credit. Therefore, the statement provided above should be in accordance."
+}
+
+Chunk:
+i did not authorize these companies to check my credit. therefore, the statement provided above should be in accordance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9939221143722534
+}

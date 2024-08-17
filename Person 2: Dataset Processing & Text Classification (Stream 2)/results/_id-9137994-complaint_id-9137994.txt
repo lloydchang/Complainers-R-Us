@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137994,
+  "complaint_id": "9137994",
+  "product": "Credit card",
+  "complaint_what_happened": "I started receiving a letter from Portfolio Recovery Associates , LLC telling me I owned {$18000.00} for purchases done in the store XXXX. I do not recognize the number of the account XXXX. The bother line is who used the credit card put my name and address and I explained to Portfolio Recovery Associates , LLC I don't know anything about this account and asked them to delete my name and address from there. Since 4 year ago, someone stolen my identity and I am still dealing with this. I just want to open a report to searching for help in this critical situation. Thanks",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "01841",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PORTFOLIO RECOVERY ASSOCIATES INC",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I started receiving a letter from Portfolio Recovery Associates , LLC telling me I owned {$18000.00} for purchases done in the store XXXX. I do not recognize the number of the account XXXX. The bother line is who used the credit card put my name and address and I explained to Portfolio Recovery Associates , LLC I don't know anything about this account and asked them to delete my name and address from there. Since 4 year ago, someone stolen my identity and I am still dealing with this. I just want to open a report to searching for help in this critical situation. Thanks"
+}
+
+Chunk:
+i started receiving a letter from portfolio recovery associates, llc telling me i owned { $ 18000. 00 } for purchases done in the store xxxx. i do not recognize the number of the account xxxx. the bother line is who used the credit card put my name and address and i explained to portfolio recovery associates, llc i don't know anything about this account and asked them to delete my name and address from there. since 4 year ago, someone stolen my identity and i am still dealing with this. i just want to open a report to searching for help in this critical situation. thanks
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998629093170166
+}

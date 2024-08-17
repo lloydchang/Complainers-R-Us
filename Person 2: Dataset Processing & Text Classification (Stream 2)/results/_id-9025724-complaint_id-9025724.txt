@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025724,
+  "complaint_id": "9025724",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a credit card at XXXX 's ( Comenity ). I closed the card in less that a month on XXXX because I didn't receive a bill, and when I did it had late fees on it. ( XXXX scam ). I paid the bill in full on XXXX ( without disputing the late fee ) and I closed my account in the same phone call. there was no mention of any other charges, future charges, and I was told my account was paid in full and closed. I had no reason to think any more about this card/account. I have now received a new bill from XXXX ( Comenity ) that states I have a XXXX balance and I owe {$3.00} in a minimum interest charge. I called and asked how do I get a {$3.00} charge on a closed account? The lady said \" ... That is an interest charge. '' She went on to say I have to pay a bill 2 months in a row before there are no more charges. What? on a XXXX balance!!!? I asked her where I could ind that in writing and she could not tell me where it is written. So, After I closed my account, and After it was completely paid in full, they have charged me {$3.00}. ( XXXX scam ) They appear to be scamming me for a late fee, and now an interest fee on a XXXX balance. Please assist. Thank you in advance.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "025XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "I opened a credit card at XXXX 's ( Comenity ). I closed the card in less that a month on XXXX because I didn't receive a bill, and when I did it had late fees on it. ( XXXX scam ). I paid the bill in full on XXXX ( without disputing the late fee ) and I closed my account in the same phone call. there was no mention of any other charges, future charges, and I was told my account was paid in full and closed. I had no reason to think any more about this card/account. I have now received a new bill from XXXX ( Comenity ) that states I have a XXXX balance and I owe {$3.00} in a minimum interest charge. I called and asked how do I get a {$3.00} charge on a closed account? The lady said \" ... That is an interest charge. '' She went on to say I have to pay a bill 2 months in a row before there are no more charges. What? on a XXXX balance!!!? I asked her where I could ind that in writing and she could not tell me where it is written. So, After I closed my account, and After it was completely paid in full, they have charged me {$3.00}. ( XXXX scam ) They appear to be scamming me for a late fee, and now an interest fee on a XXXX balance. Please assist. Thank you in advance."
+}
+
+Chunk:
+i opened a credit card at xxxx's ( comenity ). i closed the card in less that a month on xxxx because i didn't receive a bill, and when i did it had late fees on it. ( xxxx scam ). i paid the bill in full on xxxx ( without disputing the late fee ) and i closed my account in the same phone call. there was no mention of any other charges, future charges, and i was told my account was paid in full and closed. i had no reason to think any more about this card / account. i have now received a new bill from xxxx ( comenity ) that states i have a xxxx balance and i owe { $ 3. 00 } in a minimum interest charge. i called and asked how do i get a { $ 3. 00 } charge on a closed account? the lady said "... that is an interest charge.'' she went on to say i have to pay a bill 2 months in a row before there are no more charges. what? on a xxxx balance!!!? i asked her where i could ind that in writing and she could not tell me where it is written. so, after i closed my account, and after it was completely paid in full, they have charged me { $ 3. 00 }. ( xxxx scam ) they appear to be scamming me for a late fee, and now an interest fee on a xxxx balance. please assist. thank you in advance.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988744854927063
+}

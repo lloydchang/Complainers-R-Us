@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9390170,
+  "complaint_id": "9390170",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I was charged {$92.00} for the \" XXXX XXXX XXXX Star Legend Clipper with Ultimate Wide Range Fading for Professional Barbers and Stylists. '' The item arrived damaged and defective. I contacted XXXX on XX/XX/year>, and was instructed to keep the product. I was also emailed that I would be refunded {$87.00} for the product plus {$4.00} in taxes, totaling {$92.00}. However, I did not receive the promised refund. \n\nI filed a dispute through WellsFargo.com on XX/XX/year> and provided a copy of my email confirmation from XXXX indicating that I would be refunded a total amount of {$92.00}. I answered every question emailed to me by Wells Fargo XXXX, but my dispute claim was denied and closed with no explanation. \n\nI have emailed Wells Fargo several times at the provided address ( XXXX ) but have not heard back from anyone. I also called Wells Fargo Disputes at XXXX multiple times and was connected with agents in the XXXX. I attempted to explain my situation to them, but due to language barriers, they often did not understand, and I had to re-explain the issue multiple times. When I realized there was a language barrier, I asked where I was calling, and they confirmed it was the XXXX. I then politely requested to speak with a XXXX agent but was met with pushback. They informed me that their protocol was to transfer me to a XXXX, and they refused to transfer me to a XXXX representative. \n\nThe last time I attempted to resolve this situation with Wells Fargo was on XX/XX/year> at XXXX A.M. MST, and I encountered the same issue with a representative in the XXXX. I believe this should be an easy dispute to resolve. There was XXXX charge on XX/XX/year> for {$92.00}, and I have an email confirmation from XXXX stating they would credit me back {$92.00}. However, I did not receive the refund. \n\nThis is not a complicated dispute, but the hurdles of speaking with offshore representatives in a different country who do not understand the situation are creating significant barriers. I have done my due diligence by emailing several times and attempting to explain the situation to representatives in the XXXX, but I am getting nowhere.",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85234",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, I was charged {$92.00} for the \" XXXX XXXX XXXX Star Legend Clipper with Ultimate Wide Range Fading for Professional Barbers and Stylists. '' The item arrived damaged and defective. I contacted XXXX on XX/XX/year>, and was instructed to keep the product. I was also emailed that I would be refunded {$87.00} for the product plus {$4.00} in taxes, totaling {$92.00}. However, I did not receive the promised refund. \n\nI filed a dispute through WellsFargo.com on XX/XX/year> and provided a copy of my email confirmation from XXXX indicating that I would be refunded a total amount of {$92.00}. I answered every question emailed to me by Wells Fargo XXXX, but my dispute claim was denied and closed with no explanation. \n\nI have emailed Wells Fargo several times at the provided address ( XXXX ) but have not heard back from anyone. I also called Wells Fargo Disputes at XXXX multiple times and was connected with agents in the XXXX. I attempted to explain my situation to them, but due to language barriers, they often did not understand, and I had to re-explain the issue multiple times. When I realized there was a language barrier, I asked where I was calling, and they confirmed it was the XXXX. I then politely requested to speak with a XXXX agent but was met with pushback. They informed me that their protocol was to transfer me to a XXXX, and they refused to transfer me to a XXXX representative. \n\nThe last time I attempted to resolve this situation with Wells Fargo was on XX/XX/year> at XXXX A.M. MST, and I encountered the same issue with a representative in the XXXX. I believe this should be an easy dispute to resolve. There was XXXX charge on XX/XX/year> for {$92.00}, and I have an email confirmation from XXXX stating they would credit me back {$92.00}. However, I did not receive the refund. \n\nThis is not a complicated dispute, but the hurdles of speaking with offshore representatives in a different country who do not understand the situation are creating significant barriers. I have done my due diligence by emailing several times and attempting to explain the situation to representatives in the XXXX, but I am getting nowhere."
+}
+
+Chunk:
+nowhere.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997714161872864
+}

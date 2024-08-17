@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9196195,
+  "complaint_id": "9196195",
+  "product": "Credit card",
+  "complaint_what_happened": "I submitted a complaint due to US Bank closing my account for excessive disputes. Despite being told when I submitted the disputes that this wasn't a possibility, XXXX separate agents told me that was the reason, and I was mailed a letter yesterday. The second, a supervisor, read directly from the letter. This was a recorded phone call. I asked her why they would make this decision over a month after I submitted the disputes and was told that my account being negatively affected because of it wasn't an option. I have submitted no further complaints since then. The only answer she could come up with was she wouldn't have expected it. I requested they fax the letter to me, as they have previously agreed to do with all correspondence due to technical difficulties with their online portal and my routinely not receiving letters they claim to have sent. I also sent a fax with the same request. This all occurred the morning of XX/XX/year>. While they have failed to live up to this commitment, I did received a fax back, with a letter dated XX/XX/year>, that does not include excessive disputes as a reason. As stated in a previous complaint, they have removed my access to account details. I believe the entire purpose of this is so they can settle disputes without me having any ability to correct the numerous errors they make in real time. If denying me access to proper notifications isn't effective, they will deny my access to my entire account. I have had Credit Cards closed in the past. In each case, my online account continued to work. In this case, I can login, but not view transactions, statements, or any other account details. They apparently just plan to steal my remaining balance and are using a fraudulent account closure, done for fraudulent and fictitious changing reasons, as cover to do so.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "490XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I submitted a complaint due to US Bank closing my account for excessive disputes. Despite being told when I submitted the disputes that this wasn't a possibility, XXXX separate agents told me that was the reason, and I was mailed a letter yesterday. The second, a supervisor, read directly from the letter. This was a recorded phone call. I asked her why they would make this decision over a month after I submitted the disputes and was told that my account being negatively affected because of it wasn't an option. I have submitted no further complaints since then. The only answer she could come up with was she wouldn't have expected it. I requested they fax the letter to me, as they have previously agreed to do with all correspondence due to technical difficulties with their online portal and my routinely not receiving letters they claim to have sent. I also sent a fax with the same request. This all occurred the morning of XX/XX/year>. While they have failed to live up to this commitment, I did received a fax back, with a letter dated XX/XX/year>, that does not include excessive disputes as a reason. As stated in a previous complaint, they have removed my access to account details. I believe the entire purpose of this is so they can settle disputes without me having any ability to correct the numerous errors they make in real time. If denying me access to proper notifications isn't effective, they will deny my access to my entire account. I have had Credit Cards closed in the past. In each case, my online account continued to work. In this case, I can login, but not view transactions, statements, or any other account details. They apparently just plan to steal my remaining balance and are using a fraudulent account closure, done for fraudulent and fictitious changing reasons, as cover to do so."
+}
+
+Chunk:
+i submitted a complaint due to us bank closing my account for excessive disputes. despite being told when i submitted the disputes that this wasn't a possibility, xxxx separate agents told me that was the reason, and i was mailed a letter yesterday. the second, a supervisor, read directly from the letter. this was a recorded phone call. i asked her why they would make this decision over a month after i submitted the disputes and was told that my account being negatively affected because of it wasn't an option. i have submitted no further complaints since then. the only answer she could come up with was she wouldn't have expected it. i requested they fax the letter to me, as they have previously agreed to do with all correspondence due to technical difficulties with their online portal and my routinely not receiving letters they claim to have sent. i also sent a fax with the same request. this all occurred the morning of xx / xx / year >. while they have failed to live up to this commitment, i did received a fax back, with a letter dated xx / xx / year >, that does not include excessive disputes as a reason. as stated in a previous complaint, they have removed my access to account details. i believe the entire purpose of this is so they can settle disputes without me having any ability to correct the numerous errors they make in real time. if denying me access to proper notifications isn't effective, they will deny my access to my entire account. i have had credit cards closed in the past. in each case, my online account continued to work. in this case, i can login, but not view transactions, statements, or any other account details. they apparently just plan to steal my remaining balance and are using a fraudulent account closure, done for fraudulent and fictitious changing reasons, as cover to do so.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992609620094299
+}

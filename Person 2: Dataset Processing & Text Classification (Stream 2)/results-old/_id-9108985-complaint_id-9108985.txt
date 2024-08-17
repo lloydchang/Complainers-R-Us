@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9108985,
+  "complaint_id": "9108985",
+  "product": "Credit card",
+  "complaint_what_happened": "For two weeks now, I have been unable to access my account information on Chase 's partner environment ( Amazon ). \n\nI attempted to reach out to both Chase and Amazon. Neither side understands the problem nor is willing to solve this issue. Chase customer service response to this problem misses the key problem. I will reiterate the problem statement here. \n\nThe problem statement is \" We're unable to verify your account with Chase right now. Please try again. If issues persist, contact Chase for assistance. '' I have been encountering this issue every day for two weeks.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "085XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "For two weeks now, I have been unable to access my account information on Chase 's partner environment ( Amazon ). \n\nI attempted to reach out to both Chase and Amazon. Neither side understands the problem nor is willing to solve this issue. Chase customer service response to this problem misses the key problem. I will reiterate the problem statement here. \n\nThe problem statement is \" We're unable to verify your account with Chase right now. Please try again. If issues persist, contact Chase for assistance. '' I have been encountering this issue every day for two weeks."
+}
+
+Chunk:
+for two weeks now, i have been unable to access my account information on chase's partner environment ( amazon ). i attempted to reach out to both chase and amazon. neither side understands the problem nor is willing to solve this issue. chase customer service response to this problem misses the key problem. i will reiterate the problem statement here. the problem statement is " we're unable to verify your account with chase right now. please try again. if issues persist, contact chase for assistance.'' i have been encountering this issue every day for two weeks.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996492862701416
+}

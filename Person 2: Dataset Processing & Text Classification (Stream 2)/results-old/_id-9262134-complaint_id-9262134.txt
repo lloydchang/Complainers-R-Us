@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262134,
+  "complaint_id": "9262134",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I applied for American Express Gold Delta card while purchasing airline tickets with Delta. The offer was {$400.00} AMEX statement credit. Only {$200.00} statement credit was issued. I saved the snapshot of the page showing that I will be getting a {$400.00} statement credit. \nOn XX/XX/year> I contacted American Express and they opened the case to investigate. I stated that I have a screenshot showing that I am suppose to get a {$400.00} statement credit and offered to send it to them. They stated that they can not take it while opening the case and that someone will reach out to me in a few days to get it. That did not happened. \nOn XX/XX/year> I called Amex again and talked to XXXX XXXX ( ID : XXXX ) : he said that Amex conducted a review and determined that I was only supposed to get {$200.00}. I complained that there was no communication, no one requested my evidence, etc. He assured me that he will reopen the case and promised to indicated in his notes that i requested to be contacted and would like to present my evidence. He also said that estimated date of resolution is XX/XX/year> By XX/XX/year> there was no communication from Amex. I called again. Talked to XXXX ( ID XXXX ). He claimed that the inquiry was closed \" a few days ago '' and that they internally confirmed that I was only owed {$200.00} statement credit. Again, no one contacted me about my evidence and they didn't even bother to notify me of their decision. \nAll they have been doing is just brushing off my concerns, not providing any evidence of their own and refusing to even look at my evidence. This all looks like plain false advertising and bait switch.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "12065",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year> I applied for American Express Gold Delta card while purchasing airline tickets with Delta. The offer was {$400.00} AMEX statement credit. Only {$200.00} statement credit was issued. I saved the snapshot of the page showing that I will be getting a {$400.00} statement credit. \nOn XX/XX/year> I contacted American Express and they opened the case to investigate. I stated that I have a screenshot showing that I am suppose to get a {$400.00} statement credit and offered to send it to them. They stated that they can not take it while opening the case and that someone will reach out to me in a few days to get it. That did not happened. \nOn XX/XX/year> I called Amex again and talked to XXXX XXXX ( ID : XXXX ) : he said that Amex conducted a review and determined that I was only supposed to get {$200.00}. I complained that there was no communication, no one requested my evidence, etc. He assured me that he will reopen the case and promised to indicated in his notes that i requested to be contacted and would like to present my evidence. He also said that estimated date of resolution is XX/XX/year> By XX/XX/year> there was no communication from Amex. I called again. Talked to XXXX ( ID XXXX ). He claimed that the inquiry was closed \" a few days ago '' and that they internally confirmed that I was only owed {$200.00} statement credit. Again, no one contacted me about my evidence and they didn't even bother to notify me of their decision. \nAll they have been doing is just brushing off my concerns, not providing any evidence of their own and refusing to even look at my evidence. This all looks like plain false advertising and bait switch."
+}
+
+Chunk:
+on xx / xx / year > i applied for american express gold delta card while purchasing airline tickets with delta. the offer was { $ 400. 00 } amex statement credit. only { $ 200. 00 } statement credit was issued. i saved the snapshot of the page showing that i will be getting a { $ 400. 00 } statement credit. on xx / xx / year > i contacted american express and they opened the case to investigate. i stated that i have a screenshot showing that i am suppose to get a { $ 400. 00 } statement credit and offered to send it to them. they stated that they can not take it while opening the case and that someone will reach out to me in a few days to get it. that did not happened. on xx / xx / year > i called amex again and talked to xxxx xxxx ( id : xxxx ) : he said that amex conducted a review and determined that i was only supposed to get { $ 200. 00 }. i complained that there was no communication, no one requested my evidence, etc. he assured me that he will reopen the case and promised to indicated in his notes that i requested to be contacted and would like to present my evidence. he also said that estimated date of resolution is xx / xx / year > by xx / xx / year > there was no communication from amex. i called again. talked to xxxx ( id xxxx ). he claimed that the inquiry was closed " a few days ago'' and that they internally confirmed that i was only owed { $ 200. 00 } statement credit. again, no one contacted me about my evidence and they didn't even bother to notify me of their decision. all they have been doing is just brushing off my concerns, not providing any evidence of their own and refusing to even look at my evidence. this all looks like plain false advertising and bait switch.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991901516914368
+}

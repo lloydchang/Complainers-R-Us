@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9082022,
+  "complaint_id": "9082022",
+  "product": "Credit card",
+  "complaint_what_happened": "I am diligent about paying on time and have no doubts about it. What confuses me is why this company is reporting late payments for specific months, which is erroneous. USC 1666b states that any billing errors should be corrected swiftly.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I am diligent about paying on time and have no doubts about it. What confuses me is why this company is reporting late payments for specific months, which is erroneous. USC 1666b states that any billing errors should be corrected swiftly."
+}
+
+Chunk:
+i am diligent about paying on time and have no doubts about it. what confuses me is why this company is reporting late payments for specific months, which is erroneous. usc 1666b states that any billing errors should be corrected swiftly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977365732192993
+}

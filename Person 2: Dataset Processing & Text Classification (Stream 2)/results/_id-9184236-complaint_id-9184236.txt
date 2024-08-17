@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9184236,
+  "complaint_id": "9184236",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a physical credit card bill of {$490.00} for XXXX signature account number XXXX from Bank of America on my registered mail address. \n\nI just have a checking account of bank of America, Never applied for or received any credit card from Bank of America. I do check my ssn enquiry report reqularly, and never received a new SSN enquiry alert in last 2-3 months. When I go to my Bofa Web login, I also don't see any mention of this credit card any where. \n\nIt's an amazing sophisticated fraud that how Bofa opened a credit card on my name without my consent and without any trace of ssn inquiry, or 2 factor authentication. \n\nI see someone already got a hold of the card and even made a transaction on XXXX XXXX store ( ref no XXXX )",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a physical credit card bill of {$490.00} for XXXX signature account number XXXX from Bank of America on my registered mail address. \n\nI just have a checking account of bank of America, Never applied for or received any credit card from Bank of America. I do check my ssn enquiry report reqularly, and never received a new SSN enquiry alert in last 2-3 months. When I go to my Bofa Web login, I also don't see any mention of this credit card any where. \n\nIt's an amazing sophisticated fraud that how Bofa opened a credit card on my name without my consent and without any trace of ssn inquiry, or 2 factor authentication. \n\nI see someone already got a hold of the card and even made a transaction on XXXX XXXX store ( ref no XXXX )"
+}
+
+Chunk:
+i received a physical credit card bill of { $ 490. 00 } for xxxx signature account number xxxx from bank of america on my registered mail address. i just have a checking account of bank of america, never applied for or received any credit card from bank of america. i do check my ssn enquiry report reqularly, and never received a new ssn enquiry alert in last 2 - 3 months. when i go to my bofa web login, i also don't see any mention of this credit card any where. it's an amazing sophisticated fraud that how bofa opened a credit card on my name without my consent and without any trace of ssn inquiry, or 2 factor authentication. i see someone already got a hold of the card and even made a transaction on xxxx xxxx store ( ref no xxxx )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9393045902252197
+}

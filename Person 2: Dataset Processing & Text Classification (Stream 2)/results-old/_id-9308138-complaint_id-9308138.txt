@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9308138,
+  "complaint_id": "9308138",
+  "product": "Credit card",
+  "complaint_what_happened": "Summary My wallet was stolen on XX/XX/year>. In addition to my drivers license, medical cards and cash, the wallet contained XXXX credit cards, and XXXX was my XXXX XXXX XXXX card issued by Citibank. The thieves charged {$3500.00} to XXXX XXXX in XXXX XXXX within minutes of stealing my wallet. \n\nI reported the theft to Citibank in less than an hour after realizing that the charge had been made. See timeline below for details. Citibank is now holding me liable for the entire charge, even though by law I reported the theft in a timely manner and should not be held liable. \n\nOn XX/XX/year> I spoke to XXXX different employees at Citibank. All three of them ignored me when I brought up the fact that I am protected by the law. Your company is breaking federal law by not following consumer protection laws. \n\nInstead of treating me as a loyal customer, Citibank is treating me as if I am the criminal. Please review my records and you will see that I always pay my balance in full each month and have been doing so for years. \n\n\nSee attached timeline for details Also attached : police report, police email, letter from Citibank informing that charge was reinstated due to \" a billing delay ''",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "930XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Summary My wallet was stolen on XX/XX/year>. In addition to my drivers license, medical cards and cash, the wallet contained XXXX credit cards, and XXXX was my XXXX XXXX XXXX card issued by Citibank. The thieves charged {$3500.00} to XXXX XXXX in XXXX XXXX within minutes of stealing my wallet. \n\nI reported the theft to Citibank in less than an hour after realizing that the charge had been made. See timeline below for details. Citibank is now holding me liable for the entire charge, even though by law I reported the theft in a timely manner and should not be held liable. \n\nOn XX/XX/year> I spoke to XXXX different employees at Citibank. All three of them ignored me when I brought up the fact that I am protected by the law. Your company is breaking federal law by not following consumer protection laws. \n\nInstead of treating me as a loyal customer, Citibank is treating me as if I am the criminal. Please review my records and you will see that I always pay my balance in full each month and have been doing so for years. \n\n\nSee attached timeline for details Also attached : police report, police email, letter from Citibank informing that charge was reinstated due to \" a billing delay ''"
+}
+
+Chunk:
+summary my wallet was stolen on xx / xx / year >. in addition to my drivers license, medical cards and cash, the wallet contained xxxx credit cards, and xxxx was my xxxx xxxx xxxx card issued by citibank. the thieves charged { $ 3500. 00 } to xxxx xxxx in xxxx xxxx within minutes of stealing my wallet. i reported the theft to citibank in less than an hour after realizing that the charge had been made. see timeline below for details. citibank is now holding me liable for the entire charge, even though by law i reported the theft in a timely manner and should not be held liable. on xx / xx / year > i spoke to xxxx different employees at citibank. all three of them ignored me when i brought up the fact that i am protected by the law. your company is breaking federal law by not following consumer protection laws. instead of treating me as a loyal customer, citibank is treating me as if i am the criminal. please review my records and you will see that i always pay my balance in full each month and have been doing so for years. see attached timeline for details also attached : police report, police email, letter from citibank informing that charge was reinstated due to " a billing delay''
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9960193037986755
+}

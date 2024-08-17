@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9345282,
+  "complaint_id": "9345282",
+  "product": "Credit card",
+  "complaint_what_happened": "I have tried numerous times to set up direct pay on my credit card, but the banks website would not allow me to for several months. I spoke in person with my bank representative ( who has since left the bank ) and the phone help line, but both said the direct pay function was faulty. \n\nAs a result I stopped intentionally using the card. \n\nOn XX/XX/year> I had a charge from XXXX XXXX that left me with a {$1.00} balance. On XX/XX/year> there was a second charge from XXXX XXXX that left me with a combined balance of {$21.00}. \n\nI was not aware of either charge and did not receive any notification that they were made, outstanding, or overdue. I only discovered the issue via my credit report when the {$21.00} late payment was reported. \n\nI find it very frustrating that my credit would be impacted and they can charge me fees/interest as a direct result of their faulty systems. I always use direct pay and had over {$1000.00} in my linked Bank of America bank account that could have easily paid the liability. \n\nThanks for any assistance you can provide.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "068XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have tried numerous times to set up direct pay on my credit card, but the banks website would not allow me to for several months. I spoke in person with my bank representative ( who has since left the bank ) and the phone help line, but both said the direct pay function was faulty. \n\nAs a result I stopped intentionally using the card. \n\nOn XX/XX/year> I had a charge from XXXX XXXX that left me with a {$1.00} balance. On XX/XX/year> there was a second charge from XXXX XXXX that left me with a combined balance of {$21.00}. \n\nI was not aware of either charge and did not receive any notification that they were made, outstanding, or overdue. I only discovered the issue via my credit report when the {$21.00} late payment was reported. \n\nI find it very frustrating that my credit would be impacted and they can charge me fees/interest as a direct result of their faulty systems. I always use direct pay and had over {$1000.00} in my linked Bank of America bank account that could have easily paid the liability. \n\nThanks for any assistance you can provide."
+}
+
+Chunk:
+i have tried numerous times to set up direct pay on my credit card, but the banks website would not allow me to for several months. i spoke in person with my bank representative ( who has since left the bank ) and the phone help line, but both said the direct pay function was faulty. as a result i stopped intentionally using the card. on xx / xx / year > i had a charge from xxxx xxxx that left me with a { $ 1. 00 } balance. on xx / xx / year > there was a second charge from xxxx xxxx that left me with a combined balance of { $ 21. 00 }. i was not aware of either charge and did not receive any notification that they were made, outstanding, or overdue. i only discovered the issue via my credit report when the { $ 21. 00 } late payment was reported. i find it very frustrating that my credit would be impacted and they can charge me fees / interest as a direct result of their faulty systems. i always use direct pay and had over { $ 1000. 00 } in my linked bank of america bank account that could have easily paid the liability. thanks for any assistance you can provide.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995146989822388
+}

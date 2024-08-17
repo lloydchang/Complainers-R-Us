@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9093500,
+  "complaint_id": "9093500",
+  "product": "Credit card",
+  "complaint_what_happened": "I made two purchases XX/XX/XXXX {$160.00} and XX/XX/XXXX {$140.00} totaling {$300.00}. They sent me my first bill XX/XX/XXXX stating I was past due charging me a {$29.00} fee. They also state a previous balance of {$270.00} which is incorrect, I havent used this card in over XXXX XXXX  prior to this. Stating my balance is {$480.00}, nothing is adding up. They want {$70.00} by XX/XX/XXXX. Im being scammed.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "83815",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I made two purchases XX/XX/XXXX {$160.00} and XX/XX/XXXX {$140.00} totaling {$300.00}. They sent me my first bill XX/XX/XXXX stating I was past due charging me a {$29.00} fee. They also state a previous balance of {$270.00} which is incorrect, I havent used this card in over XXXX XXXX  prior to this. Stating my balance is {$480.00}, nothing is adding up. They want {$70.00} by XX/XX/XXXX. Im being scammed."
+}
+
+Chunk:
+i made two purchases xx / xx / xxxx { $ 160. 00 } and xx / xx / xxxx { $ 140. 00 } totaling { $ 300. 00 }. they sent me my first bill xx / xx / xxxx stating i was past due charging me a { $ 29. 00 } fee. they also state a previous balance of { $ 270. 00 } which is incorrect, i havent used this card in over xxxx xxxx prior to this. stating my balance is { $ 480. 00 }, nothing is adding up. they want { $ 70. 00 } by xx / xx / xxxx. im being scammed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993922710418701
+}

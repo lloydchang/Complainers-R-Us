@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224597,
+  "complaint_id": "9224597",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a tablet on XX/XX/XXXX and the tablet did not function properly. The sound would not be consistent and stable and it would also freeze. I initiated the return on XX/XX/year> and it took them several days to pick up because they provided inaccurate information and the process was not handled properly. They kept leaving without label or coming at a time not stated. It was eventually picked up after hours on the phone over a week. I spoke to supervisors that assured me as so soon as it arrived at facility I would receive refund. Now they are stating it will be another two weeks when I have no longer have the product and my account t says I can return it up to a certain date. I have my tracking slip from UPS but they will not refund my money or acknowledge that they have given me inaccurate information and simply lying I also purchased another tablet on XX/XX/year> to replace the broken one for {$220.00}. They are holding my refund XXXX on a valid return. I have attached the tracking slip as well as the 7 hours of call log proof from calling them and getting nowhere",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46236",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased a tablet on XX/XX/XXXX and the tablet did not function properly. The sound would not be consistent and stable and it would also freeze. I initiated the return on XX/XX/year> and it took them several days to pick up because they provided inaccurate information and the process was not handled properly. They kept leaving without label or coming at a time not stated. It was eventually picked up after hours on the phone over a week. I spoke to supervisors that assured me as so soon as it arrived at facility I would receive refund. Now they are stating it will be another two weeks when I have no longer have the product and my account t says I can return it up to a certain date. I have my tracking slip from UPS but they will not refund my money or acknowledge that they have given me inaccurate information and simply lying I also purchased another tablet on XX/XX/year> to replace the broken one for {$220.00}. They are holding my refund XXXX on a valid return. I have attached the tracking slip as well as the 7 hours of call log proof from calling them and getting nowhere"
+}
+
+Chunk:
+i purchased a tablet on xx / xx / xxxx and the tablet did not function properly. the sound would not be consistent and stable and it would also freeze. i initiated the return on xx / xx / year > and it took them several days to pick up because they provided inaccurate information and the process was not handled properly. they kept leaving without label or coming at a time not stated. it was eventually picked up after hours on the phone over a week. i spoke to supervisors that assured me as so soon as it arrived at facility i would receive refund. now they are stating it will be another two weeks when i have no longer have the product and my account t says i can return it up to a certain date. i have my tracking slip from ups but they will not refund my money or acknowledge that they have given me inaccurate information and simply lying i also purchased another tablet on xx / xx / year > to replace the broken one for { $ 220. 00 }. they are holding my refund xxxx on a valid return. i have attached the tracking slip as well as the 7 hours of call log proof from calling them and getting nowhere
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996405839920044
+}

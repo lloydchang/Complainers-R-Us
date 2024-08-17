@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9041625,
+  "complaint_id": "9041625",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/2023 XXXX  {$370.00} Last year I was the process of getting some XXXX work done through XXXX XXXX. After they did all the checking and going through my XXXX insurance, I was left with an amount to be paid. So they went through Fortiva and they approved me. I was to pay XXXX a month. So before I could have XXXX XXXX to do the work, I had to go through their Oral surgeon, but come to find out that their surgeon was not under my insurance network and I would have to pay XXXX for each teeth that had to be pulled and I had XXXX teeth that had needed to come out. I couldn't afford to pay them so I cancelled my service. I didn't use any of the money that Fortiva approved me for. I had been in contact with them and XXXX about the money being returned. Finally in XXXX or XXXX, XXXX XXXX returned the money. XXXX is charging me for late fees of XXXX in which I had no control over. I've talked to them at least 7 times and I didn't get any resolution. I'm not understanding why I owe them if the amount that was borrowed was returned",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "XX/XX/2023 XXXX  {$370.00} Last year I was the process of getting some XXXX work done through XXXX XXXX. After they did all the checking and going through my XXXX insurance, I was left with an amount to be paid. So they went through Fortiva and they approved me. I was to pay XXXX a month. So before I could have XXXX XXXX to do the work, I had to go through their Oral surgeon, but come to find out that their surgeon was not under my insurance network and I would have to pay XXXX for each teeth that had to be pulled and I had XXXX teeth that had needed to come out. I couldn't afford to pay them so I cancelled my service. I didn't use any of the money that Fortiva approved me for. I had been in contact with them and XXXX about the money being returned. Finally in XXXX or XXXX, XXXX XXXX returned the money. XXXX is charging me for late fees of XXXX in which I had no control over. I've talked to them at least 7 times and I didn't get any resolution. I'm not understanding why I owe them if the amount that was borrowed was returned"
+}
+
+Chunk:
+xx / xx / 2023 xxxx { $ 370. 00 } last year i was the process of getting some xxxx work done through xxxx xxxx. after they did all the checking and going through my xxxx insurance, i was left with an amount to be paid. so they went through fortiva and they approved me. i was to pay xxxx a month. so before i could have xxxx xxxx to do the work, i had to go through their oral surgeon, but come to find out that their surgeon was not under my insurance network and i would have to pay xxxx for each teeth that had to be pulled and i had xxxx teeth that had needed to come out. i couldn't afford to pay them so i cancelled my service. i didn't use any of the money that fortiva approved me for. i had been in contact with them and xxxx about the money being returned. finally in xxxx or xxxx, xxxx xxxx returned the money. xxxx is charging me for late fees of xxxx in which i had no control over. i've talked to them at least 7 times and i didn't get any resolution. i'm not understanding why i owe them if the amount that was borrowed was returned
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994263648986816
+}

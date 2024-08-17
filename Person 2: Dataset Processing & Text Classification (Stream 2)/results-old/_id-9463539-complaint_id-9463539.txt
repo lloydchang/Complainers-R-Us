@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9463539,
+  "complaint_id": "9463539",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter from Synchrony Bank telling me my account had been closed. No prior notification to tell me they were going to do this. In the letter, the reason for closure that was included reads as follows : \" Activity on account ( s ) with Synchrony Bank indicative of high risk of failure to pay ''. I have had this credit card for years. Not once have I been late. I don't carry a balance on this card. Any transaction I make ( very rare ) using this card gets paid before the due date. My credit score is over XXXX. My income is over $ XXXX. There is absolutely no activity in my account that can be used to support the reason provided by Synchrony for closure. I am a US Citizen with XXXX heritage and I wonder if my heritage was part of the reason why they decided to close my account. This card is owned by Synchrony in association with Sam 's Club. I want to get to the bottom of this decision. Synchrony decision to close my account based on the written provided reason in their closed letter to me ( excellent long standing customer ) do not appear to be in line with the consumer protection regulations.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30263",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I received a letter from Synchrony Bank telling me my account had been closed. No prior notification to tell me they were going to do this. In the letter, the reason for closure that was included reads as follows : \" Activity on account ( s ) with Synchrony Bank indicative of high risk of failure to pay ''. I have had this credit card for years. Not once have I been late. I don't carry a balance on this card. Any transaction I make ( very rare ) using this card gets paid before the due date. My credit score is over XXXX. My income is over $ XXXX. There is absolutely no activity in my account that can be used to support the reason provided by Synchrony for closure. I am a US Citizen with XXXX heritage and I wonder if my heritage was part of the reason why they decided to close my account. This card is owned by Synchrony in association with Sam 's Club. I want to get to the bottom of this decision. Synchrony decision to close my account based on the written provided reason in their closed letter to me ( excellent long standing customer ) do not appear to be in line with the consumer protection regulations."
+}
+
+Chunk:
+i received a letter from synchrony bank telling me my account had been closed. no prior notification to tell me they were going to do this. in the letter, the reason for closure that was included reads as follows : " activity on account ( s ) with synchrony bank indicative of high risk of failure to pay''. i have had this credit card for years. not once have i been late. i don't carry a balance on this card. any transaction i make ( very rare ) using this card gets paid before the due date. my credit score is over xxxx. my income is over $ xxxx. there is absolutely no activity in my account that can be used to support the reason provided by synchrony for closure. i am a us citizen with xxxx heritage and i wonder if my heritage was part of the reason why they decided to close my account. this card is owned by synchrony in association with sam's club. i want to get to the bottom of this decision. synchrony decision to close my account based on the written provided reason in their closed letter to me ( excellent long standing customer ) do not appear to be in line with the consumer protection regulations.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996423721313477
+}

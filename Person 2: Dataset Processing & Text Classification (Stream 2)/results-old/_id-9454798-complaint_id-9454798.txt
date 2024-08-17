@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9454798,
+  "complaint_id": "9454798",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, my mother 's Barclays card was lost and used illegally until I reported it. The company is saying even after XXXX investigations that the charges were not fraudulent because verification was done over the phone and via text. My mother lost her phones as well. Also during XX/XX/XXXX, XXXX, and XXXX a caregiver was at her house in XXXX, XXXX. The letter is enclosed that shows this. Please reverse all these charges as they are fraudulent. \n\nAgain during the days of all these charges, my mother did not have the cards and phones used for verification. It was used by the criminal or criminals that got a hold of her cards and phones. The phone numbers and phones she lost were XXXX and XXXX. \n\nA police report was called into XXXX, XXXX  as well. I am including the employee verification document by the company that provides the caregiver for my mom. Their Phone number is XXXX and the incident was called in on XXXX.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30096",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/XXXX, my mother 's Barclays card was lost and used illegally until I reported it. The company is saying even after XXXX investigations that the charges were not fraudulent because verification was done over the phone and via text. My mother lost her phones as well. Also during XX/XX/XXXX, XXXX, and XXXX a caregiver was at her house in XXXX, XXXX. The letter is enclosed that shows this. Please reverse all these charges as they are fraudulent. \n\nAgain during the days of all these charges, my mother did not have the cards and phones used for verification. It was used by the criminal or criminals that got a hold of her cards and phones. The phone numbers and phones she lost were XXXX and XXXX. \n\nA police report was called into XXXX, XXXX  as well. I am including the employee verification document by the company that provides the caregiver for my mom. Their Phone number is XXXX and the incident was called in on XXXX."
+}
+
+Chunk:
+on xx / xx / xxxx, my mother's barclays card was lost and used illegally until i reported it. the company is saying even after xxxx investigations that the charges were not fraudulent because verification was done over the phone and via text. my mother lost her phones as well. also during xx / xx / xxxx, xxxx, and xxxx a caregiver was at her house in xxxx, xxxx. the letter is enclosed that shows this. please reverse all these charges as they are fraudulent. again during the days of all these charges, my mother did not have the cards and phones used for verification. it was used by the criminal or criminals that got a hold of her cards and phones. the phone numbers and phones she lost were xxxx and xxxx. a police report was called into xxxx, xxxx as well. i am including the employee verification document by the company that provides the caregiver for my mom. their phone number is xxxx and the incident was called in on xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992782473564148
+}

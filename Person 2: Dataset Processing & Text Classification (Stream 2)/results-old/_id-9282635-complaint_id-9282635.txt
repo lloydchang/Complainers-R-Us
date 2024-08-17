@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9282635,
+  "complaint_id": "9282635",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX an improperly trained customer care representative, XXXX, gave me incorrect information. XXXX stated that the {$220.00} was a charge to my account not a refund/credit to my balance. \n\nI was expecting a {$220.00} credit/refund from XXXX. However, XXXX was adamant that the {$220.00} was a charge. \n\nI asked this person, XXXX, to transfer me to a supervisor and I asked him to explain to his superior that I was saying that the {$220.00} was a credit and that he, XXXX, was stating to me that this was definitely a charge. \n\nThe corporate office has been notified of this incident. \n\nThe email went to staff at the Office of the President on XXXX and there has been no response. \n\nThe supervisor was not sure what the problem was with this representative who was so rude and stated that the {$220.00} was a charge not a credit. \n\nThis employee did not listen to me the customer and would not investigate his error. \nI had to request a supervisor. \n\nThe supervisor named XXXX saw that the {$220.00} was a refund not a charge. \nXXXX promised to credit my account {$100.00} for the inconvenience but I do not see the credit of {$100.00} on my account and now the system is down. \n\nBarclays system has been down several times recently. Each time it last at least 10 hours.\n\nIt is very difficult to secure accurate service regarding my account balance.and to receive my credits. I should not have a balance of {$100.00}.\n\nI have asked Barclays upper management to review the call, the mistake made, and the promise of {$100.00} credit to have been applied to my account by XXXX. \n\nBarclays is not providing responsible customer service as the system is always down or the staff are making serious mistakes. The statement credit of {$100.00} promised by the supervisor, XXXX, on XX/XX/year> was never given.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27616",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "XXXX an improperly trained customer care representative, XXXX, gave me incorrect information. XXXX stated that the {$220.00} was a charge to my account not a refund/credit to my balance. \n\nI was expecting a {$220.00} credit/refund from XXXX. However, XXXX was adamant that the {$220.00} was a charge. \n\nI asked this person, XXXX, to transfer me to a supervisor and I asked him to explain to his superior that I was saying that the {$220.00} was a credit and that he, XXXX, was stating to me that this was definitely a charge. \n\nThe corporate office has been notified of this incident. \n\nThe email went to staff at the Office of the President on XXXX and there has been no response. \n\nThe supervisor was not sure what the problem was with this representative who was so rude and stated that the {$220.00} was a charge not a credit. \n\nThis employee did not listen to me the customer and would not investigate his error. \nI had to request a supervisor. \n\nThe supervisor named XXXX saw that the {$220.00} was a refund not a charge. \nXXXX promised to credit my account {$100.00} for the inconvenience but I do not see the credit of {$100.00} on my account and now the system is down. \n\nBarclays system has been down several times recently. Each time it last at least 10 hours.\n\nIt is very difficult to secure accurate service regarding my account balance.and to receive my credits. I should not have a balance of {$100.00}.\n\nI have asked Barclays upper management to review the call, the mistake made, and the promise of {$100.00} credit to have been applied to my account by XXXX. \n\nBarclays is not providing responsible customer service as the system is always down or the staff are making serious mistakes. The statement credit of {$100.00} promised by the supervisor, XXXX, on XX/XX/year> was never given."
+}
+
+Chunk:
+xxxx an improperly trained customer care representative, xxxx, gave me incorrect information. xxxx stated that the { $ 220. 00 } was a charge to my account not a refund / credit to my balance. i was expecting a { $ 220. 00 } credit / refund from xxxx. however, xxxx was adamant that the { $ 220. 00 } was a charge. i asked this person, xxxx, to transfer me to a supervisor and i asked him to explain to his superior that i was saying that the { $ 220. 00 } was a credit and that he, xxxx, was stating to me that this was definitely a charge. the corporate office has been notified of this incident. the email went to staff at the office of the president on xxxx and there has been no response. the supervisor was not sure what the problem was with this representative who was so rude and stated that the { $ 220. 00 } was a charge not a credit. this employee did not listen to me the customer and would not investigate his error. i had to request a supervisor. the supervisor named xxxx saw that the { $ 220. 00 } was a refund not a charge. xxxx promised to credit my account { $ 100. 00 } for the inconvenience but i do not see the credit of { $ 100. 00 } on my account and now the system is down. barclays system has been down several times recently. each time it last at least 10 hours. it is very difficult to secure accurate service regarding my account balance. and to receive my credits. i should not have a balance of { $ 100. 00 }. i have asked barclays upper management to review the call, the mistake made, and the promise of { $ 100. 00 } credit to have been applied to my account by xxxx. barclays is not providing responsible customer service as the system is always down or the staff are making serious mistakes. the statement credit of { $ 100. 00 } promised by the supervisor, xxxx, on xx / xx / year > was never given.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999687910079956
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186904,
+  "complaint_id": "9186904",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, Please see the attached information for my refund to be credited back to my Rooms To Go credit card account. These amounts were for my original account ending in XXXX. I am also including this on the Dispute form. \n\n{$640.00} XXXX {$1200.00} XXXX {$910.00} XXXX {$240.00} XXXX {$180.00} XXXX {$3200.00} I called Rooms To Go and they advised that they don't handle any sort of refunds or credits that this is something done by Synchrony Bank. I am now to the point to where Synchrony Bank needs to stand up and assist me with resolving this matter. The above credits were never properly credited back to my account as they should have been by the merchant Rooms To Go. Due to the incompetence of the merchant Rooms To Go not working with me and stating they can't do anything that they don't handle any refunds or credits I am expecting Synchrony Bank to resolve this. Rooms To Go needs to be held accountable for their actions. Synchrony Bank paid Rooms To Go the money and Rooms To Go is now stating they don't issue refunds or credits. So I'd like to know what Synchrony Bank is planning to do to resolve this matter for me. \n\nThank you, XXXX XXXX",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "76513",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Hello, Please see the attached information for my refund to be credited back to my Rooms To Go credit card account. These amounts were for my original account ending in XXXX. I am also including this on the Dispute form. \n\n{$640.00} XXXX {$1200.00} XXXX {$910.00} XXXX {$240.00} XXXX {$180.00} XXXX {$3200.00} I called Rooms To Go and they advised that they don't handle any sort of refunds or credits that this is something done by Synchrony Bank. I am now to the point to where Synchrony Bank needs to stand up and assist me with resolving this matter. The above credits were never properly credited back to my account as they should have been by the merchant Rooms To Go. Due to the incompetence of the merchant Rooms To Go not working with me and stating they can't do anything that they don't handle any refunds or credits I am expecting Synchrony Bank to resolve this. Rooms To Go needs to be held accountable for their actions. Synchrony Bank paid Rooms To Go the money and Rooms To Go is now stating they don't issue refunds or credits. So I'd like to know what Synchrony Bank is planning to do to resolve this matter for me. \n\nThank you, XXXX XXXX"
+}
+
+Chunk:
+hello, please see the attached information for my refund to be credited back to my rooms to go credit card account. these amounts were for my original account ending in xxxx. i am also including this on the dispute form. { $ 640. 00 } xxxx { $ 1200. 00 } xxxx { $ 910. 00 } xxxx { $ 240. 00 } xxxx { $ 180. 00 } xxxx { $ 3200. 00 } i called rooms to go and they advised that they don't handle any sort of refunds or credits that this is something done by synchrony bank. i am now to the point to where synchrony bank needs to stand up and assist me with resolving this matter. the above credits were never properly credited back to my account as they should have been by the merchant rooms to go. due to the incompetence of the merchant rooms to go not working with me and stating they can't do anything that they don't handle any refunds or credits i am expecting synchrony bank to resolve this. rooms to go needs to be held accountable for their actions. synchrony bank paid rooms to go the money and rooms to go is now stating they don't issue refunds or credits. so i'd like to know what synchrony bank is planning to do to resolve this matter for me. thank you, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993969202041626
+}

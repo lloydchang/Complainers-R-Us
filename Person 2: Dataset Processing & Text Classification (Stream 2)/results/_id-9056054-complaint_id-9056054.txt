@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9056054,
+  "complaint_id": "9056054",
+  "product": "Credit card",
+  "complaint_what_happened": "I was booking a flight and an ad came up for {$200.00} off my flight if I applied for a Southwest credit card. So I applied, but upon checkout, the {$200.00} wasn't deducted. So I contacted Southwest before I completed my ticket purchase to ask why. I was told I would see the {$200.00} credit when I got my first statement, it was not immediately deducted from my purchase. That was completely unclear in the ad. However, when I got the first statement, there was a yearly fee charge but no {$200.00} credit. So I called Southwest and they said I had to have used the credit card to purchase my flight in order to get the {$200.00} credit. That was also completely unclear information in the ad and was different from what I had initially been told. Furthermore, I was told that I would have had to have used the credit card to purchase a ticket within 3 months of getting the credit card in order to receive the {$200.00} credit. That was completely unclear on the ad as well. I've been doing things like this for a long time so I always read the fine print, and this was absolutely unclear and intentionally deceptive advertising on Southwest 's part!",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95826",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I was booking a flight and an ad came up for {$200.00} off my flight if I applied for a Southwest credit card. So I applied, but upon checkout, the {$200.00} wasn't deducted. So I contacted Southwest before I completed my ticket purchase to ask why. I was told I would see the {$200.00} credit when I got my first statement, it was not immediately deducted from my purchase. That was completely unclear in the ad. However, when I got the first statement, there was a yearly fee charge but no {$200.00} credit. So I called Southwest and they said I had to have used the credit card to purchase my flight in order to get the {$200.00} credit. That was also completely unclear information in the ad and was different from what I had initially been told. Furthermore, I was told that I would have had to have used the credit card to purchase a ticket within 3 months of getting the credit card in order to receive the {$200.00} credit. That was completely unclear on the ad as well. I've been doing things like this for a long time so I always read the fine print, and this was absolutely unclear and intentionally deceptive advertising on Southwest 's part!"
+}
+
+Chunk:
+i was booking a flight and an ad came up for { $ 200. 00 } off my flight if i applied for a southwest credit card. so i applied, but upon checkout, the { $ 200. 00 } wasn't deducted. so i contacted southwest before i completed my ticket purchase to ask why. i was told i would see the { $ 200. 00 } credit when i got my first statement, it was not immediately deducted from my purchase. that was completely unclear in the ad. however, when i got the first statement, there was a yearly fee charge but no { $ 200. 00 } credit. so i called southwest and they said i had to have used the credit card to purchase my flight in order to get the { $ 200. 00 } credit. that was also completely unclear information in the ad and was different from what i had initially been told. furthermore, i was told that i would have had to have used the credit card to purchase a ticket within 3 months of getting the credit card in order to receive the { $ 200. 00 } credit. that was completely unclear on the ad as well. i've been doing things like this for a long time so i always read the fine print, and this was absolutely unclear and intentionally deceptive advertising on southwest's part!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999160647392273
+}

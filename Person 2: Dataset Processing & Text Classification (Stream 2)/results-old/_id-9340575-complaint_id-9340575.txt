@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340575,
+  "complaint_id": "9340575",
+  "product": "Credit card",
+  "complaint_what_happened": "I scheduled to make a payment to Citi bank on line at the end of XXXX the current balance at the time was {$810.00}. When I received the paper statement for that month the balance was {$820.00} so, went on line and modified the amont on XX/XX/XXXX to {$82000.00}. Later on my bank acount I noticed that both amounts were debited from my account for the amount of {$1600.00}. I called Citi and was told that they will be mailing a check, as of today XXXX, I did not received a check. I called the credit card company and asked to be compensated for holding my money for a month, did not get a positive responce they did not even acknoleged the error in the software on the website. When I am late with a payment get late payment fees and interest fee but they can hold a customer money for a month without impunity. I am wondering some times if this progaming errors are not intentional.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "73505",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I scheduled to make a payment to Citi bank on line at the end of XXXX the current balance at the time was {$810.00}. When I received the paper statement for that month the balance was {$820.00} so, went on line and modified the amont on XX/XX/XXXX to {$82000.00}. Later on my bank acount I noticed that both amounts were debited from my account for the amount of {$1600.00}. I called Citi and was told that they will be mailing a check, as of today XXXX, I did not received a check. I called the credit card company and asked to be compensated for holding my money for a month, did not get a positive responce they did not even acknoleged the error in the software on the website. When I am late with a payment get late payment fees and interest fee but they can hold a customer money for a month without impunity. I am wondering some times if this progaming errors are not intentional."
+}
+
+Chunk:
+i scheduled to make a payment to citi bank on line at the end of xxxx the current balance at the time was { $ 810. 00 }. when i received the paper statement for that month the balance was { $ 820. 00 } so, went on line and modified the amont on xx / xx / xxxx to { $ 82000. 00 }. later on my bank acount i noticed that both amounts were debited from my account for the amount of { $ 1600. 00 }. i called citi and was told that they will be mailing a check, as of today xxxx, i did not received a check. i called the credit card company and asked to be compensated for holding my money for a month, did not get a positive responce they did not even acknoleged the error in the software on the website. when i am late with a payment get late payment fees and interest fee but they can hold a customer money for a month without impunity. i am wondering some times if this progaming errors are not intentional.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990770816802979
+}

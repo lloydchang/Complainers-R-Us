@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9280095,
+  "complaint_id": "9280095",
+  "product": "Credit card",
+  "complaint_what_happened": "Inquiry into credit to open a credit card without my consent or knowledge. US Bank sent correspondence to my actual address to report suspicious activity and confirm my involvement of opening the card which I denied. Card was not issued to my knowledge",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "03053",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Inquiry into credit to open a credit card without my consent or knowledge. US Bank sent correspondence to my actual address to report suspicious activity and confirm my involvement of opening the card which I denied. Card was not issued to my knowledge"
+}
+
+Chunk:
+inquiry into credit to open a credit card without my consent or knowledge. us bank sent correspondence to my actual address to report suspicious activity and confirm my involvement of opening the card which i denied. card was not issued to my knowledge
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990124702453613
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137530,
+  "complaint_id": "9137530",
+  "product": "Credit card",
+  "complaint_what_happened": "I did not authorize or I do not recognize credit inquiry on my credit report : Aspire- XX/XX/year>",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94544",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I did not authorize or I do not recognize credit inquiry on my credit report : Aspire- XX/XX/year>"
+}
+
+Chunk:
+i did not authorize or i do not recognize credit inquiry on my credit report : aspire - xx / xx / year >
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997509241104126
+}

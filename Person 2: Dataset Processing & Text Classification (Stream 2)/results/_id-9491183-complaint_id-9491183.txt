@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9491183,
+  "complaint_id": "9491183",
+  "product": "Credit card",
+  "complaint_what_happened": "I discovered the credit card company was charging me XXXX interest payments every month. I have never been charged XXXX interest payments before. I purchased a XXXX XXXX XXXX. The man who took my order kept asking me if I wanted to buy other items. I told him No. I told him I only wanted the carpet cleaner. When I received my bill he had added several other items. The charges he put on my bill caused the charges to go over my credit card limit. I have called the company to resolve this problem. I have chatted with them, faxed them a handwritten letter and mailed them a handwritten letter. The charges started in XXXX XXXX. The letters started in XX/XX/XXXX. They have consistently called me. In the letters I asked them to suspend and or close my account. I asked them not to continue adding the interest on my account. This was making it impossible for me to pay my monthly payment. They are asking me to pay XXXX plus as a monthly payment.This is Impossible. Please help me. They did delete some of the charges. Please look at my account. Thanks, for the help.It says they aren't suppose to ask for payments but they have asked for payments consistently.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76134",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I discovered the credit card company was charging me XXXX interest payments every month. I have never been charged XXXX interest payments before. I purchased a XXXX XXXX XXXX. The man who took my order kept asking me if I wanted to buy other items. I told him No. I told him I only wanted the carpet cleaner. When I received my bill he had added several other items. The charges he put on my bill caused the charges to go over my credit card limit. I have called the company to resolve this problem. I have chatted with them, faxed them a handwritten letter and mailed them a handwritten letter. The charges started in XXXX XXXX. The letters started in XX/XX/XXXX. They have consistently called me. In the letters I asked them to suspend and or close my account. I asked them not to continue adding the interest on my account. This was making it impossible for me to pay my monthly payment. They are asking me to pay XXXX plus as a monthly payment.This is Impossible. Please help me. They did delete some of the charges. Please look at my account. Thanks, for the help.It says they aren't suppose to ask for payments but they have asked for payments consistently."
+}
+
+Chunk:
+i discovered the credit card company was charging me xxxx interest payments every month. i have never been charged xxxx interest payments before. i purchased a xxxx xxxx xxxx. the man who took my order kept asking me if i wanted to buy other items. i told him no. i told him i only wanted the carpet cleaner. when i received my bill he had added several other items. the charges he put on my bill caused the charges to go over my credit card limit. i have called the company to resolve this problem. i have chatted with them, faxed them a handwritten letter and mailed them a handwritten letter. the charges started in xxxx xxxx. the letters started in xx / xx / xxxx. they have consistently called me. in the letters i asked them to suspend and or close my account. i asked them not to continue adding the interest on my account. this was making it impossible for me to pay my monthly payment. they are asking me to pay xxxx plus as a monthly payment. this is impossible. please help me. they did delete some of the charges. please look at my account. thanks, for the help. it says they aren't suppose to ask for payments but they have asked for payments consistently.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981561303138733
+}

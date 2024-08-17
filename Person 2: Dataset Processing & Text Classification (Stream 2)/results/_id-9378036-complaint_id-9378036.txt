@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9378036,
+  "complaint_id": "9378036",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Credit card for Best Buy in XXXX. XXXX years later, I was notified by mail that there had been a lawsuit, and upon looking more closely at my statement I noticed I had been charged by XXXX. I did not recall consenting to this additional fee. I followed the steps outlined to end that \" XXXX XXXX '' account and get the fees dropped. I was told that the account was canceled. After that, I had charged some large purchases to the Best Buy card and set the payment to autopay. To my surprise, I was recently notified via XXXX XXXX  that my Best Buy card was over 90 % utilized. It would appear that I have unknowlingly been charged fees every month for \" XXXX XXXX  '' that I don't remember signing up for or agreeing, not to mention canceled years ago. Apparently it was never canceled, and because of this recurring fee my card is just about maxxed out. I called Best Buy had to go through a few hoops to be transferred to the correct department and told, again, that subscrition is canceled. However, I was not offered any sort of retribution.",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Add-on products and services",
+  "text": "I opened a Credit card for Best Buy in XXXX. XXXX years later, I was notified by mail that there had been a lawsuit, and upon looking more closely at my statement I noticed I had been charged by XXXX. I did not recall consenting to this additional fee. I followed the steps outlined to end that \" XXXX XXXX '' account and get the fees dropped. I was told that the account was canceled. After that, I had charged some large purchases to the Best Buy card and set the payment to autopay. To my surprise, I was recently notified via XXXX XXXX  that my Best Buy card was over 90 % utilized. It would appear that I have unknowlingly been charged fees every month for \" XXXX XXXX  '' that I don't remember signing up for or agreeing, not to mention canceled years ago. Apparently it was never canceled, and because of this recurring fee my card is just about maxxed out. I called Best Buy had to go through a few hoops to be transferred to the correct department and told, again, that subscrition is canceled. However, I was not offered any sort of retribution."
+}
+
+Chunk:
+i opened a credit card for best buy in xxxx. xxxx years later, i was notified by mail that there had been a lawsuit, and upon looking more closely at my statement i noticed i had been charged by xxxx. i did not recall consenting to this additional fee. i followed the steps outlined to end that " xxxx xxxx'' account and get the fees dropped. i was told that the account was canceled. after that, i had charged some large purchases to the best buy card and set the payment to autopay. to my surprise, i was recently notified via xxxx xxxx that my best buy card was over 90 % utilized. it would appear that i have unknowlingly been charged fees every month for " xxxx xxxx'' that i don't remember signing up for or agreeing, not to mention canceled years ago. apparently it was never canceled, and because of this recurring fee my card is just about maxxed out. i called best buy had to go through a few hoops to be transferred to the correct department and told, again, that subscrition is canceled. however, i was not offered any sort of retribution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981069564819336
+}

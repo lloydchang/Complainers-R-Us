@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144554,
+  "complaint_id": "9144554",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an American Express XXXX XXXX credit card that expires XX/XX/year>. I found out through a third party that American Express closed my account without telling me. I called them twice, and twice again asked to speak with a supervisor. The supervisors keep repeating the same message over and over. They say they understand my position but are powerless to reopen my account. They tell me to apply for a new account which I don't want to do. My credit score has already dropped because this card was closed. \n\nI have been a good customer of American Express for XXXX  years. I am retired now but used their card for business travel extensively. I never once had a late payment or any problem with my account. \n\nAmerican Express sent XXXX email ( attached ) notifying me of their action. I don't accept emails from financial institutions because they are usually fake. ( For example in the past month, I've received XXXX or XXXX emails from XXXX. When I call XXXX, they say XXXX doesn't sent email. ) I am XXXX XXXX XXXX and can not respond to emails about money. \n\nAmerican Express failed to send me a letter to notify me of their action. ( XXXX XXXX on the other hand, has sent me letters saying I need to use my card with them, which I am happy to do. ) XXXX simple letter from American Express could have resolved this issue.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92117",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I have an American Express XXXX XXXX credit card that expires XX/XX/year>. I found out through a third party that American Express closed my account without telling me. I called them twice, and twice again asked to speak with a supervisor. The supervisors keep repeating the same message over and over. They say they understand my position but are powerless to reopen my account. They tell me to apply for a new account which I don't want to do. My credit score has already dropped because this card was closed. \n\nI have been a good customer of American Express for XXXX  years. I am retired now but used their card for business travel extensively. I never once had a late payment or any problem with my account. \n\nAmerican Express sent XXXX email ( attached ) notifying me of their action. I don't accept emails from financial institutions because they are usually fake. ( For example in the past month, I've received XXXX or XXXX emails from XXXX. When I call XXXX, they say XXXX doesn't sent email. ) I am XXXX XXXX XXXX and can not respond to emails about money. \n\nAmerican Express failed to send me a letter to notify me of their action. ( XXXX XXXX on the other hand, has sent me letters saying I need to use my card with them, which I am happy to do. ) XXXX simple letter from American Express could have resolved this issue."
+}
+
+Chunk:
+i have an american express xxxx xxxx credit card that expires xx / xx / year >. i found out through a third party that american express closed my account without telling me. i called them twice, and twice again asked to speak with a supervisor. the supervisors keep repeating the same message over and over. they say they understand my position but are powerless to reopen my account. they tell me to apply for a new account which i don't want to do. my credit score has already dropped because this card was closed. i have been a good customer of american express for xxxx years. i am retired now but used their card for business travel extensively. i never once had a late payment or any problem with my account. american express sent xxxx email ( attached ) notifying me of their action. i don't accept emails from financial institutions because they are usually fake. ( for example in the past month, i've received xxxx or xxxx emails from xxxx. when i call xxxx, they say xxxx doesn't sent email. ) i am xxxx xxxx xxxx and can not respond to emails about money. american express failed to send me a letter to notify me of their action. ( xxxx xxxx on the other hand, has sent me letters saying i need to use my card with them, which i am happy to do. ) xxxx simple letter from american express could have resolved this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988059997558594
+}

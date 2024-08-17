@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9194474,
+  "complaint_id": "9194474",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened an account with American Express in XXXX, my wallet and card were stolen, and many police reports were generated. I immediately closed the card, however they are refusing after 7 years of disputing this, to remove it from my credit report. Stating that still there are XXXX XXXX  in charges. I never had the opportunity to use this card and 7 years ago reported all this as fraud, i do not have the card and all reports were filed with them and XXXX.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "298XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I opened an account with American Express in XXXX, my wallet and card were stolen, and many police reports were generated. I immediately closed the card, however they are refusing after 7 years of disputing this, to remove it from my credit report. Stating that still there are XXXX XXXX  in charges. I never had the opportunity to use this card and 7 years ago reported all this as fraud, i do not have the card and all reports were filed with them and XXXX."
+}
+
+Chunk:
+i opened an account with american express in xxxx, my wallet and card were stolen, and many police reports were generated. i immediately closed the card, however they are refusing after 7 years of disputing this, to remove it from my credit report. stating that still there are xxxx xxxx in charges. i never had the opportunity to use this card and 7 years ago reported all this as fraud, i do not have the card and all reports were filed with them and xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961198568344116
+}

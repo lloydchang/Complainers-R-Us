@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9170208,
+  "complaint_id": "9170208",
+  "product": "Credit card",
+  "complaint_what_happened": "On or about XX/XX/year> XXXX XXXX received a cease and desist letter regarding an alleged debt by consumer after refusing to apply payment or send back an endorsed security. SInce cease and desist letter XXXX XXXX has sent over XXXX emails trying to collect this debt. As a federally protected consumer according to 15 U.S.Code $ 1692c i seek resolution. XXXX XXXX is using trust property without consent.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "38671",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Privacy issues",
+  "text": "On or about XX/XX/year> XXXX XXXX received a cease and desist letter regarding an alleged debt by consumer after refusing to apply payment or send back an endorsed security. SInce cease and desist letter XXXX XXXX has sent over XXXX emails trying to collect this debt. As a federally protected consumer according to 15 U.S.Code $ 1692c i seek resolution. XXXX XXXX is using trust property without consent."
+}
+
+Chunk:
+on or about xx / xx / year > xxxx xxxx received a cease and desist letter regarding an alleged debt by consumer after refusing to apply payment or send back an endorsed security. since cease and desist letter xxxx xxxx has sent over xxxx emails trying to collect this debt. as a federally protected consumer according to 15 u. s. code $ 1692c i seek resolution. xxxx xxxx is using trust property without consent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9946156144142151
+}

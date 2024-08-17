@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9237243,
+  "complaint_id": "9237243",
+  "product": "Credit card",
+  "complaint_what_happened": "SEE ATTACHED!! CapitalOne notoriously reporting high balance on cards I pay off every month also the programs I am in I supposed to get credit increases CapitaOne and my situation I had to open three lines of credit to get to the threshHold I need to be in {$3000.00} Capital has extended three lines of credit to me knowing the way the credit world math to monopolize the industry and me I have talked till I am blue in the face with them and my hands are tied not only as you see make plenty of money I retired Vet and think and hart wrenching that they treat a third XXXX or a middle XXXX more respectiviley and grant these individuals more lines of credit then a person AMERICAN that sweated his ass off and put my life on the line for a safer Country WHATS WRONG WITH MY PAYMENTS THERE ON TIME AND BALLANCE PAID EVERY MONTH CONSISTASNTLY May I Please Receive My XXXX  XXXX And Take Them High Carryovers to be incorrect",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89106",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account information incorrect",
+  "text": "SEE ATTACHED!! CapitalOne notoriously reporting high balance on cards I pay off every month also the programs I am in I supposed to get credit increases CapitaOne and my situation I had to open three lines of credit to get to the threshHold I need to be in {$3000.00} Capital has extended three lines of credit to me knowing the way the credit world math to monopolize the industry and me I have talked till I am blue in the face with them and my hands are tied not only as you see make plenty of money I retired Vet and think and hart wrenching that they treat a third XXXX or a middle XXXX more respectiviley and grant these individuals more lines of credit then a person AMERICAN that sweated his ass off and put my life on the line for a safer Country WHATS WRONG WITH MY PAYMENTS THERE ON TIME AND BALLANCE PAID EVERY MONTH CONSISTASNTLY May I Please Receive My XXXX  XXXX And Take Them High Carryovers to be incorrect"
+}
+
+Chunk:
+see attached!! capitalone notoriously reporting high balance on cards i pay off every month also the programs i am in i supposed to get credit increases capitaone and my situation i had to open three lines of credit to get to the threshhold i need to be in { $ 3000. 00 } capital has extended three lines of credit to me knowing the way the credit world math to monopolize the industry and me i have talked till i am blue in the face with them and my hands are tied not only as you see make plenty of money i retired vet and think and hart wrenching that they treat a third xxxx or a middle xxxx more respectiviley and grant these individuals more lines of credit then a person american that sweated his ass off and put my life on the line for a safer country whats wrong with my payments there on time and ballance paid every month consistasntly may i please receive my xxxx xxxx and take them high carryovers to be incorrect
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9881306886672974
+}

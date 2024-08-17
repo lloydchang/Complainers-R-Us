@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9088320,
+  "complaint_id": "9088320",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Synchrony Bank Carecredit card. I originally got it for a XXXX  to have XXXX and to pay for Veterinarian costs. The limit on the card is {$12000.00}, and I didn't realize that they opted me into a protection thing of some sort that costs money based on the balance of the card. I called repeatedly to ask them via email to discontinue this well over a year ago, multiple times, and have emailed multiple times, but the emails bounce back to me. When I call I am placed on hold for long periods of time, never able to talk to a human before I hang up out of frustration. I have even resorted to a third party email service that contacted them on my behalf, and verified the email was received by them months ago ... with no response. There is no option in my account settings to cancel this \" feature '' and it's costing me XXXX  per month that I do not wish to pay. I wanted it cancelled almost immediately after getting the card, and have been trying to do so for months, at this point, a year or more. I want these charges reversed, and all interest from them removed as well, since I am unable to cancel this myself via the web, and apparently need to speak with a human that works there, who is apparently not available to me in a reasonable time. I view this as theft of XXXX  of dollars at this point.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "040XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have a Synchrony Bank Carecredit card. I originally got it for a XXXX  to have XXXX and to pay for Veterinarian costs. The limit on the card is {$12000.00}, and I didn't realize that they opted me into a protection thing of some sort that costs money based on the balance of the card. I called repeatedly to ask them via email to discontinue this well over a year ago, multiple times, and have emailed multiple times, but the emails bounce back to me. When I call I am placed on hold for long periods of time, never able to talk to a human before I hang up out of frustration. I have even resorted to a third party email service that contacted them on my behalf, and verified the email was received by them months ago ... with no response. There is no option in my account settings to cancel this \" feature '' and it's costing me XXXX  per month that I do not wish to pay. I wanted it cancelled almost immediately after getting the card, and have been trying to do so for months, at this point, a year or more. I want these charges reversed, and all interest from them removed as well, since I am unable to cancel this myself via the web, and apparently need to speak with a human that works there, who is apparently not available to me in a reasonable time. I view this as theft of XXXX  of dollars at this point."
+}
+
+Chunk:
+i have a synchrony bank carecredit card. i originally got it for a xxxx to have xxxx and to pay for veterinarian costs. the limit on the card is { $ 12000. 00 }, and i didn't realize that they opted me into a protection thing of some sort that costs money based on the balance of the card. i called repeatedly to ask them via email to discontinue this well over a year ago, multiple times, and have emailed multiple times, but the emails bounce back to me. when i call i am placed on hold for long periods of time, never able to talk to a human before i hang up out of frustration. i have even resorted to a third party email service that contacted them on my behalf, and verified the email was received by them months ago... with no response. there is no option in my account settings to cancel this " feature'' and it's costing me xxxx per month that i do not wish to pay. i wanted it cancelled almost immediately after getting the card, and have been trying to do so for months, at this point, a year or more. i want these charges reversed, and all interest from them removed as well, since i am unable to cancel this myself via the web, and apparently need to speak with a human that works there, who is apparently not available to me in a reasonable time. i view this as theft of xxxx of dollars at this point.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998930037021637
+}

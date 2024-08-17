@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9564096,
+  "complaint_id": "9564096",
+  "product": "Credit card",
+  "complaint_what_happened": "When I signed up for the XXXX XXXX XXXX while purchasing plane tickets, ( on XX/XX/year> ) the offer that was being promoted for a sign up reward was XXXX points. Upon meeting the requirements listed : after spending {$1000.00} on purchases and paying the annual fee in full, both within the first 90 days, with the XXXX XXXX XXXX I was told I received XXXX points. When I called, they let me know that my terms and conditions stated that I was to receive the XXXX, as opposed to what was advertised when I signed up. I signed up solely for the purpose of receiving the XXXX sign up reward as advertised, and feel this is a case of misleading advertising in order to get more people to sign up for the card. Upon talking to multiple representatives, including a XXXX, they confirmed that this sign up bonus was being offered at the time, despite them swearing it wasnt multiple times, as I was persistent in getting them to check. I want Barclays and XXXX to honor the points that were listed on the advertisement as I met the requirements and signed up to get the XXXX points. This seems to be a case of bait and switch. I dont think it is right for a company to offer multiple promotions for the sole purpose of giving the customer the lower reward after signing up for the purpose of receiving the higher XXXX. ( The current sign up being listed on the website as well, is for XXXX points, and, to reiterate, it was being offered the day I signed up as well, it was why I signed up. )",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10901",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "When I signed up for the XXXX XXXX XXXX while purchasing plane tickets, ( on XX/XX/year> ) the offer that was being promoted for a sign up reward was XXXX points. Upon meeting the requirements listed : after spending {$1000.00} on purchases and paying the annual fee in full, both within the first 90 days, with the XXXX XXXX XXXX I was told I received XXXX points. When I called, they let me know that my terms and conditions stated that I was to receive the XXXX, as opposed to what was advertised when I signed up. I signed up solely for the purpose of receiving the XXXX sign up reward as advertised, and feel this is a case of misleading advertising in order to get more people to sign up for the card. Upon talking to multiple representatives, including a XXXX, they confirmed that this sign up bonus was being offered at the time, despite them swearing it wasnt multiple times, as I was persistent in getting them to check. I want Barclays and XXXX to honor the points that were listed on the advertisement as I met the requirements and signed up to get the XXXX points. This seems to be a case of bait and switch. I dont think it is right for a company to offer multiple promotions for the sole purpose of giving the customer the lower reward after signing up for the purpose of receiving the higher XXXX. ( The current sign up being listed on the website as well, is for XXXX points, and, to reiterate, it was being offered the day I signed up as well, it was why I signed up. )"
+}
+
+Chunk:
+when i signed up for the xxxx xxxx xxxx while purchasing plane tickets, ( on xx / xx / year > ) the offer that was being promoted for a sign up reward was xxxx points. upon meeting the requirements listed : after spending { $ 1000. 00 } on purchases and paying the annual fee in full, both within the first 90 days, with the xxxx xxxx xxxx i was told i received xxxx points. when i called, they let me know that my terms and conditions stated that i was to receive the xxxx, as opposed to what was advertised when i signed up. i signed up solely for the purpose of receiving the xxxx sign up reward as advertised, and feel this is a case of misleading advertising in order to get more people to sign up for the card. upon talking to multiple representatives, including a xxxx, they confirmed that this sign up bonus was being offered at the time, despite them swearing it wasnt multiple times, as i was persistent in getting them to check. i want barclays and xxxx to honor the points that were listed on the advertisement as i met the requirements and signed up to get the xxxx points. this seems to be a case of bait and switch. i dont think it is right for a company to offer multiple promotions for the sole purpose of giving the customer the lower reward after signing up for the purpose of receiving the higher xxxx. ( the current sign up being listed on the website as well, is for xxxx points, and, to reiterate, it was being offered the day i signed up as well, it was why i signed up. )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980390667915344
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9502372,
+  "complaint_id": "9502372",
+  "product": "Credit card",
+  "complaint_what_happened": "1 ) I wanted to ensure there was enough available credit on my credit card for an upcoming trip so I called to transfer the balance from my Truist money market account to payoff the balance on my Truist credit card. I was told the funds would be deducted from my money market account today but it would take up to XXXX business days before they were applied to my credit card. Why is this allowed? Truist gets to hold my $ for XXXX days and I don't have access to it? This is unfair to consumers.\n\n2 ) My CD matured on XXXX. I went into a Truist branch to close the CD and put the funds into my XXXX XXXX Account. i was told the CD would be closed on XXXX but the funds would not be in my XXXX XXXX Account until XXXX. I asked why- they said that is how it is done. Again, why is this permitted? It is an internal transfer of collected funds that have been on deposit. This is unfair to consumers. \n\n3 ) I went into a Truist office and asked to redeem my credit card rewards and have them deposited into my Truist checking account. I was told that this would be done in XXXX days. Why does it take that long to transfer funds internally? Again, Truist is using my money and delaying the availability of it to me with no just cause or reason. This is unfair to consumers.",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "1 ) I wanted to ensure there was enough available credit on my credit card for an upcoming trip so I called to transfer the balance from my Truist money market account to payoff the balance on my Truist credit card. I was told the funds would be deducted from my money market account today but it would take up to XXXX business days before they were applied to my credit card. Why is this allowed? Truist gets to hold my $ for XXXX days and I don't have access to it? This is unfair to consumers.\n\n2 ) My CD matured on XXXX. I went into a Truist branch to close the CD and put the funds into my XXXX XXXX Account. i was told the CD would be closed on XXXX but the funds would not be in my XXXX XXXX Account until XXXX. I asked why- they said that is how it is done. Again, why is this permitted? It is an internal transfer of collected funds that have been on deposit. This is unfair to consumers. \n\n3 ) I went into a Truist office and asked to redeem my credit card rewards and have them deposited into my Truist checking account. I was told that this would be done in XXXX days. Why does it take that long to transfer funds internally? Again, Truist is using my money and delaying the availability of it to me with no just cause or reason. This is unfair to consumers."
+}
+
+Chunk:
+1 ) i wanted to ensure there was enough available credit on my credit card for an upcoming trip so i called to transfer the balance from my truist money market account to payoff the balance on my truist credit card. i was told the funds would be deducted from my money market account today but it would take up to xxxx business days before they were applied to my credit card. why is this allowed? truist gets to hold my $ for xxxx days and i don't have access to it? this is unfair to consumers. 2 ) my cd matured on xxxx. i went into a truist branch to close the cd and put the funds into my xxxx xxxx account. i was told the cd would be closed on xxxx but the funds would not be in my xxxx xxxx account until xxxx. i asked why - they said that is how it is done. again, why is this permitted? it is an internal transfer of collected funds that have been on deposit. this is unfair to consumers. 3 ) i went into a truist office and asked to redeem my credit card rewards and have them deposited into my truist checking account. i was told that this would be done in xxxx days. why does it take that long to transfer funds internally? again, truist is using my money and delaying the availability of it to me with no just cause or reason. this is unfair to consumers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997120499610901
+}

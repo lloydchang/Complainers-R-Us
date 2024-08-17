@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256300,
+  "complaint_id": "9256300",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX and XXXX payments were made from my bank for {$390.00} @ which was a double or overpayment to XXXX credit card. Not sure if glitch their system or my mistake? Contacted them XX/XX/XXXX about it and rep said they would send refund check but takes up to 14 days so I said Id rather leave credit on my balance and just use card instead but she said she had already processed refund check so asked her to cancel it and she said she did but next day my account said a refund check was being sent so spoke again with a rep who said would cancel, but next day refund check posted to my account. I called again spoke to a XXXX this time who swore it was now being cancelled and check had not been mailed out. She said would take XXXX days to post my credit card account. Called a few days later and spoke to another XXXX who said it was cancelled and would be on my credit card by XX/XX/XXXX and call back if not by then. I had already received the mailed refund check but was told now it was cancelled so I couldn't deposit it. Called on XX/XX/XXXX and now was told it could take 30 days XX/XX/XXXX for them to put My money back into credit card balance. New bill due XX/XX/XXXX bal due is {$390.00} so if they dont credit me in time they will charge me interest on money XXXX XXXX XXXX. This is Fraudulant.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "981XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "XXXX and XXXX payments were made from my bank for {$390.00} @ which was a double or overpayment to XXXX credit card. Not sure if glitch their system or my mistake? Contacted them XX/XX/XXXX about it and rep said they would send refund check but takes up to 14 days so I said Id rather leave credit on my balance and just use card instead but she said she had already processed refund check so asked her to cancel it and she said she did but next day my account said a refund check was being sent so spoke again with a rep who said would cancel, but next day refund check posted to my account. I called again spoke to a XXXX this time who swore it was now being cancelled and check had not been mailed out. She said would take XXXX days to post my credit card account. Called a few days later and spoke to another XXXX who said it was cancelled and would be on my credit card by XX/XX/XXXX and call back if not by then. I had already received the mailed refund check but was told now it was cancelled so I couldn't deposit it. Called on XX/XX/XXXX and now was told it could take 30 days XX/XX/XXXX for them to put My money back into credit card balance. New bill due XX/XX/XXXX bal due is {$390.00} so if they dont credit me in time they will charge me interest on money XXXX XXXX XXXX. This is Fraudulant."
+}
+
+Chunk:
+xxxx and xxxx payments were made from my bank for { $ 390. 00 } @ which was a double or overpayment to xxxx credit card. not sure if glitch their system or my mistake? contacted them xx / xx / xxxx about it and rep said they would send refund check but takes up to 14 days so i said id rather leave credit on my balance and just use card instead but she said she had already processed refund check so asked her to cancel it and she said she did but next day my account said a refund check was being sent so spoke again with a rep who said would cancel, but next day refund check posted to my account. i called again spoke to a xxxx this time who swore it was now being cancelled and check had not been mailed out. she said would take xxxx days to post my credit card account. called a few days later and spoke to another xxxx who said it was cancelled and would be on my credit card by xx / xx / xxxx and call back if not by then. i had already received the mailed refund check but was told now it was cancelled so i couldn't deposit it. called on xx / xx / xxxx and now was told it could take 30 days xx / xx / xxxx for them to put my money back into credit card balance. new bill due xx / xx / xxxx bal due is { $ 390. 00 } so if they dont credit me in time they will charge me interest on money xxxx xxxx xxxx. this is fraudulant.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991034865379333
+}

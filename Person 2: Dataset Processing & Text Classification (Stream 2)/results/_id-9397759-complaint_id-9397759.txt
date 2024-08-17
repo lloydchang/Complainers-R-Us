@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9397759,
+  "complaint_id": "9397759",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX Customer Service XXXX XXXX XXXX XXXX, NC XXXX XX/XX/year> Subject : Immediate Cancellation of Order XXXX Dear Customer Service, I am writing to formally request the immediate cancellation of my order number XXXX. I placed this order on XX/XX/year>, and it was initially scheduled for delivery on the following XXXX. However, I rescheduled the delivery for XX/XX/year>. I have called your organization six times regarding this order : 1. To check on the order 2. To update my phone number and get a delivery time 3. To check on the delivery ( scheduled between XXXX XXXX  ) 4. To confirm the delivery ( I was told it would be within an hour ) 5. For an update at XXXX XXXX  when I was informed that my items were damaged and were not loaded onto the truck 6. To express my frustration Throughout this process, I have repeatedly spoken with a female operator at the number XXXX. On XX/XX/year>, I spoke with her XXXX times, and she continuously lied, claiming I had spoken to someone else. I sincerely hope that my phone calls were recorded and will be reviewed. I recorded the conversations myself, and the lies and deceit from Lowes employees are unfathomable. \nI demand the immediate cancellation of my order. I will not do business with your company again. My products were damaged, not loaded on the truck, and I gave up an entire day of operations for your delivery. My renters were inconvenienced, and your employees acted as if it was my fault and showed no care or consideration.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "27513",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "XXXX Customer Service XXXX XXXX XXXX XXXX, NC XXXX XX/XX/year> Subject : Immediate Cancellation of Order XXXX Dear Customer Service, I am writing to formally request the immediate cancellation of my order number XXXX. I placed this order on XX/XX/year>, and it was initially scheduled for delivery on the following XXXX. However, I rescheduled the delivery for XX/XX/year>. I have called your organization six times regarding this order : 1. To check on the order 2. To update my phone number and get a delivery time 3. To check on the delivery ( scheduled between XXXX XXXX  ) 4. To confirm the delivery ( I was told it would be within an hour ) 5. For an update at XXXX XXXX  when I was informed that my items were damaged and were not loaded onto the truck 6. To express my frustration Throughout this process, I have repeatedly spoken with a female operator at the number XXXX. On XX/XX/year>, I spoke with her XXXX times, and she continuously lied, claiming I had spoken to someone else. I sincerely hope that my phone calls were recorded and will be reviewed. I recorded the conversations myself, and the lies and deceit from Lowes employees are unfathomable. \nI demand the immediate cancellation of my order. I will not do business with your company again. My products were damaged, not loaded on the truck, and I gave up an entire day of operations for your delivery. My renters were inconvenienced, and your employees acted as if it was my fault and showed no care or consideration."
+}
+
+Chunk:
+xxxx customer service xxxx xxxx xxxx xxxx, nc xxxx xx / xx / year > subject : immediate cancellation of order xxxx dear customer service, i am writing to formally request the immediate cancellation of my order number xxxx. i placed this order on xx / xx / year >, and it was initially scheduled for delivery on the following xxxx. however, i rescheduled the delivery for xx / xx / year >. i have called your organization six times regarding this order : 1. to check on the order 2. to update my phone number and get a delivery time 3. to check on the delivery ( scheduled between xxxx xxxx ) 4. to confirm the delivery ( i was told it would be within an hour ) 5. for an update at xxxx xxxx when i was informed that my items were damaged and were not loaded onto the truck 6. to express my frustration throughout this process, i have repeatedly spoken with a female operator at the number xxxx. on xx / xx / year >, i spoke with her xxxx times, and she continuously lied, claiming i had spoken to someone else. i sincerely hope that my phone calls were recorded and will be reviewed. i recorded the conversations myself, and the lies and deceit from lowes employees are unfathomable. i demand the immediate cancellation of my order. i will not do business with your company again. my products were damaged, not loaded on the truck, and i gave up an entire day of operations for your delivery. my renters were inconvenienced, and your employees acted as if it was my fault and showed no care or consideration.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990069270133972
+}

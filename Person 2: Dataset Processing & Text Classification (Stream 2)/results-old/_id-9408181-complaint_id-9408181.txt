@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9408181,
+  "complaint_id": "9408181",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened the Citibank Costco credit card for the rewards program. They have 4 reward categories ( 4 %, 3 %, 2 %, 1 % ) for different types of purchases ( gas, restaurants, costco, etc ), however, you can not see how any of your purchases align with the rewards as there is only a lump sum earned for each month visible to the customer. Unlike my XXXX card which itemizes and display the earnings, I find this to be a significant concern so I contacted Citibank to ask for an detailed report to show how the rewards were being accumulated. I was connected with a very rude supervisor ( Mynor # XXXX on XX/XX/year> at XXXX EST ) and told that this isn't available and that there was no process for filing a complaint or to address my concern. This response elevated my concern in light of some recent publications regarding credit card companies inconsistently or inappropriately appling these promised rewards to customers. I don't understand why they are not able to show how they arrived at the reward values and am concerned about the transparency of this rewards program.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I opened the Citibank Costco credit card for the rewards program. They have 4 reward categories ( 4 %, 3 %, 2 %, 1 % ) for different types of purchases ( gas, restaurants, costco, etc ), however, you can not see how any of your purchases align with the rewards as there is only a lump sum earned for each month visible to the customer. Unlike my XXXX card which itemizes and display the earnings, I find this to be a significant concern so I contacted Citibank to ask for an detailed report to show how the rewards were being accumulated. I was connected with a very rude supervisor ( Mynor # XXXX on XX/XX/year> at XXXX EST ) and told that this isn't available and that there was no process for filing a complaint or to address my concern. This response elevated my concern in light of some recent publications regarding credit card companies inconsistently or inappropriately appling these promised rewards to customers. I don't understand why they are not able to show how they arrived at the reward values and am concerned about the transparency of this rewards program."
+}
+
+Chunk:
+i opened the citibank costco credit card for the rewards program. they have 4 reward categories ( 4 %, 3 %, 2 %, 1 % ) for different types of purchases ( gas, restaurants, costco, etc ), however, you can not see how any of your purchases align with the rewards as there is only a lump sum earned for each month visible to the customer. unlike my xxxx card which itemizes and display the earnings, i find this to be a significant concern so i contacted citibank to ask for an detailed report to show how the rewards were being accumulated. i was connected with a very rude supervisor ( mynor # xxxx on xx / xx / year > at xxxx est ) and told that this isn't available and that there was no process for filing a complaint or to address my concern. this response elevated my concern in light of some recent publications regarding credit card companies inconsistently or inappropriately appling these promised rewards to customers. i don't understand why they are not able to show how they arrived at the reward values and am concerned about the transparency of this rewards program.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.5165725946426392
+}

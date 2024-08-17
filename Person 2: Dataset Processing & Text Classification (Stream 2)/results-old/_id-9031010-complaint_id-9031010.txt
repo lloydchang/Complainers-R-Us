@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9031010,
+  "complaint_id": "9031010",
+  "product": "Credit card",
+  "complaint_what_happened": "I have my Bank of America credit card set up to make auto payments for the minimum amount and it has been set up that way since I first got the credit card. The payment is set up for the XXXX and is usually taken from my account by the XXXX. When my payment came out this month my auto payment was changed to take the full statement balance and I did not authorize that. I never went in and changed it from the minimum to statement balance. The minimum payment to be take was to be XXXX on XX/XX/XXXX but instead a full statement balance amount of XXXX was taken on XX/XX/XXXX which was not authorized and I now have a negative bank account balance. I want to know who changed my auto pay settings as I did not as their system is old and outdated and it is complicated to go in and change these settings. I called the company and they are supposed to reverse the payment but stated that it may take up to 10 days for the reversal which doesn't help as my bank account is currently negative.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "29715",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have my Bank of America credit card set up to make auto payments for the minimum amount and it has been set up that way since I first got the credit card. The payment is set up for the XXXX and is usually taken from my account by the XXXX. When my payment came out this month my auto payment was changed to take the full statement balance and I did not authorize that. I never went in and changed it from the minimum to statement balance. The minimum payment to be take was to be XXXX on XX/XX/XXXX but instead a full statement balance amount of XXXX was taken on XX/XX/XXXX which was not authorized and I now have a negative bank account balance. I want to know who changed my auto pay settings as I did not as their system is old and outdated and it is complicated to go in and change these settings. I called the company and they are supposed to reverse the payment but stated that it may take up to 10 days for the reversal which doesn't help as my bank account is currently negative."
+}
+
+Chunk:
+i have my bank of america credit card set up to make auto payments for the minimum amount and it has been set up that way since i first got the credit card. the payment is set up for the xxxx and is usually taken from my account by the xxxx. when my payment came out this month my auto payment was changed to take the full statement balance and i did not authorize that. i never went in and changed it from the minimum to statement balance. the minimum payment to be take was to be xxxx on xx / xx / xxxx but instead a full statement balance amount of xxxx was taken on xx / xx / xxxx which was not authorized and i now have a negative bank account balance. i want to know who changed my auto pay settings as i did not as their system is old and outdated and it is complicated to go in and change these settings. i called the company and they are supposed to reverse the payment but stated that it may take up to 10 days for the reversal which doesn't help as my bank account is currently negative.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994004964828491
+}

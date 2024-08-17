@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9026241,
+  "complaint_id": "9026241",
+  "product": "Credit card",
+  "complaint_what_happened": "This is a supplement to Complaint XXXX, which American Express has still not addressed. They are now trying to charge me a {$29.00} late fee on a balance that is not owed per that complaint and the supplemental information supplied. \n\nPlease see attached screenshot of the latest \" statement. '' Their system is automated and doing this by default, but it is wrong.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60142",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "This is a supplement to Complaint XXXX, which American Express has still not addressed. They are now trying to charge me a {$29.00} late fee on a balance that is not owed per that complaint and the supplemental information supplied. \n\nPlease see attached screenshot of the latest \" statement. '' Their system is automated and doing this by default, but it is wrong."
+}
+
+Chunk:
+this is a supplement to complaint xxxx, which american express has still not addressed. they are now trying to charge me a { $ 29. 00 } late fee on a balance that is not owed per that complaint and the supplemental information supplied. please see attached screenshot of the latest " statement.'' their system is automated and doing this by default, but it is wrong.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986180067062378
+}

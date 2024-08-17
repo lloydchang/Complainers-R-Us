@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9120069,
+  "complaint_id": "9120069",
+  "product": "Credit card",
+  "complaint_what_happened": "I was dating with a man and he scammedmy account and my credit card he was make 3 forgeries check to my account on XXXX and my credit card he buy many thing online with XXXX and I disputed these transaction XXXX be XX/XX/XXXX or XXXX they are still on my charge .Now he try to pay Cause I don't use the card because of him and I see the payment returned so I would like the bank alert when a new action make on Mt account",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "150XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was dating with a man and he scammedmy account and my credit card he was make 3 forgeries check to my account on XXXX and my credit card he buy many thing online with XXXX and I disputed these transaction XXXX be XX/XX/XXXX or XXXX they are still on my charge .Now he try to pay Cause I don't use the card because of him and I see the payment returned so I would like the bank alert when a new action make on Mt account"
+}
+
+Chunk:
+i was dating with a man and he scammedmy account and my credit card he was make 3 forgeries check to my account on xxxx and my credit card he buy many thing online with xxxx and i disputed these transaction xxxx be xx / xx / xxxx or xxxx they are still on my charge. now he try to pay cause i don't use the card because of him and i see the payment returned so i would like the bank alert when a new action make on mt account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9965746402740479
+}

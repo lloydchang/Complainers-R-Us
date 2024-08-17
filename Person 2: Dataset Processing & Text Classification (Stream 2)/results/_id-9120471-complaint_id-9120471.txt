@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9120471,
+  "complaint_id": "9120471",
+  "product": "Credit card",
+  "complaint_what_happened": "hello- i have spent many hrs on this matter with paypal accnt # ending XXXX asking them to stop harassing me for payment due when there is not any based on my balance statement and the ups return of merchandise back XX/XX/23 to seller 'XXXX XXXX '. confirming tracking # is XXXX. attached along with billing statement, emails, and text messages asking for payment with possible late fees and collection action. this tactic of theirs in order to collect additional payments is extortion and needs to stop. my continued requests to them have been of no use even though their management has said all cases closed. \nplse. look into this matter asap, other unsuspecting customers could also be affected. \nthank you. \nXXXX.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "83607",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "hello- i have spent many hrs on this matter with paypal accnt # ending XXXX asking them to stop harassing me for payment due when there is not any based on my balance statement and the ups return of merchandise back XX/XX/23 to seller 'XXXX XXXX '. confirming tracking # is XXXX. attached along with billing statement, emails, and text messages asking for payment with possible late fees and collection action. this tactic of theirs in order to collect additional payments is extortion and needs to stop. my continued requests to them have been of no use even though their management has said all cases closed. \nplse. look into this matter asap, other unsuspecting customers could also be affected. \nthank you. \nXXXX."
+}
+
+Chunk:
+hello - i have spent many hrs on this matter with paypal accnt # ending xxxx asking them to stop harassing me for payment due when there is not any based on my balance statement and the ups return of merchandise back xx / xx / 23 to seller'xxxx xxxx '. confirming tracking # is xxxx. attached along with billing statement, emails, and text messages asking for payment with possible late fees and collection action. this tactic of theirs in order to collect additional payments is extortion and needs to stop. my continued requests to them have been of no use even though their management has said all cases closed. plse. look into this matter asap, other unsuspecting customers could also be affected. thank you. xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997718870639801
+}

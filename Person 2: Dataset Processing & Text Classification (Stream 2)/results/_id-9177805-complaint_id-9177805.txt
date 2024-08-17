@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9177805,
+  "complaint_id": "9177805",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital one needs to correct the problem. Cc copy to XXXX. These terms need to be honored spend {$500.00} get {$200.00} back. The consumer finance protection bureau will follow and enforce all usc and ucc codes. If they do not since this is a government agency and the top person is required to have a surety bond information they will get massive leans on their bonds. Per 15 usc 1692J and subdivision 1611 denied my own credit. We will fix the problem or I will fix the problem.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33009",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Capital one needs to correct the problem. Cc copy to XXXX. These terms need to be honored spend {$500.00} get {$200.00} back. The consumer finance protection bureau will follow and enforce all usc and ucc codes. If they do not since this is a government agency and the top person is required to have a surety bond information they will get massive leans on their bonds. Per 15 usc 1692J and subdivision 1611 denied my own credit. We will fix the problem or I will fix the problem."
+}
+
+Chunk:
+capital one needs to correct the problem. cc copy to xxxx. these terms need to be honored spend { $ 500. 00 } get { $ 200. 00 } back. the consumer finance protection bureau will follow and enforce all usc and ucc codes. if they do not since this is a government agency and the top person is required to have a surety bond information they will get massive leans on their bonds. per 15 usc 1692j and subdivision 1611 denied my own credit. we will fix the problem or i will fix the problem.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981620907783508
+}

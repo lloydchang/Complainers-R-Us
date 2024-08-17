@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9454931,
+  "complaint_id": "9454931",
+  "product": "Credit card",
+  "complaint_what_happened": "I was forced by my old job to sign up for a synchrony bank Sam 's credit card because of synchrony banks predatory policy regarding how many credit cards they can get people to sign up for. If you didn't get any signups they would penalize the company and the company would penalize your club and your managers would penalize the employees for not trying hard enough for not making quota on credits. This would force our managers to try and \" encourage '' employees to sign up for one to show corporate that we were at least trying. At first it was alright I kept the balance low and paid it off on time. Then the inflation crisis hit and I was having to use it to put gas in my car at {$5.00} a gallon to get to work. Well that quickly ballooned the balance up to {$2000.00} dollars. I had a {$5000.00} limit. I was paying the minimum amount per month with no issues. \nFast forward to XXXX of 2024 and my credit score plumits from XXXX down to XXXX and my minimum payment goes from {$98.00} to {$250.00} dollars and my credit limit is decreased by {$2000.00} dollars with no warning, no letter, no email, no call, NOTHING!! Now I'm inundated with harassing collection calls from synchrony demanding the full minimum payment. And when I pay what I can they informed me that what I pay will go towards the previous month and not the current month.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "63129",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "I was forced by my old job to sign up for a synchrony bank Sam 's credit card because of synchrony banks predatory policy regarding how many credit cards they can get people to sign up for. If you didn't get any signups they would penalize the company and the company would penalize your club and your managers would penalize the employees for not trying hard enough for not making quota on credits. This would force our managers to try and \" encourage '' employees to sign up for one to show corporate that we were at least trying. At first it was alright I kept the balance low and paid it off on time. Then the inflation crisis hit and I was having to use it to put gas in my car at {$5.00} a gallon to get to work. Well that quickly ballooned the balance up to {$2000.00} dollars. I had a {$5000.00} limit. I was paying the minimum amount per month with no issues. \nFast forward to XXXX of 2024 and my credit score plumits from XXXX down to XXXX and my minimum payment goes from {$98.00} to {$250.00} dollars and my credit limit is decreased by {$2000.00} dollars with no warning, no letter, no email, no call, NOTHING!! Now I'm inundated with harassing collection calls from synchrony demanding the full minimum payment. And when I pay what I can they informed me that what I pay will go towards the previous month and not the current month."
+}
+
+Chunk:
+i was forced by my old job to sign up for a synchrony bank sam's credit card because of synchrony banks predatory policy regarding how many credit cards they can get people to sign up for. if you didn't get any signups they would penalize the company and the company would penalize your club and your managers would penalize the employees for not trying hard enough for not making quota on credits. this would force our managers to try and " encourage'' employees to sign up for one to show corporate that we were at least trying. at first it was alright i kept the balance low and paid it off on time. then the inflation crisis hit and i was having to use it to put gas in my car at { $ 5. 00 } a gallon to get to work. well that quickly ballooned the balance up to { $ 2000. 00 } dollars. i had a { $ 5000. 00 } limit. i was paying the minimum amount per month with no issues. fast forward to xxxx of 2024 and my credit score plumits from xxxx down to xxxx and my minimum payment goes from { $ 98. 00 } to { $ 250. 00 } dollars and my credit limit is decreased by { $ 2000. 00 } dollars with no warning, no letter, no email, no call, nothing!! now i'm inundated with harassing collection calls from synchrony demanding the full minimum payment. and when i pay what i can they informed me that what i pay will go towards the previous month and not the current month.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998969554901123
+}

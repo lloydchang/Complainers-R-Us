@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9275606,
+  "complaint_id": "9275606",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Barclay Management, I ( XXXX XXXX ) am writing to you as a member of XXXX XXXX XXXX and as a federally protected consumer with an account number XXXX. This letter is to formally exercise my rights under 15 U.S. Code 6802 regarding the sharing of my nonpublic personal information. \nUnder the said statute, financial institutions are required to provide customers with a reasonable opportunity to opt out of the disclosure of their nonpublic personal information to nonaffiliated third parties. I understand that this includes the reporting of account information to credit bureaus or similar entities. \nTherefore, I am exercising my right to opt out of any such disclosures. Specifically, I request that XXXX refrain from reporting any information related to my account XXXX to any credit bureaus or similar reporting agencies. \nI would appreciate written confirmation that my request to opt out has been processed and that no further information regarding my account will be shared with third parties as per my rights under the aforementioned statute. \nPlease do not hesitate to contact me at the Phone Number found on file related to my account should you need any further information or clarification regarding this request. \nThank you for your prompt attention to this matter and for respecting my consumer rights. \nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "31093",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Dear Barclay Management, I ( XXXX XXXX ) am writing to you as a member of XXXX XXXX XXXX and as a federally protected consumer with an account number XXXX. This letter is to formally exercise my rights under 15 U.S. Code 6802 regarding the sharing of my nonpublic personal information. \nUnder the said statute, financial institutions are required to provide customers with a reasonable opportunity to opt out of the disclosure of their nonpublic personal information to nonaffiliated third parties. I understand that this includes the reporting of account information to credit bureaus or similar entities. \nTherefore, I am exercising my right to opt out of any such disclosures. Specifically, I request that XXXX refrain from reporting any information related to my account XXXX to any credit bureaus or similar reporting agencies. \nI would appreciate written confirmation that my request to opt out has been processed and that no further information regarding my account will be shared with third parties as per my rights under the aforementioned statute. \nPlease do not hesitate to contact me at the Phone Number found on file related to my account should you need any further information or clarification regarding this request. \nThank you for your prompt attention to this matter and for respecting my consumer rights. \nSincerely, XXXX XXXX"
+}
+
+Chunk:
+dear barclay management, i ( xxxx xxxx ) am writing to you as a member of xxxx xxxx xxxx and as a federally protected consumer with an account number xxxx. this letter is to formally exercise my rights under 15 u. s. code 6802 regarding the sharing of my nonpublic personal information. under the said statute, financial institutions are required to provide customers with a reasonable opportunity to opt out of the disclosure of their nonpublic personal information to nonaffiliated third parties. i understand that this includes the reporting of account information to credit bureaus or similar entities. therefore, i am exercising my right to opt out of any such disclosures. specifically, i request that xxxx refrain from reporting any information related to my account xxxx to any credit bureaus or similar reporting agencies. i would appreciate written confirmation that my request to opt out has been processed and that no further information regarding my account will be shared with third parties as per my rights under the aforementioned statute. please do not hesitate to contact me at the phone number found on file related to my account should you need any further information or clarification regarding this request. thank you for your prompt attention to this matter and for respecting my consumer rights. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9896920323371887
+}

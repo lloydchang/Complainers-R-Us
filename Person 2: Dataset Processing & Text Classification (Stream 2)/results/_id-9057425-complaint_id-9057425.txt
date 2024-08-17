@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9057425,
+  "complaint_id": "9057425",
+  "product": "Credit card",
+  "complaint_what_happened": "Fraudulent Charge on Citibank Credit Card - Request for Assistance I traveled to XXXX from XX/XX/2024, to XX/XX/2024. During my trip, on XX/XX/XXXX and XXXX, 2024, there were several fraudulent charges on my Citibank credit card. \n\nUpon returning from XXXX, I formally filed a complaint with Citibank and reported these transactions as fraudulent. \n\nToday, I called Citibank, and they denied my fraud claim, holding me accountable for these transactions, which I did not make. The total amount in question is approximately {$1000.00}. \n\nI kindly request your assistance in resolving this matter with Citibank as soon as possible. I have attached my transaction statement highlighting all the fraudulent charges.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "41501",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Fraudulent Charge on Citibank Credit Card - Request for Assistance I traveled to XXXX from XX/XX/2024, to XX/XX/2024. During my trip, on XX/XX/XXXX and XXXX, 2024, there were several fraudulent charges on my Citibank credit card. \n\nUpon returning from XXXX, I formally filed a complaint with Citibank and reported these transactions as fraudulent. \n\nToday, I called Citibank, and they denied my fraud claim, holding me accountable for these transactions, which I did not make. The total amount in question is approximately {$1000.00}. \n\nI kindly request your assistance in resolving this matter with Citibank as soon as possible. I have attached my transaction statement highlighting all the fraudulent charges."
+}
+
+Chunk:
+fraudulent charge on citibank credit card - request for assistance i traveled to xxxx from xx / xx / 2024, to xx / xx / 2024. during my trip, on xx / xx / xxxx and xxxx, 2024, there were several fraudulent charges on my citibank credit card. upon returning from xxxx, i formally filed a complaint with citibank and reported these transactions as fraudulent. today, i called citibank, and they denied my fraud claim, holding me accountable for these transactions, which i did not make. the total amount in question is approximately { $ 1000. 00 }. i kindly request your assistance in resolving this matter with citibank as soon as possible. i have attached my transaction statement highlighting all the fraudulent charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9859041571617126
+}

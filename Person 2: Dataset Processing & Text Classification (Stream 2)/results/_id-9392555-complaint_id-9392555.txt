@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9392555,
+  "complaint_id": "9392555",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello CFPB, thank you for reading my complaint. US bank has twice since opening this account in XX/XX/year>, only 9 months US banks has now twice changed the terms and conditions of the rewards and card product. As of today they changed the rewards amount. Meaning rewards are now worth less than before. I have now twice attempted to change card product and they will not allow me. Even though I have XXXX credit score and have always been on time with my statements. \nI just wanted the federal regulators to be aware of this.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "439XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Hello CFPB, thank you for reading my complaint. US bank has twice since opening this account in XX/XX/year>, only 9 months US banks has now twice changed the terms and conditions of the rewards and card product. As of today they changed the rewards amount. Meaning rewards are now worth less than before. I have now twice attempted to change card product and they will not allow me. Even though I have XXXX credit score and have always been on time with my statements. \nI just wanted the federal regulators to be aware of this."
+}
+
+Chunk:
+hello cfpb, thank you for reading my complaint. us bank has twice since opening this account in xx / xx / year >, only 9 months us banks has now twice changed the terms and conditions of the rewards and card product. as of today they changed the rewards amount. meaning rewards are now worth less than before. i have now twice attempted to change card product and they will not allow me. even though i have xxxx credit score and have always been on time with my statements. i just wanted the federal regulators to be aware of this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9952732920646667
+}

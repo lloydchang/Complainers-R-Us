@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9134125,
+  "complaint_id": "9134125",
+  "product": "Credit card",
+  "complaint_what_happened": "So my Home a Depot card had a {$0.00} balance and then I was charged close to {$6000.00} on an online purchase delivered in a Home Depot store iXXXX XXXX XXXX I am in XXXX and I do not know anybody there in XXXX. I had to call XXXX different times to citiBank Home Depot card to initiate an investigation and remove the charges. They told me will send me a letter after the dispute is cleared and not when the dispute is filed. They want you to pay the minimum fee even if the investigation is not completed, I guess you have to dispute the minimum payment charges later.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "So my Home a Depot card had a {$0.00} balance and then I was charged close to {$6000.00} on an online purchase delivered in a Home Depot store iXXXX XXXX XXXX I am in XXXX and I do not know anybody there in XXXX. I had to call XXXX different times to citiBank Home Depot card to initiate an investigation and remove the charges. They told me will send me a letter after the dispute is cleared and not when the dispute is filed. They want you to pay the minimum fee even if the investigation is not completed, I guess you have to dispute the minimum payment charges later."
+}
+
+Chunk:
+so my home a depot card had a { $ 0. 00 } balance and then i was charged close to { $ 6000. 00 } on an online purchase delivered in a home depot store ixxxx xxxx xxxx i am in xxxx and i do not know anybody there in xxxx. i had to call xxxx different times to citibank home depot card to initiate an investigation and remove the charges. they told me will send me a letter after the dispute is cleared and not when the dispute is filed. they want you to pay the minimum fee even if the investigation is not completed, i guess you have to dispute the minimum payment charges later.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992274045944214
+}

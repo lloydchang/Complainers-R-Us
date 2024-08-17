@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9259362,
+  "complaint_id": "9259362",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX  XXXX XXXX  date open according to XXXX date opened XX/XX/XXXX {$640.00} Loan Type CREDIT CARD ( Fraud not me ) XXXX XXXX ( Fraud not me ) XXXX Date Opened XX/XX/XXXX {$210.00} XXXX/FORTIVA XXXX : {$940.00} Date Opened XX/XX/XXXX XXXX ( Fraud not me ) XXXX XXXX : Balance {$440.00} Date Opened XX/XX/XXXX XXXX XXXX XXXX  ( Closed ) Date Opened XX/XX/XXXX Pay Status >Charge-off< XXXX XXXX XXXX XXXXXXXX {$460.00} Date opened XX/XX/XXXX XXXX XXXXXXXX XXXX Date Opened XX/XX/XXXX Balance {$300.00} XXXX XXXX XXXX  Location XXXX XXXX XXXX XXXX XXXX XXXX, SD XXXX Requested On XX/XX/XXXX, XX/XX/XXXX XXXX XXXX Location XXXX XXXX XXXX XXXX XXXXXXXX, NC XXXX Requested On XX/XX/XXXX Phone ( XXXX ) XXXX Inquiry Type XXXX Location XXXX XXXX XXXX XXXX XXXX, MN XXXX Requested On XX/XX/XXXX XXXX XXXX XXXX Location XXXX XXXX XXXX XXXX XXXX XXXX, UT XXXX Requested On XX/XX/XXXX, XX/XX/XXXX, XXXX/XXXX/XXXX My phone number needs to be off public records too please ( XXXX ) XXXX",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "871XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "NM",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XXXX  XXXX XXXX  date open according to XXXX date opened XX/XX/XXXX {$640.00} Loan Type CREDIT CARD ( Fraud not me ) XXXX XXXX ( Fraud not me ) XXXX Date Opened XX/XX/XXXX {$210.00} XXXX/FORTIVA XXXX : {$940.00} Date Opened XX/XX/XXXX XXXX ( Fraud not me ) XXXX XXXX : Balance {$440.00} Date Opened XX/XX/XXXX XXXX XXXX XXXX  ( Closed ) Date Opened XX/XX/XXXX Pay Status >Charge-off< XXXX XXXX XXXX XXXXXXXX {$460.00} Date opened XX/XX/XXXX XXXX XXXXXXXX XXXX Date Opened XX/XX/XXXX Balance {$300.00} XXXX XXXX XXXX  Location XXXX XXXX XXXX XXXX XXXX XXXX, SD XXXX Requested On XX/XX/XXXX, XX/XX/XXXX XXXX XXXX Location XXXX XXXX XXXX XXXX XXXXXXXX, NC XXXX Requested On XX/XX/XXXX Phone ( XXXX ) XXXX Inquiry Type XXXX Location XXXX XXXX XXXX XXXX XXXX, MN XXXX Requested On XX/XX/XXXX XXXX XXXX XXXX Location XXXX XXXX XXXX XXXX XXXX XXXX, UT XXXX Requested On XX/XX/XXXX, XX/XX/XXXX, XXXX/XXXX/XXXX My phone number needs to be off public records too please ( XXXX ) XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx date open according to xxxx date opened xx / xx / xxxx { $ 640. 00 } loan type credit card ( fraud not me ) xxxx xxxx ( fraud not me ) xxxx date opened xx / xx / xxxx { $ 210. 00 } xxxx / fortiva xxxx : { $ 940. 00 } date opened xx / xx / xxxx xxxx ( fraud not me ) xxxx xxxx : balance { $ 440. 00 } date opened xx / xx / xxxx xxxx xxxx xxxx ( closed ) date opened xx / xx / xxxx pay status > charge - off < xxxx xxxx xxxx xxxxxxxx { $ 460. 00 } date opened xx / xx / xxxx xxxx xxxxxxxx xxxx date opened xx / xx / xxxx balance { $ 300. 00 } xxxx xxxx xxxx location xxxx xxxx xxxx xxxx xxxx xxxx, sd xxxx requested on xx / xx / xxxx, xx / xx / xxxx xxxx xxxx location xxxx xxxx xxxx xxxx xxxxxxxx, nc xxxx requested on xx / xx / xxxx phone ( xxxx ) xxxx inquiry type xxxx location xxxx xxxx xxxx xxxx xxxx, mn xxxx requested on xx / xx / xxxx xxxx xxxx xxxx location xxxx xxxx xxxx xxxx xxxx xxxx, ut xxxx requested on xx / xx / xxxx, xx / xx / xxxx, xxxx / xxxx / xxxx my phone number needs to be off public records too please ( xxxx ) xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.984555184841156
+}

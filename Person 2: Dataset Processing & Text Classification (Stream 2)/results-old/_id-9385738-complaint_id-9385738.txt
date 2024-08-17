@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9385738,
+  "complaint_id": "9385738",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Macy 's / XXXX, I hope this message finds you well. I am writing to express my disagreement with the findings regarding my account, which I believe is not accurately reflecting on my credit report as being late on XXXX and XX/XX/year>. \n\nI opened this account in XX/XX/year> with the intention of improving my credit score, based on the excellent customer service I received every time I visited your store. I take great pride in consistently paying my bills on time with all of my creditors. Therefore, I was surprised and deeply affected when I discovered discrepancies on my credit report, causing significant XXXX XXXX XXXX \n\nLast year, I faced several XXXX XXXX, including XXXX due to XXXX. During this time, I may not have been as attentive to my financial matters as usual. While I understand that you did not receive returned mail, I want to clarify that I did not receive statements at the address provided. Additionally, I believed that payments were being automatically deducted from my current bank account each month. \n\nI strongly disagree with the assertion that I was late on payments between XXXX through XX/XX/year>. This is incorrect, and I am perplexed as to how this misunderstanding occurred. My belief was that payments were made promptly upon receipt of statements. It is possible that my statements did not reach me during this period.",
+  "date_sent_to_company": "2024-06-29T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "02301",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-29T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Dear Macy 's / XXXX, I hope this message finds you well. I am writing to express my disagreement with the findings regarding my account, which I believe is not accurately reflecting on my credit report as being late on XXXX and XX/XX/year>. \n\nI opened this account in XX/XX/year> with the intention of improving my credit score, based on the excellent customer service I received every time I visited your store. I take great pride in consistently paying my bills on time with all of my creditors. Therefore, I was surprised and deeply affected when I discovered discrepancies on my credit report, causing significant XXXX XXXX XXXX \n\nLast year, I faced several XXXX XXXX, including XXXX due to XXXX. During this time, I may not have been as attentive to my financial matters as usual. While I understand that you did not receive returned mail, I want to clarify that I did not receive statements at the address provided. Additionally, I believed that payments were being automatically deducted from my current bank account each month. \n\nI strongly disagree with the assertion that I was late on payments between XXXX through XX/XX/year>. This is incorrect, and I am perplexed as to how this misunderstanding occurred. My belief was that payments were made promptly upon receipt of statements. It is possible that my statements did not reach me during this period."
+}
+
+Chunk:
+dear macy's / xxxx, i hope this message finds you well. i am writing to express my disagreement with the findings regarding my account, which i believe is not accurately reflecting on my credit report as being late on xxxx and xx / xx / year >. i opened this account in xx / xx / year > with the intention of improving my credit score, based on the excellent customer service i received every time i visited your store. i take great pride in consistently paying my bills on time with all of my creditors. therefore, i was surprised and deeply affected when i discovered discrepancies on my credit report, causing significant xxxx xxxx xxxx last year, i faced several xxxx xxxx, including xxxx due to xxxx. during this time, i may not have been as attentive to my financial matters as usual. while i understand that you did not receive returned mail, i want to clarify that i did not receive statements at the address provided. additionally, i believed that payments were being automatically deducted from my current bank account each month. i strongly disagree with the assertion that i was late on payments between xxxx through xx / xx / year >. this is incorrect, and i am perplexed as to how this misunderstanding occurred. my belief was that payments were made promptly upon receipt of statements. it is possible that my statements did not reach me during this period.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99779212474823
+}

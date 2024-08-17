@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019123,
+  "complaint_id": "9019123",
+  "product": "Credit card",
+  "complaint_what_happened": "I had XXXX XXXX XXXXXX/XX/XXXX and XX/XX/XXXX using CareCredit card, Synchrony Bank. Charges were made XX/XX/XXXX and XX/XX/XXXX for {$2500.00} by XXXX XXXX for XXXX  months. Charges were made by XXXX XXXX XXXX XXXX XXXX for {$1200.00} on XX/XX/XXXX and {$1100.00} on XX/XX/XXXX for 12 months. I received information from Synchrony Bank re payment giving a due date of XX/XX/XXXX while I was packing to go out of town. I had questions so I put the credit card into the envelope and took it along. I can not locate the card or the envelope now and the receipts I have only give last XXXX digits of XXXX. They want you to set up and pay online but this requires the whole account number. So, I called their customer service number regarding my questions and asked for the whole account number so I could set up bill pay, my bank and I select the day to pay. Said this required a different level of security and wanted a cell number. I declined, offered land line number or email for receipt of a code. I recently saw a video on billions made by companies sharing cell numbers with their \" associates '' for their own marketing. I am trying to pay this bill by XX/XX/XXXX. How many calls come from individuals saying \" I found somebody's CareCredit card and I want to pay on their account ''?? Why will they not provide the account number? To set me up for some late fees? Synchrony Bank needs to do better, or any customer service and I need some consumer protection from them. Please help. I am trying to pay. \n\nSincerely, XXXX XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "28212",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I had XXXX XXXX XXXXXX/XX/XXXX and XX/XX/XXXX using CareCredit card, Synchrony Bank. Charges were made XX/XX/XXXX and XX/XX/XXXX for {$2500.00} by XXXX XXXX for XXXX  months. Charges were made by XXXX XXXX XXXX XXXX XXXX for {$1200.00} on XX/XX/XXXX and {$1100.00} on XX/XX/XXXX for 12 months. I received information from Synchrony Bank re payment giving a due date of XX/XX/XXXX while I was packing to go out of town. I had questions so I put the credit card into the envelope and took it along. I can not locate the card or the envelope now and the receipts I have only give last XXXX digits of XXXX. They want you to set up and pay online but this requires the whole account number. So, I called their customer service number regarding my questions and asked for the whole account number so I could set up bill pay, my bank and I select the day to pay. Said this required a different level of security and wanted a cell number. I declined, offered land line number or email for receipt of a code. I recently saw a video on billions made by companies sharing cell numbers with their \" associates '' for their own marketing. I am trying to pay this bill by XX/XX/XXXX. How many calls come from individuals saying \" I found somebody's CareCredit card and I want to pay on their account ''?? Why will they not provide the account number? To set me up for some late fees? Synchrony Bank needs to do better, or any customer service and I need some consumer protection from them. Please help. I am trying to pay. \n\nSincerely, XXXX XXXX"
+}
+
+Chunk:
+i had xxxx xxxx xxxxxx / xx / xxxx and xx / xx / xxxx using carecredit card, synchrony bank. charges were made xx / xx / xxxx and xx / xx / xxxx for { $ 2500. 00 } by xxxx xxxx for xxxx months. charges were made by xxxx xxxx xxxx xxxx xxxx for { $ 1200. 00 } on xx / xx / xxxx and { $ 1100. 00 } on xx / xx / xxxx for 12 months. i received information from synchrony bank re payment giving a due date of xx / xx / xxxx while i was packing to go out of town. i had questions so i put the credit card into the envelope and took it along. i can not locate the card or the envelope now and the receipts i have only give last xxxx digits of xxxx. they want you to set up and pay online but this requires the whole account number. so, i called their customer service number regarding my questions and asked for the whole account number so i could set up bill pay, my bank and i select the day to pay. said this required a different level of security and wanted a cell number. i declined, offered land line number or email for receipt of a code. i recently saw a video on billions made by companies sharing cell numbers with their " associates'' for their own marketing. i am trying to pay this bill by xx / xx / xxxx. how many calls come from individuals saying " i found somebody's carecredit card and i want to pay on their account''?? why will they not provide the account number? to set me up for some late fees? synchrony bank needs to do better, or any customer service and i need some consumer protection from them. please help. i am trying to pay. sincerely, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985748529434204
+}

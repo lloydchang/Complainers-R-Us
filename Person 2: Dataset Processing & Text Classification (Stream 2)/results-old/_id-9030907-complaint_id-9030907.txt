@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9030907,
+  "complaint_id": "9030907",
+  "product": "Credit card",
+  "complaint_what_happened": "I had several small fraudulent charges placed on my card, total of {$34.00} in XXXX of XXXX. When I discovered them on my XXXX statement in XXXX, I called XXXX 's customer service line. The reps I spoke with assured me that they would be removed. They apparently were & to be safe, I was issued a new card. The charges came back as reoccurring since that is how the perps set it up. The charges came back in XXXX, I called again, & thought I had this reoccurring thing removed. Another month later in XXXX now,, they returned & this time Synchrony Bank, keeps saying it is a balance transfer from the old car to the new card when they were fraudulent on the old. \n\nI have made several more calls along with live chat to get it resolved. I told than that I have a XXXX  XXXX credit rating, always pay my credit card balances at the end of each month ( I never have to pay finance charges ), and keep meticulous records. \n\nI realize in the great scheme of things {$34.00} isn't that much, but there is a principle here- I am not liable for the fraudulent charges & the reps I spoke with agreed with that, but the keep reoccurring on this credit card - I have since canceled the card, but they continue to say that I owe them {$34.00}. So what do I do?",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48506",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I had several small fraudulent charges placed on my card, total of {$34.00} in XXXX of XXXX. When I discovered them on my XXXX statement in XXXX, I called XXXX 's customer service line. The reps I spoke with assured me that they would be removed. They apparently were & to be safe, I was issued a new card. The charges came back as reoccurring since that is how the perps set it up. The charges came back in XXXX, I called again, & thought I had this reoccurring thing removed. Another month later in XXXX now,, they returned & this time Synchrony Bank, keeps saying it is a balance transfer from the old car to the new card when they were fraudulent on the old. \n\nI have made several more calls along with live chat to get it resolved. I told than that I have a XXXX  XXXX credit rating, always pay my credit card balances at the end of each month ( I never have to pay finance charges ), and keep meticulous records. \n\nI realize in the great scheme of things {$34.00} isn't that much, but there is a principle here- I am not liable for the fraudulent charges & the reps I spoke with agreed with that, but the keep reoccurring on this credit card - I have since canceled the card, but they continue to say that I owe them {$34.00}. So what do I do?"
+}
+
+Chunk:
+i had several small fraudulent charges placed on my card, total of { $ 34. 00 } in xxxx of xxxx. when i discovered them on my xxxx statement in xxxx, i called xxxx's customer service line. the reps i spoke with assured me that they would be removed. they apparently were & to be safe, i was issued a new card. the charges came back as reoccurring since that is how the perps set it up. the charges came back in xxxx, i called again, & thought i had this reoccurring thing removed. another month later in xxxx now,, they returned & this time synchrony bank, keeps saying it is a balance transfer from the old car to the new card when they were fraudulent on the old. i have made several more calls along with live chat to get it resolved. i told than that i have a xxxx xxxx credit rating, always pay my credit card balances at the end of each month ( i never have to pay finance charges ), and keep meticulous records. i realize in the great scheme of things { $ 34. 00 } isn't that much, but there is a principle here - i am not liable for the fraudulent charges & the reps i spoke with agreed with that, but the keep reoccurring on this credit card - i have since canceled the card, but they continue to say that i owe them { $ 34. 00 }. so what do i do?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9953663349151611
+}

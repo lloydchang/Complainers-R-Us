@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265268,
+  "complaint_id": "9265268",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony offered a promo rate on XXXXXXXX XXXX XXXX. I applied for financing. Before I could review any information or select to move forward, the sale went right through apon approval. They provided me no details on terms etc and after more than XXXX days, they still cant give me info I requested on payments, terms, etc.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "452XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Synchrony offered a promo rate on XXXXXXXX XXXX XXXX. I applied for financing. Before I could review any information or select to move forward, the sale went right through apon approval. They provided me no details on terms etc and after more than XXXX days, they still cant give me info I requested on payments, terms, etc."
+}
+
+Chunk:
+synchrony offered a promo rate on xxxxxxxx xxxx xxxx. i applied for financing. before i could review any information or select to move forward, the sale went right through apon approval. they provided me no details on terms etc and after more than xxxx days, they still cant give me info i requested on payments, terms, etc.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999316930770874
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9242254,
+  "complaint_id": "9242254",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a victim of fraud. Yesterday, while attempting to apply for a link with XXXX, an XXXX XXXX sales representative, I inadvertently shared my HSBC credit card details during a screen share session. Subsequently, an unauthorized transaction of XXXX XXXX was made to 'XXXX XXXX  '. I have already taken the precaution of blocking my HSBC credit card and have attached a screenshot for reference. date of XXXX and XXXX XXXX  I have block the card aswell and also raise the ticket, cyber complaint also done.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "HSBC NORTH AMERICA HOLDINGS INC.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": null,
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Sent card you never applied for",
+  "text": "I have been a victim of fraud. Yesterday, while attempting to apply for a link with XXXX, an XXXX XXXX sales representative, I inadvertently shared my HSBC credit card details during a screen share session. Subsequently, an unauthorized transaction of XXXX XXXX was made to 'XXXX XXXX  '. I have already taken the precaution of blocking my HSBC credit card and have attached a screenshot for reference. date of XXXX and XXXX XXXX  I have block the card aswell and also raise the ticket, cyber complaint also done."
+}
+
+Chunk:
+i have been a victim of fraud. yesterday, while attempting to apply for a link with xxxx, an xxxx xxxx sales representative, i inadvertently shared my hsbc credit card details during a screen share session. subsequently, an unauthorized transaction of xxxx xxxx was made to'xxxx xxxx '. i have already taken the precaution of blocking my hsbc credit card and have attached a screenshot for reference. date of xxxx and xxxx xxxx i have block the card aswell and also raise the ticket, cyber complaint also done.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988299012184143
+}

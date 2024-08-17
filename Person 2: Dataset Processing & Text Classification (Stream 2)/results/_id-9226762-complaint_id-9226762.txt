@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9226762,
+  "complaint_id": "9226762",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I was approached by a group requesting donations for a victim of XXXX XXXX in my area. This was in an area outside of a XXXX which is a common gathering spot for donations. They provided documentation of previous donations, as well as specific details on the victim. I decided to donate {$20.00} to them via XXXX XXXX and instead was charged {$2400.00} and the merchant shows up as XXXX XXXX, which is a grocery store. It did not have an address ( as any purchase I have made with this merchant provides ) and it was not listed as a grocery store, instead as business services not elsewhere classified. I immediately called Bank of America for this fradulent activity. They submitted a claim but did not advise me to contact the police and no one else advised me to either so I was unsure of how to proceed. This claim was initially denied because it was not considered fraud. I repeatedly had to call them in order to get the claim switched and provided documentation of how this transaction was fraudulent on multiple occasions. To this day, it was continued to be rejected for no reason other than that I dont have enough proof, despite providing as much information as I possibly could. Not only have they repeatedly failed to refile my claim despite saying they would, they also do not acknowledge or provide any valid reason why it is being rejected despite my documentation. They want a receipt of some kind from the merchant but this merchant doesnt really exist according to their own purchase information.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60202",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, I was approached by a group requesting donations for a victim of XXXX XXXX in my area. This was in an area outside of a XXXX which is a common gathering spot for donations. They provided documentation of previous donations, as well as specific details on the victim. I decided to donate {$20.00} to them via XXXX XXXX and instead was charged {$2400.00} and the merchant shows up as XXXX XXXX, which is a grocery store. It did not have an address ( as any purchase I have made with this merchant provides ) and it was not listed as a grocery store, instead as business services not elsewhere classified. I immediately called Bank of America for this fradulent activity. They submitted a claim but did not advise me to contact the police and no one else advised me to either so I was unsure of how to proceed. This claim was initially denied because it was not considered fraud. I repeatedly had to call them in order to get the claim switched and provided documentation of how this transaction was fraudulent on multiple occasions. To this day, it was continued to be rejected for no reason other than that I dont have enough proof, despite providing as much information as I possibly could. Not only have they repeatedly failed to refile my claim despite saying they would, they also do not acknowledge or provide any valid reason why it is being rejected despite my documentation. They want a receipt of some kind from the merchant but this merchant doesnt really exist according to their own purchase information."
+}
+
+Chunk:
+on xx / xx / year >, i was approached by a group requesting donations for a victim of xxxx xxxx in my area. this was in an area outside of a xxxx which is a common gathering spot for donations. they provided documentation of previous donations, as well as specific details on the victim. i decided to donate { $ 20. 00 } to them via xxxx xxxx and instead was charged { $ 2400. 00 } and the merchant shows up as xxxx xxxx, which is a grocery store. it did not have an address ( as any purchase i have made with this merchant provides ) and it was not listed as a grocery store, instead as business services not elsewhere classified. i immediately called bank of america for this fradulent activity. they submitted a claim but did not advise me to contact the police and no one else advised me to either so i was unsure of how to proceed. this claim was initially denied because it was not considered fraud. i repeatedly had to call them in order to get the claim switched and provided documentation of how this transaction was fraudulent on multiple occasions. to this day, it was continued to be rejected for no reason other than that i dont have enough proof, despite providing as much information as i possibly could. not only have they repeatedly failed to refile my claim despite saying they would, they also do not acknowledge or provide any valid reason why it is being rejected despite my documentation. they want a receipt of some kind from the merchant but this merchant doesnt really exist according to their own purchase information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994764924049377
+}

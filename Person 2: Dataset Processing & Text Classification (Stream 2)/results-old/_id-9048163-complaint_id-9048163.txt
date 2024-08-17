@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048163,
+  "complaint_id": "9048163",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to express my urgent concern regarding my inability to access funds held in my Grid Card account. Grid Support informed me on XX/XX/2024 that my Grid Card, issued by XXXX XXXX XXXX XXXX, is currently frozen due to issues with their credit services provider, XXXX XXXX XXXX XXXX XXXX. \n\nThis freeze has caused significant disruption to my financial affairs, preventing me from accessing my money for essential needs and causing me to miss out on time-sensitive opportunities. I rely on these funds for food and bills. \n\nI am deeply concerned about the lack of communication and transparency regarding the timeline for resolving this issue. I have been given no clear indication of when my funds will be accessible again. This uncertainty is causing me significant financial hardship and stress. \n\nI am requesting the Consumer Financial Protection Bureau 's immediate assistance in resolving this matter. I urge you to investigate the actions of Grid, XXXX XXXX XXXX XXXX, and XXXX XXXX XXXX XXXX XXXX, and to ensure that I am granted access to my funds as soon as possible.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77355",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Hatfield, Inc.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I am writing to express my urgent concern regarding my inability to access funds held in my Grid Card account. Grid Support informed me on XX/XX/2024 that my Grid Card, issued by XXXX XXXX XXXX XXXX, is currently frozen due to issues with their credit services provider, XXXX XXXX XXXX XXXX XXXX. \n\nThis freeze has caused significant disruption to my financial affairs, preventing me from accessing my money for essential needs and causing me to miss out on time-sensitive opportunities. I rely on these funds for food and bills. \n\nI am deeply concerned about the lack of communication and transparency regarding the timeline for resolving this issue. I have been given no clear indication of when my funds will be accessible again. This uncertainty is causing me significant financial hardship and stress. \n\nI am requesting the Consumer Financial Protection Bureau 's immediate assistance in resolving this matter. I urge you to investigate the actions of Grid, XXXX XXXX XXXX XXXX, and XXXX XXXX XXXX XXXX XXXX, and to ensure that I am granted access to my funds as soon as possible."
+}
+
+Chunk:
+i am writing to express my urgent concern regarding my inability to access funds held in my grid card account. grid support informed me on xx / xx / 2024 that my grid card, issued by xxxx xxxx xxxx xxxx, is currently frozen due to issues with their credit services provider, xxxx xxxx xxxx xxxx xxxx. this freeze has caused significant disruption to my financial affairs, preventing me from accessing my money for essential needs and causing me to miss out on time - sensitive opportunities. i rely on these funds for food and bills. i am deeply concerned about the lack of communication and transparency regarding the timeline for resolving this issue. i have been given no clear indication of when my funds will be accessible again. this uncertainty is causing me significant financial hardship and stress. i am requesting the consumer financial protection bureau's immediate assistance in resolving this matter. i urge you to investigate the actions of grid, xxxx xxxx xxxx xxxx, and xxxx xxxx xxxx xxxx xxxx, and to ensure that i am granted access to my funds as soon as possible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985906481742859
+}

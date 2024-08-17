@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167488,
+  "complaint_id": "9167488",
+  "product": "Credit card",
+  "complaint_what_happened": "Vendor : Barclaycard US / jetBlue credit card Date : XX/XX/2024 Description of incident : Barclay offers automatic payments, which I had set up in my account. However, their system is set up such that if you make a manual payment, it will override the automatic payment infrastructure, inclusive of sometimes turning off the autopay without telling the user. There is no documentation around manual payments to flag to the user that this will happen. \nThis has now happened to me twice, resulting in late fees and interest. Barclay has been willing to take the late fees off, but they're saying that I still have to pay the interest given that it's still my responsibility to make sure that the payment is landingeven though I would have no way of knowing that that the autopay had fallen off of the account. \n\nThe customer rep who I spoke with says she receives calls about this all the time. She expressed that she really wishes the company would fix the feature, as it causes this issue constantly. Today I made the payment and then recreated the autopay. She told me I can't do that, because it would cancel the autopay again! So I had to make the payment today, then I'm supposed to wait until that payment clears before setting autopay back up. And then be very careful about any future manual payments, using some kind of hidden from view method. \n\nWhile the customer service representative framed this as a type of bug or system limitation, I can't help but think it's actually intentional. It's a way for them to capture late fees and interest. It's deceptive through and through.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "954XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Vendor : Barclaycard US / jetBlue credit card Date : XX/XX/2024 Description of incident : Barclay offers automatic payments, which I had set up in my account. However, their system is set up such that if you make a manual payment, it will override the automatic payment infrastructure, inclusive of sometimes turning off the autopay without telling the user. There is no documentation around manual payments to flag to the user that this will happen. \nThis has now happened to me twice, resulting in late fees and interest. Barclay has been willing to take the late fees off, but they're saying that I still have to pay the interest given that it's still my responsibility to make sure that the payment is landingeven though I would have no way of knowing that that the autopay had fallen off of the account. \n\nThe customer rep who I spoke with says she receives calls about this all the time. She expressed that she really wishes the company would fix the feature, as it causes this issue constantly. Today I made the payment and then recreated the autopay. She told me I can't do that, because it would cancel the autopay again! So I had to make the payment today, then I'm supposed to wait until that payment clears before setting autopay back up. And then be very careful about any future manual payments, using some kind of hidden from view method. \n\nWhile the customer service representative framed this as a type of bug or system limitation, I can't help but think it's actually intentional. It's a way for them to capture late fees and interest. It's deceptive through and through."
+}
+
+Chunk:
+vendor : barclaycard us / jetblue credit card date : xx / xx / 2024 description of incident : barclay offers automatic payments, which i had set up in my account. however, their system is set up such that if you make a manual payment, it will override the automatic payment infrastructure, inclusive of sometimes turning off the autopay without telling the user. there is no documentation around manual payments to flag to the user that this will happen. this has now happened to me twice, resulting in late fees and interest. barclay has been willing to take the late fees off, but they're saying that i still have to pay the interest given that it's still my responsibility to make sure that the payment is landingeven though i would have no way of knowing that that the autopay had fallen off of the account. the customer rep who i spoke with says she receives calls about this all the time. she expressed that she really wishes the company would fix the feature, as it causes this issue constantly. today i made the payment and then recreated the autopay. she told me i can't do that, because it would cancel the autopay again! so i had to make the payment today, then i'm supposed to wait until that payment clears before setting autopay back up. and then be very careful about any future manual payments, using some kind of hidden from view method. while the customer service representative framed this as a type of bug or system limitation, i can't help but think it's actually intentional. it's a way for them to capture late fees and interest. it's deceptive through and through.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9906719923019409
+}

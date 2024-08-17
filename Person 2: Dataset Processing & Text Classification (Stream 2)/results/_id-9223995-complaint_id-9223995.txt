@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9223995,
+  "complaint_id": "9223995",
+  "product": "Credit card",
+  "complaint_what_happened": "I think someone opened an account in my name.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "466XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I think someone opened an account in my name."
+}
+
+Chunk:
+i think someone opened an account in my name.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9908571839332581
+}

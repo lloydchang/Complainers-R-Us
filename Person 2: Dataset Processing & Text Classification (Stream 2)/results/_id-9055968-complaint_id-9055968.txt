@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055968,
+  "complaint_id": "9055968",
+  "product": "Credit card",
+  "complaint_what_happened": "I am on the pre-screen opt out list and have been for years. I confirmed this a few months ago but continue to receive credit card offers from Ally. On the paper it indicates that you can choose to stop receiving pre-screened offers of credit by calling XXXX opt out which of course I have done, but it has not stopped them from sending me pre-screened offers of credit for months. It also says there is an enclosed insert with more information about pre-screened offers and opt-outs and there is in fact no enclosed insert with any information about that. I had to call them and they had to personally enter my information to opt me out of receiving these offers. That is not the correct procedure. It should be sufficient to simply be on the opt-out list. I would like Ally to stop sending me offers.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11225",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I am on the pre-screen opt out list and have been for years. I confirmed this a few months ago but continue to receive credit card offers from Ally. On the paper it indicates that you can choose to stop receiving pre-screened offers of credit by calling XXXX opt out which of course I have done, but it has not stopped them from sending me pre-screened offers of credit for months. It also says there is an enclosed insert with more information about pre-screened offers and opt-outs and there is in fact no enclosed insert with any information about that. I had to call them and they had to personally enter my information to opt me out of receiving these offers. That is not the correct procedure. It should be sufficient to simply be on the opt-out list. I would like Ally to stop sending me offers."
+}
+
+Chunk:
+i am on the pre - screen opt out list and have been for years. i confirmed this a few months ago but continue to receive credit card offers from ally. on the paper it indicates that you can choose to stop receiving pre - screened offers of credit by calling xxxx opt out which of course i have done, but it has not stopped them from sending me pre - screened offers of credit for months. it also says there is an enclosed insert with more information about pre - screened offers and opt - outs and there is in fact no enclosed insert with any information about that. i had to call them and they had to personally enter my information to opt me out of receiving these offers. that is not the correct procedure. it should be sufficient to simply be on the opt - out list. i would like ally to stop sending me offers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990748167037964
+}

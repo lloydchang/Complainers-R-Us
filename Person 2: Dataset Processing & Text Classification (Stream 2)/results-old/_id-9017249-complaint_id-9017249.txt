@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017249,
+  "complaint_id": "9017249",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from the bank this afternoon that there was a CARD NOT PRESENT TRANSACTION made on my account today. Both the merchant 's name and location were identified only with a code of letters and/or numbers, impossible to determine who or where the merchant is. I have not used my credit card, not ordered or purchased anything, for the past two weeks. I logged in to my account, clicked report fraud several times but the bank 's website would not open to a new page. I then tried to send an online message to the bank also several times, but appeared \" ERROR Unfortunately, we are experiencing technical difficulties at this time. We apologize for any inconvenience this may cause you. '' There is nothing to click on the bank 's website to dispute a charge.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I received an email from the bank this afternoon that there was a CARD NOT PRESENT TRANSACTION made on my account today. Both the merchant 's name and location were identified only with a code of letters and/or numbers, impossible to determine who or where the merchant is. I have not used my credit card, not ordered or purchased anything, for the past two weeks. I logged in to my account, clicked report fraud several times but the bank 's website would not open to a new page. I then tried to send an online message to the bank also several times, but appeared \" ERROR Unfortunately, we are experiencing technical difficulties at this time. We apologize for any inconvenience this may cause you. '' There is nothing to click on the bank 's website to dispute a charge."
+}
+
+Chunk:
+i received an email from the bank this afternoon that there was a card not present transaction made on my account today. both the merchant's name and location were identified only with a code of letters and / or numbers, impossible to determine who or where the merchant is. i have not used my credit card, not ordered or purchased anything, for the past two weeks. i logged in to my account, clicked report fraud several times but the bank's website would not open to a new page. i then tried to send an online message to the bank also several times, but appeared " error unfortunately, we are experiencing technical difficulties at this time. we apologize for any inconvenience this may cause you.'' there is nothing to click on the bank's website to dispute a charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994378685951233
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9260688,
+  "complaint_id": "9260688",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX I was sent a text message from XXXX ( XXXX ) XXXX that said, \" Purchase of {$520.00} was attempted at XXXX, XXXX on your CitiAccount. If this was you, no action needed. If not, XXXX. '' I immediately called the number as I was traveling across the US and had been using my card at hotels and gas stations along the way and thought it was from that. \n\nThe person answered ( XXXX ), and he sounded like a typical call center agent from XXXX. He said that my card had XXXX charges including a XXXX XXXX ticket for {$1000.00} ( not exact ), a game company XXXX? that had a {$500.00} ( also not exact ) plus XXXX other charges ( I can not exactly remember them ). He asked me if they were my charges. I said no. He then requested me to verify : 1. My address, 2. The last XXXX numbers of my credit card, and 3. The last 4 of my SSN. \n\nI provided all this information. He then said he would reverse the charges and put a security hold on my card. He then offered to close my card and send me a new one. For some reason, I apologized and said that I preferred to call back to get that done. \n\nWhen I called the credit card company, they shared that I had no \" fraudulant '' charges on my account and none had been flagged NOR had they called me. They suggested I contact FTC.gov to report this transaction ( since my SSN had been partially shared ), and I did close my credit card with that account.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "729XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XXXX I was sent a text message from XXXX ( XXXX ) XXXX that said, \" Purchase of {$520.00} was attempted at XXXX, XXXX on your CitiAccount. If this was you, no action needed. If not, XXXX. '' I immediately called the number as I was traveling across the US and had been using my card at hotels and gas stations along the way and thought it was from that. \n\nThe person answered ( XXXX ), and he sounded like a typical call center agent from XXXX. He said that my card had XXXX charges including a XXXX XXXX ticket for {$1000.00} ( not exact ), a game company XXXX? that had a {$500.00} ( also not exact ) plus XXXX other charges ( I can not exactly remember them ). He asked me if they were my charges. I said no. He then requested me to verify : 1. My address, 2. The last XXXX numbers of my credit card, and 3. The last 4 of my SSN. \n\nI provided all this information. He then said he would reverse the charges and put a security hold on my card. He then offered to close my card and send me a new one. For some reason, I apologized and said that I preferred to call back to get that done. \n\nWhen I called the credit card company, they shared that I had no \" fraudulant '' charges on my account and none had been flagged NOR had they called me. They suggested I contact FTC.gov to report this transaction ( since my SSN had been partially shared ), and I did close my credit card with that account."
+}
+
+Chunk:
+on xxxx i was sent a text message from xxxx ( xxxx ) xxxx that said, " purchase of { $ 520. 00 } was attempted at xxxx, xxxx on your citiaccount. if this was you, no action needed. if not, xxxx.'' i immediately called the number as i was traveling across the us and had been using my card at hotels and gas stations along the way and thought it was from that. the person answered ( xxxx ), and he sounded like a typical call center agent from xxxx. he said that my card had xxxx charges including a xxxx xxxx ticket for { $ 1000. 00 } ( not exact ), a game company xxxx? that had a { $ 500. 00 } ( also not exact ) plus xxxx other charges ( i can not exactly remember them ). he asked me if they were my charges. i said no. he then requested me to verify : 1. my address, 2. the last xxxx numbers of my credit card, and 3. the last 4 of my ssn. i provided all this information. he then said he would reverse the charges and put a security hold on my card. he then offered to close my card and send me a new one. for some reason, i apologized and said that i preferred to call back to get that done. when i called the credit card company, they shared that i had no " fraudulant'' charges on my account and none had been flagged nor had they called me. they suggested i contact ftc. gov to report this transaction ( since my ssn had been partially shared ), and i did close my credit card with that account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989773035049438
+}

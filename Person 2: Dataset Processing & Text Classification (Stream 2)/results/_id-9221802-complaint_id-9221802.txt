@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9221802,
+  "complaint_id": "9221802",
+  "product": "Credit card",
+  "complaint_what_happened": "I started a Care Credit account when I had XXXX XXXXXXXX in XXXXXXXX XXXX XXXX. I had setup auto pay using my checking account. Each month I would receive a call saying my payment was declined and processed the payment online with the same auto call using my checking account on the phone which is the same I use for auto pay. I logged into my account today and saw that Synchrony is charging me each month a late fee even though I am using the same bank account information they provide on the call. I called customer service to make them aware of this and they refused to refund any of my late charges.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80906",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I started a Care Credit account when I had XXXX XXXXXXXX in XXXXXXXX XXXX XXXX. I had setup auto pay using my checking account. Each month I would receive a call saying my payment was declined and processed the payment online with the same auto call using my checking account on the phone which is the same I use for auto pay. I logged into my account today and saw that Synchrony is charging me each month a late fee even though I am using the same bank account information they provide on the call. I called customer service to make them aware of this and they refused to refund any of my late charges."
+}
+
+Chunk:
+i started a care credit account when i had xxxx xxxxxxxx in xxxxxxxx xxxx xxxx. i had setup auto pay using my checking account. each month i would receive a call saying my payment was declined and processed the payment online with the same auto call using my checking account on the phone which is the same i use for auto pay. i logged into my account today and saw that synchrony is charging me each month a late fee even though i am using the same bank account information they provide on the call. i called customer service to make them aware of this and they refused to refund any of my late charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987624883651733
+}

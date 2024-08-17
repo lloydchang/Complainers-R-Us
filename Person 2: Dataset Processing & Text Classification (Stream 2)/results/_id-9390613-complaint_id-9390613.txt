@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9390613,
+  "complaint_id": "9390613",
+  "product": "Credit card",
+  "complaint_what_happened": "While shopping at Best Buy, I had applied to re-open my lapsed line of credit with them. I entered my social security number, date of birth, and name, and provided my Massachusetts state-issued driver 's license. The clerk at the store then proceeded to apply for the card in my father 's name with his email address attached because I used the family 's store rewards account to complete the purchase. The due date and payment cycle information were not disclosed to me at the time of the sale. \n\nFollowing this, I received a card in the wrong name, but never received an accompanying statement. Because the card was issued incorrectly with an incorrect name and email address was attached to the account, I wasn't able to establish online access to view my information. I never received any statements for the account either. I called the cardholder services number to make a payment and request that my information be changed. Per their instructions, I sent them a notarized letter with my requested corrections and a copy of my driver 's license. After receiving a card with the correct name and confirming that the email address on the account was finally corrected, I was still unable to set up online access with the same error code of being \" unable to set it up at this time, '' with a note that they will lock my card for online setup after too many incorrect attempts. I had already confirmed with a representative when I called that my card was not locked for sign up and made a payment over the phone. The due date was, once again, not mentioned. \n\nI only received a statement for this account with my due date after a {$30.00} late charge for non-payment had already been assessed. This account has been nothing but a hassle to attempt to maintain. Their services are subpar and their support is virtually nonexistent.",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "While shopping at Best Buy, I had applied to re-open my lapsed line of credit with them. I entered my social security number, date of birth, and name, and provided my Massachusetts state-issued driver 's license. The clerk at the store then proceeded to apply for the card in my father 's name with his email address attached because I used the family 's store rewards account to complete the purchase. The due date and payment cycle information were not disclosed to me at the time of the sale. \n\nFollowing this, I received a card in the wrong name, but never received an accompanying statement. Because the card was issued incorrectly with an incorrect name and email address was attached to the account, I wasn't able to establish online access to view my information. I never received any statements for the account either. I called the cardholder services number to make a payment and request that my information be changed. Per their instructions, I sent them a notarized letter with my requested corrections and a copy of my driver 's license. After receiving a card with the correct name and confirming that the email address on the account was finally corrected, I was still unable to set up online access with the same error code of being \" unable to set it up at this time, '' with a note that they will lock my card for online setup after too many incorrect attempts. I had already confirmed with a representative when I called that my card was not locked for sign up and made a payment over the phone. The due date was, once again, not mentioned. \n\nI only received a statement for this account with my due date after a {$30.00} late charge for non-payment had already been assessed. This account has been nothing but a hassle to attempt to maintain. Their services are subpar and their support is virtually nonexistent."
+}
+
+Chunk:
+while shopping at best buy, i had applied to re - open my lapsed line of credit with them. i entered my social security number, date of birth, and name, and provided my massachusetts state - issued driver's license. the clerk at the store then proceeded to apply for the card in my father's name with his email address attached because i used the family's store rewards account to complete the purchase. the due date and payment cycle information were not disclosed to me at the time of the sale. following this, i received a card in the wrong name, but never received an accompanying statement. because the card was issued incorrectly with an incorrect name and email address was attached to the account, i wasn't able to establish online access to view my information. i never received any statements for the account either. i called the cardholder services number to make a payment and request that my information be changed. per their instructions, i sent them a notarized letter with my requested corrections and a copy of my driver's license. after receiving a card with the correct name and confirming that the email address on the account was finally corrected, i was still unable to set up online access with the same error code of being " unable to set it up at this time,'' with a note that they will lock my card for online setup after too many incorrect attempts. i had already confirmed with a representative when i called that my card was not locked for sign up and made a payment over the phone. the due date was, once again, not mentioned. i only received a statement for this account with my due date after a { $ 30. 00 } late charge for non - payment had already been assessed. this account has been nothing but a hassle to attempt to maintain. their services are subpar and their support is virtually nonexistent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995829463005066
+}

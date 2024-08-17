@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9262902,
+  "complaint_id": "9262902",
+  "product": "Credit card",
+  "complaint_what_happened": "I have filed XXXX disputes over the last few months and I am now under investigation for fraud even though I did not make those charges. They said the charges show XXXX XXXX and mobile payments all coming back to me and no other phone or devices. I did not make these charges but I do not want to deal with fines if I am charged as responsible.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "640XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have filed XXXX disputes over the last few months and I am now under investigation for fraud even though I did not make those charges. They said the charges show XXXX XXXX and mobile payments all coming back to me and no other phone or devices. I did not make these charges but I do not want to deal with fines if I am charged as responsible."
+}
+
+Chunk:
+i have filed xxxx disputes over the last few months and i am now under investigation for fraud even though i did not make those charges. they said the charges show xxxx xxxx and mobile payments all coming back to me and no other phone or devices. i did not make these charges but i do not want to deal with fines if i am charged as responsible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998738706111908
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9463364,
+  "complaint_id": "9463364",
+  "product": "Credit card",
+  "complaint_what_happened": "We purchased products at XXXX XXXX XXXX and were offered to apply for a credit card. We did so and were approved within minutes. As soon as we got home, we set up automatic payments on the website to be worry-free. Our first surprise came when our initial automatic payment was rejected, and Synchrony Bank charged us a late fee of {$30.00}. We called customer service, who were able to remove the fee and apologized, explaining that the website was being updated, which caused the rejected payment. They suggested we remove and reset the automatic payment. \n\nThis occurred in XX/XX/year>, and I have attached a screenshot of our bank account showing we had sufficient funds to cover the {$100.00} payment. XXXX passed without any issues. However, on XX/XX/XXXX, they claimed again that my bank rejected the payment, which is untrue, and charged me another late fee of {$41.00}. This time, they said they couldn't remove it because they can only remove one late fee every 12 months. This is unfair as the issue was not due to insufficient funds but because their system malfunctioned. \n\nSynchrony Bank 's negligence with their system means customers like us have to bear the consequences. Please see all attached documents, including a letter from the bank and screenshots from our account proving there were always enough funds to cover the {$100.00} payment. I request a refund for the unjust late fee.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "751XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "We purchased products at XXXX XXXX XXXX and were offered to apply for a credit card. We did so and were approved within minutes. As soon as we got home, we set up automatic payments on the website to be worry-free. Our first surprise came when our initial automatic payment was rejected, and Synchrony Bank charged us a late fee of {$30.00}. We called customer service, who were able to remove the fee and apologized, explaining that the website was being updated, which caused the rejected payment. They suggested we remove and reset the automatic payment. \n\nThis occurred in XX/XX/year>, and I have attached a screenshot of our bank account showing we had sufficient funds to cover the {$100.00} payment. XXXX passed without any issues. However, on XX/XX/XXXX, they claimed again that my bank rejected the payment, which is untrue, and charged me another late fee of {$41.00}. This time, they said they couldn't remove it because they can only remove one late fee every 12 months. This is unfair as the issue was not due to insufficient funds but because their system malfunctioned. \n\nSynchrony Bank 's negligence with their system means customers like us have to bear the consequences. Please see all attached documents, including a letter from the bank and screenshots from our account proving there were always enough funds to cover the {$100.00} payment. I request a refund for the unjust late fee."
+}
+
+Chunk:
+we purchased products at xxxx xxxx xxxx and were offered to apply for a credit card. we did so and were approved within minutes. as soon as we got home, we set up automatic payments on the website to be worry - free. our first surprise came when our initial automatic payment was rejected, and synchrony bank charged us a late fee of { $ 30. 00 }. we called customer service, who were able to remove the fee and apologized, explaining that the website was being updated, which caused the rejected payment. they suggested we remove and reset the automatic payment. this occurred in xx / xx / year >, and i have attached a screenshot of our bank account showing we had sufficient funds to cover the { $ 100. 00 } payment. xxxx passed without any issues. however, on xx / xx / xxxx, they claimed again that my bank rejected the payment, which is untrue, and charged me another late fee of { $ 41. 00 }. this time, they said they couldn't remove it because they can only remove one late fee every 12 months. this is unfair as the issue was not due to insufficient funds but because their system malfunctioned. synchrony bank's negligence with their system means customers like us have to bear the consequences. please see all attached documents, including a letter from the bank and screenshots from our account proving there were always enough funds to cover the { $ 100. 00 } payment. i request a refund for the unjust late fee.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991055130958557
+}

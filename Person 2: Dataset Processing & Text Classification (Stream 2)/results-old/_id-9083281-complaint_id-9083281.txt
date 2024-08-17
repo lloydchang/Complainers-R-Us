@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083281,
+  "complaint_id": "9083281",
+  "product": "Credit card",
+  "complaint_what_happened": "Company notified of violations of maximum fee guidelines. Refuses to comply with government regulations, Notified that I will notify CFPB. I received bill via USPS. The company of note is BJs Capital One.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "32904",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Company notified of violations of maximum fee guidelines. Refuses to comply with government regulations, Notified that I will notify CFPB. I received bill via USPS. The company of note is BJs Capital One."
+}
+
+Chunk:
+company notified of violations of maximum fee guidelines. refuses to comply with government regulations, notified that i will notify cfpb. i received bill via usps. the company of note is bjs capital one.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986082911491394
+}

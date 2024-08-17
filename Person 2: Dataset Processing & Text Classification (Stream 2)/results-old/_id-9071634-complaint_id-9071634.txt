@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071634,
+  "complaint_id": "9071634",
+  "product": "Credit card",
+  "complaint_what_happened": "When you pay with paypal you have two balances. One is your balance of special purchases which have 0 interest for a period of time. The other is a balance with interest from non special purchases. When you pay it automatically applies the payment to the balance without interest and gives you no option to tell it where to apply the payment towards. This mean if you just pay it will always go to your non interest balance and you will accrue interest on your interest balance unless you call them to allocate it after the payment has cleared. This is a very obvious was to get you to accrue interest as it is not clear at all that this is happening.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "816XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "When you pay with paypal you have two balances. One is your balance of special purchases which have 0 interest for a period of time. The other is a balance with interest from non special purchases. When you pay it automatically applies the payment to the balance without interest and gives you no option to tell it where to apply the payment towards. This mean if you just pay it will always go to your non interest balance and you will accrue interest on your interest balance unless you call them to allocate it after the payment has cleared. This is a very obvious was to get you to accrue interest as it is not clear at all that this is happening."
+}
+
+Chunk:
+when you pay with paypal you have two balances. one is your balance of special purchases which have 0 interest for a period of time. the other is a balance with interest from non special purchases. when you pay it automatically applies the payment to the balance without interest and gives you no option to tell it where to apply the payment towards. this mean if you just pay it will always go to your non interest balance and you will accrue interest on your interest balance unless you call them to allocate it after the payment has cleared. this is a very obvious was to get you to accrue interest as it is not clear at all that this is happening.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992145299911499
+}

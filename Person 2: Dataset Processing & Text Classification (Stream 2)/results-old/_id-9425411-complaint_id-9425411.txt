@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9425411,
+  "complaint_id": "9425411",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank closed my XXXX credit line with PC Richards with no warning. \n\nI called pc richards and they told me to reapply, to which I did. \n\nThis is they're response via email Synchrony Bank XXXX XXXX XXXX XXXX, PA XXXX XX/XX/year> XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  NY XXXX Please see reverse side for important information Dear XXXX XXXX, We have received your request for a credit product with PC RICHARD issued by Synchrony Bank. \nUnfortunately, we are unable to approve your request at this time. \nYour request was denied for the following reason ( s ) : The total amount of credit lines you have with Synchrony Bank I had XXXX cards under synchrony ( not by my choice ), now I have XXXX. \n\nLosing XXXX worth of credit dropped my credit score to under XXXX PC Richards doesnt know what Synchrony is doing either.",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "119XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Synchrony Bank closed my XXXX credit line with PC Richards with no warning. \n\nI called pc richards and they told me to reapply, to which I did. \n\nThis is they're response via email Synchrony Bank XXXX XXXX XXXX XXXX, PA XXXX XX/XX/year> XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  NY XXXX Please see reverse side for important information Dear XXXX XXXX, We have received your request for a credit product with PC RICHARD issued by Synchrony Bank. \nUnfortunately, we are unable to approve your request at this time. \nYour request was denied for the following reason ( s ) : The total amount of credit lines you have with Synchrony Bank I had XXXX cards under synchrony ( not by my choice ), now I have XXXX. \n\nLosing XXXX worth of credit dropped my credit score to under XXXX PC Richards doesnt know what Synchrony is doing either."
+}
+
+Chunk:
+synchrony bank closed my xxxx credit line with pc richards with no warning. i called pc richards and they told me to reapply, to which i did. this is they're response via email synchrony bank xxxx xxxx xxxx xxxx, pa xxxx xx / xx / year > xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx ny xxxx please see reverse side for important information dear xxxx xxxx, we have received your request for a credit product with pc richard issued by synchrony bank. unfortunately, we are unable to approve your request at this time. your request was denied for the following reason ( s ) : the total amount of credit lines you have with synchrony bank i had xxxx cards under synchrony ( not by my choice ), now i have xxxx. losing xxxx worth of credit dropped my credit score to under xxxx pc richards doesnt know what synchrony is doing either.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995527863502502
+}

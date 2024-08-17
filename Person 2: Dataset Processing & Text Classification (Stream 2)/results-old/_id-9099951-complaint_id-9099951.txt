@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9099951,
+  "complaint_id": "9099951",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi bank for 2 years reported incorrect a XXXX balance and after two years XXXX  passed they are now reporting a error amount of {$7100.00} for a {$6000.00}. Credit limit card and cancelled the incorrect of {$7100.00} and issued a 1099-C without my consent. Secondly they refused to provide my billing statement. To verify the the amount on the account.\n\nI dont want the amount to be canceled. I just want to pay the correct amount that I owed. \n\nThe 7 year report ebds in XX/XX/2005 but I can not wait. I need to pay the correct amount.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10704",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Citi bank for 2 years reported incorrect a XXXX balance and after two years XXXX  passed they are now reporting a error amount of {$7100.00} for a {$6000.00}. Credit limit card and cancelled the incorrect of {$7100.00} and issued a 1099-C without my consent. Secondly they refused to provide my billing statement. To verify the the amount on the account.\n\nI dont want the amount to be canceled. I just want to pay the correct amount that I owed. \n\nThe 7 year report ebds in XX/XX/2005 but I can not wait. I need to pay the correct amount."
+}
+
+Chunk:
+citi bank for 2 years reported incorrect a xxxx balance and after two years xxxx passed they are now reporting a error amount of { $ 7100. 00 } for a { $ 6000. 00 }. credit limit card and cancelled the incorrect of { $ 7100. 00 } and issued a 1099 - c without my consent. secondly they refused to provide my billing statement. to verify the the amount on the account. i dont want the amount to be canceled. i just want to pay the correct amount that i owed. the 7 year report ebds in xx / xx / 2005 but i can not wait. i need to pay the correct amount.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993199110031128
+}

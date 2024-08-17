@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9328244,
+  "complaint_id": "9328244",
+  "product": "Credit card",
+  "complaint_what_happened": "Care Credit through Synchrony Bank is primarily used for medical payments. Consumers can sign up for a care credit with no interest if paid in one year. If allowed to expire deferred interest is charged at an extremely high rate ( 32.99 % for purchases, 26.99 % for regular transactions. ) XXXX sign up for additional promotions, \" stacking '' the no interest plans. We enrolled in 2 such plans, both with multiple interest free transactions with different start dates, enrolled in auto pay and made regular monthly payments. However, CC began allocating a portion of monthly payments to each deal, rather than to the initial balance, which I was told by customer support is not \" advised '' anywhere to the consumer. The only mechanism to change the allocation is through a phone request, which is also not disclosed. Without realizing our payments were not going toward the initial balance, our initial deal expired and we were charged hundreds in deferred interest. Refund/interest waiver was denied despite making regular on time payments, and I was told there is no mechanism to file an independent consumer complaint or to receive any feedback, verification, or action. That the only recourse was to pay in full to avoid further charges. XXXX XXXX XXXX, XXXX XX/XX/year> via online help chat.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "015XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Care Credit through Synchrony Bank is primarily used for medical payments. Consumers can sign up for a care credit with no interest if paid in one year. If allowed to expire deferred interest is charged at an extremely high rate ( 32.99 % for purchases, 26.99 % for regular transactions. ) XXXX sign up for additional promotions, \" stacking '' the no interest plans. We enrolled in 2 such plans, both with multiple interest free transactions with different start dates, enrolled in auto pay and made regular monthly payments. However, CC began allocating a portion of monthly payments to each deal, rather than to the initial balance, which I was told by customer support is not \" advised '' anywhere to the consumer. The only mechanism to change the allocation is through a phone request, which is also not disclosed. Without realizing our payments were not going toward the initial balance, our initial deal expired and we were charged hundreds in deferred interest. Refund/interest waiver was denied despite making regular on time payments, and I was told there is no mechanism to file an independent consumer complaint or to receive any feedback, verification, or action. That the only recourse was to pay in full to avoid further charges. XXXX XXXX XXXX, XXXX XX/XX/year> via online help chat."
+}
+
+Chunk:
+care credit through synchrony bank is primarily used for medical payments. consumers can sign up for a care credit with no interest if paid in one year. if allowed to expire deferred interest is charged at an extremely high rate ( 32. 99 % for purchases, 26. 99 % for regular transactions. ) xxxx sign up for additional promotions, " stacking'' the no interest plans. we enrolled in 2 such plans, both with multiple interest free transactions with different start dates, enrolled in auto pay and made regular monthly payments. however, cc began allocating a portion of monthly payments to each deal, rather than to the initial balance, which i was told by customer support is not " advised'' anywhere to the consumer. the only mechanism to change the allocation is through a phone request, which is also not disclosed. without realizing our payments were not going toward the initial balance, our initial deal expired and we were charged hundreds in deferred interest. refund / interest waiver was denied despite making regular on time payments, and i was told there is no mechanism to file an independent consumer complaint or to receive any feedback, verification, or action. that the only recourse was to pay in full to avoid further charges. xxxx xxxx xxxx, xxxx xx / xx / year > via online help chat.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992935657501221
+}

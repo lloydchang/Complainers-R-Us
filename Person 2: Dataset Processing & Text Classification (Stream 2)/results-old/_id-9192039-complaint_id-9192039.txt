@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9192039,
+  "complaint_id": "9192039",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX a fraudulent charge was made on my Home Depot credit card for {$3500.00} I contacted the company to file fraudulent charge on XX/XX/XXXX. On XX/XX/XXXX I received a letter stating that I was found to be responsible for the charges. I again disputed the charge On XX/XX/XXXX they asked me to fax drivers license to them which i did and they claim to never receive it although i have proof of transmission. I then mailed this proof along with my wife 's license and signature and again they claim they didn't receive it. On XX/XX/XXXX they claimed again I'm responsible for fraudulent charges. On XX/XX/XXXX I filed a fraudulent charges police report and submitted it to the credit card company. I was in contact with the company several more times to check on status and was always told it was still under review. On XX/XX/XXXX i was again told they didn't receive my drivers license information and I again faxed it to them again on XX/XX/XXXX. I received 3 more letters from company stating I'm responsible for the fraudulent charges and also received 2 letters stating that attorney placement is pending. Every time i called there the story about the charge changed and they always asked me the same questions over and over. According to the credit card company an increase in credit was requested days before the charge was made which again I did not request and they allowed .I asked them to check video surveillance which was denied. I have been cooperating fully to try and resolve this but they are still finding me responsible for this fraudulent charge.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "150XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX a fraudulent charge was made on my Home Depot credit card for {$3500.00} I contacted the company to file fraudulent charge on XX/XX/XXXX. On XX/XX/XXXX I received a letter stating that I was found to be responsible for the charges. I again disputed the charge On XX/XX/XXXX they asked me to fax drivers license to them which i did and they claim to never receive it although i have proof of transmission. I then mailed this proof along with my wife 's license and signature and again they claim they didn't receive it. On XX/XX/XXXX they claimed again I'm responsible for fraudulent charges. On XX/XX/XXXX I filed a fraudulent charges police report and submitted it to the credit card company. I was in contact with the company several more times to check on status and was always told it was still under review. On XX/XX/XXXX i was again told they didn't receive my drivers license information and I again faxed it to them again on XX/XX/XXXX. I received 3 more letters from company stating I'm responsible for the fraudulent charges and also received 2 letters stating that attorney placement is pending. Every time i called there the story about the charge changed and they always asked me the same questions over and over. According to the credit card company an increase in credit was requested days before the charge was made which again I did not request and they allowed .I asked them to check video surveillance which was denied. I have been cooperating fully to try and resolve this but they are still finding me responsible for this fraudulent charge."
+}
+
+Chunk:
+on xx / xx / xxxx a fraudulent charge was made on my home depot credit card for { $ 3500. 00 } i contacted the company to file fraudulent charge on xx / xx / xxxx. on xx / xx / xxxx i received a letter stating that i was found to be responsible for the charges. i again disputed the charge on xx / xx / xxxx they asked me to fax drivers license to them which i did and they claim to never receive it although i have proof of transmission. i then mailed this proof along with my wife's license and signature and again they claim they didn't receive it. on xx / xx / xxxx they claimed again i'm responsible for fraudulent charges. on xx / xx / xxxx i filed a fraudulent charges police report and submitted it to the credit card company. i was in contact with the company several more times to check on status and was always told it was still under review. on xx / xx / xxxx i was again told they didn't receive my drivers license information and i again faxed it to them again on xx / xx / xxxx. i received 3 more letters from company stating i'm responsible for the fraudulent charges and also received 2 letters stating that attorney placement is pending. every time i called there the story about the charge changed and they always asked me the same questions over and over. according to the credit card company an increase in credit was requested days before the charge was made which again i did not request and they allowed. i asked them to check video surveillance which was denied. i have been cooperating fully to try and resolve this but they are still finding me responsible for this fraudulent charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970763921737671
+}

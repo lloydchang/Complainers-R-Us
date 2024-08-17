@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9242374,
+  "complaint_id": "9242374",
+  "product": "Credit card",
+  "complaint_what_happened": "I called Target today to share that i was given less than a XXXXXXXX XXXX notice to vacate my home of 4 years. I live with my XXXX  parents and my daughter. \nI will be unable to pay XXXX due to unforeseen moving costs, downpayment, rent. And my mother is seeing a surgeon tomorrow to schedule an incisional hernia repair. \nI stated i do not want to destroy my credit since i need it in good standing to rent. \nThey will not help with lowering monthly costs nor intetest fees. I have paid over {$1100.00} this year and have been charged {$810.00} in just interests. This account has been closed since last year dye to fraud to which they did not really resolve. \nPlease help. Attached some proof. \nXXXX",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91740",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I called Target today to share that i was given less than a XXXXXXXX XXXX notice to vacate my home of 4 years. I live with my XXXX  parents and my daughter. \nI will be unable to pay XXXX due to unforeseen moving costs, downpayment, rent. And my mother is seeing a surgeon tomorrow to schedule an incisional hernia repair. \nI stated i do not want to destroy my credit since i need it in good standing to rent. \nThey will not help with lowering monthly costs nor intetest fees. I have paid over {$1100.00} this year and have been charged {$810.00} in just interests. This account has been closed since last year dye to fraud to which they did not really resolve. \nPlease help. Attached some proof. \nXXXX"
+}
+
+Chunk:
+i called target today to share that i was given less than a xxxxxxxx xxxx notice to vacate my home of 4 years. i live with my xxxx parents and my daughter. i will be unable to pay xxxx due to unforeseen moving costs, downpayment, rent. and my mother is seeing a surgeon tomorrow to schedule an incisional hernia repair. i stated i do not want to destroy my credit since i need it in good standing to rent. they will not help with lowering monthly costs nor intetest fees. i have paid over { $ 1100. 00 } this year and have been charged { $ 810. 00 } in just interests. this account has been closed since last year dye to fraud to which they did not really resolve. please help. attached some proof. xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978095889091492
+}

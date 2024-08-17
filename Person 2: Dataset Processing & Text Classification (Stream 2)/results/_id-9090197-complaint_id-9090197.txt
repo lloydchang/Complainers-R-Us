@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9090197,
+  "complaint_id": "9090197",
+  "product": "Credit card",
+  "complaint_what_happened": "Some years ago I had delta skymiles card. XXXX XXXX. After some time American Express raised the card fee to {$250.00}. They said you could op out and cancel the card. I did. Next month they wrote and said how about {$200.00}? I said NO I op out and the card is destroyed. Good by! Next month I get a bill new balance is {$200.00}, minimum payment is {$40.00}. Every month I receive this same bill, for the last 3 years! I have called, e-mailed, and written but it keeps coming. I have spoken to people at Amexco and have written answers that there is no balance and no bill. One supervisor said that the bill cant be stopped but nothing is owed. What? I have at least 3 years of these bills. Other people are asking me to go paperless but these paper bills keep coming. \nPlease help.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "283XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "Some years ago I had delta skymiles card. XXXX XXXX. After some time American Express raised the card fee to {$250.00}. They said you could op out and cancel the card. I did. Next month they wrote and said how about {$200.00}? I said NO I op out and the card is destroyed. Good by! Next month I get a bill new balance is {$200.00}, minimum payment is {$40.00}. Every month I receive this same bill, for the last 3 years! I have called, e-mailed, and written but it keeps coming. I have spoken to people at Amexco and have written answers that there is no balance and no bill. One supervisor said that the bill cant be stopped but nothing is owed. What? I have at least 3 years of these bills. Other people are asking me to go paperless but these paper bills keep coming. \nPlease help."
+}
+
+Chunk:
+some years ago i had delta skymiles card. xxxx xxxx. after some time american express raised the card fee to { $ 250. 00 }. they said you could op out and cancel the card. i did. next month they wrote and said how about { $ 200. 00 }? i said no i op out and the card is destroyed. good by! next month i get a bill new balance is { $ 200. 00 }, minimum payment is { $ 40. 00 }. every month i receive this same bill, for the last 3 years! i have called, e - mailed, and written but it keeps coming. i have spoken to people at amexco and have written answers that there is no balance and no bill. one supervisor said that the bill cant be stopped but nothing is owed. what? i have at least 3 years of these bills. other people are asking me to go paperless but these paper bills keep coming. please help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995478987693787
+}

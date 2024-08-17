@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029297,
+  "complaint_id": "9029297",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had 12 synchrony bank accounts and on XXXX  XXXX they closed every single ome of my accounts. No notcie to closing them. Except for when I just paid on multiple which I do once every week sometimes 2x a week because I have 12 cards. I have NEVER HAD A LATE PAYMENT OR MISSED A LAYMENT OR ASKED FOR HELP WITH MY ACOCUNTS. I AM VERY good with all my accounts. All the accounts closed but every other company comemtiy is still open and XXXX XXXX is still open. They had no reason to close them when I asked why they said we'll did you ask for an increase which I have 12 accounts of course I did. They said we'll maybe that's why. I'm not irresponsible with them. I pay them. I have had lots of fraud on my credit accounts but no late payments. Please help",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19050",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I have had 12 synchrony bank accounts and on XXXX  XXXX they closed every single ome of my accounts. No notcie to closing them. Except for when I just paid on multiple which I do once every week sometimes 2x a week because I have 12 cards. I have NEVER HAD A LATE PAYMENT OR MISSED A LAYMENT OR ASKED FOR HELP WITH MY ACOCUNTS. I AM VERY good with all my accounts. All the accounts closed but every other company comemtiy is still open and XXXX XXXX is still open. They had no reason to close them when I asked why they said we'll did you ask for an increase which I have 12 accounts of course I did. They said we'll maybe that's why. I'm not irresponsible with them. I pay them. I have had lots of fraud on my credit accounts but no late payments. Please help"
+}
+
+Chunk:
+i have had 12 synchrony bank accounts and on xxxx xxxx they closed every single ome of my accounts. no notcie to closing them. except for when i just paid on multiple which i do once every week sometimes 2x a week because i have 12 cards. i have never had a late payment or missed a layment or asked for help with my acocunts. i am very good with all my accounts. all the accounts closed but every other company comemtiy is still open and xxxx xxxx is still open. they had no reason to close them when i asked why they said we'll did you ask for an increase which i have 12 accounts of course i did. they said we'll maybe that's why. i'm not irresponsible with them. i pay them. i have had lots of fraud on my credit accounts but no late payments. please help
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9826198816299438
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027858,
+  "complaint_id": "9027858",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America debited my checking account three times for the same credit card balance payoff I was trying to make on XX/XX/year> without notifying me that they had done so. Consequently, they have refused to refund my money, more than {$15000.00}, claiming it can take up to 10 days to review. My checking account has been negatively impacted by this actiion, and I have been unable to pay personal bills that are due. There is no reason whatsoever that my overpayment should not be refunded immediately.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33418",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "Bank of America debited my checking account three times for the same credit card balance payoff I was trying to make on XX/XX/year> without notifying me that they had done so. Consequently, they have refused to refund my money, more than {$15000.00}, claiming it can take up to 10 days to review. My checking account has been negatively impacted by this actiion, and I have been unable to pay personal bills that are due. There is no reason whatsoever that my overpayment should not be refunded immediately."
+}
+
+Chunk:
+bank of america debited my checking account three times for the same credit card balance payoff i was trying to make on xx / xx / year > without notifying me that they had done so. consequently, they have refused to refund my money, more than { $ 15000. 00 }, claiming it can take up to 10 days to review. my checking account has been negatively impacted by this actiion, and i have been unable to pay personal bills that are due. there is no reason whatsoever that my overpayment should not be refunded immediately.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997041821479797
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9255619,
+  "complaint_id": "9255619",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank accounts were hacked after my husband died which cause me to have issues with bank on file. Added new bank made pmts through app even after pts were scheduled would get email advising payments still were not made which would cause me to think payments were not processed. Therefore, I would schedule that exact same pmt causing double draft due to company sending false emails and text messages resulting in yet another account being removed. I complained spoke to an agent on or around XX/XX/year> who advised escalation would be issued and the account would be added by management manually would add bank account back before the XXXXXXXX XXXX payment would be due if not complete then I could make the payment on time by contacting the collections dept and use my debt card to complete the pmt. Also asking that sup follow up which never happened. Attempting to pay on due date whas denied advised bank account was not added as I had been told also was denied of making a pmt per collections dept was told that all agents had lied asked for supervisor call again a total of 3 different times never happen. Got a collection call onXXXX seeking payment advised that late fee was added, and I could now make payment which caused the payment to increase causing me financial hardship due to misinformation between call center reps which is harming me after 7 requests for management and asking these calls be reviewed got XXXX help.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32208",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Bank accounts were hacked after my husband died which cause me to have issues with bank on file. Added new bank made pmts through app even after pts were scheduled would get email advising payments still were not made which would cause me to think payments were not processed. Therefore, I would schedule that exact same pmt causing double draft due to company sending false emails and text messages resulting in yet another account being removed. I complained spoke to an agent on or around XX/XX/year> who advised escalation would be issued and the account would be added by management manually would add bank account back before the XXXXXXXX XXXX payment would be due if not complete then I could make the payment on time by contacting the collections dept and use my debt card to complete the pmt. Also asking that sup follow up which never happened. Attempting to pay on due date whas denied advised bank account was not added as I had been told also was denied of making a pmt per collections dept was told that all agents had lied asked for supervisor call again a total of 3 different times never happen. Got a collection call onXXXX seeking payment advised that late fee was added, and I could now make payment which caused the payment to increase causing me financial hardship due to misinformation between call center reps which is harming me after 7 requests for management and asking these calls be reviewed got XXXX help."
+}
+
+Chunk:
+bank accounts were hacked after my husband died which cause me to have issues with bank on file. added new bank made pmts through app even after pts were scheduled would get email advising payments still were not made which would cause me to think payments were not processed. therefore, i would schedule that exact same pmt causing double draft due to company sending false emails and text messages resulting in yet another account being removed. i complained spoke to an agent on or around xx / xx / year > who advised escalation would be issued and the account would be added by management manually would add bank account back before the xxxxxxxx xxxx payment would be due if not complete then i could make the payment on time by contacting the collections dept and use my debt card to complete the pmt. also asking that sup follow up which never happened. attempting to pay on due date whas denied advised bank account was not added as i had been told also was denied of making a pmt per collections dept was told that all agents had lied asked for supervisor call again a total of 3 different times never happen. got a collection call onxxxx seeking payment advised that late fee was added, and i could now make payment which caused the payment to increase causing me financial hardship due to misinformation between call center reps which is harming me after 7 requests for management and asking these calls be reviewed got xxxx help.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994039535522461
+}

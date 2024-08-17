@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9482663,
+  "complaint_id": "9482663",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, today I received a call from someone who claims to be from Citibank and his name is XXXX. He said me had used a credit card to spend {$9300.00}, and he know a lot of my information, but I have never opened a Citibank credit card and never have a Citibank credit card. I hang up and I have checked my credit report and I have not opened any Citibank credit cards.I checked his caller XXXX and is from Citi bank.Is he a scammer? Thank you.",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Hello, today I received a call from someone who claims to be from Citibank and his name is XXXX. He said me had used a credit card to spend {$9300.00}, and he know a lot of my information, but I have never opened a Citibank credit card and never have a Citibank credit card. I hang up and I have checked my credit report and I have not opened any Citibank credit cards.I checked his caller XXXX and is from Citi bank.Is he a scammer? Thank you."
+}
+
+Chunk:
+hello, today i received a call from someone who claims to be from citibank and his name is xxxx. he said me had used a credit card to spend { $ 9300. 00 }, and he know a lot of my information, but i have never opened a citibank credit card and never have a citibank credit card. i hang up and i have checked my credit report and i have not opened any citibank credit cards. i checked his caller xxxx and is from citi bank. is he a scammer? thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974145889282227
+}

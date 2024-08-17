@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9006520,
+  "complaint_id": "9006520",
+  "product": "Credit card",
+  "complaint_what_happened": "I initiated a balance transfer with Chase bank in the amount of {$6000.00} to pay a XXXXXXXX XXXX  account on XX/XX/XXXX. After entering all my info for the transfer everything seemed typical. On XXXX I saw on Chase bank that a transfer had been initiated to XXXXXXXX XXXX and all still seemed fine. However when that transfer had not posted to my XXXXXXXX XXXX Credit Card by XX/XX/XXXX, I grew concerned so I called XXXXXXXX XXXX and was told there was no transfer in process and they recommended I call Chase. I then immediately called Chase Bank and explained that a transfer for {$6000.00} was posted to my Chase account but the XXXX XXXX has no record of it. That's when I learned the wrong account number had been paid. The account was still with XXXX XXXX or so I was told but was a completely different account number from my own. During that conversation the representative said it looked like a possible banking error and the situation had been elevated. After not hearing anything back I called Chase Bank again on XX/XX/XXXX to get an update. They said then that I would need to wait 14 business days while the process was handled. I figured they would fix the problem and the transaction would get reversed during that time, it did not. I then called again on XX/XX/XXXX to get updated on the process as the 14 business days had lapsed. I was then told the situation had been elevated to a team with no internal line and that the process would take up to 30 days from my initial call on XX/XX/XXXX to be resolved. Those 30 days lapsed on XX/XX/XXXX and I have still yet to have the situation corrected or be communicated with by Chase Bank. I have records I whom I spoke with on my 3rd call on XX/XX/XXXX but not the previous calls.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "47403",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I initiated a balance transfer with Chase bank in the amount of {$6000.00} to pay a XXXXXXXX XXXX  account on XX/XX/XXXX. After entering all my info for the transfer everything seemed typical. On XXXX I saw on Chase bank that a transfer had been initiated to XXXXXXXX XXXX and all still seemed fine. However when that transfer had not posted to my XXXXXXXX XXXX Credit Card by XX/XX/XXXX, I grew concerned so I called XXXXXXXX XXXX and was told there was no transfer in process and they recommended I call Chase. I then immediately called Chase Bank and explained that a transfer for {$6000.00} was posted to my Chase account but the XXXX XXXX has no record of it. That's when I learned the wrong account number had been paid. The account was still with XXXX XXXX or so I was told but was a completely different account number from my own. During that conversation the representative said it looked like a possible banking error and the situation had been elevated. After not hearing anything back I called Chase Bank again on XX/XX/XXXX to get an update. They said then that I would need to wait 14 business days while the process was handled. I figured they would fix the problem and the transaction would get reversed during that time, it did not. I then called again on XX/XX/XXXX to get updated on the process as the 14 business days had lapsed. I was then told the situation had been elevated to a team with no internal line and that the process would take up to 30 days from my initial call on XX/XX/XXXX to be resolved. Those 30 days lapsed on XX/XX/XXXX and I have still yet to have the situation corrected or be communicated with by Chase Bank. I have records I whom I spoke with on my 3rd call on XX/XX/XXXX but not the previous calls."
+}
+
+Chunk:
+i initiated a balance transfer with chase bank in the amount of { $ 6000. 00 } to pay a xxxxxxxx xxxx account on xx / xx / xxxx. after entering all my info for the transfer everything seemed typical. on xxxx i saw on chase bank that a transfer had been initiated to xxxxxxxx xxxx and all still seemed fine. however when that transfer had not posted to my xxxxxxxx xxxx credit card by xx / xx / xxxx, i grew concerned so i called xxxxxxxx xxxx and was told there was no transfer in process and they recommended i call chase. i then immediately called chase bank and explained that a transfer for { $ 6000. 00 } was posted to my chase account but the xxxx xxxx has no record of it. that's when i learned the wrong account number had been paid. the account was still with xxxx xxxx or so i was told but was a completely different account number from my own. during that conversation the representative said it looked like a possible banking error and the situation had been elevated. after not hearing anything back i called chase bank again on xx / xx / xxxx to get an update. they said then that i would need to wait 14 business days while the process was handled. i figured they would fix the problem and the transaction would get reversed during that time, it did not. i then called again on xx / xx / xxxx to get updated on the process as the 14 business days had lapsed. i was then told the situation had been elevated to a team with no internal line and that the process would take up to 30 days from my initial call on xx / xx / xxxx to be resolved. those 30 days lapsed on xx / xx / xxxx and i have still yet to have the situation corrected or be communicated with by chase bank. i have records i whom i spoke with on my 3rd call on xx / xx / xxxx but not the previous calls.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991257786750793
+}

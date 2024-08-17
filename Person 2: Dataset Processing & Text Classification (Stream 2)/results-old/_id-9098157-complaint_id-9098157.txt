@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9098157,
+  "complaint_id": "9098157",
+  "product": "Credit card",
+  "complaint_what_happened": "My XXXX was XXXX XXXX XXXX XXXX XXXX  in mid of XX/XX/2024. I have been frequently taking her to XXXX XXXX ( XXXX XXXXXXXX XXXX  ) and other hospitals for XXXX XXXX XXXX XXXX XXXX Around the same time I have lost my Wells Fargo credit card ( Ending XXXX ). Since I was upset and distracted by my XXXX XXXX XXXX I didn't notice until later XXXX with lots of Unauthorized transaction totaling around {$7000.00}. I reported to Wells Fargo right then. Now I seen the charges back and they are not ready to resolve it. I try to figure out myself about those charges and most of them seems likes to be online purchases. I want Wells Fargo to provide the details of their investigation like where were those online transactions made and where they were delivered. Since they are not doing their job I will do my investigation and figure out. This is unfair with me to pay for something that I did not make use of or not authorized by me. I want all the reported charges credit back ASAP. \n\nI am already in a lot of XXXXs due to XXXX XXXX XXXX. Please Assist.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77407",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "My XXXX was XXXX XXXX XXXX XXXX XXXX  in mid of XX/XX/2024. I have been frequently taking her to XXXX XXXX ( XXXX XXXXXXXX XXXX  ) and other hospitals for XXXX XXXX XXXX XXXX XXXX Around the same time I have lost my Wells Fargo credit card ( Ending XXXX ). Since I was upset and distracted by my XXXX XXXX XXXX I didn't notice until later XXXX with lots of Unauthorized transaction totaling around {$7000.00}. I reported to Wells Fargo right then. Now I seen the charges back and they are not ready to resolve it. I try to figure out myself about those charges and most of them seems likes to be online purchases. I want Wells Fargo to provide the details of their investigation like where were those online transactions made and where they were delivered. Since they are not doing their job I will do my investigation and figure out. This is unfair with me to pay for something that I did not make use of or not authorized by me. I want all the reported charges credit back ASAP. \n\nI am already in a lot of XXXXs due to XXXX XXXX XXXX. Please Assist."
+}
+
+Chunk:
+my xxxx was xxxx xxxx xxxx xxxx xxxx in mid of xx / xx / 2024. i have been frequently taking her to xxxx xxxx ( xxxx xxxxxxxx xxxx ) and other hospitals for xxxx xxxx xxxx xxxx xxxx around the same time i have lost my wells fargo credit card ( ending xxxx ). since i was upset and distracted by my xxxx xxxx xxxx i didn't notice until later xxxx with lots of unauthorized transaction totaling around { $ 7000. 00 }. i reported to wells fargo right then. now i seen the charges back and they are not ready to resolve it. i try to figure out myself about those charges and most of them seems likes to be online purchases. i want wells fargo to provide the details of their investigation like where were those online transactions made and where they were delivered. since they are not doing their job i will do my investigation and figure out. this is unfair with me to pay for something that i did not make use of or not authorized by me. i want all the reported charges credit back asap. i am already in a lot of xxxxs due to xxxx xxxx xxxx. please assist.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991545677185059
+}

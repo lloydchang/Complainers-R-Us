@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9046390,
+  "complaint_id": "9046390",
+  "product": "Credit card",
+  "complaint_what_happened": "Lowes closed my account due to wrong credit information. Company claimed my credit score was XXXX. My credit is over XXXX. Also, I was making payments and never late. So, now I have to deal with this account being on my credit report.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "75180",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Lowes closed my account due to wrong credit information. Company claimed my credit score was XXXX. My credit is over XXXX. Also, I was making payments and never late. So, now I have to deal with this account being on my credit report."
+}
+
+Chunk:
+lowes closed my account due to wrong credit information. company claimed my credit score was xxxx. my credit is over xxxx. also, i was making payments and never late. so, now i have to deal with this account being on my credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971363544464111
+}

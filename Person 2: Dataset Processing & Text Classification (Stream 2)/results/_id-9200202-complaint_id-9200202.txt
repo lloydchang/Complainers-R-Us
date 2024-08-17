@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9200202,
+  "complaint_id": "9200202",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a 0 % offer that expired on XX/XX/2024. They sent me another balance transfer offer in XX/XX/2024 which I accepted to pay off another higher interest card. I sent {$2000.00} on XXXX XXXX to pay down the first balance transfer offer. I should have had until the expiration of the first offer to pay it, however they applied the entire amount to the new offer I had just accepted. I called to explain that I wanted it applied to the original offer and they would not apply the payment to the old offer \" stating they had to apply it to the new offer because it had a higher interest rate ( 4.99 % ). Now I not only paid for balance transfer fees for the new offer, but also did not get to take advantage of the offer because they applied my {$2000.00} payment to it, leaving a small balance on the new offer. In addition I am now going to be paying a very large amount of interest on the first offer because they will not apply my {$2000.00} payment as i requested. This is extremely deceitful business practice!! I should have until the expiration date on the offer to pay it down!! At this point any money I send will be applied to the second offer first, making it impossible to get out out of the very high interest rate ( XXXX ) on the first offer. I am on a fixed income and this will be a hardship for me.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "454XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I had a 0 % offer that expired on XX/XX/2024. They sent me another balance transfer offer in XX/XX/2024 which I accepted to pay off another higher interest card. I sent {$2000.00} on XXXX XXXX to pay down the first balance transfer offer. I should have had until the expiration of the first offer to pay it, however they applied the entire amount to the new offer I had just accepted. I called to explain that I wanted it applied to the original offer and they would not apply the payment to the old offer \" stating they had to apply it to the new offer because it had a higher interest rate ( 4.99 % ). Now I not only paid for balance transfer fees for the new offer, but also did not get to take advantage of the offer because they applied my {$2000.00} payment to it, leaving a small balance on the new offer. In addition I am now going to be paying a very large amount of interest on the first offer because they will not apply my {$2000.00} payment as i requested. This is extremely deceitful business practice!! I should have until the expiration date on the offer to pay it down!! At this point any money I send will be applied to the second offer first, making it impossible to get out out of the very high interest rate ( XXXX ) on the first offer. I am on a fixed income and this will be a hardship for me."
+}
+
+Chunk:
+i had a 0 % offer that expired on xx / xx / 2024. they sent me another balance transfer offer in xx / xx / 2024 which i accepted to pay off another higher interest card. i sent { $ 2000. 00 } on xxxx xxxx to pay down the first balance transfer offer. i should have had until the expiration of the first offer to pay it, however they applied the entire amount to the new offer i had just accepted. i called to explain that i wanted it applied to the original offer and they would not apply the payment to the old offer " stating they had to apply it to the new offer because it had a higher interest rate ( 4. 99 % ). now i not only paid for balance transfer fees for the new offer, but also did not get to take advantage of the offer because they applied my { $ 2000. 00 } payment to it, leaving a small balance on the new offer. in addition i am now going to be paying a very large amount of interest on the first offer because they will not apply my { $ 2000. 00 } payment as i requested. this is extremely deceitful business practice!! i should have until the expiration date on the offer to pay it down!! at this point any money i send will be applied to the second offer first, making it impossible to get out out of the very high interest rate ( xxxx ) on the first offer. i am on a fixed income and this will be a hardship for me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991262555122375
+}
