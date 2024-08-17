@@ -1,610 +1,752 @@
-rewrite to fall back to cpu if gpu is unavailable
 
-import torch
+You said:
+rewrite
 
-#check for gpu
-if torch.backends.mps.is_available():
-   mps_device = torch.device("mps")
-   x = torch.ones(1, device=mps_device)
-   print (x)
-else:
-   print ("MPS device not found.")
+# process_data.py
 
-# GPU
-import time
-start_time = time.time()
+import pandas as pd
 
-# syncrocnize time with cpu, otherwise only time for oflaoding data to gpu would be measured
-torch.mps.synchronize()
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-a = torch.ones(4000,4000, device="mps")
-for _ in range(200):
-   a +=a
+# print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
 
-elapsed_time = time.time() - start_time
-print( "GPU Time: ", elapsed_time)
-print(f"CUDA Available: {torch.cuda.is_available()}")
-print(f"CUDA Version: {torch.version.cuda}")
-print(f"Number of GPUs: {torch.cuda.device_count()}")
-import torch
-if torch.cuda.is_available():
-    device = torch.device("cuda")
-    x = torch.rand(5, 5).to(device)
-    print(f"Tensor on CUDA device: {x}")
-else:
-    print("CUDA is not available")
-from transformers import pipeline, AutoModelForSequenceClassification, AutoTokenizer
-from concurrent.futures import ThreadPoolExecutor, as_completed
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
 
-# Check CUDA availability
-if not torch.cuda.is_available():
-    raise RuntimeError("CUDA is not available. Ensure PyTorch is installed with CUDA support.")
+# Assuming df is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
 
-# Load model and tokenizer
-model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
 
-# Set up model for multi-GPU
-if torch.cuda.device_count() > 1:
-    model = torch.nn.DataParallel(model)
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
 
-model.to('cuda')  # Move model to GPU
+# Save cleaned text
+df['text'].to_csv('cleaned_text.txt', index=False, header=False)
 
-def classify_text(text):
-    """Classify the given text and return results."""
-    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to('cuda')
-    with torch.no_grad():
-        outputs = model(**inputs)
-    logits = outputs.logits
-    probabilities = torch.nn.functional.softmax(logits, dim=-1)
-    predicted_class = torch.argmax(probabilities, dim=-1).item()
-    return {
-        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
-        'score': probabilities[0][predicted_class].item()
-    }
+print("Text data has been cleaned and saved.")
 
-def split_text_into_chunks(text, max_length=512):
-    """Split text into chunks of a specified maximum length."""
-    tokens = tokenizer.encode(text, truncation=False)
-    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
-              for i in range(0, len(tokens), max_length)]
-    return chunks
 
-def process_chunks_in_parallel(chunks):
-    """Process text chunks in parallel using multiple GPUs."""
-    results = []
-    with ThreadPoolExecutor() as executor:
-        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
-        for future in as_completed(future_to_chunk):
-            chunk = future_to_chunk[future]
-            try:
-                result = future.result()
-                results.append((chunk, result))
-            except Exception as exc:
-                print(f'Chunk processing generated an exception: {exc}')
-    return results
-
-# Test classification with simple text
-test_texts = [
-    "I love using GPUs for deep learning!",
-    "I love using Hugging Face models!"
-]
-
-for text in test_texts:
-    result = classify_text(text)
-    print("\n")
-    print(text)
-    print(result)
-    print("\n")
-
-# Process text from file
-transcribed_text_file = "cleaned_text.txt"
-
-try:
-    # Load transcribed text
-    with open(transcribed_text_file, 'r') as file:
-        transcribed_text = file.read()
-
-    # Split text into chunks
-    chunks = split_text_into_chunks(transcribed_text)
-
-    # Process chunks in parallel
-    results = process_chunks_in_parallel(chunks)
-
-    # Print results
-    for chunk, result in results:
-        print("\n")
-        print(chunk)
-        print(result)
-        print("\n")
-
-except FileNotFoundError:
-    print(f"The file '{transcribed_text_file}' was not found.")
-
-except Exception as e:
-    print(f"An error occurred: {e}")
-
+so that _id and complaint_id are in the saved output of cleaned_data.txt to they, together, can be used as unique identifiers as a set
 ChatGPT said:
 ChatGPT
-Here's the revised script that falls back to CPU if GPU is unavailable, while maintaining the original functionality:
+Here's the revised process_data.py script to include _id and complaint_id in the saved cleaned_text.txt file, so they can be used as unique identifiers along with the cleaned text:
 
 python
 Copy code
-import torch
-import time
-from transformers import pipeline, AutoModelForSequenceClassification, AutoTokenizer
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import pandas as pd
 
-# Check for MPS or CUDA availability
-if torch.backends.mps.is_available():
-    device = torch.device("mps")
-elif torch.cuda.is_available():
-    device = torch.device("cuda")
-else:
-    device = torch.device("cpu")
-    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-# Test GPU or CPU timing
-start_time = time.time()
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
 
-if device.type == "cpu":
-    print("Using CPU.")
-    # Run CPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
-else:
-    # Synchronize MPS or CUDA device with CPU
-    if device.type == "cuda":
-        torch.cuda.synchronize()
-    elif device.type == "mps":
-        torch.mps.synchronize()
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
 
-    # Run GPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
+# Assuming `df` is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
 
-elapsed_time = time.time() - start_time
-print(f"{device.type.upper()} Time: {elapsed_time}")
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
 
-print(f"CUDA Available: {torch.cuda.is_available()}")
-print(f"CUDA Version: {torch.version.cuda}")
-print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
 
-# Check CUDA availability
-if device.type == "cpu":
-    raise RuntimeError("CUDA is not available. Ensure PyTorch is installed with CUDA support.")
+# Include '_id' and 'complaint_id' in the output
+df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
 
-# Load model and tokenizer
-model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
 
-# Set up model for multi-GPU if CUDA is available
-if torch.cuda.device_count() > 1 and device.type == "cuda":
-    model = torch.nn.DataParallel(model)
-
-model.to(device)  # Move model to GPU or CPU
-
-def classify_text(text):
-    """Classify the given text and return results."""
-    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
-    with torch.no_grad():
-        outputs = model(**inputs)
-    logits = outputs.logits
-    probabilities = torch.nn.functional.softmax(logits, dim=-1)
-    predicted_class = torch.argmax(probabilities, dim=-1).item()
-    return {
-        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
-        'score': probabilities[0][predicted_class].item()
-    }
-
-def split_text_into_chunks(text, max_length=512):
-    """Split text into chunks of a specified maximum length."""
-    tokens = tokenizer.encode(text, truncation=False)
-    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
-              for i in range(0, len(tokens), max_length)]
-    return chunks
-
-def process_chunks_in_parallel(chunks):
-    """Process text chunks in parallel using multiple GPUs if available."""
-    results = []
-    with ThreadPoolExecutor() as executor:
-        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
-        for future in as_completed(future_to_chunk):
-            chunk = future_to_chunk[future]
-            try:
-                result = future.result()
-                results.append((chunk, result))
-            except Exception as exc:
-                print(f'Chunk processing generated an exception: {exc}')
-    return results
-
-# Test classification with simple text
-test_texts = [
-    "I love using GPUs for deep learning!",
-    "I love using Hugging Face models!"
-]
-
-for text in test_texts:
-    result = classify_text(text)
-    print("\n")
-    print(text)
-    print(result)
-    print("\n")
-
-# Process text from file
-transcribed_text_file = "cleaned_text.txt"
-
-try:
-    # Load transcribed text
-    with open(transcribed_text_file, 'r') as file:
-        transcribed_text = file.read()
-
-    # Split text into chunks
-    chunks = split_text_into_chunks(transcribed_text)
-
-    # Process chunks in parallel
-    results = process_chunks_in_parallel(chunks)
-
-    # Print results
-    for chunk, result in results:
-        print("\n")
-        print(chunk)
-        print(result)
-        print("\n")
-
-except FileNotFoundError:
-    print(f"The file '{transcribed_text_file}' was not found.")
-
-except Exception as e:
-    print(f"An error occurred: {e}")
-Key Changes:
-Device Detection: Added logic to fall back to CPU if neither MPS nor CUDA is available.
-Benchmarking: Adjusted timing code to handle both GPU and CPU cases.
-Device-Specific Operations: Modified synchronization and model placement to handle cases when MPS or CUDA is not available.
+print("Text data with identifiers has been cleaned and saved.")
+Explanation:
+Extract Text: The script extracts the text from the _source column as before.
+Clean Text: The script cleans the text data by removing non-alphanumeric characters.
+Include Identifiers: A new column cleaned_text is created by combining _id, complaint_id, and the cleaned text, separated by pipes (|).
+Save Output: The cleaned_text column is saved to cleaned_text.txt, which now includes the identifiers for each entry.
 You said:
-and pandas>=2.2.2
-torch>=2.4.0
-torchvision>=0.19.0
-torchaudio>=2.4.0
-transformers>=4.44.0
---extra-index-url https://download.pytorch.org/whl/nightly/cpu
+Traceback (most recent call last):
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'complaint_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 26, in <module>
+    df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/frame.py", line 10374, in apply
+    return op.apply().__finalize__(self, method="apply")
+           ^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 916, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 1063, in apply_standard
+    results, res_index = self.apply_series_generator()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 1081, in apply_series_generator
+    results[i] = self.func(v, *self.args, **self.kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 26, in <lambda>
+    df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+                                                              ~~~^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'complaint_id'
 ChatGPT said:
 ChatGPT
-To install the required packages with specific versions and the extra index URL for PyTorch, you can use the following pip command:
+It looks like the column 'complaint_id' doesn't exist in your DataFrame, which is causing the KeyError. To resolve this issue, you should first verify the actual column names in your dataset and then adjust the script accordingly.
 
-bash
+Here’s a revised approach:
+
+Verify Column Names: Print out the column names to check if 'complaint_id' is present or if it might be named differently.
+
+Adjust Script Based on Available Columns: Modify the script to use the correct column names.
+
+Here's the updated script with an additional step to check column names:
+
+python
 Copy code
-pip install pandas>=2.2.2 torch>=2.4.0 torchvision>=0.19.0 torchaudio>=2.4.0 transformers>=4.44.0 --extra-index-url https://download.pytorch.org/whl/nightly/cpu
-Breakdown:
-pandas>=2.2.2: Install pandas version 2.2.2 or newer.
-torch>=2.4.0: Install PyTorch version 2.4.0 or newer.
-torchvision>=0.19.0: Install torchvision version 0.19.0 or newer.
-torchaudio>=2.4.0: Install torchaudio version 2.4.0 or newer.
-transformers>=4.44.0: Install transformers version 4.44.0 or newer.
---extra-index-url https://download.pytorch.org/whl/nightly/cpu: Use this extra index URL to access the latest nightly builds of PyTorch and its related packages for CPU.
-Make sure to run this command in your terminal or command prompt. If you are using a virtual environment, ensure it's activated before running the command.
+import pandas as pd
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Assuming `df` is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Verify if '_id' and 'complaint_id' exist in the DataFrame
+print("Checking for '_id' and 'complaint_id' in columns:")
+print('_id' in df.columns)
+print('complaint_id' in df.columns)
+
+# Include '_id' and 'complaint_id' in the output if they exist
+if '_id' in df.columns and 'complaint_id' in df.columns:
+    df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+    df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+    print("Text data with identifiers has been cleaned and saved.")
+else:
+    print("Required columns are missing. Please check the column names.")
+Steps Taken:
+Print Column Names: The script first prints out all column names to help you identify the correct columns.
+Verify Column Presence: It checks if both _id and complaint_id columns exist before attempting to use them.
+Conditional Processing: If the required columns are present, it proceeds with creating the cleaned_text column and saves it. If not, it provides a message indicating which columns are missing.
+You said:
+if complaint ID doesn't exist, just use the placeholder of NA, same goes for ID
+ChatGPT said:
+ChatGPT
+Here's how you can modify the script to use placeholders (NA) for missing _id or complaint_id columns:
+
+python
+Copy code
+import pandas as pd
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Assuming `df` is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Fill missing '_id' and 'complaint_id' with 'NA'
+df['_id'].fillna('NA', inplace=True)
+df['complaint_id'].fillna('NA', inplace=True)
+
+# Include '_id' and 'complaint_id' in the output, using 'NA' for missing values
+df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
+Explanation:
+Fill Missing Values: The fillna('NA', inplace=True) method replaces any missing values in the _id and complaint_id columns with the string 'NA'.
+Create cleaned_text: The apply function combines _id, complaint_id, and the cleaned text into the cleaned_text column, ensuring that 'NA' is used if the columns are missing.
+Save Output: The cleaned_text column is saved to cleaned_text.txt as before.
+You said:
+Traceback (most recent call last):
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'complaint_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 26, in <module>
+    df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/frame.py", line 10374, in apply
+    return op.apply().__finalize__(self, method="apply")
+           ^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 916, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 1063, in apply_standard
+    results, res_index = self.apply_series_generator()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/apply.py", line 1081, in apply_series_generator
+    results[i] = self.func(v, *self.args, **self.kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 26, in <lambda>
+    df['cleaned_text'] = df.apply(lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1)
+                                                              ~~~^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'complaint_id'
+ChatGPT said:
+ChatGPT
+It seems that 'complaint_id' might not exist in your DataFrame, leading to the KeyError. To handle cases where columns might be missing, you can use the get method to provide default values for missing columns when constructing the cleaned_text column.
+
+Here's the updated script:
+
+python
+Copy code
+import pandas as pd
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Assuming `df` is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Fill missing '_id' and 'complaint_id' with 'NA'
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df.get('complaint_id', 'NA')
+
+# Include '_id' and 'complaint_id' in the output, using 'NA' for missing values
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row.get('_id', 'NA')}|{row.get('complaint_id', 'NA')}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
+Key Changes:
+Use get for Missing Columns: The get method is used to safely retrieve column values, providing 'NA' as a default if the column does not exist. This avoids the KeyError and allows the script to handle missing columns gracefully.
+
+Check Column Existence and Replace Missing Values: df.get('_id', 'NA') and df.get('complaint_id', 'NA') ensure that if these columns are missing, they are filled with 'NA' so that the apply method doesn’t raise an error.
+
+With these changes, the script should handle cases where _id or complaint_id columns are missing, using placeholders ('NA') as needed.
 
 You said:
-now, rewrite both files to try MPS on MacOS first, then NVIDIA GPU next, then fall back to CPU if none of them are available
+"_id" and "complaint_id"
+ChatGPT said:
+ChatGPT
+Given the issue with missing columns, let's address it by ensuring that both _id and complaint_id are handled properly, even if they don't exist in the DataFrame. We'll also make sure to use default values ('NA') for these columns if they are not present.
+
+Here's the updated script:
+
+python
+Copy code
+import pandas as pd
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Assuming `df` is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+if '_id' not in df.columns:
+    df['_id'] = 'NA'
+if 'complaint_id' not in df.columns:
+    df['complaint_id'] = 'NA'
+
+# Include '_id' and 'complaint_id' in the output, using 'NA' for missing values
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
+Key Points:
+Check and Add Missing Columns: The script checks if _id and complaint_id columns exist. If they do not, it adds them with the value 'NA'.
+
+Combine Identifiers and Cleaned Text: The apply function combines _id, complaint_id, and the cleaned text into the cleaned_text column, ensuring that the placeholders are used where needed.
+
+Save Output: The cleaned_text column is saved to cleaned_text.txt as before.
+
+You said:
+something isn't right
+
+"_id": "9080238", "_score": null, "_source": {"product": "Credit card", "complaint_what_happened": "I thought I was agreeing to a credit balance transfer at a lower interest rate and higher credit limit. However, they issued me a predatory a higher interest rate. Due to the pandemic, paying this predatory credit line was unsustainable. \nDue to this action, I suffered a lower credit score and have been unable to access credit for buying a home, car, and other credit cards.", "date_sent_to_company": "2024-05-24T12:00:00-05:00", "issue": "Fees or interest", "sub_product": "General-purpose credit card or charge card", "zip_code": "30344", "tags": null, "complaint_id": "9080238"
+
+is an example
+
+but the output is
+
+"9080238|NA|I thought I was agreeing to a credit balance transfer at a lower interest rate and higher credit limit However they issued me a predatory a higher interest rate Due to the pandemic paying this predatory credit line was unsustainable 
+
+
+there is an extra " in the beginning for _id and it is NA instead of 9080238 for customer_id
 ChatGPT said:
 ChatGPT
 Memory updated
-Here’s how you can rewrite the scripts to prioritize MPS on macOS, then NVIDIA GPU, and finally fall back to CPU if neither is available:
+It looks like the issue arises from how the complaint_id and _id fields are handled. Since _id and complaint_id are nested inside the _source field in your dataset, you'll need to extract these values correctly.
 
-Script 1: Device Selection and Benchmarking
+Here's an updated script that ensures these fields are properly extracted from the _source dictionary and used in the output:
+
 python
 Copy code
-import torch
-import time
+import pandas as pd
 
-# Check for MPS, then CUDA, then fallback to CPU
-if torch.backends.mps.is_available():
-    device = torch.device("mps")
-    print("Using MPS.")
-elif torch.cuda.is_available():
-    device = torch.device("cuda")
-    print("Using CUDA.")
-else:
-    device = torch.device("cpu")
-    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-# Test device timing
-start_time = time.time()
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
 
-if device.type == "cpu":
-    print("Running on CPU.")
-    # Run CPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
-else:
-    if device.type == "cuda":
-        torch.cuda.synchronize()
-    elif device.type == "mps":
-        torch.mps.synchronize()
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
 
-    # Run GPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
 
-elapsed_time = time.time() - start_time
-print(f"{device.type.upper()} Time: {elapsed_time}")
+# Extract '_id' and 'complaint_id' from the main DataFrame and handle missing values
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
 
-print(f"CUDA Available: {torch.cuda.is_available()}")
-print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
-print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
-Script 2: Model Loading and Text Classification
-python
-Copy code
-import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
-from concurrent.futures import ThreadPoolExecutor, as_completed
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
 
-# Check for MPS, then CUDA, then fallback to CPU
-if torch.backends.mps.is_available():
-    device = torch.device("mps")
-    print("Using MPS.")
-elif torch.cuda.is_available():
-    device = torch.device("cuda")
-    print("Using CUDA.")
-else:
-    device = torch.device("cpu")
-    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+# Include '_id' and 'complaint_id' in the output
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
 
-# Load model and tokenizer
-model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
 
-# Set up model for multi-GPU if CUDA is available
-if torch.cuda.device_count() > 1 and device.type == "cuda":
-    model = torch.nn.DataParallel(model)
-
-model.to(device)  # Move model to selected device
-
-def classify_text(text):
-    """Classify the given text and return results."""
-    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
-    with torch.no_grad():
-        outputs = model(**inputs)
-    logits = outputs.logits
-    probabilities = torch.nn.functional.softmax(logits, dim=-1)
-    predicted_class = torch.argmax(probabilities, dim=-1).item()
-    return {
-        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
-        'score': probabilities[0][predicted_class].item()
-    }
-
-def split_text_into_chunks(text, max_length=512):
-    """Split text into chunks of a specified maximum length."""
-    tokens = tokenizer.encode(text, truncation=False)
-    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
-              for i in range(0, len(tokens), max_length)]
-    return chunks
-
-def process_chunks_in_parallel(chunks):
-    """Process text chunks in parallel using multiple GPUs if available."""
-    results = []
-    with ThreadPoolExecutor() as executor:
-        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
-        for future in as_completed(future_to_chunk):
-            chunk = future_to_chunk[future]
-            try:
-                result = future.result()
-                results.append((chunk, result))
-            except Exception as exc:
-                print(f'Chunk processing generated an exception: {exc}')
-    return results
-
-# Test classification with simple text
-test_texts = [
-    "I love using GPUs for deep learning!",
-    "I love using Hugging Face models!"
-]
-
-for text in test_texts:
-    result = classify_text(text)
-    print("\n")
-    print(text)
-    print(result)
-    print("\n")
-
-# Process text from file
-transcribed_text_file = "cleaned_text.txt"
-
-try:
-    # Load transcribed text
-    with open(transcribed_text_file, 'r') as file:
-        transcribed_text = file.read()
-
-    # Split text into chunks
-    chunks = split_text_into_chunks(transcribed_text)
-
-    # Process chunks in parallel
-    results = process_chunks_in_parallel(chunks)
-
-    # Print results
-    for chunk, result in results:
-        print("\n")
-        print(chunk)
-        print(result)
-        print("\n")
-
-except FileNotFoundError:
-    print(f"The file '{transcribed_text_file}' was not found.")
-
-except Exception as e:
-    print(f"An error occurred: {e}")
-Summary of Changes:
-Device Selection: The code now tries MPS first, then CUDA, and falls back to CPU if neither is available.
-Synchronization and Benchmarking: Adjusted to handle MPS, CUDA, and CPU accordingly.
-Model and Tokenizer Loading: Ensured compatibility with the selected device and supports multi-GPU setup for CUDA.
-This setup ensures your code will utilize the best available hardware, optimizing performance across different environments.
+print("Text data with identifiers has been cleaned and saved.")
+Key Adjustments:
+Extract _id Directly: Assuming _id is a top-level field in your JSON, we use df.get('_id', 'NA') to handle missing values.
+Extract complaint_id from _source: We extract complaint_id from the _source dictionary. If it's missing, we use 'NA'.
+Text Cleaning: Ensure that the cleaned text does not have unintended characters or formatting issues.
+This should correctly handle both the _id and complaint_id values, ensuring they are properly included in the final output.
 
 You said:
-put it all in 1 python file classify_text.py and 1 requirements.txt file to run pip install -r requirements.txt
+do that based on
+
+import pandas as pd
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Assuming df is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+if '_id' not in df.columns:
+    df['_id'] = 'NA'
+if 'complaint_id' not in df.columns:
+    df['complaint_id'] = 'NA'
+
+# Include '_id' and 'complaint_id' in the output, using 'NA' for missing values
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
 ChatGPT said:
 ChatGPT
-Sure! Here’s how you can organize everything into a single Python file and a requirements.txt file.
+To handle the extraction of _id and complaint_id correctly based on your updated requirements, you need to make sure that _id is extracted directly from the DataFrame and complaint_id is extracted from the nested _source dictionary. Here's the revised script:
 
-classify_text.py
 python
 Copy code
-import torch
-import time
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import pandas as pd
 
-# Check for MPS, then CUDA, then fallback to CPU
-if torch.backends.mps.is_available():
-    device = torch.device("mps")
-    print("Using MPS.")
-elif torch.cuda.is_available():
-    device = torch.device("cuda")
-    print("Using CUDA.")
-else:
-    device = torch.device("cpu")
-    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-# Test device timing
-start_time = time.time()
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
 
-if device.type == "cpu":
-    print("Running on CPU.")
-    # Run CPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
-else:
-    if device.type == "cuda":
-        torch.cuda.synchronize()
-    elif device.type == "mps":
-        torch.mps.synchronize()
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
 
-    # Run GPU benchmark
-    a = torch.ones(4000, 4000, device=device)
-    for _ in range(200):
-        a += a
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
 
-elapsed_time = time.time() - start_time
-print(f"{device.type.upper()} Time: {elapsed_time}")
+# Extract '_id' directly from the DataFrame
+df['_id'] = df.get('_id', 'NA')
 
-print(f"CUDA Available: {torch.cuda.is_available()}")
-print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
-print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+# Extract 'complaint_id' from the '_source' column if it exists, otherwise use 'NA'
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
 
-# Load model and tokenizer
-model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
 
-# Set up model for multi-GPU if CUDA is available
-if torch.cuda.device_count() > 1 and device.type == "cuda":
-    model = torch.nn.DataParallel(model)
+# Create the 'cleaned_text' column with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
 
-model.to(device)  # Move model to selected device
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
 
-def classify_text(text):
-    """Classify the given text and return results."""
-    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
-    with torch.no_grad():
-        outputs = model(**inputs)
-    logits = outputs.logits
-    probabilities = torch.nn.functional.softmax(logits, dim=-1)
-    predicted_class = torch.argmax(probabilities, dim=-1).item()
-    return {
-        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
-        'score': probabilities[0][predicted_class].item()
-    }
+print("Text data with identifiers has been cleaned and saved.")
+Explanation:
+Extract _id Directly: Directly retrieves _id from the DataFrame. If _id is not present, it assigns 'NA' using df.get('_id', 'NA').
+Extract complaint_id from _source: Retrieves complaint_id from the _source dictionary. If complaint_id is not present in _source, it assigns 'NA'.
+Clean Text: Removes non-alphanumeric characters from the text column.
+Create cleaned_text: Concatenates _id, complaint_id, and text with the delimiter |.
+Save Output: Saves the cleaned_text to a text file.
+This script should correctly handle the extraction and formatting of _id and complaint_id, addressing the issues you encountered.
 
-def split_text_into_chunks(text, max_length=512):
-    """Split text into chunks of a specified maximum length."""
-    tokens = tokenizer.encode(text, truncation=False)
-    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
-              for i in range(0, len(tokens), max_length)]
-    return chunks
+You said:
+what about all rows?
 
-def process_chunks_in_parallel(chunks):
-    """Process text chunks in parallel using multiple GPUs if available."""
-    results = []
-    with ThreadPoolExecutor() as executor:
-        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
-        for future in as_completed(future_to_chunk):
-            chunk = future_to_chunk[future]
-            try:
-                result = future.result()
-                results.append((chunk, result))
-            except Exception as exc:
-                print(f'Chunk processing generated an exception: {exc}')
-    return results
+import pandas as pd
 
-# Test classification with simple text
-test_texts = [
-    "I love using GPUs for deep learning!",
-    "I love using Hugging Face models!"
-]
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-for text in test_texts:
-    result = classify_text(text)
-    print("\n")
-    print(text)
-    print(result)
-    print("\n")
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
 
-# Process text from file
-transcribed_text_file = "cleaned_text.txt"
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
 
-try:
-    # Load transcribed text
-    with open(transcribed_text_file, 'r') as file:
-        transcribed_text = file.read()
+# Assuming df is your DataFrame
+print("Columns in dataset:", df.columns)
+print("All rows:")
+print(df)
 
-    # Split text into chunks
-    chunks = split_text_into_chunks(transcribed_text)
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
 
-    # Process chunks in parallel
-    results = process_chunks_in_parallel(chunks)
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
 
-    # Print results
-    for chunk, result in results:
-        print("\n")
-        print(chunk)
-        print(result)
-        print("\n")
+# Add '_id' and 'complaint_id' columns if they do not exist
+if '_id' not in df.columns:
+    df['_id'] = 'NA'
+if 'complaint_id' not in df.columns:
+    df['complaint_id'] = 'NA'
 
-except FileNotFoundError:
-    print(f"The file '{transcribed_text_file}' was not found.")
+# Include '_id' and 'complaint_id' in the output, using 'NA' for missing values
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
 
-except Exception as e:
-    print(f"An error occurred: {e}")
-requirements.txt
-shell
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
+ChatGPT said:
+ChatGPT
+To ensure all rows are handled correctly, including the presence of missing columns, and to clean and save the data properly, the script needs to accurately handle both the extraction of fields and the generation of the output. Here's a refined version of the script to meet these needs:
+
+python
 Copy code
-pandas>=2.2.2
-torch>=2.4.0
-torchvision>=0.19.0
-torchaudio>=2.4.0
-transformers>=4.44.0
---extra-index-url https://download.pytorch.org/whl/nightly/cpu
-Instructions
-Create the Files: Save the provided code into classify_text.py and requirements.txt files.
+import pandas as pd
 
-Install Dependencies:
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
 
-Open a terminal and navigate to the directory containing the requirements.txt file.
-Run:
-bash
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+# Ensure to extract '_id' from the DataFrame itself
+df['_id'] = df.get('_id', 'NA')
+
+# Extract 'complaint_id' from '_source' if it exists, otherwise use 'NA'
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create 'cleaned_text' with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False)
+
+print("Text data with identifiers has been cleaned and saved.")
+Breakdown:
+Load Dataset: The JSON data is loaded into the DataFrame.
+Print Column Names and Rows: Provides visibility into the structure of the DataFrame and its contents.
+Extract and Clean Text:
+Text Extraction: Extracts complaint_what_happened from the _source column.
+Text Cleaning: Removes non-alphanumeric characters (except spaces).
+Handle Missing Columns:
+_id Extraction: Directly extracts _id from the DataFrame; if _id is missing, assigns 'NA'.
+complaint_id Extraction: Extracts complaint_id from the _source column; if missing, assigns 'NA'.
+Generate Cleaned Text: Concatenates _id, complaint_id, and cleaned text with a delimiter.
+Save Output: Saves the cleaned_text to cleaned_text.txt without headers or indices.
+This approach ensures that missing fields are handled gracefully, and all rows are processed and saved correctly.
+
+You said:
+looks better, but why is
+
+"9080238|9080238|I thought I was agreeing to a credit balance transfer at a lower interest rate and higher credit limit However they issued me a predatory a higher interest rate Due to the pandemic paying this predatory credit line was unsustainable 
+
+
+there a extra " in that line?
+
+the JSON data is
+
+{"_index": "complaint-public-v2", "_type": "_doc", "_id": "9080238", "_score": null, "_source": {"product": "Credit card", "complaint_what_happened": "I thought I was agreeing to a credit balance transfer at a lower interest rate and higher credit limit. However, they issued me a predatory a higher interest rate. Due to the pandemic, paying this predatory credit line was unsustainable. \nDue to this action, I suffered a lower credit score and have been unable to access credit for buying a home, car, and other credit cards.", "date_sent_to_company": "2024-05-24T12:00:00-05:00", "issue": "Fees or interest", "sub_product": "General-purpose credit card or charge card", "zip_code": "30344", "tags": null, "complaint_id": "9080238", "timely": "Yes", "consumer_consent_provided": "Consent provided", "company_response": "Closed with explanation", "submitted_via": "Web", "company": "DISCOVER BANK", "date_received": "2024-05-24T12:00:00-05:00", "state": "GA", "consumer_disputed": "N/A", "company_public_response": null, "sub_issue": "Problem with fees"}, "sort": [894248]}
+ChatGPT said:
+ChatGPT
+It looks like the extra quotation mark issue might be due to an incorrect handling of the text data in the cleaning step. If the text contains newline characters or other formatting issues, these can sometimes be misinterpreted when saved to a file.
+
+Here’s how you can adjust the script to ensure that the text is processed correctly without introducing extraneous characters:
+
+Verify Text Extraction: Ensure that the text is extracted and cleaned properly.
+Handle Newlines: Replace newline characters and other potential issues with spaces or empty strings.
+Here's an updated version of the script with improved handling of text data:
+
+python
 Copy code
-pip install -r requirements.txt
-Run the Script:
+import pandas as pd
 
-In the terminal, execute the script using:
-bash
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data: remove punctuation and replace newlines with spaces
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+df['text'] = df['text'].str.replace(r'\s+', ' ', regex=True)  # Replace multiple spaces with a single space
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create 'cleaned_text' with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False, quoting=pd.io.common.CSV_QUOTE_NONE)
+
+print("Text data with identifiers has been cleaned and saved.")
+Key Updates:
+Replace Newlines with Spaces: Handles newline characters by replacing them with spaces.
+Replace Multiple Spaces: Consolidates multiple spaces into a single space to prevent formatting issues.
+CSV Quoting Option: Ensures that the text is saved without extra quotes using quoting=pd.io.common.CSV_QUOTE_NONE.
+This should address the issue of extra quotation marks and ensure the text data is formatted correctly in the output file.
+
+You said:
+❯ python process_data.py
+Columns in dataset: Index(['_index', '_type', '_id', '_score', '_source', 'sort'], dtype='object')
+First few rows:
+                _index _type      _id  _score                                            _source   sort
+0  complaint-public-v2  _doc  9615747     NaN  {'product': 'Credit card', 'complaint_what_hap...   [33]
+1  complaint-public-v2  _doc  9005055     NaN  {'product': 'Credit card', 'complaint_what_hap...   [40]
+2  complaint-public-v2  _doc  9154222     NaN  {'product': 'Credit card', 'complaint_what_hap...  [128]
+3  complaint-public-v2  _doc  9157176     NaN  {'product': 'Credit card', 'complaint_what_hap...  [203]
+4  complaint-public-v2  _doc  9628394     NaN  {'product': 'Credit card', 'complaint_what_hap...  [211]
+Traceback (most recent call last):
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 31, in <module>
+    df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False, quoting=pd.io.common.CSV_QUOTE_NONE)
+                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pandas.io.common' has no attribute 'CSV_QUOTE_NONE'
+❯ python process_data.py
+Columns in dataset: Index(['_index', '_type', '_id', '_score', '_source', 'sort'], dtype='object')
+First few rows:
+                _index _type      _id  _score                                            _source   sort
+0  complaint-public-v2  _doc  9615747     NaN  {'product': 'Credit card', 'complaint_what_hap...   [33]
+1  complaint-public-v2  _doc  9005055     NaN  {'product': 'Credit card', 'complaint_what_hap...   [40]
+2  complaint-public-v2  _doc  9154222     NaN  {'product': 'Credit card', 'complaint_what_hap...  [128]
+3  complaint-public-v2  _doc  9157176     NaN  {'product': 'Credit card', 'complaint_what_hap...  [203]
+4  complaint-public-v2  _doc  9628394     NaN  {'product': 'Credit card', 'complaint_what_hap...  [211]
+Traceback (most recent call last):
+  File "/Users/lloyd/github/Complainers-R-Us-Org/Complainers-R-Us/Person 2: Dataset Processing & Text Classification (Stream 2)/process_data.py", line 31, in <module>
+    df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False, quoting=pd.io.common.CSV_QUOTE_NONE)
+                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pandas.io.common' has no attribute 'CSV_QUOTE_NONE'
+ChatGPT said:
+ChatGPT
+It seems like the CSV_QUOTE_NONE attribute is not available in the pandas module as expected. In pandas, quoting options for CSV files are managed through the csv module's QUOTE_NONE constant. Here’s how you can adjust the script to use the correct quoting option:
+
+Updated Script:
+python
 Copy code
-python classify_text.py
-This setup ensures your environment has all the necessary dependencies and runs the provided script with proper device selection and handling.
+import pandas as pd
+import csv
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data: remove punctuation and replace newlines with spaces
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+df['text'] = df['text'].str.replace(r'\s+', ' ', regex=True)  # Replace multiple spaces with a single space
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create 'cleaned_text' with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False, quoting=csv.QUOTE_NONE)
+
+print("Text data with identifiers has been cleaned and saved.")
+Key Changes:
+Import csv Module: Added import csv to use its constants.
+Use csv.QUOTE_NONE: Replaced pd.io.common.CSV_QUOTE_NONE with csv.QUOTE_NONE for proper CSV quoting.
+This update should resolve the error and correctly save your data without extraneous quotes.
