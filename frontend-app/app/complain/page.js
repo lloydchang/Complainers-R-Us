@@ -85,7 +85,7 @@ const handleSendMessage = async () => {
 
       try {
           // const botResponse = await getMessageResponse(message);
-          const botResponse = 'I am a chatbot. How can I help you today?';
+          const botResponse = 'Thank you for your Submission. We will get back to you soon.';
           const newBotMessage = { text: botResponse, sender: 'venie' };
           setMessages(prevMessages => [...prevMessages, newBotMessage]);
       } catch (error) {
@@ -150,30 +150,6 @@ useEffect(() => {
   spacing={3}
   margin="16px 0" // 16px margin on top and bottom, 0 on left and right
 >
-        {/* <Stack 
-          direction={'column'} 
-          spacing={2}
-          flexGrow={1}
-          overflow={'auto'}
-          maxHeight="100%"
-        >
-          <Box className={styles.chatbox__messages}>
-                        <Box
-                            className={`${styles.messages__item} ${styles.messages__item_operator}`}
-                        >
-                            How can I help you today?
-                        </Box>
-                    {messages.map((msg, index) => (
-                        <Box
-                            key={index}
-                            className={`${styles.messages__item} ${msg.sender === 'venie' ? styles.messages__item_operator : styles.messages__item_visitor}`}
-                        >
-                            {msg.text}
-                        </Box>
-                    ))}
-                    <div ref={messagesEndRef} />
-                </Box>
-        </Stack> */}
         <ChatComponent messages={messages} />
         <Box display="flex" justifyContent="center" my={2}>
           <Button
