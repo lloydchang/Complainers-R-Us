@@ -2,14 +2,16 @@ import torch
 from tortoise import TextToSpeech
 import torchaudio
 
+# Force CPU usage
+device = "cpu"
+print(f"Using device: {device}")
+
+# Initialize Tortoise TTS
+print("Initializing Tortoise TTS...")
+tts = TextToSpeech(device=device)
+print("Tortoise TTS initialized successfully.")
+
 def changeTTS(resText):
-    device = "cpu"  # Change to "cuda" if using a GPU
-    print(f"Using device: {device}")
-
-    print("Initializing Tortoise TTS...")
-    tts = TextToSpeech(device=device)
-    print("Tortoise TTS initialized successfully.")
-
     print(f"Generating speech for text: {resText}")
     # Generate speech using a default voice
     gen = tts.tts(resText, voice_samples=None, conditioning_latents=None)
@@ -25,4 +27,3 @@ if __name__ == "__main__":
     print("Starting TTS test...")
     changeTTS(test_text)
     print("TTS test completed.")
-
