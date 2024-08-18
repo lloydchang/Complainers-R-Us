@@ -88,6 +88,24 @@ const handleSendMessage = async () => {
           const botResponse = 'Thank you for your Submission. We will get back to you soon.';
           const newBotMessage = { text: botResponse, sender: 'venie' };
           setMessages(prevMessages => [...prevMessages, newBotMessage]);
+
+           // Fetch the TTS audio from the backend
+           const response = await fetch('/api/text-to-speech', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ text: botResponse })
+        });
+
+        if (!response.ok) {
+          const audioBlob = await response.blob();
+          const url = URL.createObjectURL(audioBlob);
+          const audio = new Audio(url);
+          audio.play(); 
+      } else {
+        console.error('Failed to get GTTS audio:', response.statusText);
+      }
       } catch (error) {
           console.error('Failed to get bot response:', error);
           const errorMessage = { text: "Sorry, I couldn't process your request. Please try again later.", sender: 'venie' };
