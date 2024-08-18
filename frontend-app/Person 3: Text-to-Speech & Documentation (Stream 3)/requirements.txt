@@ -1,5 +1,8 @@
-gtts>=2.5.3
-pygame>=2.6.0
-torch>=2.4.0
-torchaudio>=2.4.0
-tortoise>=0.1.1
+gtts
+git+https://github.com/wolph/python-progressbar
+pygame
+torch
+torchaudio
+git+https://github.com/neonbjb/tortoise-tts
+transformers
+tokenizers --only-binary=:all:

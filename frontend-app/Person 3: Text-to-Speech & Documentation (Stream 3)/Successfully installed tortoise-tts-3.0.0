@@ -1,0 +1,35 @@
+Status:
+
+Successfully built tortoise-tts
+Installing collected packages: tortoise-tts
+  Attempting uninstall: tortoise-tts
+    Found existing installation: tortoise-tts 3.0.0
+    Uninstalling tortoise-tts-3.0.0:
+      Successfully uninstalled tortoise-tts-3.0.0
+Successfully installed tortoise-tts-3.0.0
++ echo 'Setup completed successfully.'
+Setup completed successfully.
+
+—
+
+Backstory:
+
+—
+
+lloydchang — Today at 5:29 AM PDT
+
+Today I Learned (TIL): https://www.reddit.com/r/github/comments/116f3wd/how_to_install_tortoisetts_locally/ says it can take up to days, and even weeks, to install tortoise-tts locally:
+
+SativaSawdust — Days:
+
+It took me two days to get it setup and working only to find out my dumbass installed it for cpu only. Took another 2.5 days to recompile pytorch from source in order to have Cuda cores enabled. Worked amazing for two days. Rebooted my computer and now it says packages are missing. I'm starting over from the beginning now.
+
+plus:
+
+ReactionAggressive79 — Weeks:
+
+After a week of trying out different python versions, cuda versions, installing and uninstalling hundreds of modules and dependencies i have given up on tortoise. Did you have any progress in that installer?
+
+—
+
+Continued at https://discord.com/channels/958775364962889859/1274586609999806506/1274586609999806506
