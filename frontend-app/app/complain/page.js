@@ -106,13 +106,13 @@ const handleStopRecording = () => {
       <Grid container spacing={2}>
       <Grid item xs={12} sm={8}>
       <Stack 
-        direction={'column'}
-        width="100%"
-        height="90vh"
-        p={2}
-        spacing={3}
-        margin="auto"
-      >
+  direction={'column'}
+  width="100%"
+  height="calc(100vh - 100px)" // Adjust height to account for top and bottom margins
+  p={2}
+  spacing={3}
+  margin="16px 0" // 16px margin on top and bottom, 0 on left and right
+>
         <Stack 
           direction={'column'} 
           spacing={2}
@@ -139,7 +139,7 @@ const handleStopRecording = () => {
               borderRadius: '50%',
               minWidth: '40px', // Ensures the button remains circular
             }}
-            className={isRecording ? styles.pulsing : ''}
+            className={`${styles.button} ${isRecording ? styles.pulsing : ''}`}
             onMouseDown={handleStartRecording}
             onMouseUp={handleStopRecording}
             // onClick={handlePlayAudio}
@@ -154,7 +154,7 @@ const handleStopRecording = () => {
             onChange={(e) => console.log(e.target.value)}
             InputProps={{
               endAdornment: (
-                <IconButton color="primary">
+                <IconButton className={styles.sendButton}>
               <SendIcon />
             </IconButton>
               ),

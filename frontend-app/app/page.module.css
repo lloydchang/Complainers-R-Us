@@ -5,7 +5,7 @@
   flex-direction: column;
   justify-content: flex-start; /* Align items from the top */
   align-items: center;
-  padding: 0; /* Remove padding */
+  justify-content: center;
   min-height: 100vh;
 }
 
@@ -33,12 +33,31 @@
   height: 100%;
 }
 
+/* Footer styling */
 .footer {
-  margin-top: 0; /* Ensure no margin-top */
+  background-color: #f1f1f1; /* Optional background color */
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
 }
-
 .button {
   margin: 0; /* Ensure no margin */
+  background-color: #c6302c; /* Button color */
+
+  &:hover {
+    background-color: #a52a25; /* Button color on hover */
+  }
+}
+
+.sendButton {
+  margin: 0; /* Ensure no margin */
+  color: #c6302c; /* Button icon color */
+
+  &:hover {
+    color: #a52a25; /* color on hover */
+  }
 }
 
 @keyframes pulse {
