@@ -1,13 +1,14 @@
 "use client";
-import styles from '../page.module.css'; // Ensure this path is correct
+import styles from '../page.module.css'; 
 import { Box, Stack, Typography, TextField, Button, Grid, IconButton } from "@mui/material";
 import SendIcon from '@mui/icons-material/Send';
 import * as React from 'react';
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import Breadcrumbs from '@mui/material/Breadcrumbs';
 import Link from '@mui/material/Link';
 import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice';
-import Image from 'next/image'; // Ensure correct import of Image
+import Image from 'next/image'; 
+import ChatComponent from '../components/Chat'; 
 
 export default function ComplainPage() {
   const [mediaRecorder, setMediaRecorder] = useState(null);
@@ -16,6 +17,9 @@ export default function ComplainPage() {
   const [audioUrl, setAudioUrl] = useState(null);
   const [transcribedText, setTranscribedText] = useState('');
   const audioRef = useRef(null);
+  const [messages, setMessages] = useState([]);
+    const [message, setMessage] = useState('');
+    const messagesEndRef = useRef(null);
 
   const handleStartRecording = async () => {
     try {
@@ -73,6 +77,39 @@ const handleStopRecording = () => {
 //   }
 // }
 
+const handleSendMessage = async () => {
+  if (message.trim()) {
+      const newUserMessage = { text: message, sender: 'user' };
+      setMessages(prevMessages => [...prevMessages, newUserMessage]);
+      setMessage('');
+
+      try {
+          // const botResponse = await getMessageResponse(message);
+          const botResponse = 'I am a chatbot. How can I help you today?';
+          const newBotMessage = { text: botResponse, sender: 'venie' };
+          setMessages(prevMessages => [...prevMessages, newBotMessage]);
+      } catch (error) {
+          console.error('Failed to get bot response:', error);
+          const errorMessage = { text: "Sorry, I couldn't process your request. Please try again later.", sender: 'venie' };
+          setMessages(prevMessages => [...prevMessages, errorMessage]);
+      }
+  }
+};
+
+const handleKeyDown = (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSendMessage();
+  }
+};
+
+useEffect(() => {
+  // Automatically scroll to the bottom when a new message is added
+  if (messagesEndRef.current) {
+      messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+  }
+}, [messages]);
+
   function handleClick(event) {
     event.preventDefault();
     console.info('You clicked a breadcrumb.');
@@ -113,23 +150,31 @@ const handleStopRecording = () => {
   spacing={3}
   margin="16px 0" // 16px margin on top and bottom, 0 on left and right
 >
-        <Stack 
+        {/* <Stack 
           direction={'column'} 
           spacing={2}
           flexGrow={1}
           overflow={'auto'}
           maxHeight="100%"
         >
-          <Box display={'flex'}>
-            <Box
-              bgcolor={'#f3e6cc'}
-              borderRadius={16}
-              p={3}
-            >
-              I am a chatbot. How can I help you today?
-            </Box>
-          </Box>
-        </Stack>
+          <Box className={styles.chatbox__messages}>
+                        <Box
+                            className={`${styles.messages__item} ${styles.messages__item_operator}`}
+                        >
+                            How can I help you today?
+                        </Box>
+                    {messages.map((msg, index) => (
+                        <Box
+                            key={index}
+                            className={`${styles.messages__item} ${msg.sender === 'venie' ? styles.messages__item_operator : styles.messages__item_visitor}`}
+                        >
+                            {msg.text}
+                        </Box>
+                    ))}
+                    <div ref={messagesEndRef} />
+                </Box>
+        </Stack> */}
+        <ChatComponent messages={messages} />
         <Box display="flex" justifyContent="center" my={2}>
           <Button
             variant="contained"
@@ -151,10 +196,13 @@ const handleStopRecording = () => {
           <TextField
             label="Type your message here"
             fullWidth
-            onChange={(e) => console.log(e.target.value)}
+            value={message}
+            onChange={(e) => setMessage(e.target.value)}
+            onKeyDown={handleKeyDown}
             InputProps={{
               endAdornment: (
-                <IconButton className={styles.sendButton}>
+                <IconButton className={`${styles.chatbox__send__footer} ${styles.send__button}`}
+                onClick={handleSendMessage}>
               <SendIcon />
             </IconButton>
               ),
