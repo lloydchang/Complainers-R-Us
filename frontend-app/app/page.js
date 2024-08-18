@@ -16,27 +16,29 @@ export default function Home() {
 
   return (
     <Stack
-  className={styles.main}
-  direction="column"
-  spacing={2} // Adjust the spacing value as needed
-  sx={{ height: '100vh', width: '100vw' }} // Full height and width
->
-      {/* <Typography variant="h1" component="h1" sx={{ fontFamily: 'TAN Headline' }} gutterBottom>
+      className={styles.main}
+      direction="column"
+      spacing={2} // Adjust the spacing value as needed
+      sx={{ height: '100vh', width: '100vw' }} // Full height and width
+    >
+      <Typography variant="h1" component="h1" sx={{ fontFamily: 'TAN Headline' }} gutterBottom>
         Complainers <span style={{ transform: 'scaleX(-1)', display: 'inline-block', color: theme.palette.primary.main }}>R</span> Us
-      </Typography> */}
+      </Typography>
+
+      <Button className={styles.button} variant="contained" onClick={handleNavigation}> 
+        Let&apos;s Complain 
+      </Button>
+
       <div className={styles['image-container-home']}>
         <Image 
           src="/Complainers Я Us.jpg" 
-          alt="Description" 
+          alt="Complainers Я Us" 
           layout="fill"
           objectFit="cover"
           className={styles.image} 
         />
       </div>
-      <Button className={styles.button} variant="contained" onClick={handleNavigation}> 
-        Let's Complain 
-      </Button>
-      
+
       <footer className={styles.footer}>
         <Link
           href="https://github.com/Complainers-R-Us/Complainers-R-Us"
