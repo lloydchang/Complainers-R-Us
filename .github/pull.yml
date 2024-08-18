@@ -2,4 +2,4 @@ version: "1"
 rules:
   - base: main
     upstream: Complainers-R-Us:main
-    mergeMethod: hardreset
+    mergeMethod: merge
