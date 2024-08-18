@@ -1,13 +1,78 @@
 "use client";
 import styles from '../page.module.css'; // Ensure this path is correct
-import { Box, Stack, Typography, TextField, Button } from "@mui/material";
+import { Box, Stack, Typography, TextField, Button, Grid, IconButton } from "@mui/material";
+import SendIcon from '@mui/icons-material/Send';
 import * as React from 'react';
+import { useState, useRef } from 'react';
 import Breadcrumbs from '@mui/material/Breadcrumbs';
 import Link from '@mui/material/Link';
 import KeyboardVoiceIcon from '@mui/icons-material/KeyboardVoice';
 import Image from 'next/image'; // Ensure correct import of Image
 
 export default function ComplainPage() {
+  const [mediaRecorder, setMediaRecorder] = useState(null);
+  const [audioChunks, setAudioChunks] = useState([]);
+  const [isRecording, setIsRecording] = useState(false);
+  const [audioUrl, setAudioUrl] = useState(null);
+  const [transcribedText, setTranscribedText] = useState('');
+  const audioRef = useRef(null);
+
+  const handleStartRecording = async () => {
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const recorder = new MediaRecorder(stream);
+      setMediaRecorder(recorder);
+
+      recorder.ondataavailable = (e) => {
+        setAudioChunks((prev) => [...prev, e.data]);
+    };
+
+    recorder.start();
+    setIsRecording(true);
+  } catch (error) {
+    console.error('Error accessing microphone:', error);
+  }
+};
+
+const handleStopRecording = () => {
+  if (mediaRecorder) {
+    mediaRecorder.stop();
+    mediaRecorder.onstop = async () => {
+      const audioBlob = new Blob(audioChunks, { type: 'audio/wav; codecs=opus' });
+      const url = URL.createObjectURL(audioBlob);
+      setAudioUrl(url);
+      setIsRecording(false);
+
+
+      const formData = new FormData();
+      formData.append('file', audioBlob, 'audio.wav');
+
+    try {
+        const response = await fetch('http://localhost:8000/transcribe', {
+            method: 'POST',
+            body: formData
+        });
+
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+
+        const data = await response.json();
+        console.log('Transcription:', data.transcribed_text);
+    } catch (error) {
+        console.error('Error during transcription:', error);
+    }
+};
+    };
+  };
+
+// const handlePlayAudio = () => {
+//   if (audioUrl) {
+//     const audio = new Audio(audioUrl);
+//     audio.play();
+//   }
+// }
+
   function handleClick(event) {
     event.preventDefault();
     console.info('You clicked a breadcrumb.');
@@ -38,12 +103,15 @@ export default function ComplainPage() {
           </Link>
         </Breadcrumbs>
       </div>
+      <Grid container spacing={2}>
+      <Grid item xs={12} sm={8}>
       <Stack 
         direction={'column'}
-        width="700px"
-        height="700px"
+        width="100%"
+        height="90vh"
         p={2}
         spacing={3}
+        margin="auto"
       >
         <Stack 
           direction={'column'} 
@@ -71,35 +139,42 @@ export default function ComplainPage() {
               borderRadius: '50%',
               minWidth: '40px', // Ensures the button remains circular
             }}
+            className={isRecording ? styles.pulsing : ''}
+            onMouseDown={handleStartRecording}
+            onMouseUp={handleStopRecording}
+            // onClick={handlePlayAudio}
           >
             <KeyboardVoiceIcon />
           </Button>
         </Box>
-        <Stack direction={'row'} border={"solid 1px #060f12"} borderRadius={2}>
+        <Stack direction={'row'} >
           <TextField
             label="Type your message here"
             fullWidth
             onChange={(e) => console.log(e.target.value)}
-            sx={{
-              '& .MuiOutlinedInput-root': {
-                '& fieldset': {
-                  border: 'none',
-                },
-              },
+            InputProps={{
+              endAdornment: (
+                <IconButton color="primary">
+              <SendIcon />
+            </IconButton>
+              ),
             }}
           />
-          <Button variant="contained" color="primary">Send</Button>
         </Stack>
       </Stack>
+      </Grid>
+      <Grid item xs={12} sm={4}>
       <div className={styles['image-container-complain']}>
         <Image 
           src="/Complainers Я Us.jpg" 
           alt="Description" 
-          layout="fill"
+          width={400}
+          height={400}
           objectFit="cover"
-          className={styles.image} 
+          // className={styles.image} 
         />
-      </div>
+      </div></Grid>
+      </Grid>
       <footer className={styles.footer}>
         <Link
           href="https://github.com/Complainers-R-Us/Complainers-R-Us"
