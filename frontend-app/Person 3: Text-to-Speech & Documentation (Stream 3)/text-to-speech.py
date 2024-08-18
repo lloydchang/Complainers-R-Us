@@ -30,37 +30,37 @@ def changeTTS(resText, lang="en", slow=False):
     # Play the sound using pygame
     play_audio_with_pygame(audio_buffer)
 
-# # Example usage
-# text_to_test = "Hello! This is a test of the Google Text-to-Speech library."
-# changeTTS(text_to_test)
+# Example usage
+text_to_test = "Hello! This is a test of the Google Text-to-Speech library."
+changeTTS(text_to_test)
 
-#Tortoise that doesn't work
-# import torch
-# from tortoise.api import TextToSpeech
-# import torchaudio
+# Tortoise that doesn't work
+import torch
+from tortoise.api import TextToSpeech
+import torchaudio
 
-# # Force CPU usage
-# device = "cpu"
-# print(f"Using device: {device}")
+# Force CPU usage
+device = "cpu"
+print(f"Using device: {device}")
 
-# # Initialize Tortoise TTS
-# print("Initializing Tortoise TTS...")
-# tts = TextToSpeech(device=device)
-# print("Tortoise TTS initialized successfully.")
+# Initialize Tortoise TTS
+print("Initializing Tortoise TTS...")
+tts = TextToSpeech(device=device)
+print("Tortoise TTS initialized successfully.")
 
-# def changeTTS(resText):
-#     print(f"Generating speech for text: {resText}")
-#     # Generate speech using a default voice
-#     gen = tts.tts(resText, voice_samples=None, conditioning_latents=None)
-#     print("Speech generated successfully.")
+def changeTTS(resText):
+    print(f"Generating speech for text: {resText}")
+    # Generate speech using a default voice
+    gen = tts.tts(resText, voice_samples=None, conditioning_latents=None)
+    print("Speech generated successfully.")
 
-#     print("Saving audio...")
-#     torchaudio.save("output.wav", gen.squeeze(0).cpu(), 24000)
-#     print("Audio saved successfully.")
+    print("Saving audio...")
+    torchaudio.save("output.wav", gen.squeeze(0).cpu(), 24000)
+    print("Audio saved successfully.")
 
-# # Test the TTS function
-# if __name__ == "__main__":
-#     test_text = "This is a short test of Tortoise Text-to-Speech."
-#     print("Starting TTS test...")
-#     changeTTS(test_text)
-#     print("TTS test completed.")
+# Test the TTS function
+if __name__ == "__main__":
+    test_text = "This is a short test of Tortoise Text-to-Speech."
+    print("Starting TTS test...")
+    changeTTS(test_text)
+    print("TTS test completed.")
