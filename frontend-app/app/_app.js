@@ -1,9 +1,6 @@
-// _app.js
-
 import * as React from "react";
 import PropTypes from "prop-types";
 import Head from "next/head";
-import { AppProps } from "next/app";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 
@@ -24,7 +21,7 @@ const theme = createTheme({
   },
 });
 
-export default function MyApp({ Component, pageProps }: AppProps) {
+export default function MyApp({ Component, pageProps }) {
   React.useEffect(() => {
     // Remove the server-side injected CSS.
     const jssStyles = document.querySelector("#jss-server-side");
