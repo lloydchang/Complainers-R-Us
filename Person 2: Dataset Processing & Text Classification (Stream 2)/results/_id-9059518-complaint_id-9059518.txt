@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9059518,
+  "complaint_id": "9059518",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/2024, I submitted a complaint of a fraud charge by XXXX of {$2600.00}. This charge was a result of a XXXX email scam that I responded to. \nI contacted Chase when I discovered the {$2600.00} as a \" pending '' charge on my Chase Freedom card. I supplied phone numbers and description of the fraudulent activity. \nI had several conversations with Chase providing all requested information : by multiple phone calls, a confirmed Fax on XX/XX/2024, an email ( sent from a local Chase branch ), on XX/XX/2024, and certified mail on XX/XX/2024 \nI have since discovered that I have not known what Chase department I was dealing with at any given time - Dispute or Fraud. I thought each phone call and transfers within those calls, that everyone was accessing the same information that I had provided. Apparently, that is an incorrect assumption. \nI finally received a claim ID on XX/XX/2024. \nThe charge of {$2600.00} is posted on the current statement and I have heard nothing from Chase regarding the claim.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "339XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XX/XX/2024, I submitted a complaint of a fraud charge by XXXX of {$2600.00}. This charge was a result of a XXXX email scam that I responded to. \nI contacted Chase when I discovered the {$2600.00} as a \" pending '' charge on my Chase Freedom card. I supplied phone numbers and description of the fraudulent activity. \nI had several conversations with Chase providing all requested information : by multiple phone calls, a confirmed Fax on XX/XX/2024, an email ( sent from a local Chase branch ), on XX/XX/2024, and certified mail on XX/XX/2024 \nI have since discovered that I have not known what Chase department I was dealing with at any given time - Dispute or Fraud. I thought each phone call and transfers within those calls, that everyone was accessing the same information that I had provided. Apparently, that is an incorrect assumption. \nI finally received a claim ID on XX/XX/2024. \nThe charge of {$2600.00} is posted on the current statement and I have heard nothing from Chase regarding the claim."
+}
+
+Chunk:
+xx / xx / 2024, i submitted a complaint of a fraud charge by xxxx of { $ 2600. 00 }. this charge was a result of a xxxx email scam that i responded to. i contacted chase when i discovered the { $ 2600. 00 } as a " pending'' charge on my chase freedom card. i supplied phone numbers and description of the fraudulent activity. i had several conversations with chase providing all requested information : by multiple phone calls, a confirmed fax on xx / xx / 2024, an email ( sent from a local chase branch ), on xx / xx / 2024, and certified mail on xx / xx / 2024 i have since discovered that i have not known what chase department i was dealing with at any given time - dispute or fraud. i thought each phone call and transfers within those calls, that everyone was accessing the same information that i had provided. apparently, that is an incorrect assumption. i finally received a claim id on xx / xx / 2024. the charge of { $ 2600. 00 } is posted on the current statement and i have heard nothing from chase regarding the claim.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990191459655762
+}

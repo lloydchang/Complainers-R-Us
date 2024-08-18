@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9093544,
+  "complaint_id": "9093544",
+  "product": "Credit card",
+  "complaint_what_happened": "was working on my credit and saw this inquiry for AMEX made on XX/XX/year>. I reported that it wasn't mine and they confirmed they have no account or traces of an account linked to me.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "361XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "was working on my credit and saw this inquiry for AMEX made on XX/XX/year>. I reported that it wasn't mine and they confirmed they have no account or traces of an account linked to me."
+}
+
+Chunk:
+was working on my credit and saw this inquiry for amex made on xx / xx / year >. i reported that it wasn't mine and they confirmed they have no account or traces of an account linked to me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991514682769775
+}

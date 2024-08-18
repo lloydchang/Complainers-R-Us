@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038190,
+  "complaint_id": "9038190",
+  "product": "Credit card",
+  "complaint_what_happened": "I have received several emails from this company, Fortiva, about a credit card that I did not open. They are now indicating that charges were made on the credit card and that I have a payment due. On XX/XX/XXXX, I informed the company that this was not my account and requested that they send a notice to me with verification that this was a valid account. I received no response. I filed disputes with XXXX and XXXX on XX/XX/XXXX.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21220",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have received several emails from this company, Fortiva, about a credit card that I did not open. They are now indicating that charges were made on the credit card and that I have a payment due. On XX/XX/XXXX, I informed the company that this was not my account and requested that they send a notice to me with verification that this was a valid account. I received no response. I filed disputes with XXXX and XXXX on XX/XX/XXXX."
+}
+
+Chunk:
+i have received several emails from this company, fortiva, about a credit card that i did not open. they are now indicating that charges were made on the credit card and that i have a payment due. on xx / xx / xxxx, i informed the company that this was not my account and requested that they send a notice to me with verification that this was a valid account. i received no response. i filed disputes with xxxx and xxxx on xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993199110031128
+}

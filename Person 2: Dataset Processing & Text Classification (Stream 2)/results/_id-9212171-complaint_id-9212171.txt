@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212171,
+  "complaint_id": "9212171",
+  "product": "Credit card",
+  "complaint_what_happened": "Description of Events for Consumer Financial Protection Bureau Complaint Problem : I am experiencing a significant delay in retrieving funds disputed on a Visa card transaction in XX/XX/year>. Both XXXX and Relay Bank have failed to address the issue and adequately provide the advertised consumer protections. \n\nTimeline of Events : XX/XX/year> : Disputed a fraudulent transaction of {$500.00} against XXXX XXXX with XXXX XXXX Dispute Services. The card was a XXXX  debit card ending in XXXX with Relay Bank, and the dispute is being handled directly with XXXX XXXX Dispute Services. I spoke with Representative XXXX, who informed me the merchant had 45 days to respond ( by XX/XX/year> ). \n\nXXXX XX/XX/year> : Upon following up for a status update, I was requested to provide additional information : transaction date, details of the potential order, explanation of the situation, and the merchant 's guarantee policy documents. \n\nXX/XX/year> : I promptly submitted all requested information via fax ( XXXX ) and certified mail ( USPS Return Receipt confirmed delivery on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \n\nXX/XX/year> : I contacted XXXX again to ask about the status. Representative XXXX stated my information was submitted on XX/XX/XXXX with a 30-day merchant response window ( deadline XX/XX/XXXX ). \n\nXX/XX/year> : Follow-up contact revealed conflicting information. Representative XXXX acknowledged receipt of documents but denied a merchant response deadline, contradicting XXXX 's prior statement. \n\nXX/XX/year> : Still lacking resolution, I contacted XXXX again. Representative XXXX confirmed document possession, merchant non-response, and an indefinite resolution timeframe ( 3-5 days for their team to reach out ). Confirmation number XXXX was provided. \n\nImpact and Concerns : -This ongoing delay in retrieving my funds creates a significant financial hardship. \n-The inconsistency in information provided by XXXX representatives is deeply concerning. \n-The lack of a clear timeframe for resolving the dispute is unacceptable. \nXXXX XXXX and Relay Bank have failed to uphold their advertised consumer protections. \n\nDesired Outcome : I demand an immediate refund of the disputed transaction amount. \n\nI urge the Consumer Financial Protection Bureau to investigate the practices of Visa and Relay Bank regarding dispute resolution timelines and communication with consumers. \n\nThis description effectively outlines the situation, highlights the problematic aspects of XXXX and Relay Bank 's handling of the dispute, and emphasizes the financial hardship I am facing.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34786",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Relay Financial (US), Corp.",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Description of Events for Consumer Financial Protection Bureau Complaint Problem : I am experiencing a significant delay in retrieving funds disputed on a Visa card transaction in XX/XX/year>. Both XXXX and Relay Bank have failed to address the issue and adequately provide the advertised consumer protections. \n\nTimeline of Events : XX/XX/year> : Disputed a fraudulent transaction of {$500.00} against XXXX XXXX with XXXX XXXX Dispute Services. The card was a XXXX  debit card ending in XXXX with Relay Bank, and the dispute is being handled directly with XXXX XXXX Dispute Services. I spoke with Representative XXXX, who informed me the merchant had 45 days to respond ( by XX/XX/year> ). \n\nXXXX XX/XX/year> : Upon following up for a status update, I was requested to provide additional information : transaction date, details of the potential order, explanation of the situation, and the merchant 's guarantee policy documents. \n\nXX/XX/year> : I promptly submitted all requested information via fax ( XXXX ) and certified mail ( USPS Return Receipt confirmed delivery on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \n\nXX/XX/year> : I contacted XXXX again to ask about the status. Representative XXXX stated my information was submitted on XX/XX/XXXX with a 30-day merchant response window ( deadline XX/XX/XXXX ). \n\nXX/XX/year> : Follow-up contact revealed conflicting information. Representative XXXX acknowledged receipt of documents but denied a merchant response deadline, contradicting XXXX 's prior statement. \n\nXX/XX/year> : Still lacking resolution, I contacted XXXX again. Representative XXXX confirmed document possession, merchant non-response, and an indefinite resolution timeframe ( 3-5 days for their team to reach out ). Confirmation number XXXX was provided. \n\nImpact and Concerns : -This ongoing delay in retrieving my funds creates a significant financial hardship. \n-The inconsistency in information provided by XXXX representatives is deeply concerning. \n-The lack of a clear timeframe for resolving the dispute is unacceptable. \nXXXX XXXX and Relay Bank have failed to uphold their advertised consumer protections. \n\nDesired Outcome : I demand an immediate refund of the disputed transaction amount. \n\nI urge the Consumer Financial Protection Bureau to investigate the practices of Visa and Relay Bank regarding dispute resolution timelines and communication with consumers. \n\nThis description effectively outlines the situation, highlights the problematic aspects of XXXX and Relay Bank 's handling of the dispute, and emphasizes the financial hardship I am facing."
+}
+
+Chunk:
+timelines and communication with consumers. this description effectively outlines the situation, highlights the problematic aspects of xxxx and relay bank's handling of the dispute, and emphasizes the financial hardship i am facing.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9978331923484802
+}

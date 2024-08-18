@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224994,
+  "complaint_id": "9224994",
+  "product": "Credit card",
+  "complaint_what_happened": "Mailed payments in the form of remittance coupons were sent \" certified mail '' to BARCLAYS, with U.C.C codes 1-308 ; 3-602 ; 3-603 ; 3-604 and are not reflecting in the statement of account. payment amounts of XXXX XXXX XXXX XXXX XXXX XXXX correspond with statement balances for XXXXXXXX XXXX XXXX, XXXX, & BARCLAYS are failing to adhere to the Uniform Commercial Code, regarding tender of payments to party authorized to enforce instruments, that are rejected, create discharge to the extent of the amount tendered. XXXX XXXX XXXX instead of adhering to the U.C.C. have chose to report fraudulent information regarding debt and unauthorized credit file inquiries that are harming my Social Security Cestui que Trust.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75070",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Mailed payments in the form of remittance coupons were sent \" certified mail '' to BARCLAYS, with U.C.C codes 1-308 ; 3-602 ; 3-603 ; 3-604 and are not reflecting in the statement of account. payment amounts of XXXX XXXX XXXX XXXX XXXX XXXX correspond with statement balances for XXXXXXXX XXXX XXXX, XXXX, & BARCLAYS are failing to adhere to the Uniform Commercial Code, regarding tender of payments to party authorized to enforce instruments, that are rejected, create discharge to the extent of the amount tendered. XXXX XXXX XXXX instead of adhering to the U.C.C. have chose to report fraudulent information regarding debt and unauthorized credit file inquiries that are harming my Social Security Cestui que Trust."
+}
+
+Chunk:
+mailed payments in the form of remittance coupons were sent " certified mail'' to barclays, with u. c. c codes 1 - 308 ; 3 - 602 ; 3 - 603 ; 3 - 604 and are not reflecting in the statement of account. payment amounts of xxxx xxxx xxxx xxxx xxxx xxxx correspond with statement balances for xxxxxxxx xxxx xxxx, xxxx, & barclays are failing to adhere to the uniform commercial code, regarding tender of payments to party authorized to enforce instruments, that are rejected, create discharge to the extent of the amount tendered. xxxx xxxx xxxx instead of adhering to the u. c. c. have chose to report fraudulent information regarding debt and unauthorized credit file inquiries that are harming my social security cestui que trust.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996190071105957
+}

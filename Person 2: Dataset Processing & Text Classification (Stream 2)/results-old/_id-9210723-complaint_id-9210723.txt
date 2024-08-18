@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210723,
+  "complaint_id": "9210723",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a line of my credit with BILL.com LLC and was denied. I offered my social security number, my signature and other forms of financial instruments per BILL.com LLC request. As Regualtion B and many other USC, UCC, codes, House Joint Resolution 192 and Public Law 73-10. Among those, the financial instruments I provided make it possible for the financial institution to be accepted by the XXXX  XXXX XXXX which in turn issues the credit digitally. There is no Lawful Money in circulation publicly only credits accessed through a consumers signature and social security number. Regulation B regulates what credit companies are able to use and not use \" granting '' credit or \" extending '' credit. Credit companies are allowed to view a consumers credit report but not use any of the information against the consumer. This action is both illegal and unlawful on the grounds that I have applied within my rights and in Good Faith.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98661",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "BILL.COM, LLC",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I applied for a line of my credit with BILL.com LLC and was denied. I offered my social security number, my signature and other forms of financial instruments per BILL.com LLC request. As Regualtion B and many other USC, UCC, codes, House Joint Resolution 192 and Public Law 73-10. Among those, the financial instruments I provided make it possible for the financial institution to be accepted by the XXXX  XXXX XXXX which in turn issues the credit digitally. There is no Lawful Money in circulation publicly only credits accessed through a consumers signature and social security number. Regulation B regulates what credit companies are able to use and not use \" granting '' credit or \" extending '' credit. Credit companies are allowed to view a consumers credit report but not use any of the information against the consumer. This action is both illegal and unlawful on the grounds that I have applied within my rights and in Good Faith."
+}
+
+Chunk:
+i applied for a line of my credit with bill. com llc and was denied. i offered my social security number, my signature and other forms of financial instruments per bill. com llc request. as regualtion b and many other usc, ucc, codes, house joint resolution 192 and public law 73 - 10. among those, the financial instruments i provided make it possible for the financial institution to be accepted by the xxxx xxxx xxxx which in turn issues the credit digitally. there is no lawful money in circulation publicly only credits accessed through a consumers signature and social security number. regulation b regulates what credit companies are able to use and not use " granting'' credit or " extending'' credit. credit companies are allowed to view a consumers credit report but not use any of the information against the consumer. this action is both illegal and unlawful on the grounds that i have applied within my rights and in good faith.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969422221183777
+}

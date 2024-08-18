@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9018263,
+  "complaint_id": "9018263",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been charged XXXX consecutive months now of fraudulent and illegal interest by Barclays Bank on my Barclays credit card, on underlying XXXX charges ( see attached letter to Barclays Bank ) that I clearly detailed to Barclays as also being fraudulent. Incredibly, Barclays Bank even REVERSED all XXXX of these charges, AND XXXX related interest charge, by crediting the full amount of ALL XXXX of them back into my Barclays credit card account ; hence, they must have agreed with me! \n\nI have mailed Barclays Bank XXXX demand letters by certified mail, return-receipt-required, but Barclays ignored both! XXXX I can clearly show that Barclays has, hence, violated the XXXX Fair Credit Reporting Act, for which Barclays should be fined by the federal government ( assuming that act has any teeth!?! ). \n\nXXXX XXXX XXXX, XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91007",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I have been charged XXXX consecutive months now of fraudulent and illegal interest by Barclays Bank on my Barclays credit card, on underlying XXXX charges ( see attached letter to Barclays Bank ) that I clearly detailed to Barclays as also being fraudulent. Incredibly, Barclays Bank even REVERSED all XXXX of these charges, AND XXXX related interest charge, by crediting the full amount of ALL XXXX of them back into my Barclays credit card account ; hence, they must have agreed with me! \n\nI have mailed Barclays Bank XXXX demand letters by certified mail, return-receipt-required, but Barclays ignored both! XXXX I can clearly show that Barclays has, hence, violated the XXXX Fair Credit Reporting Act, for which Barclays should be fined by the federal government ( assuming that act has any teeth!?! ). \n\nXXXX XXXX XXXX, XXXX"
+}
+
+Chunk:
+i have been charged xxxx consecutive months now of fraudulent and illegal interest by barclays bank on my barclays credit card, on underlying xxxx charges ( see attached letter to barclays bank ) that i clearly detailed to barclays as also being fraudulent. incredibly, barclays bank even reversed all xxxx of these charges, and xxxx related interest charge, by crediting the full amount of all xxxx of them back into my barclays credit card account ; hence, they must have agreed with me! i have mailed barclays bank xxxx demand letters by certified mail, return - receipt - required, but barclays ignored both! xxxx i can clearly show that barclays has, hence, violated the xxxx fair credit reporting act, for which barclays should be fined by the federal government ( assuming that act has any teeth!?! ). xxxx xxxx xxxx, xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972261786460876
+}

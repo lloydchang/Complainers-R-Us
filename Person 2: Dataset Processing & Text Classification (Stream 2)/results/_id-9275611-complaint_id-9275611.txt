@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9275611,
+  "complaint_id": "9275611",
+  "product": "Credit card",
+  "complaint_what_happened": "I used BOA card for a no interest balance transfer. I set up the auto pay for a monthly amount. Before the last payment was submitted I shut off auto pay on XX/XX/XXXX. I paid the last payment to close the balance out and thought I was done. Today i fond a pending charge from them and call to dispute the charge.. They confirmed that i stopped the autopay on XX/XX/XXXX but couldn't do anything to stop taking the money they had no business taking. They stated it was stopped but there was another place on the web site that needed to be completed. I stated it wasn't there when I used the app to discontinued the autopay.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "121XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I used BOA card for a no interest balance transfer. I set up the auto pay for a monthly amount. Before the last payment was submitted I shut off auto pay on XX/XX/XXXX. I paid the last payment to close the balance out and thought I was done. Today i fond a pending charge from them and call to dispute the charge.. They confirmed that i stopped the autopay on XX/XX/XXXX but couldn't do anything to stop taking the money they had no business taking. They stated it was stopped but there was another place on the web site that needed to be completed. I stated it wasn't there when I used the app to discontinued the autopay."
+}
+
+Chunk:
+i used boa card for a no interest balance transfer. i set up the auto pay for a monthly amount. before the last payment was submitted i shut off auto pay on xx / xx / xxxx. i paid the last payment to close the balance out and thought i was done. today i fond a pending charge from them and call to dispute the charge.. they confirmed that i stopped the autopay on xx / xx / xxxx but couldn't do anything to stop taking the money they had no business taking. they stated it was stopped but there was another place on the web site that needed to be completed. i stated it wasn't there when i used the app to discontinued the autopay.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992616772651672
+}

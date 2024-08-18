@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9462654,
+  "complaint_id": "9462654",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX setup a new credit card with Wells Fargo and successfully made a payment online using my XXXX checking account. Now Wells Fargo will not allow me to use my XXXX account to make future online payments. I called customer service and the only suggestion they had was to open a new bank account. That is not acceptable. I searched the internet and this is apparently a known issue with Wells Fargo, yet they refuse to acknowledge the problem is on their end and place blame on the consumer and the other bank, despite this issue occurring with multiple different banks. They acknowledged it was a weird situation, but straight up refused to do anything other than tell me to open a new checking account -- just to make payments for this credit card. That is incredulous and I have never had this issue with any of the many credit cards I have had over the years. The problem is not on XXXX 's end, it's on Wells Fargo 's end. I also submitted a XXXX  complaint. I believe this is Wells Fargo 's attempt to push people into setting up a bank account with them.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "61103",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "XXXX setup a new credit card with Wells Fargo and successfully made a payment online using my XXXX checking account. Now Wells Fargo will not allow me to use my XXXX account to make future online payments. I called customer service and the only suggestion they had was to open a new bank account. That is not acceptable. I searched the internet and this is apparently a known issue with Wells Fargo, yet they refuse to acknowledge the problem is on their end and place blame on the consumer and the other bank, despite this issue occurring with multiple different banks. They acknowledged it was a weird situation, but straight up refused to do anything other than tell me to open a new checking account -- just to make payments for this credit card. That is incredulous and I have never had this issue with any of the many credit cards I have had over the years. The problem is not on XXXX 's end, it's on Wells Fargo 's end. I also submitted a XXXX  complaint. I believe this is Wells Fargo 's attempt to push people into setting up a bank account with them."
+}
+
+Chunk:
+xxxx setup a new credit card with wells fargo and successfully made a payment online using my xxxx checking account. now wells fargo will not allow me to use my xxxx account to make future online payments. i called customer service and the only suggestion they had was to open a new bank account. that is not acceptable. i searched the internet and this is apparently a known issue with wells fargo, yet they refuse to acknowledge the problem is on their end and place blame on the consumer and the other bank, despite this issue occurring with multiple different banks. they acknowledged it was a weird situation, but straight up refused to do anything other than tell me to open a new checking account - - just to make payments for this credit card. that is incredulous and i have never had this issue with any of the many credit cards i have had over the years. the problem is not on xxxx's end, it's on wells fargo's end. i also submitted a xxxx complaint. i believe this is wells fargo's attempt to push people into setting up a bank account with them.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993553757667542
+}

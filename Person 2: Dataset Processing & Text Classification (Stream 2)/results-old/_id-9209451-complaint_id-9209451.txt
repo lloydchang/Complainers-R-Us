@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9209451,
+  "complaint_id": "9209451",
+  "product": "Credit card",
+  "complaint_what_happened": "This company after several months sent me a debt collection again.this bad debt is XXXX XXXX XXXX and this account is closed by the credit grantor and agencies such as XXXX and XXXX continue to report it when was it eliminated from XXXX .the fair credit reporting law and my rights are violated",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "00617",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "PR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "This company after several months sent me a debt collection again.this bad debt is XXXX XXXX XXXX and this account is closed by the credit grantor and agencies such as XXXX and XXXX continue to report it when was it eliminated from XXXX .the fair credit reporting law and my rights are violated"
+}
+
+Chunk:
+this company after several months sent me a debt collection again. this bad debt is xxxx xxxx xxxx and this account is closed by the credit grantor and agencies such as xxxx and xxxx continue to report it when was it eliminated from xxxx. the fair credit reporting law and my rights are violated
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995847344398499
+}

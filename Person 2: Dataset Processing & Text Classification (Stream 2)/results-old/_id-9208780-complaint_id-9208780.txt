@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208780,
+  "complaint_id": "9208780",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from Capital One saying I was preapproved for a credit card. I appliedonline and was approved for two cards. The interest rates were too high so I declined.\n\nWithin about 30 minutes I got a call from XXXX XXXX asking if I applied for a card out of Texas. He had most of my information. I said NO and he said he would transfer me to the CFPB. I got connected to another person-Zack XXXXwho went over my information and said the CFPB would block any activity using my information. He also gave me YOUR pnone #. WHen I called the number a recording said the CFPB was closed. The below is the hyperlink for the email. \n\nXXXX XXXX XXXX.capitalone.com/? XXXX",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "14624",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received an email from Capital One saying I was preapproved for a credit card. I appliedonline and was approved for two cards. The interest rates were too high so I declined.\n\nWithin about 30 minutes I got a call from XXXX XXXX asking if I applied for a card out of Texas. He had most of my information. I said NO and he said he would transfer me to the CFPB. I got connected to another person-Zack XXXXwho went over my information and said the CFPB would block any activity using my information. He also gave me YOUR pnone #. WHen I called the number a recording said the CFPB was closed. The below is the hyperlink for the email. \n\nXXXX XXXX XXXX.capitalone.com/? XXXX"
+}
+
+Chunk:
+i received an email from capital one saying i was preapproved for a credit card. i appliedonline and was approved for two cards. the interest rates were too high so i declined. within about 30 minutes i got a call from xxxx xxxx asking if i applied for a card out of texas. he had most of my information. i said no and he said he would transfer me to the cfpb. i got connected to another person - zack xxxxwho went over my information and said the cfpb would block any activity using my information. he also gave me your pnone #. when i called the number a recording said the cfpb was closed. the below is the hyperlink for the email. xxxx xxxx xxxx. capitalone. com /? xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999030351638794
+}

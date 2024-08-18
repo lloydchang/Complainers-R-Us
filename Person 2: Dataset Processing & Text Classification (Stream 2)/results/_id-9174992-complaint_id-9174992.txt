@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174992,
+  "complaint_id": "9174992",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a home improvement loan with Well Fargo. I have bill pay set up through my personal bank, XXXX XXXX XXXX to issue a payment every XXXX week XXXX {$110.00} ( {$230.00} per month ) to Wells Fargo. My monthly payment due to Wells Fargo is {$230.00} per month. I received a call from Wells Fargo sometime in late XXXX and the representative stated I was past due. I was confused since I pay every XXXX weeks, so technically I should be ahead. The representative eluded to me that this started back in XXXX of 2023. She stated XXXX of my payments posted before the next billing cycle started so they applied it to principal reduction, which caused my XXXX payment to be short. I then was charged a late fee and each payment that was applied thereafter would have a late fee of {$40.00} taken out ( Paid first ) so this would cause my monthly payment to be shorted. As you could guess, this snowballed into me being shorted each month and paying Wells Fargo a $ XXXX late fee each month which has accumulated to over {$300.00} in fees. Keep in mind that I'm still paying every XXXX ( XXXX ) weeks. I asked WF to correct this payment allocation and refund my late fees and correct any negative credit reporting as of XXXX of 2023. They refused and stated they have the right to charge the fees and would not be correcting anything.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "761XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have a home improvement loan with Well Fargo. I have bill pay set up through my personal bank, XXXX XXXX XXXX to issue a payment every XXXX week XXXX {$110.00} ( {$230.00} per month ) to Wells Fargo. My monthly payment due to Wells Fargo is {$230.00} per month. I received a call from Wells Fargo sometime in late XXXX and the representative stated I was past due. I was confused since I pay every XXXX weeks, so technically I should be ahead. The representative eluded to me that this started back in XXXX of 2023. She stated XXXX of my payments posted before the next billing cycle started so they applied it to principal reduction, which caused my XXXX payment to be short. I then was charged a late fee and each payment that was applied thereafter would have a late fee of {$40.00} taken out ( Paid first ) so this would cause my monthly payment to be shorted. As you could guess, this snowballed into me being shorted each month and paying Wells Fargo a $ XXXX late fee each month which has accumulated to over {$300.00} in fees. Keep in mind that I'm still paying every XXXX ( XXXX ) weeks. I asked WF to correct this payment allocation and refund my late fees and correct any negative credit reporting as of XXXX of 2023. They refused and stated they have the right to charge the fees and would not be correcting anything."
+}
+
+Chunk:
+i have a home improvement loan with well fargo. i have bill pay set up through my personal bank, xxxx xxxx xxxx to issue a payment every xxxx week xxxx { $ 110. 00 } ( { $ 230. 00 } per month ) to wells fargo. my monthly payment due to wells fargo is { $ 230. 00 } per month. i received a call from wells fargo sometime in late xxxx and the representative stated i was past due. i was confused since i pay every xxxx weeks, so technically i should be ahead. the representative eluded to me that this started back in xxxx of 2023. she stated xxxx of my payments posted before the next billing cycle started so they applied it to principal reduction, which caused my xxxx payment to be short. i then was charged a late fee and each payment that was applied thereafter would have a late fee of { $ 40. 00 } taken out ( paid first ) so this would cause my monthly payment to be shorted. as you could guess, this snowballed into me being shorted each month and paying wells fargo a $ xxxx late fee each month which has accumulated to over { $ 300. 00 } in fees. keep in mind that i'm still paying every xxxx ( xxxx ) weeks. i asked wf to correct this payment allocation and refund my late fees and correct any negative credit reporting as of xxxx of 2023. they refused and stated they have the right to charge the fees and would not be correcting anything.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987442493438721
+}

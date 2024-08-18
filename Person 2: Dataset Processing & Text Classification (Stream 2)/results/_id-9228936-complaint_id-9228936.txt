@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9228936,
+  "complaint_id": "9228936",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXXXXXX XXXX I wrote a convenience check for {$3600.00} to take advantage of a promotional 0 % interest offer from PNC Bank on my business credit card account. The check posted on XX/XX/year> to my account. Since that time, PNC has been violating the Federal CARD act by applying! 00 % of my payments to the 0 % interest rate balance, while applying {$0.00} to the purchases balance which are accruing an 18.24 % interest rate. \nI have made multiple attempts to get the bank to correct the way they are applying payments. On XX/XX/year> I was able to speak to a representative that took a close look at the account. He identified and confirmed that I was correct about how the payments were being incorrectly applied. At that time the account was referred to the executive/corporate office to be corrected. Since that time I was contacted by XXXX XXXX through an email and multiple messages left on my voicemail ( many being inaudible as she mumbles so quietly that she can't be understood ). I have never been able to actually speak with XXXX XXXX as she has never answered her phone when I have called ( multiple times ), nor does she return calls at times when I can answer them despite my leaving messages explaining that I can not answer the phone while I am working, but I am available to speak on the phone at anytime on Tuesdays ( my day off ). I have also attempted to speak to other associates in XXXX XXXX 's office, but I have been told by them that I MUST speak to XXXX XXXX. \nI am attaching copies of the original promo offer from PNC, all statements on the account since the promo balance posted to the account, and my hand written notes from all attempted and completed communications concerning the account.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33334",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "In XXXXXXXX XXXX I wrote a convenience check for {$3600.00} to take advantage of a promotional 0 % interest offer from PNC Bank on my business credit card account. The check posted on XX/XX/year> to my account. Since that time, PNC has been violating the Federal CARD act by applying! 00 % of my payments to the 0 % interest rate balance, while applying {$0.00} to the purchases balance which are accruing an 18.24 % interest rate. \nI have made multiple attempts to get the bank to correct the way they are applying payments. On XX/XX/year> I was able to speak to a representative that took a close look at the account. He identified and confirmed that I was correct about how the payments were being incorrectly applied. At that time the account was referred to the executive/corporate office to be corrected. Since that time I was contacted by XXXX XXXX through an email and multiple messages left on my voicemail ( many being inaudible as she mumbles so quietly that she can't be understood ). I have never been able to actually speak with XXXX XXXX as she has never answered her phone when I have called ( multiple times ), nor does she return calls at times when I can answer them despite my leaving messages explaining that I can not answer the phone while I am working, but I am available to speak on the phone at anytime on Tuesdays ( my day off ). I have also attempted to speak to other associates in XXXX XXXX 's office, but I have been told by them that I MUST speak to XXXX XXXX. \nI am attaching copies of the original promo offer from PNC, all statements on the account since the promo balance posted to the account, and my hand written notes from all attempted and completed communications concerning the account."
+}
+
+Chunk:
+in xxxxxxxx xxxx i wrote a convenience check for { $ 3600. 00 } to take advantage of a promotional 0 % interest offer from pnc bank on my business credit card account. the check posted on xx / xx / year > to my account. since that time, pnc has been violating the federal card act by applying! 00 % of my payments to the 0 % interest rate balance, while applying { $ 0. 00 } to the purchases balance which are accruing an 18. 24 % interest rate. i have made multiple attempts to get the bank to correct the way they are applying payments. on xx / xx / year > i was able to speak to a representative that took a close look at the account. he identified and confirmed that i was correct about how the payments were being incorrectly applied. at that time the account was referred to the executive / corporate office to be corrected. since that time i was contacted by xxxx xxxx through an email and multiple messages left on my voicemail ( many being inaudible as she mumbles so quietly that she can't be understood ). i have never been able to actually speak with xxxx xxxx as she has never answered her phone when i have called ( multiple times ), nor does she return calls at times when i can answer them despite my leaving messages explaining that i can not answer the phone while i am working, but i am available to speak on the phone at anytime on tuesdays ( my day off ). i have also attempted to speak to other associates in xxxx xxxx's office, but i have been told by them that i must speak to xxxx xxxx. i am attaching copies of the original promo offer from pnc, all statements on the account since the promo balance posted to the account, and my hand written notes from all attempted and completed communications concerning the account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997948944568634
+}

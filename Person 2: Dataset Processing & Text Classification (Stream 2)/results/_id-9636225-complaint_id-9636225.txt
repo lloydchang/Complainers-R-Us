@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9636225,
+  "complaint_id": "9636225",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a new XXXX XXXX by Barclays bank. This company charged me a fee for overnight shipping and did not tell me that it would be {$15.00} fee. I did not request expedited shipping for this card. I was not home and would not request a credit card be delivered without my being within 2 states of my home. I called the credit card company and they sent me to multiple call centers in different countries and did not seem to understand my complaint. I would like the {$15.00} removed from my bill as well as make sure other consumers are not placed into the same position being stuck on hold for almost an hour. Yes, it's just {$15.00} but I'm sure they do this to a lot of consumers who would just pay it. Unfortunately, they agent from Barclays could not provide documentation of me agreeing to this.",
+  "date_sent_to_company": "2024-07-27T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "193XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-27T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I opened a new XXXX XXXX by Barclays bank. This company charged me a fee for overnight shipping and did not tell me that it would be {$15.00} fee. I did not request expedited shipping for this card. I was not home and would not request a credit card be delivered without my being within 2 states of my home. I called the credit card company and they sent me to multiple call centers in different countries and did not seem to understand my complaint. I would like the {$15.00} removed from my bill as well as make sure other consumers are not placed into the same position being stuck on hold for almost an hour. Yes, it's just {$15.00} but I'm sure they do this to a lot of consumers who would just pay it. Unfortunately, they agent from Barclays could not provide documentation of me agreeing to this."
+}
+
+Chunk:
+i opened a new xxxx xxxx by barclays bank. this company charged me a fee for overnight shipping and did not tell me that it would be { $ 15. 00 } fee. i did not request expedited shipping for this card. i was not home and would not request a credit card be delivered without my being within 2 states of my home. i called the credit card company and they sent me to multiple call centers in different countries and did not seem to understand my complaint. i would like the { $ 15. 00 } removed from my bill as well as make sure other consumers are not placed into the same position being stuck on hold for almost an hour. yes, it's just { $ 15. 00 } but i'm sure they do this to a lot of consumers who would just pay it. unfortunately, they agent from barclays could not provide documentation of me agreeing to this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978954792022705
+}

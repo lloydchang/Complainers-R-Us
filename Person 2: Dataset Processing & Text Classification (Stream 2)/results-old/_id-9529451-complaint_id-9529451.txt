@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9529451,
+  "complaint_id": "9529451",
+  "product": "Credit card",
+  "complaint_what_happened": "Items were purchased on a business CitiBank credit card that were never delivered. I am the XXXX for the credit card holder, XXXX XXXX XXXX XXXX.. The original charge was on XX/XX/XXXX for {$47000.00}. The vendor for the purchase was XXXX XXXX XXXX, which subsequent to the purchase, filed for XXXX  XXXX bankruptcy. The anticipated delivery date of the items purchased was XX/XX/XXXX. In XX/XX/XXXX we learned that XXXX was having financial difficulties. We asked that the items we purchased be delivered. They failed to deliver the items as requested. In XX/XX/XXXX we disputed the original charge with CitiBank. They began an investigation of the issue. After several months, on XX/XX/XXXX during a phone conversation with a customer service supervisor, I was informed that CitiBank would not be crediting our account for the amount, stating that our request to dispute the charge was beyond their time limit for filing a dispute despite the unique circumstances of our situation.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "920XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Items were purchased on a business CitiBank credit card that were never delivered. I am the XXXX for the credit card holder, XXXX XXXX XXXX XXXX.. The original charge was on XX/XX/XXXX for {$47000.00}. The vendor for the purchase was XXXX XXXX XXXX, which subsequent to the purchase, filed for XXXX  XXXX bankruptcy. The anticipated delivery date of the items purchased was XX/XX/XXXX. In XX/XX/XXXX we learned that XXXX was having financial difficulties. We asked that the items we purchased be delivered. They failed to deliver the items as requested. In XX/XX/XXXX we disputed the original charge with CitiBank. They began an investigation of the issue. After several months, on XX/XX/XXXX during a phone conversation with a customer service supervisor, I was informed that CitiBank would not be crediting our account for the amount, stating that our request to dispute the charge was beyond their time limit for filing a dispute despite the unique circumstances of our situation."
+}
+
+Chunk:
+items were purchased on a business citibank credit card that were never delivered. i am the xxxx for the credit card holder, xxxx xxxx xxxx xxxx.. the original charge was on xx / xx / xxxx for { $ 47000. 00 }. the vendor for the purchase was xxxx xxxx xxxx, which subsequent to the purchase, filed for xxxx xxxx bankruptcy. the anticipated delivery date of the items purchased was xx / xx / xxxx. in xx / xx / xxxx we learned that xxxx was having financial difficulties. we asked that the items we purchased be delivered. they failed to deliver the items as requested. in xx / xx / xxxx we disputed the original charge with citibank. they began an investigation of the issue. after several months, on xx / xx / xxxx during a phone conversation with a customer service supervisor, i was informed that citibank would not be crediting our account for the amount, stating that our request to dispute the charge was beyond their time limit for filing a dispute despite the unique circumstances of our situation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991723299026489
+}

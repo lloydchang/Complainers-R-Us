@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9066548,
+  "complaint_id": "9066548",
+  "product": "Credit card",
+  "complaint_what_happened": "Nordstm TD charege card open XX/XX/year> and the amount due {$420.00}",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "394XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Nordstm TD charege card open XX/XX/year> and the amount due {$420.00}"
+}
+
+Chunk:
+nordstm td charege card open xx / xx / year > and the amount due { $ 420. 00 }
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9738043546676636
+}

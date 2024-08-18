@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9330783,
+  "complaint_id": "9330783",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a care credit card in XXXX. \n\nThe application asked a question if I wanted to opt-in for a debt protection plan. \n\nI did not opt in for this service. \n\nThey were charging my account for the last 6 months for a total of {$350.00} When I call to get this disputed, they tell me that I can not. Instead they gave me a different phone number to call to cancel. \n\nIm still in the process of trying to get this money back.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "07109",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I applied for a care credit card in XXXX. \n\nThe application asked a question if I wanted to opt-in for a debt protection plan. \n\nI did not opt in for this service. \n\nThey were charging my account for the last 6 months for a total of {$350.00} When I call to get this disputed, they tell me that I can not. Instead they gave me a different phone number to call to cancel. \n\nIm still in the process of trying to get this money back."
+}
+
+Chunk:
+i applied for a care credit card in xxxx. the application asked a question if i wanted to opt - in for a debt protection plan. i did not opt in for this service. they were charging my account for the last 6 months for a total of { $ 350. 00 } when i call to get this disputed, they tell me that i can not. instead they gave me a different phone number to call to cancel. im still in the process of trying to get this money back.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991145730018616
+}

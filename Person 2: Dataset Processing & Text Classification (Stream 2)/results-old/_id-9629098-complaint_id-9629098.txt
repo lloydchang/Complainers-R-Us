@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9629098,
+  "complaint_id": "9629098",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter on XX/XX/XXXX that my interest rate will be increased to 34.24 % starting XX/XX/XXXX. My current interest rate is 22.49 % ( I think it was about 19.24 % in XXXX and before that and in the past XXXX yrs or so 18 % and I think originally 11-12 % ). I have a credit score over XXXX and have had this card for about 20 yrs. I have never been late and generally pay it off every month. \n\nI am appalled that a CC company would gouge consumers like this and that they are allowed to do this. I can only imagine what they charge someone who doesn't have my financial track record. \n\nI have not reached out to the CC company for 2 reasons : 1 ) I think this is unacceptable and am not interested in just getting relief for myself. I'm concerned about the impact on people who are struggling financially, more so than I am. 2 ) If I don't accept these terms they will \" close my account ''. \n\nWhat is being done to protect consumers? Are they just allowed to charge whatever they want and be flagrant profiteers on the backs of consumers? Is there greed allowed to go unchecked? They are no better than pay day lenders! Will it be 50 % next year? I'm disgusted! Something needs to be done!",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27604",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I received a letter on XX/XX/XXXX that my interest rate will be increased to 34.24 % starting XX/XX/XXXX. My current interest rate is 22.49 % ( I think it was about 19.24 % in XXXX and before that and in the past XXXX yrs or so 18 % and I think originally 11-12 % ). I have a credit score over XXXX and have had this card for about 20 yrs. I have never been late and generally pay it off every month. \n\nI am appalled that a CC company would gouge consumers like this and that they are allowed to do this. I can only imagine what they charge someone who doesn't have my financial track record. \n\nI have not reached out to the CC company for 2 reasons : 1 ) I think this is unacceptable and am not interested in just getting relief for myself. I'm concerned about the impact on people who are struggling financially, more so than I am. 2 ) If I don't accept these terms they will \" close my account ''. \n\nWhat is being done to protect consumers? Are they just allowed to charge whatever they want and be flagrant profiteers on the backs of consumers? Is there greed allowed to go unchecked? They are no better than pay day lenders! Will it be 50 % next year? I'm disgusted! Something needs to be done!"
+}
+
+Chunk:
+i received a letter on xx / xx / xxxx that my interest rate will be increased to 34. 24 % starting xx / xx / xxxx. my current interest rate is 22. 49 % ( i think it was about 19. 24 % in xxxx and before that and in the past xxxx yrs or so 18 % and i think originally 11 - 12 % ). i have a credit score over xxxx and have had this card for about 20 yrs. i have never been late and generally pay it off every month. i am appalled that a cc company would gouge consumers like this and that they are allowed to do this. i can only imagine what they charge someone who doesn't have my financial track record. i have not reached out to the cc company for 2 reasons : 1 ) i think this is unacceptable and am not interested in just getting relief for myself. i'm concerned about the impact on people who are struggling financially, more so than i am. 2 ) if i don't accept these terms they will " close my account''. what is being done to protect consumers? are they just allowed to charge whatever they want and be flagrant profiteers on the backs of consumers? is there greed allowed to go unchecked? they are no better than pay day lenders! will it be 50 % next year? i'm disgusted! something needs to be done!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973134398460388
+}

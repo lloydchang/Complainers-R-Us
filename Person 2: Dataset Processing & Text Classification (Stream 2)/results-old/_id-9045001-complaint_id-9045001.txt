@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045001,
+  "complaint_id": "9045001",
+  "product": "Credit card",
+  "complaint_what_happened": "Plus Finance account ending in XXXX. \n\nI have had money issues, it's no secret. I have attempted to make my payments and yes some have been returned. Plus Finance has now prevented me from making on time payments by disabling my ability to link my only funding account to make electronic payments. So I have had to resort to sending them a physical check from this account. Issue is by the time they post the bill, I'm unable to mail them a check fast enough from my financial institution before it's late and I owe a late fee. \n\nI have called them multiple times and even asked to speak with a manager for them to tell my I have to go into my bank and have them mail them a piece of paper stating my account is still good before they will lift the restriction. My bank, XXXX, is a XXXX XXXX that does not have branches. I have called them and they do no mail out this \" letter '' Plus Finance says is required. \n\nThis is a violation of fair lending. They are preventing me from making on time payments from an account they are happily cashing checks from late because now they get a late fee of {$40.00}. \n\nI would like my account restored and my late fees reimbursed for the fees that were caused after they applied this restriction.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "633XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Plus Finance account ending in XXXX. \n\nI have had money issues, it's no secret. I have attempted to make my payments and yes some have been returned. Plus Finance has now prevented me from making on time payments by disabling my ability to link my only funding account to make electronic payments. So I have had to resort to sending them a physical check from this account. Issue is by the time they post the bill, I'm unable to mail them a check fast enough from my financial institution before it's late and I owe a late fee. \n\nI have called them multiple times and even asked to speak with a manager for them to tell my I have to go into my bank and have them mail them a piece of paper stating my account is still good before they will lift the restriction. My bank, XXXX, is a XXXX XXXX that does not have branches. I have called them and they do no mail out this \" letter '' Plus Finance says is required. \n\nThis is a violation of fair lending. They are preventing me from making on time payments from an account they are happily cashing checks from late because now they get a late fee of {$40.00}. \n\nI would like my account restored and my late fees reimbursed for the fees that were caused after they applied this restriction."
+}
+
+Chunk:
+plus finance account ending in xxxx. i have had money issues, it's no secret. i have attempted to make my payments and yes some have been returned. plus finance has now prevented me from making on time payments by disabling my ability to link my only funding account to make electronic payments. so i have had to resort to sending them a physical check from this account. issue is by the time they post the bill, i'm unable to mail them a check fast enough from my financial institution before it's late and i owe a late fee. i have called them multiple times and even asked to speak with a manager for them to tell my i have to go into my bank and have them mail them a piece of paper stating my account is still good before they will lift the restriction. my bank, xxxx, is a xxxx xxxx that does not have branches. i have called them and they do no mail out this " letter'' plus finance says is required. this is a violation of fair lending. they are preventing me from making on time payments from an account they are happily cashing checks from late because now they get a late fee of { $ 40. 00 }. i would like my account restored and my late fees reimbursed for the fees that were caused after they applied this restriction.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991797804832458
+}

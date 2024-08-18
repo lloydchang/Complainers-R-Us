@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9336717,
+  "complaint_id": "9336717",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi credit card XXXX and XXXX purchases of approximately {$5000.00} were made on my account someone got the information some how and charged all these items. \n\nCiti was not forthcoming and kept saying will investigate and wait to business cycles and now I receive XXXX letters saying not fraudulent activity.. amount of {$190.00} XX/XX/XXXX and {$640.00} on XX/XX/XXXX as well. \n\nI am XXXX and hard of XXXX  and their questions were confusing but I know I did not use these service I was bill for. And this is the first",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "VI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Citi credit card XXXX and XXXX purchases of approximately {$5000.00} were made on my account someone got the information some how and charged all these items. \n\nCiti was not forthcoming and kept saying will investigate and wait to business cycles and now I receive XXXX letters saying not fraudulent activity.. amount of {$190.00} XX/XX/XXXX and {$640.00} on XX/XX/XXXX as well. \n\nI am XXXX and hard of XXXX  and their questions were confusing but I know I did not use these service I was bill for. And this is the first"
+}
+
+Chunk:
+citi credit card xxxx and xxxx purchases of approximately { $ 5000. 00 } were made on my account someone got the information some how and charged all these items. citi was not forthcoming and kept saying will investigate and wait to business cycles and now i receive xxxx letters saying not fraudulent activity.. amount of { $ 190. 00 } xx / xx / xxxx and { $ 640. 00 } on xx / xx / xxxx as well. i am xxxx and hard of xxxx and their questions were confusing but i know i did not use these service i was bill for. and this is the first
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9910378456115723
+}

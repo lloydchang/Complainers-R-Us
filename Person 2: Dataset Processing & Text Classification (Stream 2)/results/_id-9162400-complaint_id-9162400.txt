@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9162400,
+  "complaint_id": "9162400",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, someone made XXXX requests for credit cards on my behalf and using my personal information : XXXX XXXX XXXX XXXX XXXX XXXX XXXX Capital One, XXXX. I know that a credit card from Capital One was approved for {$1000.00}! I received an XXXX notification on my phone, I previously had a personal account registered with Capital One, and my phone number was linked there! I saw a new credit card in my personal account and immediately blocked it! On XX/XX/XXXX, I received a message that the credit card had been delivered! to XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX I saw this information in my personal account! This credit card is currently blocked. but, there are still other requests for credit cards that I can not verify!",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90066",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/XXXX, someone made XXXX requests for credit cards on my behalf and using my personal information : XXXX XXXX XXXX XXXX XXXX XXXX XXXX Capital One, XXXX. I know that a credit card from Capital One was approved for {$1000.00}! I received an XXXX notification on my phone, I previously had a personal account registered with Capital One, and my phone number was linked there! I saw a new credit card in my personal account and immediately blocked it! On XX/XX/XXXX, I received a message that the credit card had been delivered! to XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX I saw this information in my personal account! This credit card is currently blocked. but, there are still other requests for credit cards that I can not verify!"
+}
+
+Chunk:
+on xx / xx / xxxx, someone made xxxx requests for credit cards on my behalf and using my personal information : xxxx xxxx xxxx xxxx xxxx xxxx xxxx capital one, xxxx. i know that a credit card from capital one was approved for { $ 1000. 00 }! i received an xxxx notification on my phone, i previously had a personal account registered with capital one, and my phone number was linked there! i saw a new credit card in my personal account and immediately blocked it! on xx / xx / xxxx, i received a message that the credit card had been delivered! to xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx i saw this information in my personal account! this credit card is currently blocked. but, there are still other requests for credit cards that i can not verify!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995608925819397
+}

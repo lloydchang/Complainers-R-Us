@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9193567,
+  "complaint_id": "9193567",
+  "product": "Credit card",
+  "complaint_what_happened": "I Im an executor of my moms estate. Nobody lives at the home for the moment. Its currently for sale. My brother checked the mail for the address and it appears someone is attempting to open multiple credit cards and Internet service through XXXX. Ill attach information. The names on these letters arent mine but the address is my moms address.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92585",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I Im an executor of my moms estate. Nobody lives at the home for the moment. Its currently for sale. My brother checked the mail for the address and it appears someone is attempting to open multiple credit cards and Internet service through XXXX. Ill attach information. The names on these letters arent mine but the address is my moms address."
+}
+
+Chunk:
+i im an executor of my moms estate. nobody lives at the home for the moment. its currently for sale. my brother checked the mail for the address and it appears someone is attempting to open multiple credit cards and internet service through xxxx. ill attach information. the names on these letters arent mine but the address is my moms address.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994097948074341
+}

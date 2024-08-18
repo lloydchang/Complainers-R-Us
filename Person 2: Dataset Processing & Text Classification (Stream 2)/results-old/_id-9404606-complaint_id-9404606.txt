@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9404606,
+  "complaint_id": "9404606",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to bring to your attention an issue related to my credit card account with XXXX XXXX XXXX. On XX/XX/year> I received notification that my account had been closed due to possible fraud. However, I believe this action was taken in error, as I had not received any prior communication or warning. \n\nAs a responsible credit card holder, I have consistently maintained a good payment history and relied on this account for various financial transactions. The abrupt closure has caused inconvenience and confusion. \n\nI kindly request that you investigate this matter and update my credit report accordingly. Specifically, I ask for the following : 1. Please correct any negative impact on my credit report resulting from the erroneous closure of my credit card account.\n\n2. I seek a detailed explanation for the sudden closure. If there were any issues or concerns, I would appreciate knowing them so that I can address them appropriately.\n\n3. Going forward, I expect timely communication if any changes are planned for my credit report. Advance notice will allow me to take necessary actions. \n\nI appreciate your attention to this matter and look forward to a swift resolution. Thank you for your prompt assistance. \n\nSincerely, XXXX XXXX Account XXXX XXXX",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10940",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I am writing to bring to your attention an issue related to my credit card account with XXXX XXXX XXXX. On XX/XX/year> I received notification that my account had been closed due to possible fraud. However, I believe this action was taken in error, as I had not received any prior communication or warning. \n\nAs a responsible credit card holder, I have consistently maintained a good payment history and relied on this account for various financial transactions. The abrupt closure has caused inconvenience and confusion. \n\nI kindly request that you investigate this matter and update my credit report accordingly. Specifically, I ask for the following : 1. Please correct any negative impact on my credit report resulting from the erroneous closure of my credit card account.\n\n2. I seek a detailed explanation for the sudden closure. If there were any issues or concerns, I would appreciate knowing them so that I can address them appropriately.\n\n3. Going forward, I expect timely communication if any changes are planned for my credit report. Advance notice will allow me to take necessary actions. \n\nI appreciate your attention to this matter and look forward to a swift resolution. Thank you for your prompt assistance. \n\nSincerely, XXXX XXXX Account XXXX XXXX"
+}
+
+Chunk:
+i am writing to bring to your attention an issue related to my credit card account with xxxx xxxx xxxx. on xx / xx / year > i received notification that my account had been closed due to possible fraud. however, i believe this action was taken in error, as i had not received any prior communication or warning. as a responsible credit card holder, i have consistently maintained a good payment history and relied on this account for various financial transactions. the abrupt closure has caused inconvenience and confusion. i kindly request that you investigate this matter and update my credit report accordingly. specifically, i ask for the following : 1. please correct any negative impact on my credit report resulting from the erroneous closure of my credit card account. 2. i seek a detailed explanation for the sudden closure. if there were any issues or concerns, i would appreciate knowing them so that i can address them appropriately. 3. going forward, i expect timely communication if any changes are planned for my credit report. advance notice will allow me to take necessary actions. i appreciate your attention to this matter and look forward to a swift resolution. thank you for your prompt assistance. sincerely, xxxx xxxx account xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9785075187683105
+}

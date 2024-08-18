@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038990,
+  "complaint_id": "9038990",
+  "product": "Credit card",
+  "complaint_what_happened": "I booked a stay with XXXX XXXX XXXX XXXX through Capital One. I also booked a stay through XXXX directly for the same period. \nI received an email shortly after from XXXX, saying that my booking through capital one had been cancelled. I immediately reached out to capital one who assured me my booking was still active. \n\nA few days ago I reached out to the hotel, to check and they do not see my reservation. \n\nIve spent 2 hours on the phone with capital one trying to resolve the matter. They offered me a refund at first, then claimed they would only refund me if the hotel refunded them. \n\nThey then lied and told me my own confirmation number ( the booking made directly with XXXX ) was theirs. It isnt. Its on my XXXX XXXX directly with the hotel. The hotel can confirm that it is a first party booking. \n\nI never requested a cancellation of this room. I contacted capital one and they assured me my room was available. They lied to me multiple times and refused to refund me. The idea that my refund is predicated on capital ones refund is absurd. They messed up and need to take responsibility. \n\nIve attached a claim from capital one claiming my booking is valid. This email was sent 3 days ago. The hotel cancelled my reservation 4 months ago and does not have this confirmation number.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "63011",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with customer service",
+  "text": "I booked a stay with XXXX XXXX XXXX XXXX through Capital One. I also booked a stay through XXXX directly for the same period. \nI received an email shortly after from XXXX, saying that my booking through capital one had been cancelled. I immediately reached out to capital one who assured me my booking was still active. \n\nA few days ago I reached out to the hotel, to check and they do not see my reservation. \n\nIve spent 2 hours on the phone with capital one trying to resolve the matter. They offered me a refund at first, then claimed they would only refund me if the hotel refunded them. \n\nThey then lied and told me my own confirmation number ( the booking made directly with XXXX ) was theirs. It isnt. Its on my XXXX XXXX directly with the hotel. The hotel can confirm that it is a first party booking. \n\nI never requested a cancellation of this room. I contacted capital one and they assured me my room was available. They lied to me multiple times and refused to refund me. The idea that my refund is predicated on capital ones refund is absurd. They messed up and need to take responsibility. \n\nIve attached a claim from capital one claiming my booking is valid. This email was sent 3 days ago. The hotel cancelled my reservation 4 months ago and does not have this confirmation number."
+}
+
+Chunk:
+i booked a stay with xxxx xxxx xxxx xxxx through capital one. i also booked a stay through xxxx directly for the same period. i received an email shortly after from xxxx, saying that my booking through capital one had been cancelled. i immediately reached out to capital one who assured me my booking was still active. a few days ago i reached out to the hotel, to check and they do not see my reservation. ive spent 2 hours on the phone with capital one trying to resolve the matter. they offered me a refund at first, then claimed they would only refund me if the hotel refunded them. they then lied and told me my own confirmation number ( the booking made directly with xxxx ) was theirs. it isnt. its on my xxxx xxxx directly with the hotel. the hotel can confirm that it is a first party booking. i never requested a cancellation of this room. i contacted capital one and they assured me my room was available. they lied to me multiple times and refused to refund me. the idea that my refund is predicated on capital ones refund is absurd. they messed up and need to take responsibility. ive attached a claim from capital one claiming my booking is valid. this email was sent 3 days ago. the hotel cancelled my reservation 4 months ago and does not have this confirmation number.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985091090202332
+}

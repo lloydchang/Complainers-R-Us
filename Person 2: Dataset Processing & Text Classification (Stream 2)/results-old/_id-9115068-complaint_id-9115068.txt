@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9115068,
+  "complaint_id": "9115068",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXXXXXX XXXX XXXXXXXX, I paid off my CitiBank Simplicity credit card by making a payment for {$3200.00} via my bank 's XXXX XXXX  system. It was not credited to my account, so by XXXX, I had my bank stop payment and I had a Cashier 's check made for {$3200.00} and mailed that on XX/XX/XXXX. Citibank then took my {$3200.00} payment, endorsed and deposited the cashier 's check and they issued a \" conditional credit '' for billing period XXXX, then later reversed that credit. As of today, they have yet to credit my account and they continue to send ebills and charge interest. \nI have contacted CitiBank numerous times by phone, have closed the account and have sent the payment verification ( copies of endorsed checks for full payment ) 3 times Twice by fax and once by email.My personal banker has written a letter on my behalf. When I check to see the account has not been credited, I call customer service. I get put on hold ( often terminal ) and transferred around the obviously overseas call center. Then I am told that they are looking into it. Occasionally I get a letter saying that they are working on it, and in the meantime, would I like to make a payment. \nThe last time I called on Thursday XX/XX/XXXX, I told them that if they are unable to credit my account, please reimburse the funds back to me. I just checked my account once again and I now have a balance of {$3700.00}. \nThis is getting old and has affected my credit rating. Can you help?",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "403XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "In XXXXXXXX XXXX XXXXXXXX, I paid off my CitiBank Simplicity credit card by making a payment for {$3200.00} via my bank 's XXXX XXXX  system. It was not credited to my account, so by XXXX, I had my bank stop payment and I had a Cashier 's check made for {$3200.00} and mailed that on XX/XX/XXXX. Citibank then took my {$3200.00} payment, endorsed and deposited the cashier 's check and they issued a \" conditional credit '' for billing period XXXX, then later reversed that credit. As of today, they have yet to credit my account and they continue to send ebills and charge interest. \nI have contacted CitiBank numerous times by phone, have closed the account and have sent the payment verification ( copies of endorsed checks for full payment ) 3 times Twice by fax and once by email.My personal banker has written a letter on my behalf. When I check to see the account has not been credited, I call customer service. I get put on hold ( often terminal ) and transferred around the obviously overseas call center. Then I am told that they are looking into it. Occasionally I get a letter saying that they are working on it, and in the meantime, would I like to make a payment. \nThe last time I called on Thursday XX/XX/XXXX, I told them that if they are unable to credit my account, please reimburse the funds back to me. I just checked my account once again and I now have a balance of {$3700.00}. \nThis is getting old and has affected my credit rating. Can you help?"
+}
+
+Chunk:
+in xxxxxxxx xxxx xxxxxxxx, i paid off my citibank simplicity credit card by making a payment for { $ 3200. 00 } via my bank's xxxx xxxx system. it was not credited to my account, so by xxxx, i had my bank stop payment and i had a cashier's check made for { $ 3200. 00 } and mailed that on xx / xx / xxxx. citibank then took my { $ 3200. 00 } payment, endorsed and deposited the cashier's check and they issued a " conditional credit'' for billing period xxxx, then later reversed that credit. as of today, they have yet to credit my account and they continue to send ebills and charge interest. i have contacted citibank numerous times by phone, have closed the account and have sent the payment verification ( copies of endorsed checks for full payment ) 3 times twice by fax and once by email. my personal banker has written a letter on my behalf. when i check to see the account has not been credited, i call customer service. i get put on hold ( often terminal ) and transferred around the obviously overseas call center. then i am told that they are looking into it. occasionally i get a letter saying that they are working on it, and in the meantime, would i like to make a payment. the last time i called on thursday xx / xx / xxxx, i told them that if they are unable to credit my account, please reimburse the funds back to me. i just checked my account once again and i now have a balance of { $ 3700. 00 }. this is getting old and has affected my credit rating. can you help?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991102814674377
+}

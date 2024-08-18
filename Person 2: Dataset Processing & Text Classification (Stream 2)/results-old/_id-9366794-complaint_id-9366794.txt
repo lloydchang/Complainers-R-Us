@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9366794,
+  "complaint_id": "9366794",
+  "product": "Credit card",
+  "complaint_what_happened": "SYNCB, He claims to have received in my credit report from XXXX that fraudulent debts were being made4 on my credit, and this is false. I made a call and they claim to have closed the credit card satisfactorily and without debit.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "Store credit card",
+  "zip_code": "33018",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "SYNCB, He claims to have received in my credit report from XXXX that fraudulent debts were being made4 on my credit, and this is false. I made a call and they claim to have closed the credit card satisfactorily and without debit."
+}
+
+Chunk:
+syncb, he claims to have received in my credit report from xxxx that fraudulent debts were being made4 on my credit, and this is false. i made a call and they claim to have closed the credit card satisfactorily and without debit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992679953575134
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9185635,
+  "complaint_id": "9185635",
+  "product": "Credit card",
+  "complaint_what_happened": "Charge was made at XXXX XXXX XXXX XXXX XXXX XXXX XXXX  Kohls is stating that it will investigate but I still am responsible for that balance",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "15236",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Charge was made at XXXX XXXX XXXX XXXX XXXX XXXX XXXX  Kohls is stating that it will investigate but I still am responsible for that balance"
+}
+
+Chunk:
+charge was made at xxxx xxxx xxxx xxxx xxxx xxxx xxxx kohls is stating that it will investigate but i still am responsible for that balance
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.6435717940330505
+}

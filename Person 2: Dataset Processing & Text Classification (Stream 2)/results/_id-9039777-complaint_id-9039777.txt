@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9039777,
+  "complaint_id": "9039777",
+  "product": "Credit card",
+  "complaint_what_happened": "I reviewed the consumer report as stated in 15 U.S CODE B '' whenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy. ' All but XXXX was representing the correct amount. The malrepresentation of incorrect credit information can be serious I would never leave a card with a balance of XXXX dollars the account has been closed for me.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02128",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account information incorrect",
+  "text": "I reviewed the consumer report as stated in 15 U.S CODE B '' whenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy. ' All but XXXX was representing the correct amount. The malrepresentation of incorrect credit information can be serious I would never leave a card with a balance of XXXX dollars the account has been closed for me."
+}
+
+Chunk:
+i reviewed the consumer report as stated in 15 u. s code b'' whenever a consumer reporting agency prepares a consumer report it shall follow reasonable procedures to assure maximum possible accuracy.'all but xxxx was representing the correct amount. the malrepresentation of incorrect credit information can be serious i would never leave a card with a balance of xxxx dollars the account has been closed for me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981634020805359
+}

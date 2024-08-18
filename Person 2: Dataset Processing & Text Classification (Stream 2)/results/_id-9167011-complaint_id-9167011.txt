@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167011,
+  "complaint_id": "9167011",
+  "product": "Credit card",
+  "complaint_what_happened": "I have tried reaching out to my credit card company, Elan Financial Services, for assistance with paying my credit card bill. I tried uploading my paystubs and financial statements proving that I am experiencing financial hardship however, the secure message portal on their website is locked. \n\nI am a XXXX XXXX and I experienced a \" dry spell '' where I had no sales.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "15010",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I have tried reaching out to my credit card company, Elan Financial Services, for assistance with paying my credit card bill. I tried uploading my paystubs and financial statements proving that I am experiencing financial hardship however, the secure message portal on their website is locked. \n\nI am a XXXX XXXX and I experienced a \" dry spell '' where I had no sales."
+}
+
+Chunk:
+i have tried reaching out to my credit card company, elan financial services, for assistance with paying my credit card bill. i tried uploading my paystubs and financial statements proving that i am experiencing financial hardship however, the secure message portal on their website is locked. i am a xxxx xxxx and i experienced a " dry spell'' where i had no sales.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996820688247681
+}

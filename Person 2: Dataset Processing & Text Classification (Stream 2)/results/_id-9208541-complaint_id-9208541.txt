@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208541,
+  "complaint_id": "9208541",
+  "product": "Credit card",
+  "complaint_what_happened": "I did not make a purchase of XXXX from a company called XXXX.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "17110",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I did not make a purchase of XXXX from a company called XXXX."
+}
+
+Chunk:
+i did not make a purchase of xxxx from a company called xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995506405830383
+}

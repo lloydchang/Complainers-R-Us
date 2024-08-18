@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9108979,
+  "complaint_id": "9108979",
+  "product": "Credit card",
+  "complaint_what_happened": "Between XXXX and XXXX of XXXX  charges were made by something called XXXX  that i did not authorize totaling {$15000.00} dollars. I have reached out to the compant numerous times and when I asked the company about them they stated that I toild them that was my son using my card. I said yes but I thought they were talking about purchases made on XXXX not some XXXX  thing. They refuse to remove them and have caused my credit to be destroyed and are charging me for these fraudulant charges. I expolained that through my medical provider I recieved a letter stating that my personal ionformation was compromised and they still refuse to corerect it. It is very obvious the amount and the number of charges are fraudulant but they cclaim they are my personal charges but they most certainly are not.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "14304",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Between XXXX and XXXX of XXXX  charges were made by something called XXXX  that i did not authorize totaling {$15000.00} dollars. I have reached out to the compant numerous times and when I asked the company about them they stated that I toild them that was my son using my card. I said yes but I thought they were talking about purchases made on XXXX not some XXXX  thing. They refuse to remove them and have caused my credit to be destroyed and are charging me for these fraudulant charges. I expolained that through my medical provider I recieved a letter stating that my personal ionformation was compromised and they still refuse to corerect it. It is very obvious the amount and the number of charges are fraudulant but they cclaim they are my personal charges but they most certainly are not."
+}
+
+Chunk:
+between xxxx and xxxx of xxxx charges were made by something called xxxx that i did not authorize totaling { $ 15000. 00 } dollars. i have reached out to the compant numerous times and when i asked the company about them they stated that i toild them that was my son using my card. i said yes but i thought they were talking about purchases made on xxxx not some xxxx thing. they refuse to remove them and have caused my credit to be destroyed and are charging me for these fraudulant charges. i expolained that through my medical provider i recieved a letter stating that my personal ionformation was compromised and they still refuse to corerect it. it is very obvious the amount and the number of charges are fraudulant but they cclaim they are my personal charges but they most certainly are not.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.995707094669342
+}

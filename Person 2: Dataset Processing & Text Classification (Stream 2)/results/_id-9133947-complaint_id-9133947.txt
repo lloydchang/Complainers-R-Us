@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9133947,
+  "complaint_id": "9133947",
+  "product": "Credit card",
+  "complaint_what_happened": "Starting in XX/XX/year>, I noticed that my credit card account fees had significantly increased. When I contacted the company, they informed me that I was being charged fees monthly, with some months exceeding {$100.00} and even reaching up to {$1000.00}. Strangely, these charges occurred despite the fact that I hadnt made any significant purchasesonly minor expenses like groceries totaling {$170.00}. Frustrated, I called again and closed my account, but I was informed that I still had to pay the remaining balance. Unfortunately, the charges continued to accumulate, even though I diligently paid my bills on time. This situation feels incredibly unfair to consumers like me, especially since the account is now closed.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48042",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Starting in XX/XX/year>, I noticed that my credit card account fees had significantly increased. When I contacted the company, they informed me that I was being charged fees monthly, with some months exceeding {$100.00} and even reaching up to {$1000.00}. Strangely, these charges occurred despite the fact that I hadnt made any significant purchasesonly minor expenses like groceries totaling {$170.00}. Frustrated, I called again and closed my account, but I was informed that I still had to pay the remaining balance. Unfortunately, the charges continued to accumulate, even though I diligently paid my bills on time. This situation feels incredibly unfair to consumers like me, especially since the account is now closed."
+}
+
+Chunk:
+starting in xx / xx / year >, i noticed that my credit card account fees had significantly increased. when i contacted the company, they informed me that i was being charged fees monthly, with some months exceeding { $ 100. 00 } and even reaching up to { $ 1000. 00 }. strangely, these charges occurred despite the fact that i hadnt made any significant purchasesonly minor expenses like groceries totaling { $ 170. 00 }. frustrated, i called again and closed my account, but i was informed that i still had to pay the remaining balance. unfortunately, the charges continued to accumulate, even though i diligently paid my bills on time. this situation feels incredibly unfair to consumers like me, especially since the account is now closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994805455207825
+}

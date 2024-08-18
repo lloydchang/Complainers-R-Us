@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071751,
+  "complaint_id": "9071751",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank, holder of Lowe 's credit card and \" Synchrony Home '' ( finances appliance and other home purchases ) will start charging XXXX a month for paper statements. \n\nPersonally paper is a preference, but for those who do not have access to the internet ( many older people, for example ) this is an undue burden. \n\nI'll be paying off my accounts and closing them because of this change, but the CFPB should investigate for the reason stated above. \n\nThank you.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "17036",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony Bank, holder of Lowe 's credit card and \" Synchrony Home '' ( finances appliance and other home purchases ) will start charging XXXX a month for paper statements. \n\nPersonally paper is a preference, but for those who do not have access to the internet ( many older people, for example ) this is an undue burden. \n\nI'll be paying off my accounts and closing them because of this change, but the CFPB should investigate for the reason stated above. \n\nThank you."
+}
+
+Chunk:
+synchrony bank, holder of lowe's credit card and " synchrony home'' ( finances appliance and other home purchases ) will start charging xxxx a month for paper statements. personally paper is a preference, but for those who do not have access to the internet ( many older people, for example ) this is an undue burden. i'll be paying off my accounts and closing them because of this change, but the cfpb should investigate for the reason stated above. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9949308037757874
+}

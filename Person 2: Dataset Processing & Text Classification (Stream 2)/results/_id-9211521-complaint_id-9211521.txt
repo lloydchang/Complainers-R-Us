@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9211521,
+  "complaint_id": "9211521",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX red card was closed without my knowledge due to my payment being returned due to my identity being compromised. I was also charged fees due to the return payment and was told they closed my account for returned payment. Ive been a customer since 2003 and never had any problems until my identity theft. This is an unfair practice to penalize someone for something out of their control. \n\nI was told I would have to reapply and I asked how that could be when this was out of my control. Very unhelpful customer service representative who didnt seem to care about this practice.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "681XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NE",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "XXXX red card was closed without my knowledge due to my payment being returned due to my identity being compromised. I was also charged fees due to the return payment and was told they closed my account for returned payment. Ive been a customer since 2003 and never had any problems until my identity theft. This is an unfair practice to penalize someone for something out of their control. \n\nI was told I would have to reapply and I asked how that could be when this was out of my control. Very unhelpful customer service representative who didnt seem to care about this practice."
+}
+
+Chunk:
+xxxx red card was closed without my knowledge due to my payment being returned due to my identity being compromised. i was also charged fees due to the return payment and was told they closed my account for returned payment. ive been a customer since 2003 and never had any problems until my identity theft. this is an unfair practice to penalize someone for something out of their control. i was told i would have to reapply and i asked how that could be when this was out of my control. very unhelpful customer service representative who didnt seem to care about this practice.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992788434028625
+}

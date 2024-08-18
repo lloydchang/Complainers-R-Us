@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9167630,
+  "complaint_id": "9167630",
+  "product": "Credit card",
+  "complaint_what_happened": "Saturday XX/XX/year> I received a phone call from Chase Bank stating that they denied a purchase on my credit card for {$490.00}. I do not have a Chase Credit Card, and it appears someone opened a fraudulent account with my information for a credit card.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "132XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Saturday XX/XX/year> I received a phone call from Chase Bank stating that they denied a purchase on my credit card for {$490.00}. I do not have a Chase Credit Card, and it appears someone opened a fraudulent account with my information for a credit card."
+}
+
+Chunk:
+saturday xx / xx / year > i received a phone call from chase bank stating that they denied a purchase on my credit card for { $ 490. 00 }. i do not have a chase credit card, and it appears someone opened a fraudulent account with my information for a credit card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993515610694885
+}

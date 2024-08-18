@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9541991,
+  "complaint_id": "9541991",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a complaint against XXXX  XXXX regarding a recent issue with my credit card account. \n\nI have been diagnosed with a XXXX XXXX and have been suffering immensely over the past few months. Despite my best efforts, this illness has significantly impacted my life and emotional state. Recently, I made a payment on the XXXX XXXX website, but I was reported late to the credit bureaus. \n\nThis is the first time I have had a late payment, and I am committed to maintaining on-time payments with my account moving forward to avoid any issues.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "077XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I am writing to file a complaint against XXXX  XXXX regarding a recent issue with my credit card account. \n\nI have been diagnosed with a XXXX XXXX and have been suffering immensely over the past few months. Despite my best efforts, this illness has significantly impacted my life and emotional state. Recently, I made a payment on the XXXX XXXX website, but I was reported late to the credit bureaus. \n\nThis is the first time I have had a late payment, and I am committed to maintaining on-time payments with my account moving forward to avoid any issues."
+}
+
+Chunk:
+i am writing to file a complaint against xxxx xxxx regarding a recent issue with my credit card account. i have been diagnosed with a xxxx xxxx and have been suffering immensely over the past few months. despite my best efforts, this illness has significantly impacted my life and emotional state. recently, i made a payment on the xxxx xxxx website, but i was reported late to the credit bureaus. this is the first time i have had a late payment, and i am committed to maintaining on - time payments with my account moving forward to avoid any issues.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9452357292175293
+}

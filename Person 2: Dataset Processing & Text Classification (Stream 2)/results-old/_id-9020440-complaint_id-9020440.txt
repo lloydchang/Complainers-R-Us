@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020440,
+  "complaint_id": "9020440",
+  "product": "Credit card",
+  "complaint_what_happened": "Continental Finance llc reniged on there promotion offer of 6 months of on time payments would increase credit line to XXXX from XXXX tried to say I was late on a payment by XXXX days which is not true there was a pmt on time but some prossing error on there behalf which they blamed me for of course to get out of there commint offer of course!",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "44122",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Continental Finance llc reniged on there promotion offer of 6 months of on time payments would increase credit line to XXXX from XXXX tried to say I was late on a payment by XXXX days which is not true there was a pmt on time but some prossing error on there behalf which they blamed me for of course to get out of there commint offer of course!"
+}
+
+Chunk:
+continental finance llc reniged on there promotion offer of 6 months of on time payments would increase credit line to xxxx from xxxx tried to say i was late on a payment by xxxx days which is not true there was a pmt on time but some prossing error on there behalf which they blamed me for of course to get out of there commint offer of course!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991894364356995
+}

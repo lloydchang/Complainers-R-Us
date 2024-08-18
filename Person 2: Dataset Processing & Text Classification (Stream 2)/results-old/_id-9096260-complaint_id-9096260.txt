@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9096260,
+  "complaint_id": "9096260",
+  "product": "Credit card",
+  "complaint_what_happened": "The late payment was in violation of federal declaration of emergency signed by President",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "26003",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "WV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "The late payment was in violation of federal declaration of emergency signed by President"
+}
+
+Chunk:
+the late payment was in violation of federal declaration of emergency signed by president
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9800451397895813
+}

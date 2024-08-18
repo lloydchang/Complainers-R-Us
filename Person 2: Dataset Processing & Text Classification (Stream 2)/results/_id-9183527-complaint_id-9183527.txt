@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9183527,
+  "complaint_id": "9183527",
+  "product": "Credit card",
+  "complaint_what_happened": "They advised they would give me my refund of partial fee on XXXX as of XXXX I still have not recieved such refund.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43725",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "They advised they would give me my refund of partial fee on XXXX as of XXXX I still have not recieved such refund."
+}
+
+Chunk:
+they advised they would give me my refund of partial fee on xxxx as of xxxx i still have not recieved such refund.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968938827514648
+}

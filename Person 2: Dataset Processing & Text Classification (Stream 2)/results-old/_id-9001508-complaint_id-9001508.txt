@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9001508,
+  "complaint_id": "9001508",
+  "product": "Credit card",
+  "complaint_what_happened": "I refinanced my house in order to pay off all my credit card debt. I paid all balances off and closed all the cards but XXXX. The GoldmanSachs bank on my Apple Card, after calling and closing the account following the full payment on the account, contacted me a month later to ask when I will pay my balance on the account. I asked what balance since I paid off my card and closed the account. They said it was \" trailing interest, '' however when I called and closed my card this coming charge was not made known to me. I believed to have paid off the entire amount owed, especially at the ungodly interest rate they were charging me, and so I closed the account in good faith that I am done. Now they are hunting me for this \" trailing interest '' charge. \nWhat are my options? \nThank you in advance for your kind support.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48310",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "I refinanced my house in order to pay off all my credit card debt. I paid all balances off and closed all the cards but XXXX. The GoldmanSachs bank on my Apple Card, after calling and closing the account following the full payment on the account, contacted me a month later to ask when I will pay my balance on the account. I asked what balance since I paid off my card and closed the account. They said it was \" trailing interest, '' however when I called and closed my card this coming charge was not made known to me. I believed to have paid off the entire amount owed, especially at the ungodly interest rate they were charging me, and so I closed the account in good faith that I am done. Now they are hunting me for this \" trailing interest '' charge. \nWhat are my options? \nThank you in advance for your kind support."
+}
+
+Chunk:
+i refinanced my house in order to pay off all my credit card debt. i paid all balances off and closed all the cards but xxxx. the goldmansachs bank on my apple card, after calling and closing the account following the full payment on the account, contacted me a month later to ask when i will pay my balance on the account. i asked what balance since i paid off my card and closed the account. they said it was " trailing interest,'' however when i called and closed my card this coming charge was not made known to me. i believed to have paid off the entire amount owed, especially at the ungodly interest rate they were charging me, and so i closed the account in good faith that i am done. now they are hunting me for this " trailing interest'' charge. what are my options? thank you in advance for your kind support.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973099231719971
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154729,
+  "complaint_id": "9154729",
+  "product": "Credit card",
+  "complaint_what_happened": "I started a complaint on CFPB with Synchrony/Paypal Credit ( case : XXXX ). The company responded and closed my complaint right away. They did not allow me to respond. Here I have written my response and require follow up from PayPal/Synchrony . I disagree with the information Synchrony/Paypal sent in their response by XXXX XXXX XXXX pdf is attached in case number provided above ). I request this case be reopened and a follow up for my response. Here are 6 questions/concerns : 1. Their response states I didnt set up an auto-pay payment plan. Yet I set up the payment plan via phone call. Its all in the recorded call. In the call, the agent stated I was enrolled in auto-pay for minimum payment. They provided XXXX information of this in their response. Thus, I request a review of the call with the agent. How can I receive this information/how can we confirm you review the call? 2. You stated my payment plan was opened XX/XX/XXXX. The first payment that was missed was XX/XX/XXXX. All of those payments in between were on-time and NOT manually paid. It was all autopay. So please explain how I wasnt enrolled in auto-pay? 3.I cross-referenced my bank account linked to PayPal payments and it had sufficient funds for the dates you state I missed payment and indicated in your response. Thus, if my account was on auto-pay as it shouldve been AND as mentioned in the call AND as it was for months prior, there would be XXXX missed payments. So why wasnt it charged autopay? Or did you guys cancel the autopay? 4. Your response states I shouldve received CAP emails. Which of my emails were they sending notifications it to? 5.Has PayPal/Synchrony sent me any lawsuit letters for this collection? 6.A quick investigation on PayPal/Synchrony within the past years shows that they have canceled auto-pay for individuals ( unbeknownst to the customer ) and have caused mishaps with peoples payments. You can actually see people complaining about this right on the PAYPAL COMMUNITY section on PayPal.com here : XXXX XXXX XXXXpaypal-cXXXX/paypal-XXXX Another example on XXXX websites where customers have submitted complaints on this as well : XXXX XXXX XXXX/Synchrony-XXXX All that said, this case needs to be reopened and I need a proper and thorough investigation into the call where we agreed I would be on auto-pay. In addition, I have proof the on-time payments were done via auto-pay charges and not manually. So we need to further discuss this. Please answer all questions and AWAIT my answer instead of closing the complaint.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Difficulty submitting a dispute or getting information about a dispute over the phone",
+  "text": "I started a complaint on CFPB with Synchrony/Paypal Credit ( case : XXXX ). The company responded and closed my complaint right away. They did not allow me to respond. Here I have written my response and require follow up from PayPal/Synchrony . I disagree with the information Synchrony/Paypal sent in their response by XXXX XXXX XXXX pdf is attached in case number provided above ). I request this case be reopened and a follow up for my response. Here are 6 questions/concerns : 1. Their response states I didnt set up an auto-pay payment plan. Yet I set up the payment plan via phone call. Its all in the recorded call. In the call, the agent stated I was enrolled in auto-pay for minimum payment. They provided XXXX information of this in their response. Thus, I request a review of the call with the agent. How can I receive this information/how can we confirm you review the call? 2. You stated my payment plan was opened XX/XX/XXXX. The first payment that was missed was XX/XX/XXXX. All of those payments in between were on-time and NOT manually paid. It was all autopay. So please explain how I wasnt enrolled in auto-pay? 3.I cross-referenced my bank account linked to PayPal payments and it had sufficient funds for the dates you state I missed payment and indicated in your response. Thus, if my account was on auto-pay as it shouldve been AND as mentioned in the call AND as it was for months prior, there would be XXXX missed payments. So why wasnt it charged autopay? Or did you guys cancel the autopay? 4. Your response states I shouldve received CAP emails. Which of my emails were they sending notifications it to? 5.Has PayPal/Synchrony sent me any lawsuit letters for this collection? 6.A quick investigation on PayPal/Synchrony within the past years shows that they have canceled auto-pay for individuals ( unbeknownst to the customer ) and have caused mishaps with peoples payments. You can actually see people complaining about this right on the PAYPAL COMMUNITY section on PayPal.com here : XXXX XXXX XXXXpaypal-cXXXX/paypal-XXXX Another example on XXXX websites where customers have submitted complaints on this as well : XXXX XXXX XXXX/Synchrony-XXXX All that said, this case needs to be reopened and I need a proper and thorough investigation into the call where we agreed I would be on auto-pay. In addition, I have proof the on-time payments were done via auto-pay charges and not manually. So we need to further discuss this. Please answer all questions and AWAIT my answer instead of closing the complaint."
+}
+
+Chunk:
+synchrony - xxxx all that said, this case needs to be reopened and i need a proper and thorough investigation into the call where we agreed i would be on auto - pay. in addition, i have proof the on - time payments were done via auto - pay charges and not manually. so we need to further discuss this. please answer all questions and await my answer instead of closing the complaint.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981138706207275
+}

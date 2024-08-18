@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037404,
+  "complaint_id": "9037404",
+  "product": "Credit card",
+  "complaint_what_happened": "I entered an agreement with a XXXXXXXX XXXXXXXX XXXX XXXXXXXX, on XX/XX/XXXX for sales support, at the amount of $ XXXX. The company did not live up to or honor their agreement, and I cancelled the service on XX/XX/XXXX, when I received out of office replies to my inquiries on XX/XX/XXXX. \n\nThe $ XXXX payment was setup through AppleCard/Goldman Sachs, and I began the dispute process on XX/XX/XXXX. I provided Goldman Sachs all email correspondence and documentation. I NEVER received anything for the payments ( {$600.00} ) XXXX received. Goldman Sachs provided me a temporary credit, but later reversed it, stating that their investigation contradicted the documents I provided. I filed an updated dispute, which was reopened with Goldman Sachs on XX/XX/XXXX. My account went into 30-day collections during this process. \n\nXXXX has not provided me deliverables for the {$600.00} debited to my account and Goldman Sachs says \" Your Apple Card transaction dispute investigation is complete and the merchant charges will remain on your account.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76227",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I entered an agreement with a XXXXXXXX XXXXXXXX XXXX XXXXXXXX, on XX/XX/XXXX for sales support, at the amount of $ XXXX. The company did not live up to or honor their agreement, and I cancelled the service on XX/XX/XXXX, when I received out of office replies to my inquiries on XX/XX/XXXX. \n\nThe $ XXXX payment was setup through AppleCard/Goldman Sachs, and I began the dispute process on XX/XX/XXXX. I provided Goldman Sachs all email correspondence and documentation. I NEVER received anything for the payments ( {$600.00} ) XXXX received. Goldman Sachs provided me a temporary credit, but later reversed it, stating that their investigation contradicted the documents I provided. I filed an updated dispute, which was reopened with Goldman Sachs on XX/XX/XXXX. My account went into 30-day collections during this process. \n\nXXXX has not provided me deliverables for the {$600.00} debited to my account and Goldman Sachs says \" Your Apple Card transaction dispute investigation is complete and the merchant charges will remain on your account."
+}
+
+Chunk:
+i entered an agreement with a xxxxxxxx xxxxxxxx xxxx xxxxxxxx, on xx / xx / xxxx for sales support, at the amount of $ xxxx. the company did not live up to or honor their agreement, and i cancelled the service on xx / xx / xxxx, when i received out of office replies to my inquiries on xx / xx / xxxx. the $ xxxx payment was setup through applecard / goldman sachs, and i began the dispute process on xx / xx / xxxx. i provided goldman sachs all email correspondence and documentation. i never received anything for the payments ( { $ 600. 00 } ) xxxx received. goldman sachs provided me a temporary credit, but later reversed it, stating that their investigation contradicted the documents i provided. i filed an updated dispute, which was reopened with goldman sachs on xx / xx / xxxx. my account went into 30 - day collections during this process. xxxx has not provided me deliverables for the { $ 600. 00 } debited to my account and goldman sachs says " your apple card transaction dispute investigation is complete and the merchant charges will remain on your account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997029900550842
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156646,
+  "complaint_id": "9156646",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a dispute XXXX with XXXX that was initially not resolved in my favor so the provisional credit was reversed and then this was reopened and then resolved in my favor but never received a permanent credit for this - {$26.00}. I have made multiple calls and the last I spoke to a manger named XXXX who was one of the most rude and disrespectful managers that doesn't deserve a job at all and should be fired. I need my credit",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "03051",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "NH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I had a dispute XXXX with XXXX that was initially not resolved in my favor so the provisional credit was reversed and then this was reopened and then resolved in my favor but never received a permanent credit for this - {$26.00}. I have made multiple calls and the last I spoke to a manger named XXXX who was one of the most rude and disrespectful managers that doesn't deserve a job at all and should be fired. I need my credit"
+}
+
+Chunk:
+i had a dispute xxxx with xxxx that was initially not resolved in my favor so the provisional credit was reversed and then this was reopened and then resolved in my favor but never received a permanent credit for this - { $ 26. 00 }. i have made multiple calls and the last i spoke to a manger named xxxx who was one of the most rude and disrespectful managers that doesn't deserve a job at all and should be fired. i need my credit
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999679684638977
+}

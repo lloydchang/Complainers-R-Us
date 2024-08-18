@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036035,
+  "complaint_id": "9036035",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi Cards Dispute Case XXXX XXXX Merchant XXXX XXXX XXXXXXXX XXXX GA Reason for Dispute Incorrect amount Transaction Date XXXX Date Disputed XXXX Credit Status Permanent Credit Applied Transaction Amount {$99.00} Amount Disputed {$77.00} STATUS DETAILS Good news! We've taken care of this for you by issuing a permanent credit for this dispute. \n\nHowever, Citi cards allowed Merchant to REVERSE and double charge {$77.00} again.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30022",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Citi Cards Dispute Case XXXX XXXX Merchant XXXX XXXX XXXXXXXX XXXX GA Reason for Dispute Incorrect amount Transaction Date XXXX Date Disputed XXXX Credit Status Permanent Credit Applied Transaction Amount {$99.00} Amount Disputed {$77.00} STATUS DETAILS Good news! We've taken care of this for you by issuing a permanent credit for this dispute. \n\nHowever, Citi cards allowed Merchant to REVERSE and double charge {$77.00} again."
+}
+
+Chunk:
+citi cards dispute case xxxx xxxx merchant xxxx xxxx xxxxxxxx xxxx ga reason for dispute incorrect amount transaction date xxxx date disputed xxxx credit status permanent credit applied transaction amount { $ 99. 00 } amount disputed { $ 77. 00 } status details good news! we've taken care of this for you by issuing a permanent credit for this dispute. however, citi cards allowed merchant to reverse and double charge { $ 77. 00 } again.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.6591975688934326
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020051,
+  "complaint_id": "9020051",
+  "product": "Credit card",
+  "complaint_what_happened": "I closed my account in XX/XX/XXXX. I had until XX/XX/XXXX to pay off my account. I paid my account balance IN FULL. CitiBank did not close my account, moved me to a different credit card, and has been charging me interest and late fees for XXXX  months now. I've asked them to close this account, they refuse. I've asked them to remove the fees, they refused. \n\nThey are now harassing me by calling EVERY SINGLE DAY",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "604XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I closed my account in XX/XX/XXXX. I had until XX/XX/XXXX to pay off my account. I paid my account balance IN FULL. CitiBank did not close my account, moved me to a different credit card, and has been charging me interest and late fees for XXXX  months now. I've asked them to close this account, they refuse. I've asked them to remove the fees, they refused. \n\nThey are now harassing me by calling EVERY SINGLE DAY"
+}
+
+Chunk:
+i closed my account in xx / xx / xxxx. i had until xx / xx / xxxx to pay off my account. i paid my account balance in full. citibank did not close my account, moved me to a different credit card, and has been charging me interest and late fees for xxxx months now. i've asked them to close this account, they refuse. i've asked them to remove the fees, they refused. they are now harassing me by calling every single day
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988240599632263
+}

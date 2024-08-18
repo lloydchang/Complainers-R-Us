@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9088369,
+  "complaint_id": "9088369",
+  "product": "Credit card",
+  "complaint_what_happened": "Last month In XXXX I made a payment of XXXX a late fee was charged for XXXX when I made a payment on time it never processed so I was charged a late fee. This month my payment was due on XX/XX/24 instead of my usual XXXX due payment. It suddenly went up to me owing XXXX for no apparent reason. This credit account is closed and has not been used so there is no reason I should owe more than the required XXXX. Today XX/XX/24 I went in to make sure my payment posted that I paid yesterday and it did not. So I had to pay the XXXX today and next month I will be charged another late fee on top of whatever other fees XXXX decides to tact on. This is not right that I keep getting charged all these fees on a closed account. This is fraud. And I am keeping a paper trail cause I am obtaining an attorney. And the first step I was advised was to report this to you guys.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "44120",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Last month In XXXX I made a payment of XXXX a late fee was charged for XXXX when I made a payment on time it never processed so I was charged a late fee. This month my payment was due on XX/XX/24 instead of my usual XXXX due payment. It suddenly went up to me owing XXXX for no apparent reason. This credit account is closed and has not been used so there is no reason I should owe more than the required XXXX. Today XX/XX/24 I went in to make sure my payment posted that I paid yesterday and it did not. So I had to pay the XXXX today and next month I will be charged another late fee on top of whatever other fees XXXX decides to tact on. This is not right that I keep getting charged all these fees on a closed account. This is fraud. And I am keeping a paper trail cause I am obtaining an attorney. And the first step I was advised was to report this to you guys."
+}
+
+Chunk:
+last month in xxxx i made a payment of xxxx a late fee was charged for xxxx when i made a payment on time it never processed so i was charged a late fee. this month my payment was due on xx / xx / 24 instead of my usual xxxx due payment. it suddenly went up to me owing xxxx for no apparent reason. this credit account is closed and has not been used so there is no reason i should owe more than the required xxxx. today xx / xx / 24 i went in to make sure my payment posted that i paid yesterday and it did not. so i had to pay the xxxx today and next month i will be charged another late fee on top of whatever other fees xxxx decides to tact on. this is not right that i keep getting charged all these fees on a closed account. this is fraud. and i am keeping a paper trail cause i am obtaining an attorney. and the first step i was advised was to report this to you guys.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992062449455261
+}

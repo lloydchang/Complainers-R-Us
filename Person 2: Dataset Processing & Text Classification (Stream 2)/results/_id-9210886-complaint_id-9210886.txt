@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210886,
+  "complaint_id": "9210886",
+  "product": "Credit card",
+  "complaint_what_happened": "There was a credit issued of {$600.00} on XX/XX/XXXX from XXXX XXXX for a problem that I had with a sofa that was purchased from them, to my Costco Citibank credit card. I saw the credit issued of {$600.00} to my credit card account on XX/XX/XXXX. The {$600.00} credit is now not showing on my account. I have contacted Citibank on three different occasions. The first time, I was told it takes 3 days to post. The second time I called I was told that it takes 3 to five days to post. I spoke to a supervisor today who now says it takes 3 days to post and he does not show the credit for {$600.00}.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85383",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "There was a credit issued of {$600.00} on XX/XX/XXXX from XXXX XXXX for a problem that I had with a sofa that was purchased from them, to my Costco Citibank credit card. I saw the credit issued of {$600.00} to my credit card account on XX/XX/XXXX. The {$600.00} credit is now not showing on my account. I have contacted Citibank on three different occasions. The first time, I was told it takes 3 days to post. The second time I called I was told that it takes 3 to five days to post. I spoke to a supervisor today who now says it takes 3 days to post and he does not show the credit for {$600.00}."
+}
+
+Chunk:
+there was a credit issued of { $ 600. 00 } on xx / xx / xxxx from xxxx xxxx for a problem that i had with a sofa that was purchased from them, to my costco citibank credit card. i saw the credit issued of { $ 600. 00 } to my credit card account on xx / xx / xxxx. the { $ 600. 00 } credit is now not showing on my account. i have contacted citibank on three different occasions. the first time, i was told it takes 3 days to post. the second time i called i was told that it takes 3 to five days to post. i spoke to a supervisor today who now says it takes 3 days to post and he does not show the credit for { $ 600. 00 }.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999395489692688
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9252445,
+  "complaint_id": "9252445",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened 2 credit cards with Capital One less than two weeks apart around XXXX XXXX One is a rewards ' card. I purchased a new car and used the rewards ' card for {$1800.00} of the {$2500.00} down payment in XXXX XXXX. That was the only purchase with that card. The very next day Capital One declared fraud on the rewards ' card and froze use and access to it, but over the last 7 months has refused to explain how or why it suspects fraud, especially since both cards were opened using the EXACT same name, address and income info. I have been laughed at by XXXX. reps and required to resubmit the exact same docs both accounts were opened with, until after about XXXX times I stopped resending the docs. I am a XXXX female and believe XXXX. is blocking access to my credit and the XXXX rewards ' points I'm entitled to. For about 8 months I have made all payments on both cards in addition to additional payments but XXXX. has refused to explain why it suspects fraud and release my credit card and rewards ' points because I am a XXXX woman. I XXXX XXXX XXXX XXXX and XXXX. also demands that I provide a rental agreement or lease in addition to utilities ' statements. I lived in this XXXX  when I applied for and received the credit. The only thing that has changed is my last name. In XXXX I filed for a name change through the XXXX XXXX XXXX XXXX and received an Entry officially changing my name.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43123",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I opened 2 credit cards with Capital One less than two weeks apart around XXXX XXXX One is a rewards ' card. I purchased a new car and used the rewards ' card for {$1800.00} of the {$2500.00} down payment in XXXX XXXX. That was the only purchase with that card. The very next day Capital One declared fraud on the rewards ' card and froze use and access to it, but over the last 7 months has refused to explain how or why it suspects fraud, especially since both cards were opened using the EXACT same name, address and income info. I have been laughed at by XXXX. reps and required to resubmit the exact same docs both accounts were opened with, until after about XXXX times I stopped resending the docs. I am a XXXX female and believe XXXX. is blocking access to my credit and the XXXX rewards ' points I'm entitled to. For about 8 months I have made all payments on both cards in addition to additional payments but XXXX. has refused to explain why it suspects fraud and release my credit card and rewards ' points because I am a XXXX woman. I XXXX XXXX XXXX XXXX and XXXX. also demands that I provide a rental agreement or lease in addition to utilities ' statements. I lived in this XXXX  when I applied for and received the credit. The only thing that has changed is my last name. In XXXX I filed for a name change through the XXXX XXXX XXXX XXXX and received an Entry officially changing my name."
+}
+
+Chunk:
+i opened 2 credit cards with capital one less than two weeks apart around xxxx xxxx one is a rewards'card. i purchased a new car and used the rewards'card for { $ 1800. 00 } of the { $ 2500. 00 } down payment in xxxx xxxx. that was the only purchase with that card. the very next day capital one declared fraud on the rewards'card and froze use and access to it, but over the last 7 months has refused to explain how or why it suspects fraud, especially since both cards were opened using the exact same name, address and income info. i have been laughed at by xxxx. reps and required to resubmit the exact same docs both accounts were opened with, until after about xxxx times i stopped resending the docs. i am a xxxx female and believe xxxx. is blocking access to my credit and the xxxx rewards'points i'm entitled to. for about 8 months i have made all payments on both cards in addition to additional payments but xxxx. has refused to explain why it suspects fraud and release my credit card and rewards'points because i am a xxxx woman. i xxxx xxxx xxxx xxxx and xxxx. also demands that i provide a rental agreement or lease in addition to utilities'statements. i lived in this xxxx when i applied for and received the credit. the only thing that has changed is my last name. in xxxx i filed for a name change through the xxxx xxxx xxxx xxxx and received an entry officially changing my name.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998606264591217
+}

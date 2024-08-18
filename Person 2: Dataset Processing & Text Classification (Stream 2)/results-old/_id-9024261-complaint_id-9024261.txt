@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024261,
+  "complaint_id": "9024261",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX XXXX a credit card was opened fraudulently under my name without me giving permission to do so. I do not know who did this. My birth certificate and social security card was stolen from my home in XXXX I did not notice until XXXX. I filed a report with the IRS on XXXX",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "21227",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "ENCORE CAPITAL GROUP INC.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "On XXXX XXXX a credit card was opened fraudulently under my name without me giving permission to do so. I do not know who did this. My birth certificate and social security card was stolen from my home in XXXX I did not notice until XXXX. I filed a report with the IRS on XXXX"
+}
+
+Chunk:
+on xxxx xxxx a credit card was opened fraudulently under my name without me giving permission to do so. i do not know who did this. my birth certificate and social security card was stolen from my home in xxxx i did not notice until xxxx. i filed a report with the irs on xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993789196014404
+}

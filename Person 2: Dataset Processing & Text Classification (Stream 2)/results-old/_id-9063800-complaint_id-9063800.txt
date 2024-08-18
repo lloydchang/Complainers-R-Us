@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9063800,
+  "complaint_id": "9063800",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently XXXX has been upgrading XXXX Members to XXXX XXXX  status without the member having to earn the status via XXXX ( XXXX XXXX XXXX ). Members within this status are given their first checked bag free. This is a benefit also offered through the XXXX XXXX XXXX credit card ; however the credit card comes with a {$150.00} annual fee. Non- American Express XXXX holders are being given similar free rewards compared to individuals who are paying annual fees. \n\nOther benefits offered by the credit card such as the {$200.00} award after spending {$10000.00} per year do not offset the cost of using the card. The net benefit for that award would be {$50.00} per year. That would be half of XXXX cent per dollar spent, provided the user was able to spend only exactly {$10000.00}. More spend does not equate to more benefit. \n\nThis year American Express raised the annual fee from {$99.00} to {$150.00} and the rewards offered do not support that increase.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "410XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "Recently XXXX has been upgrading XXXX Members to XXXX XXXX  status without the member having to earn the status via XXXX ( XXXX XXXX XXXX ). Members within this status are given their first checked bag free. This is a benefit also offered through the XXXX XXXX XXXX credit card ; however the credit card comes with a {$150.00} annual fee. Non- American Express XXXX holders are being given similar free rewards compared to individuals who are paying annual fees. \n\nOther benefits offered by the credit card such as the {$200.00} award after spending {$10000.00} per year do not offset the cost of using the card. The net benefit for that award would be {$50.00} per year. That would be half of XXXX cent per dollar spent, provided the user was able to spend only exactly {$10000.00}. More spend does not equate to more benefit. \n\nThis year American Express raised the annual fee from {$99.00} to {$150.00} and the rewards offered do not support that increase."
+}
+
+Chunk:
+recently xxxx has been upgrading xxxx members to xxxx xxxx status without the member having to earn the status via xxxx ( xxxx xxxx xxxx ). members within this status are given their first checked bag free. this is a benefit also offered through the xxxx xxxx xxxx credit card ; however the credit card comes with a { $ 150. 00 } annual fee. non - american express xxxx holders are being given similar free rewards compared to individuals who are paying annual fees. other benefits offered by the credit card such as the { $ 200. 00 } award after spending { $ 10000. 00 } per year do not offset the cost of using the card. the net benefit for that award would be { $ 50. 00 } per year. that would be half of xxxx cent per dollar spent, provided the user was able to spend only exactly { $ 10000. 00 }. more spend does not equate to more benefit. this year american express raised the annual fee from { $ 99. 00 } to { $ 150. 00 } and the rewards offered do not support that increase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9911460280418396
+}

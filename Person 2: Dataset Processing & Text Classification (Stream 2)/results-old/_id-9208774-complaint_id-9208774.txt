@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208774,
+  "complaint_id": "9208774",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX CFPB and BBB, ** I am writing to file a complaint against XXXX XXXX XXXX regarding their handling of disputes and refunds, during which they have destroyed evidence and engaged in embezzlement. They are fraudulently taking funds from both customers and merchants. I have contacted the bank multiple times regarding these issues. \n\nThere are XXXX transactions in dispute : XXXX. XXXXXXXX dispute for $ XXXX : After I initiated the dispute, the merchant issued a refund. I requested that the bank cancel the dispute, but they said it was not possible. Despite the merchant refunding the amount, the bank reversed the credit and still charged me, effectively embezzling the funds. \n\nXXXX. XXXXXXXX  XXXX of $ XXXX : The merchant canceled the order due to lack of stock, but the transaction record was destroyed and there is no history of it. However, the bank is still asking me to pay the balance, which is incorrect. If the balance is not adjusted, the {$540.00} has been embezzled. \n\nThe bank is using these methods to deceive consumers and merchants to embezzle funds. Please investigate this rogue bank. Thank you!",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XXXX CFPB and BBB, ** I am writing to file a complaint against XXXX XXXX XXXX regarding their handling of disputes and refunds, during which they have destroyed evidence and engaged in embezzlement. They are fraudulently taking funds from both customers and merchants. I have contacted the bank multiple times regarding these issues. \n\nThere are XXXX transactions in dispute : XXXX. XXXXXXXX dispute for $ XXXX : After I initiated the dispute, the merchant issued a refund. I requested that the bank cancel the dispute, but they said it was not possible. Despite the merchant refunding the amount, the bank reversed the credit and still charged me, effectively embezzling the funds. \n\nXXXX. XXXXXXXX  XXXX of $ XXXX : The merchant canceled the order due to lack of stock, but the transaction record was destroyed and there is no history of it. However, the bank is still asking me to pay the balance, which is incorrect. If the balance is not adjusted, the {$540.00} has been embezzled. \n\nThe bank is using these methods to deceive consumers and merchants to embezzle funds. Please investigate this rogue bank. Thank you!"
+}
+
+Chunk:
+xxxx cfpb and bbb, * * i am writing to file a complaint against xxxx xxxx xxxx regarding their handling of disputes and refunds, during which they have destroyed evidence and engaged in embezzlement. they are fraudulently taking funds from both customers and merchants. i have contacted the bank multiple times regarding these issues. there are xxxx transactions in dispute : xxxx. xxxxxxxx dispute for $ xxxx : after i initiated the dispute, the merchant issued a refund. i requested that the bank cancel the dispute, but they said it was not possible. despite the merchant refunding the amount, the bank reversed the credit and still charged me, effectively embezzling the funds. xxxx. xxxxxxxx xxxx of $ xxxx : the merchant canceled the order due to lack of stock, but the transaction record was destroyed and there is no history of it. however, the bank is still asking me to pay the balance, which is incorrect. if the balance is not adjusted, the { $ 540. 00 } has been embezzled. the bank is using these methods to deceive consumers and merchants to embezzle funds. please investigate this rogue bank. thank you!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977931976318359
+}

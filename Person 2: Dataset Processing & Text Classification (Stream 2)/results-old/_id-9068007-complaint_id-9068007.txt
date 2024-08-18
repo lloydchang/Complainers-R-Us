@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068007,
+  "complaint_id": "9068007",
+  "product": "Credit card",
+  "complaint_what_happened": "I went to buy flowers for gardening. And since I've really only used the Citibank card for transferring amounts and having that XXXX or low interest rate. Citibank decided I was having a fraud problem and I have had identity theft and other fraud problems. \n\nSo I tried to accept the charges at the flower shop where I was trying to get gardening supplies and Citibank has you go through all of these different verifications your mother 's maiden name your code word your PIN number your social security number, the last XXXX of your card number which I have memorized. Then when you get to a person who's not in the XXXX, not at a bank branch and does not have any ability or authority to problem solve outside the script in front of them, then they suddenly won't help you unless you give them your phone number. Well, I actually have had my identity stolen and I have had problems with my phone being hijacked. So, why would I give you my entire 10-digit phone number when you should already have that information? Every other bank only asks me for the last XXXX have my phone number. I am more than happy to give you that. meanwhile, I have filed XXXX better Business bureau complaints hoping they would have the ability to get a hold of somebody at a headquarters who can actually problem solve and help me get my account closed. There has been XXXX response. \n\nI don't know what's going on at Citibank, but I'd sure like to be able to get my final amount and get an address to send a payment to and close this danged account.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "593XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I went to buy flowers for gardening. And since I've really only used the Citibank card for transferring amounts and having that XXXX or low interest rate. Citibank decided I was having a fraud problem and I have had identity theft and other fraud problems. \n\nSo I tried to accept the charges at the flower shop where I was trying to get gardening supplies and Citibank has you go through all of these different verifications your mother 's maiden name your code word your PIN number your social security number, the last XXXX of your card number which I have memorized. Then when you get to a person who's not in the XXXX, not at a bank branch and does not have any ability or authority to problem solve outside the script in front of them, then they suddenly won't help you unless you give them your phone number. Well, I actually have had my identity stolen and I have had problems with my phone being hijacked. So, why would I give you my entire 10-digit phone number when you should already have that information? Every other bank only asks me for the last XXXX have my phone number. I am more than happy to give you that. meanwhile, I have filed XXXX better Business bureau complaints hoping they would have the ability to get a hold of somebody at a headquarters who can actually problem solve and help me get my account closed. There has been XXXX response. \n\nI don't know what's going on at Citibank, but I'd sure like to be able to get my final amount and get an address to send a payment to and close this danged account."
+}
+
+Chunk:
+i went to buy flowers for gardening. and since i've really only used the citibank card for transferring amounts and having that xxxx or low interest rate. citibank decided i was having a fraud problem and i have had identity theft and other fraud problems. so i tried to accept the charges at the flower shop where i was trying to get gardening supplies and citibank has you go through all of these different verifications your mother's maiden name your code word your pin number your social security number, the last xxxx of your card number which i have memorized. then when you get to a person who's not in the xxxx, not at a bank branch and does not have any ability or authority to problem solve outside the script in front of them, then they suddenly won't help you unless you give them your phone number. well, i actually have had my identity stolen and i have had problems with my phone being hijacked. so, why would i give you my entire 10 - digit phone number when you should already have that information? every other bank only asks me for the last xxxx have my phone number. i am more than happy to give you that. meanwhile, i have filed xxxx better business bureau complaints hoping they would have the ability to get a hold of somebody at a headquarters who can actually problem solve and help me get my account closed. there has been xxxx response. i don't know what's going on at citibank, but i'd sure like to be able to get my final amount and get an address to send a payment to and close this danged account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9274786114692688
+}

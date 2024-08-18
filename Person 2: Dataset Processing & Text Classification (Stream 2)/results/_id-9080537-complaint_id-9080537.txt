@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9080537,
+  "complaint_id": "9080537",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Shop Your Way Credit Card, formerly a Sears/XXXX credit card except I can use anywhere now. It is considered a retail card, I can not get access to an online statement, however customer service can mail one, which takes 10-14 business days, they did mail it. Even though I have paperless statements, I still can not get access to a PDF statement, nor can they email it or fax it. Doesn't this seem odd, I need it for a closing and its urgent, frankly I did not think I would have such an issue getting my own information that I signed up for which is my own statements. Shop You Way has an non user friendly way of getting statements ( no app either ), here are the only options : Spreadsheet .XLS, CSV , Tab Delimited , TXT, and Custom Delimited, I do not know how to convert these or if there is a way. It should not be so difficult for the customer to access their own records. They can not email or fax and this is ludicris, hence why I am complaining. If you click on your statement you get a screen shot, which is not a statement, what else could the be doing that we may not know. I do not like that this information will be in the mail, especially since our mail is getting rerouted to other cities.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "310XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have a Shop Your Way Credit Card, formerly a Sears/XXXX credit card except I can use anywhere now. It is considered a retail card, I can not get access to an online statement, however customer service can mail one, which takes 10-14 business days, they did mail it. Even though I have paperless statements, I still can not get access to a PDF statement, nor can they email it or fax it. Doesn't this seem odd, I need it for a closing and its urgent, frankly I did not think I would have such an issue getting my own information that I signed up for which is my own statements. Shop You Way has an non user friendly way of getting statements ( no app either ), here are the only options : Spreadsheet .XLS, CSV , Tab Delimited , TXT, and Custom Delimited, I do not know how to convert these or if there is a way. It should not be so difficult for the customer to access their own records. They can not email or fax and this is ludicris, hence why I am complaining. If you click on your statement you get a screen shot, which is not a statement, what else could the be doing that we may not know. I do not like that this information will be in the mail, especially since our mail is getting rerouted to other cities."
+}
+
+Chunk:
+i have a shop your way credit card, formerly a sears / xxxx credit card except i can use anywhere now. it is considered a retail card, i can not get access to an online statement, however customer service can mail one, which takes 10 - 14 business days, they did mail it. even though i have paperless statements, i still can not get access to a pdf statement, nor can they email it or fax it. doesn't this seem odd, i need it for a closing and its urgent, frankly i did not think i would have such an issue getting my own information that i signed up for which is my own statements. shop you way has an non user friendly way of getting statements ( no app either ), here are the only options : spreadsheet. xls, csv, tab delimited, txt, and custom delimited, i do not know how to convert these or if there is a way. it should not be so difficult for the customer to access their own records. they can not email or fax and this is ludicris, hence why i am complaining. if you click on your statement you get a screen shot, which is not a statement, what else could the be doing that we may not know. i do not like that this information will be in the mail, especially since our mail is getting rerouted to other cities.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987261891365051
+}

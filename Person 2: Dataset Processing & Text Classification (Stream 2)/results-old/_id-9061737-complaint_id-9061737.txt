@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9061737,
+  "complaint_id": "9061737",
+  "product": "Credit card",
+  "complaint_what_happened": "I did not authorize these inquiries on my credit report. Please remove immediately. \nXXXXXXXX XXXX XXXX - XX/XX/XXXX XXXX XXXX XXXX  -XXXX  XXXX, XXXX Capital one - XX/XX/XXXX XXXX - XX/XX/XXXX XXXX XXXX - XX/XX/XXXX XXXX XXXX XXXX XXXX - XX/XX/XXXXXXXX XXXX XXXX - XX/XX/XXXX XXXX. XXXX XXXX XXXX, XXXX Capital One - XX/XX/XXXX XXXX XXXX XXXX, XXXX XXXX XX/XX/XXXX Capital One - XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX - XXXX XXXX XXXX XX/XX/XXXX CAPITAL ONE - XX/XX/XXXX XXXX  - XX/XX/XXXX CAPITAL ONE - XX/XX/XXXX 2022",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92882",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I did not authorize these inquiries on my credit report. Please remove immediately. \nXXXXXXXX XXXX XXXX - XX/XX/XXXX XXXX XXXX XXXX  -XXXX  XXXX, XXXX Capital one - XX/XX/XXXX XXXX - XX/XX/XXXX XXXX XXXX - XX/XX/XXXX XXXX XXXX XXXX XXXX - XX/XX/XXXXXXXX XXXX XXXX - XX/XX/XXXX XXXX. XXXX XXXX XXXX, XXXX Capital One - XX/XX/XXXX XXXX XXXX XXXX, XXXX XXXX XX/XX/XXXX Capital One - XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX - XXXX XXXX XXXX XX/XX/XXXX CAPITAL ONE - XX/XX/XXXX XXXX  - XX/XX/XXXX CAPITAL ONE - XX/XX/XXXX 2022"
+}
+
+Chunk:
+i did not authorize these inquiries on my credit report. please remove immediately. xxxxxxxx xxxx xxxx - xx / xx / xxxx xxxx xxxx xxxx - xxxx xxxx, xxxx capital one - xx / xx / xxxx xxxx - xx / xx / xxxx xxxx xxxx - xx / xx / xxxx xxxx xxxx xxxx xxxx - xx / xx / xxxxxxxx xxxx xxxx - xx / xx / xxxx xxxx. xxxx xxxx xxxx, xxxx capital one - xx / xx / xxxx xxxx xxxx xxxx, xxxx xxxx xx / xx / xxxx capital one - xx / xx / xxxx xxxx xxxx xxxx xxxx xxxx - xxxx xxxx xxxx xx / xx / xxxx capital one - xx / xx / xxxx xxxx - xx / xx / xxxx capital one - xx / xx / xxxx 2022
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996978759765625
+}

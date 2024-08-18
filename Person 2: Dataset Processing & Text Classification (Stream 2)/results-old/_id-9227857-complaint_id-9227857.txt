@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9227857,
+  "complaint_id": "9227857",
+  "product": "Credit card",
+  "complaint_what_happened": "I was enrolled in automatic payments of minimum payment and instead was charged for the statement balance resulting in being overdrawn over XXXX.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11434",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I was enrolled in automatic payments of minimum payment and instead was charged for the statement balance resulting in being overdrawn over XXXX."
+}
+
+Chunk:
+i was enrolled in automatic payments of minimum payment and instead was charged for the statement balance resulting in being overdrawn over xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994164705276489
+}

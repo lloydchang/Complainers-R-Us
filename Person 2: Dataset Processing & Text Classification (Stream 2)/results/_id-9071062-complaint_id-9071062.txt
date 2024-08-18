@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071062,
+  "complaint_id": "9071062",
+  "product": "Credit card",
+  "complaint_what_happened": "We have an IKEA Visa credit card account with Comenity Bank for which we were trying to pay {$12000.00}. We mailed by 2nd day USPS priority mail the first check on XX/XX/24 with a copy of our account statement. Comenity Bank returned it, claiming we were missing info on the check. We reissued a check by mail on XX/XX/24 and we are now 10 days out with no indication of payment to our account. This appears to be a systematic delay in payment clearance in an attempt to charge additional daily interest. We have already paid over {$460.00} so far in interest on the balance we wished to pay a month ago.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "019XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "We have an IKEA Visa credit card account with Comenity Bank for which we were trying to pay {$12000.00}. We mailed by 2nd day USPS priority mail the first check on XX/XX/24 with a copy of our account statement. Comenity Bank returned it, claiming we were missing info on the check. We reissued a check by mail on XX/XX/24 and we are now 10 days out with no indication of payment to our account. This appears to be a systematic delay in payment clearance in an attempt to charge additional daily interest. We have already paid over {$460.00} so far in interest on the balance we wished to pay a month ago."
+}
+
+Chunk:
+we have an ikea visa credit card account with comenity bank for which we were trying to pay { $ 12000. 00 }. we mailed by 2nd day usps priority mail the first check on xx / xx / 24 with a copy of our account statement. comenity bank returned it, claiming we were missing info on the check. we reissued a check by mail on xx / xx / 24 and we are now 10 days out with no indication of payment to our account. this appears to be a systematic delay in payment clearance in an attempt to charge additional daily interest. we have already paid over { $ 460. 00 } so far in interest on the balance we wished to pay a month ago.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996649026870728
+}

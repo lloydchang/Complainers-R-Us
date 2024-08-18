@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9157176,
+  "complaint_id": "9157176",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a XXXX XXXX XXXX XXXX on XX/XX/XXXX, using my TD BANK XXXX XXXX credit account. Phone was supposed to be delivered XX/XX/XXXX. Instead I get a delivery delayed notice. I contact XXXX and they tell me they will not ship the phone because XXXXXXXX XXXX was not authorizing the transaction. I reached out to XXXXXXXX XXXX and waited in cues a total of over 6 hours only to be hung up on 2 times. I also emailed their listed customer service department seeking help, because once I logged into my account not only did I find that they did authorize the transaction on XX/XX/XXXX, they authorized it again on XX/XX/XXXX. My current card balance is sitting at double, so {$2400.00}. But even with proof that the transaction is complete, XXXX is not releasing the product I was charged for twice.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "385XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I purchased a XXXX XXXX XXXX XXXX on XX/XX/XXXX, using my TD BANK XXXX XXXX credit account. Phone was supposed to be delivered XX/XX/XXXX. Instead I get a delivery delayed notice. I contact XXXX and they tell me they will not ship the phone because XXXXXXXX XXXX was not authorizing the transaction. I reached out to XXXXXXXX XXXX and waited in cues a total of over 6 hours only to be hung up on 2 times. I also emailed their listed customer service department seeking help, because once I logged into my account not only did I find that they did authorize the transaction on XX/XX/XXXX, they authorized it again on XX/XX/XXXX. My current card balance is sitting at double, so {$2400.00}. But even with proof that the transaction is complete, XXXX is not releasing the product I was charged for twice."
+}
+
+Chunk:
+i purchased a xxxx xxxx xxxx xxxx on xx / xx / xxxx, using my td bank xxxx xxxx credit account. phone was supposed to be delivered xx / xx / xxxx. instead i get a delivery delayed notice. i contact xxxx and they tell me they will not ship the phone because xxxxxxxx xxxx was not authorizing the transaction. i reached out to xxxxxxxx xxxx and waited in cues a total of over 6 hours only to be hung up on 2 times. i also emailed their listed customer service department seeking help, because once i logged into my account not only did i find that they did authorize the transaction on xx / xx / xxxx, they authorized it again on xx / xx / xxxx. my current card balance is sitting at double, so { $ 2400. 00 }. but even with proof that the transaction is complete, xxxx is not releasing the product i was charged for twice.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990876913070679
+}

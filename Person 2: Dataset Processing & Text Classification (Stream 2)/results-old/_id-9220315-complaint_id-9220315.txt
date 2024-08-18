@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9220315,
+  "complaint_id": "9220315",
+  "product": "Credit card",
+  "complaint_what_happened": "Knowing the app was letting wrongful transactions add up because it was money on the account they continued to let it take place knowing that I was hospitalized during all of the transactions and repeatedly reporting disputes with them they closed my account with well over XXXX XXXX dollars in taken funds which I disputed all of the transactions so they are all are on file and yet to be returned to me. \nI am looking to seek more legal action if funds are not returned and settled",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20785",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Block, Inc.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Knowing the app was letting wrongful transactions add up because it was money on the account they continued to let it take place knowing that I was hospitalized during all of the transactions and repeatedly reporting disputes with them they closed my account with well over XXXX XXXX dollars in taken funds which I disputed all of the transactions so they are all are on file and yet to be returned to me. \nI am looking to seek more legal action if funds are not returned and settled"
+}
+
+Chunk:
+knowing the app was letting wrongful transactions add up because it was money on the account they continued to let it take place knowing that i was hospitalized during all of the transactions and repeatedly reporting disputes with them they closed my account with well over xxxx xxxx dollars in taken funds which i disputed all of the transactions so they are all are on file and yet to be returned to me. i am looking to seek more legal action if funds are not returned and settled
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992355108261108
+}

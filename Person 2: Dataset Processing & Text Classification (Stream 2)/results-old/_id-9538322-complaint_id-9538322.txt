@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9538322,
+  "complaint_id": "9538322",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had a Macy 's CC for over XXXX  years. \nXXXX  years ago I purchased a bed for over {$2000.00}. \nMacys sent me a new card and then raised my credit limit to a ridiculously high amount for a retail store, this was unsolicited. \nI believe that they called it a XXXX XXXX It brough my credit score down. \nEventually, I received a notice that my credit limit was severely decreased d/t not enough purchasing. a new card was issued without XXXX  status. this also affected my credit score. \nI have used the card in the store at times, however I can not use it online as it does not recognize the number. If the discount is not passed on through the use of the store cc, I do not use it. I tried calling customer service and it was a nightmare. English speakers of other primary languages and difficult for them to understand the issues. Customer service keeps reading from a script and can not understand what I am relating to them. \n**Now, I receive a letter that they are terminating the card. concerned that my score will take yet another hit. They should not have the power to turn on turn off increase or decrease without my input or permission.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "334XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I have had a Macy 's CC for over XXXX  years. \nXXXX  years ago I purchased a bed for over {$2000.00}. \nMacys sent me a new card and then raised my credit limit to a ridiculously high amount for a retail store, this was unsolicited. \nI believe that they called it a XXXX XXXX It brough my credit score down. \nEventually, I received a notice that my credit limit was severely decreased d/t not enough purchasing. a new card was issued without XXXX  status. this also affected my credit score. \nI have used the card in the store at times, however I can not use it online as it does not recognize the number. If the discount is not passed on through the use of the store cc, I do not use it. I tried calling customer service and it was a nightmare. English speakers of other primary languages and difficult for them to understand the issues. Customer service keeps reading from a script and can not understand what I am relating to them. \n**Now, I receive a letter that they are terminating the card. concerned that my score will take yet another hit. They should not have the power to turn on turn off increase or decrease without my input or permission."
+}
+
+Chunk:
+i have had a macy's cc for over xxxx years. xxxx years ago i purchased a bed for over { $ 2000. 00 }. macys sent me a new card and then raised my credit limit to a ridiculously high amount for a retail store, this was unsolicited. i believe that they called it a xxxx xxxx it brough my credit score down. eventually, i received a notice that my credit limit was severely decreased d / t not enough purchasing. a new card was issued without xxxx status. this also affected my credit score. i have used the card in the store at times, however i can not use it online as it does not recognize the number. if the discount is not passed on through the use of the store cc, i do not use it. i tried calling customer service and it was a nightmare. english speakers of other primary languages and difficult for them to understand the issues. customer service keeps reading from a script and can not understand what i am relating to them. * * now, i receive a letter that they are terminating the card. concerned that my score will take yet another hit. they should not have the power to turn on turn off increase or decrease without my input or permission.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996790885925293
+}

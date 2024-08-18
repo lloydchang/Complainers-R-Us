@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9144715,
+  "complaint_id": "9144715",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I called the company ( Chime aka XXXX ) to let them know that I noticed unauthorized charges on my credit card. They said they would open a claim and investigate. On XX/XX/year> I logged in to check the status and realized my claim was denied the same day I opened it which was XX/XX/year>. I called them and they could not provide a reason. They said the team who handled the claim didn't provide a reason. They said I should have received an email. I never received any information about a decline. I found out via their mobile app.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89118",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> I called the company ( Chime aka XXXX ) to let them know that I noticed unauthorized charges on my credit card. They said they would open a claim and investigate. On XX/XX/year> I logged in to check the status and realized my claim was denied the same day I opened it which was XX/XX/year>. I called them and they could not provide a reason. They said the team who handled the claim didn't provide a reason. They said I should have received an email. I never received any information about a decline. I found out via their mobile app."
+}
+
+Chunk:
+on xx / xx / year > i called the company ( chime aka xxxx ) to let them know that i noticed unauthorized charges on my credit card. they said they would open a claim and investigate. on xx / xx / year > i logged in to check the status and realized my claim was denied the same day i opened it which was xx / xx / year >. i called them and they could not provide a reason. they said the team who handled the claim didn't provide a reason. they said i should have received an email. i never received any information about a decline. i found out via their mobile app.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990910291671753
+}

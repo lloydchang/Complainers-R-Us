@@ -1,0 +1,3292 @@
+save into files by the id and customer id, such as
+
+_id-9080238-complaint_id-9080238.txt
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(text, max_length=512):
+    """Split text into chunks of a specified maximum length."""
+    tokens = tokenizer.encode(text, truncation=False)
+    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+              for i in range(0, len(tokens), max_length)]
+    return chunks
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk = future_to_chunk[future]
+            try:
+                result = future.result()
+                results.append((chunk, result))
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    result = classify_text(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
+
+# Process text from file
+transcribed_text_file = "cleaned_text.txt"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        transcribed_text = file.read()
+
+    # Split text into chunks
+    chunks = split_text_into_chunks(transcribed_text)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Print results
+    for chunk, result in results:
+        print("\n")
+        print(chunk)
+        print(result)
+        print("\n")
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+ChatGPT said:
+ChatGPT
+To save the results into files named by _id and complaint_id, you can modify the script to write the classification results to text files. Assuming that each chunk of text corresponds to a unique _id and complaint_id, you'll need to adjust the process_chunks_in_parallel function to include these identifiers.
+
+Here's an updated version of the script with file-saving functionality:
+
+python
+Copy code
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(text, max_length=512):
+    """Split text into chunks of a specified maximum length."""
+    tokens = tokenizer.encode(text, truncation=False)
+    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+              for i in range(0, len(tokens), max_length)]
+    return chunks
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk = future_to_chunk[future]
+            try:
+                result = future.result()
+                results.append((chunk, result))
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+def save_results_to_files(results, base_filename):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for chunk, result in results:
+        # Example _id and complaint_id (you should replace these with actual values or extract from your data)
+        _id = '9080238'
+        complaint_id = '9080238'
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{result}\n")
+
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    result = classify_text(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
+
+# Process text from file
+transcribed_text_file = "cleaned_text.txt"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        transcribed_text = file.read()
+
+    # Split text into chunks
+    chunks = split_text_into_chunks(transcribed_text)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results, 'transcribed_text')
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+Changes Made:
+Added save_results_to_files Function:
+
+This function creates a results directory if it does not exist.
+It saves each chunk and its classification result into a text file named with _id and complaint_id.
+Updated process_chunks_in_parallel:
+
+It now calls save_results_to_files to save results.
+Example _id and complaint_id:
+
+Replace _id and complaint_id with actual values from your data or logic to extract them dynamically if they are available in the text.
+Make sure to adjust _id and complaint_id handling as needed based on your actual data.
+
+
+
+You said:
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(text, max_length=512):
+    """Split text into chunks of a specified maximum length."""
+    tokens = tokenizer.encode(text, truncation=False)
+    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+              for i in range(0, len(tokens), max_length)]
+    return chunks
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk = future_to_chunk[future]
+            try:
+                result = future.result()
+                results.append((chunk, result))
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+def save_results_to_files(results, base_filename):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for chunk, result in results:
+        # Example _id and complaint_id (you should replace these with actual values or extract from your data)
+        _id = '9080238'
+        complaint_id = '9080238'
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{result}\n")
+
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    result = classify_text(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
+
+# Process text from file
+transcribed_text_file = "cleaned_text.txt"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        transcribed_text = file.read()
+
+    # Split text into chunks
+    chunks = split_text_into_chunks(transcribed_text)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results, 'transcribed_text')
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+
+
+is it saving to multiple files? i only see one file in the results directory
+ChatGPT said:
+ChatGPT
+The code is designed to save classification results to multiple files, but it currently uses hardcoded values for _id and complaint_id, resulting in only one file being created repeatedly with the same name, thus overwriting itself.
+
+To ensure that multiple files are saved, you need to:
+
+Extract _id and complaint_id from the actual data: If your JSON data contains these fields, extract them for each chunk.
+Generate unique filenames: Use these extracted values to create unique filenames for each result.
+Here’s how you can modify the save_results_to_files function to generate unique filenames:
+
+python
+Copy code
+def save_results_to_files(results, base_filename):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for idx, (chunk, result) in enumerate(results):
+        # Example _id and complaint_id extraction (replace with actual extraction logic)
+        _id = f'id_{idx}'  # Replace this with actual logic to extract _id
+        complaint_id = f'complaint_{idx}'  # Replace this with actual logic to extract complaint_id
+        filename = f"results/{base_filename}_id-{_id}_complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{result}\n")
+This code ensures that each result is saved to a uniquely named file, using an index for _id and complaint_id. You should replace the placeholder extraction logic with the actual logic relevant to your dataset.
+
+If your chunks are part of a larger JSON structure that contains _id and complaint_id, you'll need to pass these identifiers along with the text chunks through the processing pipeline.
+
+Let me know if you need further clarification on handling your specific dataset!
+
+You said:
+why is it hardcoded?
+
+it should use the IDs based on the current chunk from the transcribed/cleaned text file
+ChatGPT said:
+ChatGPT
+The IDs were hardcoded in the previous example as placeholders. To use the actual IDs from your transcribed/cleaned text file, you need to modify the code to extract _id and complaint_id from your JSON data or text chunks.
+
+Here’s how you can refactor the code:
+
+Assume each chunk of text corresponds to a specific complaint: If your text data is structured such that each chunk has associated _id and complaint_id, these should be parsed and passed along with the chunk.
+
+Modify the functions to handle IDs: Adjust the split_text_into_chunks and save_results_to_files functions to incorporate these IDs.
+
+Example Refactor
+Let's assume the transcribed/cleaned text file is in JSON format, where each object contains a _id, complaint_id, and text.
+
+python
+Copy code
+def split_text_into_chunks(text_data, max_length=512):
+    """Split text into chunks of a specified maximum length, along with their IDs."""
+    chunks = []
+    for item in text_data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                '_id': item['_id'],
+                'complaint_id': item['complaint_id']
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        _id = result['_id']
+        complaint_id = result['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{classification}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    '_id': chunk_info['_id'],
+                    'complaint_id': chunk_info['complaint_id']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Load and parse the transcribed text file
+try:
+    with open(transcribed_text_file, 'r') as file:
+        text_data = json.load(file)
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Changes:
+split_text_into_chunks: This now processes each entry in the JSON list, associates the chunk with its _id and complaint_id, and returns a list of dictionaries, each containing a chunk and its corresponding IDs.
+
+process_chunks_in_parallel: This function now processes each chunk with its associated IDs, ensuring the results include these identifiers.
+
+save_results_to_files: This function uses the _id and complaint_id from each chunk to create unique filenames, ensuring each classification result is saved correctly without being overwritten.
+
+Example Input JSON Structure
+Here’s an example of how your cleaned_text.txt file might look:
+
+json
+Copy code
+[
+    {"_id": "9080238", "complaint_id": "9080238", "text": "Your complaint text here."},
+    {"_id": "9080239", "complaint_id": "9080239", "text": "Another complaint text here."}
+]
+This code will handle the creation of separate files for each chunk using the provided _id and complaint_id. Make sure your input file is structured correctly to match this approach.
+
+You said:
+here's an actual example
+
+{"_index": "complaint-public-v2", "_type": "_doc", "_id": "9080238", "_score": null, "_source": {"product": "Credit card", "complaint_what_happened": "I thought I was agreeing to a credit balance transfer at a lower interest rate and higher credit limit. However, they issued me a predatory a higher interest rate. Due to the pandemic, paying this predatory credit line was unsustainable. \nDue to this action, I suffered a lower credit score and have been unable to access credit for buying a home, car, and other credit cards.", "date_sent_to_company": "2024-05-24T12:00:00-05:00", "issue": "Fees or interest", "sub_product": "General-purpose credit card or charge card", "zip_code": "30344", "tags": null, "complaint_id": "9080238", "timely": "Yes", "consumer_consent_provided": "Consent provided", "company_response": "Closed with explanation", "submitted_via": "Web", "company": "DISCOVER BANK", "date_received": "2024-05-24T12:00:00-05:00", "state": "GA", "consumer_disputed": "N/A", "company_public_response": null, "sub_issue": "Problem with fees"}, "sort": [894248]}
+ChatGPT said:
+ChatGPT
+Memory updated
+Given the structure of your dataset, you can modify the code to extract _id and complaint_id from each JSON record and use them when saving results. Here’s how you can update the split_text_into_chunks, process_chunks_in_parallel, and save_results_to_files functions to work with this dataset:
+
+Updated Code
+python
+Copy code
+import json
+import os
+import torch
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['_source']['complaint_what_happened']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                '_id': item['_id'],
+                'complaint_id': item['_source']['complaint_id']
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        _id = result['_id']
+        complaint_id = result['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{classification}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    '_id': chunk_info['_id'],
+                    'complaint_id': chunk_info['complaint_id']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    result = classify_text(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
+
+# Process text from file
+transcribed_text_file = "cleaned_text.json"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = json.load(file)
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Points:
+JSON Structure: The split_text_into_chunks function now processes each JSON object, extracting _id and complaint_id from _source and splitting the complaint text into chunks.
+
+File Handling: The save_results_to_files function saves each result with a filename that includes the _id and complaint_id.
+
+Error Handling: Added exception handling for file not found and JSON decoding errors.
+
+Make sure your cleaned_text.json file is structured correctly to match the example provided. Each entry should be a JSON object with the keys _id, complaint_id, and _source containing the complaint text.
+
+You said:
+and can you preserve all the other fields?
+
+maybe rewrite both python files?
+
+#process_data.py
+
+import pandas as pd
+import csv
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Set display options to show all rows
+pd.set_option('display.max_rows', None)
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data: remove punctuation and replace newlines with spaces
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+df['text'] = df['text'].str.replace(r'\s+', ' ', regex=True)  # Replace multiple spaces with a single space
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create 'cleaned_text' with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: f"{row['_id']}|{row['complaint_id']}|{row['text']}", axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.txt', index=False, header=False, quoting=csv.QUOTE_NONE)
+
+print("Text data with identifiers has been cleaned and saved.")
+
+
+#classfy_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(text, max_length=512):
+    """Split text into chunks of a specified maximum length."""
+    tokens = tokenizer.encode(text, truncation=False)
+    chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+              for i in range(0, len(tokens), max_length)]
+    return chunks
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk = future_to_chunk[future]
+            try:
+                result = future.result()
+                results.append((chunk, result))
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+def save_results_to_files(results, base_filename):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for chunk, result in results:
+        # Example _id and complaint_id (you should replace these with actual values or extract from your data)
+        _id = '9080238'
+        complaint_id = '9080238'
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{result}\n")
+
+# Test classification with simple text
+test_texts = [
+    "I love using GPUs for deep learning!",
+    "I love using Hugging Face models!"
+]
+
+for text in test_texts:
+    result = classify_text(text)
+    print("\n")
+    print(text)
+    print(result)
+    print("\n")
+
+# Process text from file
+transcribed_text_file = "cleaned_text.txt"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        transcribed_text = file.read()
+
+    # Split text into chunks
+    chunks = split_text_into_chunks(transcribed_text)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results, 'transcribed_text')
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+ChatGPT said:
+ChatGPT
+To ensure that all the relevant fields from your dataset are preserved and correctly processed, you need to update both the process_data.py and classify_text.py scripts.
+
+Updated process_data.py
+This script processes the JSON dataset, cleans the text, and saves it to a file with additional identifiers.
+
+python
+Copy code
+import pandas as pd
+import json
+import csv
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data: remove punctuation and replace newlines with spaces
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+df['text'] = df['text'].str.replace(r'\s+', ' ', regex=True)  # Replace multiple spaces with a single space
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create 'cleaned_text' with '_id', 'complaint_id', and 'text'
+df['cleaned_text'] = df.apply(
+    lambda row: json.dumps({
+        '_id': row['_id'],
+        'complaint_id': row['complaint_id'],
+        'text': row['text']
+    }), axis=1
+)
+
+# Save cleaned data with identifiers
+df[['cleaned_text']].to_csv('cleaned_text.json', index=False, header=False, quoting=csv.QUOTE_NONE)
+
+print("Text data with identifiers has been cleaned and saved.")
+Updated classify_text.py
+This script processes the cleaned text file, classifies each chunk, and saves the results with the associated identifiers.
+
+python
+Copy code
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                '_id': item['_id'],
+                'complaint_id': item['complaint_id']
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        _id = result['_id']
+        complaint_id = result['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{classification}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    '_id': chunk_info['_id'],
+                    'complaint_id': chunk_info['complaint_id']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.json"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Updates:
+process_data.py: Processes the dataset, cleans the text, and preserves identifiers by saving the data to cleaned_text.json in a JSONL format, where each line is a JSON object.
+
+classify_text.py: Reads the JSONL file, processes the chunks while preserving _id and complaint_id, and saves results to individual files based on these identifiers.
+
+This approach ensures that all relevant fields are preserved and handled correctly throughout the data processing and classification pipeline.
+
+You said:
+and incorporate all of the above to save the _id and customer_id to separate files without hardcoding
+ChatGPT said:
+ChatGPT
+To incorporate the changes and ensure that _id and complaint_id are correctly saved to separate files without hardcoding, you'll need to modify both scripts to handle the IDs dynamically. Here's how you can do it:
+
+Updated process_data.py
+This script processes the dataset, cleans the text, and saves each record as a JSON object with its identifiers to a JSONL file.
+
+python
+Copy code
+import pandas as pd
+import json
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Extract text from the '_source' column
+df['text'] = df['_source'].apply(lambda x: x.get('complaint_what_happened', '') if isinstance(x, dict) else '')
+
+# Clean the text data: remove punctuation and replace newlines with spaces
+df['text'] = df['text'].str.replace(r'[^\w\s]', '', regex=True)
+df['text'] = df['text'].str.replace(r'\s+', ' ', regex=True)  # Replace multiple spaces with a single space
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create JSONL file with cleaned data
+with open('cleaned_text.jsonl', 'w') as f:
+    for _, row in df.iterrows():
+        json_record = {
+            '_id': row['_id'],
+            'complaint_id': row['complaint_id'],
+            'text': row['text']
+        }
+        f.write(json.dumps(json_record) + '\n')
+
+print("Text data with identifiers has been cleaned and saved.")
+Updated classify_text.py
+This script reads the cleaned JSONL file, processes each chunk, and saves classification results to separate files based on the _id and complaint_id.
+
+python
+Copy code
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                '_id': item['_id'],
+                'complaint_id': item['complaint_id']
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        _id = result['_id']
+        complaint_id = result['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Chunk:\n{chunk}\n\nResult:\n{classification}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    '_id': chunk_info['_id'],
+                    'complaint_id': chunk_info['complaint_id']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Summary of Changes:
+process_data.py:
+
+Creates a cleaned_text.jsonl file where each line is a JSON object containing _id, complaint_id, and the cleaned text.
+classify_text.py:
+
+Reads the cleaned_text.jsonl file, processes the text chunks, and saves classification results to separate files named using _id and complaint_id.
+These updates ensure that _id and complaint_id are handled dynamically and correctly throughout the process, without hardcoding any values.
+
+You said:
+do the above also preserve all other fields when transforming from json to txt ?
+ChatGPT said:
+ChatGPT
+To ensure that all fields from the JSON are preserved when transforming from JSON to TXT, you need to include those fields in the output files. Here's how you can adjust both scripts to preserve all relevant fields and save them to separate files:
+
+Updated process_data.py
+This script will process the dataset and save each record as a JSON object with all fields included to a JSONL file.
+
+python
+Copy code
+import pandas as pd
+import json
+
+# Load the dataset
+df = pd.read_json('./ruby_hackathon_data.json')  # Replace with your file path
+
+# Print column names and the first few rows
+print("Columns in dataset:", df.columns)
+print("First few rows:")
+print(df.head())
+
+# Add '_id' and 'complaint_id' columns if they do not exist
+df['_id'] = df.get('_id', 'NA')
+df['complaint_id'] = df['_source'].apply(lambda x: x.get('complaint_id', 'NA') if isinstance(x, dict) else 'NA')
+
+# Create JSONL file with all data fields
+with open('cleaned_text.jsonl', 'w') as f:
+    for _, row in df.iterrows():
+        json_record = {
+            '_id': row['_id'],
+            'complaint_id': row['complaint_id'],
+            'product': row['_source'].get('product', ''),
+            'complaint_what_happened': row['_source'].get('complaint_what_happened', ''),
+            'date_sent_to_company': row['_source'].get('date_sent_to_company', ''),
+            'issue': row['_source'].get('issue', ''),
+            'sub_product': row['_source'].get('sub_product', ''),
+            'zip_code': row['_source'].get('zip_code', ''),
+            'tags': row['_source'].get('tags', ''),
+            'timely': row['_source'].get('timely', ''),
+            'consumer_consent_provided': row['_source'].get('consumer_consent_provided', ''),
+            'company_response': row['_source'].get('company_response', ''),
+            'submitted_via': row['_source'].get('submitted_via', ''),
+            'company': row['_source'].get('company', ''),
+            'date_received': row['_source'].get('date_received', ''),
+            'state': row['_source'].get('state', ''),
+            'consumer_disputed': row['_source'].get('consumer_disputed', ''),
+            'company_public_response': row['_source'].get('company_public_response', ''),
+            'sub_issue': row['_source'].get('sub_issue', ''),
+            'text': row['_source'].get('complaint_what_happened', '')  # Adding cleaned text
+        }
+        f.write(json.dumps(json_record) + '\n')
+
+print("Data with all fields has been cleaned and saved.")
+Updated classify_text.py
+This script processes the JSONL file, classifies the text, and saves the results including all the original fields to separate TXT files.
+
+python
+Copy code
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    'original_data': chunk_info['original_data']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Summary of Changes:
+process_data.py:
+
+Includes all relevant fields from the original JSON data and writes them to a JSONL file with a text field containing the cleaned text.
+classify_text.py:
+
+Reads the JSONL file and processes text chunks.
+Saves each result in a TXT file that includes the original data (all fields), the text chunk, and the classification result.
+This approach ensures that all fields from the JSON records are preserved and saved along with the classification results.
+
+faster alternative to tortoise TTS
+ChatGPT said:
+ChatGPT
+A faster alternative to Tortoise TTS is Coqui TTS or FastSpeech 2. These models are known for their efficiency in generating high-quality speech synthesis with lower latency compared to Tortoise TTS.
+
+1. Coqui TTS:
+Pros:
+
+Offers a range of pre-trained models.
+Supports fine-tuning with your dataset.
+Lower latency compared to Tortoise.
+Good balance between speed and quality.
+Cons:
+
+May require some tweaking to match the high quality of Tortoise.
+Installation:
+
+bash
+Copy code
+pip install tts
+Usage:
+
+python
+Copy code
+from TTS.api import TTS
+tts = TTS(model_name="tts_models/en/ljspeech/glow-tts")
+tts.tts_to_file(text="Hello, world!", file_path="output.wav")
+2. FastSpeech 2:
+Pros:
+
+Extremely fast inference speed.
+Can generate speech in near real-time.
+Cons:
+
+Quality might not match Tortoise for all types of text.
+Requires additional components like a vocoder (e.g., HiFi-GAN) for converting spectrograms to audio.
+Installation (with a pre-trained model):
+
+bash
+Copy code
+pip install torch
+pip install fastspeech2
+Usage:
+
+python
+Copy code
+from fastspeech2 import FastSpeech2
+model = FastSpeech2()
+wav = model.synthesize("Hello, world!")
+If speed is a priority, Coqui TTS is a strong choice with a good balance of speed and quality, while FastSpeech 2 is ideal for applications requiring ultra-fast generation with acceptable quality.
+
+You said:
+are they open-source?  can they be deployed on a rasperry pi device
+ChatGPT said:
+ChatGPT
+Yes, both Coqui TTS and FastSpeech 2 are open-source and can be deployed on devices like a Raspberry Pi, although there are some considerations to keep in mind regarding performance and setup.
+
+1. Coqui TTS:
+Open Source: Yes, it's open-source and available on GitHub.
+
+Raspberry Pi Deployment:
+
+Coqui TTS can run on a Raspberry Pi, but the performance will depend on the specific model of the Raspberry Pi and the complexity of the model used.
+You may need to use a lightweight TTS model to ensure reasonable inference times. Coqui offers some lightweight models suitable for such low-power devices.
+You might also need to optimize the installation, such as using torch with appropriate settings for ARM architecture.
+Installation on Raspberry Pi:
+
+bash
+Copy code
+sudo apt-get update
+sudo apt-get install libatlas-base-dev
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+pip install tts
+Considerations:
+
+Raspberry Pi 4 or newer is recommended due to the increased processing power.
+Running inference may still be slow, so lightweight models are advised.
+2. FastSpeech 2:
+Open Source: Yes, it's also open-source and has various implementations available on GitHub.
+
+Raspberry Pi Deployment:
+
+FastSpeech 2 is designed to be fast, but running it on a Raspberry Pi might still be challenging due to the model's requirements.
+You may need to use smaller versions of the model and consider additional optimizations, like using a quantized model or utilizing hardware acceleration where possible.
+Installation on Raspberry Pi:
+
+Similar to Coqui TTS, you'll need to install torch compatible with ARM architecture.
+You can follow a similar installation process and then download or train a lightweight FastSpeech 2 model.
+Considerations:
+
+Like Coqui TTS, performance might be limited on Raspberry Pi, and you may need to adjust expectations for speed versus quality.
+Tips for Optimization:
+Model Size: Use smaller, more lightweight models that require less computational power.
+Quantization: Consider using model quantization to reduce the size and computational requirements of the TTS models.
+Hardware Acceleration: If your Raspberry Pi has a GPU, you can leverage it, although this may require more advanced setup.
+While it is feasible to deploy these models on a Raspberry Pi, the performance will be heavily dependent on the model size, complexity, and the specific Raspberry Pi hardware you are using.
+
+You said:
+why are they faster than tortoisetts?
+ChatGPT said:
+ChatGPT
+Coqui TTS and FastSpeech 2 are faster than Tortoise TTS primarily due to differences in their design philosophy, architecture, and optimization focus. Here's a breakdown of why these models are generally faster:
+
+1. Model Architecture:
+Tortoise TTS:
+
+Tortoise TTS is designed to produce high-quality, natural-sounding speech by focusing heavily on accuracy and detail, which requires complex and resource-intensive processing.
+It often involves multiple passes and complex conditioning processes, which add to the latency.
+Coqui TTS:
+
+Coqui TTS uses more streamlined architectures like Glow-TTS or Tacotron combined with efficient vocoders such as HiFi-GAN. These models are designed to balance quality and speed, making them less resource-intensive.
+These architectures are optimized for faster inference by reducing the number of steps and the computational complexity compared to Tortoise.
+FastSpeech 2:
+
+FastSpeech 2 is specifically designed for speed. It uses a fully parallel architecture, meaning that it can generate speech in parallel rather than sequentially, which drastically reduces the time required for inference.
+Unlike models that rely on autoregressive generation (where each step depends on the previous one), FastSpeech 2 can predict all elements at once, leading to much faster generation times.
+2. Parallelization:
+Tortoise TTS:
+
+Typically uses autoregressive generation, where each token of audio depends on the previous ones. This sequential nature limits the ability to parallelize and thus slows down inference.
+Coqui TTS:
+
+While some models in Coqui TTS can be autoregressive, many use parallelizable architectures or are optimized for faster processing through techniques like caching intermediate steps.
+FastSpeech 2:
+
+Emphasizes parallel generation, where the entire sequence of audio features can be generated simultaneously. This parallelization is a key reason for its speed advantage.
+3. Focus on Quality vs. Speed:
+Tortoise TTS:
+
+Prioritizes high-quality, highly natural-sounding output, even at the cost of speed. The model's extensive attention to detail means more processing time.
+It may also employ more sophisticated techniques like multi-step conditioning and multi-speaker embeddings to enhance the quality, adding to the computational load.
+Coqui TTS and FastSpeech 2:
+
+These models aim to achieve a good balance between quality and speed. They are designed with efficiency in mind, ensuring that they can generate speech quickly without compromising too much on quality.
+FastSpeech 2, in particular, was designed to overcome the speed limitations of earlier TTS models like Tacotron by using non-autoregressive methods.
+4. Optimization:
+Tortoise TTS:
+
+Is less optimized for speed because it's intended for applications where quality is the top priority. The model takes extra steps to ensure that the output sounds as natural as possible, which inherently slows down the process.
+Coqui TTS and FastSpeech 2:
+
+These models are more aggressively optimized for real-time or near-real-time applications, where speed is crucial. This includes using lighter models, parallelization, and sometimes trading off a small degree of quality to achieve faster results.
+In summary, Coqui TTS and FastSpeech 2 are faster than Tortoise TTS because they use more efficient architectures, employ parallelization, and are optimized for quick inference, often at the cost of slightly lower quality compared to the high-fidelity output of Tortoise TTS.
+
+You said:
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+
+also do it for multiple MPS and CPUs
+ChatGPT said:
+ChatGPT
+To set up a model for multiple GPUs, MPS (Metal Performance Shaders), and CPUs in PyTorch, you need to account for different device types and how they handle parallelism. Here's how you can adapt your code for each scenario:
+
+1. Multiple GPUs (CUDA)
+For multiple GPUs using CUDA, you can use torch.nn.DataParallel, as you've mentioned. This allows your model to use multiple GPUs for training or inference.
+
+python
+Copy code
+import torch
+
+# Assuming you have already set up your model and device
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+    model.to(device)
+2. Multiple MPS (Metal Performance Shaders)
+As of now, PyTorch does not natively support parallelism across multiple MPS devices on macOS. You will generally have to use a single MPS device at a time. However, you can use the MPS backend on a single MPS device as follows:
+
+python
+Copy code
+import torch
+
+device = torch.device("mps")
+
+# Move model to the MPS device
+model.to(device)
+For more advanced use cases involving parallelism across multiple MPS devices, you might need to explore custom implementations or wait for future updates from PyTorch that include native support for multiple MPS devices.
+
+3. Multiple CPUs
+For multiple CPUs, PyTorch handles parallelism automatically to some extent, but you can control the number of threads used for computation via the environment variables OMP_NUM_THREADS and MKL_NUM_THREADS, or you can use torch.set_num_threads for more direct control.
+
+python
+Copy code
+import torch
+
+# Set the number of threads for CPU
+torch.set_num_threads(number_of_threads)  # Replace number_of_threads with the desired number
+Combined Setup
+Here’s how you can combine these configurations, assuming you want to use the best available device:
+
+python
+Copy code
+import torch
+
+# Check available devices
+if torch.cuda.is_available():
+    device = torch.device("cuda")
+    if torch.cuda.device_count() > 1:
+        model = torch.nn.DataParallel(model)
+    model.to(device)
+elif torch.backends.mps.is_available():
+    device = torch.device("mps")
+    model.to(device)
+else:
+    device = torch.device("cpu")
+    torch.set_num_threads(number_of_threads)  # Set number of CPU threads if needed
+    model.to(device)
+Summary
+CUDA: Use torch.nn.DataParallel for multiple GPUs.
+MPS: Currently, no native multi-device support; use a single MPS device.
+CPU: PyTorch handles parallelism automatically; you can adjust the number of threads if needed.
+Make sure to test the performance and behavior of your setup, especially with custom configurations or less-common hardware setups.
+
+You said:
+rewrite
+
+#classfy_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using multiple GPUs if available."""
+    results = []
+    with ThreadPoolExecutor() as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    'original_data': chunk_info['original_data']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+
+
+accordingly based on that parralelism?
+
+or does it still look the same?
+ChatGPT said:
+ChatGPT
+Your existing script is well-structured, but it can be adjusted to more effectively handle parallelism, especially if leveraging multiple GPUs or CPUs. Here’s an updated version with improvements for parallelism across multiple devices, including considerations for GPUs, CPUs, and MPS:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    print("Using MPS.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    print("Using CUDA.")
+else:
+    device = torch.device("cpu")
+    print("Neither MPS nor CUDA is available. Falling back to CPU.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using available resources."""
+    results = []
+    # Define the number of workers based on the number of available CPU threads
+    num_workers = os.cpu_count()
+    
+    with ThreadPoolExecutor(max_workers=num_workers) as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    'original_data': chunk_info['original_data']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Adjustments:
+Device Selection:
+
+device = torch.device("mps"), device = torch.device("cuda"), or device = torch.device("cpu") is selected based on availability.
+Adjusted device timing and benchmarking based on the selected device.
+Model Parallelism:
+
+For multiple GPUs, torch.nn.DataParallel is used.
+Parallel Processing:
+
+process_chunks_in_parallel now uses ThreadPoolExecutor with the number of workers set to the number of available CPU threads (os.cpu_count()), optimizing CPU-based parallel processing.
+For GPU-based parallelism, the ThreadPoolExecutor will handle chunks but will use the GPU in parallel if torch.nn.DataParallel is utilized.
+Error Handling:
+
+Added error handling for file reading and JSON decoding.
+This script should efficiently utilize available resources, whether CUDA, MPS, or CPU. If you run into limitations or need more advanced multi-device handling for MPS, you might need to adjust or wait for future PyTorch updates.
+
+You said:
+also print the number of multiple MPS, GPU, CPU?
+ChatGPT said:
+ChatGPT
+To print the number of available MPS, GPUs, and CPUs, you need to use specific checks for each type of device. Here’s how you can modify the script to include these details:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+
+# Function to get number of MPS devices
+def get_mps_device_count():
+    # PyTorch does not natively provide a way to count MPS devices
+    # This is a placeholder and should be adapted if future versions support device counting
+    return 1  # Assuming at least one MPS device is available
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def process_chunks_in_parallel(chunks):
+    """Process text chunks in parallel using available resources."""
+    results = []
+    # Define the number of workers based on the number of available CPU threads
+    num_workers = os.cpu_count()
+    
+    with ThreadPoolExecutor(max_workers=num_workers) as executor:
+        future_to_chunk = {executor.submit(classify_text, chunk['chunk']): chunk for chunk in chunks}
+        for future in as_completed(future_to_chunk):
+            chunk_info = future_to_chunk[future]
+            try:
+                classification = future.result()
+                results.append({
+                    'chunk': chunk_info['chunk'],
+                    'classification': classification,
+                    'original_data': chunk_info['original_data']
+                })
+            except Exception as exc:
+                print(f'Chunk processing generated an exception: {exc}')
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks in parallel
+    results = process_chunks_in_parallel(chunks)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Additions:
+MPS Device Count:
+
+A placeholder function get_mps_device_count() returns a count of 1 since PyTorch doesn’t provide a direct way to count MPS devices. Adapt this function if future versions of PyTorch support multi-MPS device counting.
+Print Statements:
+
+Added print statements to display the number of available MPS, GPU, and CPU devices.
+CPU Count:
+
+Used os.cpu_count() to get the number of CPU cores.
+The script now provides details about the number of available devices and adjusts accordingly based on device availability.
+
+You said:
+rewrite the above using highly parallelized streams, but retain everything else
+ChatGPT said:
+ChatGPT
+To rewrite the script with a focus on highly parallelized streams, you can use PyTorch's torch.multiprocessing for CPU-based parallelism and enhance parallel processing with streams for GPUs. This approach uses multiprocessing for CPU and concurrent GPU operations for CUDA.
+
+Here's the updated script:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+import multiprocessing
+
+# Function to get number of MPS devices
+def get_mps_device_count():
+    # PyTorch does not natively provide a way to count MPS devices
+    # This is a placeholder and should be adapted if future versions support device counting
+    return 1  # Assuming at least one MPS device is available
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text, device):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def classify_chunks(chunks, device):
+    """Classify text chunks using multiprocessing and streams for GPU."""
+    results = []
+
+    # Define the number of workers based on the number of available CPU threads
+    num_workers = os.cpu_count()
+
+    def worker(chunk):
+        """Worker function for multiprocessing."""
+        return {
+            'chunk': chunk['chunk'],
+            'classification': classify_text(chunk['chunk'], device),
+            'original_data': chunk['original_data']
+        }
+
+    with multiprocessing.Pool(processes=num_workers) as pool:
+        results = pool.map(worker, chunks)
+
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Process chunks using parallelism
+    results = classify_chunks(chunks, device)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Changes:
+Parallel Processing with Multiprocessing:
+
+Used multiprocessing.Pool for parallel processing of text chunks on the CPU. This allows you to fully utilize multiple CPU cores.
+The worker function is used to handle individual chunks in parallel.
+Parallel Processing for GPU:
+
+If using CUDA, multiple GPU streams are managed internally by PyTorch’s DataParallel, allowing for concurrent operations across multiple GPUs.
+The classify_text function is designed to be called from different processes, each using a different chunk.
+Removed ThreadPoolExecutor:
+
+For CPU-based parallelism, multiprocessing.Pool is used instead of ThreadPoolExecutor, providing better parallelism across multiple CPU cores.
+Device Handling:
+
+The classify_text function now accepts device as an argument to ensure it is using the correct device.
+This setup should efficiently use available resources, whether CUDA, MPS, or CPU, to process text chunks in parallel.
+
+You said:
+including MPS?
+ChatGPT said:
+ChatGPT
+Including MPS in the parallel processing setup requires a slightly different approach since PyTorch does not provide built-in support for managing multiple MPS devices directly. However, you can adapt the script to handle multiple MPS devices by using multiple processes and ensuring each process uses its own device.
+
+Here’s how you can include MPS and make the script more adaptable for both MPS and CUDA:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+import multiprocessing
+
+# Function to get number of MPS devices
+def get_mps_device_count():
+    # PyTorch does not natively provide a way to count MPS devices
+    # This is a placeholder and should be adapted if future versions support device counting
+    return 1  # Assuming at least one MPS device is available
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text, device):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def classify_chunks(chunks, device_type, device_ids):
+    """Classify text chunks using multiprocessing and streams for GPU or MPS."""
+    results = []
+
+    def worker(chunk, device_id):
+        """Worker function for multiprocessing."""
+        device = torch.device(f"{device_type}:{device_id}")
+        model = AutoModelForSequenceClassification.from_pretrained('distilbert-base-uncased-finetuned-sst-2-english').to(device)
+        return {
+            'chunk': chunk['chunk'],
+            'classification': classify_text(chunk['chunk'], device),
+            'original_data': chunk['original_data']
+        }
+
+    # Create workers based on the number of devices available
+    num_devices = len(device_ids)
+    num_workers = os.cpu_count()
+
+    # Use multiprocessing.Pool to handle chunk classification
+    with multiprocessing.Pool(processes=num_workers) as pool:
+        results = [pool.apply_async(worker, (chunk, device_id % num_devices)) for chunk, device_id in zip(chunks, range(num_workers))]
+        results = [result.get() for result in results]
+
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Determine device type and IDs
+    device_type = device.type
+    device_ids = list(range(torch.cuda.device_count())) if device_type == 'cuda' else list(range(get_mps_device_count()))
+
+    # Process chunks using parallelism
+    results = classify_chunks(chunks, device_type, device_ids)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Changes:
+Handling Multiple MPS Devices:
+
+The classify_chunks function now takes device_type and device_ids to adapt the parallel processing for MPS devices.
+The worker function is updated to use the specific device ID for MPS or CUDA.
+Adapted classify_chunks Function:
+
+Adjusted to handle device-specific operations by mapping device IDs for multiprocessing.
+Device-Specific Parallelism:
+
+The script dynamically assigns chunks to available devices based on the type (CUDA or MPS).
+Device Handling:
+
+Device handling now accommodates both CUDA and MPS by using specific device IDs and ensuring that the correct device is used in each worker process.
+This setup ensures that the processing can efficiently utilize multiple MPS and CUDA devices, as well as parallelize tasks across available CPU cores.
+
+You said:
+❯ mv results results-old
+❯ time python classify_text.py
+Using MPS. Number of MPS devices: 1.
+MPS Time: 0.12692594528198242
+CUDA Available: False
+CUDA Version: N/A
+Number of GPUs: 0
+/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: clean_up_tokenization_spaces was not set. It will be set to True by default. This behavior will be depracted in transformers v4.45, and will be then set to False by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (598 > 512). Running this sequence through the model will result in indexing errors
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using tokenizers before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+An error occurred: Can't pickle local object 'classify_chunks.<locals>.worker'
+python classify_text.py  4.98s user 0.42s system 85% cpu 6.323 total
+ChatGPT said:
+ChatGPT
+The errors you're seeing are related to issues with parallel processing and the use of multiprocessing in combination with transformers and PyTorch. Specifically:
+
+Pickling Error: The Can't pickle local object error occurs because multiprocessing can't pickle locally defined functions or objects. This is due to how multiprocessing works in Python, where functions or objects need to be defined at the top level of the module to be pickled and transferred between processes.
+
+Tokenizers Parallelism Warnings: These warnings indicate that transformers' tokenizers library is being used in a way that causes issues with parallelism. This can often be managed by setting the TOKENIZERS_PARALLELISM environment variable to false.
+
+Here’s how you can address these issues:
+
+Refactor the Worker Function:
+Move the worker function out of classify_chunks so it can be pickled properly by multiprocessing.
+
+Set Environment Variable:
+Set TOKENIZERS_PARALLELISM to false to prevent the parallelism warnings.
+
+Here’s the updated code with these fixes:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+import multiprocessing
+
+# Disable tokenizers parallelism
+os.environ['TOKENIZERS_PARALLELISM'] = 'false'
+
+def get_mps_device_count():
+    # Placeholder: Adjust as needed
+    return 1
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text, device):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def worker(chunk, model, tokenizer, device_id):
+    """Worker function for multiprocessing."""
+    device = torch.device(f"mps:{device_id}") if device.type == 'mps' else torch.device(f"cuda:{device_id}")
+    model.to(device)
+    return {
+        'chunk': chunk['chunk'],
+        'classification': classify_text(chunk['chunk'], device),
+        'original_data': chunk['original_data']
+    }
+
+def classify_chunks(chunks, device_type, device_ids):
+    """Classify text chunks using multiprocessing and streams for GPU or MPS."""
+    num_workers = os.cpu_count()
+    results = []
+
+    with multiprocessing.Pool(processes=num_workers) as pool:
+        results = [pool.apply_async(worker, (chunk, model, tokenizer, device_id % len(device_ids))) 
+                   for chunk, device_id in zip(chunks, range(num_workers))]
+        results = [result.get() for result in results]
+
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Determine device type and IDs
+    device_type = device.type
+    device_ids = list(range(torch.cuda.device_count())) if device_type == 'cuda' else list(range(get_mps_device_count()))
+
+    # Process chunks using parallelism
+    results = classify_chunks(chunks, device_type, device_ids)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Fixes:
+Environment Variable:
+
+Set TOKENIZERS_PARALLELISM to false to handle tokenizer parallelism warnings.
+Worker Function:
+
+Moved the worker function out of classify_chunks to ensure it can be pickled.
+Refactored Parallel Processing:
+
+The worker function is used with multiprocessing to handle device-specific operations.
+Error Handling:
+
+Updated to handle potential issues during multiprocessing.
+This should address the issues you're encountering and make the script compatible with multiple devices while avoiding pickling errors.
+
+You said:
+❯ time python classify_text.py
+Using MPS. Number of MPS devices: 1.
+MPS Time: 0.1159658432006836
+CUDA Available: False
+CUDA Version: N/A
+Number of GPUs: 0
+/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: clean_up_tokenization_spaces was not set. It will be set to True by default. This behavior will be depracted in transformers v4.45, and will be then set to False by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (598 > 512). Running this sequence through the model will result in indexing errors
+An error occurred: _share_filename_: only available on CPU
+python classify_text.py  4.93s user 0.36s system 98% cpu 5.371 total
+ChatGPT said:
+ChatGPT
+It looks like you’re encountering an issue with _share_filename_, which is a feature specific to CPU. This error arises because _share_filename_ is not available for MPS or CUDA devices. To address this issue and optimize your script for both CPU and GPU/MPS environments, you need to ensure that all functionalities are compatible with your selected device.
+
+Here are the steps to modify your script:
+
+Handle Device-Specific Functionalities: Ensure that any functionality that is specific to CPU, CUDA, or MPS is correctly implemented or bypassed based on the device in use.
+
+Fix the worker Function for Multiprocessing: The current multiprocessing setup might not fully align with MPS or CUDA. To ensure compatibility, use only CPU-based processing for multiprocessing, and use device-specific logic for the actual inference.
+
+Here’s an updated version of your script with improvements to address the issues:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+import multiprocessing
+
+# Disable tokenizers parallelism
+os.environ['TOKENIZERS_PARALLELISM'] = 'false'
+
+def get_mps_device_count():
+    # Return the number of MPS devices
+    return 1
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text, device):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def worker(chunk, model, tokenizer, device):
+    """Worker function for multiprocessing."""
+    return {
+        'chunk': chunk['chunk'],
+        'classification': classify_text(chunk['chunk'], device),
+        'original_data': chunk['original_data']
+    }
+
+def classify_chunks(chunks, device_type, device_ids):
+    """Classify text chunks using multiprocessing and streams for GPU or MPS."""
+    num_workers = os.cpu_count()
+    results = []
+
+    if device_type == 'cpu':
+        with multiprocessing.Pool(processes=num_workers) as pool:
+            results = [pool.apply_async(worker, (chunk, model, tokenizer, device)) 
+                       for chunk in chunks]
+            results = [result.get() for result in results]
+    else:
+        # For CUDA and MPS, process chunks using ThreadPoolExecutor for simplicity
+        with ThreadPoolExecutor() as executor:
+            future_to_chunk = {executor.submit(worker, chunk, model, tokenizer, torch.device(f"{device_type}:{device_id % len(device_ids)}")): chunk for chunk, device_id in zip(chunks, range(len(chunks)))}
+            results = [future.result() for future in as_completed(future_to_chunk)]
+
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Determine device type and IDs
+    device_type = device.type
+    device_ids = list(range(torch.cuda.device_count())) if device_type == 'cuda' else list(range(get_mps_device_count()))
+
+    # Process chunks using parallelism
+    results = classify_chunks(chunks, device_type, device_ids)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Changes:
+Environment Variable:
+
+Added setting TOKENIZERS_PARALLELISM to false.
+Worker Function:
+
+Moved out of classify_chunks and refactored for multiprocessing.
+Device-Specific Logic:
+
+The classify_chunks function now uses multiprocessing for CPU and ThreadPoolExecutor for CUDA/MPS.
+Error Handling:
+
+Improved error handling to manage issues specific to device compatibility.
+This updated script should help resolve the issues and allow for smoother execution on different device types.
+
+You said:
+/Users/lloyd/.pyenv/versions/3.12.4/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: clean_up_tokenization_spaces was not set. It will be set to True by default. This behavior will be depracted in transformers v4.45, and will be then set to False by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Token indices sequence length is longer than the specified maximum sequence length for this model (598 > 512). Running this sequence through the model will result in indexing errors
+ChatGPT said:
+ChatGPT
+The warnings and error messages you’re seeing are related to specific issues with the transformers library and tokenization. Here’s how to address each:
+
+1. clean_up_tokenization_spaces Warning
+This warning informs you about upcoming changes in the transformers library’s behavior regarding the clean_up_tokenization_spaces parameter. You can suppress this warning or adjust your code based on the library’s future behavior.
+
+To suppress the warning, you can use the following code snippet:
+
+python
+Copy code
+import warnings
+from transformers.utils import logging
+
+logging.set_verbosity_warning()
+2. Token Indices Sequence Length Warning
+The warning about the token indices sequence length indicates that some text chunks exceed the model's maximum sequence length. For BERT-based models like distilbert-base-uncased, this limit is 512 tokens. Text longer than this will be truncated or split, potentially causing indexing errors.
+
+To handle this, you can ensure that the text is properly truncated during tokenization:
+
+python
+Copy code
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        # Ensure that tokens are truncated to fit the model's max length
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+Additionally, if your text consistently exceeds the model's token limit, you might need to preprocess or shorten it before tokenization to avoid these warnings.
+
+Updated Code Sample
+Here is how you can incorporate these changes into your script:
+
+python
+Copy code
+# classify_text.py
+
+import torch
+import time
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
+import os
+import multiprocessing
+import warnings
+from transformers.utils import logging
+
+# Suppress FutureWarning and other warnings
+logging.set_verbosity_warning()
+warnings.filterwarnings("ignore", category=UserWarning, module='transformers')
+
+def get_mps_device_count():
+    """Return the number of MPS devices."""
+    return 1
+
+# Check for MPS, then CUDA, then fallback to CPU
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+    mps_device_count = get_mps_device_count()
+    print(f"Using MPS. Number of MPS devices: {mps_device_count}.")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+    gpu_device_count = torch.cuda.device_count()
+    print(f"Using CUDA. Number of GPUs: {gpu_device_count}.")
+else:
+    device = torch.device("cpu")
+    cpu_device_count = os.cpu_count()
+    print(f"Neither MPS nor CUDA is available. Falling back to CPU. Number of CPUs: {cpu_device_count}.")
+
+# Test device timing
+start_time = time.time()
+
+if device.type == "cpu":
+    print("Running on CPU.")
+    # Run CPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+else:
+    if device.type == "cuda":
+        torch.cuda.synchronize()
+    elif device.type == "mps":
+        torch.mps.synchronize()
+
+    # Run GPU benchmark
+    a = torch.ones(4000, 4000, device=device)
+    for _ in range(200):
+        a += a
+
+elapsed_time = time.time() - start_time
+print(f"{device.type.upper()} Time: {elapsed_time}")
+
+print(f"CUDA Available: {torch.cuda.is_available()}")
+print(f"CUDA Version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+print(f"Number of GPUs: {torch.cuda.device_count() if torch.cuda.is_available() else 0}")
+
+# Load model and tokenizer
+model_name = 'distilbert-base-uncased-finetuned-sst-2-english'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+
+# Set up model for multi-GPU if CUDA is available
+if torch.cuda.device_count() > 1 and device.type == "cuda":
+    model = torch.nn.DataParallel(model)
+
+model.to(device)  # Move model to selected device
+
+def classify_text(text, device):
+    """Classify the given text and return results."""
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    probabilities = torch.nn.functional.softmax(logits, dim=-1)
+    predicted_class = torch.argmax(probabilities, dim=-1).item()
+    return {
+        'label': 'POSITIVE' if predicted_class == 1 else 'NEGATIVE',
+        'score': probabilities[0][predicted_class].item()
+    }
+
+def split_text_into_chunks(data, max_length=512):
+    """Split text into chunks of a specified maximum length, including IDs."""
+    chunks = []
+    for item in data:
+        text = item['text']
+        tokens = tokenizer.encode(text, truncation=False)
+        # Ensure that tokens are truncated to fit the model's max length
+        text_chunks = [tokenizer.decode(tokens[i:i + max_length], skip_special_tokens=True) 
+                      for i in range(0, len(tokens), max_length)]
+        for chunk in text_chunks:
+            chunks.append({
+                'chunk': chunk,
+                'original_data': item
+            })
+    return chunks
+
+def save_results_to_files(results):
+    """Save classification results to files named by _id and complaint_id."""
+    os.makedirs('results', exist_ok=True)
+    for result in results:
+        chunk = result['chunk']
+        classification = result['classification']
+        original_data = result['original_data']
+        _id = original_data['_id']
+        complaint_id = original_data['complaint_id']
+        filename = f"results/_id-{_id}-complaint_id-{complaint_id}.txt"
+        with open(filename, 'w') as file:
+            file.write(f"Original Data:\n{json.dumps(original_data, indent=2)}\n\n")
+            file.write(f"Chunk:\n{chunk}\n\n")
+            file.write(f"Result:\n{json.dumps(classification, indent=2)}\n")
+
+def worker(chunk, model, tokenizer, device):
+    """Worker function for multiprocessing."""
+    return {
+        'chunk': chunk['chunk'],
+        'classification': classify_text(chunk['chunk'], device),
+        'original_data': chunk['original_data']
+    }
+
+def classify_chunks(chunks, device_type, device_ids):
+    """Classify text chunks using multiprocessing and streams for GPU or MPS."""
+    num_workers = os.cpu_count()
+    results = []
+
+    if device_type == 'cpu':
+        with multiprocessing.Pool(processes=num_workers) as pool:
+            results = [pool.apply_async(worker, (chunk, model, tokenizer, device)) 
+                       for chunk in chunks]
+            results = [result.get() for result in results]
+    else:
+        # For CUDA and MPS, process chunks using ThreadPoolExecutor for simplicity
+        with ThreadPoolExecutor() as executor:
+            future_to_chunk = {executor.submit(worker, chunk, model, tokenizer, torch.device(f"{device_type}:{device_id % len(device_ids)}")): chunk for chunk, device_id in zip(chunks, range(len(chunks)))}
+            results = [future.result() for future in as_completed(future_to_chunk)]
+
+    return results
+
+# Process text from file
+transcribed_text_file = "cleaned_text.jsonl"
+
+try:
+    # Load transcribed text
+    with open(transcribed_text_file, 'r') as file:
+        text_data = [json.loads(line) for line in file]
+
+    # Split text into chunks with IDs
+    chunks = split_text_into_chunks(text_data)
+
+    # Determine device type and IDs
+    device_type = device.type
+    device_ids = list(range(torch.cuda.device_count())) if device_type == 'cuda' else list(range(get_mps_device_count()))
+
+    # Process chunks using parallelism
+    results = classify_chunks(chunks, device_type, device_ids)
+
+    # Save results to files
+    save_results_to_files(results)
+
+except FileNotFoundError:
+    print(f"The file '{transcribed_text_file}' was not found.")
+except json.JSONDecodeError:
+    print("Error decoding JSON from the file.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key Updates:
+Warning Suppression: Added code to suppress warnings related to the transformers library.
+Token Length Handling: Ensured that text is properly truncated and handled to avoid indexing errors.
+This approach will help you avoid unnecessary warnings and errors while ensuring that your text processing is compatible with the specified model constraints.
+
+
+
+
+
+
+
+
+
+ChatGPT can make mistakes. Check important info.

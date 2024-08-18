@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9187588,
+  "complaint_id": "9187588",
+  "product": "Credit card",
+  "complaint_what_happened": "An account was opened in my name with Kikoff Lending fraudulently and has a balance of XXXX. I was made aware of this as of XXXX. They opened this account as of XXXX. I emailed the company and requested the account be closed and it is now under investigation with Kikoff. I also spoke to a representative from Kikoff who confirmed this matter is under investigation.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89147",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Kikoff Inc.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "An account was opened in my name with Kikoff Lending fraudulently and has a balance of XXXX. I was made aware of this as of XXXX. They opened this account as of XXXX. I emailed the company and requested the account be closed and it is now under investigation with Kikoff. I also spoke to a representative from Kikoff who confirmed this matter is under investigation."
+}
+
+Chunk:
+an account was opened in my name with kikoff lending fraudulently and has a balance of xxxx. i was made aware of this as of xxxx. they opened this account as of xxxx. i emailed the company and requested the account be closed and it is now under investigation with kikoff. i also spoke to a representative from kikoff who confirmed this matter is under investigation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.980217456817627
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9153778,
+  "complaint_id": "9153778",
+  "product": "Credit card",
+  "complaint_what_happened": "I have attempted to resolve these issues over the phone but, it seems like im just getting the round about and i really need this issue resolved because it is holding me back from moving forward in life. Please help me. The dates below are when they cards were opened, best of my knowledge. \n\nXX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXXXXXX XXXX",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91202",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I have attempted to resolve these issues over the phone but, it seems like im just getting the round about and i really need this issue resolved because it is holding me back from moving forward in life. Please help me. The dates below are when they cards were opened, best of my knowledge. \n\nXX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXXXXXX XXXX"
+}
+
+Chunk:
+i have attempted to resolve these issues over the phone but, it seems like im just getting the round about and i really need this issue resolved because it is holding me back from moving forward in life. please help me. the dates below are when they cards were opened, best of my knowledge. xx / xx / xxxx xx / xx / xxxx xx / xx / xxxx xx / xx / xxxx xx / xx / xxxx xx / xx / xxxxxxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979062080383301
+}

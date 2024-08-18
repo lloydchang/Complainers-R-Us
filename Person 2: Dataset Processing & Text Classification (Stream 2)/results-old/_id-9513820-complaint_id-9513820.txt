@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9513820,
+  "complaint_id": "9513820",
+  "product": "Credit card",
+  "complaint_what_happened": "I participated in XXXX Credit Card Promotion : \" $ XXXX XXXX XXXX XXXX '' The offer grants Frontier \" XXXX XXXX  '' status after spending $ XXXX on the Barclays credit card by XX/XX/XXXX. \n\nThe offer was sent via email to me and available on Frontier 's web site. \n\nOffer Terms & Conditions If you receive this offer, you will earn Gold Status for spending XXXX XXXX dollars ( {$3000.00} ) on purchases, less credits, returns and adjustments ( \" Net Purchases '' ) made with your FRONTIER Airlines XXXX XXXX with transaction dates from XX/XX/XXXX through XX/XX/XXXX. \nThe XXXX XXXX will be awarded after the promotional period has ended and will be good through XX/XX/XXXX. \n\nI completed the purchase requirements on XX/XX/XXXX with a single chart of {$3800.00}. \n\nToday is XX/XX/XXXX and my \" XXXX XXXX '' status is still NOT updated even though the status should be \" awarded after the promotion period has ended ... ''. \n\nI have communicated with Frontier and Barclays around 5 times and both companies insist that I need to discuss with other company. I have provided Frontier a copy of my credit card statement in order to \" prove '' I met the requirements. However as of XX/XX/XXXX, my Frontier status is still not updated.\n\nFrontier indicates their back office is reviewing but will not provide a resolution date.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "685XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "NE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I participated in XXXX Credit Card Promotion : \" $ XXXX XXXX XXXX XXXX '' The offer grants Frontier \" XXXX XXXX  '' status after spending $ XXXX on the Barclays credit card by XX/XX/XXXX. \n\nThe offer was sent via email to me and available on Frontier 's web site. \n\nOffer Terms & Conditions If you receive this offer, you will earn Gold Status for spending XXXX XXXX dollars ( {$3000.00} ) on purchases, less credits, returns and adjustments ( \" Net Purchases '' ) made with your FRONTIER Airlines XXXX XXXX with transaction dates from XX/XX/XXXX through XX/XX/XXXX. \nThe XXXX XXXX will be awarded after the promotional period has ended and will be good through XX/XX/XXXX. \n\nI completed the purchase requirements on XX/XX/XXXX with a single chart of {$3800.00}. \n\nToday is XX/XX/XXXX and my \" XXXX XXXX '' status is still NOT updated even though the status should be \" awarded after the promotion period has ended ... ''. \n\nI have communicated with Frontier and Barclays around 5 times and both companies insist that I need to discuss with other company. I have provided Frontier a copy of my credit card statement in order to \" prove '' I met the requirements. However as of XX/XX/XXXX, my Frontier status is still not updated.\n\nFrontier indicates their back office is reviewing but will not provide a resolution date."
+}
+
+Chunk:
+i participated in xxxx credit card promotion : " $ xxxx xxxx xxxx xxxx'' the offer grants frontier " xxxx xxxx'' status after spending $ xxxx on the barclays credit card by xx / xx / xxxx. the offer was sent via email to me and available on frontier's web site. offer terms & conditions if you receive this offer, you will earn gold status for spending xxxx xxxx dollars ( { $ 3000. 00 } ) on purchases, less credits, returns and adjustments ( " net purchases'' ) made with your frontier airlines xxxx xxxx with transaction dates from xx / xx / xxxx through xx / xx / xxxx. the xxxx xxxx will be awarded after the promotional period has ended and will be good through xx / xx / xxxx. i completed the purchase requirements on xx / xx / xxxx with a single chart of { $ 3800. 00 }. today is xx / xx / xxxx and my " xxxx xxxx'' status is still not updated even though the status should be " awarded after the promotion period has ended...''. i have communicated with frontier and barclays around 5 times and both companies insist that i need to discuss with other company. i have provided frontier a copy of my credit card statement in order to " prove'' i met the requirements. however as of xx / xx / xxxx, my frontier status is still not updated. frontier indicates their back office is reviewing but will not provide a resolution date.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988070726394653
+}

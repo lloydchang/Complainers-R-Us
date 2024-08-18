@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212075,
+  "complaint_id": "9212075",
+  "product": "Credit card",
+  "complaint_what_happened": "I referred XXXX XXXX and XXXX XXXX to the Capital One XXXX XXXX  on XX/XX/XXXX and XX/XX/XXXX, respectively. I gave them my Cap One XXXX XXXX referral link and even helped them to fill out the application as I was with them in person. \n\nI was credited XXXX miles for XXXX XXXX, but I still have not received the credit for XXXX XXXX. Both were approved.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95112",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "I referred XXXX XXXX and XXXX XXXX to the Capital One XXXX XXXX  on XX/XX/XXXX and XX/XX/XXXX, respectively. I gave them my Cap One XXXX XXXX referral link and even helped them to fill out the application as I was with them in person. \n\nI was credited XXXX miles for XXXX XXXX, but I still have not received the credit for XXXX XXXX. Both were approved."
+}
+
+Chunk:
+i referred xxxx xxxx and xxxx xxxx to the capital one xxxx xxxx on xx / xx / xxxx and xx / xx / xxxx, respectively. i gave them my cap one xxxx xxxx referral link and even helped them to fill out the application as i was with them in person. i was credited xxxx miles for xxxx xxxx, but i still have not received the credit for xxxx xxxx. both were approved.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9460098743438721
+}

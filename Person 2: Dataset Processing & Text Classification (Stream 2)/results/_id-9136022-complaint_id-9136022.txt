@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9136022,
+  "complaint_id": "9136022",
+  "product": "Credit card",
+  "complaint_what_happened": "Reported companies XXXXXXXX XXXX XXXXXXXX, corelogic, all affiliates are in possession of my stolen redit card information to wit ( social security numbers; attached accounts ) 15 usc. 1602, absent my knowledge, consent or agreement per 15 usc 1692c ; 15 usc 6802. Companies have failed and/or refused to comply to stated opt out ; proof of contract ; specified verification. I have identified the identity theft accounts in the attached opt out correspondence",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30034",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CORELOGIC INC",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Privacy issues",
+  "text": "Reported companies XXXXXXXX XXXX XXXXXXXX, corelogic, all affiliates are in possession of my stolen redit card information to wit ( social security numbers; attached accounts ) 15 usc. 1602, absent my knowledge, consent or agreement per 15 usc 1692c ; 15 usc 6802. Companies have failed and/or refused to comply to stated opt out ; proof of contract ; specified verification. I have identified the identity theft accounts in the attached opt out correspondence"
+}
+
+Chunk:
+reported companies xxxxxxxx xxxx xxxxxxxx, corelogic, all affiliates are in possession of my stolen redit card information to wit ( social security numbers ; attached accounts ) 15 usc. 1602, absent my knowledge, consent or agreement per 15 usc 1692c ; 15 usc 6802. companies have failed and / or refused to comply to stated opt out ; proof of contract ; specified verification. i have identified the identity theft accounts in the attached opt out correspondence
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991395473480225
+}

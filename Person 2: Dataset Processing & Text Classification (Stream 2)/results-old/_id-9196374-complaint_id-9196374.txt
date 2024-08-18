@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9196374,
+  "complaint_id": "9196374",
+  "product": "Credit card",
+  "complaint_what_happened": "In accordance with the Fair Credit Reporting Act. The listed account below has violated my federally protected consumer rights that prohibit creditors and credit reporting agencies from imposing late fees on accounts affected by identity theft under section 15 U.S.C. 168. Loan Payment # XXXX, Digital Credit Union has violated my rights. Section 605B and Section 609 ( e ) state that any resulting late fees should be promptly removed if fraudulent activity occurs on your account due to identity theft. I have the right to dispute inaccurate information on their credit reports, including late fees resulting from unauthorized transactions. ( 5 ) Section States : no consumer report containing reporting agency makes any consumer report containing any of the following items of information Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years. 15 U.S.C. 1681s-2 ( A ) ( 1 ) A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33319",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DIGITAL FEDERAL CREDIT UNION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive services that were advertised",
+  "text": "In accordance with the Fair Credit Reporting Act. The listed account below has violated my federally protected consumer rights that prohibit creditors and credit reporting agencies from imposing late fees on accounts affected by identity theft under section 15 U.S.C. 168. Loan Payment # XXXX, Digital Credit Union has violated my rights. Section 605B and Section 609 ( e ) state that any resulting late fees should be promptly removed if fraudulent activity occurs on your account due to identity theft. I have the right to dispute inaccurate information on their credit reports, including late fees resulting from unauthorized transactions. ( 5 ) Section States : no consumer report containing reporting agency makes any consumer report containing any of the following items of information Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years. 15 U.S.C. 1681s-2 ( A ) ( 1 ) A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate."
+}
+
+Chunk:
+in accordance with the fair credit reporting act. the listed account below has violated my federally protected consumer rights that prohibit creditors and credit reporting agencies from imposing late fees on accounts affected by identity theft under section 15 u. s. c. 168. loan payment # xxxx, digital credit union has violated my rights. section 605b and section 609 ( e ) state that any resulting late fees should be promptly removed if fraudulent activity occurs on your account due to identity theft. i have the right to dispute inaccurate information on their credit reports, including late fees resulting from unauthorized transactions. ( 5 ) section states : no consumer report containing reporting agency makes any consumer report containing any of the following items of information any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years. 15 u. s. c. 1681s - 2 ( a ) ( 1 ) a person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9962539672851562
+}

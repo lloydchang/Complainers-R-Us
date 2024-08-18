@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025645,
+  "complaint_id": "9025645",
+  "product": "Credit card",
+  "complaint_what_happened": "I had three accounts with Synchrony Bank, XXXX - XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX All accounts were closed and I was told over the phone due to high risk for faliure to pay. I've never had any delinquent remarks on my credit, nor with other creditors. so this was a very disappointing remark to hear from the company directly. I inquried with all three credit bureaus and they informed me that they do not have those remarks on my credit reports or file, but from what Synchrony informed me was that they received this information by the credit bureaus. This is going to hurt my credit tremendously and creditors should inform clients if accounts will be closed instead of closing them randomly without any given explaination and to be given a chance to dispute with credit bureaus. This is unfair and we are in the process of purchasing a home and now I have to deal with this issue that will set us back tremendously. its unfair.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91311",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I had three accounts with Synchrony Bank, XXXX - XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX All accounts were closed and I was told over the phone due to high risk for faliure to pay. I've never had any delinquent remarks on my credit, nor with other creditors. so this was a very disappointing remark to hear from the company directly. I inquried with all three credit bureaus and they informed me that they do not have those remarks on my credit reports or file, but from what Synchrony informed me was that they received this information by the credit bureaus. This is going to hurt my credit tremendously and creditors should inform clients if accounts will be closed instead of closing them randomly without any given explaination and to be given a chance to dispute with credit bureaus. This is unfair and we are in the process of purchasing a home and now I have to deal with this issue that will set us back tremendously. its unfair."
+}
+
+Chunk:
+i had three accounts with synchrony bank, xxxx - xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx all accounts were closed and i was told over the phone due to high risk for faliure to pay. i've never had any delinquent remarks on my credit, nor with other creditors. so this was a very disappointing remark to hear from the company directly. i inquried with all three credit bureaus and they informed me that they do not have those remarks on my credit reports or file, but from what synchrony informed me was that they received this information by the credit bureaus. this is going to hurt my credit tremendously and creditors should inform clients if accounts will be closed instead of closing them randomly without any given explaination and to be given a chance to dispute with credit bureaus. this is unfair and we are in the process of purchasing a home and now i have to deal with this issue that will set us back tremendously. its unfair.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998977541923523
+}

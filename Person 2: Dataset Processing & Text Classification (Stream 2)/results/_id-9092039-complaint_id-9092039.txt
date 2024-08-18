@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9092039,
+  "complaint_id": "9092039",
+  "product": "Credit card",
+  "complaint_what_happened": "Its been around 3 months already since I informed Bank of America about fraudulent activity on my accounts, they been difficult and not one bit helpful throughout this whole process. Now they concluded the claims and did not return all the fraudulent charges that were made, they are charging me interest on purchases I did not make and boosted up my minimum payments. On top of all this they charged me a late payment fee on a business credit card that they close a few days before the payment was due, so when I attempted to make the payment on the mobile app it did not allow me to make any payments to that account, which is ridiculous and i have video proof that when i try to make a payment through the app its does not give me the option to make payments to that account. On top of that I informed them of this and they still charged me a late payment and tried to make me pay the following month in advanced with extra interest fees and charges. They have boosted my minimum payment on this account to over {$200.00} and that's just that one account, they are doing something similar on my other 2 personal credit cards. This is ridiculous and they don't even care to assist me or inform me on what I should do. I have also requested information on why they are claiming that this charges weren't fraudulent and I never received it, this was well over a month ago. I don't understand why they are like this I have been complaining since the start and gave them all the information request and told them everything i know, even explained to them that my identity was stolen not only my credit cards and provided them with a Identity theft report from the Federal Trade Commission. At this point I'm making this complaints trying to get this out there so maybe some justice can be made, I'm already looking to just get a lawyer and take this to court. This is ridiculous I have missed so many appointment 's and even days of work because of all the calls and letters I've been having to deal with. Bank Of America is the only institution that's given me a hard time. XXXX literally made it soo nice and simple, I might take my self fully to chase and close all the business with Bank of America completely. I've been with bank of america for years now and never had and issue i dont understand why they have to be soo difficult, I have never even had a late payment in my whole credit history. Now they are ruining my credit score and this is affecting my relationship with other institution and given me a hard time whenever I apply for new credit or loans.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33013",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Its been around 3 months already since I informed Bank of America about fraudulent activity on my accounts, they been difficult and not one bit helpful throughout this whole process. Now they concluded the claims and did not return all the fraudulent charges that were made, they are charging me interest on purchases I did not make and boosted up my minimum payments. On top of all this they charged me a late payment fee on a business credit card that they close a few days before the payment was due, so when I attempted to make the payment on the mobile app it did not allow me to make any payments to that account, which is ridiculous and i have video proof that when i try to make a payment through the app its does not give me the option to make payments to that account. On top of that I informed them of this and they still charged me a late payment and tried to make me pay the following month in advanced with extra interest fees and charges. They have boosted my minimum payment on this account to over {$200.00} and that's just that one account, they are doing something similar on my other 2 personal credit cards. This is ridiculous and they don't even care to assist me or inform me on what I should do. I have also requested information on why they are claiming that this charges weren't fraudulent and I never received it, this was well over a month ago. I don't understand why they are like this I have been complaining since the start and gave them all the information request and told them everything i know, even explained to them that my identity was stolen not only my credit cards and provided them with a Identity theft report from the Federal Trade Commission. At this point I'm making this complaints trying to get this out there so maybe some justice can be made, I'm already looking to just get a lawyer and take this to court. This is ridiculous I have missed so many appointment 's and even days of work because of all the calls and letters I've been having to deal with. Bank Of America is the only institution that's given me a hard time. XXXX literally made it soo nice and simple, I might take my self fully to chase and close all the business with Bank of America completely. I've been with bank of america for years now and never had and issue i dont understand why they have to be soo difficult, I have never even had a late payment in my whole credit history. Now they are ruining my credit score and this is affecting my relationship with other institution and given me a hard time whenever I apply for new credit or loans."
+}
+
+Chunk:
+with other institution and given me a hard time whenever i apply for new credit or loans.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978845715522766
+}

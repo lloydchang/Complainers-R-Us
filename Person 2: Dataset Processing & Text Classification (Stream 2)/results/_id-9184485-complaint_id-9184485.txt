@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9184485,
+  "complaint_id": "9184485",
+  "product": "Credit card",
+  "complaint_what_happened": "Im unaware of this debt and did not have the opportunity to dispute his debt. Nor did I receive proper notification of this debt. If in fact, you believe you provided me with proper notification send me a certified receipt with my signature on it.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89012",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "Im unaware of this debt and did not have the opportunity to dispute his debt. Nor did I receive proper notification of this debt. If in fact, you believe you provided me with proper notification send me a certified receipt with my signature on it."
+}
+
+Chunk:
+im unaware of this debt and did not have the opportunity to dispute his debt. nor did i receive proper notification of this debt. if in fact, you believe you provided me with proper notification send me a certified receipt with my signature on it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9952123165130615
+}

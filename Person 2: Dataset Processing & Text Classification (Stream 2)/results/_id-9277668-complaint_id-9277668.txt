@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9277668,
+  "complaint_id": "9277668",
+  "product": "Credit card",
+  "complaint_what_happened": "Cardholder deceased. Death certificate has been submitted multiple times. Phoned XXXX on XXXX and on XXXX spoke to XXXX XXXX and XXXX to cancel due to death . Citibank refuses to close account. So sad and so upset.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75252",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "Cardholder deceased. Death certificate has been submitted multiple times. Phoned XXXX on XXXX and on XXXX spoke to XXXX XXXX and XXXX to cancel due to death . Citibank refuses to close account. So sad and so upset."
+}
+
+Chunk:
+cardholder deceased. death certificate has been submitted multiple times. phoned xxxx on xxxx and on xxxx spoke to xxxx xxxx and xxxx to cancel due to death. citibank refuses to close account. so sad and so upset.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992221593856812
+}

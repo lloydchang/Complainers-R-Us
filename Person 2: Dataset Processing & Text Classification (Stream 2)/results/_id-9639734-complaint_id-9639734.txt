@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9639734,
+  "complaint_id": "9639734",
+  "product": "Credit card",
+  "complaint_what_happened": "I order and bed setting on XX/XX/year> total is XXXX. It delivered on XX/XX/year>. I note delivery at front door but they delivered my package at trash area behind trash bin. Trash company come to collect trash at same day and collect the package as garbage too. I contact bank but they denied my claim because they said it delivered to correct address. But they didnt follow delivery instruction and how to delivery a package at trash area and never ring doorbell or knock door. Please help. Thank you so much",
+  "date_sent_to_company": "2024-07-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11354",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I order and bed setting on XX/XX/year> total is XXXX. It delivered on XX/XX/year>. I note delivery at front door but they delivered my package at trash area behind trash bin. Trash company come to collect trash at same day and collect the package as garbage too. I contact bank but they denied my claim because they said it delivered to correct address. But they didnt follow delivery instruction and how to delivery a package at trash area and never ring doorbell or knock door. Please help. Thank you so much"
+}
+
+Chunk:
+i order and bed setting on xx / xx / year > total is xxxx. it delivered on xx / xx / year >. i note delivery at front door but they delivered my package at trash area behind trash bin. trash company come to collect trash at same day and collect the package as garbage too. i contact bank but they denied my claim because they said it delivered to correct address. but they didnt follow delivery instruction and how to delivery a package at trash area and never ring doorbell or knock door. please help. thank you so much
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.7207586169242859
+}

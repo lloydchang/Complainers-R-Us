@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025407,
+  "complaint_id": "9025407",
+  "product": "Credit card",
+  "complaint_what_happened": "I never applied for a NFCU credit card. I noticed these inquiries on my account within a couple months of each other. I called NFCU and was told the inquires could not be removed. This is hindering me from getting approved for order Credit cards due to the amount of inquiries that were filed with this company without my knowledge.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89128",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Application denied",
+  "text": "I never applied for a NFCU credit card. I noticed these inquiries on my account within a couple months of each other. I called NFCU and was told the inquires could not be removed. This is hindering me from getting approved for order Credit cards due to the amount of inquiries that were filed with this company without my knowledge."
+}
+
+Chunk:
+i never applied for a nfcu credit card. i noticed these inquiries on my account within a couple months of each other. i called nfcu and was told the inquires could not be removed. this is hindering me from getting approved for order credit cards due to the amount of inquiries that were filed with this company without my knowledge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993498921394348
+}

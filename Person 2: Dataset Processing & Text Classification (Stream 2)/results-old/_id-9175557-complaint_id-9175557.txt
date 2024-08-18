@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9175557,
+  "complaint_id": "9175557",
+  "product": "Credit card",
+  "complaint_what_happened": "I WAS IN XXXX FOR VACATION IN XXXX, MY XXXX WAS STOLEN ( PICKPOCKETED ) IN THE XXXX. I HAD TO CARD LINK TO MY APPLE WALLET, THE APPLE CARD, AND THE XXXX XXXX CARD. THE THIEVES HAD ACCESS TO MY APPLE CARD AND MADE 4 \" PURCHASES '' FOR THE AMOUNTS 1 ) {$480.00} 2 ) {$480.00} ) {$1200.00}, 4 ) {$1200.00}. THEY ALSO HAD ACCESS TO MY XXXX XXXX CARD, BUT THE COMPANY RESPONDED PRONTLY. I FILED A COMPLAINT THE NEXT DAY, CHANGED MY APPLE ID, REPORTED THE PHONE WAS STOLEN SUSPENDED MY APPLE CARD. THE GOLDMAN SACHS BANK \" INVESTIGATED '' MY COMPLAINT AND THEY CHARGED BACK TO MY CARD THE FRAUDULENT CHARGES. I COMPLAINED ONCE MORE BUT THEY ARE ONLY INVESTIGATING XXXX OF THE 4 CHARGES. I TEXTED THEM VIA THE APPLE APP, ASKED TO TALK TO THE FRAUD DEPARTMENT, THE PERSON IN CHARGE, THEY DID NOT GIVE ME ANY INFORMATION, I ASK FOR THE BUSINESS THAT CHARGED THE FRAUD, NO EXPLANATION, I ASKED TO SEE THEIR RECEIPT, WHAT CITY IS THIS BUSINESS FROM, WHAT TYPE OF BUSINESS IS, IF THEY HAVE MORE COMPLAINTS, ABOUT THEM OR THERE ARE REPORTS OF THAT BUSINESS AND THEY DONT PROVIDE ANY INFORMATION.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "009XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "PR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I WAS IN XXXX FOR VACATION IN XXXX, MY XXXX WAS STOLEN ( PICKPOCKETED ) IN THE XXXX. I HAD TO CARD LINK TO MY APPLE WALLET, THE APPLE CARD, AND THE XXXX XXXX CARD. THE THIEVES HAD ACCESS TO MY APPLE CARD AND MADE 4 \" PURCHASES '' FOR THE AMOUNTS 1 ) {$480.00} 2 ) {$480.00} ) {$1200.00}, 4 ) {$1200.00}. THEY ALSO HAD ACCESS TO MY XXXX XXXX CARD, BUT THE COMPANY RESPONDED PRONTLY. I FILED A COMPLAINT THE NEXT DAY, CHANGED MY APPLE ID, REPORTED THE PHONE WAS STOLEN SUSPENDED MY APPLE CARD. THE GOLDMAN SACHS BANK \" INVESTIGATED '' MY COMPLAINT AND THEY CHARGED BACK TO MY CARD THE FRAUDULENT CHARGES. I COMPLAINED ONCE MORE BUT THEY ARE ONLY INVESTIGATING XXXX OF THE 4 CHARGES. I TEXTED THEM VIA THE APPLE APP, ASKED TO TALK TO THE FRAUD DEPARTMENT, THE PERSON IN CHARGE, THEY DID NOT GIVE ME ANY INFORMATION, I ASK FOR THE BUSINESS THAT CHARGED THE FRAUD, NO EXPLANATION, I ASKED TO SEE THEIR RECEIPT, WHAT CITY IS THIS BUSINESS FROM, WHAT TYPE OF BUSINESS IS, IF THEY HAVE MORE COMPLAINTS, ABOUT THEM OR THERE ARE REPORTS OF THAT BUSINESS AND THEY DONT PROVIDE ANY INFORMATION."
+}
+
+Chunk:
+i was in xxxx for vacation in xxxx, my xxxx was stolen ( pickpocketed ) in the xxxx. i had to card link to my apple wallet, the apple card, and the xxxx xxxx card. the thieves had access to my apple card and made 4 " purchases'' for the amounts 1 ) { $ 480. 00 } 2 ) { $ 480. 00 } ) { $ 1200. 00 }, 4 ) { $ 1200. 00 }. they also had access to my xxxx xxxx card, but the company responded prontly. i filed a complaint the next day, changed my apple id, reported the phone was stolen suspended my apple card. the goldman sachs bank " investigated'' my complaint and they charged back to my card the fraudulent charges. i complained once more but they are only investigating xxxx of the 4 charges. i texted them via the apple app, asked to talk to the fraud department, the person in charge, they did not give me any information, i ask for the business that charged the fraud, no explanation, i asked to see their receipt, what city is this business from, what type of business is, if they have more complaints, about them or there are reports of that business and they dont provide any information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988480806350708
+}

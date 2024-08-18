@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9286822,
+  "complaint_id": "9286822",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear, XXXX XXXX XXXX XXXX XXXX veteran, on XX/XX/year> I got text about confirmed reservation from booking.com upon checking the link It was hotel reservations I didnt make reservations so I cancelled It and called booking.com I was told XXXX made the reservation I have daughter Registered XXXX daughter name XXXX too I called my daughter she told me Dad I didNIT make the reservation and she DOE NOT have my credit also and she told me why I want go to XXXX XXXX XXXX I am working so I called booking again spoke with XXXX XXXX told them could you please listen to the conversation who made the reservation he told me we will email you my daughter is XXXX and never used any of my credit cards at same time I got called from XXXX if I XXXX {$400.00} they will forgive my balance I XXXX {$200.00} and supposed to XXXX another {$200.00} to find out It was spam because somebody tried to pay for my property insurance It seems somebody knew about my family, credit cards, address, birthday everything about me so I called the credit card to file dispute but I was told this is fraud so I went to the Sherriff dept and filed fraud report and gave the information fraud report to credit card too but credit card did not credit my account even though I canceled the reservation MY DAUGHTER did not know my credit card I have It in my possession",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92503",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PENTAGON FEDERAL CREDIT UNION",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Dear, XXXX XXXX XXXX XXXX XXXX veteran, on XX/XX/year> I got text about confirmed reservation from booking.com upon checking the link It was hotel reservations I didnt make reservations so I cancelled It and called booking.com I was told XXXX made the reservation I have daughter Registered XXXX daughter name XXXX too I called my daughter she told me Dad I didNIT make the reservation and she DOE NOT have my credit also and she told me why I want go to XXXX XXXX XXXX I am working so I called booking again spoke with XXXX XXXX told them could you please listen to the conversation who made the reservation he told me we will email you my daughter is XXXX and never used any of my credit cards at same time I got called from XXXX if I XXXX {$400.00} they will forgive my balance I XXXX {$200.00} and supposed to XXXX another {$200.00} to find out It was spam because somebody tried to pay for my property insurance It seems somebody knew about my family, credit cards, address, birthday everything about me so I called the credit card to file dispute but I was told this is fraud so I went to the Sherriff dept and filed fraud report and gave the information fraud report to credit card too but credit card did not credit my account even though I canceled the reservation MY DAUGHTER did not know my credit card I have It in my possession"
+}
+
+Chunk:
+dear, xxxx xxxx xxxx xxxx xxxx veteran, on xx / xx / year > i got text about confirmed reservation from booking. com upon checking the link it was hotel reservations i didnt make reservations so i cancelled it and called booking. com i was told xxxx made the reservation i have daughter registered xxxx daughter name xxxx too i called my daughter she told me dad i didnit make the reservation and she doe not have my credit also and she told me why i want go to xxxx xxxx xxxx i am working so i called booking again spoke with xxxx xxxx told them could you please listen to the conversation who made the reservation he told me we will email you my daughter is xxxx and never used any of my credit cards at same time i got called from xxxx if i xxxx { $ 400. 00 } they will forgive my balance i xxxx { $ 200. 00 } and supposed to xxxx another { $ 200. 00 } to find out it was spam because somebody tried to pay for my property insurance it seems somebody knew about my family, credit cards, address, birthday everything about me so i called the credit card to file dispute but i was told this is fraud so i went to the sherriff dept and filed fraud report and gave the information fraud report to credit card too but credit card did not credit my account even though i canceled the reservation my daughter did not know my credit card i have it in my possession
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987714886665344
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9387286,
+  "complaint_id": "9387286",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX my credit card issued by Citicard was charged {$99.00} by XXXX for an antivirus software I did not use any more. I filed a dispute and was resolved in my favor. \nAgain in XX/XX/XXXX my credit card was charged {$100.00} by XXXX. I also filed a dispute to Citicard. This time Citicard resolved that I had to pay {$100.00} for something I did not use since last year.The same issue but different resolutions. \nI don't agree with Citicard 's resolution.",
+  "date_sent_to_company": "2024-06-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "972XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-29T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "In XX/XX/XXXX my credit card issued by Citicard was charged {$99.00} by XXXX for an antivirus software I did not use any more. I filed a dispute and was resolved in my favor. \nAgain in XX/XX/XXXX my credit card was charged {$100.00} by XXXX. I also filed a dispute to Citicard. This time Citicard resolved that I had to pay {$100.00} for something I did not use since last year.The same issue but different resolutions. \nI don't agree with Citicard 's resolution."
+}
+
+Chunk:
+in xx / xx / xxxx my credit card issued by citicard was charged { $ 99. 00 } by xxxx for an antivirus software i did not use any more. i filed a dispute and was resolved in my favor. again in xx / xx / xxxx my credit card was charged { $ 100. 00 } by xxxx. i also filed a dispute to citicard. this time citicard resolved that i had to pay { $ 100. 00 } for something i did not use since last year. the same issue but different resolutions. i don't agree with citicard's resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968830943107605
+}

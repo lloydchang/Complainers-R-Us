@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9128239,
+  "complaint_id": "9128239",
+  "product": "Credit card",
+  "complaint_what_happened": "The whole process has been confusing and frustrating. Opened a card with XXXX, but was never prompted to make an account with the credit issuer ( Synchrony Bank ), and never received account information, so was unable to see card information or log in to XXXX to pay. The only option I had was to click pay as guest in the emails they sent. Incredibly shady and predatory, they purposefully obfuscate the process of managing your card.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "83843",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "The whole process has been confusing and frustrating. Opened a card with XXXX, but was never prompted to make an account with the credit issuer ( Synchrony Bank ), and never received account information, so was unable to see card information or log in to XXXX to pay. The only option I had was to click pay as guest in the emails they sent. Incredibly shady and predatory, they purposefully obfuscate the process of managing your card."
+}
+
+Chunk:
+the whole process has been confusing and frustrating. opened a card with xxxx, but was never prompted to make an account with the credit issuer ( synchrony bank ), and never received account information, so was unable to see card information or log in to xxxx to pay. the only option i had was to click pay as guest in the emails they sent. incredibly shady and predatory, they purposefully obfuscate the process of managing your card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980382323265076
+}

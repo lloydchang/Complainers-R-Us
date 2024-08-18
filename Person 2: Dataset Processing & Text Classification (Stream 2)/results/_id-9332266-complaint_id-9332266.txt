@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9332266,
+  "complaint_id": "9332266",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter from Citibank for a XXXX XXXX card that was addressed to the Estate of my name. I am not XXXX and by the XXXX XXXX XXXXXXXX hope not to meet my maker for a while. This is XXXX and wreaks of fraud or incompetence. \n\nI called Citibank and XXXX XXXX to no avail as they said Citibank sent the information to them ( XXXX XXXX ) which is a agency set up to collect from an estate on XXXX. They pointed me back to Citibank. \n\nWHEN REVIEWING CARD IT IS UNDER XXXX which is part of my hypen nated name I called and spoke to XXXX badge number XXXX. She has no idea where or why this was sent nor where it was generated from. Thus, I don't believe this to be true as it has to have originated somewhere for some reason. This is fraudulent and deceptive behavior and needs to stop with a full explanation of how this happened. The card was open and paid on and the only thing that did happen was a decrease of {$100.00} in limit from their end. I want this corrected with an explanation and an apology and off the account.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "53223",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I received a letter from Citibank for a XXXX XXXX card that was addressed to the Estate of my name. I am not XXXX and by the XXXX XXXX XXXXXXXX hope not to meet my maker for a while. This is XXXX and wreaks of fraud or incompetence. \n\nI called Citibank and XXXX XXXX to no avail as they said Citibank sent the information to them ( XXXX XXXX ) which is a agency set up to collect from an estate on XXXX. They pointed me back to Citibank. \n\nWHEN REVIEWING CARD IT IS UNDER XXXX which is part of my hypen nated name I called and spoke to XXXX badge number XXXX. She has no idea where or why this was sent nor where it was generated from. Thus, I don't believe this to be true as it has to have originated somewhere for some reason. This is fraudulent and deceptive behavior and needs to stop with a full explanation of how this happened. The card was open and paid on and the only thing that did happen was a decrease of {$100.00} in limit from their end. I want this corrected with an explanation and an apology and off the account."
+}
+
+Chunk:
+i received a letter from citibank for a xxxx xxxx card that was addressed to the estate of my name. i am not xxxx and by the xxxx xxxx xxxxxxxx hope not to meet my maker for a while. this is xxxx and wreaks of fraud or incompetence. i called citibank and xxxx xxxx to no avail as they said citibank sent the information to them ( xxxx xxxx ) which is a agency set up to collect from an estate on xxxx. they pointed me back to citibank. when reviewing card it is under xxxx which is part of my hypen nated name i called and spoke to xxxx badge number xxxx. she has no idea where or why this was sent nor where it was generated from. thus, i don't believe this to be true as it has to have originated somewhere for some reason. this is fraudulent and deceptive behavior and needs to stop with a full explanation of how this happened. the card was open and paid on and the only thing that did happen was a decrease of { $ 100. 00 } in limit from their end. i want this corrected with an explanation and an apology and off the account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993463158607483
+}

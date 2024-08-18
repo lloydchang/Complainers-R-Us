@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9079247,
+  "complaint_id": "9079247",
+  "product": "Credit card",
+  "complaint_what_happened": "Lately USAA has been coming after me 1st by wanting to cancel my Auto Insurance. I have been a customer for about 40 years. Today I called usaa credit card services and came through authenticated through the voice prompts. The man that answered the phone appeared hostile and asked many questions to authenticate me. I answered all their questions correctly. He told me that I failed authentication and was going to hang up the phone and he did. USAA is targeting me because I am a conservative a Republican and I love and Adore the XXXX XXXX XXXX. This has to stop. I'm being attacked!",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20723",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with customer service",
+  "text": "Lately USAA has been coming after me 1st by wanting to cancel my Auto Insurance. I have been a customer for about 40 years. Today I called usaa credit card services and came through authenticated through the voice prompts. The man that answered the phone appeared hostile and asked many questions to authenticate me. I answered all their questions correctly. He told me that I failed authentication and was going to hang up the phone and he did. USAA is targeting me because I am a conservative a Republican and I love and Adore the XXXX XXXX XXXX. This has to stop. I'm being attacked!"
+}
+
+Chunk:
+lately usaa has been coming after me 1st by wanting to cancel my auto insurance. i have been a customer for about 40 years. today i called usaa credit card services and came through authenticated through the voice prompts. the man that answered the phone appeared hostile and asked many questions to authenticate me. i answered all their questions correctly. he told me that i failed authentication and was going to hang up the phone and he did. usaa is targeting me because i am a conservative a republican and i love and adore the xxxx xxxx xxxx. this has to stop. i'm being attacked!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977402687072754
+}

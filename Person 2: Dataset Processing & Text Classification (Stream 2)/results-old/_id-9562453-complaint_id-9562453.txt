@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9562453,
+  "complaint_id": "9562453",
+  "product": "Credit card",
+  "complaint_what_happened": "Somebody opened a fraudulent Citi Home Depot credit card in my name. I have called several times to request the account be closed immediately. Citi assured me that they have closed the account, but I continue to get monthly statements saying my account is past due. It seems there is no way to get Citi to finally CLOSE the account. I have never had a Citi Home Depot credit card, and did not apply for one. Whoever did this accumulated more than {$1500.00} in charges, and the bills are addressed to me with my name and home address. This will ruin my credit rating.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22015",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Somebody opened a fraudulent Citi Home Depot credit card in my name. I have called several times to request the account be closed immediately. Citi assured me that they have closed the account, but I continue to get monthly statements saying my account is past due. It seems there is no way to get Citi to finally CLOSE the account. I have never had a Citi Home Depot credit card, and did not apply for one. Whoever did this accumulated more than {$1500.00} in charges, and the bills are addressed to me with my name and home address. This will ruin my credit rating."
+}
+
+Chunk:
+somebody opened a fraudulent citi home depot credit card in my name. i have called several times to request the account be closed immediately. citi assured me that they have closed the account, but i continue to get monthly statements saying my account is past due. it seems there is no way to get citi to finally close the account. i have never had a citi home depot credit card, and did not apply for one. whoever did this accumulated more than { $ 1500. 00 } in charges, and the bills are addressed to me with my name and home address. this will ruin my credit rating.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997861981391907
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9025937,
+  "complaint_id": "9025937",
+  "product": "Credit card",
+  "complaint_what_happened": "My PNC XXXX was canceled XX/XX/XXXX due to fraud. I did not receive a new card until XX/XX/XXXX. The day I received the new card I immediately activated it. I saw that XXXX had not gone through and paid my statement balance. I asked them to waive the fee as I did not know XXXX was not in effect. They said they could not, because they had already waived a fee in XXXX. This case was also as a result of XXXX. I had XXXX in place for XXXX years. I never input an end date, but it ended in XXXX with no warning. \nThe complaint was escalated to XXXX XXXX Complaints. I spoke to them over XXXX weeks, XXXX times and they said they needed to do more research. I also went to my PNC XXXX and they said they had no recourse. In the final call, they said they would neither waive the late fee or refund the {$75.00} in interest charged. They claimed I was told that I would have to address recurring payments, but I XXXX this to mean monthly bill payments, NOTAutopay. XXXX pays are set up in completely different parts of the system. As a customer of XXXX years who has never missed a payment, I feel this is unfair and fee gouging.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27707",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "My PNC XXXX was canceled XX/XX/XXXX due to fraud. I did not receive a new card until XX/XX/XXXX. The day I received the new card I immediately activated it. I saw that XXXX had not gone through and paid my statement balance. I asked them to waive the fee as I did not know XXXX was not in effect. They said they could not, because they had already waived a fee in XXXX. This case was also as a result of XXXX. I had XXXX in place for XXXX years. I never input an end date, but it ended in XXXX with no warning. \nThe complaint was escalated to XXXX XXXX Complaints. I spoke to them over XXXX weeks, XXXX times and they said they needed to do more research. I also went to my PNC XXXX and they said they had no recourse. In the final call, they said they would neither waive the late fee or refund the {$75.00} in interest charged. They claimed I was told that I would have to address recurring payments, but I XXXX this to mean monthly bill payments, NOTAutopay. XXXX pays are set up in completely different parts of the system. As a customer of XXXX years who has never missed a payment, I feel this is unfair and fee gouging."
+}
+
+Chunk:
+my pnc xxxx was canceled xx / xx / xxxx due to fraud. i did not receive a new card until xx / xx / xxxx. the day i received the new card i immediately activated it. i saw that xxxx had not gone through and paid my statement balance. i asked them to waive the fee as i did not know xxxx was not in effect. they said they could not, because they had already waived a fee in xxxx. this case was also as a result of xxxx. i had xxxx in place for xxxx years. i never input an end date, but it ended in xxxx with no warning. the complaint was escalated to xxxx xxxx complaints. i spoke to them over xxxx weeks, xxxx times and they said they needed to do more research. i also went to my pnc xxxx and they said they had no recourse. in the final call, they said they would neither waive the late fee or refund the { $ 75. 00 } in interest charged. they claimed i was told that i would have to address recurring payments, but i xxxx this to mean monthly bill payments, notautopay. xxxx pays are set up in completely different parts of the system. as a customer of xxxx years who has never missed a payment, i feel this is unfair and fee gouging.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988594055175781
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9542954,
+  "complaint_id": "9542954",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Barclays credit card that charges an annual fee. I was most recently charged an annual fee on approximately XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX card membership year. \n\nOn approximately XX/XX/year> Barclays unilaterally closed the credit card account. The annual fee was not refunded, despite the account was closed near the beginning of the membership year and I can no longer use any of the cardmember benefits for the majority of the year that the fee was paid for. \n\nI called Barclays on around XX/XX/year> to request a refund of the annual fee ; Barclays representative refused the request. On around XX/XX/year> I submitted a formal complaint to Barclays regarding the annual fee refund not being refunded ; I received a confirmation number and the representative promised Barclay will reply within 48-72 hours. I did not receive any such reply.\n\nCFPB should investigate the prevalence of such overcharged and non-refunded annual fees paid by consumers when banks like Barclays unilaterally decided to close the credit card account that charges an annual fee for benefits.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94086",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I opened a Barclays credit card that charges an annual fee. I was most recently charged an annual fee on approximately XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX card membership year. \n\nOn approximately XX/XX/year> Barclays unilaterally closed the credit card account. The annual fee was not refunded, despite the account was closed near the beginning of the membership year and I can no longer use any of the cardmember benefits for the majority of the year that the fee was paid for. \n\nI called Barclays on around XX/XX/year> to request a refund of the annual fee ; Barclays representative refused the request. On around XX/XX/year> I submitted a formal complaint to Barclays regarding the annual fee refund not being refunded ; I received a confirmation number and the representative promised Barclay will reply within 48-72 hours. I did not receive any such reply.\n\nCFPB should investigate the prevalence of such overcharged and non-refunded annual fees paid by consumers when banks like Barclays unilaterally decided to close the credit card account that charges an annual fee for benefits."
+}
+
+Chunk:
+i opened a barclays credit card that charges an annual fee. i was most recently charged an annual fee on approximately xx / xx / scrub > xxxx xxxx xxxx xxxx xxxx xxxx card membership year. on approximately xx / xx / year > barclays unilaterally closed the credit card account. the annual fee was not refunded, despite the account was closed near the beginning of the membership year and i can no longer use any of the cardmember benefits for the majority of the year that the fee was paid for. i called barclays on around xx / xx / year > to request a refund of the annual fee ; barclays representative refused the request. on around xx / xx / year > i submitted a formal complaint to barclays regarding the annual fee refund not being refunded ; i received a confirmation number and the representative promised barclay will reply within 48 - 72 hours. i did not receive any such reply. cfpb should investigate the prevalence of such overcharged and non - refunded annual fees paid by consumers when banks like barclays unilaterally decided to close the credit card account that charges an annual fee for benefits.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977974891662598
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9506385,
+  "complaint_id": "9506385",
+  "product": "Credit card",
+  "complaint_what_happened": "This is related to communication that happened over this weekend - including Thursday and Friday of this week. My credit card number information was stolen without my knowledge for an unknown perpetrator to go on a spending spree. Three police departments ( my hometown police department, and the two police departments where the merchant has locations of business ) have opened up felony criminal credit card fraud investigations. Nevertheless, I was discouraged from Citibank staff to send in any written documentation proving my side. When I asked would this then just be resolved in my favor, I was told that was a loaded question. Well, if Im not allowed to submit the police reports and written documentation proving there was NO legal authorization, then is Citibank going to just flip a coin? So I did go ahead and submit all the relevant documentation- including proving the signature provided was NOT mine and the authorization was NOT made by me. I also submitted the 3 open police reports or case informations from the police departments. I was told I should do my criminal investigation against the merchant and contact them, but I do not want to dabble into vigilante justice. This is why we have the police, and FCBA requires Citibank to remove ALL fraudulent transactions- and I should NOT have to put my life in imminent jeopardy.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28208",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-14T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "This is related to communication that happened over this weekend - including Thursday and Friday of this week. My credit card number information was stolen without my knowledge for an unknown perpetrator to go on a spending spree. Three police departments ( my hometown police department, and the two police departments where the merchant has locations of business ) have opened up felony criminal credit card fraud investigations. Nevertheless, I was discouraged from Citibank staff to send in any written documentation proving my side. When I asked would this then just be resolved in my favor, I was told that was a loaded question. Well, if Im not allowed to submit the police reports and written documentation proving there was NO legal authorization, then is Citibank going to just flip a coin? So I did go ahead and submit all the relevant documentation- including proving the signature provided was NOT mine and the authorization was NOT made by me. I also submitted the 3 open police reports or case informations from the police departments. I was told I should do my criminal investigation against the merchant and contact them, but I do not want to dabble into vigilante justice. This is why we have the police, and FCBA requires Citibank to remove ALL fraudulent transactions- and I should NOT have to put my life in imminent jeopardy."
+}
+
+Chunk:
+this is related to communication that happened over this weekend - including thursday and friday of this week. my credit card number information was stolen without my knowledge for an unknown perpetrator to go on a spending spree. three police departments ( my hometown police department, and the two police departments where the merchant has locations of business ) have opened up felony criminal credit card fraud investigations. nevertheless, i was discouraged from citibank staff to send in any written documentation proving my side. when i asked would this then just be resolved in my favor, i was told that was a loaded question. well, if im not allowed to submit the police reports and written documentation proving there was no legal authorization, then is citibank going to just flip a coin? so i did go ahead and submit all the relevant documentation - including proving the signature provided was not mine and the authorization was not made by me. i also submitted the 3 open police reports or case informations from the police departments. i was told i should do my criminal investigation against the merchant and contact them, but i do not want to dabble into vigilante justice. this is why we have the police, and fcba requires citibank to remove all fraudulent transactions - and i should not have to put my life in imminent jeopardy.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999146580696106
+}

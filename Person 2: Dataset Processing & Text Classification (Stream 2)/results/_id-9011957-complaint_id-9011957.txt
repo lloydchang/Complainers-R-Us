@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9011957,
+  "complaint_id": "9011957",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchronicity Bank who is doing business as XXXX XXXX tools credit has lowered my credit limit even though I have never missed a payment. What they are saying is my credit score is not high enough. My credit score is not good but it is the same credit score I have had since I got the card. My credit limit has nothing to do with my history with the company and as far as I can determine their lowering my credit has had a detrimental effect on my credit worthiness even though I have been loyal and made my payments",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "025XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Synchronicity Bank who is doing business as XXXX XXXX tools credit has lowered my credit limit even though I have never missed a payment. What they are saying is my credit score is not high enough. My credit score is not good but it is the same credit score I have had since I got the card. My credit limit has nothing to do with my history with the company and as far as I can determine their lowering my credit has had a detrimental effect on my credit worthiness even though I have been loyal and made my payments"
+}
+
+Chunk:
+synchronicity bank who is doing business as xxxx xxxx tools credit has lowered my credit limit even though i have never missed a payment. what they are saying is my credit score is not high enough. my credit score is not good but it is the same credit score i have had since i got the card. my credit limit has nothing to do with my history with the company and as far as i can determine their lowering my credit has had a detrimental effect on my credit worthiness even though i have been loyal and made my payments
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992947578430176
+}

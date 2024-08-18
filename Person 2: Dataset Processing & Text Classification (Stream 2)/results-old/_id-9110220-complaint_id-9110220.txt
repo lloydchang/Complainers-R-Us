@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9110220,
+  "complaint_id": "9110220",
+  "product": "Credit card",
+  "complaint_what_happened": "I have two active credit cards with Capital One ( i ) Venture and ( ii ) Venture X. I realized I had just been charged for the annual fee of {$95.00} for the Venture card and the features of the Venture X and Venture are very similar therefore I wanted to downgrade the Venture card to one with no annual fee. \n\nUpon calling the customer service line, I explained this to the agent and that I was just charged an annual fee and since the two products are very similar, I would like to downgrade the Venture card to \" Venture One '' I provided the agent consent to move forward with changing the product type to Venture One but upon completion of that processing, I inquired whether the Venture 's annual fee would be reversed given that was my primary concern. The agent said no and I asked to speak with a supervisor. The supervisor repeated the same thing and I had laid out that basically I paid for the annual fee without being able to use the same card. I was told that the product change to the \" Venture One '' can not be reversed and annual fee can not be waived. I had asked if there was someone else I can speak to or if there are other Customer Loyalty or Retention matters that can be done and was provided a \" no, I am highest level person you can speak to ''. \n\nAs a consumer, I walked away from this call being worse off than had I not called. I am now paying {$95.00} in annual fee for a card I can not use or the benefits of the original Venture card. With other card issuers like XXXX XXXX with similar experience, they would be able to reverse the fee if I am no longer using it.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11201",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I have two active credit cards with Capital One ( i ) Venture and ( ii ) Venture X. I realized I had just been charged for the annual fee of {$95.00} for the Venture card and the features of the Venture X and Venture are very similar therefore I wanted to downgrade the Venture card to one with no annual fee. \n\nUpon calling the customer service line, I explained this to the agent and that I was just charged an annual fee and since the two products are very similar, I would like to downgrade the Venture card to \" Venture One '' I provided the agent consent to move forward with changing the product type to Venture One but upon completion of that processing, I inquired whether the Venture 's annual fee would be reversed given that was my primary concern. The agent said no and I asked to speak with a supervisor. The supervisor repeated the same thing and I had laid out that basically I paid for the annual fee without being able to use the same card. I was told that the product change to the \" Venture One '' can not be reversed and annual fee can not be waived. I had asked if there was someone else I can speak to or if there are other Customer Loyalty or Retention matters that can be done and was provided a \" no, I am highest level person you can speak to ''. \n\nAs a consumer, I walked away from this call being worse off than had I not called. I am now paying {$95.00} in annual fee for a card I can not use or the benefits of the original Venture card. With other card issuers like XXXX XXXX with similar experience, they would be able to reverse the fee if I am no longer using it."
+}
+
+Chunk:
+i have two active credit cards with capital one ( i ) venture and ( ii ) venture x. i realized i had just been charged for the annual fee of { $ 95. 00 } for the venture card and the features of the venture x and venture are very similar therefore i wanted to downgrade the venture card to one with no annual fee. upon calling the customer service line, i explained this to the agent and that i was just charged an annual fee and since the two products are very similar, i would like to downgrade the venture card to " venture one'' i provided the agent consent to move forward with changing the product type to venture one but upon completion of that processing, i inquired whether the venture's annual fee would be reversed given that was my primary concern. the agent said no and i asked to speak with a supervisor. the supervisor repeated the same thing and i had laid out that basically i paid for the annual fee without being able to use the same card. i was told that the product change to the " venture one'' can not be reversed and annual fee can not be waived. i had asked if there was someone else i can speak to or if there are other customer loyalty or retention matters that can be done and was provided a " no, i am highest level person you can speak to''. as a consumer, i walked away from this call being worse off than had i not called. i am now paying { $ 95. 00 } in annual fee for a card i can not use or the benefits of the original venture card. with other card issuers like xxxx xxxx with similar experience, they would be able to reverse the fee if i am no longer using it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987531900405884
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224057,
+  "complaint_id": "9224057",
+  "product": "Credit card",
+  "complaint_what_happened": "I have not missed a payment and have excellent credit. Without notice, Capitol One has decided to update their phone app and website to not allow debit card transactions, forcing users to accept direct XXXX billing as an option instead, or you can call the company to use debit card as an option. I have never granted access to my checking account directly and this poses a security risk if the transaction somehow is flawed which could result in a hold on the funds for 3 days instead of and instant transaction. The removal of the debit card payment option seems designed to push users towards using direct XXXX transfers for their convenience and I assume cost. It concerns me about fairness and consumer choice. While companies have the right to change their policies and services, they must do so transparently and fairly, without unfairly disadvantaging their customers. I and others received NO NOTICE. I do not authorize this invasion and it opens up the possibility of fraud if Capitol One leaks the data. \n\nI request that I continue to be able to use debit as an option on the phone app as a resolution. \n\nComplaints from others can be found here. \nXXXX XXXX XXXX Sincerely, XXXX",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "326XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I have not missed a payment and have excellent credit. Without notice, Capitol One has decided to update their phone app and website to not allow debit card transactions, forcing users to accept direct XXXX billing as an option instead, or you can call the company to use debit card as an option. I have never granted access to my checking account directly and this poses a security risk if the transaction somehow is flawed which could result in a hold on the funds for 3 days instead of and instant transaction. The removal of the debit card payment option seems designed to push users towards using direct XXXX transfers for their convenience and I assume cost. It concerns me about fairness and consumer choice. While companies have the right to change their policies and services, they must do so transparently and fairly, without unfairly disadvantaging their customers. I and others received NO NOTICE. I do not authorize this invasion and it opens up the possibility of fraud if Capitol One leaks the data. \n\nI request that I continue to be able to use debit as an option on the phone app as a resolution. \n\nComplaints from others can be found here. \nXXXX XXXX XXXX Sincerely, XXXX"
+}
+
+Chunk:
+i have not missed a payment and have excellent credit. without notice, capitol one has decided to update their phone app and website to not allow debit card transactions, forcing users to accept direct xxxx billing as an option instead, or you can call the company to use debit card as an option. i have never granted access to my checking account directly and this poses a security risk if the transaction somehow is flawed which could result in a hold on the funds for 3 days instead of and instant transaction. the removal of the debit card payment option seems designed to push users towards using direct xxxx transfers for their convenience and i assume cost. it concerns me about fairness and consumer choice. while companies have the right to change their policies and services, they must do so transparently and fairly, without unfairly disadvantaging their customers. i and others received no notice. i do not authorize this invasion and it opens up the possibility of fraud if capitol one leaks the data. i request that i continue to be able to use debit as an option on the phone app as a resolution. complaints from others can be found here. xxxx xxxx xxxx sincerely, xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9776936769485474
+}

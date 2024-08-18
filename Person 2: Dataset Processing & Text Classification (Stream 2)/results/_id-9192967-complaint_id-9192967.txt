@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9192967,
+  "complaint_id": "9192967",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a dell/comenity credit card used to purchase one computer. Later, I went to my bank, XXXX XXXX XXXX XXXX, and got a debt consolidation loan to get a better interest rate. This was one of three accounts we decided to pay off and wrap into this loan. The other two went fine. But after Dell cashed the check they refused to credit my account. We have provided numberous times the check number, date it was mailed, date it was cashed, copies of the deposited check ( front and back ) and account it was recorded to at dell. But after two investigations with dell they refuse to credit the account. I disputed with transunion and received a cryptid investigation report which my bank and I didnt understand, but we do understand the debt still shows as owed. XXXX XXXX has offered to speak for me. This has taken MANY hours and call and documents and stress. I have downloaded these same documents to dell directly on their website numerous times and with their employee on the phone to verify they got it. Don't listen when they say I didn't. I sure as heck did! Now I owe my bank and dell. Please help make dell fairly credit my account for my payment.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "802XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have a dell/comenity credit card used to purchase one computer. Later, I went to my bank, XXXX XXXX XXXX XXXX, and got a debt consolidation loan to get a better interest rate. This was one of three accounts we decided to pay off and wrap into this loan. The other two went fine. But after Dell cashed the check they refused to credit my account. We have provided numberous times the check number, date it was mailed, date it was cashed, copies of the deposited check ( front and back ) and account it was recorded to at dell. But after two investigations with dell they refuse to credit the account. I disputed with transunion and received a cryptid investigation report which my bank and I didnt understand, but we do understand the debt still shows as owed. XXXX XXXX has offered to speak for me. This has taken MANY hours and call and documents and stress. I have downloaded these same documents to dell directly on their website numerous times and with their employee on the phone to verify they got it. Don't listen when they say I didn't. I sure as heck did! Now I owe my bank and dell. Please help make dell fairly credit my account for my payment."
+}
+
+Chunk:
+i have a dell / comenity credit card used to purchase one computer. later, i went to my bank, xxxx xxxx xxxx xxxx, and got a debt consolidation loan to get a better interest rate. this was one of three accounts we decided to pay off and wrap into this loan. the other two went fine. but after dell cashed the check they refused to credit my account. we have provided numberous times the check number, date it was mailed, date it was cashed, copies of the deposited check ( front and back ) and account it was recorded to at dell. but after two investigations with dell they refuse to credit the account. i disputed with transunion and received a cryptid investigation report which my bank and i didnt understand, but we do understand the debt still shows as owed. xxxx xxxx has offered to speak for me. this has taken many hours and call and documents and stress. i have downloaded these same documents to dell directly on their website numerous times and with their employee on the phone to verify they got it. don't listen when they say i didn't. i sure as heck did! now i owe my bank and dell. please help make dell fairly credit my account for my payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9721303582191467
+}

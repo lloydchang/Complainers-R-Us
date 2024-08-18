@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9642873,
+  "complaint_id": "9642873",
+  "product": "Credit card",
+  "complaint_what_happened": "On XXXX separate occasions, I contacted Wells Fargo in regards to fraudulent charges on my credit card account. They issued a new card on both occasions however a previous charge was still being charged to my account without my consent. Upon going over my account the second time my account was flagged for fraudulent activity, Wells Fargo sent me a form asking me to list additional charges I did not recognize. The total charges I observed were in the amount of XXXX dollars which they denied and also an additional XXXX dollars from XXXX charges that I previously reported to them but was never credited.",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "295XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XXXX separate occasions, I contacted Wells Fargo in regards to fraudulent charges on my credit card account. They issued a new card on both occasions however a previous charge was still being charged to my account without my consent. Upon going over my account the second time my account was flagged for fraudulent activity, Wells Fargo sent me a form asking me to list additional charges I did not recognize. The total charges I observed were in the amount of XXXX dollars which they denied and also an additional XXXX dollars from XXXX charges that I previously reported to them but was never credited."
+}
+
+Chunk:
+on xxxx separate occasions, i contacted wells fargo in regards to fraudulent charges on my credit card account. they issued a new card on both occasions however a previous charge was still being charged to my account without my consent. upon going over my account the second time my account was flagged for fraudulent activity, wells fargo sent me a form asking me to list additional charges i did not recognize. the total charges i observed were in the amount of xxxx dollars which they denied and also an additional xxxx dollars from xxxx charges that i previously reported to them but was never credited.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989237189292908
+}

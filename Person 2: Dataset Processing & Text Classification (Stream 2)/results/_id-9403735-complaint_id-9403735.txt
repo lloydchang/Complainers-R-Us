@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9403735,
+  "complaint_id": "9403735",
+  "product": "Credit card",
+  "complaint_what_happened": "We purchased tickets for a bus tour from XXXX XXXX on XX/XX/year> while on vacation. We paid XXXX, which came to {$120.00}. The company 's website and brochure advertised that they had live guides, which was important to us. The ticket agent from whom we bought the tickets ( and gave us the brochure ) also verified that they had live guides. However, once we were on the tour, that was not the case- they only had a poor-quality recording. An agent at the next stop told us to contact customer service for a refund, which I did the next day. I exchanged several emails with XXXX over the next week, but they refused to provide a refund even though they did not dispute the validity of my claim ( statement from them in an email included in documentation ). \n\nI finally resorted to disputing the charges on our Fidelity credit card and contacted Elan Financial Services ( who manages the Fidelity credit card ) on XX/XX/year>. Elan issued a provisional credit, but then reversed it on XX/XX/year> because they claimed I had not provided proof, even though I had faxed them 12 pages of documentation on XX/XX/year>, which was the deadline. After contacting them again on XX/XX/year>, they reinstated the provisional credit on XX/XX/year>. Then on XX/XX/year> they again reversed the provisional credit. On XX/XX/year>, I contacted them to find out why they reversed the credit and was told that \" you received the services represented by the transaction, '' which is completely incorrect. We did NOT receive the services represented by the transaction- in fact that was the entire reason for the dispute! I requested that a manager in their Case Management department call me. Later on XX/XX/year>, I also faxed them a letter outlining what had taken place along with a copy of the brochure we received when we purchased the tickets, which also claimed that XXXX had live guides. I had to call them again on XX/XX/year> and yet again today ( XX/XX/year> ) before I finally talked to a manager in Case Management ( XXXX XXXX He just kept telling me that they were not \" able '' to credit me since we went on the bus tour, which is absurd. If we hadn't gone on the tour, we wouldn't have known they didn't have live guides. Furthermore, we couldn't get off the bus once we were on it, unless we wanted to walk miles back to our hotel. After my call with him, we received a letter from them dated XX/XX/year> saying the same thing.",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55082",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "We purchased tickets for a bus tour from XXXX XXXX on XX/XX/year> while on vacation. We paid XXXX, which came to {$120.00}. The company 's website and brochure advertised that they had live guides, which was important to us. The ticket agent from whom we bought the tickets ( and gave us the brochure ) also verified that they had live guides. However, once we were on the tour, that was not the case- they only had a poor-quality recording. An agent at the next stop told us to contact customer service for a refund, which I did the next day. I exchanged several emails with XXXX over the next week, but they refused to provide a refund even though they did not dispute the validity of my claim ( statement from them in an email included in documentation ). \n\nI finally resorted to disputing the charges on our Fidelity credit card and contacted Elan Financial Services ( who manages the Fidelity credit card ) on XX/XX/year>. Elan issued a provisional credit, but then reversed it on XX/XX/year> because they claimed I had not provided proof, even though I had faxed them 12 pages of documentation on XX/XX/year>, which was the deadline. After contacting them again on XX/XX/year>, they reinstated the provisional credit on XX/XX/year>. Then on XX/XX/year> they again reversed the provisional credit. On XX/XX/year>, I contacted them to find out why they reversed the credit and was told that \" you received the services represented by the transaction, '' which is completely incorrect. We did NOT receive the services represented by the transaction- in fact that was the entire reason for the dispute! I requested that a manager in their Case Management department call me. Later on XX/XX/year>, I also faxed them a letter outlining what had taken place along with a copy of the brochure we received when we purchased the tickets, which also claimed that XXXX had live guides. I had to call them again on XX/XX/year> and yet again today ( XX/XX/year> ) before I finally talked to a manager in Case Management ( XXXX XXXX He just kept telling me that they were not \" able '' to credit me since we went on the bus tour, which is absurd. If we hadn't gone on the tour, we wouldn't have known they didn't have live guides. Furthermore, we couldn't get off the bus once we were on it, unless we wanted to walk miles back to our hotel. After my call with him, we received a letter from them dated XX/XX/year> saying the same thing."
+}
+
+Chunk:
+t have known they didn't have live guides. furthermore, we couldn't get off the bus once we were on it, unless we wanted to walk miles back to our hotel. after my call with him, we received a letter from them dated xx / xx / year > saying the same thing.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970126152038574
+}

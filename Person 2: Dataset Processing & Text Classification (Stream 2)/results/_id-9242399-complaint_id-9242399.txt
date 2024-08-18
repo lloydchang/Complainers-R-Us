@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9242399,
+  "complaint_id": "9242399",
+  "product": "Credit card",
+  "complaint_what_happened": "Card can not be used because they are stating there is a fraud, it is my card and they will not tell me what the problem is. They keep asking for a lot of my personal information which I do not like to give out.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89178",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Card can not be used because they are stating there is a fraud, it is my card and they will not tell me what the problem is. They keep asking for a lot of my personal information which I do not like to give out."
+}
+
+Chunk:
+card can not be used because they are stating there is a fraud, it is my card and they will not tell me what the problem is. they keep asking for a lot of my personal information which i do not like to give out.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9964176416397095
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055109,
+  "complaint_id": "9055109",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One closed my account on XX/XX/2024 and sent me the first notification regarding the closure on XX/XX/2024, after they had already closed the account. There was no notification in advance. With the closure, I lost all of my reward points. Because Capital One did not provide advance notice before they closed my credit card and no option to reopen or receive credit for the lost points since they closed my account. Attached is the statements and documents from the XXXXXXXX XXXX app showing no communication about closing the account prior to XX/XX/2024 and a screenshot of the letter they sent from the web app dated XX/XX/2024. Capital One informed me that they closed my account on XX/XX/2024 due to inactivity, which is before any notification was provided to me.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "45458",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Capital One closed my account on XX/XX/2024 and sent me the first notification regarding the closure on XX/XX/2024, after they had already closed the account. There was no notification in advance. With the closure, I lost all of my reward points. Because Capital One did not provide advance notice before they closed my credit card and no option to reopen or receive credit for the lost points since they closed my account. Attached is the statements and documents from the XXXXXXXX XXXX app showing no communication about closing the account prior to XX/XX/2024 and a screenshot of the letter they sent from the web app dated XX/XX/2024. Capital One informed me that they closed my account on XX/XX/2024 due to inactivity, which is before any notification was provided to me."
+}
+
+Chunk:
+capital one closed my account on xx / xx / 2024 and sent me the first notification regarding the closure on xx / xx / 2024, after they had already closed the account. there was no notification in advance. with the closure, i lost all of my reward points. because capital one did not provide advance notice before they closed my credit card and no option to reopen or receive credit for the lost points since they closed my account. attached is the statements and documents from the xxxxxxxx xxxx app showing no communication about closing the account prior to xx / xx / 2024 and a screenshot of the letter they sent from the web app dated xx / xx / 2024. capital one informed me that they closed my account on xx / xx / 2024 due to inactivity, which is before any notification was provided to me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997696280479431
+}

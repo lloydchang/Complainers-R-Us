@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9104192,
+  "complaint_id": "9104192",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024 I checked my consumer credit report and noticed 2 XXXX XXXX XXXX XXXX accounts that don't belong to me. I filed a identity theft report with the FTC reference number XXXX ( attached ) and a police report with XXXX police department ( attached ) .15 U.S. Code 1681c2 - Block of information resulting from identity theft",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95825",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/2024 I checked my consumer credit report and noticed 2 XXXX XXXX XXXX XXXX accounts that don't belong to me. I filed a identity theft report with the FTC reference number XXXX ( attached ) and a police report with XXXX police department ( attached ) .15 U.S. Code 1681c2 - Block of information resulting from identity theft"
+}
+
+Chunk:
+on xx / xx / 2024 i checked my consumer credit report and noticed 2 xxxx xxxx xxxx xxxx accounts that don't belong to me. i filed a identity theft report with the ftc reference number xxxx ( attached ) and a police report with xxxx police department ( attached ). 15 u. s. code 1681c2 - block of information resulting from identity theft
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991055130958557
+}

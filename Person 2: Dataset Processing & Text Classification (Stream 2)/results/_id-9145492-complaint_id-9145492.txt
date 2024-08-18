@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9145492,
+  "complaint_id": "9145492",
+  "product": "Credit card",
+  "complaint_what_happened": "I'm desperately trying to resolve my balances for a few credit cards with Indigo Credit Card. THE ACCOUNT IS UNDER THE NAME XXXX XXXX. \nI've always been current and the account is now closed. I am low income and struggling to make ends meet and want to achieve good credit again. I am seeing if this agency can negotiate with this credit card company to reduce half of the balance owed on the account. I am more than happy to pay this amount and it would truly help me get back on top of finances and earning a good credit score for the future. I appreciate any help you can offer. Thank you. Please reduce the balance in half as I am more than happy to pay this amount. - Please see my attached and recent -Credit Card Statement from Indigo Credit Card .",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "060XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I'm desperately trying to resolve my balances for a few credit cards with Indigo Credit Card. THE ACCOUNT IS UNDER THE NAME XXXX XXXX. \nI've always been current and the account is now closed. I am low income and struggling to make ends meet and want to achieve good credit again. I am seeing if this agency can negotiate with this credit card company to reduce half of the balance owed on the account. I am more than happy to pay this amount and it would truly help me get back on top of finances and earning a good credit score for the future. I appreciate any help you can offer. Thank you. Please reduce the balance in half as I am more than happy to pay this amount. - Please see my attached and recent -Credit Card Statement from Indigo Credit Card ."
+}
+
+Chunk:
+i'm desperately trying to resolve my balances for a few credit cards with indigo credit card. the account is under the name xxxx xxxx. i've always been current and the account is now closed. i am low income and struggling to make ends meet and want to achieve good credit again. i am seeing if this agency can negotiate with this credit card company to reduce half of the balance owed on the account. i am more than happy to pay this amount and it would truly help me get back on top of finances and earning a good credit score for the future. i appreciate any help you can offer. thank you. please reduce the balance in half as i am more than happy to pay this amount. - please see my attached and recent - credit card statement from indigo credit card.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.7548030614852905
+}

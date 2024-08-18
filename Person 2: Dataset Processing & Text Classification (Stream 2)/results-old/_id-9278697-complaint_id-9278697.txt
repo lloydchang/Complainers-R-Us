@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9278697,
+  "complaint_id": "9278697",
+  "product": "Credit card",
+  "complaint_what_happened": "This is in reference to an existing complaint that was closed by CFPB but not resolved. Complaint # XXXX. Fraudulent charges were made on the Citibank Best Buy credit card and the company initially credited the $ XXXX but then opened up two new credit cards and transferred the fraudulent charges to these cards as well as additional fraud purchases. The company also mistakenly sent a check for the refund ( mistakenly per citibank ). This check was then sent back and never cashed ( reviewed bank accts to ensure ). Citibank is now looking to collect on this check that was not cashed. We have requested that the account be closed and that all fraud charges, late charges and misc charges be removed to get this to a XXXX balance. \n\nXXXX XXXX - son in law of XXXX XXXX is assisting in this process to gain resolution. \n\nWe attempted to reconcile the accounts, but Citibank moved charges and fraud transaction to a point that it is nonsensical.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "480XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This is in reference to an existing complaint that was closed by CFPB but not resolved. Complaint # XXXX. Fraudulent charges were made on the Citibank Best Buy credit card and the company initially credited the $ XXXX but then opened up two new credit cards and transferred the fraudulent charges to these cards as well as additional fraud purchases. The company also mistakenly sent a check for the refund ( mistakenly per citibank ). This check was then sent back and never cashed ( reviewed bank accts to ensure ). Citibank is now looking to collect on this check that was not cashed. We have requested that the account be closed and that all fraud charges, late charges and misc charges be removed to get this to a XXXX balance. \n\nXXXX XXXX - son in law of XXXX XXXX is assisting in this process to gain resolution. \n\nWe attempted to reconcile the accounts, but Citibank moved charges and fraud transaction to a point that it is nonsensical."
+}
+
+Chunk:
+this is in reference to an existing complaint that was closed by cfpb but not resolved. complaint # xxxx. fraudulent charges were made on the citibank best buy credit card and the company initially credited the $ xxxx but then opened up two new credit cards and transferred the fraudulent charges to these cards as well as additional fraud purchases. the company also mistakenly sent a check for the refund ( mistakenly per citibank ). this check was then sent back and never cashed ( reviewed bank accts to ensure ). citibank is now looking to collect on this check that was not cashed. we have requested that the account be closed and that all fraud charges, late charges and misc charges be removed to get this to a xxxx balance. xxxx xxxx - son in law of xxxx xxxx is assisting in this process to gain resolution. we attempted to reconcile the accounts, but citibank moved charges and fraud transaction to a point that it is nonsensical.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991683959960938
+}

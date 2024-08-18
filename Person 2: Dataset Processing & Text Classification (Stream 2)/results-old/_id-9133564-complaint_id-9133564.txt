@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9133564,
+  "complaint_id": "9133564",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I was scammed in XXXX and my Capital One credit card was charged at an establishment called XXXX, XXXX ( all XXXX reviews for said establishment indicate that they were robbed by owners ). The total price was {$5.00} and then I saw {$100.00} was charged on my card. I went to the bathroom and noticed that my card was not in my possession and was stolen from me when I got up. We confronted the business owners and they threatened us and a physical altercation ensued. I was able to get my card and ran for fear of safety. I did not authorize more than {$5.00} to be used at this business as they stole and charged my account without my consent. \n\nOn XX/XX/XXXX I alerted Capital One and completed all their forms and the company denied me for no reason.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94109",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX, I was scammed in XXXX and my Capital One credit card was charged at an establishment called XXXX, XXXX ( all XXXX reviews for said establishment indicate that they were robbed by owners ). The total price was {$5.00} and then I saw {$100.00} was charged on my card. I went to the bathroom and noticed that my card was not in my possession and was stolen from me when I got up. We confronted the business owners and they threatened us and a physical altercation ensued. I was able to get my card and ran for fear of safety. I did not authorize more than {$5.00} to be used at this business as they stole and charged my account without my consent. \n\nOn XX/XX/XXXX I alerted Capital One and completed all their forms and the company denied me for no reason."
+}
+
+Chunk:
+on xx / xx / xxxx, i was scammed in xxxx and my capital one credit card was charged at an establishment called xxxx, xxxx ( all xxxx reviews for said establishment indicate that they were robbed by owners ). the total price was { $ 5. 00 } and then i saw { $ 100. 00 } was charged on my card. i went to the bathroom and noticed that my card was not in my possession and was stolen from me when i got up. we confronted the business owners and they threatened us and a physical altercation ensued. i was able to get my card and ran for fear of safety. i did not authorize more than { $ 5. 00 } to be used at this business as they stole and charged my account without my consent. on xx / xx / xxxx i alerted capital one and completed all their forms and the company denied me for no reason.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994204044342041
+}

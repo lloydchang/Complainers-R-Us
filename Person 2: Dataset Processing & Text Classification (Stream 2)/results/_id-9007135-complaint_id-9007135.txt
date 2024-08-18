@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9007135,
+  "complaint_id": "9007135",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX two checks and account closure request letters were cashed and received by capital one bank. They have refused to credit the payments or close the accounts. After calling I was told to redo everything and then send them confirmation.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "40160",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "XXXX two checks and account closure request letters were cashed and received by capital one bank. They have refused to credit the payments or close the accounts. After calling I was told to redo everything and then send them confirmation."
+}
+
+Chunk:
+xxxx two checks and account closure request letters were cashed and received by capital one bank. they have refused to credit the payments or close the accounts. after calling i was told to redo everything and then send them confirmation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986383318901062
+}

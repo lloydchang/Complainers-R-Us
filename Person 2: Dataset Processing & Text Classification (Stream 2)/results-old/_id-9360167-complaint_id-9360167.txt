@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9360167,
+  "complaint_id": "9360167",
+  "product": "Credit card",
+  "complaint_what_happened": "I filed for a XXXX XXXX bankruptcy on XX/XX/year>. I made a payment to Synchrony Bank on XX/XX/year>, while in bankruptcy. I filed the bankruptcy to protect my home from foreclosure. I always paid the account and was never late. I dismissed the bankruptcy on XX/XX/year>. I called Synchrony in order to make sure it would receive my payment through bill pay. Synchrony told me they sold my account to a debt collector. I asked why was my account sold to a debt collector when I was never late? The customer service agent said he no longer had the account and did not know its history. Synchrony sold my account in order to damage my credit history. They received my XX/XX/year> payment while I was in bankruptcy. Attached is my bill pay history which shows the payments made on or before the XXXX of the month, as was required.",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33141",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Filed for bankruptcy",
+  "text": "I filed for a XXXX XXXX bankruptcy on XX/XX/year>. I made a payment to Synchrony Bank on XX/XX/year>, while in bankruptcy. I filed the bankruptcy to protect my home from foreclosure. I always paid the account and was never late. I dismissed the bankruptcy on XX/XX/year>. I called Synchrony in order to make sure it would receive my payment through bill pay. Synchrony told me they sold my account to a debt collector. I asked why was my account sold to a debt collector when I was never late? The customer service agent said he no longer had the account and did not know its history. Synchrony sold my account in order to damage my credit history. They received my XX/XX/year> payment while I was in bankruptcy. Attached is my bill pay history which shows the payments made on or before the XXXX of the month, as was required."
+}
+
+Chunk:
+i filed for a xxxx xxxx bankruptcy on xx / xx / year >. i made a payment to synchrony bank on xx / xx / year >, while in bankruptcy. i filed the bankruptcy to protect my home from foreclosure. i always paid the account and was never late. i dismissed the bankruptcy on xx / xx / year >. i called synchrony in order to make sure it would receive my payment through bill pay. synchrony told me they sold my account to a debt collector. i asked why was my account sold to a debt collector when i was never late? the customer service agent said he no longer had the account and did not know its history. synchrony sold my account in order to damage my credit history. they received my xx / xx / year > payment while i was in bankruptcy. attached is my bill pay history which shows the payments made on or before the xxxx of the month, as was required.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992096424102783
+}

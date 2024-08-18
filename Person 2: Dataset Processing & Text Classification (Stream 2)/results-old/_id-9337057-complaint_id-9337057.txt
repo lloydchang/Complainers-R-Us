@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9337057,
+  "complaint_id": "9337057",
+  "product": "Credit card",
+  "complaint_what_happened": "my credit card payment was due on XX/XX/XXXX and I made the payment with my debit card online. \nThe credit card company didn't process the payment until XX/XX/XXXX and charged me a late fee of XXXX I called and they finally agreed to take off the late fee. \nI want other people to know that they should read their credit card statements bc this seems to be a common problem OR TRICK used by these people!",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78410",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with fees",
+  "text": "my credit card payment was due on XX/XX/XXXX and I made the payment with my debit card online. \nThe credit card company didn't process the payment until XX/XX/XXXX and charged me a late fee of XXXX I called and they finally agreed to take off the late fee. \nI want other people to know that they should read their credit card statements bc this seems to be a common problem OR TRICK used by these people!"
+}
+
+Chunk:
+my credit card payment was due on xx / xx / xxxx and i made the payment with my debit card online. the credit card company didn't process the payment until xx / xx / xxxx and charged me a late fee of xxxx i called and they finally agreed to take off the late fee. i want other people to know that they should read their credit card statements bc this seems to be a common problem or trick used by these people!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977032542228699
+}

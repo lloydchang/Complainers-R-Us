@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154122,
+  "complaint_id": "9154122",
+  "product": "Credit card",
+  "complaint_what_happened": "Made a purchase on XX/XX/2024 and didnt receive any of the items. I was issued ( XXXX ) XXXX target gift cards due to this purchase which I was told I would keep regardless. The full refund was given and in XXXX I began being charged for the allegedly free gift cards and one of the alleged fully refunded items. Bringing my account past due. Being out of country for 3 months, I was not aware of said charges because the card balance should have been XXXX after the full refund. I have been harmed not only with the past due and late fees but it has also been reported to credit agencies to which my credit has been impacted.target master card limit went from close to {$4000.00} down to {$200.00}. Instead of helping me, I was blamed it has been reported on my credit and I was told that I will need to wait up to 30 days for my resolution. Which further impacts my spending power. I have since been denied credit/ increases and the like.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94578",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Made a purchase on XX/XX/2024 and didnt receive any of the items. I was issued ( XXXX ) XXXX target gift cards due to this purchase which I was told I would keep regardless. The full refund was given and in XXXX I began being charged for the allegedly free gift cards and one of the alleged fully refunded items. Bringing my account past due. Being out of country for 3 months, I was not aware of said charges because the card balance should have been XXXX after the full refund. I have been harmed not only with the past due and late fees but it has also been reported to credit agencies to which my credit has been impacted.target master card limit went from close to {$4000.00} down to {$200.00}. Instead of helping me, I was blamed it has been reported on my credit and I was told that I will need to wait up to 30 days for my resolution. Which further impacts my spending power. I have since been denied credit/ increases and the like."
+}
+
+Chunk:
+made a purchase on xx / xx / 2024 and didnt receive any of the items. i was issued ( xxxx ) xxxx target gift cards due to this purchase which i was told i would keep regardless. the full refund was given and in xxxx i began being charged for the allegedly free gift cards and one of the alleged fully refunded items. bringing my account past due. being out of country for 3 months, i was not aware of said charges because the card balance should have been xxxx after the full refund. i have been harmed not only with the past due and late fees but it has also been reported to credit agencies to which my credit has been impacted. target master card limit went from close to { $ 4000. 00 } down to { $ 200. 00 }. instead of helping me, i was blamed it has been reported on my credit and i was told that i will need to wait up to 30 days for my resolution. which further impacts my spending power. i have since been denied credit / increases and the like.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990140199661255
+}

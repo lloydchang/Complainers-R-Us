@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9664609,
+  "complaint_id": "9664609",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I found out that Wells Fargo closed my Active Cash Credit Card with no notice. On that XX/XX/year>, I called Wells Fargo asking why it was closed, and they said that I would receive a letter in the mail explaining why it was closed. It has been nearly one month since it was closed, and I still have not received a letter. The card was closed for no reason, all of my credit card payments are on time and I have never missed a payment with Wells Fargo.",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "84045",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-31T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year>, I found out that Wells Fargo closed my Active Cash Credit Card with no notice. On that XX/XX/year>, I called Wells Fargo asking why it was closed, and they said that I would receive a letter in the mail explaining why it was closed. It has been nearly one month since it was closed, and I still have not received a letter. The card was closed for no reason, all of my credit card payments are on time and I have never missed a payment with Wells Fargo."
+}
+
+Chunk:
+on xx / xx / year >, i found out that wells fargo closed my active cash credit card with no notice. on that xx / xx / year >, i called wells fargo asking why it was closed, and they said that i would receive a letter in the mail explaining why it was closed. it has been nearly one month since it was closed, and i still have not received a letter. the card was closed for no reason, all of my credit card payments are on time and i have never missed a payment with wells fargo.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9960287809371948
+}

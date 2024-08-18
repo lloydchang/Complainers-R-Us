@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9060579,
+  "complaint_id": "9060579",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a XXXX and I requested a pin for a cash advance. Once they received notification of that request I get an email that they lowered my limit from {$20000.00} to XXXX my balance was around XXXX on one card and they lowered the limit on both cards. I called them and they stated based on credit. credit was never pulled and in fact my scores increased to over XXXX. I don't have any delinquencies or blemishes on my credit. my scores are high because my balances are not maxed out. I'm very cognoscente of my credit because of what i do for a living. I particular use this card because it give me airline points for free tickets. I believe that the mere fact that I requested a cash advance alerted them to assume that there is financial difficulty, and they lowered my balances which has now affected my score. lowering my limit to my actual balance dropped my score XXXX points because it looks like I now have two cards maxed out. You can not offer the benefit to a customer cash advance and the minute they want to use that benefit you flag them. I want my limit increased back to where it was to increase my score. they can also close my account but increase my limit so my score is back where it was. i do not wish to use them or patronize them any longer. this is not the type of business tactics I want to be associated with. I have found that they have done this to several people and there's no recourse. it's not fair that they drew me in with the benefits and as soon as i tried to use them im penalized. they have no proof that my credit was a factor because my credit is excellent, well was since they lowered my limit and score has been affected",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "197XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "I am a XXXX and I requested a pin for a cash advance. Once they received notification of that request I get an email that they lowered my limit from {$20000.00} to XXXX my balance was around XXXX on one card and they lowered the limit on both cards. I called them and they stated based on credit. credit was never pulled and in fact my scores increased to over XXXX. I don't have any delinquencies or blemishes on my credit. my scores are high because my balances are not maxed out. I'm very cognoscente of my credit because of what i do for a living. I particular use this card because it give me airline points for free tickets. I believe that the mere fact that I requested a cash advance alerted them to assume that there is financial difficulty, and they lowered my balances which has now affected my score. lowering my limit to my actual balance dropped my score XXXX points because it looks like I now have two cards maxed out. You can not offer the benefit to a customer cash advance and the minute they want to use that benefit you flag them. I want my limit increased back to where it was to increase my score. they can also close my account but increase my limit so my score is back where it was. i do not wish to use them or patronize them any longer. this is not the type of business tactics I want to be associated with. I have found that they have done this to several people and there's no recourse. it's not fair that they drew me in with the benefits and as soon as i tried to use them im penalized. they have no proof that my credit was a factor because my credit is excellent, well was since they lowered my limit and score has been affected"
+}
+
+Chunk:
+i am a xxxx and i requested a pin for a cash advance. once they received notification of that request i get an email that they lowered my limit from { $ 20000. 00 } to xxxx my balance was around xxxx on one card and they lowered the limit on both cards. i called them and they stated based on credit. credit was never pulled and in fact my scores increased to over xxxx. i don't have any delinquencies or blemishes on my credit. my scores are high because my balances are not maxed out. i'm very cognoscente of my credit because of what i do for a living. i particular use this card because it give me airline points for free tickets. i believe that the mere fact that i requested a cash advance alerted them to assume that there is financial difficulty, and they lowered my balances which has now affected my score. lowering my limit to my actual balance dropped my score xxxx points because it looks like i now have two cards maxed out. you can not offer the benefit to a customer cash advance and the minute they want to use that benefit you flag them. i want my limit increased back to where it was to increase my score. they can also close my account but increase my limit so my score is back where it was. i do not wish to use them or patronize them any longer. this is not the type of business tactics i want to be associated with. i have found that they have done this to several people and there's no recourse. it's not fair that they drew me in with the benefits and as soon as i tried to use them im penalized. they have no proof that my credit was a factor because my credit is excellent, well was since they lowered my limit and score has been affected
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9962277412414551
+}

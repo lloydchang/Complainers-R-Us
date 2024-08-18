@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9129739,
+  "complaint_id": "9129739",
+  "product": "Credit card",
+  "complaint_what_happened": "Given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. I kindly request the prompt updating of my account to accurately reflect this history.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "761XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "Given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. I kindly request the prompt updating of my account to accurately reflect this history."
+}
+
+Chunk:
+given my consistent track record of meeting payment deadlines for this account without any delays, it's unjustifiable for me to face such issues. i kindly request the prompt updating of my account to accurately reflect this history.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.956916093826294
+}

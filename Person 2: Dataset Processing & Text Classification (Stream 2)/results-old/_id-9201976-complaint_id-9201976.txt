@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9201976,
+  "complaint_id": "9201976",
+  "product": "Credit card",
+  "complaint_what_happened": "Called Citibank MasterCard and told them somebody stole my credit card number and charged a bunch of items up to {$17000.00} in the state of Florida. I live in XXXX California and have actual possession of the physical card. Citibank is researching the fraud",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "93001",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Called Citibank MasterCard and told them somebody stole my credit card number and charged a bunch of items up to {$17000.00} in the state of Florida. I live in XXXX California and have actual possession of the physical card. Citibank is researching the fraud"
+}
+
+Chunk:
+called citibank mastercard and told them somebody stole my credit card number and charged a bunch of items up to { $ 17000. 00 } in the state of florida. i live in xxxx california and have actual possession of the physical card. citibank is researching the fraud
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947454929351807
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085040,
+  "complaint_id": "9085040",
+  "product": "Credit card",
+  "complaint_what_happened": "NETSPEND is a fraudulent company, which sells \" reloadable debit cards '' at locations such as XXXX XXXX and other big box retailers.\n\nThe card is promoted as a \" reloadable card '' which would be highly convenient for business owners, such as myself, who have people on the road for extended trips. They could use the card to pay for gas and meals. This eliminates my need to provide them with \" credit cards. '' It allows me to control spending. Unfortunately, after loading the card with funds ( maximum of {$500.00} ), the features of the card being promoted are not available. Ex : The website offers a \" bank transfer '' as a loading option, but it is not actually available. After a protracted struggle to get a human on the phone, they will tell you the bank transfer feature is no longer available. The only remaining method of loading money is to have the card, in person, at a gas station, who will charge you an additional fee ( in addition to the NetSpend fees ). This defeats the entire purpose of the card- in which you can remotely load the card for your staff on the road. This company also charges a {$1.00} for every transaction, which means just trying to remove the money from the card is going to cost me additional fess. This is the game. They have promised to make a service available, charge you fees and then make the core feature of the card unavailable.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "50322",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "Neon Newco Corporation",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "IA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "NETSPEND is a fraudulent company, which sells \" reloadable debit cards '' at locations such as XXXX XXXX and other big box retailers.\n\nThe card is promoted as a \" reloadable card '' which would be highly convenient for business owners, such as myself, who have people on the road for extended trips. They could use the card to pay for gas and meals. This eliminates my need to provide them with \" credit cards. '' It allows me to control spending. Unfortunately, after loading the card with funds ( maximum of {$500.00} ), the features of the card being promoted are not available. Ex : The website offers a \" bank transfer '' as a loading option, but it is not actually available. After a protracted struggle to get a human on the phone, they will tell you the bank transfer feature is no longer available. The only remaining method of loading money is to have the card, in person, at a gas station, who will charge you an additional fee ( in addition to the NetSpend fees ). This defeats the entire purpose of the card- in which you can remotely load the card for your staff on the road. This company also charges a {$1.00} for every transaction, which means just trying to remove the money from the card is going to cost me additional fess. This is the game. They have promised to make a service available, charge you fees and then make the core feature of the card unavailable."
+}
+
+Chunk:
+netspend is a fraudulent company, which sells " reloadable debit cards'' at locations such as xxxx xxxx and other big box retailers. the card is promoted as a " reloadable card'' which would be highly convenient for business owners, such as myself, who have people on the road for extended trips. they could use the card to pay for gas and meals. this eliminates my need to provide them with " credit cards.'' it allows me to control spending. unfortunately, after loading the card with funds ( maximum of { $ 500. 00 } ), the features of the card being promoted are not available. ex : the website offers a " bank transfer'' as a loading option, but it is not actually available. after a protracted struggle to get a human on the phone, they will tell you the bank transfer feature is no longer available. the only remaining method of loading money is to have the card, in person, at a gas station, who will charge you an additional fee ( in addition to the netspend fees ). this defeats the entire purpose of the card - in which you can remotely load the card for your staff on the road. this company also charges a { $ 1. 00 } for every transaction, which means just trying to remove the money from the card is going to cost me additional fess. this is the game. they have promised to make a service available, charge you fees and then make the core feature of the card unavailable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997640252113342
+}

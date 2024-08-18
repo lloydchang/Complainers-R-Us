@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9124792,
+  "complaint_id": "9124792",
+  "product": "Credit card",
+  "complaint_what_happened": "Late notations on my account have never been a common occurrence as I am a responsible and punctual payer. I kindly request your understanding regarding the late remarks on my report, and I am committed to settling them as agreed. I aim to clear all the late remarks on my report, and I am eager to maintain a positive record with you.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46410",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "Late notations on my account have never been a common occurrence as I am a responsible and punctual payer. I kindly request your understanding regarding the late remarks on my report, and I am committed to settling them as agreed. I aim to clear all the late remarks on my report, and I am eager to maintain a positive record with you."
+}
+
+Chunk:
+late notations on my account have never been a common occurrence as i am a responsible and punctual payer. i kindly request your understanding regarding the late remarks on my report, and i am committed to settling them as agreed. i aim to clear all the late remarks on my report, and i am eager to maintain a positive record with you.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9980055689811707
+}

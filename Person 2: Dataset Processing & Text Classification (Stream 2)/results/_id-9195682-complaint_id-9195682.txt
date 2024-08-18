@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195682,
+  "complaint_id": "9195682",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I called XXXX and I spoke with Citibank by phone to request that my account be closed. The representative spent a lot of time on the call to try to convince me to keep my account open, but switch to a different credit card product with Citibank. I explained multiple times that I simply don't use my account, and have no need for the credit line. \nThe representative claimed to have closed my account ending in XXXX, Citi/AAdvantage Platinum Select credit card account ( image of my card attached ). The representative confirmed that my account balance was {$0.00}. I requested a letter to be mailed to my home confirming that my account was closed, and the representative said that I would get XXXX. \n\nThat did not happen. What did happen is that on XX/XX/year> I received a letter from Citibank dated XX/XX/year> ( attached ) which included my Card Agreement and a Fact Sheet about my AAdvantage Platinum Select account. How could my account be closed if I have received this? So, I called Citibank on XX/XX/year> to ask. The representative I spoke with told me that my account was closed. \n\nNow, on XX/XX/year>, I receive a letter from Citibank dated XX/XX/year> ( attached ), stating that in XXXX my new physical card \" took longer than expected to arrive '', and they don't want me to miss out on my bonus offer, so they want to give me another chance to meet my spend requirement. Again, How could my account be closed of I am getting this letter? \n\nI believe that Citibank 's practices are unfair, deceptive, and abusive. \n\nI want to close my account with Citibank. \nI want written confirmation from them that it is closed. I want them to correct the credit reporting for XXXX. \nI want compensation in the amount of {$750.00} to cover the time that I have spent to resolve this issue.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43229",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "On XX/XX/year>, I called XXXX and I spoke with Citibank by phone to request that my account be closed. The representative spent a lot of time on the call to try to convince me to keep my account open, but switch to a different credit card product with Citibank. I explained multiple times that I simply don't use my account, and have no need for the credit line. \nThe representative claimed to have closed my account ending in XXXX, Citi/AAdvantage Platinum Select credit card account ( image of my card attached ). The representative confirmed that my account balance was {$0.00}. I requested a letter to be mailed to my home confirming that my account was closed, and the representative said that I would get XXXX. \n\nThat did not happen. What did happen is that on XX/XX/year> I received a letter from Citibank dated XX/XX/year> ( attached ) which included my Card Agreement and a Fact Sheet about my AAdvantage Platinum Select account. How could my account be closed if I have received this? So, I called Citibank on XX/XX/year> to ask. The representative I spoke with told me that my account was closed. \n\nNow, on XX/XX/year>, I receive a letter from Citibank dated XX/XX/year> ( attached ), stating that in XXXX my new physical card \" took longer than expected to arrive '', and they don't want me to miss out on my bonus offer, so they want to give me another chance to meet my spend requirement. Again, How could my account be closed of I am getting this letter? \n\nI believe that Citibank 's practices are unfair, deceptive, and abusive. \n\nI want to close my account with Citibank. \nI want written confirmation from them that it is closed. I want them to correct the credit reporting for XXXX. \nI want compensation in the amount of {$750.00} to cover the time that I have spent to resolve this issue."
+}
+
+Chunk:
+on xx / xx / year >, i called xxxx and i spoke with citibank by phone to request that my account be closed. the representative spent a lot of time on the call to try to convince me to keep my account open, but switch to a different credit card product with citibank. i explained multiple times that i simply don't use my account, and have no need for the credit line. the representative claimed to have closed my account ending in xxxx, citi / aadvantage platinum select credit card account ( image of my card attached ). the representative confirmed that my account balance was { $ 0. 00 }. i requested a letter to be mailed to my home confirming that my account was closed, and the representative said that i would get xxxx. that did not happen. what did happen is that on xx / xx / year > i received a letter from citibank dated xx / xx / year > ( attached ) which included my card agreement and a fact sheet about my aadvantage platinum select account. how could my account be closed if i have received this? so, i called citibank on xx / xx / year > to ask. the representative i spoke with told me that my account was closed. now, on xx / xx / year >, i receive a letter from citibank dated xx / xx / year > ( attached ), stating that in xxxx my new physical card " took longer than expected to arrive'', and they don't want me to miss out on my bonus offer, so they want to give me another chance to meet my spend requirement. again, how could my account be closed of i am getting this letter? i believe that citibank's practices are unfair, deceptive, and abusive. i want to close my account with citibank. i want written confirmation from them that it is closed. i want them to correct the credit reporting for xxxx. i want compensation in the amount of { $ 750. 00 } to cover the time that i have spent to resolve this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975201487541199
+}

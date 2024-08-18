@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9224102,
+  "complaint_id": "9224102",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an alert from a credit monitoring service. Advising that I had a 'Hard Inquiry ' and later date a notification for a credit card.\n\nI have not attempted to open a new credit card at all in recent months. I've also noticed a number of 'soft inquires ' None of which are things I've done.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19464",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I received an alert from a credit monitoring service. Advising that I had a 'Hard Inquiry ' and later date a notification for a credit card.\n\nI have not attempted to open a new credit card at all in recent months. I've also noticed a number of 'soft inquires ' None of which are things I've done."
+}
+
+Chunk:
+i received an alert from a credit monitoring service. advising that i had a'hard inquiry'and later date a notification for a credit card. i have not attempted to open a new credit card at all in recent months. i've also noticed a number of'soft inquires'none of which are things i've done.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973021745681763
+}

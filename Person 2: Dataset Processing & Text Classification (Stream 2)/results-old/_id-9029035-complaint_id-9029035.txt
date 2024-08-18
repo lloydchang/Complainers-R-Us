@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029035,
+  "complaint_id": "9029035",
+  "product": "Credit card",
+  "complaint_what_happened": "My issue is two-fold : 1 ) The interest rate was raised to XXXX %!!!!! This is ABSURD on an account with a {$200.00} minimum!\n\n2 ) The company is now going to charge {$4.00} for people who opt NOT to get email statements, continue getting paper statements. \nThere has been extensive discussion on the media about credit card issues, including excessive interest, and additional fees. \n\nA local retailer ( Nebraska XXXX XXXX ) is offering XXXX  % next purchase if a person opts IN to receive statements via email, not by paper. \n\nI just had my email compromised and had to set up a whole new account, losing my old files, so am very distrustful of getting important information via email. \n\nPLEASE, PLEASE help us get out of this horrible loop of debt, instead of adding more and more fees!!!!! \n\nThank you. XXXX XXXX",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "681XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "My issue is two-fold : 1 ) The interest rate was raised to XXXX %!!!!! This is ABSURD on an account with a {$200.00} minimum!\n\n2 ) The company is now going to charge {$4.00} for people who opt NOT to get email statements, continue getting paper statements. \nThere has been extensive discussion on the media about credit card issues, including excessive interest, and additional fees. \n\nA local retailer ( Nebraska XXXX XXXX ) is offering XXXX  % next purchase if a person opts IN to receive statements via email, not by paper. \n\nI just had my email compromised and had to set up a whole new account, losing my old files, so am very distrustful of getting important information via email. \n\nPLEASE, PLEASE help us get out of this horrible loop of debt, instead of adding more and more fees!!!!! \n\nThank you. XXXX XXXX"
+}
+
+Chunk:
+my issue is two - fold : 1 ) the interest rate was raised to xxxx %!!!!! this is absurd on an account with a { $ 200. 00 } minimum! 2 ) the company is now going to charge { $ 4. 00 } for people who opt not to get email statements, continue getting paper statements. there has been extensive discussion on the media about credit card issues, including excessive interest, and additional fees. a local retailer ( nebraska xxxx xxxx ) is offering xxxx % next purchase if a person opts in to receive statements via email, not by paper. i just had my email compromised and had to set up a whole new account, losing my old files, so am very distrustful of getting important information via email. please, please help us get out of this horrible loop of debt, instead of adding more and more fees!!!!! thank you. xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991061091423035
+}

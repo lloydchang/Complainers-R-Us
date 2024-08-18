@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9186657,
+  "complaint_id": "9186657",
+  "product": "Credit card",
+  "complaint_what_happened": "I was trying to reschedule a flight with XXXX XXXX that I booked through Chase Travel. On the XXXX XXXX website, it was free for rescheduling, but since I booked through Chase, I needed to contact Chase so they could reschedule for me. \nChase Travel customer service told me that I could only reschedule it for a penalty as well as the differences between two flights. I'm very dissatisfied that Chase Travel doesn't honor the airline company 's policy and instead tried to charge the customers as much as possible.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94127",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "I was trying to reschedule a flight with XXXX XXXX that I booked through Chase Travel. On the XXXX XXXX website, it was free for rescheduling, but since I booked through Chase, I needed to contact Chase so they could reschedule for me. \nChase Travel customer service told me that I could only reschedule it for a penalty as well as the differences between two flights. I'm very dissatisfied that Chase Travel doesn't honor the airline company 's policy and instead tried to charge the customers as much as possible."
+}
+
+Chunk:
+i was trying to reschedule a flight with xxxx xxxx that i booked through chase travel. on the xxxx xxxx website, it was free for rescheduling, but since i booked through chase, i needed to contact chase so they could reschedule for me. chase travel customer service told me that i could only reschedule it for a penalty as well as the differences between two flights. i'm very dissatisfied that chase travel doesn't honor the airline company's policy and instead tried to charge the customers as much as possible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995543360710144
+}

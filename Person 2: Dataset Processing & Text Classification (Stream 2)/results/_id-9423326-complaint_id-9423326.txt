@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9423326,
+  "complaint_id": "9423326",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a victim of banking fraud. Someone duplicated my card and was able to drain my funds. I filed a honest clown with Wells Fargo and they refused to honestly investigate my claim, instead WF pointed the finger at me claiming I allowed whoever to charge on my act which is totally unacceptable. WF has a history of abusing its customers so obviously WF continues to have the same reputation. WF has taken all my money away from Me failed to honestly investigate my claim leaving me with no other option other then to move my direct deposit into another bank. WF has damaged my life and my credit. I hope someday WF will be happy to answer all its abuse to our creator who will judge. Wells Fargo thank you for telling me that XXXX. and the sky is green and grass is blue.",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I am a victim of banking fraud. Someone duplicated my card and was able to drain my funds. I filed a honest clown with Wells Fargo and they refused to honestly investigate my claim, instead WF pointed the finger at me claiming I allowed whoever to charge on my act which is totally unacceptable. WF has a history of abusing its customers so obviously WF continues to have the same reputation. WF has taken all my money away from Me failed to honestly investigate my claim leaving me with no other option other then to move my direct deposit into another bank. WF has damaged my life and my credit. I hope someday WF will be happy to answer all its abuse to our creator who will judge. Wells Fargo thank you for telling me that XXXX. and the sky is green and grass is blue."
+}
+
+Chunk:
+i am a victim of banking fraud. someone duplicated my card and was able to drain my funds. i filed a honest clown with wells fargo and they refused to honestly investigate my claim, instead wf pointed the finger at me claiming i allowed whoever to charge on my act which is totally unacceptable. wf has a history of abusing its customers so obviously wf continues to have the same reputation. wf has taken all my money away from me failed to honestly investigate my claim leaving me with no other option other then to move my direct deposit into another bank. wf has damaged my life and my credit. i hope someday wf will be happy to answer all its abuse to our creator who will judge. wells fargo thank you for telling me that xxxx. and the sky is green and grass is blue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961417317390442
+}

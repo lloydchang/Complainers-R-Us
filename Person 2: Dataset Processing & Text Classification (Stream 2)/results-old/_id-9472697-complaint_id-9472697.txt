@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9472697,
+  "complaint_id": "9472697",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi Bank offered me a XXXX XXXX XXXX for purchases and balance transfers, along as XXXX dollars cash back after I spent XXXX on card which I never got. I called was hanged up on the phone XXXX  times. I got card in XXXX, and noticed last month I was getting charge interest. \nI would appricate any assistance. This is false advertisment.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07002",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Citi Bank offered me a XXXX XXXX XXXX for purchases and balance transfers, along as XXXX dollars cash back after I spent XXXX on card which I never got. I called was hanged up on the phone XXXX  times. I got card in XXXX, and noticed last month I was getting charge interest. \nI would appricate any assistance. This is false advertisment."
+}
+
+Chunk:
+citi bank offered me a xxxx xxxx xxxx for purchases and balance transfers, along as xxxx dollars cash back after i spent xxxx on card which i never got. i called was hanged up on the phone xxxx times. i got card in xxxx, and noticed last month i was getting charge interest. i would appricate any assistance. this is false advertisment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981175661087036
+}

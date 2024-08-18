@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9019741,
+  "complaint_id": "9019741",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/XXXX Capital One advised that my credit card was compromised and they would issue a new card. Never heard from them or received a new card .At that time we had a rewards balance of {$270.00} .In XX/XX/XXXX received a letter of condolences on my death. \nImmediately informed them Im very much alive. For the past 4 months and literally hours on the phone its been a gong show. Now I received a statement saying I owe {$410.00} which of course is not true. From one of the many conversations, the agent said it appears when I supposedly died they took the rewards from me. Agent said they would rectify and reverse the mistake. 3 more weeks nothing .Then to add insult to injury they sent a cheque on XX/XX/XXXX for XXXX CENTS! Ive had apologys, case files started, promises etc. Im XXXX XXXX XXXX and I feel like Ive aged 10 years. Worst experience with a credit card company in my life .As I said I havent had a credit card since XX/XX/XXXX. \nBecause this has gone on for so long and they falsely accused me of being dead so they could take away my rewards, is this not fraud.? \nIt really appears that because they have lied and promised to rectify the problem, that they are just trying to hope I go away. \nCapital One must have one of most complaints of any company Who sends a cheque for XXXX cents Thanks XXXX XXXX",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": null,
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "In XX/XX/XXXX Capital One advised that my credit card was compromised and they would issue a new card. Never heard from them or received a new card .At that time we had a rewards balance of {$270.00} .In XX/XX/XXXX received a letter of condolences on my death. \nImmediately informed them Im very much alive. For the past 4 months and literally hours on the phone its been a gong show. Now I received a statement saying I owe {$410.00} which of course is not true. From one of the many conversations, the agent said it appears when I supposedly died they took the rewards from me. Agent said they would rectify and reverse the mistake. 3 more weeks nothing .Then to add insult to injury they sent a cheque on XX/XX/XXXX for XXXX CENTS! Ive had apologys, case files started, promises etc. Im XXXX XXXX XXXX and I feel like Ive aged 10 years. Worst experience with a credit card company in my life .As I said I havent had a credit card since XX/XX/XXXX. \nBecause this has gone on for so long and they falsely accused me of being dead so they could take away my rewards, is this not fraud.? \nIt really appears that because they have lied and promised to rectify the problem, that they are just trying to hope I go away. \nCapital One must have one of most complaints of any company Who sends a cheque for XXXX cents Thanks XXXX XXXX"
+}
+
+Chunk:
+in xx / xx / xxxx capital one advised that my credit card was compromised and they would issue a new card. never heard from them or received a new card. at that time we had a rewards balance of { $ 270. 00 }. in xx / xx / xxxx received a letter of condolences on my death. immediately informed them im very much alive. for the past 4 months and literally hours on the phone its been a gong show. now i received a statement saying i owe { $ 410. 00 } which of course is not true. from one of the many conversations, the agent said it appears when i supposedly died they took the rewards from me. agent said they would rectify and reverse the mistake. 3 more weeks nothing. then to add insult to injury they sent a cheque on xx / xx / xxxx for xxxx cents! ive had apologys, case files started, promises etc. im xxxx xxxx xxxx and i feel like ive aged 10 years. worst experience with a credit card company in my life. as i said i havent had a credit card since xx / xx / xxxx. because this has gone on for so long and they falsely accused me of being dead so they could take away my rewards, is this not fraud.? it really appears that because they have lied and promised to rectify the problem, that they are just trying to hope i go away. capital one must have one of most complaints of any company who sends a cheque for xxxx cents thanks xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992701411247253
+}

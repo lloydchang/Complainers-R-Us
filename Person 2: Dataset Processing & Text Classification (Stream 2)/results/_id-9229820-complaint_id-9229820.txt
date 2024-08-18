@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9229820,
+  "complaint_id": "9229820",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/2023, I enrolled in a service called XXXX XXXX by Tomo Credit, which promised to help improve my credit score by consolidating payments for utilities, rent, and car loans and reporting them to the three major credit bureaus. The service was initially priced at {$8.00} per month, but without my consent, the fee was increased to {$79.00} per month. Despite the high fee, no improvement in my credit score was reported as promised.\n\nI have attempted multiple times to cancel my membership and unlink my bank accounts and credit card information from their service without success. Additionally, despite numerous emails to their customer service and executive team, I have received no response or assistance. This lack of support and unauthorized fee increase has led to unnecessary charges without the delivery of the promised services.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98116",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TomoCredit Inc.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "In XX/XX/2023, I enrolled in a service called XXXX XXXX by Tomo Credit, which promised to help improve my credit score by consolidating payments for utilities, rent, and car loans and reporting them to the three major credit bureaus. The service was initially priced at {$8.00} per month, but without my consent, the fee was increased to {$79.00} per month. Despite the high fee, no improvement in my credit score was reported as promised.\n\nI have attempted multiple times to cancel my membership and unlink my bank accounts and credit card information from their service without success. Additionally, despite numerous emails to their customer service and executive team, I have received no response or assistance. This lack of support and unauthorized fee increase has led to unnecessary charges without the delivery of the promised services."
+}
+
+Chunk:
+in xx / xx / 2023, i enrolled in a service called xxxx xxxx by tomo credit, which promised to help improve my credit score by consolidating payments for utilities, rent, and car loans and reporting them to the three major credit bureaus. the service was initially priced at { $ 8. 00 } per month, but without my consent, the fee was increased to { $ 79. 00 } per month. despite the high fee, no improvement in my credit score was reported as promised. i have attempted multiple times to cancel my membership and unlink my bank accounts and credit card information from their service without success. additionally, despite numerous emails to their customer service and executive team, i have received no response or assistance. this lack of support and unauthorized fee increase has led to unnecessary charges without the delivery of the promised services.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997605681419373
+}

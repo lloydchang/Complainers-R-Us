@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9070588,
+  "complaint_id": "9070588",
+  "product": "Credit card",
+  "complaint_what_happened": "I continue to dispute this account on my credit report and it seems like there not doing due diligence to the consumer, they obviously take the fraudulent company word for everything. I closed this account on my own still being charged late fees, I have made three {$40.00} payments and payment for {$120.00}. The card limit is only XXXX XXXX dollars if the job was getting done correctly with the dispute they would see they forgave {$60.00} returned payment fee which obviously wasn't credited because they are still including it",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I continue to dispute this account on my credit report and it seems like there not doing due diligence to the consumer, they obviously take the fraudulent company word for everything. I closed this account on my own still being charged late fees, I have made three {$40.00} payments and payment for {$120.00}. The card limit is only XXXX XXXX dollars if the job was getting done correctly with the dispute they would see they forgave {$60.00} returned payment fee which obviously wasn't credited because they are still including it"
+}
+
+Chunk:
+i continue to dispute this account on my credit report and it seems like there not doing due diligence to the consumer, they obviously take the fraudulent company word for everything. i closed this account on my own still being charged late fees, i have made three { $ 40. 00 } payments and payment for { $ 120. 00 }. the card limit is only xxxx xxxx dollars if the job was getting done correctly with the dispute they would see they forgave { $ 60. 00 } returned payment fee which obviously wasn't credited because they are still including it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993337988853455
+}

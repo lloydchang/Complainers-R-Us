@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9036138,
+  "complaint_id": "9036138",
+  "product": "Credit card",
+  "complaint_what_happened": "I have always paid this account on time, avoiding any overdue payments. I don't understand why there are late payment remarks on my accounts. Per 15 USC 1666b, billing errors must be corrected.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "191XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "I have always paid this account on time, avoiding any overdue payments. I don't understand why there are late payment remarks on my accounts. Per 15 USC 1666b, billing errors must be corrected."
+}
+
+Chunk:
+i have always paid this account on time, avoiding any overdue payments. i don't understand why there are late payment remarks on my accounts. per 15 usc 1666b, billing errors must be corrected.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9965124726295471
+}

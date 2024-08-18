@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9595923,
+  "complaint_id": "9595923",
+  "product": "Credit card",
+  "complaint_what_happened": "I was out of the country almost 3 years. I just returned back receive a email a couple months ago but did not realize what was going on until XX/XX/year> when I started to read what the email I got from XXXX XXXX XXXX on XX/XX/year> stated some of my information gotten out so I started to investigate what was going on and see, XXXX accounts was open in my name an i see 34 hard inquiries in my name an I start to contact the credit bureaus to dispute. fraudulent item XXXX XXXX XXXX XXXX was not helpful to resolve. This matter XXXX and XXXX is investigated in it. I do not know what going to be the outcomes of it my next option is to file a civil lawsuit against these three credit bureaus because they are responsible to protect my identity. I put a freeze on my account and alert any inquiries that come in they must contact me none of these company never contacted me and XXXX XXXX XXXX, and XXXX, help these fraudulent people to create an account they must be hold accountable for their actions I have called XXXX bank many times about this Home Depot credit card. Ask them information about it. I submitted at dispute on here three times Citibank refuse. to call or give explanation or give information about this account I will have to take legal action against Citibank for fraud if it has been coming to this",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "10469",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I was out of the country almost 3 years. I just returned back receive a email a couple months ago but did not realize what was going on until XX/XX/year> when I started to read what the email I got from XXXX XXXX XXXX on XX/XX/year> stated some of my information gotten out so I started to investigate what was going on and see, XXXX accounts was open in my name an i see 34 hard inquiries in my name an I start to contact the credit bureaus to dispute. fraudulent item XXXX XXXX XXXX XXXX was not helpful to resolve. This matter XXXX and XXXX is investigated in it. I do not know what going to be the outcomes of it my next option is to file a civil lawsuit against these three credit bureaus because they are responsible to protect my identity. I put a freeze on my account and alert any inquiries that come in they must contact me none of these company never contacted me and XXXX XXXX XXXX, and XXXX, help these fraudulent people to create an account they must be hold accountable for their actions I have called XXXX bank many times about this Home Depot credit card. Ask them information about it. I submitted at dispute on here three times Citibank refuse. to call or give explanation or give information about this account I will have to take legal action against Citibank for fraud if it has been coming to this"
+}
+
+Chunk:
+i was out of the country almost 3 years. i just returned back receive a email a couple months ago but did not realize what was going on until xx / xx / year > when i started to read what the email i got from xxxx xxxx xxxx on xx / xx / year > stated some of my information gotten out so i started to investigate what was going on and see, xxxx accounts was open in my name an i see 34 hard inquiries in my name an i start to contact the credit bureaus to dispute. fraudulent item xxxx xxxx xxxx xxxx was not helpful to resolve. this matter xxxx and xxxx is investigated in it. i do not know what going to be the outcomes of it my next option is to file a civil lawsuit against these three credit bureaus because they are responsible to protect my identity. i put a freeze on my account and alert any inquiries that come in they must contact me none of these company never contacted me and xxxx xxxx xxxx, and xxxx, help these fraudulent people to create an account they must be hold accountable for their actions i have called xxxx bank many times about this home depot credit card. ask them information about it. i submitted at dispute on here three times citibank refuse. to call or give explanation or give information about this account i will have to take legal action against citibank for fraud if it has been coming to this
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995191097259521
+}

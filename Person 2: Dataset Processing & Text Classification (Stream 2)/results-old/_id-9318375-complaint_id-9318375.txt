@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9318375,
+  "complaint_id": "9318375",
+  "product": "Credit card",
+  "complaint_what_happened": "I have submitted a complaint ID XXXX. Following up as I missed their attempt to call, which seems to be a disingenuous attempt to contact me. I called back within XXXX minutes, then for a few days after all within the business day. They direct me straight to a voicemail. I have no interest in getting a phone call then having my time wasted trying to get in contact through their voicemail. I do have interest in them just emailing back to show the numbers they used to apply this interest. I would also like them to state where my money has been applied. They have misapplied a payment to a lower apr account before the higher apr accounts and I have had to pay interest.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "060XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I have submitted a complaint ID XXXX. Following up as I missed their attempt to call, which seems to be a disingenuous attempt to contact me. I called back within XXXX minutes, then for a few days after all within the business day. They direct me straight to a voicemail. I have no interest in getting a phone call then having my time wasted trying to get in contact through their voicemail. I do have interest in them just emailing back to show the numbers they used to apply this interest. I would also like them to state where my money has been applied. They have misapplied a payment to a lower apr account before the higher apr accounts and I have had to pay interest."
+}
+
+Chunk:
+i have submitted a complaint id xxxx. following up as i missed their attempt to call, which seems to be a disingenuous attempt to contact me. i called back within xxxx minutes, then for a few days after all within the business day. they direct me straight to a voicemail. i have no interest in getting a phone call then having my time wasted trying to get in contact through their voicemail. i do have interest in them just emailing back to show the numbers they used to apply this interest. i would also like them to state where my money has been applied. they have misapplied a payment to a lower apr account before the higher apr accounts and i have had to pay interest.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999446451663971
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9117449,
+  "complaint_id": "9117449",
+  "product": "Credit card",
+  "complaint_what_happened": "Around XX/XX/year>, XXXX XXXX XXXX placed a debit collection on my credit report ( which they shouldn't have ). AFTER REMOVEING IT. EQUIFAX DID SOMETHING to making my credit score go down and all my loan amounts on my cards were lowered. \n\nEQUIFAX is trying not to address the issue of the wrong EQUIFAX has done by trying to put it on XXXX XXXX is not reporting the negative on my credit report ( that has been long removed before EQUIFAX did whatever EQUFIAX DID to bring down my credit score and limits on my credit cards ). \n\nXXXX XXXX is only being mentioned because it was right after when EQUIHFAX PUT WHATEVER EQUFIAX PUT ON MY CREDIT REPOURT THAT MADE MY CREDIT SCORE AND LIMITS GET LOWERED.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "300XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "Around XX/XX/year>, XXXX XXXX XXXX placed a debit collection on my credit report ( which they shouldn't have ). AFTER REMOVEING IT. EQUIFAX DID SOMETHING to making my credit score go down and all my loan amounts on my cards were lowered. \n\nEQUIFAX is trying not to address the issue of the wrong EQUIFAX has done by trying to put it on XXXX XXXX is not reporting the negative on my credit report ( that has been long removed before EQUIFAX did whatever EQUFIAX DID to bring down my credit score and limits on my credit cards ). \n\nXXXX XXXX is only being mentioned because it was right after when EQUIHFAX PUT WHATEVER EQUFIAX PUT ON MY CREDIT REPOURT THAT MADE MY CREDIT SCORE AND LIMITS GET LOWERED."
+}
+
+Chunk:
+around xx / xx / year >, xxxx xxxx xxxx placed a debit collection on my credit report ( which they shouldn't have ). after removeing it. equifax did something to making my credit score go down and all my loan amounts on my cards were lowered. equifax is trying not to address the issue of the wrong equifax has done by trying to put it on xxxx xxxx is not reporting the negative on my credit report ( that has been long removed before equifax did whatever equfiax did to bring down my credit score and limits on my credit cards ). xxxx xxxx is only being mentioned because it was right after when equihfax put whatever equfiax put on my credit repourt that made my credit score and limits get lowered.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992493987083435
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045097,
+  "complaint_id": "9045097",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a promotion on this card of 0 % interest until XXXX. I was making payments on a large charge of $ XXXX which was more than the minimum required to pay it off before interest accrued. I did not use the card at all besides one other purchase recently, which I paid off immediately. However, the company then removed the 0 % interest and did not apply my payment to the new charge. Then without warning the company began charging interest on what was supposed to be interest-free until XXXX. I tried calling and had to go through XXXX voice prompts to finally get to a human, but could not get anyone to listen and they claim there's nothing they can do, which is bogus.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28806",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I had a promotion on this card of 0 % interest until XXXX. I was making payments on a large charge of $ XXXX which was more than the minimum required to pay it off before interest accrued. I did not use the card at all besides one other purchase recently, which I paid off immediately. However, the company then removed the 0 % interest and did not apply my payment to the new charge. Then without warning the company began charging interest on what was supposed to be interest-free until XXXX. I tried calling and had to go through XXXX voice prompts to finally get to a human, but could not get anyone to listen and they claim there's nothing they can do, which is bogus."
+}
+
+Chunk:
+i had a promotion on this card of 0 % interest until xxxx. i was making payments on a large charge of $ xxxx which was more than the minimum required to pay it off before interest accrued. i did not use the card at all besides one other purchase recently, which i paid off immediately. however, the company then removed the 0 % interest and did not apply my payment to the new charge. then without warning the company began charging interest on what was supposed to be interest - free until xxxx. i tried calling and had to go through xxxx voice prompts to finally get to a human, but could not get anyone to listen and they claim there's nothing they can do, which is bogus.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996252059936523
+}

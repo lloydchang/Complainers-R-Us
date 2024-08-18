@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9056946,
+  "complaint_id": "9056946",
+  "product": "Credit card",
+  "complaint_what_happened": "I did two balance transfers from citi card to XXXX cards to two of my accounts at XXXX on XX/XX/2024. One was XXXX and one was XXXX XXXX XXXX. They never arrived at the XXXX cards, so I contacted Citi multiple times, finding out that Citi sent the checks to the wrong account numbers. \n\nThe account numbers listed on the checks are similar to mine but not correct. I asked Citi to fix this and they said they would, but didn't. Citi finally sent me copies of the checks they sent, showing XXXX cashed them both on XX/XX/2024, but to two incorrect account numbers. Citi told me to contact XXXX and have them find the checks and apply them to my correct accounts. \n\nI contacted XXXX and sent them the copies of the checks via fax. They looked into it and found that those incorrect account numbers did not exist, so they said that the checks were denied and sent back to Citi. They could not apply them to my accounts as they had already sent them back to Citi. \n\nXXXX said that since those account numbers did not exist, those two checks were denied and sent back to citi. \n\nCiti needs to find the returned checks and apply the amounts back to my account. I am currently owing nearly XXXX dollars that has gone NOWHERE. It needs to be fixed, asap. \n\nI have talked to Citi several times and they have not been able to fix this yet. \n\nI've attached copies of the checks which were sent to incorrect account numbers. The incorrect account numbers are on the checks. Again, these accounts do not exist at all. XXXX denied the checks and sent them back to Citi. \n\nThe correct account numbers are : For the {$1000.00} check XXXX XXXX XXXX XXXX For the {$1700.00} check XXXX XXXX XXXX XXXX The card at Citi that is in question is XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70634",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "I did two balance transfers from citi card to XXXX cards to two of my accounts at XXXX on XX/XX/2024. One was XXXX and one was XXXX XXXX XXXX. They never arrived at the XXXX cards, so I contacted Citi multiple times, finding out that Citi sent the checks to the wrong account numbers. \n\nThe account numbers listed on the checks are similar to mine but not correct. I asked Citi to fix this and they said they would, but didn't. Citi finally sent me copies of the checks they sent, showing XXXX cashed them both on XX/XX/2024, but to two incorrect account numbers. Citi told me to contact XXXX and have them find the checks and apply them to my correct accounts. \n\nI contacted XXXX and sent them the copies of the checks via fax. They looked into it and found that those incorrect account numbers did not exist, so they said that the checks were denied and sent back to Citi. They could not apply them to my accounts as they had already sent them back to Citi. \n\nXXXX said that since those account numbers did not exist, those two checks were denied and sent back to citi. \n\nCiti needs to find the returned checks and apply the amounts back to my account. I am currently owing nearly XXXX dollars that has gone NOWHERE. It needs to be fixed, asap. \n\nI have talked to Citi several times and they have not been able to fix this yet. \n\nI've attached copies of the checks which were sent to incorrect account numbers. The incorrect account numbers are on the checks. Again, these accounts do not exist at all. XXXX denied the checks and sent them back to Citi. \n\nThe correct account numbers are : For the {$1000.00} check XXXX XXXX XXXX XXXX For the {$1700.00} check XXXX XXXX XXXX XXXX The card at Citi that is in question is XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+i did two balance transfers from citi card to xxxx cards to two of my accounts at xxxx on xx / xx / 2024. one was xxxx and one was xxxx xxxx xxxx. they never arrived at the xxxx cards, so i contacted citi multiple times, finding out that citi sent the checks to the wrong account numbers. the account numbers listed on the checks are similar to mine but not correct. i asked citi to fix this and they said they would, but didn't. citi finally sent me copies of the checks they sent, showing xxxx cashed them both on xx / xx / 2024, but to two incorrect account numbers. citi told me to contact xxxx and have them find the checks and apply them to my correct accounts. i contacted xxxx and sent them the copies of the checks via fax. they looked into it and found that those incorrect account numbers did not exist, so they said that the checks were denied and sent back to citi. they could not apply them to my accounts as they had already sent them back to citi. xxxx said that since those account numbers did not exist, those two checks were denied and sent back to citi. citi needs to find the returned checks and apply the amounts back to my account. i am currently owing nearly xxxx dollars that has gone nowhere. it needs to be fixed, asap. i have talked to citi several times and they have not been able to fix this yet. i've attached copies of the checks which were sent to incorrect account numbers. the incorrect account numbers are on the checks. again, these accounts do not exist at all. xxxx denied the checks and sent them back to citi. the correct account numbers are : for the { $ 1000. 00 } check xxxx xxxx xxxx xxxx for the { $ 1700. 00 } check xxxx xxxx xxxx xxxx the card at citi that is in question is xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993614554405212
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9020422,
+  "complaint_id": "9020422",
+  "product": "Credit card",
+  "complaint_what_happened": "Closed Synchrony bank credit card for Lowe 's when interest fees and fees for paper statements were introduced. Bill was sent for fees and interest and the next month fees and interest were added onto the original bill for fees and interest doubling the amount due. Asked the bank to reduce the account to {$0.00} so that fees and interest would not continue to accumulate. Company removed all fees except {$1.00} for paper statement. I paid off the {$1.00}. this month, another statement was mailed to me. STOP. Account has been closed.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "134XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "Closed Synchrony bank credit card for Lowe 's when interest fees and fees for paper statements were introduced. Bill was sent for fees and interest and the next month fees and interest were added onto the original bill for fees and interest doubling the amount due. Asked the bank to reduce the account to {$0.00} so that fees and interest would not continue to accumulate. Company removed all fees except {$1.00} for paper statement. I paid off the {$1.00}. this month, another statement was mailed to me. STOP. Account has been closed."
+}
+
+Chunk:
+closed synchrony bank credit card for lowe's when interest fees and fees for paper statements were introduced. bill was sent for fees and interest and the next month fees and interest were added onto the original bill for fees and interest doubling the amount due. asked the bank to reduce the account to { $ 0. 00 } so that fees and interest would not continue to accumulate. company removed all fees except { $ 1. 00 } for paper statement. i paid off the { $ 1. 00 }. this month, another statement was mailed to me. stop. account has been closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995015859603882
+}

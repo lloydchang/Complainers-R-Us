@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9264735,
+  "complaint_id": "9264735",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a complaint regarding an unauthorized account that was opened in my name at Kohls. According to my credit report, this account was opened on XX/XX/year>. I first noticed this issue about a month ago when my credit score dropped significantly.\n\nI attempted to resolve the matter by contacting Kohls customer service by phone, but I was unable to speak with an agent. I also tried to resolve the issue via chat, but the representative could not locate the account and advised me to call customer service again. As a result, I filed claims with XXXX, XXXX, and XXXX. \n\nXXXX responded by stating that the account is accurate. However, I have never opened an account with Kohls, so this information is incorrect. I have had to appeal their decision. \n\nYesterday, I received a call from a collections department regarding a debt associated with this unauthorized account. I called Kohls and was transferred to the applications department, where a representative helped me file an internal claim to remove the account from my name, as she could not locate the account number. \n\nToday, I received another call from the collections department, informing me that there has been no update from Kohls on this issue. The collections agent provided me with the email address associated with the account, and it is not my email address. \n\nThis situation is severely affecting my credit score, and I need it resolved as soon as possible. Please take immediate action to investigate and correct this matter. \n\nThank you for your prompt attention to this issue. I have attached the initial negative response from XXXX, which I have already appealed.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "37075",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I am writing to file a complaint regarding an unauthorized account that was opened in my name at Kohls. According to my credit report, this account was opened on XX/XX/year>. I first noticed this issue about a month ago when my credit score dropped significantly.\n\nI attempted to resolve the matter by contacting Kohls customer service by phone, but I was unable to speak with an agent. I also tried to resolve the issue via chat, but the representative could not locate the account and advised me to call customer service again. As a result, I filed claims with XXXX, XXXX, and XXXX. \n\nXXXX responded by stating that the account is accurate. However, I have never opened an account with Kohls, so this information is incorrect. I have had to appeal their decision. \n\nYesterday, I received a call from a collections department regarding a debt associated with this unauthorized account. I called Kohls and was transferred to the applications department, where a representative helped me file an internal claim to remove the account from my name, as she could not locate the account number. \n\nToday, I received another call from the collections department, informing me that there has been no update from Kohls on this issue. The collections agent provided me with the email address associated with the account, and it is not my email address. \n\nThis situation is severely affecting my credit score, and I need it resolved as soon as possible. Please take immediate action to investigate and correct this matter. \n\nThank you for your prompt attention to this issue. I have attached the initial negative response from XXXX, which I have already appealed."
+}
+
+Chunk:
+i am writing to file a complaint regarding an unauthorized account that was opened in my name at kohls. according to my credit report, this account was opened on xx / xx / year >. i first noticed this issue about a month ago when my credit score dropped significantly. i attempted to resolve the matter by contacting kohls customer service by phone, but i was unable to speak with an agent. i also tried to resolve the issue via chat, but the representative could not locate the account and advised me to call customer service again. as a result, i filed claims with xxxx, xxxx, and xxxx. xxxx responded by stating that the account is accurate. however, i have never opened an account with kohls, so this information is incorrect. i have had to appeal their decision. yesterday, i received a call from a collections department regarding a debt associated with this unauthorized account. i called kohls and was transferred to the applications department, where a representative helped me file an internal claim to remove the account from my name, as she could not locate the account number. today, i received another call from the collections department, informing me that there has been no update from kohls on this issue. the collections agent provided me with the email address associated with the account, and it is not my email address. this situation is severely affecting my credit score, and i need it resolved as soon as possible. please take immediate action to investigate and correct this matter. thank you for your prompt attention to this issue. i have attached the initial negative response from xxxx, which i have already appealed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983709454536438
+}

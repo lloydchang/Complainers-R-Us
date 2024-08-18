@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9234239,
+  "complaint_id": "9234239",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I ordered XXXX pairs of pants from the XXXX website, totaling {$1000.00} ( ORDER XXXX ). \n\nAfter trying them on, I found that none of the pants fit, so I requested a refund and dropped them off at XXXX. However, the return information was never updated. After waiting for a while without any updates, I contacted XXXX, but they stated that they are only responsible for the delivery and couldnt provide more information. \n\nI also requested tracking information from XXXX, but received no response. XXXX only provided XXXX as the return option, leaving me with no other choices. \n\nAfter waiting for a response, I disputed the charge with Chase Credit Card. I tried to send the XXXX drop-off receipt as evidence, but was not given the opportunity to do so. \nI missed several calls from the credit card company due to my work schedule, and when I tried to call back, the case had already been closed. \nEven after requesting a review, my request was denied. \n\nI am currently charged {$1000.00} and have received nothing in return. \nI am in a frustrating situation and desperately need your help to resolve this.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11101",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/2024, I ordered XXXX pairs of pants from the XXXX website, totaling {$1000.00} ( ORDER XXXX ). \n\nAfter trying them on, I found that none of the pants fit, so I requested a refund and dropped them off at XXXX. However, the return information was never updated. After waiting for a while without any updates, I contacted XXXX, but they stated that they are only responsible for the delivery and couldnt provide more information. \n\nI also requested tracking information from XXXX, but received no response. XXXX only provided XXXX as the return option, leaving me with no other choices. \n\nAfter waiting for a response, I disputed the charge with Chase Credit Card. I tried to send the XXXX drop-off receipt as evidence, but was not given the opportunity to do so. \nI missed several calls from the credit card company due to my work schedule, and when I tried to call back, the case had already been closed. \nEven after requesting a review, my request was denied. \n\nI am currently charged {$1000.00} and have received nothing in return. \nI am in a frustrating situation and desperately need your help to resolve this."
+}
+
+Chunk:
+on xx / xx / 2024, i ordered xxxx pairs of pants from the xxxx website, totaling { $ 1000. 00 } ( order xxxx ). after trying them on, i found that none of the pants fit, so i requested a refund and dropped them off at xxxx. however, the return information was never updated. after waiting for a while without any updates, i contacted xxxx, but they stated that they are only responsible for the delivery and couldnt provide more information. i also requested tracking information from xxxx, but received no response. xxxx only provided xxxx as the return option, leaving me with no other choices. after waiting for a response, i disputed the charge with chase credit card. i tried to send the xxxx drop - off receipt as evidence, but was not given the opportunity to do so. i missed several calls from the credit card company due to my work schedule, and when i tried to call back, the case had already been closed. even after requesting a review, my request was denied. i am currently charged { $ 1000. 00 } and have received nothing in return. i am in a frustrating situation and desperately need your help to resolve this.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995238780975342
+}

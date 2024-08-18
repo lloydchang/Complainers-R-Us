@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9306638,
+  "complaint_id": "9306638",
+  "product": "Credit card",
+  "complaint_what_happened": "I am an authorized user in my husbands Macys in store and out of store account. Macys is due In the XXXX and XXXX XXXX on the XXXX. I made the Macys payment which was drafted and paid. When I went to make a payment on the XXXX XXXX on XX/XX/XXXX I accidentally paid the Macys in store account. I called Macys right away to ask them to reverse the payment. Customer Service told me that it could not be done since it was after XXXX. I did advise the payment was made before XXXX. I was told it would take 8 days and I advised money was needed to pay the XXXX XXXX. I filed a dispute with my bank. I provided Macys a payment it was not drafted. I also placed the XXXX XXXX on auto pay it was not drafted. Now we are been charged over account limit and late fees. Macys is messing with our credit. All previous payments made were drafted from same account. Now Macys cs refuse to answer our calls. My name is XXXX XXXX the account is under XXXX XXXX. My phone is ( XXXX ) XXXX. I will not pay Macys any late fees or overdraft fees. The money was available to them. Spoke to my bank was advised that Macys never presented the payment for drafting. I even called on XXXX XXXX to confirm my routing and account number for the XX/XX/XXXX payment and was told the information was correct.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "33071",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I am an authorized user in my husbands Macys in store and out of store account. Macys is due In the XXXX and XXXX XXXX on the XXXX. I made the Macys payment which was drafted and paid. When I went to make a payment on the XXXX XXXX on XX/XX/XXXX I accidentally paid the Macys in store account. I called Macys right away to ask them to reverse the payment. Customer Service told me that it could not be done since it was after XXXX. I did advise the payment was made before XXXX. I was told it would take 8 days and I advised money was needed to pay the XXXX XXXX. I filed a dispute with my bank. I provided Macys a payment it was not drafted. I also placed the XXXX XXXX on auto pay it was not drafted. Now we are been charged over account limit and late fees. Macys is messing with our credit. All previous payments made were drafted from same account. Now Macys cs refuse to answer our calls. My name is XXXX XXXX the account is under XXXX XXXX. My phone is ( XXXX ) XXXX. I will not pay Macys any late fees or overdraft fees. The money was available to them. Spoke to my bank was advised that Macys never presented the payment for drafting. I even called on XXXX XXXX to confirm my routing and account number for the XX/XX/XXXX payment and was told the information was correct."
+}
+
+Chunk:
+i am an authorized user in my husbands macys in store and out of store account. macys is due in the xxxx and xxxx xxxx on the xxxx. i made the macys payment which was drafted and paid. when i went to make a payment on the xxxx xxxx on xx / xx / xxxx i accidentally paid the macys in store account. i called macys right away to ask them to reverse the payment. customer service told me that it could not be done since it was after xxxx. i did advise the payment was made before xxxx. i was told it would take 8 days and i advised money was needed to pay the xxxx xxxx. i filed a dispute with my bank. i provided macys a payment it was not drafted. i also placed the xxxx xxxx on auto pay it was not drafted. now we are been charged over account limit and late fees. macys is messing with our credit. all previous payments made were drafted from same account. now macys cs refuse to answer our calls. my name is xxxx xxxx the account is under xxxx xxxx. my phone is ( xxxx ) xxxx. i will not pay macys any late fees or overdraft fees. the money was available to them. spoke to my bank was advised that macys never presented the payment for drafting. i even called on xxxx xxxx to confirm my routing and account number for the xx / xx / xxxx payment and was told the information was correct.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985100626945496
+}

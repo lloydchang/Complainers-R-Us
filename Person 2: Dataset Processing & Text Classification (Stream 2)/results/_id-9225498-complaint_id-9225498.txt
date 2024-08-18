@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9225498,
+  "complaint_id": "9225498",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I logged into the Barclay app and made a payment of {$500.00} on my credit card on time. The next day I logged into my XXXX Bank app and noticed that Barclay had taken an additional payment of {$500.00} from my bank account. I immediately called Barclay and the representative told me there was nothing they could do about it. \n\nThis was theft, plain and simple! This is fraud. Taking funds out of a persons bank account with out their permission is THEFT, BANK FRAUD! \n\nOn XX/XX/year> I logged into my Barclay account using the Barclay app and I made a payment fo {$360.00} on my due date. On XX/XX/year> I logged into my Barclay account using the Barclay app again and I made a payment of {$5000.00}. \n\nWhen I logged into my Barclay account using the Barclay XXXX on XX/XX/year> there was no record of my {$5000.00} payment. I called the Barclay representative and he said in a broken XXXX  and I did not make a payment of {$5000.00} as there is no record of this. I informed him that I have an email from Barclay stating they received it. This company has a history of lieing and committing fraudulant acts. When are you going to do something about it?\n\nWhat's also bizarre is that as the principle of my Barclay account goes down, the minimum monthly payment increases. In XX/XX/year>, my minimum payment was {$360.00}. In XX/XX/year> it is {$370.00}. How can the minimum payment keep going up when the principle is going down??? \n\nI reported Barclay to you last month XX/XX/year> when they charged me a late fee on the date of the due date of XX/XX/year> when I had already made a payment of {$400.00} on XX/XX/year>. Your organization contacted Barclay and finally after some time they refunded the late fee of {$29.00}. However now, their statement states that if I am late i will be charged {$40.00} for a late fee. I have NEVER been late paying this company. I requested that they lower my interest rate from the exorbitant 29.99 % and XXXX in the Barclay President 's office wrote me a letter stating that they refuse to lower my interest rate. This company gets away this fraudulent activities and your organization does nothing!! I thought you were here to protect consumers? You need to have the FBI and FTC and all other government agencies investigate their activities. Since all of this has happened to me, how many millions of people are they doing the same unscrupulous and unethical and fraudulant acts to as well? Please stop this corporate greed and unethical fraudulant business practices of Barclay.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On XX/XX/year>, I logged into the Barclay app and made a payment of {$500.00} on my credit card on time. The next day I logged into my XXXX Bank app and noticed that Barclay had taken an additional payment of {$500.00} from my bank account. I immediately called Barclay and the representative told me there was nothing they could do about it. \n\nThis was theft, plain and simple! This is fraud. Taking funds out of a persons bank account with out their permission is THEFT, BANK FRAUD! \n\nOn XX/XX/year> I logged into my Barclay account using the Barclay app and I made a payment fo {$360.00} on my due date. On XX/XX/year> I logged into my Barclay account using the Barclay app again and I made a payment of {$5000.00}. \n\nWhen I logged into my Barclay account using the Barclay XXXX on XX/XX/year> there was no record of my {$5000.00} payment. I called the Barclay representative and he said in a broken XXXX  and I did not make a payment of {$5000.00} as there is no record of this. I informed him that I have an email from Barclay stating they received it. This company has a history of lieing and committing fraudulant acts. When are you going to do something about it?\n\nWhat's also bizarre is that as the principle of my Barclay account goes down, the minimum monthly payment increases. In XX/XX/year>, my minimum payment was {$360.00}. In XX/XX/year> it is {$370.00}. How can the minimum payment keep going up when the principle is going down??? \n\nI reported Barclay to you last month XX/XX/year> when they charged me a late fee on the date of the due date of XX/XX/year> when I had already made a payment of {$400.00} on XX/XX/year>. Your organization contacted Barclay and finally after some time they refunded the late fee of {$29.00}. However now, their statement states that if I am late i will be charged {$40.00} for a late fee. I have NEVER been late paying this company. I requested that they lower my interest rate from the exorbitant 29.99 % and XXXX in the Barclay President 's office wrote me a letter stating that they refuse to lower my interest rate. This company gets away this fraudulent activities and your organization does nothing!! I thought you were here to protect consumers? You need to have the FBI and FTC and all other government agencies investigate their activities. Since all of this has happened to me, how many millions of people are they doing the same unscrupulous and unethical and fraudulant acts to as well? Please stop this corporate greed and unethical fraudulant business practices of Barclay."
+}
+
+Chunk:
+refuse to lower my interest rate. this company gets away this fraudulent activities and your organization does nothing!! i thought you were here to protect consumers? you need to have the fbi and ftc and all other government agencies investigate their activities. since all of this has happened to me, how many millions of people are they doing the same unscrupulous and unethical and fraudulant acts to as well? please stop this corporate greed and unethical fraudulant business practices of barclay.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987581968307495
+}

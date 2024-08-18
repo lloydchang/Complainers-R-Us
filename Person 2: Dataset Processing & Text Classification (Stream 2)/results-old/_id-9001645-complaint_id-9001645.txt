@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9001645,
+  "complaint_id": "9001645",
+  "product": "Credit card",
+  "complaint_what_happened": "Vanilla gift card purchased in Colorado for {$50.00} and given to me for XXXXI attempted to use it on XX/XX/XXXX at XXXXXXXX XXXX in XXXX XXXX. XXXXXXXX XXXX showed a balance of {$0.00}. \nI immediately filed a dispute. The dispute came back to me with case # XXXX. I signed their paperwork and returned it to them. I received a response showing that XXXX transaction had been done. XXXX @ XXXX XXXX  - Processed - XXXX XXXX ) XXXX - payment of {$49.00}. \nI again signed their paperwork within the last XXXX weeks. \nThey, Vanilla, knows that XXXX XXXX was given my money. Either through incorrect posting or felony theft of funds from my card. \nIt's totally absurd that as of today XX/XX/2024, I still have not been refunded the {$50.00} owed me.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "333XX",
+  "tags": "Older American",
+  "timely": "No",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Incomm Holdings Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Vanilla gift card purchased in Colorado for {$50.00} and given to me for XXXXI attempted to use it on XX/XX/XXXX at XXXXXXXX XXXX in XXXX XXXX. XXXXXXXX XXXX showed a balance of {$0.00}. \nI immediately filed a dispute. The dispute came back to me with case # XXXX. I signed their paperwork and returned it to them. I received a response showing that XXXX transaction had been done. XXXX @ XXXX XXXX  - Processed - XXXX XXXX ) XXXX - payment of {$49.00}. \nI again signed their paperwork within the last XXXX weeks. \nThey, Vanilla, knows that XXXX XXXX was given my money. Either through incorrect posting or felony theft of funds from my card. \nIt's totally absurd that as of today XX/XX/2024, I still have not been refunded the {$50.00} owed me."
+}
+
+Chunk:
+vanilla gift card purchased in colorado for { $ 50. 00 } and given to me for xxxxi attempted to use it on xx / xx / xxxx at xxxxxxxx xxxx in xxxx xxxx. xxxxxxxx xxxx showed a balance of { $ 0. 00 }. i immediately filed a dispute. the dispute came back to me with case # xxxx. i signed their paperwork and returned it to them. i received a response showing that xxxx transaction had been done. xxxx @ xxxx xxxx - processed - xxxx xxxx ) xxxx - payment of { $ 49. 00 }. i again signed their paperwork within the last xxxx weeks. they, vanilla, knows that xxxx xxxx was given my money. either through incorrect posting or felony theft of funds from my card. it's totally absurd that as of today xx / xx / 2024, i still have not been refunded the { $ 50. 00 } owed me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986866116523743
+}

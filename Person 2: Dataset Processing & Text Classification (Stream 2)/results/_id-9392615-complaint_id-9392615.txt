@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9392615,
+  "complaint_id": "9392615",
+  "product": "Credit card",
+  "complaint_what_happened": "I have filed multiple disputes with ELAN FINANCIAL SERVICES- for Unauthorized Use of my Account while being incarcerated, Again Unauthorized Use, Identity Theft, Fraudulent Charges, NOT THE OWNERSHIP OF THE ACCOUNT. Every single Time I dispute these Unauthorized, Fraudulent Charges, ELAN FINANCIAL SERVICES - respond by sending me a letter stating that they verified that this account belongs to me - ELAN FINANCIAL SERVICES - own policy Zero Liability Protection - Zero Liability Protection means you won't be held responsible for unauthorized charges made with your card or account information. However, Every single Time I dispute these Unauthorized, Fraudulent Charges, ELAN FINANCIAL SERVICES - bank act like they Don't Read my Dispute - So here, I'm requesting that CFPB investigate whether ELAN FINANCIAL SERVICES - does comply with the requirements set forth in the FCRA. The Dispute is about unauthorized use of My Account by an Unknown Person while being incarcerated. I Dont want ELAN FINANCIAL SERVICES- to respond by stating that this Account Belongs to me, If this Account didn't belong to me, I won't be disputing those unauthorized charges.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48127",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have filed multiple disputes with ELAN FINANCIAL SERVICES- for Unauthorized Use of my Account while being incarcerated, Again Unauthorized Use, Identity Theft, Fraudulent Charges, NOT THE OWNERSHIP OF THE ACCOUNT. Every single Time I dispute these Unauthorized, Fraudulent Charges, ELAN FINANCIAL SERVICES - respond by sending me a letter stating that they verified that this account belongs to me - ELAN FINANCIAL SERVICES - own policy Zero Liability Protection - Zero Liability Protection means you won't be held responsible for unauthorized charges made with your card or account information. However, Every single Time I dispute these Unauthorized, Fraudulent Charges, ELAN FINANCIAL SERVICES - bank act like they Don't Read my Dispute - So here, I'm requesting that CFPB investigate whether ELAN FINANCIAL SERVICES - does comply with the requirements set forth in the FCRA. The Dispute is about unauthorized use of My Account by an Unknown Person while being incarcerated. I Dont want ELAN FINANCIAL SERVICES- to respond by stating that this Account Belongs to me, If this Account didn't belong to me, I won't be disputing those unauthorized charges."
+}
+
+Chunk:
+i have filed multiple disputes with elan financial services - for unauthorized use of my account while being incarcerated, again unauthorized use, identity theft, fraudulent charges, not the ownership of the account. every single time i dispute these unauthorized, fraudulent charges, elan financial services - respond by sending me a letter stating that they verified that this account belongs to me - elan financial services - own policy zero liability protection - zero liability protection means you won't be held responsible for unauthorized charges made with your card or account information. however, every single time i dispute these unauthorized, fraudulent charges, elan financial services - bank act like they don't read my dispute - so here, i'm requesting that cfpb investigate whether elan financial services - does comply with the requirements set forth in the fcra. the dispute is about unauthorized use of my account by an unknown person while being incarcerated. i dont want elan financial services - to respond by stating that this account belongs to me, if this account didn't belong to me, i won't be disputing those unauthorized charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982879757881165
+}

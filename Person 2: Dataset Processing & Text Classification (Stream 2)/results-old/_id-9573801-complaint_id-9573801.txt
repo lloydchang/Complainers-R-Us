@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9573801,
+  "complaint_id": "9573801",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX was committed against my Wells Fargo credit card on XX/XX/2024. They attempted XXXX transfers until XXXX went through for {$7500.00} to a XXXX XXXX XXXX. This transfer was authorized by Wells Fargo, and I was not notified by text, phone, or email. I did not approve or authorize this transaction. I do not have a XXXX card. I am reporting this fraud committed against me. I have been trying to resolve this problem since XXXX. Wells Fargo is not taking responsibility because they say it was done from my computer and that I was the one who made the transaction. Wells Fargo is not investigating where the XXXX address of the transaction came from. I am seeking help to resolve this problem as I am now being charged fees for not paying an account that is not mine.",
+  "date_sent_to_company": "2024-07-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33196",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "XXXX was committed against my Wells Fargo credit card on XX/XX/2024. They attempted XXXX transfers until XXXX went through for {$7500.00} to a XXXX XXXX XXXX. This transfer was authorized by Wells Fargo, and I was not notified by text, phone, or email. I did not approve or authorize this transaction. I do not have a XXXX card. I am reporting this fraud committed against me. I have been trying to resolve this problem since XXXX. Wells Fargo is not taking responsibility because they say it was done from my computer and that I was the one who made the transaction. Wells Fargo is not investigating where the XXXX address of the transaction came from. I am seeking help to resolve this problem as I am now being charged fees for not paying an account that is not mine."
+}
+
+Chunk:
+xxxx was committed against my wells fargo credit card on xx / xx / 2024. they attempted xxxx transfers until xxxx went through for { $ 7500. 00 } to a xxxx xxxx xxxx. this transfer was authorized by wells fargo, and i was not notified by text, phone, or email. i did not approve or authorize this transaction. i do not have a xxxx card. i am reporting this fraud committed against me. i have been trying to resolve this problem since xxxx. wells fargo is not taking responsibility because they say it was done from my computer and that i was the one who made the transaction. wells fargo is not investigating where the xxxx address of the transaction came from. i am seeking help to resolve this problem as i am now being charged fees for not paying an account that is not mine.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996852874755859
+}

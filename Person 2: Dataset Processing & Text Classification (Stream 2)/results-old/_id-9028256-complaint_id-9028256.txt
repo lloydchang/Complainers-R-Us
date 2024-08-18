@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9028256,
+  "complaint_id": "9028256",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX I was sent a postal letter from Verizon/Synchrony regarding a 'Pre-Approved \" credit card which would enable me to get a lower bill from Verizon. \n\nWhen I logged into the Verizon site there was a banner stating I was pre-approved for the card. I applied thru the Verizon site using the banner. \n\nI was denied. The reason was vague. I contacted both Verizon and Synchrony. No more explanation for the denial was given. but I was told to immediately reapply despite the rejection notice telling me not to reapply within 30 days. \n\nThe reapply was denied. \n\nVerizon/Synchrony 's bait and switch offering a 'Pre-Approved \" card to lower my Verizon bill is fraud, The lack of complete explanation of why someone with over XXXX on their XXXX score would be denied is very strange. The lie about reapplying is also fraud. \n\nThese actions by Verizon/Synchrony is unfair and deceptive.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01886",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "In XXXX I was sent a postal letter from Verizon/Synchrony regarding a 'Pre-Approved \" credit card which would enable me to get a lower bill from Verizon. \n\nWhen I logged into the Verizon site there was a banner stating I was pre-approved for the card. I applied thru the Verizon site using the banner. \n\nI was denied. The reason was vague. I contacted both Verizon and Synchrony. No more explanation for the denial was given. but I was told to immediately reapply despite the rejection notice telling me not to reapply within 30 days. \n\nThe reapply was denied. \n\nVerizon/Synchrony 's bait and switch offering a 'Pre-Approved \" card to lower my Verizon bill is fraud, The lack of complete explanation of why someone with over XXXX on their XXXX score would be denied is very strange. The lie about reapplying is also fraud. \n\nThese actions by Verizon/Synchrony is unfair and deceptive."
+}
+
+Chunk:
+in xxxx i was sent a postal letter from verizon / synchrony regarding a'pre - approved " credit card which would enable me to get a lower bill from verizon. when i logged into the verizon site there was a banner stating i was pre - approved for the card. i applied thru the verizon site using the banner. i was denied. the reason was vague. i contacted both verizon and synchrony. no more explanation for the denial was given. but i was told to immediately reapply despite the rejection notice telling me not to reapply within 30 days. the reapply was denied. verizon / synchrony's bait and switch offering a'pre - approved " card to lower my verizon bill is fraud, the lack of complete explanation of why someone with over xxxx on their xxxx score would be denied is very strange. the lie about reapplying is also fraud. these actions by verizon / synchrony is unfair and deceptive.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991119503974915
+}

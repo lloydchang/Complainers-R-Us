@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9018776,
+  "complaint_id": "9018776",
+  "product": "Credit card",
+  "complaint_what_happened": "I am submitting this claim about a Sears Credit Card I had. I tried to pay it in XX/XX/XXXX, a representative for the company told me that they would not and can not accept any payment from me at this time because the account had already passed the statute limit. \nIn XX/XX/XXXX, I received a form 1099C from Sears dated back XX/XX/XXXX for the amount of {$7000.00}. I had to file it with my XXXX income tax return and paid it. \nSince the debt was paid through income taxes in XXXX, the balance should be updated as paid/satisfied because in XX/XX/XXXX, Sears refused my payment, did not accept any other form of payment from me.\n\nI would like it to be removed from my credit report. Please see attached 1099C.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34231",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I am submitting this claim about a Sears Credit Card I had. I tried to pay it in XX/XX/XXXX, a representative for the company told me that they would not and can not accept any payment from me at this time because the account had already passed the statute limit. \nIn XX/XX/XXXX, I received a form 1099C from Sears dated back XX/XX/XXXX for the amount of {$7000.00}. I had to file it with my XXXX income tax return and paid it. \nSince the debt was paid through income taxes in XXXX, the balance should be updated as paid/satisfied because in XX/XX/XXXX, Sears refused my payment, did not accept any other form of payment from me.\n\nI would like it to be removed from my credit report. Please see attached 1099C."
+}
+
+Chunk:
+i am submitting this claim about a sears credit card i had. i tried to pay it in xx / xx / xxxx, a representative for the company told me that they would not and can not accept any payment from me at this time because the account had already passed the statute limit. in xx / xx / xxxx, i received a form 1099c from sears dated back xx / xx / xxxx for the amount of { $ 7000. 00 }. i had to file it with my xxxx income tax return and paid it. since the debt was paid through income taxes in xxxx, the balance should be updated as paid / satisfied because in xx / xx / xxxx, sears refused my payment, did not accept any other form of payment from me. i would like it to be removed from my credit report. please see attached 1099c.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999207079410553
+}

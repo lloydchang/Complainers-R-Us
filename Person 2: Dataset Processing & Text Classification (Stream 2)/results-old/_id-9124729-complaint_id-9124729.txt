@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9124729,
+  "complaint_id": "9124729",
+  "product": "Credit card",
+  "complaint_what_happened": "I respectfully seek your comprehension regarding the late remarks on my report, and I am fully dedicated to resolving them as per our agreement. My goal is to eliminate all the late remarks from my report, and I am enthusiastic about upholding a favorable record with your organization.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60411",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Account status incorrect",
+  "text": "I respectfully seek your comprehension regarding the late remarks on my report, and I am fully dedicated to resolving them as per our agreement. My goal is to eliminate all the late remarks from my report, and I am enthusiastic about upholding a favorable record with your organization."
+}
+
+Chunk:
+i respectfully seek your comprehension regarding the late remarks on my report, and i am fully dedicated to resolving them as per our agreement. my goal is to eliminate all the late remarks from my report, and i am enthusiastic about upholding a favorable record with your organization.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9996600151062012
+}

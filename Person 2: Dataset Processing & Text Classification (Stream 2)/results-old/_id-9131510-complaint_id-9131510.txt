@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9131510,
+  "complaint_id": "9131510",
+  "product": "Credit card",
+  "complaint_what_happened": "As a long-time patron, I had high hopes for superior customer service from this American Express credit card company . Unfortunately, after experiencing my first missed payment in 8 years, I was disappointed by their refusal to waive late fees and interest charges. Moreover, their representatives displayed an unhelpful and indifferent attitude as Ive let them know that youre leading me to not use your card anymore and they seemed to be fine with that and did not offer any assistance in keeping their loyal customers.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92708",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "As a long-time patron, I had high hopes for superior customer service from this American Express credit card company . Unfortunately, after experiencing my first missed payment in 8 years, I was disappointed by their refusal to waive late fees and interest charges. Moreover, their representatives displayed an unhelpful and indifferent attitude as Ive let them know that youre leading me to not use your card anymore and they seemed to be fine with that and did not offer any assistance in keeping their loyal customers."
+}
+
+Chunk:
+as a long - time patron, i had high hopes for superior customer service from this american express credit card company. unfortunately, after experiencing my first missed payment in 8 years, i was disappointed by their refusal to waive late fees and interest charges. moreover, their representatives displayed an unhelpful and indifferent attitude as ive let them know that youre leading me to not use your card anymore and they seemed to be fine with that and did not offer any assistance in keeping their loyal customers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996681213378906
+}

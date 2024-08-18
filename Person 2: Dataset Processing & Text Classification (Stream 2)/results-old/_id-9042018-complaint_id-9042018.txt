@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042018,
+  "complaint_id": "9042018",
+  "product": "Credit card",
+  "complaint_what_happened": "I was charged {$35.00} for return check that was my first time on XX/XX/year> and I paid them back still after being customer for seven years would not reverse service charge",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94546",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I was charged {$35.00} for return check that was my first time on XX/XX/year> and I paid them back still after being customer for seven years would not reverse service charge"
+}
+
+Chunk:
+i was charged { $ 35. 00 } for return check that was my first time on xx / xx / year > and i paid them back still after being customer for seven years would not reverse service charge
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9769440293312073
+}

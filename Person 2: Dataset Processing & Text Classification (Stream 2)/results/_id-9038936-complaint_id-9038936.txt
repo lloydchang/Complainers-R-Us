@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038936,
+  "complaint_id": "9038936",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX : Spoke with XXXX in customer service, she indicated she couldnt waive fee, but would speak with corporate to get fee waived, but was disconnected after XXXX minutes on hold. Phone call at XXXX XXXX EDT. \n\nXX/XX/XXXX : Spoke with XXXX in customer service and he outright told me he couldnt waive fee, was placed on hold and he returned with same answer.\n\nI indicated to both I do not receive bills online and do not want to receive bills in that manner.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "01826",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "XX/XX/XXXX : Spoke with XXXX in customer service, she indicated she couldnt waive fee, but would speak with corporate to get fee waived, but was disconnected after XXXX minutes on hold. Phone call at XXXX XXXX EDT. \n\nXX/XX/XXXX : Spoke with XXXX in customer service and he outright told me he couldnt waive fee, was placed on hold and he returned with same answer.\n\nI indicated to both I do not receive bills online and do not want to receive bills in that manner."
+}
+
+Chunk:
+xx / xx / xxxx : spoke with xxxx in customer service, she indicated she couldnt waive fee, but would speak with corporate to get fee waived, but was disconnected after xxxx minutes on hold. phone call at xxxx xxxx edt. xx / xx / xxxx : spoke with xxxx in customer service and he outright told me he couldnt waive fee, was placed on hold and he returned with same answer. i indicated to both i do not receive bills online and do not want to receive bills in that manner.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9965717792510986
+}

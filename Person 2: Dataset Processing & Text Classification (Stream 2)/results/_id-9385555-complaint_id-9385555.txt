@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9385555,
+  "complaint_id": "9385555",
+  "product": "Credit card",
+  "complaint_what_happened": "I lost my job, called my credit card company and was offered reduced I interest and payments online for XXXX  months. I am planning on closing all my other credit cards and keeping this one until I get on my feet again. Shockingly I discovered my account had been closed. I reached out to the company and they said that that was part of the terms and conditions of the payment program. And that I was informed of this. I was never informed of this. I never wouldve agreed to it had I known that that was the terms and conditions because as I mentioned, I was planning on keeping only this card. Furthermore, they said they mailed me a letter its been XXXX  days since I made the arrangement I have received no letter whatsoever. I have called and asked them to reinstate my account and that was XXXX days ago. I just found out today that the person that I spoke to on that day said that they had submitted a claim or a request in my on my behalf and they actually never did anything. The woman I spoke to today submitted a claim and gave me a case number, but this is just XXXX doing everything that XXXX supposed to be doing in this situation trying to do the right thing and this company just keeps lying to me and Is being disingenuous, saying that I was read terms and conditions that I was not and I really need help",
+  "date_sent_to_company": "2024-06-29T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92211",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "I lost my job, called my credit card company and was offered reduced I interest and payments online for XXXX  months. I am planning on closing all my other credit cards and keeping this one until I get on my feet again. Shockingly I discovered my account had been closed. I reached out to the company and they said that that was part of the terms and conditions of the payment program. And that I was informed of this. I was never informed of this. I never wouldve agreed to it had I known that that was the terms and conditions because as I mentioned, I was planning on keeping only this card. Furthermore, they said they mailed me a letter its been XXXX  days since I made the arrangement I have received no letter whatsoever. I have called and asked them to reinstate my account and that was XXXX days ago. I just found out today that the person that I spoke to on that day said that they had submitted a claim or a request in my on my behalf and they actually never did anything. The woman I spoke to today submitted a claim and gave me a case number, but this is just XXXX doing everything that XXXX supposed to be doing in this situation trying to do the right thing and this company just keeps lying to me and Is being disingenuous, saying that I was read terms and conditions that I was not and I really need help"
+}
+
+Chunk:
+i lost my job, called my credit card company and was offered reduced i interest and payments online for xxxx months. i am planning on closing all my other credit cards and keeping this one until i get on my feet again. shockingly i discovered my account had been closed. i reached out to the company and they said that that was part of the terms and conditions of the payment program. and that i was informed of this. i was never informed of this. i never wouldve agreed to it had i known that that was the terms and conditions because as i mentioned, i was planning on keeping only this card. furthermore, they said they mailed me a letter its been xxxx days since i made the arrangement i have received no letter whatsoever. i have called and asked them to reinstate my account and that was xxxx days ago. i just found out today that the person that i spoke to on that day said that they had submitted a claim or a request in my on my behalf and they actually never did anything. the woman i spoke to today submitted a claim and gave me a case number, but this is just xxxx doing everything that xxxx supposed to be doing in this situation trying to do the right thing and this company just keeps lying to me and is being disingenuous, saying that i was read terms and conditions that i was not and i really need help
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994522929191589
+}

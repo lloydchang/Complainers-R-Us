@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9614231,
+  "complaint_id": "9614231",
+  "product": "Credit card",
+  "complaint_what_happened": "This report I am making is because Wayfair closed my account without any prior notice, I did not receive a notification email about this and I never received a letter about this either. I already called wayfair and they tell me that they can't do anything, they just tell me that I should apply again but I don't want to apply again because that means a new hard inquiry on my credit report and I don't want it. I want them to explain to me why they did not notify me about the closure of my account and they have to reopen mi account. Today XXXX I already called 2 different agents XXXX and XXXX. Both of them They same the same It's closed, we can't do anything. ''",
+  "date_sent_to_company": "2024-07-25T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "95135",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-25T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "This report I am making is because Wayfair closed my account without any prior notice, I did not receive a notification email about this and I never received a letter about this either. I already called wayfair and they tell me that they can't do anything, they just tell me that I should apply again but I don't want to apply again because that means a new hard inquiry on my credit report and I don't want it. I want them to explain to me why they did not notify me about the closure of my account and they have to reopen mi account. Today XXXX I already called 2 different agents XXXX and XXXX. Both of them They same the same It's closed, we can't do anything. ''"
+}
+
+Chunk:
+this report i am making is because wayfair closed my account without any prior notice, i did not receive a notification email about this and i never received a letter about this either. i already called wayfair and they tell me that they can't do anything, they just tell me that i should apply again but i don't want to apply again because that means a new hard inquiry on my credit report and i don't want it. i want them to explain to me why they did not notify me about the closure of my account and they have to reopen mi account. today xxxx i already called 2 different agents xxxx and xxxx. both of them they same the same it's closed, we can't do anything.''
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988868832588196
+}

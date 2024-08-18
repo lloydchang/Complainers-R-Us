@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9146113,
+  "complaint_id": "9146113",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a formal complaint against Capital One regarding their refusal to resolve a chargeback dispute for a transaction listed as \" XXXX XXXX '' in my credit card statements. \n\nDespite Capital One 's claims that they requested additional information from me regarding the dispute, I have never received any such request. The only correspondence I received from them was a letter stating that the dispute process had been initiated. I promptly provided Capital One with the contact information of the involved parties, expecting them to gather more information and resolve the issue. Unfortunately, they failed to contact the parties and are now stating that I must contact the merchant myself. \n\nI contacted the merchant months ago, and they falsely informed Capital One that they never received a refund request. I have concrete evidence proving that the refund request was indeed made and provided this evidence to Capital One. Despite this, Capital One has refused to honor the refund. Furthermore, the merchant has been persistently harassing me and attempting to charge my credit card illegally, even though I informed them that a refund was issued to me. \n\nThe negligence and lack of effort from Capital One in handling this dispute are unacceptable. Their failure to communicate and act on the provided information has caused me significant distress and inconvenience. \n\nI request the CFPB 's intervention to ensure that Capital One properly investigates and resolves this dispute. I expect Capital One to honor the refund and take appropriate actions against the merchant for their deceptive practices and harassment. \n\nThank you for your attention to this matter.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70123",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to file a formal complaint against Capital One regarding their refusal to resolve a chargeback dispute for a transaction listed as \" XXXX XXXX '' in my credit card statements. \n\nDespite Capital One 's claims that they requested additional information from me regarding the dispute, I have never received any such request. The only correspondence I received from them was a letter stating that the dispute process had been initiated. I promptly provided Capital One with the contact information of the involved parties, expecting them to gather more information and resolve the issue. Unfortunately, they failed to contact the parties and are now stating that I must contact the merchant myself. \n\nI contacted the merchant months ago, and they falsely informed Capital One that they never received a refund request. I have concrete evidence proving that the refund request was indeed made and provided this evidence to Capital One. Despite this, Capital One has refused to honor the refund. Furthermore, the merchant has been persistently harassing me and attempting to charge my credit card illegally, even though I informed them that a refund was issued to me. \n\nThe negligence and lack of effort from Capital One in handling this dispute are unacceptable. Their failure to communicate and act on the provided information has caused me significant distress and inconvenience. \n\nI request the CFPB 's intervention to ensure that Capital One properly investigates and resolves this dispute. I expect Capital One to honor the refund and take appropriate actions against the merchant for their deceptive practices and harassment. \n\nThank you for your attention to this matter."
+}
+
+Chunk:
+i am writing to file a formal complaint against capital one regarding their refusal to resolve a chargeback dispute for a transaction listed as " xxxx xxxx'' in my credit card statements. despite capital one's claims that they requested additional information from me regarding the dispute, i have never received any such request. the only correspondence i received from them was a letter stating that the dispute process had been initiated. i promptly provided capital one with the contact information of the involved parties, expecting them to gather more information and resolve the issue. unfortunately, they failed to contact the parties and are now stating that i must contact the merchant myself. i contacted the merchant months ago, and they falsely informed capital one that they never received a refund request. i have concrete evidence proving that the refund request was indeed made and provided this evidence to capital one. despite this, capital one has refused to honor the refund. furthermore, the merchant has been persistently harassing me and attempting to charge my credit card illegally, even though i informed them that a refund was issued to me. the negligence and lack of effort from capital one in handling this dispute are unacceptable. their failure to communicate and act on the provided information has caused me significant distress and inconvenience. i request the cfpb's intervention to ensure that capital one properly investigates and resolves this dispute. i expect capital one to honor the refund and take appropriate actions against the merchant for their deceptive practices and harassment. thank you for your attention to this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984710812568665
+}

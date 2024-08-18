@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9086043,
+  "complaint_id": "9086043",
+  "product": "Credit card",
+  "complaint_what_happened": "Reported companies are in possession of my stolen credit card ( social security ) in violation of 15 usc 1602 ; 15 usc 1692c, absent my knowledge and consent. I have identified the identity theft account and require cease and desist communication of my stolen information and block of identity theft accounts 15 usc 1681 c-2",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30331",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "EQUIFAX, INC.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Privacy issues",
+  "text": "Reported companies are in possession of my stolen credit card ( social security ) in violation of 15 usc 1602 ; 15 usc 1692c, absent my knowledge and consent. I have identified the identity theft account and require cease and desist communication of my stolen information and block of identity theft accounts 15 usc 1681 c-2"
+}
+
+Chunk:
+reported companies are in possession of my stolen credit card ( social security ) in violation of 15 usc 1602 ; 15 usc 1692c, absent my knowledge and consent. i have identified the identity theft account and require cease and desist communication of my stolen information and block of identity theft accounts 15 usc 1681 c - 2
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986559152603149
+}

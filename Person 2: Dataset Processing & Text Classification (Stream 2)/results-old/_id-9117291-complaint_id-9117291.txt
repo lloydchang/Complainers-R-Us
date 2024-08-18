@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9117291,
+  "complaint_id": "9117291",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a complaint regarding the abrupt closure of all my Chase credit card accounts without any prior notification. Chase has cited fraudulent reasons for this action, which I vehemently deny. \n\nI have been a loyal Chase customer for over eight years and have consistently paid my credit card bills on time. The decision to close my accounts due to alleged fraudulent activity is baseless and has caused me significant inconvenience. \n\nFurthermore, the sudden closure has rendered my accumulated reward points, worth hundreds of dollars, inaccessible. I have also paid XXXX XXXX XXXX in membership fees for this year, which is yet to end. \n\nI urge Chase to thoroughly review my account and promptly reinstate my credit cards. \n\nThank you for your attention to this matter.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07093",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I am writing to file a complaint regarding the abrupt closure of all my Chase credit card accounts without any prior notification. Chase has cited fraudulent reasons for this action, which I vehemently deny. \n\nI have been a loyal Chase customer for over eight years and have consistently paid my credit card bills on time. The decision to close my accounts due to alleged fraudulent activity is baseless and has caused me significant inconvenience. \n\nFurthermore, the sudden closure has rendered my accumulated reward points, worth hundreds of dollars, inaccessible. I have also paid XXXX XXXX XXXX in membership fees for this year, which is yet to end. \n\nI urge Chase to thoroughly review my account and promptly reinstate my credit cards. \n\nThank you for your attention to this matter."
+}
+
+Chunk:
+i am writing to file a complaint regarding the abrupt closure of all my chase credit card accounts without any prior notification. chase has cited fraudulent reasons for this action, which i vehemently deny. i have been a loyal chase customer for over eight years and have consistently paid my credit card bills on time. the decision to close my accounts due to alleged fraudulent activity is baseless and has caused me significant inconvenience. furthermore, the sudden closure has rendered my accumulated reward points, worth hundreds of dollars, inaccessible. i have also paid xxxx xxxx xxxx in membership fees for this year, which is yet to end. i urge chase to thoroughly review my account and promptly reinstate my credit cards. thank you for your attention to this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9922541379928589
+}

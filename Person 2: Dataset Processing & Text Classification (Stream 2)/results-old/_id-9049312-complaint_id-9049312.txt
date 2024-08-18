@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049312,
+  "complaint_id": "9049312",
+  "product": "Credit card",
+  "complaint_what_happened": "Accepted a store credit card offer on XX/XX/XXXX with a {$1200.00} credit limit. Made purchase of {$11000.00}. Added {$750.00} from my XXXX XXXX unto {$1200.00} XXXX for total amount above. I then traveled aboard on business. Made pay by monthly payments totalling {$1100.00} Never got any disclosure or communications regarding account statement online although it was requested Upon my return home, found account statements covering period account duration. Discovered, I had been charged late fees of {$40.00} monthly and interests from inception account opening. Spoke with a Wayfair Supervisor XXXX ID # XXXX who claimed to grant {$20.00} on interests on XX/XX/XXXX as XX/XX/XXXX concluded one year of promotion.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "22701",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Accepted a store credit card offer on XX/XX/XXXX with a {$1200.00} credit limit. Made purchase of {$11000.00}. Added {$750.00} from my XXXX XXXX unto {$1200.00} XXXX for total amount above. I then traveled aboard on business. Made pay by monthly payments totalling {$1100.00} Never got any disclosure or communications regarding account statement online although it was requested Upon my return home, found account statements covering period account duration. Discovered, I had been charged late fees of {$40.00} monthly and interests from inception account opening. Spoke with a Wayfair Supervisor XXXX ID # XXXX who claimed to grant {$20.00} on interests on XX/XX/XXXX as XX/XX/XXXX concluded one year of promotion."
+}
+
+Chunk:
+accepted a store credit card offer on xx / xx / xxxx with a { $ 1200. 00 } credit limit. made purchase of { $ 11000. 00 }. added { $ 750. 00 } from my xxxx xxxx unto { $ 1200. 00 } xxxx for total amount above. i then traveled aboard on business. made pay by monthly payments totalling { $ 1100. 00 } never got any disclosure or communications regarding account statement online although it was requested upon my return home, found account statements covering period account duration. discovered, i had been charged late fees of { $ 40. 00 } monthly and interests from inception account opening. spoke with a wayfair supervisor xxxx id # xxxx who claimed to grant { $ 20. 00 } on interests on xx / xx / xxxx as xx / xx / xxxx concluded one year of promotion.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977752566337585
+}

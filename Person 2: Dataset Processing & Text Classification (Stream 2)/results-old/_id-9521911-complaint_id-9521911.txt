@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9521911,
+  "complaint_id": "9521911",
+  "product": "Credit card",
+  "complaint_what_happened": "This company had already approved me for the XXXX XXXXXXXX XXXX XXXX on XX/XX/year>. In fact, based on that approval I had already made a purchase at a jewelry store called XXXX XXXX located in XXXX XXXX, CA. on that same day. \n\nOn Saturday XX/XX/year>, I returned to the same place to make another purchase which was within the approved limit but the merchant informed me that the creditor had declined the request! \n\nOn Monday XX/XX/year> I reached out to the credit entity to find out what the issue was. After a number of attempts, a representative named XXXX informed me that account was undergoing a review and that I might end up being declined!! \n\nAs a XXXX XXXX and XXXX XXXX XXXXXXXX, I had never ever heard of a creditor initially approving an applicant and then doing an account review subsequently. \n\nTherein rests my complaint against this creditor.",
+  "date_sent_to_company": "2024-07-24T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "91302",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "This company had already approved me for the XXXX XXXXXXXX XXXX XXXX on XX/XX/year>. In fact, based on that approval I had already made a purchase at a jewelry store called XXXX XXXX located in XXXX XXXX, CA. on that same day. \n\nOn Saturday XX/XX/year>, I returned to the same place to make another purchase which was within the approved limit but the merchant informed me that the creditor had declined the request! \n\nOn Monday XX/XX/year> I reached out to the credit entity to find out what the issue was. After a number of attempts, a representative named XXXX informed me that account was undergoing a review and that I might end up being declined!! \n\nAs a XXXX XXXX and XXXX XXXX XXXXXXXX, I had never ever heard of a creditor initially approving an applicant and then doing an account review subsequently. \n\nTherein rests my complaint against this creditor."
+}
+
+Chunk:
+this company had already approved me for the xxxx xxxxxxxx xxxx xxxx on xx / xx / year >. in fact, based on that approval i had already made a purchase at a jewelry store called xxxx xxxx located in xxxx xxxx, ca. on that same day. on saturday xx / xx / year >, i returned to the same place to make another purchase which was within the approved limit but the merchant informed me that the creditor had declined the request! on monday xx / xx / year > i reached out to the credit entity to find out what the issue was. after a number of attempts, a representative named xxxx informed me that account was undergoing a review and that i might end up being declined!! as a xxxx xxxx and xxxx xxxx xxxxxxxx, i had never ever heard of a creditor initially approving an applicant and then doing an account review subsequently. therein rests my complaint against this creditor.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996626615524292
+}

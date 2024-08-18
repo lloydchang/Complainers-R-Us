@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9214774,
+  "complaint_id": "9214774",
+  "product": "Credit card",
+  "complaint_what_happened": "American express has a promotion where you can get XXXX XXXX back from a booking, up to XXXX XXXX This booking needs to be made at a AMEX XXXX site, and has to be paid fully up front ( not at the hotel when checking in ). I had a trip to California, and had to stay at a hotel for 10 days, and I used this promotion. I went to the AMEX XXXXXXXX site, and I purchased the stay which totaled more than {$1000.00}. When I did not see the promotional offer, the rep I spoke to recommended I wait. If he had told me then that it was done incorrectly, I could have cancelled the booking. \nAfter staying in the hotel I noticed I still did not recieve the award. I inquired about this to AMEX XXXX, and they responded saying it was not made at the AMEX XXXX site. \nHowever, I have obtained this promotion in a previous hotel stay and I was well aware of the requirements. Therefore, I made sure it was the accurate site. \nAMEX XXXX then refused to appeal the decision. After some back and forth, they agreed to let me upload my browser history, which shows me booking at the correct AMEX XXXX site. \nAfter several days passed, I inquired about the case and it seems AMEX had no history of it, and i had to re upload the same document again. \n\nI am asking the CFPB to look into this, since AMEX is not complying with the terms of their advertisment.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60640",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "American express has a promotion where you can get XXXX XXXX back from a booking, up to XXXX XXXX This booking needs to be made at a AMEX XXXX site, and has to be paid fully up front ( not at the hotel when checking in ). I had a trip to California, and had to stay at a hotel for 10 days, and I used this promotion. I went to the AMEX XXXXXXXX site, and I purchased the stay which totaled more than {$1000.00}. When I did not see the promotional offer, the rep I spoke to recommended I wait. If he had told me then that it was done incorrectly, I could have cancelled the booking. \nAfter staying in the hotel I noticed I still did not recieve the award. I inquired about this to AMEX XXXX, and they responded saying it was not made at the AMEX XXXX site. \nHowever, I have obtained this promotion in a previous hotel stay and I was well aware of the requirements. Therefore, I made sure it was the accurate site. \nAMEX XXXX then refused to appeal the decision. After some back and forth, they agreed to let me upload my browser history, which shows me booking at the correct AMEX XXXX site. \nAfter several days passed, I inquired about the case and it seems AMEX had no history of it, and i had to re upload the same document again. \n\nI am asking the CFPB to look into this, since AMEX is not complying with the terms of their advertisment."
+}
+
+Chunk:
+american express has a promotion where you can get xxxx xxxx back from a booking, up to xxxx xxxx this booking needs to be made at a amex xxxx site, and has to be paid fully up front ( not at the hotel when checking in ). i had a trip to california, and had to stay at a hotel for 10 days, and i used this promotion. i went to the amex xxxxxxxx site, and i purchased the stay which totaled more than { $ 1000. 00 }. when i did not see the promotional offer, the rep i spoke to recommended i wait. if he had told me then that it was done incorrectly, i could have cancelled the booking. after staying in the hotel i noticed i still did not recieve the award. i inquired about this to amex xxxx, and they responded saying it was not made at the amex xxxx site. however, i have obtained this promotion in a previous hotel stay and i was well aware of the requirements. therefore, i made sure it was the accurate site. amex xxxx then refused to appeal the decision. after some back and forth, they agreed to let me upload my browser history, which shows me booking at the correct amex xxxx site. after several days passed, i inquired about the case and it seems amex had no history of it, and i had to re upload the same document again. i am asking the cfpb to look into this, since amex is not complying with the terms of their advertisment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990769624710083
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9311071,
+  "complaint_id": "9311071",
+  "product": "Credit card",
+  "complaint_what_happened": "I began to receive notifications from Bank of America about overdue fees from a Spirit Airlines credit account that I had never opened earlier this year. At first, I assumed it was spam or a mistake. In XXXX of this year I called and realized that it was an account I was not aware of that used my actual name, DOB, and social security number. I filed a fraud claim with Bank of America about this card- of which there were two accounts opened in my name : ending in XXXX and XXXX respectively. I continue to get calls about overdue fees on both of these fraudulent accounts from Bank of America despite having an open Fraud Claim with them. This week, I was told that my fraud claim was denied by Bank of America because of a transaction on the card from XXXX ( not sure why this would pose a. I have since opened an account with XXXX- they have filed a credit dispute and informed me that that Bank of America card was opened at the end of 2023. I was told by both Bank of America and XXXX to file this report for further steps.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07052",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I began to receive notifications from Bank of America about overdue fees from a Spirit Airlines credit account that I had never opened earlier this year. At first, I assumed it was spam or a mistake. In XXXX of this year I called and realized that it was an account I was not aware of that used my actual name, DOB, and social security number. I filed a fraud claim with Bank of America about this card- of which there were two accounts opened in my name : ending in XXXX and XXXX respectively. I continue to get calls about overdue fees on both of these fraudulent accounts from Bank of America despite having an open Fraud Claim with them. This week, I was told that my fraud claim was denied by Bank of America because of a transaction on the card from XXXX ( not sure why this would pose a. I have since opened an account with XXXX- they have filed a credit dispute and informed me that that Bank of America card was opened at the end of 2023. I was told by both Bank of America and XXXX to file this report for further steps."
+}
+
+Chunk:
+i began to receive notifications from bank of america about overdue fees from a spirit airlines credit account that i had never opened earlier this year. at first, i assumed it was spam or a mistake. in xxxx of this year i called and realized that it was an account i was not aware of that used my actual name, dob, and social security number. i filed a fraud claim with bank of america about this card - of which there were two accounts opened in my name : ending in xxxx and xxxx respectively. i continue to get calls about overdue fees on both of these fraudulent accounts from bank of america despite having an open fraud claim with them. this week, i was told that my fraud claim was denied by bank of america because of a transaction on the card from xxxx ( not sure why this would pose a. i have since opened an account with xxxx - they have filed a credit dispute and informed me that that bank of america card was opened at the end of 2023. i was told by both bank of america and xxxx to file this report for further steps.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991055130958557
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208383,
+  "complaint_id": "9208383",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> Discover Card changed me {$5100.00} as a reversal charge from funds they took from my bank account",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "497XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> Discover Card changed me {$5100.00} as a reversal charge from funds they took from my bank account"
+}
+
+Chunk:
+on xx / xx / year > discover card changed me { $ 5100. 00 } as a reversal charge from funds they took from my bank account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998072624206543
+}

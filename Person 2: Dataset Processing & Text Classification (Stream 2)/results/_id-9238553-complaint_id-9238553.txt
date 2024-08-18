@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9238553,
+  "complaint_id": "9238553",
+  "product": "Credit card",
+  "complaint_what_happened": "Ulta Beauty credit card charged me a {$30.00} late fee. Its the first time that Im late. I called and advised them that they can only charge me {$8.00} as I called the CRPB and federal law now restricts over charging late fees. The representative told me that Ulta is exempt from that law and they dont have to lower their late fees.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "08080",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Ulta Beauty credit card charged me a {$30.00} late fee. Its the first time that Im late. I called and advised them that they can only charge me {$8.00} as I called the CRPB and federal law now restricts over charging late fees. The representative told me that Ulta is exempt from that law and they dont have to lower their late fees."
+}
+
+Chunk:
+ulta beauty credit card charged me a { $ 30. 00 } late fee. its the first time that im late. i called and advised them that they can only charge me { $ 8. 00 } as i called the crpb and federal law now restricts over charging late fees. the representative told me that ulta is exempt from that law and they dont have to lower their late fees.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.6970368027687073
+}

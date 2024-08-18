@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9203574,
+  "complaint_id": "9203574",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a rental car agreement with XXXX. For {$250.00} on XX/XX/year>. When arriving to pick up the car at XXXX I was told my 'debit card ' was not acceptable. I was then told the agreement would be 'canceled '. And I would not be allowed to rent the car. And I would not be charged ... and to contact XXXX for a refund. I have purchased rental cars on many occasions and I've always paid using my XXXX credit ( debit ) card. I did not understand that my card was in fact charged for it's use... first discovered on XX/XX/year>. I did not rent a car with XXXX. And was still charged {$250.00}. I did not authorize XXXX to charge my card for services un-rendered. It should be clearly indicated that debit cards are not accepted. It wasn't. Yet my 'debit ' card was charged...? If XXXX does not accept debit cards why then was my XXXX XXXX charged? My 'debit card ' can not then be charged because it was never accepted by XXXX as a valid form of payment. Therefore I dispute the transaction as unauthorized. It should have been clearly stated. It was not. Therefore I am owed a full refund, for the car I never rented.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98133",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FinCo Services Inc DBA Current",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I purchased a rental car agreement with XXXX. For {$250.00} on XX/XX/year>. When arriving to pick up the car at XXXX I was told my 'debit card ' was not acceptable. I was then told the agreement would be 'canceled '. And I would not be allowed to rent the car. And I would not be charged ... and to contact XXXX for a refund. I have purchased rental cars on many occasions and I've always paid using my XXXX credit ( debit ) card. I did not understand that my card was in fact charged for it's use... first discovered on XX/XX/year>. I did not rent a car with XXXX. And was still charged {$250.00}. I did not authorize XXXX to charge my card for services un-rendered. It should be clearly indicated that debit cards are not accepted. It wasn't. Yet my 'debit ' card was charged...? If XXXX does not accept debit cards why then was my XXXX XXXX charged? My 'debit card ' can not then be charged because it was never accepted by XXXX as a valid form of payment. Therefore I dispute the transaction as unauthorized. It should have been clearly stated. It was not. Therefore I am owed a full refund, for the car I never rented."
+}
+
+Chunk:
+i purchased a rental car agreement with xxxx. for { $ 250. 00 } on xx / xx / year >. when arriving to pick up the car at xxxx i was told my'debit card'was not acceptable. i was then told the agreement would be'canceled '. and i would not be allowed to rent the car. and i would not be charged... and to contact xxxx for a refund. i have purchased rental cars on many occasions and i've always paid using my xxxx credit ( debit ) card. i did not understand that my card was in fact charged for it's use... first discovered on xx / xx / year >. i did not rent a car with xxxx. and was still charged { $ 250. 00 }. i did not authorize xxxx to charge my card for services un - rendered. it should be clearly indicated that debit cards are not accepted. it wasn't. yet my'debit'card was charged...? if xxxx does not accept debit cards why then was my xxxx xxxx charged? my'debit card'can not then be charged because it was never accepted by xxxx as a valid form of payment. therefore i dispute the transaction as unauthorized. it should have been clearly stated. it was not. therefore i am owed a full refund, for the car i never rented.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994175434112549
+}

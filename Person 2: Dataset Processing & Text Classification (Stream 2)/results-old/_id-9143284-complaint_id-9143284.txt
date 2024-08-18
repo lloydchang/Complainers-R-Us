@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143284,
+  "complaint_id": "9143284",
+  "product": "Credit card",
+  "complaint_what_happened": "In accordance with the Fair Credit Reporting act XXXX Account # XXXX, has violated my rights. \n15 U.S.C 1681 section 602 A. States I have the right to privacy.\n\n15 U.S.C 1681 Section 604 A Section 2 : It also states a consumer reporting agency can not furnish a account without my written instructions 15 U.S.C 1666B : A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with fraud alerts or security freezes",
+  "sub_product": "Store credit card",
+  "zip_code": "33029",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": null,
+  "text": "In accordance with the Fair Credit Reporting act XXXX Account # XXXX, has violated my rights. \n15 U.S.C 1681 section 602 A. States I have the right to privacy.\n\n15 U.S.C 1681 Section 604 A Section 2 : It also states a consumer reporting agency can not furnish a account without my written instructions 15 U.S.C 1666B : A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose"
+}
+
+Chunk:
+in accordance with the fair credit reporting act xxxx account # xxxx, has violated my rights. 15 u. s. c 1681 section 602 a. states i have the right to privacy. 15 u. s. c 1681 section 604 a section 2 : it also states a consumer reporting agency can not furnish a account without my written instructions 15 u. s. c 1666b : a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9917446970939636
+}

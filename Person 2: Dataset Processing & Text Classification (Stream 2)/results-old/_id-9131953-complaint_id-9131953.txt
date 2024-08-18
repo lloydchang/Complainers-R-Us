@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9131953,
+  "complaint_id": "9131953",
+  "product": "Credit card",
+  "complaint_what_happened": "Ive consistently ensured timely payments for this account, never letting them become overdue. I'm unsure why there are reports of late payments on my accounts. Based on 15 USC 1666b, billing errors should be corrected.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "482XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "Ive consistently ensured timely payments for this account, never letting them become overdue. I'm unsure why there are reports of late payments on my accounts. Based on 15 USC 1666b, billing errors should be corrected."
+}
+
+Chunk:
+ive consistently ensured timely payments for this account, never letting them become overdue. i'm unsure why there are reports of late payments on my accounts. based on 15 usc 1666b, billing errors should be corrected.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.6870550513267517
+}

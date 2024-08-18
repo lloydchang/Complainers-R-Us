@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9655682,
+  "complaint_id": "9655682",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello I made an online payment to payment to my Elan ( US Bank ) card. It was to a retired person, a significant amount {$2700.00} on XX/XX/XXXX. Elan then debited my account on XX/XX/XXXX ( shows each on my statement as hitting on XX/XX/XXXX. \n\nElan did not adjust the monthly payment for payments already received. \n\nNow trying to get my $ back has become a series of misinformation, roadblocks, and a very poor supervisor/manager named XXXX. \n\n1. Oh it has to clear your account. It cleared on XX/XX/XXXX XXXX ( Elan ) failed to adjust the monthly withdrawal amount XXXX. It will take 14 days to get you your money 3. Wanted to set up a dispute and go to arbitration oh you have to get a lawyer to file for arbitration as a payment is not a transaction. What???????? Last time I looked right on the statement are all of my credit and debit transactions 4. They can do an expedited review if I either send in or fax a copy of my XXXX XXXX account statement showing that the transaction has cleared ( ummmmmm.. it is posted to the account, it has cleared- it been 5 days. \n5. They said I can only fax or mail in my statement they do t have email. Funny that a bank wouldnt have an email system. I do t have access to a fax machine.",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Hello I made an online payment to payment to my Elan ( US Bank ) card. It was to a retired person, a significant amount {$2700.00} on XX/XX/XXXX. Elan then debited my account on XX/XX/XXXX ( shows each on my statement as hitting on XX/XX/XXXX. \n\nElan did not adjust the monthly payment for payments already received. \n\nNow trying to get my $ back has become a series of misinformation, roadblocks, and a very poor supervisor/manager named XXXX. \n\n1. Oh it has to clear your account. It cleared on XX/XX/XXXX XXXX ( Elan ) failed to adjust the monthly withdrawal amount XXXX. It will take 14 days to get you your money 3. Wanted to set up a dispute and go to arbitration oh you have to get a lawyer to file for arbitration as a payment is not a transaction. What???????? Last time I looked right on the statement are all of my credit and debit transactions 4. They can do an expedited review if I either send in or fax a copy of my XXXX XXXX account statement showing that the transaction has cleared ( ummmmmm.. it is posted to the account, it has cleared- it been 5 days. \n5. They said I can only fax or mail in my statement they do t have email. Funny that a bank wouldnt have an email system. I do t have access to a fax machine."
+}
+
+Chunk:
+hello i made an online payment to payment to my elan ( us bank ) card. it was to a retired person, a significant amount { $ 2700. 00 } on xx / xx / xxxx. elan then debited my account on xx / xx / xxxx ( shows each on my statement as hitting on xx / xx / xxxx. elan did not adjust the monthly payment for payments already received. now trying to get my $ back has become a series of misinformation, roadblocks, and a very poor supervisor / manager named xxxx. 1. oh it has to clear your account. it cleared on xx / xx / xxxx xxxx ( elan ) failed to adjust the monthly withdrawal amount xxxx. it will take 14 days to get you your money 3. wanted to set up a dispute and go to arbitration oh you have to get a lawyer to file for arbitration as a payment is not a transaction. what???????? last time i looked right on the statement are all of my credit and debit transactions 4. they can do an expedited review if i either send in or fax a copy of my xxxx xxxx account statement showing that the transaction has cleared ( ummmmmm.. it is posted to the account, it has cleared - it been 5 days. 5. they said i can only fax or mail in my statement they do t have email. funny that a bank wouldnt have an email system. i do t have access to a fax machine.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999616265296936
+}

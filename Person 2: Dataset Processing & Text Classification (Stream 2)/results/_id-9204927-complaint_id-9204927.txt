@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204927,
+  "complaint_id": "9204927",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One business credit card offers payments to vendors on their website through a partnership they have with XXXX. \n\nCapital one is the largest stakeholder and investor in XXXX. \n\nWe've made some payments through this system. But the vendors never received the payments. Now we are trying to get refunds for the payments and the processing fee, but they will not refund us. \n\nI even got an email from XXXX stating that if we released the dispute, they will release our funds... It's doesn't even seem legal? \n\nEvery time I call capital one, they tell me to call XXXX even though the service is offered through capital one, And capital one is the largest stakeholder and investor in XXXX. \n\nI don't see how they can keep the processing fee of a transaction That was never completed... And I don't see how they can offer us to give us the money back if we cancel the disputes??",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32225",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Capital One business credit card offers payments to vendors on their website through a partnership they have with XXXX. \n\nCapital one is the largest stakeholder and investor in XXXX. \n\nWe've made some payments through this system. But the vendors never received the payments. Now we are trying to get refunds for the payments and the processing fee, but they will not refund us. \n\nI even got an email from XXXX stating that if we released the dispute, they will release our funds... It's doesn't even seem legal? \n\nEvery time I call capital one, they tell me to call XXXX even though the service is offered through capital one, And capital one is the largest stakeholder and investor in XXXX. \n\nI don't see how they can keep the processing fee of a transaction That was never completed... And I don't see how they can offer us to give us the money back if we cancel the disputes??"
+}
+
+Chunk:
+capital one business credit card offers payments to vendors on their website through a partnership they have with xxxx. capital one is the largest stakeholder and investor in xxxx. we've made some payments through this system. but the vendors never received the payments. now we are trying to get refunds for the payments and the processing fee, but they will not refund us. i even got an email from xxxx stating that if we released the dispute, they will release our funds... it's doesn't even seem legal? every time i call capital one, they tell me to call xxxx even though the service is offered through capital one, and capital one is the largest stakeholder and investor in xxxx. i don't see how they can keep the processing fee of a transaction that was never completed... and i don't see how they can offer us to give us the money back if we cancel the disputes??
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994614720344543
+}

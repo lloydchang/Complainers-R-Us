@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9207596,
+  "complaint_id": "9207596",
+  "product": "Credit card",
+  "complaint_what_happened": "USAA requested additional information in XX/XX/XXXX, but I was not notified of this request through my usual notification channels. I did not receive a push notification or see the typical red alert in the app. Historically, USAA has reliably notified me of important matters via email, but no email was sent regarding this dispute. Due to this lack of notification, I was unaware of the need for additional information, leading to the dispute being closed in XX/XX/XXXX due to non-response. \n\nFrom XX/XX/XXXX to XX/XX/XXXX, I contacted USAA multiple times for updates and was assured that someone would follow up. Unfortunately, I did not receive substantive responses. Eventually, I was informed that the dispute could not be reopened as it was outside the allowable timeframe, due to restrictions from XXXX XXXX. \n\nDuring a recent conversation with a USAA dispute specialist, it was confirmed that while the documents were sent, there was no evidence of a notification being sent, potentially due to an IT issue. This breakdown in communication prevented me from providing the necessary information and resolving the dispute.\n\nAs a result, I am now being held responsible for the full amount of the disputed charge. Additionally, during this entire process, USAA has been charging me XXXX  of dollars in interest and fees. This has significantly increased my financial burden. \n\nI believe USAA did not fulfill its duty to effectively notify me and provide a fair opportunity to resolve the issue. Given these circumstances, I do not feel that I should be held responsible for the full bill. I am seeking assistance to ensure that USAA provides a fair resolution that relieves me of the unjust financial burden caused by this situation.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes complaint represents an opportunity for improvement to better serve consumers",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "USAA requested additional information in XX/XX/XXXX, but I was not notified of this request through my usual notification channels. I did not receive a push notification or see the typical red alert in the app. Historically, USAA has reliably notified me of important matters via email, but no email was sent regarding this dispute. Due to this lack of notification, I was unaware of the need for additional information, leading to the dispute being closed in XX/XX/XXXX due to non-response. \n\nFrom XX/XX/XXXX to XX/XX/XXXX, I contacted USAA multiple times for updates and was assured that someone would follow up. Unfortunately, I did not receive substantive responses. Eventually, I was informed that the dispute could not be reopened as it was outside the allowable timeframe, due to restrictions from XXXX XXXX. \n\nDuring a recent conversation with a USAA dispute specialist, it was confirmed that while the documents were sent, there was no evidence of a notification being sent, potentially due to an IT issue. This breakdown in communication prevented me from providing the necessary information and resolving the dispute.\n\nAs a result, I am now being held responsible for the full amount of the disputed charge. Additionally, during this entire process, USAA has been charging me XXXX  of dollars in interest and fees. This has significantly increased my financial burden. \n\nI believe USAA did not fulfill its duty to effectively notify me and provide a fair opportunity to resolve the issue. Given these circumstances, I do not feel that I should be held responsible for the full bill. I am seeking assistance to ensure that USAA provides a fair resolution that relieves me of the unjust financial burden caused by this situation."
+}
+
+Chunk:
+usaa requested additional information in xx / xx / xxxx, but i was not notified of this request through my usual notification channels. i did not receive a push notification or see the typical red alert in the app. historically, usaa has reliably notified me of important matters via email, but no email was sent regarding this dispute. due to this lack of notification, i was unaware of the need for additional information, leading to the dispute being closed in xx / xx / xxxx due to non - response. from xx / xx / xxxx to xx / xx / xxxx, i contacted usaa multiple times for updates and was assured that someone would follow up. unfortunately, i did not receive substantive responses. eventually, i was informed that the dispute could not be reopened as it was outside the allowable timeframe, due to restrictions from xxxx xxxx. during a recent conversation with a usaa dispute specialist, it was confirmed that while the documents were sent, there was no evidence of a notification being sent, potentially due to an it issue. this breakdown in communication prevented me from providing the necessary information and resolving the dispute. as a result, i am now being held responsible for the full amount of the disputed charge. additionally, during this entire process, usaa has been charging me xxxx of dollars in interest and fees. this has significantly increased my financial burden. i believe usaa did not fulfill its duty to effectively notify me and provide a fair opportunity to resolve the issue. given these circumstances, i do not feel that i should be held responsible for the full bill. i am seeking assistance to ensure that usaa provides a fair resolution that relieves me of the unjust financial burden caused by this situation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994852542877197
+}

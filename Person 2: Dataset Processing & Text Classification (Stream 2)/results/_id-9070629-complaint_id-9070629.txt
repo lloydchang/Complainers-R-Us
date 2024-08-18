@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9070629,
+  "complaint_id": "9070629",
+  "product": "Credit card",
+  "complaint_what_happened": "The Credit Card Issuer and Billing Company are the same : USAA ( united Services Automobile Association ), I a member XXXX. \n\nThe company sent out a renewal notice in XXXX at the same time the insurance was being revised. They billed based on that renewal notice but then issue the policy was revised for {$200.00} less ( a car was removed ). I requested that they credit the card ( USAA Issued ) with the actual current policy amount. \n\nBy phone I was told that USAA does not credit back changed policy amounts, even though the billed amount was not due. They sated that the change would be issued as a credit on some subsequent policy charge. Effectively they issue a charge on the card for services not provided. \n\nThey aske for evidence. I sent them there invoice ( attached ) They responded ( attached denying the disputed amount.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "109XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "The Credit Card Issuer and Billing Company are the same : USAA ( united Services Automobile Association ), I a member XXXX. \n\nThe company sent out a renewal notice in XXXX at the same time the insurance was being revised. They billed based on that renewal notice but then issue the policy was revised for {$200.00} less ( a car was removed ). I requested that they credit the card ( USAA Issued ) with the actual current policy amount. \n\nBy phone I was told that USAA does not credit back changed policy amounts, even though the billed amount was not due. They sated that the change would be issued as a credit on some subsequent policy charge. Effectively they issue a charge on the card for services not provided. \n\nThey aske for evidence. I sent them there invoice ( attached ) They responded ( attached denying the disputed amount."
+}
+
+Chunk:
+the credit card issuer and billing company are the same : usaa ( united services automobile association ), i a member xxxx. the company sent out a renewal notice in xxxx at the same time the insurance was being revised. they billed based on that renewal notice but then issue the policy was revised for { $ 200. 00 } less ( a car was removed ). i requested that they credit the card ( usaa issued ) with the actual current policy amount. by phone i was told that usaa does not credit back changed policy amounts, even though the billed amount was not due. they sated that the change would be issued as a credit on some subsequent policy charge. effectively they issue a charge on the card for services not provided. they aske for evidence. i sent them there invoice ( attached ) they responded ( attached denying the disputed amount.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9971959590911865
+}

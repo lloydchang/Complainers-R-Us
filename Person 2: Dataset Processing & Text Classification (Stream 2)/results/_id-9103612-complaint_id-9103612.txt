@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9103612,
+  "complaint_id": "9103612",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I received XXXX letters from Synchrony Bank informing me that they had closed my XXXX credit cards ( CareCredit, XXXX XXXX, Guitar Center and Musician 's Friend ) because, according to the letters, \" Activity on accounts ( s ) with Synchrony Bank indicative of high risk of failure to pay. '' I have never made a late payment for any of these cards, and in fact, I have usually paid the balance in full right away. However, I have not often used these cards and Synchrony previously closed another account I had for a flooring company because I had not used the card. I have received notices for other cards that I have not used warning me it will be closed for inactivity, and I then use it for something if i want to keep it active. When I called Synchrony on XX/XX/year>, the representative first told me that they were closed because of my credit score ( my most recent score is XXXX ). When i challenged that, the rep talked to someone else and then told me that it was for some other reason related to the wording of their letters and there was nothing else she could tell me. It doesn't make sense to me, and this will impact my credit score. This appears to be a dishonest and unfair action on the part of Synchrony Bank. I am attaching copies of the letters from Synchrony as well as a copy of my most recent credit score reports prior to receiving these letters.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "08055",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year>, I received XXXX letters from Synchrony Bank informing me that they had closed my XXXX credit cards ( CareCredit, XXXX XXXX, Guitar Center and Musician 's Friend ) because, according to the letters, \" Activity on accounts ( s ) with Synchrony Bank indicative of high risk of failure to pay. '' I have never made a late payment for any of these cards, and in fact, I have usually paid the balance in full right away. However, I have not often used these cards and Synchrony previously closed another account I had for a flooring company because I had not used the card. I have received notices for other cards that I have not used warning me it will be closed for inactivity, and I then use it for something if i want to keep it active. When I called Synchrony on XX/XX/year>, the representative first told me that they were closed because of my credit score ( my most recent score is XXXX ). When i challenged that, the rep talked to someone else and then told me that it was for some other reason related to the wording of their letters and there was nothing else she could tell me. It doesn't make sense to me, and this will impact my credit score. This appears to be a dishonest and unfair action on the part of Synchrony Bank. I am attaching copies of the letters from Synchrony as well as a copy of my most recent credit score reports prior to receiving these letters."
+}
+
+Chunk:
+on xx / xx / year >, i received xxxx letters from synchrony bank informing me that they had closed my xxxx credit cards ( carecredit, xxxx xxxx, guitar center and musician's friend ) because, according to the letters, " activity on accounts ( s ) with synchrony bank indicative of high risk of failure to pay.'' i have never made a late payment for any of these cards, and in fact, i have usually paid the balance in full right away. however, i have not often used these cards and synchrony previously closed another account i had for a flooring company because i had not used the card. i have received notices for other cards that i have not used warning me it will be closed for inactivity, and i then use it for something if i want to keep it active. when i called synchrony on xx / xx / year >, the representative first told me that they were closed because of my credit score ( my most recent score is xxxx ). when i challenged that, the rep talked to someone else and then told me that it was for some other reason related to the wording of their letters and there was nothing else she could tell me. it doesn't make sense to me, and this will impact my credit score. this appears to be a dishonest and unfair action on the part of synchrony bank. i am attaching copies of the letters from synchrony as well as a copy of my most recent credit score reports prior to receiving these letters.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995742440223694
+}

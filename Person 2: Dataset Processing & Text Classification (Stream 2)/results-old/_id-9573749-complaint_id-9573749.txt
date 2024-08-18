@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9573749,
+  "complaint_id": "9573749",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, my XXXX Citi Card was declined at a restaurant. On XX/XX/XXXX, it was declined again at a movie theater. I called in on XX/XX/XXXX requesting information on why it was being declined. The first representative gave me a runaround and an ambiguous answer that I would have to wait for \" further information '' either through phone, text, email, or letter. He did not specify which or the timing. The second representative hung up on me. The third one gave me the same information the first one did, transferred me to a supervisor who said the same thing, and transferred me to a manager. The manager said he could not access the account and to expect further communication. He also could specify method or timing. None of the five representatives could explain why the card was being declined nor what \" additional verification '' meant. I have been unable to use this card for over 2 days now. If I'm to expect a letter, that could add two weeks which means I will lose out on two weeks to get my sign up bonus also. Citi is not providing any useful information on why my card can not be used. As far as I'm concerned, Citi is just trying to cheat me out of my money by getting me to open a card and manipulating things so I can't get the bonus or utilize the credit line.",
+  "date_sent_to_company": "2024-07-21T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92501",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "On XX/XX/XXXX, my XXXX Citi Card was declined at a restaurant. On XX/XX/XXXX, it was declined again at a movie theater. I called in on XX/XX/XXXX requesting information on why it was being declined. The first representative gave me a runaround and an ambiguous answer that I would have to wait for \" further information '' either through phone, text, email, or letter. He did not specify which or the timing. The second representative hung up on me. The third one gave me the same information the first one did, transferred me to a supervisor who said the same thing, and transferred me to a manager. The manager said he could not access the account and to expect further communication. He also could specify method or timing. None of the five representatives could explain why the card was being declined nor what \" additional verification '' meant. I have been unable to use this card for over 2 days now. If I'm to expect a letter, that could add two weeks which means I will lose out on two weeks to get my sign up bonus also. Citi is not providing any useful information on why my card can not be used. As far as I'm concerned, Citi is just trying to cheat me out of my money by getting me to open a card and manipulating things so I can't get the bonus or utilize the credit line."
+}
+
+Chunk:
+on xx / xx / xxxx, my xxxx citi card was declined at a restaurant. on xx / xx / xxxx, it was declined again at a movie theater. i called in on xx / xx / xxxx requesting information on why it was being declined. the first representative gave me a runaround and an ambiguous answer that i would have to wait for " further information'' either through phone, text, email, or letter. he did not specify which or the timing. the second representative hung up on me. the third one gave me the same information the first one did, transferred me to a supervisor who said the same thing, and transferred me to a manager. the manager said he could not access the account and to expect further communication. he also could specify method or timing. none of the five representatives could explain why the card was being declined nor what " additional verification'' meant. i have been unable to use this card for over 2 days now. if i'm to expect a letter, that could add two weeks which means i will lose out on two weeks to get my sign up bonus also. citi is not providing any useful information on why my card can not be used. as far as i'm concerned, citi is just trying to cheat me out of my money by getting me to open a card and manipulating things so i can't get the bonus or utilize the credit line.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995977282524109
+}

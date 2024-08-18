@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9031751,
+  "complaint_id": "9031751",
+  "product": "Credit card",
+  "complaint_what_happened": "Elan credit card I paid off the card and disputed the amount I owed and then the company said it investigated it and it did not accurately do so. It showed two months prior amount, not the month of the dispute. What a poor way of correcting the issue and showing two months prior statement. Thanks for not being accurate!",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "474XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "Elan credit card I paid off the card and disputed the amount I owed and then the company said it investigated it and it did not accurately do so. It showed two months prior amount, not the month of the dispute. What a poor way of correcting the issue and showing two months prior statement. Thanks for not being accurate!"
+}
+
+Chunk:
+elan credit card i paid off the card and disputed the amount i owed and then the company said it investigated it and it did not accurately do so. it showed two months prior amount, not the month of the dispute. what a poor way of correcting the issue and showing two months prior statement. thanks for not being accurate!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996728897094727
+}

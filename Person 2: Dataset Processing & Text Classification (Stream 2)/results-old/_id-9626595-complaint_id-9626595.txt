@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9626595,
+  "complaint_id": "9626595",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an e-mail earlier this week seemingly from Bank of America that I had been denied for their XXXX XXXXXXXX XXXX XXXX card. I do not bank with Bank of America, nor did I ever apply for said card. I thought it might be a scam, so unfortunately I deleted the e-mail. Today ( XXXX ), I received a letter in the mail from XXXX XXXXXXXX XXXX stating that they couldn't approve my request for their XXXX XXXXXXXX XXXX XXXX card. \nI called the XXXX number and reported this, and they suggested I call Bank of America 's fraud line. When I call their fraud line, it's automated and I'm asked to enter my account number or other information that I don't have, as ( like I stated above ) I do not bank with Bank of America. I am concerned about my data having leaked and possible identity fraud/theft.",
+  "date_sent_to_company": "2024-07-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85248",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-26T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I received an e-mail earlier this week seemingly from Bank of America that I had been denied for their XXXX XXXXXXXX XXXX XXXX card. I do not bank with Bank of America, nor did I ever apply for said card. I thought it might be a scam, so unfortunately I deleted the e-mail. Today ( XXXX ), I received a letter in the mail from XXXX XXXXXXXX XXXX stating that they couldn't approve my request for their XXXX XXXXXXXX XXXX XXXX card. \nI called the XXXX number and reported this, and they suggested I call Bank of America 's fraud line. When I call their fraud line, it's automated and I'm asked to enter my account number or other information that I don't have, as ( like I stated above ) I do not bank with Bank of America. I am concerned about my data having leaked and possible identity fraud/theft."
+}
+
+Chunk:
+i received an e - mail earlier this week seemingly from bank of america that i had been denied for their xxxx xxxxxxxx xxxx xxxx card. i do not bank with bank of america, nor did i ever apply for said card. i thought it might be a scam, so unfortunately i deleted the e - mail. today ( xxxx ), i received a letter in the mail from xxxx xxxxxxxx xxxx stating that they couldn't approve my request for their xxxx xxxxxxxx xxxx xxxx card. i called the xxxx number and reported this, and they suggested i call bank of america's fraud line. when i call their fraud line, it's automated and i'm asked to enter my account number or other information that i don't have, as ( like i stated above ) i do not bank with bank of america. i am concerned about my data having leaked and possible identity fraud / theft.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986951947212219
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9428282,
+  "complaint_id": "9428282",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX credit card was paid over {$5000.00} in XXXX months to reduce the balance after months of difficulty logging in in XXXX, XXXX and XXXX. Addionally phone calls during XXXX and XXXX were not helpful in getting through. No statements are being mailed and access by phone was spotty depending on phone time if they would pick up after choosing the correct buttons. \n\nThe executive office knew we gave the correct account number for a payment in XXXX of 2024 after we requested she review it. It was not processed because the rep made and error. \n\nThe Citi executive rep was sneaky and wrote back that we provided an acct number and the rep repeated the wrong number and we agreed. If we were driving and could not review the rep repeating their own error that is not our error. We simply did not hear or know to correct their error. \n\nI have attached the XXXX XXXX for the account number and routing number provided showing no return occurred. That a balance exceed the payment made to Citi NA  We gave the correct account number as it is not known by memory and had to be read initially. \n\nAs a result they did not credit that months payment and created lates XXXX sequential months. \n\nThe executive office should be more honest and forthcoming on their errors effecting consumers. Not dishonest and deceptive by not addressing their own rep making the initial error in payment.",
+  "date_sent_to_company": "2024-07-05T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-05T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "XXXX credit card was paid over {$5000.00} in XXXX months to reduce the balance after months of difficulty logging in in XXXX, XXXX and XXXX. Addionally phone calls during XXXX and XXXX were not helpful in getting through. No statements are being mailed and access by phone was spotty depending on phone time if they would pick up after choosing the correct buttons. \n\nThe executive office knew we gave the correct account number for a payment in XXXX of 2024 after we requested she review it. It was not processed because the rep made and error. \n\nThe Citi executive rep was sneaky and wrote back that we provided an acct number and the rep repeated the wrong number and we agreed. If we were driving and could not review the rep repeating their own error that is not our error. We simply did not hear or know to correct their error. \n\nI have attached the XXXX XXXX for the account number and routing number provided showing no return occurred. That a balance exceed the payment made to Citi NA  We gave the correct account number as it is not known by memory and had to be read initially. \n\nAs a result they did not credit that months payment and created lates XXXX sequential months. \n\nThe executive office should be more honest and forthcoming on their errors effecting consumers. Not dishonest and deceptive by not addressing their own rep making the initial error in payment."
+}
+
+Chunk:
+xxxx credit card was paid over { $ 5000. 00 } in xxxx months to reduce the balance after months of difficulty logging in in xxxx, xxxx and xxxx. addionally phone calls during xxxx and xxxx were not helpful in getting through. no statements are being mailed and access by phone was spotty depending on phone time if they would pick up after choosing the correct buttons. the executive office knew we gave the correct account number for a payment in xxxx of 2024 after we requested she review it. it was not processed because the rep made and error. the citi executive rep was sneaky and wrote back that we provided an acct number and the rep repeated the wrong number and we agreed. if we were driving and could not review the rep repeating their own error that is not our error. we simply did not hear or know to correct their error. i have attached the xxxx xxxx for the account number and routing number provided showing no return occurred. that a balance exceed the payment made to citi na we gave the correct account number as it is not known by memory and had to be read initially. as a result they did not credit that months payment and created lates xxxx sequential months. the executive office should be more honest and forthcoming on their errors effecting consumers. not dishonest and deceptive by not addressing their own rep making the initial error in payment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975594282150269
+}

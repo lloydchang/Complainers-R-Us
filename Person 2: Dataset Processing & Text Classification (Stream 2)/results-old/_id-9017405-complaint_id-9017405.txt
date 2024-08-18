@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017405,
+  "complaint_id": "9017405",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally lodge a complaint against CitiBank regarding their handling of a dispute charge on my account. The charge in question amounts to {$1800.00} and was made on XX/XX/XXXX, for an order placed with XXXX. Despite my repeated communications and provision of necessary documentation, CitiBank has failed to resolve this dispute to my satisfaction. \n\nTo provide context, I never received the merchandise from XXXX for which I was charged {$1800.00}. Upon realizing this, I immediately contacted CitiBank and filed a dispute ( Dispute Case Number : XXXX ). After several months of purported investigation, CitiBank informed me in a letter dated XX/XX/XXXX, that they had made every effort to resolve the dispute but were unable to secure a refund from the merchant. \n\nThis conclusion is unacceptable and reflects gross negligence on the part of CitiBank 's dispute resolution team. The merchant did not provide any tracking number or tracking history to confirm the shipment of the order. Instead of thoroughly reviewing the documentation and demanding proper evidence from the merchant, CitiBank simply accepted the merchant 's refusal to issue a refund. This action, or lack thereof, demonstrates a clear failure on the part of CitiBank to act in the best interest of their customer and to fulfill their duty in the dispute resolution process. \n\nI am deeply frustrated and disappointed by CitiBank 's inadequate response and their apparent disregard for customer protection. It is evident that CitiBank did not conduct a thorough investigation and instead opted for a cursory review that favored the merchant without any substantial proof of delivery.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11101",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to formally lodge a complaint against CitiBank regarding their handling of a dispute charge on my account. The charge in question amounts to {$1800.00} and was made on XX/XX/XXXX, for an order placed with XXXX. Despite my repeated communications and provision of necessary documentation, CitiBank has failed to resolve this dispute to my satisfaction. \n\nTo provide context, I never received the merchandise from XXXX for which I was charged {$1800.00}. Upon realizing this, I immediately contacted CitiBank and filed a dispute ( Dispute Case Number : XXXX ). After several months of purported investigation, CitiBank informed me in a letter dated XX/XX/XXXX, that they had made every effort to resolve the dispute but were unable to secure a refund from the merchant. \n\nThis conclusion is unacceptable and reflects gross negligence on the part of CitiBank 's dispute resolution team. The merchant did not provide any tracking number or tracking history to confirm the shipment of the order. Instead of thoroughly reviewing the documentation and demanding proper evidence from the merchant, CitiBank simply accepted the merchant 's refusal to issue a refund. This action, or lack thereof, demonstrates a clear failure on the part of CitiBank to act in the best interest of their customer and to fulfill their duty in the dispute resolution process. \n\nI am deeply frustrated and disappointed by CitiBank 's inadequate response and their apparent disregard for customer protection. It is evident that CitiBank did not conduct a thorough investigation and instead opted for a cursory review that favored the merchant without any substantial proof of delivery."
+}
+
+Chunk:
+i am writing to formally lodge a complaint against citibank regarding their handling of a dispute charge on my account. the charge in question amounts to { $ 1800. 00 } and was made on xx / xx / xxxx, for an order placed with xxxx. despite my repeated communications and provision of necessary documentation, citibank has failed to resolve this dispute to my satisfaction. to provide context, i never received the merchandise from xxxx for which i was charged { $ 1800. 00 }. upon realizing this, i immediately contacted citibank and filed a dispute ( dispute case number : xxxx ). after several months of purported investigation, citibank informed me in a letter dated xx / xx / xxxx, that they had made every effort to resolve the dispute but were unable to secure a refund from the merchant. this conclusion is unacceptable and reflects gross negligence on the part of citibank's dispute resolution team. the merchant did not provide any tracking number or tracking history to confirm the shipment of the order. instead of thoroughly reviewing the documentation and demanding proper evidence from the merchant, citibank simply accepted the merchant's refusal to issue a refund. this action, or lack thereof, demonstrates a clear failure on the part of citibank to act in the best interest of their customer and to fulfill their duty in the dispute resolution process. i am deeply frustrated and disappointed by citibank's inadequate response and their apparent disregard for customer protection. it is evident that citibank did not conduct a thorough investigation and instead opted for a cursory review that favored the merchant without any substantial proof of delivery.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997153878211975
+}

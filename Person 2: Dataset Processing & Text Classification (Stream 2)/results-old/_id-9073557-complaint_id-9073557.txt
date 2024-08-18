@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9073557,
+  "complaint_id": "9073557",
+  "product": "Credit card",
+  "complaint_what_happened": "I am physically unable to login to the American Express account that has an alleged balance due from my bills. Conveniently, that is also my access to the supporting documentation I would take to an attorney since they provided me a non-answer regarding my earlier complaint. \n\nFor the past XXXX days, again conveniently during them actually deciding to investigate the CFPB complaint since I've been talking about it at the end of XXXX, I am now unable to reset my password and get into the account. \n\nAgain, please see another attached screenshot. Though they conveniently want this to go away, I have no ability to actually pay of the alleged debt even if I wanted to.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60142",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I am physically unable to login to the American Express account that has an alleged balance due from my bills. Conveniently, that is also my access to the supporting documentation I would take to an attorney since they provided me a non-answer regarding my earlier complaint. \n\nFor the past XXXX days, again conveniently during them actually deciding to investigate the CFPB complaint since I've been talking about it at the end of XXXX, I am now unable to reset my password and get into the account. \n\nAgain, please see another attached screenshot. Though they conveniently want this to go away, I have no ability to actually pay of the alleged debt even if I wanted to."
+}
+
+Chunk:
+i am physically unable to login to the american express account that has an alleged balance due from my bills. conveniently, that is also my access to the supporting documentation i would take to an attorney since they provided me a non - answer regarding my earlier complaint. for the past xxxx days, again conveniently during them actually deciding to investigate the cfpb complaint since i've been talking about it at the end of xxxx, i am now unable to reset my password and get into the account. again, please see another attached screenshot. though they conveniently want this to go away, i have no ability to actually pay of the alleged debt even if i wanted to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993035793304443
+}

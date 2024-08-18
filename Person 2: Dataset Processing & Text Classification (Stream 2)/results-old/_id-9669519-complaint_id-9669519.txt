@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9669519,
+  "complaint_id": "9669519",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi bank over charged me twice on XX/XX/year> for XXXX. Over the course of 2 months, I tried reaching out and repeatedly got no where, each one giving me a different answer, saying I will get the money back, another saying I won, even with the confirmation that they were supposed to send me back the money. \nI got my bank involved and my bank was able to get my money back, but citi card charged back that same amount that they gave the bank to me of {$2700.00}. \nI called and they refused to let me file a dispute, flat out. I called my bank again and she found evidence that I was over charged twice on XX/XX/year>. Now the statements have changed and Im still not able to file a dispute on their website.",
+  "date_sent_to_company": "2024-08-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60189",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-01T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Citi bank over charged me twice on XX/XX/year> for XXXX. Over the course of 2 months, I tried reaching out and repeatedly got no where, each one giving me a different answer, saying I will get the money back, another saying I won, even with the confirmation that they were supposed to send me back the money. \nI got my bank involved and my bank was able to get my money back, but citi card charged back that same amount that they gave the bank to me of {$2700.00}. \nI called and they refused to let me file a dispute, flat out. I called my bank again and she found evidence that I was over charged twice on XX/XX/year>. Now the statements have changed and Im still not able to file a dispute on their website."
+}
+
+Chunk:
+citi bank over charged me twice on xx / xx / year > for xxxx. over the course of 2 months, i tried reaching out and repeatedly got no where, each one giving me a different answer, saying i will get the money back, another saying i won, even with the confirmation that they were supposed to send me back the money. i got my bank involved and my bank was able to get my money back, but citi card charged back that same amount that they gave the bank to me of { $ 2700. 00 }. i called and they refused to let me file a dispute, flat out. i called my bank again and she found evidence that i was over charged twice on xx / xx / year >. now the statements have changed and im still not able to file a dispute on their website.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998460054397583
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9158881,
+  "complaint_id": "9158881",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello. I was purchasing an airline ticket through XXXX XXXX online when during the checkout process, I was invited to apply for the Citi AAdvantage Platinum Select Card. There was a {$400.00} statement credit and XXXX points bonus. My credit is exceptional. Over XXXX ( currently XXXX ) with no derogatories and never a late payment my combined balances are under XXXX and I have a good steady income. Citi declined my application. I was not able to get a rep on the phone for over 2 hours. I finally had to call XXXX XXXX to have a manager contact Citi. They declined me for the simple fact that I was going to use the statement credit towards the current purchase and they didn't think based on my history and low balances that they would make enough money off of me. This decline has negatively impacted my excellent credit score that I have worked years to maintain. They are not allowed to decline me just because I wanted to use the card for the bonus. I believe that Citi has engaged in predatory lending practices and have caused harm to my credit score not to mention all of the stress, aggravation and wasted time.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11234",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Hello. I was purchasing an airline ticket through XXXX XXXX online when during the checkout process, I was invited to apply for the Citi AAdvantage Platinum Select Card. There was a {$400.00} statement credit and XXXX points bonus. My credit is exceptional. Over XXXX ( currently XXXX ) with no derogatories and never a late payment my combined balances are under XXXX and I have a good steady income. Citi declined my application. I was not able to get a rep on the phone for over 2 hours. I finally had to call XXXX XXXX to have a manager contact Citi. They declined me for the simple fact that I was going to use the statement credit towards the current purchase and they didn't think based on my history and low balances that they would make enough money off of me. This decline has negatively impacted my excellent credit score that I have worked years to maintain. They are not allowed to decline me just because I wanted to use the card for the bonus. I believe that Citi has engaged in predatory lending practices and have caused harm to my credit score not to mention all of the stress, aggravation and wasted time."
+}
+
+Chunk:
+hello. i was purchasing an airline ticket through xxxx xxxx online when during the checkout process, i was invited to apply for the citi aadvantage platinum select card. there was a { $ 400. 00 } statement credit and xxxx points bonus. my credit is exceptional. over xxxx ( currently xxxx ) with no derogatories and never a late payment my combined balances are under xxxx and i have a good steady income. citi declined my application. i was not able to get a rep on the phone for over 2 hours. i finally had to call xxxx xxxx to have a manager contact citi. they declined me for the simple fact that i was going to use the statement credit towards the current purchase and they didn't think based on my history and low balances that they would make enough money off of me. this decline has negatively impacted my excellent credit score that i have worked years to maintain. they are not allowed to decline me just because i wanted to use the card for the bonus. i believe that citi has engaged in predatory lending practices and have caused harm to my credit score not to mention all of the stress, aggravation and wasted time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9334296584129333
+}

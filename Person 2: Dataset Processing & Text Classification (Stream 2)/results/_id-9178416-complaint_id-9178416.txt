@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178416,
+  "complaint_id": "9178416",
+  "product": "Credit card",
+  "complaint_what_happened": "Received Change in Terms Notice from Synchrony/JCPenney store card rates are being increased to 34.99 % APR. \n\nClosed account. Bog banks are at it again, passing on higher costs to consumer. \n\nJC Penney lost a customer today. Shame on this increase for people with exceptional credit.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "53142",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Received Change in Terms Notice from Synchrony/JCPenney store card rates are being increased to 34.99 % APR. \n\nClosed account. Bog banks are at it again, passing on higher costs to consumer. \n\nJC Penney lost a customer today. Shame on this increase for people with exceptional credit."
+}
+
+Chunk:
+received change in terms notice from synchrony / jcpenney store card rates are being increased to 34. 99 % apr. closed account. bog banks are at it again, passing on higher costs to consumer. jc penney lost a customer today. shame on this increase for people with exceptional credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994229078292847
+}

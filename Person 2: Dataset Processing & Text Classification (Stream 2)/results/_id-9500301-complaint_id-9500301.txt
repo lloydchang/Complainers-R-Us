@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9500301,
+  "complaint_id": "9500301",
+  "product": "Credit card",
+  "complaint_what_happened": "Citibank charged me two large late fees, plus interest, on a {$21.00} charge. The first late fee, imposed XX/XX/XXXX, was {$21.00}, and the second, imposed in XXXX, was {$41.00} plus {$1.00} interest, for a total of {$84.00} on a {$21.00} charge. The third was {$1.00} in additional interest, charged in XXXX. I checked, and these excessive fees seem to be against the new rule, implemented in XXXX, that CC late fees can not exceed {$8.00}. The company waived the {$41.00} fee and refused to waive the other fee, stating that the rule was stopped from implementation. I am not clear whether the government shares that view.",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22312",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Citibank charged me two large late fees, plus interest, on a {$21.00} charge. The first late fee, imposed XX/XX/XXXX, was {$21.00}, and the second, imposed in XXXX, was {$41.00} plus {$1.00} interest, for a total of {$84.00} on a {$21.00} charge. The third was {$1.00} in additional interest, charged in XXXX. I checked, and these excessive fees seem to be against the new rule, implemented in XXXX, that CC late fees can not exceed {$8.00}. The company waived the {$41.00} fee and refused to waive the other fee, stating that the rule was stopped from implementation. I am not clear whether the government shares that view."
+}
+
+Chunk:
+citibank charged me two large late fees, plus interest, on a { $ 21. 00 } charge. the first late fee, imposed xx / xx / xxxx, was { $ 21. 00 }, and the second, imposed in xxxx, was { $ 41. 00 } plus { $ 1. 00 } interest, for a total of { $ 84. 00 } on a { $ 21. 00 } charge. the third was { $ 1. 00 } in additional interest, charged in xxxx. i checked, and these excessive fees seem to be against the new rule, implemented in xxxx, that cc late fees can not exceed { $ 8. 00 }. the company waived the { $ 41. 00 } fee and refused to waive the other fee, stating that the rule was stopped from implementation. i am not clear whether the government shares that view.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983738660812378
+}

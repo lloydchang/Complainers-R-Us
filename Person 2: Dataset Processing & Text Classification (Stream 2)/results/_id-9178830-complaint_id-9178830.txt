@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178830,
+  "complaint_id": "9178830",
+  "product": "Credit card",
+  "complaint_what_happened": "THIS COMPLAINT IS INREGARDS TO A CHARGED-OFF ACCOUNT THAT IS REPORTED TO MY CONSUMER PROFILE. DISCOVER BANK- ACCOUNT XXXX. THE ACCOUNT OPENED ON XX/XX/year>, BELIEVE IS INCORRECT AND UNJUSTIFIED AND THIS IS MY SECOND A T T E M P T TO RESOLVE THIS WITH YOUR COMPANY. THE DATES THIS INFORMATION IS BEING REPORTED ACCORDING TO MY RECORDS ARE INCORRECT. THE CHARGE OFF SHALL REFLECTTHE ACUAL DATE OF THE ACCOUNT BECOMING DELINQUENT. UNFORANTELY FOR ME MY CONSUMER REPORT INDIACTES DATES THAT ARE BEYOND THE DELINDENCY OF THISCHARGE OFF. I AM ASKING FOR A PROPER REINVESTIGATION INTO THIS ACCOUNT AND SHOULD YOU FIND THIS ACCOUNT INACCURATE, I DEMAND THIS TRADE-LINE DELETED ENTIRELY. ITS YOUR DUTY AS A DATE FURNISHER TO ENSURE 100 PERCENT ACCURACY WHEN REPORTING TO SOMEONES CONSUMER REPORT. THIS ISSUE HAS CAUSED DEFAMTION TO MY CHARACTER, EMOTION DISTRESS AND LACK OF CREDIT WORTHINESS. I AM DEMANDING ANY AND ALL DOCUMENTS IN REGARDS TO THIS HARGE-OFF ACCOUNT I NEED TO SEE ALL INFORMATION THAT PROVIDES EVIDENCE OF REPORTING ACCURACY",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "088XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "THIS COMPLAINT IS INREGARDS TO A CHARGED-OFF ACCOUNT THAT IS REPORTED TO MY CONSUMER PROFILE. DISCOVER BANK- ACCOUNT XXXX. THE ACCOUNT OPENED ON XX/XX/year>, BELIEVE IS INCORRECT AND UNJUSTIFIED AND THIS IS MY SECOND A T T E M P T TO RESOLVE THIS WITH YOUR COMPANY. THE DATES THIS INFORMATION IS BEING REPORTED ACCORDING TO MY RECORDS ARE INCORRECT. THE CHARGE OFF SHALL REFLECTTHE ACUAL DATE OF THE ACCOUNT BECOMING DELINQUENT. UNFORANTELY FOR ME MY CONSUMER REPORT INDIACTES DATES THAT ARE BEYOND THE DELINDENCY OF THISCHARGE OFF. I AM ASKING FOR A PROPER REINVESTIGATION INTO THIS ACCOUNT AND SHOULD YOU FIND THIS ACCOUNT INACCURATE, I DEMAND THIS TRADE-LINE DELETED ENTIRELY. ITS YOUR DUTY AS A DATE FURNISHER TO ENSURE 100 PERCENT ACCURACY WHEN REPORTING TO SOMEONES CONSUMER REPORT. THIS ISSUE HAS CAUSED DEFAMTION TO MY CHARACTER, EMOTION DISTRESS AND LACK OF CREDIT WORTHINESS. I AM DEMANDING ANY AND ALL DOCUMENTS IN REGARDS TO THIS HARGE-OFF ACCOUNT I NEED TO SEE ALL INFORMATION THAT PROVIDES EVIDENCE OF REPORTING ACCURACY"
+}
+
+Chunk:
+this complaint is inregards to a charged - off account that is reported to my consumer profile. discover bank - account xxxx. the account opened on xx / xx / year >, believe is incorrect and unjustified and this is my second a t t e m p t to resolve this with your company. the dates this information is being reported according to my records are incorrect. the charge off shall reflectthe acual date of the account becoming delinquent. unforantely for me my consumer report indiactes dates that are beyond the delindency of thischarge off. i am asking for a proper reinvestigation into this account and should you find this account inaccurate, i demand this trade - line deleted entirely. its your duty as a date furnisher to ensure 100 percent accuracy when reporting to someones consumer report. this issue has caused defamtion to my character, emotion distress and lack of credit worthiness. i am demanding any and all documents in regards to this harge - off account i need to see all information that provides evidence of reporting accuracy
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994926452636719
+}

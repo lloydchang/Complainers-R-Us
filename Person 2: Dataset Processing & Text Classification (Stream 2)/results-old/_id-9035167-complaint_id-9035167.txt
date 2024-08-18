@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9035167,
+  "complaint_id": "9035167",
+  "product": "Credit card",
+  "complaint_what_happened": "There was a PayPal CREDIT CARD opened in the spring of 2020 that was opened fraudulently under my name that I have no knowledge of nor did I open it myself. I did have a regular XXXX XXXX XXXX account with them which I had set up and recieved notification of and all of those purchases that were made by me were paid for. The XXXX XXXX, XXXX, was never opened by me nor was I the one using it. Unfortunately, I had made additional payments to this thinking it was the XXXX XXXX XXXX. Only looking and calling the bank with whom it's thru did I realize that this was opened and used without my knowledge.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98004",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "There was a PayPal CREDIT CARD opened in the spring of 2020 that was opened fraudulently under my name that I have no knowledge of nor did I open it myself. I did have a regular XXXX XXXX XXXX account with them which I had set up and recieved notification of and all of those purchases that were made by me were paid for. The XXXX XXXX, XXXX, was never opened by me nor was I the one using it. Unfortunately, I had made additional payments to this thinking it was the XXXX XXXX XXXX. Only looking and calling the bank with whom it's thru did I realize that this was opened and used without my knowledge."
+}
+
+Chunk:
+there was a paypal credit card opened in the spring of 2020 that was opened fraudulently under my name that i have no knowledge of nor did i open it myself. i did have a regular xxxx xxxx xxxx account with them which i had set up and recieved notification of and all of those purchases that were made by me were paid for. the xxxx xxxx, xxxx, was never opened by me nor was i the one using it. unfortunately, i had made additional payments to this thinking it was the xxxx xxxx xxxx. only looking and calling the bank with whom it's thru did i realize that this was opened and used without my knowledge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999639630317688
+}

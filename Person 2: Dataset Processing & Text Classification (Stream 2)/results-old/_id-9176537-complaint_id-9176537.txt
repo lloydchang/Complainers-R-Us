@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9176537,
+  "complaint_id": "9176537",
+  "product": "Credit card",
+  "complaint_what_happened": "I am filing a complaint regarding a transaction with XXXX. On XX/XX/XXXX, I was charged {$100.00} by XXXX for a service I was unable to use due to significant digital accessibility barriers. As a legally XXXX user, their website was not accessible with screen reading software, preventing me from making necessary changes or canceling my booking. \n\nOn XX/XX/XXXX, I disputed this charge through XXXX with American Express but received no response. I followed up via chat on XX/XX/XXXX and explained the situation again, including the inaccessibility issues and my inability to resolve the matter directly with Kiwi.com by phone or online. \n\nDespite this, American Express initially withheld the charge but later rebilled me on XX/XX/XXXX. I uploaded a document explaining the situation, but American Express still favored the merchant, XXXX. My attempts to address this directly with both the merchant and American Express have been unsuccessful. I am seeking assistance in resolving this matter.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20016",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am filing a complaint regarding a transaction with XXXX. On XX/XX/XXXX, I was charged {$100.00} by XXXX for a service I was unable to use due to significant digital accessibility barriers. As a legally XXXX user, their website was not accessible with screen reading software, preventing me from making necessary changes or canceling my booking. \n\nOn XX/XX/XXXX, I disputed this charge through XXXX with American Express but received no response. I followed up via chat on XX/XX/XXXX and explained the situation again, including the inaccessibility issues and my inability to resolve the matter directly with Kiwi.com by phone or online. \n\nDespite this, American Express initially withheld the charge but later rebilled me on XX/XX/XXXX. I uploaded a document explaining the situation, but American Express still favored the merchant, XXXX. My attempts to address this directly with both the merchant and American Express have been unsuccessful. I am seeking assistance in resolving this matter."
+}
+
+Chunk:
+i am filing a complaint regarding a transaction with xxxx. on xx / xx / xxxx, i was charged { $ 100. 00 } by xxxx for a service i was unable to use due to significant digital accessibility barriers. as a legally xxxx user, their website was not accessible with screen reading software, preventing me from making necessary changes or canceling my booking. on xx / xx / xxxx, i disputed this charge through xxxx with american express but received no response. i followed up via chat on xx / xx / xxxx and explained the situation again, including the inaccessibility issues and my inability to resolve the matter directly with kiwi. com by phone or online. despite this, american express initially withheld the charge but later rebilled me on xx / xx / xxxx. i uploaded a document explaining the situation, but american express still favored the merchant, xxxx. my attempts to address this directly with both the merchant and american express have been unsuccessful. i am seeking assistance in resolving this matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998503565788269
+}

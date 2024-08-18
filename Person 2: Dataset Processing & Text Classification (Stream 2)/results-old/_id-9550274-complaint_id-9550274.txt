@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9550274,
+  "complaint_id": "9550274",
+  "product": "Credit card",
+  "complaint_what_happened": "This is concerning Citibank, specifically the Best Buy Visa Card On XX/XX/XXXX I received an email with an offer that If I spend {$750.00} outside of Best Buy by XX/XX/XXXX, I would receive a {$40.00} promotional rewards certificate. I activated the offer and proceeded to spend more than what was required. I never received the certificate. I called the Bank and she tried to help, but I don't think she understood how to fix it and tried to give me an account credit, to which I was not looking for, I simply wanted the certificate that was offered. I contacted Best Buy rewards and they proceeded to tell me that I had not opted into the promotion, which is not correct. I always click \" activate '' on these offers and save the emails just in case this happens. The fact that they have no way of backing up what they are saying, and I have no way of proving it makes me feel that they never intended to honor the promotion, and others may be in a similar situation due to their bug/error. It is completely misleading to offer this promotion to spend and get, but not provide the certificate in the end. I am beyond disappointed with this experience, and I hope they will honor the promotion that the advertised.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85381",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "This is concerning Citibank, specifically the Best Buy Visa Card On XX/XX/XXXX I received an email with an offer that If I spend {$750.00} outside of Best Buy by XX/XX/XXXX, I would receive a {$40.00} promotional rewards certificate. I activated the offer and proceeded to spend more than what was required. I never received the certificate. I called the Bank and she tried to help, but I don't think she understood how to fix it and tried to give me an account credit, to which I was not looking for, I simply wanted the certificate that was offered. I contacted Best Buy rewards and they proceeded to tell me that I had not opted into the promotion, which is not correct. I always click \" activate '' on these offers and save the emails just in case this happens. The fact that they have no way of backing up what they are saying, and I have no way of proving it makes me feel that they never intended to honor the promotion, and others may be in a similar situation due to their bug/error. It is completely misleading to offer this promotion to spend and get, but not provide the certificate in the end. I am beyond disappointed with this experience, and I hope they will honor the promotion that the advertised."
+}
+
+Chunk:
+this is concerning citibank, specifically the best buy visa card on xx / xx / xxxx i received an email with an offer that if i spend { $ 750. 00 } outside of best buy by xx / xx / xxxx, i would receive a { $ 40. 00 } promotional rewards certificate. i activated the offer and proceeded to spend more than what was required. i never received the certificate. i called the bank and she tried to help, but i don't think she understood how to fix it and tried to give me an account credit, to which i was not looking for, i simply wanted the certificate that was offered. i contacted best buy rewards and they proceeded to tell me that i had not opted into the promotion, which is not correct. i always click " activate'' on these offers and save the emails just in case this happens. the fact that they have no way of backing up what they are saying, and i have no way of proving it makes me feel that they never intended to honor the promotion, and others may be in a similar situation due to their bug / error. it is completely misleading to offer this promotion to spend and get, but not provide the certificate in the end. i am beyond disappointed with this experience, and i hope they will honor the promotion that the advertised.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991932511329651
+}

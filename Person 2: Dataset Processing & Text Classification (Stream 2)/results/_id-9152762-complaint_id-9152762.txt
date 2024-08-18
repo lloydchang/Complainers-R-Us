@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9152762,
+  "complaint_id": "9152762",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX refuses to reach out to XXXX XXXX to justify why they charged me an extremely inflated price on XXXX airline tickets that were already bought and paid for. Please see attached documentation.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX refuses to reach out to XXXX XXXX to justify why they charged me an extremely inflated price on XXXX airline tickets that were already bought and paid for. Please see attached documentation."
+}
+
+Chunk:
+xxxx refuses to reach out to xxxx xxxx to justify why they charged me an extremely inflated price on xxxx airline tickets that were already bought and paid for. please see attached documentation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999190628528595
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9452091,
+  "complaint_id": "9452091",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a credit card with CitiBank. There was an issue receiving the digital copy of the card, but I made an account and proceeded to follow the steps. At this point it didnt allow me to use the digital version of my card until I received my card and I put my security code. Thats fine, but once I received my card and I put my security code, they automatically locked my card and gave me a number to call to verify my account. When I called, they asked me for a different phone number than what was on my account and if I was at work. Then they said they couldnt verify. \n\nI said you guys cant verify me with the same information I used to open an account, then close my account. They refused to close my account. Literally holding my credit hostage and forcing me to be a customer. They are willfully withholding my product and not following what was promised after they pulled my credit and we entered into a credit card agreement.",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37122",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I opened a credit card with CitiBank. There was an issue receiving the digital copy of the card, but I made an account and proceeded to follow the steps. At this point it didnt allow me to use the digital version of my card until I received my card and I put my security code. Thats fine, but once I received my card and I put my security code, they automatically locked my card and gave me a number to call to verify my account. When I called, they asked me for a different phone number than what was on my account and if I was at work. Then they said they couldnt verify. \n\nI said you guys cant verify me with the same information I used to open an account, then close my account. They refused to close my account. Literally holding my credit hostage and forcing me to be a customer. They are willfully withholding my product and not following what was promised after they pulled my credit and we entered into a credit card agreement."
+}
+
+Chunk:
+i opened a credit card with citibank. there was an issue receiving the digital copy of the card, but i made an account and proceeded to follow the steps. at this point it didnt allow me to use the digital version of my card until i received my card and i put my security code. thats fine, but once i received my card and i put my security code, they automatically locked my card and gave me a number to call to verify my account. when i called, they asked me for a different phone number than what was on my account and if i was at work. then they said they couldnt verify. i said you guys cant verify me with the same information i used to open an account, then close my account. they refused to close my account. literally holding my credit hostage and forcing me to be a customer. they are willfully withholding my product and not following what was promised after they pulled my credit and we entered into a credit card agreement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984384179115295
+}

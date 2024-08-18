@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9069444,
+  "complaint_id": "9069444",
+  "product": "Credit card",
+  "complaint_what_happened": "This is with Discover. I understand that I entered a program with them where they would reduce my interest and freeze my card in order for me to catch up on payments. But for them to tell me that even if I pay off my debt with them I still wont be able to use my card until I completely fix my credit with other companies is ridiculous. It shouldnt matter what I have going on with other credit card companies and collections. As long as Ive paid off my debt with discover then they should let me use my card. I dont think they deserve my monthly payments if theyre still going to keep my card from me at the end of the day.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77045",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "This is with Discover. I understand that I entered a program with them where they would reduce my interest and freeze my card in order for me to catch up on payments. But for them to tell me that even if I pay off my debt with them I still wont be able to use my card until I completely fix my credit with other companies is ridiculous. It shouldnt matter what I have going on with other credit card companies and collections. As long as Ive paid off my debt with discover then they should let me use my card. I dont think they deserve my monthly payments if theyre still going to keep my card from me at the end of the day."
+}
+
+Chunk:
+this is with discover. i understand that i entered a program with them where they would reduce my interest and freeze my card in order for me to catch up on payments. but for them to tell me that even if i pay off my debt with them i still wont be able to use my card until i completely fix my credit with other companies is ridiculous. it shouldnt matter what i have going on with other credit card companies and collections. as long as ive paid off my debt with discover then they should let me use my card. i dont think they deserve my monthly payments if theyre still going to keep my card from me at the end of the day.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994432330131531
+}

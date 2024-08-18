@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9508579,
+  "complaint_id": "9508579",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Ally Credit Card Disputes, I am writing to file a formal complaint regarding the closure of my account without my knowledge. Despite numerous attempts to seek clarification and resolution, I have not received a satisfactory response from your team. \n\nOn XX/XX/XXXX, I was informed by your Executive Customer Relations Department that a credit was issued for a XXXX charge, including interest and fees. However, there still remains a balance on my account which has not been addressed. Despite reaching out to Ally over XXXX times about both the closure of my account and the unresolved balance, I have yet to receive any resolution from your dispute department. \n\nI am deeply disappointed by the lack of communication and assistance provided by Ally Credit Card. As a retired service member, I find it unacceptable to be treated in such a disrespectful manner. I have spoken with several supervisors, only to be transferred or hung up on, with no tangible progress made since XX/XX/XXXX. \n\nI demand that my account be reopened immediately as there was no valid reason for its closure. Furthermore, I insist that the remaining balance be removed without delay. Failure to address these issues promptly will result in me taking legal action to seek resolution. \n\nI trust that Ally Credit Card will take this matter seriously and work towards a swift and satisfactory resolution. I appreciate your immediate attention to this pressing matter.",
+  "date_sent_to_company": "2024-07-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "286XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "ALLY FINANCIAL INC.",
+  "date_received": "2024-07-14T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Dear Ally Credit Card Disputes, I am writing to file a formal complaint regarding the closure of my account without my knowledge. Despite numerous attempts to seek clarification and resolution, I have not received a satisfactory response from your team. \n\nOn XX/XX/XXXX, I was informed by your Executive Customer Relations Department that a credit was issued for a XXXX charge, including interest and fees. However, there still remains a balance on my account which has not been addressed. Despite reaching out to Ally over XXXX times about both the closure of my account and the unresolved balance, I have yet to receive any resolution from your dispute department. \n\nI am deeply disappointed by the lack of communication and assistance provided by Ally Credit Card. As a retired service member, I find it unacceptable to be treated in such a disrespectful manner. I have spoken with several supervisors, only to be transferred or hung up on, with no tangible progress made since XX/XX/XXXX. \n\nI demand that my account be reopened immediately as there was no valid reason for its closure. Furthermore, I insist that the remaining balance be removed without delay. Failure to address these issues promptly will result in me taking legal action to seek resolution. \n\nI trust that Ally Credit Card will take this matter seriously and work towards a swift and satisfactory resolution. I appreciate your immediate attention to this pressing matter."
+}
+
+Chunk:
+dear ally credit card disputes, i am writing to file a formal complaint regarding the closure of my account without my knowledge. despite numerous attempts to seek clarification and resolution, i have not received a satisfactory response from your team. on xx / xx / xxxx, i was informed by your executive customer relations department that a credit was issued for a xxxx charge, including interest and fees. however, there still remains a balance on my account which has not been addressed. despite reaching out to ally over xxxx times about both the closure of my account and the unresolved balance, i have yet to receive any resolution from your dispute department. i am deeply disappointed by the lack of communication and assistance provided by ally credit card. as a retired service member, i find it unacceptable to be treated in such a disrespectful manner. i have spoken with several supervisors, only to be transferred or hung up on, with no tangible progress made since xx / xx / xxxx. i demand that my account be reopened immediately as there was no valid reason for its closure. furthermore, i insist that the remaining balance be removed without delay. failure to address these issues promptly will result in me taking legal action to seek resolution. i trust that ally credit card will take this matter seriously and work towards a swift and satisfactory resolution. i appreciate your immediate attention to this pressing matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9924055933952332
+}

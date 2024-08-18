@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9196261,
+  "complaint_id": "9196261",
+  "product": "Credit card",
+  "complaint_what_happened": "The bank failed to help. Repeatedly never returned my calls. This has gone on since XXXX of XXXX I called and sent registered mail XXXX and XXXX time a month for XXXX months. \nI paid off all the fraud charges and all that has remained is service charge and interest which I will not pay for their negligence.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "49401",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "The bank failed to help. Repeatedly never returned my calls. This has gone on since XXXX of XXXX I called and sent registered mail XXXX and XXXX time a month for XXXX months. \nI paid off all the fraud charges and all that has remained is service charge and interest which I will not pay for their negligence."
+}
+
+Chunk:
+the bank failed to help. repeatedly never returned my calls. this has gone on since xxxx of xxxx i called and sent registered mail xxxx and xxxx time a month for xxxx months. i paid off all the fraud charges and all that has remained is service charge and interest which i will not pay for their negligence.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988400340080261
+}

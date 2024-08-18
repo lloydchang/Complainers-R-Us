@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9220953,
+  "complaint_id": "9220953",
+  "product": "Credit card",
+  "complaint_what_happened": "i purchased XXXX shoes and XXXX  book bag from XXXX on XX/XX/XXXX and realized that they were counterfeit items. \n\n\nafter realizing that the items were counterfeit i tried to cancel my order but they didn't allow me to and still charged my credit card without my permission. So when got them on XX/XX/XXXX i returned them back using the shipping label provided ( XXXX XXXX ) on XX/XX/XXXX and they delivered XX/XX/year> the tracking number is XXXX",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "15235",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "i purchased XXXX shoes and XXXX  book bag from XXXX on XX/XX/XXXX and realized that they were counterfeit items. \n\n\nafter realizing that the items were counterfeit i tried to cancel my order but they didn't allow me to and still charged my credit card without my permission. So when got them on XX/XX/XXXX i returned them back using the shipping label provided ( XXXX XXXX ) on XX/XX/XXXX and they delivered XX/XX/year> the tracking number is XXXX"
+}
+
+Chunk:
+i purchased xxxx shoes and xxxx book bag from xxxx on xx / xx / xxxx and realized that they were counterfeit items. after realizing that the items were counterfeit i tried to cancel my order but they didn't allow me to and still charged my credit card without my permission. so when got them on xx / xx / xxxx i returned them back using the shipping label provided ( xxxx xxxx ) on xx / xx / xxxx and they delivered xx / xx / year > the tracking number is xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973292350769043
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9498854,
+  "complaint_id": "9498854",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/2024, I called to inquire about the only charge on the account. Which was {$5.00}. I was told it was the cost to maintain the account. They allege they notified me of the charge via email and have been billing me since. I did not recieve a notification, and since they allege it was apart of the agreement and essentially is their version of an annual fee but monthly ( {$60.00} ). I did not dispute it and since i did not catch it earlier I figured it was my oversight. \n\nSo, XX/XX/2024 a new card arrived and i went to activate it and noticed the fee has increased from {$5.00} to {$7.00}, along with the already high increase rate which is not clearly labeled on the statement any where. I call and they used the same line, we emailed you of the changes. Which was not the question I asked. I stated i never received any notification in writing regarding the changes. I also restated my question. Why were the fees increased on my account? I confirmed there were no late payments, the payments were above the minimum, etc. The representative stated that i could opt out of the increase which i promptly indicated i wished to opt out of the increase. He then states by opting it essentially closes my account. I explained wanted to opt out of the increase. He transfered me to another rep who stated she was advised i wanted to close my account for which i corrected and stated I wish to opt out of the increase in fees and charges. She places me back on hold and transfers me to anotherassociate. \n\nI asked if the call was being recorded at which time she could no longer speak to me because i said the call was being recorded. I countered with you all are not listening i asked if you all were recording the call. Her response then was they were not. So, i said to type this in my file. \" I am reporting your frauduent and abusive behavior to the FCC. '' Not realizing it was another department that manages complaints. \n\nI am being taken advantage of as an XXXX XXXX by a financial institution who charges to increase your credit line, monthly maintence fees, and exoribant late fees. \n\nThe increase rate and mainenance fees should remain constant on accounts in good standing.\n\nAspire Credit Card issued by XXXX XXXX XXXX XXXX \nXXXX XXXX XXXX XXXX XXXX XXXX GA XXXX Phone XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-07-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28105",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-07-12T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem with fees",
+  "text": "XX/XX/2024, I called to inquire about the only charge on the account. Which was {$5.00}. I was told it was the cost to maintain the account. They allege they notified me of the charge via email and have been billing me since. I did not recieve a notification, and since they allege it was apart of the agreement and essentially is their version of an annual fee but monthly ( {$60.00} ). I did not dispute it and since i did not catch it earlier I figured it was my oversight. \n\nSo, XX/XX/2024 a new card arrived and i went to activate it and noticed the fee has increased from {$5.00} to {$7.00}, along with the already high increase rate which is not clearly labeled on the statement any where. I call and they used the same line, we emailed you of the changes. Which was not the question I asked. I stated i never received any notification in writing regarding the changes. I also restated my question. Why were the fees increased on my account? I confirmed there were no late payments, the payments were above the minimum, etc. The representative stated that i could opt out of the increase which i promptly indicated i wished to opt out of the increase. He then states by opting it essentially closes my account. I explained wanted to opt out of the increase. He transfered me to another rep who stated she was advised i wanted to close my account for which i corrected and stated I wish to opt out of the increase in fees and charges. She places me back on hold and transfers me to anotherassociate. \n\nI asked if the call was being recorded at which time she could no longer speak to me because i said the call was being recorded. I countered with you all are not listening i asked if you all were recording the call. Her response then was they were not. So, i said to type this in my file. \" I am reporting your frauduent and abusive behavior to the FCC. '' Not realizing it was another department that manages complaints. \n\nI am being taken advantage of as an XXXX XXXX by a financial institution who charges to increase your credit line, monthly maintence fees, and exoribant late fees. \n\nThe increase rate and mainenance fees should remain constant on accounts in good standing.\n\nAspire Credit Card issued by XXXX XXXX XXXX XXXX \nXXXX XXXX XXXX XXXX XXXX XXXX GA XXXX Phone XXXX XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx ga xxxx phone xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.877678394317627
+}

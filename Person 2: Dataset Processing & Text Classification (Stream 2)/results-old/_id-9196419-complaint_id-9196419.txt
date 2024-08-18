@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9196419,
+  "complaint_id": "9196419",
+  "product": "Credit card",
+  "complaint_what_happened": "I called regarding the late fees applied to my account. I was informed they didn't have to abide to the new law where credit card companies have to adjust the fees to {$8.00} for late payments.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30052",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I called regarding the late fees applied to my account. I was informed they didn't have to abide to the new law where credit card companies have to adjust the fees to {$8.00} for late payments."
+}
+
+Chunk:
+i called regarding the late fees applied to my account. i was informed they didn't have to abide to the new law where credit card companies have to adjust the fees to { $ 8. 00 } for late payments.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.6166783571243286
+}

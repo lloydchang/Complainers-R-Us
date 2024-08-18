@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9219303,
+  "complaint_id": "9219303",
+  "product": "Credit card",
+  "complaint_what_happened": "LVNV FUNDING ( Original Creditor : XXXX XXXX XXXX XXXX XXXX  ) XXXX Account # : XXXX Account Type : Collection Account Type - Detail : Collection Bureau Code : Individual Account Status : Derogatory Monthly Payment : - Date Opened : XX/XX/XXXX Balance : {$300.00} No. of Months ( terms ) : - High Credit : {$300.00} Credit Limit : - Past Due : - Payment Status : Collection/Chargeoff Last Reported : XX/XX/XXXX Comments : Account information disputed by consumer, meets FCRA requirements!! \nDate Last Active : XX/XX/XXXX Date of Last Payment : - Two-Year payment history",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "783XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Resurgent Capital Services L.P.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "LVNV FUNDING ( Original Creditor : XXXX XXXX XXXX XXXX XXXX  ) XXXX Account # : XXXX Account Type : Collection Account Type - Detail : Collection Bureau Code : Individual Account Status : Derogatory Monthly Payment : - Date Opened : XX/XX/XXXX Balance : {$300.00} No. of Months ( terms ) : - High Credit : {$300.00} Credit Limit : - Past Due : - Payment Status : Collection/Chargeoff Last Reported : XX/XX/XXXX Comments : Account information disputed by consumer, meets FCRA requirements!! \nDate Last Active : XX/XX/XXXX Date of Last Payment : - Two-Year payment history"
+}
+
+Chunk:
+lvnv funding ( original creditor : xxxx xxxx xxxx xxxx xxxx ) xxxx account # : xxxx account type : collection account type - detail : collection bureau code : individual account status : derogatory monthly payment : - date opened : xx / xx / xxxx balance : { $ 300. 00 } no. of months ( terms ) : - high credit : { $ 300. 00 } credit limit : - past due : - payment status : collection / chargeoff last reported : xx / xx / xxxx comments : account information disputed by consumer, meets fcra requirements!! date last active : xx / xx / xxxx date of last payment : - two - year payment history
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9938615560531616
+}

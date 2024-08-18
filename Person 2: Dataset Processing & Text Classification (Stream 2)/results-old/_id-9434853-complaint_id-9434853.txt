@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9434853,
+  "complaint_id": "9434853",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit card went missing a few weeks ago. Once I realized I got on my Wells Fargo app to pause the card and noticed it was used twice somewhere. I called Wells Fargo TWICE to settle this and they have denied both requests even though the transactions werent made by me. At first they reimbursed me and then took it back. Im not sure what else to do. I ended up canceling the card and getting a new one but theres over XXXX that was spent",
+  "date_sent_to_company": "2024-07-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37209",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My credit card went missing a few weeks ago. Once I realized I got on my Wells Fargo app to pause the card and noticed it was used twice somewhere. I called Wells Fargo TWICE to settle this and they have denied both requests even though the transactions werent made by me. At first they reimbursed me and then took it back. Im not sure what else to do. I ended up canceling the card and getting a new one but theres over XXXX that was spent"
+}
+
+Chunk:
+my credit card went missing a few weeks ago. once i realized i got on my wells fargo app to pause the card and noticed it was used twice somewhere. i called wells fargo twice to settle this and they have denied both requests even though the transactions werent made by me. at first they reimbursed me and then took it back. im not sure what else to do. i ended up canceling the card and getting a new one but theres over xxxx that was spent
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995899796485901
+}

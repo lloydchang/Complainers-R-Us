@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9292198,
+  "complaint_id": "9292198",
+  "product": "Credit card",
+  "complaint_what_happened": "Over a few months, I had made monthly payments on my {$18000.00} credit card debt ( limit of {$21000.00} ) hoping to make a big purchase. When I paid it down to {$10000.00}, Wells Fargo halved my credit limit without notice. I contacted them to request they increase it back to its original limit and was denied without reason. Their decision to half my credit limit without notice not only harmed my credit score but led to a delay in important life events.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60657",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Over a few months, I had made monthly payments on my {$18000.00} credit card debt ( limit of {$21000.00} ) hoping to make a big purchase. When I paid it down to {$10000.00}, Wells Fargo halved my credit limit without notice. I contacted them to request they increase it back to its original limit and was denied without reason. Their decision to half my credit limit without notice not only harmed my credit score but led to a delay in important life events."
+}
+
+Chunk:
+over a few months, i had made monthly payments on my { $ 18000. 00 } credit card debt ( limit of { $ 21000. 00 } ) hoping to make a big purchase. when i paid it down to { $ 10000. 00 }, wells fargo halved my credit limit without notice. i contacted them to request they increase it back to its original limit and was denied without reason. their decision to half my credit limit without notice not only harmed my credit score but led to a delay in important life events.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989935755729675
+}

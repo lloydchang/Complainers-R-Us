@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9146764,
+  "complaint_id": "9146764",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX XXXX XXXX, California XXXXXXXX THE HOME DEPOT/CITIBANK XXXX XXXX XXXX XXXX XXXX XXXX SD XXXX XX/XX/2024 Re : Account number : XXXX I was advised to write to you by your customer service department concerning my credit rating with your company. I have enjoyed a credit account with your company name for many years. \nDuring the course of our business association, I have honored and respected my account agreement to the fullest. I appreciate how wonderful your service has always been. \nUnfortunately, 2 years ago, I was in a financial dilemma due to job loss and multiple health issues. As a result some of my payments to you were delayed. Because your account with me is extremely important I managed to borrow the money to cover the late payments. I paid those payments 30 days late on three occasions over a nine-month period but I made sure to fulfill my obligation to ensure that your company suffered no loss. \nI am thankful and appreciative for the years of positive credit history that I have obtained through your company but now those XXXX late marks on my credit reports are causing me tremendous stress. I am trying to move up to a better paid position at my work, but the negative remarks are hurting my efforts. \nThis is where my \" Goodwill Request '' comes in. I desperately need this promotion and I would be extremely appreciative if you would please complete a UDF - Universal Data Form and fax it to the credit bureaus to remove those entries.\n\nThe credit bureaus have advised me that they will report anything as instructed to by you, but they need to have that instruction in writing. I beg that you may help me and take into consideration how good of a customer I have been and how long I have had an account with you. \nThank you for your consideration, and I hope youll approve my request. \n\nBest, XXXX XXXX",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91316",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "XXXX XXXX XXXX XXXX XXXX XXXX, California XXXXXXXX THE HOME DEPOT/CITIBANK XXXX XXXX XXXX XXXX XXXX XXXX SD XXXX XX/XX/2024 Re : Account number : XXXX I was advised to write to you by your customer service department concerning my credit rating with your company. I have enjoyed a credit account with your company name for many years. \nDuring the course of our business association, I have honored and respected my account agreement to the fullest. I appreciate how wonderful your service has always been. \nUnfortunately, 2 years ago, I was in a financial dilemma due to job loss and multiple health issues. As a result some of my payments to you were delayed. Because your account with me is extremely important I managed to borrow the money to cover the late payments. I paid those payments 30 days late on three occasions over a nine-month period but I made sure to fulfill my obligation to ensure that your company suffered no loss. \nI am thankful and appreciative for the years of positive credit history that I have obtained through your company but now those XXXX late marks on my credit reports are causing me tremendous stress. I am trying to move up to a better paid position at my work, but the negative remarks are hurting my efforts. \nThis is where my \" Goodwill Request '' comes in. I desperately need this promotion and I would be extremely appreciative if you would please complete a UDF - Universal Data Form and fax it to the credit bureaus to remove those entries.\n\nThe credit bureaus have advised me that they will report anything as instructed to by you, but they need to have that instruction in writing. I beg that you may help me and take into consideration how good of a customer I have been and how long I have had an account with you. \nThank you for your consideration, and I hope youll approve my request. \n\nBest, XXXX XXXX"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx xxxx, california xxxxxxxx the home depot / citibank xxxx xxxx xxxx xxxx xxxx xxxx sd xxxx xx / xx / 2024 re : account number : xxxx i was advised to write to you by your customer service department concerning my credit rating with your company. i have enjoyed a credit account with your company name for many years. during the course of our business association, i have honored and respected my account agreement to the fullest. i appreciate how wonderful your service has always been. unfortunately, 2 years ago, i was in a financial dilemma due to job loss and multiple health issues. as a result some of my payments to you were delayed. because your account with me is extremely important i managed to borrow the money to cover the late payments. i paid those payments 30 days late on three occasions over a nine - month period but i made sure to fulfill my obligation to ensure that your company suffered no loss. i am thankful and appreciative for the years of positive credit history that i have obtained through your company but now those xxxx late marks on my credit reports are causing me tremendous stress. i am trying to move up to a better paid position at my work, but the negative remarks are hurting my efforts. this is where my " goodwill request'' comes in. i desperately need this promotion and i would be extremely appreciative if you would please complete a udf - universal data form and fax it to the credit bureaus to remove those entries. the credit bureaus have advised me that they will report anything as instructed to by you, but they need to have that instruction in writing. i beg that you may help me and take into consideration how good of a customer i have been and how long i have had an account with you. thank you for your consideration, and i hope youll approve my request. best, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9872487187385559
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9364941,
+  "complaint_id": "9364941",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for the XXXX XXXX Credit Card offered by XXXX ( XXXX XXXX XXXX XXXX XXXX ). I was denied because they said they were unable to verify my identity. I called and spoke to their reconsideration department. I spoke with an underwriter named XXXX on XX/XX/XXXX. XXXX confirmed my name and information matched my credit report that they obtained from XXXX. I advised that I had a name changed on XX/XX/XXXXXXXX XXXX XXXXXXXX. She stated everything looked fine and would send this to a manager for approval. Within a few minutes of the call I got an email saying my application was denied. On XX/XX/XXXX I receive a letter in the mail saying my identity could not be verified. I called and asked what they meant by that because the underwriter said she could see my name was updated on my credit report just fine. I stated I have lived at my address since XXXX. I have had the same phone number for over a decade. My date of birth has not changed and my social security number has not changed. I asked if I could submit the court order reflecting the granting of my name change or my current driver 's license. I was told they do not do reconsideration or provide what information is not verifiable or why. I asked how that would be helpful to obtain an approval or fix this issue. I have a hard inquiry on my credit report and their underwriter clearly stated everything matched what I said on XX/XX/XXXX. So, I am not understanding why they're unwilling to assist or provide information on why their denying the application. Yet also putting my credit score on the denial letter saying I have a credit score of XXXX and keeping the hard inquiry on my credit report.",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "46208",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-06-27T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for the XXXX XXXX Credit Card offered by XXXX ( XXXX XXXX XXXX XXXX XXXX ). I was denied because they said they were unable to verify my identity. I called and spoke to their reconsideration department. I spoke with an underwriter named XXXX on XX/XX/XXXX. XXXX confirmed my name and information matched my credit report that they obtained from XXXX. I advised that I had a name changed on XX/XX/XXXXXXXX XXXX XXXXXXXX. She stated everything looked fine and would send this to a manager for approval. Within a few minutes of the call I got an email saying my application was denied. On XX/XX/XXXX I receive a letter in the mail saying my identity could not be verified. I called and asked what they meant by that because the underwriter said she could see my name was updated on my credit report just fine. I stated I have lived at my address since XXXX. I have had the same phone number for over a decade. My date of birth has not changed and my social security number has not changed. I asked if I could submit the court order reflecting the granting of my name change or my current driver 's license. I was told they do not do reconsideration or provide what information is not verifiable or why. I asked how that would be helpful to obtain an approval or fix this issue. I have a hard inquiry on my credit report and their underwriter clearly stated everything matched what I said on XX/XX/XXXX. So, I am not understanding why they're unwilling to assist or provide information on why their denying the application. Yet also putting my credit score on the denial letter saying I have a credit score of XXXX and keeping the hard inquiry on my credit report."
+}
+
+Chunk:
+i applied for the xxxx xxxx credit card offered by xxxx ( xxxx xxxx xxxx xxxx xxxx ). i was denied because they said they were unable to verify my identity. i called and spoke to their reconsideration department. i spoke with an underwriter named xxxx on xx / xx / xxxx. xxxx confirmed my name and information matched my credit report that they obtained from xxxx. i advised that i had a name changed on xx / xx / xxxxxxxx xxxx xxxxxxxx. she stated everything looked fine and would send this to a manager for approval. within a few minutes of the call i got an email saying my application was denied. on xx / xx / xxxx i receive a letter in the mail saying my identity could not be verified. i called and asked what they meant by that because the underwriter said she could see my name was updated on my credit report just fine. i stated i have lived at my address since xxxx. i have had the same phone number for over a decade. my date of birth has not changed and my social security number has not changed. i asked if i could submit the court order reflecting the granting of my name change or my current driver's license. i was told they do not do reconsideration or provide what information is not verifiable or why. i asked how that would be helpful to obtain an approval or fix this issue. i have a hard inquiry on my credit report and their underwriter clearly stated everything matched what i said on xx / xx / xxxx. so, i am not understanding why they're unwilling to assist or provide information on why their denying the application. yet also putting my credit score on the denial letter saying i have a credit score of xxxx and keeping the hard inquiry on my credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9976550340652466
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9474048,
+  "complaint_id": "9474048",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a complaint against XXXX 's regarding my credit card account ending in XXXX. Over the past XXXX months, I have made several calls to their customer service line at XXXX. During these calls, I was assured that the interest and late fees would be removed if my card balance was paid in full. \n\nI have since paid the balance in full, yet the promised removal of the interest and late fees has not been reflected on my account. Despite my repeated attempts to resolve this issue directly with XXXX XXXX XXXX XXXX, no action has been taken. \n\nI am seeking your assistance to protect my consumer rights and ensure that XXXX XXXX XXXX XXXX fulfills their promise. Enclosed are copies of my account statements, correspondence with XXXX XXXX XXXX XXXX, and any other relevant documentation for your review. \n\nThank you for your attention to this matter. I look forward to your prompt assistance in resolving this issue.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "33458",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I am writing to file a complaint against XXXX 's regarding my credit card account ending in XXXX. Over the past XXXX months, I have made several calls to their customer service line at XXXX. During these calls, I was assured that the interest and late fees would be removed if my card balance was paid in full. \n\nI have since paid the balance in full, yet the promised removal of the interest and late fees has not been reflected on my account. Despite my repeated attempts to resolve this issue directly with XXXX XXXX XXXX XXXX, no action has been taken. \n\nI am seeking your assistance to protect my consumer rights and ensure that XXXX XXXX XXXX XXXX fulfills their promise. Enclosed are copies of my account statements, correspondence with XXXX XXXX XXXX XXXX, and any other relevant documentation for your review. \n\nThank you for your attention to this matter. I look forward to your prompt assistance in resolving this issue."
+}
+
+Chunk:
+i am writing to file a complaint against xxxx's regarding my credit card account ending in xxxx. over the past xxxx months, i have made several calls to their customer service line at xxxx. during these calls, i was assured that the interest and late fees would be removed if my card balance was paid in full. i have since paid the balance in full, yet the promised removal of the interest and late fees has not been reflected on my account. despite my repeated attempts to resolve this issue directly with xxxx xxxx xxxx xxxx, no action has been taken. i am seeking your assistance to protect my consumer rights and ensure that xxxx xxxx xxxx xxxx fulfills their promise. enclosed are copies of my account statements, correspondence with xxxx xxxx xxxx xxxx, and any other relevant documentation for your review. thank you for your attention to this matter. i look forward to your prompt assistance in resolving this issue.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.8543665409088135
+}

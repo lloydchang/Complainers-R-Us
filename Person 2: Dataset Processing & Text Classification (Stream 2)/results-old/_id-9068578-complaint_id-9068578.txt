@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068578,
+  "complaint_id": "9068578",
+  "product": "Credit card",
+  "complaint_what_happened": "I believe this account is invalid. JPMCB - CARD SERVICE ACCOUNT needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. Further, the alleged account was transferred in good faith and with the consent of all parties involved. If they are unable to provide under oath the previously listed items then I require the account to be removed from my credit & their records. JPMCB - CARD SERVICE XXXX XXXX XXXX XXXX and JPMCB - CARD SERVICE XXXX XXXX XXXX.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "87120",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "NM",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I believe this account is invalid. JPMCB - CARD SERVICE ACCOUNT needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. Further, the alleged account was transferred in good faith and with the consent of all parties involved. If they are unable to provide under oath the previously listed items then I require the account to be removed from my credit & their records. JPMCB - CARD SERVICE XXXX XXXX XXXX XXXX and JPMCB - CARD SERVICE XXXX XXXX XXXX."
+}
+
+Chunk:
+i believe this account is invalid. jpmcb - card service account needs to verify under oath that this claim is valid, free from any claims and defenses including but not limited to any breach of agreement, failure of consideration, or material alterations, and that the original lender provided value. further, the alleged account was transferred in good faith and with the consent of all parties involved. if they are unable to provide under oath the previously listed items then i require the account to be removed from my credit & their records. jpmcb - card service xxxx xxxx xxxx xxxx and jpmcb - card service xxxx xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989914298057556
+}

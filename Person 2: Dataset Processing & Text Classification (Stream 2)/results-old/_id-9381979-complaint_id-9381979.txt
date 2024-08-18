@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9381979,
+  "complaint_id": "9381979",
+  "product": "Credit card",
+  "complaint_what_happened": "Called Citibank on XX/XX/XXXX to unlock my card after it declined. The agent unlocked it for me and said I was all set. It locked again the next day and I called again, but they insisted I needed a travel reference code that they never sent to me. Now theyre asking me to wait 7-10 days while on vacation for them to send me a letter by mail to recover the account. This is ridiculous how they have no other way to verify my identity except for the way they claimed to have sent the code but never did.",
+  "date_sent_to_company": "2024-06-29T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94087",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Called Citibank on XX/XX/XXXX to unlock my card after it declined. The agent unlocked it for me and said I was all set. It locked again the next day and I called again, but they insisted I needed a travel reference code that they never sent to me. Now theyre asking me to wait 7-10 days while on vacation for them to send me a letter by mail to recover the account. This is ridiculous how they have no other way to verify my identity except for the way they claimed to have sent the code but never did."
+}
+
+Chunk:
+called citibank on xx / xx / xxxx to unlock my card after it declined. the agent unlocked it for me and said i was all set. it locked again the next day and i called again, but they insisted i needed a travel reference code that they never sent to me. now theyre asking me to wait 7 - 10 days while on vacation for them to send me a letter by mail to recover the account. this is ridiculous how they have no other way to verify my identity except for the way they claimed to have sent the code but never did.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991874098777771
+}

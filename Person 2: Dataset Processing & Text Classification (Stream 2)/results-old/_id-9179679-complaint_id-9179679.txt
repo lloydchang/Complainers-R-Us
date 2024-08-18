@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9179679,
+  "complaint_id": "9179679",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX - I reported my Citi Double Cash Card lost, and requested a replacement utilizing the Citi Mobile App. My previous credit card number is deactivated at this time. \n\nOn XX/XX/XXXX - I received a text saying my replacement card has shipped, which Citi says will arrive in XXXX business days. \n\nOn XX/XX/XXXX - I notice two fraud charges on my new Citi card that I have not received in the mail and do not have in my possession, at XXXX in Texas on XX/XX/XXXX for {$470.00} and at XXXX again in Texas for the same amount {$470.00} on XX/XX/XXXX. I immediately contact Citi to notify them of fraud and to dispute the charges. I do not live in Texas and have not received my new Citi replacement credit card yet during this time. This new card never arrived in the mail before the fraudulent activity occurred, and the Citi Replacement Card XXXX never updates to show that this card has been delivered to my address in XXXX XXXX, NY. They cancel and shipped me out another card during this time upon reporting the fraud. \n\nOn XX/XX/XXXX - I'm notified by Citi my second replacement card had shipped. \n\nThis card does not arrive in the notified XXXX business day window. \n\nOn XX/XX/XXXX - I contacted and spoke to Citi at XXXX to check on my XXXX Dispute, and they notified me no additional information is needed. During this time I also informed them my card from XX/XX/XXXX never arrived. They canceled the card and again tried to ship another replacement. \n\nOn XX/XX/XXXX - Notified by text my third replacement card attempt has been shipped, which arrived on XX/XX/XXXX. \n\nOn XX/XX/XXXX - I received a mail letter from Citi dated XX/XX/XXXX stating me that I had notified Citi about the unauthorized transactions and that Citi is looking into the dispute and would notify me if they needed any additional information. \n\nOn XX/XX/XXXX - I received a mail letter from Citi dated XX/XX/XXXX notifying me of the conclusion of my Fraud Dispute and that the dispute is closed. The letter states that they were unable to contact me which is the reason the result is not favorable, and I am now responsible for the fraud charges. I immediately contacted Citi at XXXX the same day over this verdict, and the operator is unable to prove with dates or contact methods that Citi contacted me over missing information but tells me that is the reason for the outcome. I assured her that I contacted Citi in the past few weeks and that I was never in possession of this credit card ever as the fraud charges occurred during them shipping me out a replacement card.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10019",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/XXXX - I reported my Citi Double Cash Card lost, and requested a replacement utilizing the Citi Mobile App. My previous credit card number is deactivated at this time. \n\nOn XX/XX/XXXX - I received a text saying my replacement card has shipped, which Citi says will arrive in XXXX business days. \n\nOn XX/XX/XXXX - I notice two fraud charges on my new Citi card that I have not received in the mail and do not have in my possession, at XXXX in Texas on XX/XX/XXXX for {$470.00} and at XXXX again in Texas for the same amount {$470.00} on XX/XX/XXXX. I immediately contact Citi to notify them of fraud and to dispute the charges. I do not live in Texas and have not received my new Citi replacement credit card yet during this time. This new card never arrived in the mail before the fraudulent activity occurred, and the Citi Replacement Card XXXX never updates to show that this card has been delivered to my address in XXXX XXXX, NY. They cancel and shipped me out another card during this time upon reporting the fraud. \n\nOn XX/XX/XXXX - I'm notified by Citi my second replacement card had shipped. \n\nThis card does not arrive in the notified XXXX business day window. \n\nOn XX/XX/XXXX - I contacted and spoke to Citi at XXXX to check on my XXXX Dispute, and they notified me no additional information is needed. During this time I also informed them my card from XX/XX/XXXX never arrived. They canceled the card and again tried to ship another replacement. \n\nOn XX/XX/XXXX - Notified by text my third replacement card attempt has been shipped, which arrived on XX/XX/XXXX. \n\nOn XX/XX/XXXX - I received a mail letter from Citi dated XX/XX/XXXX stating me that I had notified Citi about the unauthorized transactions and that Citi is looking into the dispute and would notify me if they needed any additional information. \n\nOn XX/XX/XXXX - I received a mail letter from Citi dated XX/XX/XXXX notifying me of the conclusion of my Fraud Dispute and that the dispute is closed. The letter states that they were unable to contact me which is the reason the result is not favorable, and I am now responsible for the fraud charges. I immediately contacted Citi at XXXX the same day over this verdict, and the operator is unable to prove with dates or contact methods that Citi contacted me over missing information but tells me that is the reason for the outcome. I assured her that I contacted Citi in the past few weeks and that I was never in possession of this credit card ever as the fraud charges occurred during them shipping me out a replacement card."
+}
+
+Chunk:
+contacted citi at xxxx the same day over this verdict, and the operator is unable to prove with dates or contact methods that citi contacted me over missing information but tells me that is the reason for the outcome. i assured her that i contacted citi in the past few weeks and that i was never in possession of this credit card ever as the fraud charges occurred during them shipping me out a replacement card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9748201370239258
+}

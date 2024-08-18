@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9120989,
+  "complaint_id": "9120989",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing this request because I am requesting automatic deletion with the hard inquiries that are unauthorized and I did not those on my credit report. I have called the company because the credit bureau asked me to call them because they want to make sure its not attached to a different account, but the company said that they do not have multiple accounts, but the credit bureau says that it was pulled in attached from their bank, which is Santander, after asking questions they have end call in my face and I called and I get a different person. They said Santander Santander, and they dont run credit. They leave on my credit and they are updating information. The credit bureau agreed that they will delete the specific card inquiry off my credit if Santander could call them and, let them know that the accounts are not attached to them because basically what the credit bureau told me is that Santander is connected to all the inquiries that was made under my Account. As a young person who was trying to strive in life these credit bureau and credit cards company theyre holding me back from Achieving my goals. Also, I have another hard inquiry that is from XXXX XXXX and few other inquiries. I would love them to get removed from my credit immediately so I can start to get my house. I need somewhere to live.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30274",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SANTANDER HOLDINGS USA, INC.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Received unwanted marketing or advertising",
+  "text": "I am writing this request because I am requesting automatic deletion with the hard inquiries that are unauthorized and I did not those on my credit report. I have called the company because the credit bureau asked me to call them because they want to make sure its not attached to a different account, but the company said that they do not have multiple accounts, but the credit bureau says that it was pulled in attached from their bank, which is Santander, after asking questions they have end call in my face and I called and I get a different person. They said Santander Santander, and they dont run credit. They leave on my credit and they are updating information. The credit bureau agreed that they will delete the specific card inquiry off my credit if Santander could call them and, let them know that the accounts are not attached to them because basically what the credit bureau told me is that Santander is connected to all the inquiries that was made under my Account. As a young person who was trying to strive in life these credit bureau and credit cards company theyre holding me back from Achieving my goals. Also, I have another hard inquiry that is from XXXX XXXX and few other inquiries. I would love them to get removed from my credit immediately so I can start to get my house. I need somewhere to live."
+}
+
+Chunk:
+i am writing this request because i am requesting automatic deletion with the hard inquiries that are unauthorized and i did not those on my credit report. i have called the company because the credit bureau asked me to call them because they want to make sure its not attached to a different account, but the company said that they do not have multiple accounts, but the credit bureau says that it was pulled in attached from their bank, which is santander, after asking questions they have end call in my face and i called and i get a different person. they said santander santander, and they dont run credit. they leave on my credit and they are updating information. the credit bureau agreed that they will delete the specific card inquiry off my credit if santander could call them and, let them know that the accounts are not attached to them because basically what the credit bureau told me is that santander is connected to all the inquiries that was made under my account. as a young person who was trying to strive in life these credit bureau and credit cards company theyre holding me back from achieving my goals. also, i have another hard inquiry that is from xxxx xxxx and few other inquiries. i would love them to get removed from my credit immediately so i can start to get my house. i need somewhere to live.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983305335044861
+}

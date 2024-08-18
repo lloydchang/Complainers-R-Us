@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9558396,
+  "complaint_id": "9558396",
+  "product": "Credit card",
+  "complaint_what_happened": "I called to dispute a fraudulent charge after receiving an alert via email that my card was charged an amount that we did not remember making. The email stated that we \" tipped '' a merchant named \" across the map '' over {$200.00}! I told them the situation which was that my mom and I went to a festival in XXXX, we did purchase tickets to the place but we certainly DID NOT tip {$240.00} and we didn't use it later in XXXX. The Citi bank instead of sending me an alert via email ( which is in my settings ), sends me a letter, which I received XXXX months later stating that because my chip on the card was present at the time of of the purchase of {$240.00} I will be responsible for this charge! I still don't have an explanation as to why they denied the second claim. I called to ask them for documentation so that I can make a formal statement that I am not ok with this decision. After being transferred by very rude representatives multiple times to departments that don't work, they finally connected me to a supervisor who refused to do anything!",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97140",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I called to dispute a fraudulent charge after receiving an alert via email that my card was charged an amount that we did not remember making. The email stated that we \" tipped '' a merchant named \" across the map '' over {$200.00}! I told them the situation which was that my mom and I went to a festival in XXXX, we did purchase tickets to the place but we certainly DID NOT tip {$240.00} and we didn't use it later in XXXX. The Citi bank instead of sending me an alert via email ( which is in my settings ), sends me a letter, which I received XXXX months later stating that because my chip on the card was present at the time of of the purchase of {$240.00} I will be responsible for this charge! I still don't have an explanation as to why they denied the second claim. I called to ask them for documentation so that I can make a formal statement that I am not ok with this decision. After being transferred by very rude representatives multiple times to departments that don't work, they finally connected me to a supervisor who refused to do anything!"
+}
+
+Chunk:
+i called to dispute a fraudulent charge after receiving an alert via email that my card was charged an amount that we did not remember making. the email stated that we " tipped'' a merchant named " across the map'' over { $ 200. 00 }! i told them the situation which was that my mom and i went to a festival in xxxx, we did purchase tickets to the place but we certainly did not tip { $ 240. 00 } and we didn't use it later in xxxx. the citi bank instead of sending me an alert via email ( which is in my settings ), sends me a letter, which i received xxxx months later stating that because my chip on the card was present at the time of of the purchase of { $ 240. 00 } i will be responsible for this charge! i still don't have an explanation as to why they denied the second claim. i called to ask them for documentation so that i can make a formal statement that i am not ok with this decision. after being transferred by very rude representatives multiple times to departments that don't work, they finally connected me to a supervisor who refused to do anything!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992976188659668
+}

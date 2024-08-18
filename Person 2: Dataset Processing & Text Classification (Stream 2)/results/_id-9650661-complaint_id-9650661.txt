@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9650661,
+  "complaint_id": "9650661",
+  "product": "Credit card",
+  "complaint_what_happened": "Fortiva credit card company. XX/XX/XXXX through XX/XX/XXXX. They charged my bank account fees and didn't give me credit for the payment I made. And today, XX/XX/XXXX someone tried to apply for a loan that I'm sure I didn't try for. I should've reported this sooner but I kept putting it off.",
+  "date_sent_to_company": "2024-07-29T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "63125",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-07-29T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem during payment process",
+  "text": "Fortiva credit card company. XX/XX/XXXX through XX/XX/XXXX. They charged my bank account fees and didn't give me credit for the payment I made. And today, XX/XX/XXXX someone tried to apply for a loan that I'm sure I didn't try for. I should've reported this sooner but I kept putting it off."
+}
+
+Chunk:
+fortiva credit card company. xx / xx / xxxx through xx / xx / xxxx. they charged my bank account fees and didn't give me credit for the payment i made. and today, xx / xx / xxxx someone tried to apply for a loan that i'm sure i didn't try for. i should've reported this sooner but i kept putting it off.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984831213951111
+}

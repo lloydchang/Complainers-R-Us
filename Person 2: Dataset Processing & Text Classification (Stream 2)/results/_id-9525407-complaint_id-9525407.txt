@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9525407,
+  "complaint_id": "9525407",
+  "product": "Credit card",
+  "complaint_what_happened": "I have recently been a victim of identity theft. Someone attempted to open a credit card using my identity for a Macys American Express Credit Card on or around XX/XX/year>. I made a FACT act request, or request for records pursuant to section 609 ( e ) of the Fair Credit Reporting Act, using the application reference number XXXX. \n\nHowever, it has been impossible to identify an address to mail this request in. I have spoken to multiple customer service representatives at Citibank, and departments and no one seems to know where to submit this request. The creditor is listed as Citibank. \n\nI have also mailed a request for records to Citibank and they have not responded.",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11374",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have recently been a victim of identity theft. Someone attempted to open a credit card using my identity for a Macys American Express Credit Card on or around XX/XX/year>. I made a FACT act request, or request for records pursuant to section 609 ( e ) of the Fair Credit Reporting Act, using the application reference number XXXX. \n\nHowever, it has been impossible to identify an address to mail this request in. I have spoken to multiple customer service representatives at Citibank, and departments and no one seems to know where to submit this request. The creditor is listed as Citibank. \n\nI have also mailed a request for records to Citibank and they have not responded."
+}
+
+Chunk:
+i have recently been a victim of identity theft. someone attempted to open a credit card using my identity for a macys american express credit card on or around xx / xx / year >. i made a fact act request, or request for records pursuant to section 609 ( e ) of the fair credit reporting act, using the application reference number xxxx. however, it has been impossible to identify an address to mail this request in. i have spoken to multiple customer service representatives at citibank, and departments and no one seems to know where to submit this request. the creditor is listed as citibank. i have also mailed a request for records to citibank and they have not responded.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995790123939514
+}

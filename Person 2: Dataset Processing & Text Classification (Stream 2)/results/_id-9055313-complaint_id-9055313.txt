@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9055313,
+  "complaint_id": "9055313",
+  "product": "Credit card",
+  "complaint_what_happened": "To XXXX XXXX XXXX. \nOn XX/XX/XXXX my husband purchased a Japanese sword on XXXX for {$560.00}. On XX/XX/XXXX he went back into e-bay to check if sword was mailed and get a tracking number. Nothing was done. He called sender who provided her cell number multiple times and was paid which she shouldn't have, She said she was mailing out package each time he spoke to her. Contacted Truist to get money back.There was no tracking number because she never mailed the item.XXXX was contacted also.Her name is XXXX XXXX XXXX XXXX. Item # and Order number will be provided to XXXX XX/XX/XXXX Truist was contacted regarding return of money because item was never XXXX spoke to XXXX case number XXXX. XXXX. There is also a charge for {$1.00} and {$55.00}. XXXX makes you pay a {$1.00} and will get back and then they charged us {$55.00} to speak to XXXX of their agents.who could not help us with fraud. They just hung up. We were not aware of the charge till the bill came. We are not paying either of those also. A few days later we spoke to XXXX at Truist XXXX case number. We were told that they are working on it. On XX/XX/XXXX we get a letter from Truist that the charge is valid. We called several times and said they are still working on it.They lied to us. We went to bank and that's how we found out it was closed out. Sent info to XXXX FTC and you.We are not paying these charges. We notified them in plenty of time Truist and e-bay. Truist states that if there is a fraud or scam charge on your card it will refund your card within XXXX business days per an oral conversation with Truist Bank.We have done that. We also notified the sheriff dept.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "344XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "To XXXX XXXX XXXX. \nOn XX/XX/XXXX my husband purchased a Japanese sword on XXXX for {$560.00}. On XX/XX/XXXX he went back into e-bay to check if sword was mailed and get a tracking number. Nothing was done. He called sender who provided her cell number multiple times and was paid which she shouldn't have, She said she was mailing out package each time he spoke to her. Contacted Truist to get money back.There was no tracking number because she never mailed the item.XXXX was contacted also.Her name is XXXX XXXX XXXX XXXX. Item # and Order number will be provided to XXXX XX/XX/XXXX Truist was contacted regarding return of money because item was never XXXX spoke to XXXX case number XXXX. XXXX. There is also a charge for {$1.00} and {$55.00}. XXXX makes you pay a {$1.00} and will get back and then they charged us {$55.00} to speak to XXXX of their agents.who could not help us with fraud. They just hung up. We were not aware of the charge till the bill came. We are not paying either of those also. A few days later we spoke to XXXX at Truist XXXX case number. We were told that they are working on it. On XX/XX/XXXX we get a letter from Truist that the charge is valid. We called several times and said they are still working on it.They lied to us. We went to bank and that's how we found out it was closed out. Sent info to XXXX FTC and you.We are not paying these charges. We notified them in plenty of time Truist and e-bay. Truist states that if there is a fraud or scam charge on your card it will refund your card within XXXX business days per an oral conversation with Truist Bank.We have done that. We also notified the sheriff dept."
+}
+
+Chunk:
+to xxxx xxxx xxxx. on xx / xx / xxxx my husband purchased a japanese sword on xxxx for { $ 560. 00 }. on xx / xx / xxxx he went back into e - bay to check if sword was mailed and get a tracking number. nothing was done. he called sender who provided her cell number multiple times and was paid which she shouldn't have, she said she was mailing out package each time he spoke to her. contacted truist to get money back. there was no tracking number because she never mailed the item. xxxx was contacted also. her name is xxxx xxxx xxxx xxxx. item # and order number will be provided to xxxx xx / xx / xxxx truist was contacted regarding return of money because item was never xxxx spoke to xxxx case number xxxx. xxxx. there is also a charge for { $ 1. 00 } and { $ 55. 00 }. xxxx makes you pay a { $ 1. 00 } and will get back and then they charged us { $ 55. 00 } to speak to xxxx of their agents. who could not help us with fraud. they just hung up. we were not aware of the charge till the bill came. we are not paying either of those also. a few days later we spoke to xxxx at truist xxxx case number. we were told that they are working on it. on xx / xx / xxxx we get a letter from truist that the charge is valid. we called several times and said they are still working on it. they lied to us. we went to bank and that's how we found out it was closed out. sent info to xxxx ftc and you. we are not paying these charges. we notified them in plenty of time truist and e - bay. truist states that if there is a fraud or scam charge on your card it will refund your card within xxxx business days per an oral conversation with truist bank. we have done that. we also notified the sheriff dept.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979902505874634
+}

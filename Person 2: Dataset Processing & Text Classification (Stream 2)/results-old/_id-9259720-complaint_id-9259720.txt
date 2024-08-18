@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9259720,
+  "complaint_id": "9259720",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I received a bunch of spam marketing emails. As I was clearing through them, I noticed a hotel booking confirmation for XXXX. \nIt was a hotel booking at the XXXX XXXX XXXX XXXX And XXXX XXXX XXXX for {$500.00}. I did not make this purchase. It still had my name and contact info on the reservation. \n\nI called XXXX to tell them I did not make this purchase. They told me they could not cancel the reservation since it was a prepaid, same-day reservation and the credit card charged to it was already billed and the hotel was paid. \n\nSo on XX/XX/XXXX, I called Chase to report a fraudulent transaction. The Chase agent told me the charge was made to a card ending in XXXX  XXXX a card number I cancelled in XX/XX/XXXX due to attempted fraudulent attempts. It was replaced for my account and I received a new card number ( ending in XXXX ). The agent then filed a fraud claim on my behalf. \n\nOn XX/XX/XXXX, I received a letter from Chase saying they were denying the fraud claim because I benefitted from it. \nOn XX/XX/XXXX, I called Chase to appeal and they told me since my name, address, and email was on the hotel booking I was liable for the purchase. They told me it was up to me to prove I did not make the purchase and that someone else benefited. \nOn XX/XX/XXXX, I called XXXX for the receipt and they sent me a contract showing the reservation was made against my old, replaced credit card number. They told me they can not provide more information as I have already filed a credit dispute. \nOn XX/XX/XXXX, I called the XXXX XXXX XXXX XXXX And XXXX XXXX XXXX to ask for the hotel 's receipt and information on who used the reservation. They provided me the folio and a system image showing the guests who used the reservation. \nXXXX XX/XX/XXXX, I sent the XXXX receipt and hotel documents to Chase as evidence of fraud. \n\nOn XX/XX/XXXX, I received a call from Chase who told me the documents were not enough and that since my name was still on hotel reservation, I was still liable. It doesn't matter the system showed someone else was the accommodating guest. They also explained since I used XXXX in the past, charges on my old credit number was still valid - something about a credit card updater. \n\nXXXX XX/XX/XXXX, I received a letter saying my fraud claim was denied and I was liable for the purchase.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95121",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/XXXX, I received a bunch of spam marketing emails. As I was clearing through them, I noticed a hotel booking confirmation for XXXX. \nIt was a hotel booking at the XXXX XXXX XXXX XXXX And XXXX XXXX XXXX for {$500.00}. I did not make this purchase. It still had my name and contact info on the reservation. \n\nI called XXXX to tell them I did not make this purchase. They told me they could not cancel the reservation since it was a prepaid, same-day reservation and the credit card charged to it was already billed and the hotel was paid. \n\nSo on XX/XX/XXXX, I called Chase to report a fraudulent transaction. The Chase agent told me the charge was made to a card ending in XXXX  XXXX a card number I cancelled in XX/XX/XXXX due to attempted fraudulent attempts. It was replaced for my account and I received a new card number ( ending in XXXX ). The agent then filed a fraud claim on my behalf. \n\nOn XX/XX/XXXX, I received a letter from Chase saying they were denying the fraud claim because I benefitted from it. \nOn XX/XX/XXXX, I called Chase to appeal and they told me since my name, address, and email was on the hotel booking I was liable for the purchase. They told me it was up to me to prove I did not make the purchase and that someone else benefited. \nOn XX/XX/XXXX, I called XXXX for the receipt and they sent me a contract showing the reservation was made against my old, replaced credit card number. They told me they can not provide more information as I have already filed a credit dispute. \nOn XX/XX/XXXX, I called the XXXX XXXX XXXX XXXX And XXXX XXXX XXXX to ask for the hotel 's receipt and information on who used the reservation. They provided me the folio and a system image showing the guests who used the reservation. \nXXXX XX/XX/XXXX, I sent the XXXX receipt and hotel documents to Chase as evidence of fraud. \n\nOn XX/XX/XXXX, I received a call from Chase who told me the documents were not enough and that since my name was still on hotel reservation, I was still liable. It doesn't matter the system showed someone else was the accommodating guest. They also explained since I used XXXX in the past, charges on my old credit number was still valid - something about a credit card updater. \n\nXXXX XX/XX/XXXX, I received a letter saying my fraud claim was denied and I was liable for the purchase."
+}
+
+Chunk:
+, charges on my old credit number was still valid - something about a credit card updater. xxxx xx / xx / xxxx, i received a letter saying my fraud claim was denied and i was liable for the purchase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983416795730591
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024156,
+  "complaint_id": "9024156",
+  "product": "Credit card",
+  "complaint_what_happened": "I was applying for a credit card when an accident caused part of my body to unintentionally press the decline offer button while I was reading the terms of the application. There was no secondary prompt asking if I was sure, the offer was completely gone. I tried reapplying and was denied. I called capitol one and they were unable to resolve the issue, even though it was still within the counter offer time. I did not press the button with my finger or intentionally in anyway. Part of my body brushed up against the screen and pressed the button. I am no longer able to apply for the same level of credit card. It is my opinion that there should have been a secondary prompt confirming the selection being made because my credit has been affected negatively by a complete accident. It seems to me that this scenario could happen in many different ways to a large number of people.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "374XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I was applying for a credit card when an accident caused part of my body to unintentionally press the decline offer button while I was reading the terms of the application. There was no secondary prompt asking if I was sure, the offer was completely gone. I tried reapplying and was denied. I called capitol one and they were unable to resolve the issue, even though it was still within the counter offer time. I did not press the button with my finger or intentionally in anyway. Part of my body brushed up against the screen and pressed the button. I am no longer able to apply for the same level of credit card. It is my opinion that there should have been a secondary prompt confirming the selection being made because my credit has been affected negatively by a complete accident. It seems to me that this scenario could happen in many different ways to a large number of people."
+}
+
+Chunk:
+i was applying for a credit card when an accident caused part of my body to unintentionally press the decline offer button while i was reading the terms of the application. there was no secondary prompt asking if i was sure, the offer was completely gone. i tried reapplying and was denied. i called capitol one and they were unable to resolve the issue, even though it was still within the counter offer time. i did not press the button with my finger or intentionally in anyway. part of my body brushed up against the screen and pressed the button. i am no longer able to apply for the same level of credit card. it is my opinion that there should have been a secondary prompt confirming the selection being made because my credit has been affected negatively by a complete accident. it seems to me that this scenario could happen in many different ways to a large number of people.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999613344669342
+}

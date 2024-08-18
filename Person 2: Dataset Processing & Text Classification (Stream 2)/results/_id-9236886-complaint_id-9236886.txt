@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9236886,
+  "complaint_id": "9236886",
+  "product": "Credit card",
+  "complaint_what_happened": "I ordered custom items from spier and XXXX clothing for {$380.00} which showed as XXXX on XX/XX/year> with XXXX tracking : XXXX however the item was never delivered to me. \n\nThis is strange since i received another package earlier from them that shipped with XXXX just fine. I contacted the merchant for a refund and they did not resolve the issue. \n\nI then contacted goldman sachs with a dispute and they are not helping me resolve this fraudulent charge from spiermckay for merchandise that was never delivered to me",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91737",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I ordered custom items from spier and XXXX clothing for {$380.00} which showed as XXXX on XX/XX/year> with XXXX tracking : XXXX however the item was never delivered to me. \n\nThis is strange since i received another package earlier from them that shipped with XXXX just fine. I contacted the merchant for a refund and they did not resolve the issue. \n\nI then contacted goldman sachs with a dispute and they are not helping me resolve this fraudulent charge from spiermckay for merchandise that was never delivered to me"
+}
+
+Chunk:
+i ordered custom items from spier and xxxx clothing for { $ 380. 00 } which showed as xxxx on xx / xx / year > with xxxx tracking : xxxx however the item was never delivered to me. this is strange since i received another package earlier from them that shipped with xxxx just fine. i contacted the merchant for a refund and they did not resolve the issue. i then contacted goldman sachs with a dispute and they are not helping me resolve this fraudulent charge from spiermckay for merchandise that was never delivered to me
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987125396728516
+}

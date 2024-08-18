@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9405954,
+  "complaint_id": "9405954",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for an Open- Ended extended line of credit with CARE CREDIT/SYNCHRONY BANK FINANCIAL and was denied. Regardless of the reasons for denial, I have the right to credit. With holding my access to my securities is SECURITIES FRAUD. XXXX XXXX IS VIOLATING THE EQUAL CREDIT OPPORTUNITY ACT AND CONSUMER AND CONSUMER CREDIT PROTECTION ACT. CREDIT DENIAL IS CONSUMER FRAUD SINCE XXXX XXXX HAS DENIED ME MY CREDIT, PLEASE RETURN MY APPLICATION FOR IT IS NOT A GIFT.",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "64130",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for an Open- Ended extended line of credit with CARE CREDIT/SYNCHRONY BANK FINANCIAL and was denied. Regardless of the reasons for denial, I have the right to credit. With holding my access to my securities is SECURITIES FRAUD. XXXX XXXX IS VIOLATING THE EQUAL CREDIT OPPORTUNITY ACT AND CONSUMER AND CONSUMER CREDIT PROTECTION ACT. CREDIT DENIAL IS CONSUMER FRAUD SINCE XXXX XXXX HAS DENIED ME MY CREDIT, PLEASE RETURN MY APPLICATION FOR IT IS NOT A GIFT."
+}
+
+Chunk:
+i applied for an open - ended extended line of credit with care credit / synchrony bank financial and was denied. regardless of the reasons for denial, i have the right to credit. with holding my access to my securities is securities fraud. xxxx xxxx is violating the equal credit opportunity act and consumer and consumer credit protection act. credit denial is consumer fraud since xxxx xxxx has denied me my credit, please return my application for it is not a gift.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979764819145203
+}

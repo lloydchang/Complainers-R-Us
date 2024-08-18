@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9124132,
+  "complaint_id": "9124132",
+  "product": "Credit card",
+  "complaint_what_happened": "Recently, XXXX is unable to schedule a recurring payment for a fixed amount other than minimum payment or for the whole statement balance. The minimum amount is too low to pay because you incur more interest charges whereas paying the statement balance may be too steep if you have a lot on your balance. Why can't we be able to schedule a recurring payment for what we consumers deemed affordable? Something that is definitely more than the minimum bur not as high as the statement balance. This practice recently started happening with XXXX of my credit unions-XXXX  and SchoolsFirst CU. About XXXX years ago, this was not a problem. I believe they changed the policy so they can make more money from you setting up a minimum payment and hoping you forget to make additional one-time payment. This is a very unfair practice. I have sent emails and called both banks. They said you can not do this yourself unless you call to schedule a recurring payment. I called to do this and the person helping me realized she even can not set up a fixed amount recurring payment. Kindly help look into this very unfair practice where customers are at the mercy of banks. Thank you.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91387",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SCHOOLSFIRST FEDERAL CREDIT UNION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes the complaint provided an opportunity to answer consumer's questions",
+  "sub_issue": "Problem during payment process",
+  "text": "Recently, XXXX is unable to schedule a recurring payment for a fixed amount other than minimum payment or for the whole statement balance. The minimum amount is too low to pay because you incur more interest charges whereas paying the statement balance may be too steep if you have a lot on your balance. Why can't we be able to schedule a recurring payment for what we consumers deemed affordable? Something that is definitely more than the minimum bur not as high as the statement balance. This practice recently started happening with XXXX of my credit unions-XXXX  and SchoolsFirst CU. About XXXX years ago, this was not a problem. I believe they changed the policy so they can make more money from you setting up a minimum payment and hoping you forget to make additional one-time payment. This is a very unfair practice. I have sent emails and called both banks. They said you can not do this yourself unless you call to schedule a recurring payment. I called to do this and the person helping me realized she even can not set up a fixed amount recurring payment. Kindly help look into this very unfair practice where customers are at the mercy of banks. Thank you."
+}
+
+Chunk:
+recently, xxxx is unable to schedule a recurring payment for a fixed amount other than minimum payment or for the whole statement balance. the minimum amount is too low to pay because you incur more interest charges whereas paying the statement balance may be too steep if you have a lot on your balance. why can't we be able to schedule a recurring payment for what we consumers deemed affordable? something that is definitely more than the minimum bur not as high as the statement balance. this practice recently started happening with xxxx of my credit unions - xxxx and schoolsfirst cu. about xxxx years ago, this was not a problem. i believe they changed the policy so they can make more money from you setting up a minimum payment and hoping you forget to make additional one - time payment. this is a very unfair practice. i have sent emails and called both banks. they said you can not do this yourself unless you call to schedule a recurring payment. i called to do this and the person helping me realized she even can not set up a fixed amount recurring payment. kindly help look into this very unfair practice where customers are at the mercy of banks. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.992821991443634
+}

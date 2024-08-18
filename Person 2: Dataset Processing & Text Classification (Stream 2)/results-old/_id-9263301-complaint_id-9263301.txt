@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263301,
+  "complaint_id": "9263301",
+  "product": "Credit card",
+  "complaint_what_happened": "Please see last complaint filed and Citizens bank responded stating to send an email to XXXX. I called and spoke to XXXX XXXX and my call was recorded. Her supervisor XXXX. XXXX XXXX which is his real last name. Not XXXX. I have also filed a complaint with the XXXX XXXX XXXX XXXX. My evidence is undisputed. Citizens clearly does not want to assist because they are putting a personal biased against me and violating so many banking practices. I have been trying to receive assistance. I emailed as per the letter that will be attached and my emails to show the clear unsound business practices being committed. I paid what I could and reported me late with many late charges that the CFPB capped late charges. Clearly my evidence shows this bank does not give hardship assistance. A scam. \nAlso, XXXX XXXX is not employed at Citizens. Yet all the letter have his name. He was contacted. I will be forced to do a XXXX  XXXX. \nAll my creditors provided financial assistance. this bank forced me to hire a consumer lawyer when I am in serious financial restraints to contact XXXX XXXX at the OCC to investigate.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIZENS FINANCIAL GROUP, INC.",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "Please see last complaint filed and Citizens bank responded stating to send an email to XXXX. I called and spoke to XXXX XXXX and my call was recorded. Her supervisor XXXX. XXXX XXXX which is his real last name. Not XXXX. I have also filed a complaint with the XXXX XXXX XXXX XXXX. My evidence is undisputed. Citizens clearly does not want to assist because they are putting a personal biased against me and violating so many banking practices. I have been trying to receive assistance. I emailed as per the letter that will be attached and my emails to show the clear unsound business practices being committed. I paid what I could and reported me late with many late charges that the CFPB capped late charges. Clearly my evidence shows this bank does not give hardship assistance. A scam. \nAlso, XXXX XXXX is not employed at Citizens. Yet all the letter have his name. He was contacted. I will be forced to do a XXXX  XXXX. \nAll my creditors provided financial assistance. this bank forced me to hire a consumer lawyer when I am in serious financial restraints to contact XXXX XXXX at the OCC to investigate."
+}
+
+Chunk:
+please see last complaint filed and citizens bank responded stating to send an email to xxxx. i called and spoke to xxxx xxxx and my call was recorded. her supervisor xxxx. xxxx xxxx which is his real last name. not xxxx. i have also filed a complaint with the xxxx xxxx xxxx xxxx. my evidence is undisputed. citizens clearly does not want to assist because they are putting a personal biased against me and violating so many banking practices. i have been trying to receive assistance. i emailed as per the letter that will be attached and my emails to show the clear unsound business practices being committed. i paid what i could and reported me late with many late charges that the cfpb capped late charges. clearly my evidence shows this bank does not give hardship assistance. a scam. also, xxxx xxxx is not employed at citizens. yet all the letter have his name. he was contacted. i will be forced to do a xxxx xxxx. all my creditors provided financial assistance. this bank forced me to hire a consumer lawyer when i am in serious financial restraints to contact xxxx xxxx at the occ to investigate.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9904875159263611
+}

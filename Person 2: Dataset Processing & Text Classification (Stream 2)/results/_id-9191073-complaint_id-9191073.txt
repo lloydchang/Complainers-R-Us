@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191073,
+  "complaint_id": "9191073",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> my wife attempted to purchase XXXX XXXX from a website named XXXX. When she proceeded to check-out, you are only able to select Pay-Pal related payments. You are re-directed to Pay-Pal 's purchase page. The purchase amount was {$120.00}, and since my wife 's PayPal account balance was less than this, the payment was processed through PayPal on our Sam 's Club XXXX ( credit card - Synchrony Bank ). You are not directed back to the XXXX cart, there was no confirmation screen nor email nor code nor tracking info. The charge is redirected by code to recharge XXXXXXXX XXXX for a separate account in some other country ( not linked to the site ). You cant track the order through the XXXX site, since there is no tracking nor order number. My wife 's PayPal account shows a purchase labeled XXXX XXXX XXXX. The reference on my credit card statement is XXXX XXXX XXXXXXXX XXXX To be clear, we DO NOT have an account with XXXX. To be clear- we never received any XXXX XXXX. If you try to contact XXXX, the contact info on their website is fraudulent. The one address and phone number in XXXX XXXX is actually a closed XXXX XXXX XXXX XXXX The second address and phone number in Arizona is actually XXXX XXXX XXXX XXXX. When I contacted Synchrony Bank about this fraud, they did investigate. However, they view XXXX as the merchant and XXXX replied to Synchrony confirming the amount in question was indeed paid to a XXXXXXXX XXXX  via a purchase of XXXXXXXX XXXX funded by utilizing our credit card. Synchrony Bank will not reverse the charge on my account as they say we authorized this payment to XXXX. I have argued with Synchrony, that we did not authorize the purchase of XXXX coins, and that we were trying to purchase XXXX XXXX from the XXXX website ( which were never received ). We consider this fraud. Synchrony did request additional documentation from us. I have sent them screen shots of the XXXX home page and the website pages that show the fraudulent contact information. But I have no order confirmation or other info to give the bank as we never received anything as described above. The additional documentation did not help my case. They still claim that we \" authorized '' this transaction, which we most certainly did not. At this point the bank has dug in its heels and will not reverse this charge. We are hoping you can help us in convincing the bank that this is a fraud perpetuated on us through a somewhat elaborate internet purchase scam.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "273XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> my wife attempted to purchase XXXX XXXX from a website named XXXX. When she proceeded to check-out, you are only able to select Pay-Pal related payments. You are re-directed to Pay-Pal 's purchase page. The purchase amount was {$120.00}, and since my wife 's PayPal account balance was less than this, the payment was processed through PayPal on our Sam 's Club XXXX ( credit card - Synchrony Bank ). You are not directed back to the XXXX cart, there was no confirmation screen nor email nor code nor tracking info. The charge is redirected by code to recharge XXXXXXXX XXXX for a separate account in some other country ( not linked to the site ). You cant track the order through the XXXX site, since there is no tracking nor order number. My wife 's PayPal account shows a purchase labeled XXXX XXXX XXXX. The reference on my credit card statement is XXXX XXXX XXXXXXXX XXXX To be clear, we DO NOT have an account with XXXX. To be clear- we never received any XXXX XXXX. If you try to contact XXXX, the contact info on their website is fraudulent. The one address and phone number in XXXX XXXX is actually a closed XXXX XXXX XXXX XXXX The second address and phone number in Arizona is actually XXXX XXXX XXXX XXXX. When I contacted Synchrony Bank about this fraud, they did investigate. However, they view XXXX as the merchant and XXXX replied to Synchrony confirming the amount in question was indeed paid to a XXXXXXXX XXXX  via a purchase of XXXXXXXX XXXX funded by utilizing our credit card. Synchrony Bank will not reverse the charge on my account as they say we authorized this payment to XXXX. I have argued with Synchrony, that we did not authorize the purchase of XXXX coins, and that we were trying to purchase XXXX XXXX from the XXXX website ( which were never received ). We consider this fraud. Synchrony did request additional documentation from us. I have sent them screen shots of the XXXX home page and the website pages that show the fraudulent contact information. But I have no order confirmation or other info to give the bank as we never received anything as described above. The additional documentation did not help my case. They still claim that we \" authorized '' this transaction, which we most certainly did not. At this point the bank has dug in its heels and will not reverse this charge. We are hoping you can help us in convincing the bank that this is a fraud perpetuated on us through a somewhat elaborate internet purchase scam."
+}
+
+Chunk:
+still claim that we " authorized'' this transaction, which we most certainly did not. at this point the bank has dug in its heels and will not reverse this charge. we are hoping you can help us in convincing the bank that this is a fraud perpetuated on us through a somewhat elaborate internet purchase scam.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9927814602851868
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037616,
+  "complaint_id": "9037616",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank wants to charge me {$7600.00} for a purchase that I did not authorize. XXXX XXXX XXXX XXXX XXXX XXXX  They say the merchant provided a delivery slip, but it is useless if it doesn't have my signature of acceptance. \nI DID NOT ACCEPT THE DELIVERY, I DID NOT SIGN. \n\nI hope the people responsible for resolving this issue will review the delivery slip carefully and understand that I DID NOT SIGN NOR ACCEPT THE DELIVERY.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20877",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Synchrony Bank wants to charge me {$7600.00} for a purchase that I did not authorize. XXXX XXXX XXXX XXXX XXXX XXXX  They say the merchant provided a delivery slip, but it is useless if it doesn't have my signature of acceptance. \nI DID NOT ACCEPT THE DELIVERY, I DID NOT SIGN. \n\nI hope the people responsible for resolving this issue will review the delivery slip carefully and understand that I DID NOT SIGN NOR ACCEPT THE DELIVERY."
+}
+
+Chunk:
+synchrony bank wants to charge me { $ 7600. 00 } for a purchase that i did not authorize. xxxx xxxx xxxx xxxx xxxx xxxx they say the merchant provided a delivery slip, but it is useless if it doesn't have my signature of acceptance. i did not accept the delivery, i did not sign. i hope the people responsible for resolving this issue will review the delivery slip carefully and understand that i did not sign nor accept the delivery.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994420409202576
+}

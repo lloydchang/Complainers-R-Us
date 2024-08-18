@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9482160,
+  "complaint_id": "9482160",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony is now charging a XXXX fee to receive paper statements as of my XX/XX/year> statement. My previous statement did not contain any notice this change would occur and this junk fee is unacceptable. \n\nCompany claims it sent out notice if change of terms separately and is resending as I did not receive the first notice. Neither my XXXX or XXXX statement contained any information regarding this change. \n\nCompany claims unless I opt out of paper statements I will be billed this junk fee and it is too late to opt out for the next statement as well. \n\nI find the fee inappropriate and would never have opened the account if this was something the company was planning. It is an attempt to collect additional fees from consumers in an inappropriate manner. \n\nThe company 's website is unreliable and one third of the time I try to access it I am either unable to log in or information is unavailable. This is an attempt to further increase consumer fees by making it more difficult to pay my bill or see the charges on the account. This should not be something the consumer is forced into.",
+  "date_sent_to_company": "2024-07-11T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "754XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Synchrony is now charging a XXXX fee to receive paper statements as of my XX/XX/year> statement. My previous statement did not contain any notice this change would occur and this junk fee is unacceptable. \n\nCompany claims it sent out notice if change of terms separately and is resending as I did not receive the first notice. Neither my XXXX or XXXX statement contained any information regarding this change. \n\nCompany claims unless I opt out of paper statements I will be billed this junk fee and it is too late to opt out for the next statement as well. \n\nI find the fee inappropriate and would never have opened the account if this was something the company was planning. It is an attempt to collect additional fees from consumers in an inappropriate manner. \n\nThe company 's website is unreliable and one third of the time I try to access it I am either unable to log in or information is unavailable. This is an attempt to further increase consumer fees by making it more difficult to pay my bill or see the charges on the account. This should not be something the consumer is forced into."
+}
+
+Chunk:
+synchrony is now charging a xxxx fee to receive paper statements as of my xx / xx / year > statement. my previous statement did not contain any notice this change would occur and this junk fee is unacceptable. company claims it sent out notice if change of terms separately and is resending as i did not receive the first notice. neither my xxxx or xxxx statement contained any information regarding this change. company claims unless i opt out of paper statements i will be billed this junk fee and it is too late to opt out for the next statement as well. i find the fee inappropriate and would never have opened the account if this was something the company was planning. it is an attempt to collect additional fees from consumers in an inappropriate manner. the company's website is unreliable and one third of the time i try to access it i am either unable to log in or information is unavailable. this is an attempt to further increase consumer fees by making it more difficult to pay my bill or see the charges on the account. this should not be something the consumer is forced into.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997397065162659
+}

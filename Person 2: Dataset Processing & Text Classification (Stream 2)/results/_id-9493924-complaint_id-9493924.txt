@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9493924,
+  "complaint_id": "9493924",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally file a complaint against Bank of America regarding an unresolved issue with a credit card account that has persisted for approximately XXXX year ago. \n\nI opened a credit card account with Bank of America, which I subsequently paid off in full and ceased using years ago. However, despite having settled the account, I began receiving charges on the account approximately XXXX  year ago. I promptly disputed these charges with Bank of America, yet the disputes have not been satisfactorily resolved. \n\nDespite my continuous efforts to resolve this matter, including multiple phone calls and written disputes, I continue to receive bills for this account. I have made payments on these charges solely to avoid any negative impact on my credit rating. It is worth noting that I do not possess the physical credit card associated with this account. \n\nFurthermore, I have encountered significant difficulties in reaching a live person through Bank of America 's customer service. The quality of customer service has been extremely poor, and the process of attempting to resolve this issue has been frustrating and time-consuming. \n\nI am seeking the Consumer Financial Protection Bureau 's assistance in resolving this matter promptly. I request that Bank of America cease all further charges to this account, investigate the legitimacy of the charges already billed, and ensure that my credit rating is not adversely affected by this ongoing issue. \n\nThank you for your attention to this matter. I look forward to your assistance in resolving this issue swiftly and justly",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "377XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I am writing to formally file a complaint against Bank of America regarding an unresolved issue with a credit card account that has persisted for approximately XXXX year ago. \n\nI opened a credit card account with Bank of America, which I subsequently paid off in full and ceased using years ago. However, despite having settled the account, I began receiving charges on the account approximately XXXX  year ago. I promptly disputed these charges with Bank of America, yet the disputes have not been satisfactorily resolved. \n\nDespite my continuous efforts to resolve this matter, including multiple phone calls and written disputes, I continue to receive bills for this account. I have made payments on these charges solely to avoid any negative impact on my credit rating. It is worth noting that I do not possess the physical credit card associated with this account. \n\nFurthermore, I have encountered significant difficulties in reaching a live person through Bank of America 's customer service. The quality of customer service has been extremely poor, and the process of attempting to resolve this issue has been frustrating and time-consuming. \n\nI am seeking the Consumer Financial Protection Bureau 's assistance in resolving this matter promptly. I request that Bank of America cease all further charges to this account, investigate the legitimacy of the charges already billed, and ensure that my credit rating is not adversely affected by this ongoing issue. \n\nThank you for your attention to this matter. I look forward to your assistance in resolving this issue swiftly and justly"
+}
+
+Chunk:
+i am writing to formally file a complaint against bank of america regarding an unresolved issue with a credit card account that has persisted for approximately xxxx year ago. i opened a credit card account with bank of america, which i subsequently paid off in full and ceased using years ago. however, despite having settled the account, i began receiving charges on the account approximately xxxx year ago. i promptly disputed these charges with bank of america, yet the disputes have not been satisfactorily resolved. despite my continuous efforts to resolve this matter, including multiple phone calls and written disputes, i continue to receive bills for this account. i have made payments on these charges solely to avoid any negative impact on my credit rating. it is worth noting that i do not possess the physical credit card associated with this account. furthermore, i have encountered significant difficulties in reaching a live person through bank of america's customer service. the quality of customer service has been extremely poor, and the process of attempting to resolve this issue has been frustrating and time - consuming. i am seeking the consumer financial protection bureau's assistance in resolving this matter promptly. i request that bank of america cease all further charges to this account, investigate the legitimacy of the charges already billed, and ensure that my credit rating is not adversely affected by this ongoing issue. thank you for your attention to this matter. i look forward to your assistance in resolving this issue swiftly and justly
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9853624105453491
+}

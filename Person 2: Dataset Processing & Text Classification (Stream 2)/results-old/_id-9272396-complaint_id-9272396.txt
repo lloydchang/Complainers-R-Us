@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9272396,
+  "complaint_id": "9272396",
+  "product": "Credit card",
+  "complaint_what_happened": "I clicked on the credit card offer received via email from Capital One that offered {$750.00} cash bonus after spending {$6000.00} and get 1.5 % rewards points. \n\nToday, when I called to get the last day to meet {$6000.00} spending, I was told that the credit card that I've been using is not the one that I applied for. The customer support told me that there was a counter offer and I accepted it. I don't recall any of that. There should be emails, but there isn't any, and they won't provide any proof of what they are claiming. I applied for Capital One Spark Business credit card, and that's exactly what it says on my card. They made several different colors of these cards and call all of them the same, \" Capital One Spark Business ''. According to the customer support, what I have is \" Classic '' and not \" Select ''. I strongly feel that this practice is a bait-and-switch scam and designed and intended to confuse and deceive the consumers taking financial advantage of people. \n\nI requested all documents supporting their claims, and I was told by XXXX, senior account specialist, that they can't send those but will send me the agreement I signed. \n\nI signed up for paperless when I set up the mobile banking. Therefore, I am not getting any mails from them. The paperless opt-in, however, should have any and all correspondence, and there is absolutely nothing except the monthly statements and a document they sent me today upon my request. What they sent me is not the details I requested. \n\nAll I received in the mail is the credit card and a letter stating the credit limit, the usual that you get with a new credit card. I've never once had any issues with Capital One until today. I did not need this card or credit line accept for the purpose of earning the {$750.00} bonus + 1.5 % cash rewards they offered.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I clicked on the credit card offer received via email from Capital One that offered {$750.00} cash bonus after spending {$6000.00} and get 1.5 % rewards points. \n\nToday, when I called to get the last day to meet {$6000.00} spending, I was told that the credit card that I've been using is not the one that I applied for. The customer support told me that there was a counter offer and I accepted it. I don't recall any of that. There should be emails, but there isn't any, and they won't provide any proof of what they are claiming. I applied for Capital One Spark Business credit card, and that's exactly what it says on my card. They made several different colors of these cards and call all of them the same, \" Capital One Spark Business ''. According to the customer support, what I have is \" Classic '' and not \" Select ''. I strongly feel that this practice is a bait-and-switch scam and designed and intended to confuse and deceive the consumers taking financial advantage of people. \n\nI requested all documents supporting their claims, and I was told by XXXX, senior account specialist, that they can't send those but will send me the agreement I signed. \n\nI signed up for paperless when I set up the mobile banking. Therefore, I am not getting any mails from them. The paperless opt-in, however, should have any and all correspondence, and there is absolutely nothing except the monthly statements and a document they sent me today upon my request. What they sent me is not the details I requested. \n\nAll I received in the mail is the credit card and a letter stating the credit limit, the usual that you get with a new credit card. I've never once had any issues with Capital One until today. I did not need this card or credit line accept for the purpose of earning the {$750.00} bonus + 1.5 % cash rewards they offered."
+}
+
+Chunk:
+i clicked on the credit card offer received via email from capital one that offered { $ 750. 00 } cash bonus after spending { $ 6000. 00 } and get 1. 5 % rewards points. today, when i called to get the last day to meet { $ 6000. 00 } spending, i was told that the credit card that i've been using is not the one that i applied for. the customer support told me that there was a counter offer and i accepted it. i don't recall any of that. there should be emails, but there isn't any, and they won't provide any proof of what they are claiming. i applied for capital one spark business credit card, and that's exactly what it says on my card. they made several different colors of these cards and call all of them the same, " capital one spark business''. according to the customer support, what i have is " classic'' and not " select''. i strongly feel that this practice is a bait - and - switch scam and designed and intended to confuse and deceive the consumers taking financial advantage of people. i requested all documents supporting their claims, and i was told by xxxx, senior account specialist, that they can't send those but will send me the agreement i signed. i signed up for paperless when i set up the mobile banking. therefore, i am not getting any mails from them. the paperless opt - in, however, should have any and all correspondence, and there is absolutely nothing except the monthly statements and a document they sent me today upon my request. what they sent me is not the details i requested. all i received in the mail is the credit card and a letter stating the credit limit, the usual that you get with a new credit card. i've never once had any issues with capital one until today. i did not need this card or credit line accept for the purpose of earning the { $ 750. 00 } bonus + 1. 5 % cash rewards they offered.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991462230682373
+}

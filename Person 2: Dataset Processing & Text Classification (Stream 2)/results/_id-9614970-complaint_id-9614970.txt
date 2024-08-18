@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9614970,
+  "complaint_id": "9614970",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, we purchased a refrigerator which had a sign on it that guaranteed 0 % interest for XXXX months on XX/XX/XXXX. We contacted the company because we were not given the 0 % interest. We were told that we needed to supply all the documentation and then we received written response that it was being fixed on XX/XX/XXXX we called the company because it still was not being fixed. We were told it would be done in XXXX to XXXX hours on XX/XX/XXXX. We called again and was told that it was being reviewed today. We were just told that they are having a hard time honoring it because we do not have the promotion code, however we have a picture of the promotion on top of the refrigerator that we submitted. We are getting the runaround. No one is assisting us at the company. We spoke to XXXX XXXX email only as you are not allowed to call and she said they would honor it we now spoke to XXXX, XXXX and Customer Service who says that, they have no control over the promotion department and we have no course of solution. This is advertising and we are requesting your involvement to have this resolved and any actions that can be taken against this practice of the XXXX military star credit union",
+  "date_sent_to_company": "2024-07-25T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "30813",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Army and Air Force Exchange Service",
+  "date_received": "2024-07-25T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "On XX/XX/XXXX, we purchased a refrigerator which had a sign on it that guaranteed 0 % interest for XXXX months on XX/XX/XXXX. We contacted the company because we were not given the 0 % interest. We were told that we needed to supply all the documentation and then we received written response that it was being fixed on XX/XX/XXXX we called the company because it still was not being fixed. We were told it would be done in XXXX to XXXX hours on XX/XX/XXXX. We called again and was told that it was being reviewed today. We were just told that they are having a hard time honoring it because we do not have the promotion code, however we have a picture of the promotion on top of the refrigerator that we submitted. We are getting the runaround. No one is assisting us at the company. We spoke to XXXX XXXX email only as you are not allowed to call and she said they would honor it we now spoke to XXXX, XXXX and Customer Service who says that, they have no control over the promotion department and we have no course of solution. This is advertising and we are requesting your involvement to have this resolved and any actions that can be taken against this practice of the XXXX military star credit union"
+}
+
+Chunk:
+on xx / xx / xxxx, we purchased a refrigerator which had a sign on it that guaranteed 0 % interest for xxxx months on xx / xx / xxxx. we contacted the company because we were not given the 0 % interest. we were told that we needed to supply all the documentation and then we received written response that it was being fixed on xx / xx / xxxx we called the company because it still was not being fixed. we were told it would be done in xxxx to xxxx hours on xx / xx / xxxx. we called again and was told that it was being reviewed today. we were just told that they are having a hard time honoring it because we do not have the promotion code, however we have a picture of the promotion on top of the refrigerator that we submitted. we are getting the runaround. no one is assisting us at the company. we spoke to xxxx xxxx email only as you are not allowed to call and she said they would honor it we now spoke to xxxx, xxxx and customer service who says that, they have no control over the promotion department and we have no course of solution. this is advertising and we are requesting your involvement to have this resolved and any actions that can be taken against this practice of the xxxx military star credit union
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994434714317322
+}

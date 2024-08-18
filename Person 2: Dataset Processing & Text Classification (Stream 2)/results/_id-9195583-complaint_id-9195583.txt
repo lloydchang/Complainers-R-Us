@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195583,
+  "complaint_id": "9195583",
+  "product": "Credit card",
+  "complaint_what_happened": "To whom this may concern, and I'm going to keep this one very short. \n\nOn XX/XX/year>, I applied for U.S. Bank Business Platinum Card. I filled the application form online, completed the process and got this notice \" Thanks for applying. You'll hear from us soon. We're looking over your application and may ask you to provide additional info or documents. You'll certainly hear from us by mail once we have a decision, usually in 7 to 10 business days. '' I called U.S. Bank customer support same night to be redirected to business card application however unfortunately their offices were closed. \n\nI called in today XX/XX/year> to get an update on the application, only to be told by U.S. Bank personnel that my application was denied because I applied with my ITIN and should only apply with an SSN. This didn't make sense to me because the application clearly stated \" SSN / ITIN ( Enter your social Security number or Individual Tax Identification Number ''. \n\nI told him if that's the case, then there shouldnt have been a section for ITIN as this is misleading and should be taken down immediately. The best I can assume a reasonable support personnel would do or say is U.S. Bank would probably investigate this form and probably make necessary corrections or adjustments. As a business owner myself, my websites and application form should not mislead my partners and customers. And if there happens to be some sort of misleading information, I think its worth investigating. \n\nSo, I asked him, what if after submitting my application, then I get a hard pull on my credit reports and I call U.S. Bank and the response is \" sorry no ITINs ''. His response was there wasn't a hard pull so that justifies the unprofessional services I has personally received from U.S. Bank Business Section. And then kept saying \" there's nothing we can do about your application ''. \n\nWhat is more vexing in this matter is that, I applied for a personal secured credit card online around XXXX, XXXX. Filled a form online that also clearly stated \" SSN / ITIN ''. Was approved and serving its purpose. \n\nSo, unless this personnel from U.S. Bank this that I am an XXXX or is simply another ignorant banker I have come across during my recent years in the United States. Then that form should state out and request accurate personal information. Otherwise, U.S. Bank collecting ITIN information from all potential business card customer just for kicks is a major problem. \n\nPlease see attached your online application form. Apparently, it turns out my ITIN is not an ITIN and the IRS is confused according to somebody at U.S. Bank Business Application.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "40220",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "To whom this may concern, and I'm going to keep this one very short. \n\nOn XX/XX/year>, I applied for U.S. Bank Business Platinum Card. I filled the application form online, completed the process and got this notice \" Thanks for applying. You'll hear from us soon. We're looking over your application and may ask you to provide additional info or documents. You'll certainly hear from us by mail once we have a decision, usually in 7 to 10 business days. '' I called U.S. Bank customer support same night to be redirected to business card application however unfortunately their offices were closed. \n\nI called in today XX/XX/year> to get an update on the application, only to be told by U.S. Bank personnel that my application was denied because I applied with my ITIN and should only apply with an SSN. This didn't make sense to me because the application clearly stated \" SSN / ITIN ( Enter your social Security number or Individual Tax Identification Number ''. \n\nI told him if that's the case, then there shouldnt have been a section for ITIN as this is misleading and should be taken down immediately. The best I can assume a reasonable support personnel would do or say is U.S. Bank would probably investigate this form and probably make necessary corrections or adjustments. As a business owner myself, my websites and application form should not mislead my partners and customers. And if there happens to be some sort of misleading information, I think its worth investigating. \n\nSo, I asked him, what if after submitting my application, then I get a hard pull on my credit reports and I call U.S. Bank and the response is \" sorry no ITINs ''. His response was there wasn't a hard pull so that justifies the unprofessional services I has personally received from U.S. Bank Business Section. And then kept saying \" there's nothing we can do about your application ''. \n\nWhat is more vexing in this matter is that, I applied for a personal secured credit card online around XXXX, XXXX. Filled a form online that also clearly stated \" SSN / ITIN ''. Was approved and serving its purpose. \n\nSo, unless this personnel from U.S. Bank this that I am an XXXX or is simply another ignorant banker I have come across during my recent years in the United States. Then that form should state out and request accurate personal information. Otherwise, U.S. Bank collecting ITIN information from all potential business card customer just for kicks is a major problem. \n\nPlease see attached your online application form. Apparently, it turns out my ITIN is not an ITIN and the IRS is confused according to somebody at U.S. Bank Business Application."
+}
+
+Chunk:
+and request accurate personal information. otherwise, u. s. bank collecting itin information from all potential business card customer just for kicks is a major problem. please see attached your online application form. apparently, it turns out my itin is not an itin and the irs is confused according to somebody at u. s. bank business application.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994404911994934
+}

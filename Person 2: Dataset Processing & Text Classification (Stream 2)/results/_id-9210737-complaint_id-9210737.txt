@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210737,
+  "complaint_id": "9210737",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America Account XXXX I am writing to urgently dispute the accuracy of a charge-off reported on my credit report associated with the Bank of America account ending in XXXX. This item has been inaccurately reported as a \" charge-off, '' which I firmly believe does not accurately reflect the true status of my credit report. Pursuant to the provisions of the Fair Credit Reporting Act ( FCRA ), specifically under sections 15 U.S.C. 1681i ( a ) \" Procedure in case of disputed accuracy '' and 15 U.S.C. 1681a ( x ) ( 1 ), I am exercising my right to challenge this inaccuracy and request its immediate correction or removal from my credit file.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30294",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "Bank of America Account XXXX I am writing to urgently dispute the accuracy of a charge-off reported on my credit report associated with the Bank of America account ending in XXXX. This item has been inaccurately reported as a \" charge-off, '' which I firmly believe does not accurately reflect the true status of my credit report. Pursuant to the provisions of the Fair Credit Reporting Act ( FCRA ), specifically under sections 15 U.S.C. 1681i ( a ) \" Procedure in case of disputed accuracy '' and 15 U.S.C. 1681a ( x ) ( 1 ), I am exercising my right to challenge this inaccuracy and request its immediate correction or removal from my credit file."
+}
+
+Chunk:
+bank of america account xxxx i am writing to urgently dispute the accuracy of a charge - off reported on my credit report associated with the bank of america account ending in xxxx. this item has been inaccurately reported as a " charge - off,'' which i firmly believe does not accurately reflect the true status of my credit report. pursuant to the provisions of the fair credit reporting act ( fcra ), specifically under sections 15 u. s. c. 1681i ( a ) " procedure in case of disputed accuracy'' and 15 u. s. c. 1681a ( x ) ( 1 ), i am exercising my right to challenge this inaccuracy and request its immediate correction or removal from my credit file.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999338686466217
+}

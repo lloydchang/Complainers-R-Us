@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9022781,
+  "complaint_id": "9022781",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXX UT XXXX Dear sir, I have received an email from your branch on XX/XX/24 regarding my closed TJX Rewards Platinum Mastercard . Your attached document stated that there were no fraud activities on my closed credit card. I have complained just I could not use the reward certificates and complained it. I did not care whether there were fraud activities or not, since I paid off everything. I just missed the opportunity to enjoy using rewards. Anyway, your company interest rate is high ; therefore, it might be better to close. I received the bill and paid off the amount of {$470.00} today through my banking account. There is one reward certificate ending numbers are XXXX, even though I am not sure whether I can use it or not. I strongly believe it is not usable since I could not use several in the past. I always wonder why there are so many branches relating all matters I am working on, which cause the confusion on the customers side. \nSincerely,",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "076XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Synchrony Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXX UT XXXX Dear sir, I have received an email from your branch on XX/XX/24 regarding my closed TJX Rewards Platinum Mastercard . Your attached document stated that there were no fraud activities on my closed credit card. I have complained just I could not use the reward certificates and complained it. I did not care whether there were fraud activities or not, since I paid off everything. I just missed the opportunity to enjoy using rewards. Anyway, your company interest rate is high ; therefore, it might be better to close. I received the bill and paid off the amount of {$470.00} today through my banking account. There is one reward certificate ending numbers are XXXX, even though I am not sure whether I can use it or not. I strongly believe it is not usable since I could not use several in the past. I always wonder why there are so many branches relating all matters I am working on, which cause the confusion on the customers side. \nSincerely,"
+}
+
+Chunk:
+synchrony bank xxxxxxxx xxxx xxxx xxxx xxxx xxxx ut xxxx dear sir, i have received an email from your branch on xx / xx / 24 regarding my closed tjx rewards platinum mastercard. your attached document stated that there were no fraud activities on my closed credit card. i have complained just i could not use the reward certificates and complained it. i did not care whether there were fraud activities or not, since i paid off everything. i just missed the opportunity to enjoy using rewards. anyway, your company interest rate is high ; therefore, it might be better to close. i received the bill and paid off the amount of { $ 470. 00 } today through my banking account. there is one reward certificate ending numbers are xxxx, even though i am not sure whether i can use it or not. i strongly believe it is not usable since i could not use several in the past. i always wonder why there are so many branches relating all matters i am working on, which cause the confusion on the customers side. sincerely,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984756112098694
+}

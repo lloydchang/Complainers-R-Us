@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9212197,
+  "complaint_id": "9212197",
+  "product": "Credit card",
+  "complaint_what_happened": "Recieved approval letter from bank credit card Company called. XXXX credit ( INDIGO credit cards XX/XX/year> company request additional information for approval .a copy of Wisconsin drivers license .also letter with address lSubmitted the documents request ed .Notice on recording indigo machine XXXX states they are are a Collection Agency who trying to collect old delt i. Instead of a company trying to issue out credit. This company is COLLECTION agency trying to collect old dealt. Which misleading due I don't owe this company. Which l summits important information .then recieved Denial",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "544XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "Recieved approval letter from bank credit card Company called. XXXX credit ( INDIGO credit cards XX/XX/year> company request additional information for approval .a copy of Wisconsin drivers license .also letter with address lSubmitted the documents request ed .Notice on recording indigo machine XXXX states they are are a Collection Agency who trying to collect old delt i. Instead of a company trying to issue out credit. This company is COLLECTION agency trying to collect old dealt. Which misleading due I don't owe this company. Which l summits important information .then recieved Denial"
+}
+
+Chunk:
+recieved approval letter from bank credit card company called. xxxx credit ( indigo credit cards xx / xx / year > company request additional information for approval. a copy of wisconsin drivers license. also letter with address lsubmitted the documents request ed. notice on recording indigo machine xxxx states they are are a collection agency who trying to collect old delt i. instead of a company trying to issue out credit. this company is collection agency trying to collect old dealt. which misleading due i don't owe this company. which l summits important information. then recieved denial
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9947279095649719
+}

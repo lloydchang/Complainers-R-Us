@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151732,
+  "complaint_id": "9151732",
+  "product": "Credit card",
+  "complaint_what_happened": "due date for card is on XXXX of every month. In XXXX i paid on the XXXX and it posted on the XXXX and they gave me a late fee. today i paid on the XXXX and it posted for the XXXX. I requested a removal of the late fee in XXXX and they refused, this account is closed. I have another account with them because they refused to put the 2 accounts together. So when I call it wont let me pay on the old account so it always appears late. i only owe XXXX on this account that is closed and it is all late fees. This is gouging their low income customers when their interest rate is already 30 % please help",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "13440",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "due date for card is on XXXX of every month. In XXXX i paid on the XXXX and it posted on the XXXX and they gave me a late fee. today i paid on the XXXX and it posted for the XXXX. I requested a removal of the late fee in XXXX and they refused, this account is closed. I have another account with them because they refused to put the 2 accounts together. So when I call it wont let me pay on the old account so it always appears late. i only owe XXXX on this account that is closed and it is all late fees. This is gouging their low income customers when their interest rate is already 30 % please help"
+}
+
+Chunk:
+due date for card is on xxxx of every month. in xxxx i paid on the xxxx and it posted on the xxxx and they gave me a late fee. today i paid on the xxxx and it posted for the xxxx. i requested a removal of the late fee in xxxx and they refused, this account is closed. i have another account with them because they refused to put the 2 accounts together. so when i call it wont let me pay on the old account so it always appears late. i only owe xxxx on this account that is closed and it is all late fees. this is gouging their low income customers when their interest rate is already 30 % please help
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998765230178833
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9090559,
+  "complaint_id": "9090559",
+  "product": "Credit card",
+  "complaint_what_happened": "I changed my due date on XX/XX/24 from the XXXX of the month to the XXXX of the month. I knew that it would not go into affect until XXXX so I paid my XX/XX/XXXX payment early on XX/XX/XXXX to avoid late fees. The due date was changed but it shows due on XX/XX/XXXX which I already satisfied my payment for XXXX and interest was taken, so the next billing cycle should have been XX/XX/XXXX th and not XXXX. I was told there was nothing they could do and I would have to make the XX/XX/XXXX payment which I plan to do. I think Chase owe me refund because they are charging me 2 payments in XXXX. One made on XX/XX/24 which satisfied my XX/XX/XXXX payment and the payment due XX/XX/24 which was paid today. The XX/XX/XXXX due date should not be due. The payment should not be due until XX/XX/24.",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "64138",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "I changed my due date on XX/XX/24 from the XXXX of the month to the XXXX of the month. I knew that it would not go into affect until XXXX so I paid my XX/XX/XXXX payment early on XX/XX/XXXX to avoid late fees. The due date was changed but it shows due on XX/XX/XXXX which I already satisfied my payment for XXXX and interest was taken, so the next billing cycle should have been XX/XX/XXXX th and not XXXX. I was told there was nothing they could do and I would have to make the XX/XX/XXXX payment which I plan to do. I think Chase owe me refund because they are charging me 2 payments in XXXX. One made on XX/XX/24 which satisfied my XX/XX/XXXX payment and the payment due XX/XX/24 which was paid today. The XX/XX/XXXX due date should not be due. The payment should not be due until XX/XX/24."
+}
+
+Chunk:
+i changed my due date on xx / xx / 24 from the xxxx of the month to the xxxx of the month. i knew that it would not go into affect until xxxx so i paid my xx / xx / xxxx payment early on xx / xx / xxxx to avoid late fees. the due date was changed but it shows due on xx / xx / xxxx which i already satisfied my payment for xxxx and interest was taken, so the next billing cycle should have been xx / xx / xxxx th and not xxxx. i was told there was nothing they could do and i would have to make the xx / xx / xxxx payment which i plan to do. i think chase owe me refund because they are charging me 2 payments in xxxx. one made on xx / xx / 24 which satisfied my xx / xx / xxxx payment and the payment due xx / xx / 24 which was paid today. the xx / xx / xxxx due date should not be due. the payment should not be due until xx / xx / 24.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985117316246033
+}

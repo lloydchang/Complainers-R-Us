@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9259382,
+  "complaint_id": "9259382",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had a Lowes Synchrony Credit Card almost 1 year. In that year Ive been able to raise my limit up to {$6000.00}. In that year, I have charged it up, paid it off to a XXXX balance and then started charging it again for home projects. During the most recent charging of credit card, I receive a letter that they have lowered my limit to less then {$100.00} more then what my current balance is ( New Limit of {$3700.00} ) reasoning being is recurring balance and balance steadily increases etc etc. These kind of changes affects my overall credit rating showing I have a maxed out card when in reality I did not, the company just lowered the limit to make the credit card now maxed out. The is an unfair and unjust action which has and will cause further complications relating my overall credit rating. I do not know how this could be a legal action taken by the credit company since I have fulfilled my obligations and never been late or had my account derogatory in any way.",
+  "date_sent_to_company": "2024-06-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "73507",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have had a Lowes Synchrony Credit Card almost 1 year. In that year Ive been able to raise my limit up to {$6000.00}. In that year, I have charged it up, paid it off to a XXXX balance and then started charging it again for home projects. During the most recent charging of credit card, I receive a letter that they have lowered my limit to less then {$100.00} more then what my current balance is ( New Limit of {$3700.00} ) reasoning being is recurring balance and balance steadily increases etc etc. These kind of changes affects my overall credit rating showing I have a maxed out card when in reality I did not, the company just lowered the limit to make the credit card now maxed out. The is an unfair and unjust action which has and will cause further complications relating my overall credit rating. I do not know how this could be a legal action taken by the credit company since I have fulfilled my obligations and never been late or had my account derogatory in any way."
+}
+
+Chunk:
+i have had a lowes synchrony credit card almost 1 year. in that year ive been able to raise my limit up to { $ 6000. 00 }. in that year, i have charged it up, paid it off to a xxxx balance and then started charging it again for home projects. during the most recent charging of credit card, i receive a letter that they have lowered my limit to less then { $ 100. 00 } more then what my current balance is ( new limit of { $ 3700. 00 } ) reasoning being is recurring balance and balance steadily increases etc etc. these kind of changes affects my overall credit rating showing i have a maxed out card when in reality i did not, the company just lowered the limit to make the credit card now maxed out. the is an unfair and unjust action which has and will cause further complications relating my overall credit rating. i do not know how this could be a legal action taken by the credit company since i have fulfilled my obligations and never been late or had my account derogatory in any way.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980002045631409
+}

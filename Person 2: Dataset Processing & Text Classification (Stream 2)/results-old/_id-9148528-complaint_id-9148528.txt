@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9148528,
+  "complaint_id": "9148528",
+  "product": "Credit card",
+  "complaint_what_happened": "I am requesting for Navy Federal to send me statements.However, they have not sent me any statements in the mail. At this point I requesting that Navy Federal cease and desist communication due to the fact. That I've never received a statement through the mail.I also feel that I am being discriminated which is causing me harm. \nLack of sleep and Financial hardship. I feel like this is part of an extortion is illegal.It is a federal offense.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77493",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Billing dispute for services",
+  "text": "I am requesting for Navy Federal to send me statements.However, they have not sent me any statements in the mail. At this point I requesting that Navy Federal cease and desist communication due to the fact. That I've never received a statement through the mail.I also feel that I am being discriminated which is causing me harm. \nLack of sleep and Financial hardship. I feel like this is part of an extortion is illegal.It is a federal offense."
+}
+
+Chunk:
+i am requesting for navy federal to send me statements. however, they have not sent me any statements in the mail. at this point i requesting that navy federal cease and desist communication due to the fact. that i've never received a statement through the mail. i also feel that i am being discriminated which is causing me harm. lack of sleep and financial hardship. i feel like this is part of an extortion is illegal. it is a federal offense.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993963241577148
+}

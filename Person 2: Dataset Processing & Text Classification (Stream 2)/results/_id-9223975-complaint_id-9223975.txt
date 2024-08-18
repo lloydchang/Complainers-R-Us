@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9223975,
+  "complaint_id": "9223975",
+  "product": "Credit card",
+  "complaint_what_happened": "I am a XXXX XXXX XXXX running an XXXX XXXX XXXX and use a Chase XXXX XXXX credit card. On XX/XX/2024, I placed an order with XXXX ( XXXX # XXXX ) for a total amount of {$1800.00}. At the end of XXXX, Chase mistakenly flagged the transaction as fraudulent without consulting me and requested a refund from XXXX. XXXX returned the money on XX/XX/XXXX, and since then, I have been calling Chase to resolve the issue and contact XXXX. Chase claims they sent the money back to XXXX on XX/XX/XXXX, but XXXX has not received it. XXXX also requested proof that the amount was deducted from my account and that the bank sent the payment. On XX/XX/XXXX, I uploaded all the necessary photos as proof. XXXX insists that Chase needs to contact them, but Chase refuses to do so. Since XXXX, I have been trying to resolve this issue, spending XXXX hours each week talking to both XXXX and Chase without any resolution. Chase also charged {$1800.00} to my credit card in XXXX, and it still shows as an outstanding balance with XXXX because they have not received the money. This situation is negatively affecting my business and my credibility with my vendor.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "140XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am a XXXX XXXX XXXX running an XXXX XXXX XXXX and use a Chase XXXX XXXX credit card. On XX/XX/2024, I placed an order with XXXX ( XXXX # XXXX ) for a total amount of {$1800.00}. At the end of XXXX, Chase mistakenly flagged the transaction as fraudulent without consulting me and requested a refund from XXXX. XXXX returned the money on XX/XX/XXXX, and since then, I have been calling Chase to resolve the issue and contact XXXX. Chase claims they sent the money back to XXXX on XX/XX/XXXX, but XXXX has not received it. XXXX also requested proof that the amount was deducted from my account and that the bank sent the payment. On XX/XX/XXXX, I uploaded all the necessary photos as proof. XXXX insists that Chase needs to contact them, but Chase refuses to do so. Since XXXX, I have been trying to resolve this issue, spending XXXX hours each week talking to both XXXX and Chase without any resolution. Chase also charged {$1800.00} to my credit card in XXXX, and it still shows as an outstanding balance with XXXX because they have not received the money. This situation is negatively affecting my business and my credibility with my vendor."
+}
+
+Chunk:
+i am a xxxx xxxx xxxx running an xxxx xxxx xxxx and use a chase xxxx xxxx credit card. on xx / xx / 2024, i placed an order with xxxx ( xxxx # xxxx ) for a total amount of { $ 1800. 00 }. at the end of xxxx, chase mistakenly flagged the transaction as fraudulent without consulting me and requested a refund from xxxx. xxxx returned the money on xx / xx / xxxx, and since then, i have been calling chase to resolve the issue and contact xxxx. chase claims they sent the money back to xxxx on xx / xx / xxxx, but xxxx has not received it. xxxx also requested proof that the amount was deducted from my account and that the bank sent the payment. on xx / xx / xxxx, i uploaded all the necessary photos as proof. xxxx insists that chase needs to contact them, but chase refuses to do so. since xxxx, i have been trying to resolve this issue, spending xxxx hours each week talking to both xxxx and chase without any resolution. chase also charged { $ 1800. 00 } to my credit card in xxxx, and it still shows as an outstanding balance with xxxx because they have not received the money. this situation is negatively affecting my business and my credibility with my vendor.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992601275444031
+}

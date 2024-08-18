@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9192128,
+  "complaint_id": "9192128",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I noticed several features were not working correctly on my Discover Card app. I called to check on the status of my account. I was informed that my account was closed because I did not reply to an email that they claim was sent in XX/XX/2024. I did not receive this email, nor did I receive a letter in the mail or a phone call. They claimed that since I did not reply to their email, that my account was closed on XX/XX/2024. I did not receive any notification whatsoever that my account was at risk of being closed. During this time, I was working with my mortgage company to get a home equity loan. Part of the proceeds of this loan was used to pay off my Discover card balance. I even called Discover card and communicated with them what I was doing and why. There was a delay in closing the home equity loan and it caused a payment to be late. I called discover and they even refunded the late fee. At no time did they indicate anything that made me thing that my account was at any risk whatsoever. Shortly after they refunded my late fee, the account was paid off and is at XXXX balance as of now. Not knowing that I do not have this credit has greatly impacted me and my family as well as the damages that it will cause when my credit score drops due to their fraudulent and deception. I have the legal right for, at very least a letter of intended adverse action. I did not receive any notification whatsoever, not even on my app, which is how I always monitor this account. Ive been a good customer in good standing for 8 years.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "378XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/2024, I noticed several features were not working correctly on my Discover Card app. I called to check on the status of my account. I was informed that my account was closed because I did not reply to an email that they claim was sent in XX/XX/2024. I did not receive this email, nor did I receive a letter in the mail or a phone call. They claimed that since I did not reply to their email, that my account was closed on XX/XX/2024. I did not receive any notification whatsoever that my account was at risk of being closed. During this time, I was working with my mortgage company to get a home equity loan. Part of the proceeds of this loan was used to pay off my Discover card balance. I even called Discover card and communicated with them what I was doing and why. There was a delay in closing the home equity loan and it caused a payment to be late. I called discover and they even refunded the late fee. At no time did they indicate anything that made me thing that my account was at any risk whatsoever. Shortly after they refunded my late fee, the account was paid off and is at XXXX balance as of now. Not knowing that I do not have this credit has greatly impacted me and my family as well as the damages that it will cause when my credit score drops due to their fraudulent and deception. I have the legal right for, at very least a letter of intended adverse action. I did not receive any notification whatsoever, not even on my app, which is how I always monitor this account. Ive been a good customer in good standing for 8 years."
+}
+
+Chunk:
+on xx / xx / 2024, i noticed several features were not working correctly on my discover card app. i called to check on the status of my account. i was informed that my account was closed because i did not reply to an email that they claim was sent in xx / xx / 2024. i did not receive this email, nor did i receive a letter in the mail or a phone call. they claimed that since i did not reply to their email, that my account was closed on xx / xx / 2024. i did not receive any notification whatsoever that my account was at risk of being closed. during this time, i was working with my mortgage company to get a home equity loan. part of the proceeds of this loan was used to pay off my discover card balance. i even called discover card and communicated with them what i was doing and why. there was a delay in closing the home equity loan and it caused a payment to be late. i called discover and they even refunded the late fee. at no time did they indicate anything that made me thing that my account was at any risk whatsoever. shortly after they refunded my late fee, the account was paid off and is at xxxx balance as of now. not knowing that i do not have this credit has greatly impacted me and my family as well as the damages that it will cause when my credit score drops due to their fraudulent and deception. i have the legal right for, at very least a letter of intended adverse action. i did not receive any notification whatsoever, not even on my app, which is how i always monitor this account. ive been a good customer in good standing for 8 years.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994955062866211
+}

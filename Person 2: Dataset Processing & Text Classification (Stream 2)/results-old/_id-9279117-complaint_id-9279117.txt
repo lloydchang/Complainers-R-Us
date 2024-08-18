@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9279117,
+  "complaint_id": "9279117",
+  "product": "Credit card",
+  "complaint_what_happened": "on XX/XX/XXXX I received a XXXX from BMO Bank NA, XXXX XXXX XXXX XXXX XXXX SD, XXXX. I contacted the BMO Bank Fraud department and let them know that I have no relationship with BMO Bank and I did not open the account which is in my name and XXXX XXXX XXXX XXXX, XXXX XXXX XXXX XXXX. The said the account was closed and BMO would do a internal investigation. BMO said that its appears to be identity thief and I also contacted the US Identify Thief, gov web site and used their tool kit to request my credit reports from the 3 major credit companies. I also file a police report with the local police sheriffs department. I requested from BMO what was the details on the account and they refused to provide that information. On XX/XX/XXXX I received a letter from BMO Bank fraud department that their internal investigation was complete and they found the account to opened properly. Again I have no relationship with this bank now or ever in the past. The requested additional information from me which would provide additional personnel details on my identity, I refuse to send anything to them as I believe they are part of the scam and should be shut down. My concern is someone is trying to use the card in and I'm getting notices that their insufficient funds so the requests have been denied, but I'm responsible for the bank services charges on an account I never opened. These letters have been coming in from XX/XX/XXXX up to the present day. I have contacted the Florida State Attorney General Office who recommended to contact you. I want verification that BMO has closed this illegal account associated with my name and company 's names closed and I'm not responsible for any charges.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33556",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BMO Bank, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "on XX/XX/XXXX I received a XXXX from BMO Bank NA, XXXX XXXX XXXX XXXX XXXX SD, XXXX. I contacted the BMO Bank Fraud department and let them know that I have no relationship with BMO Bank and I did not open the account which is in my name and XXXX XXXX XXXX XXXX, XXXX XXXX XXXX XXXX. The said the account was closed and BMO would do a internal investigation. BMO said that its appears to be identity thief and I also contacted the US Identify Thief, gov web site and used their tool kit to request my credit reports from the 3 major credit companies. I also file a police report with the local police sheriffs department. I requested from BMO what was the details on the account and they refused to provide that information. On XX/XX/XXXX I received a letter from BMO Bank fraud department that their internal investigation was complete and they found the account to opened properly. Again I have no relationship with this bank now or ever in the past. The requested additional information from me which would provide additional personnel details on my identity, I refuse to send anything to them as I believe they are part of the scam and should be shut down. My concern is someone is trying to use the card in and I'm getting notices that their insufficient funds so the requests have been denied, but I'm responsible for the bank services charges on an account I never opened. These letters have been coming in from XX/XX/XXXX up to the present day. I have contacted the Florida State Attorney General Office who recommended to contact you. I want verification that BMO has closed this illegal account associated with my name and company 's names closed and I'm not responsible for any charges."
+}
+
+Chunk:
+on xx / xx / xxxx i received a xxxx from bmo bank na, xxxx xxxx xxxx xxxx xxxx sd, xxxx. i contacted the bmo bank fraud department and let them know that i have no relationship with bmo bank and i did not open the account which is in my name and xxxx xxxx xxxx xxxx, xxxx xxxx xxxx xxxx. the said the account was closed and bmo would do a internal investigation. bmo said that its appears to be identity thief and i also contacted the us identify thief, gov web site and used their tool kit to request my credit reports from the 3 major credit companies. i also file a police report with the local police sheriffs department. i requested from bmo what was the details on the account and they refused to provide that information. on xx / xx / xxxx i received a letter from bmo bank fraud department that their internal investigation was complete and they found the account to opened properly. again i have no relationship with this bank now or ever in the past. the requested additional information from me which would provide additional personnel details on my identity, i refuse to send anything to them as i believe they are part of the scam and should be shut down. my concern is someone is trying to use the card in and i'm getting notices that their insufficient funds so the requests have been denied, but i'm responsible for the bank services charges on an account i never opened. these letters have been coming in from xx / xx / xxxx up to the present day. i have contacted the florida state attorney general office who recommended to contact you. i want verification that bmo has closed this illegal account associated with my name and company's names closed and i'm not responsible for any charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990071654319763
+}

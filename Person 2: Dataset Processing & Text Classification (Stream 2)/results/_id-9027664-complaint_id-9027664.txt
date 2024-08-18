@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027664,
+  "complaint_id": "9027664",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a {$200.00} payment with my XXXX XXXX on XX/XX/2024. The Available credit was not reflected immediately as I was instructed it would be in the past. I called Capital One and they told me that Capital One is in the process of removing XXXX XXXX payments as an option for making payments. I find that to be very suspicious, because I received no communication that this would be happening. The XXXX on the phone advised me that the Available Credit doesn't update right away because their system doesn't allow it to update right away, which is not normal given the pattern of payments I've made. I make substantially large payments that would cover at least XXXXXXXX XXXX  of the XXXX XXXX every few days or so because my intent was to use this card as an everyday card for purchases. Capital One is treating it very differently. I also questioned the security of my information given that it is being accessed outside of my country. The XXXX expressed that they can not bring bags, cell phones, paper, pens, etc into their offices ( which I find hard to believe ). So I began to question how I know my information is secure, especially when being accessed from a mainframe in a different country from the headquartered location where no law enforcement can hold criminals accountable for stealing information belonging to people not residing within that country.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I made a {$200.00} payment with my XXXX XXXX on XX/XX/2024. The Available credit was not reflected immediately as I was instructed it would be in the past. I called Capital One and they told me that Capital One is in the process of removing XXXX XXXX payments as an option for making payments. I find that to be very suspicious, because I received no communication that this would be happening. The XXXX on the phone advised me that the Available Credit doesn't update right away because their system doesn't allow it to update right away, which is not normal given the pattern of payments I've made. I make substantially large payments that would cover at least XXXXXXXX XXXX  of the XXXX XXXX every few days or so because my intent was to use this card as an everyday card for purchases. Capital One is treating it very differently. I also questioned the security of my information given that it is being accessed outside of my country. The XXXX expressed that they can not bring bags, cell phones, paper, pens, etc into their offices ( which I find hard to believe ). So I began to question how I know my information is secure, especially when being accessed from a mainframe in a different country from the headquartered location where no law enforcement can hold criminals accountable for stealing information belonging to people not residing within that country."
+}
+
+Chunk:
+i made a { $ 200. 00 } payment with my xxxx xxxx on xx / xx / 2024. the available credit was not reflected immediately as i was instructed it would be in the past. i called capital one and they told me that capital one is in the process of removing xxxx xxxx payments as an option for making payments. i find that to be very suspicious, because i received no communication that this would be happening. the xxxx on the phone advised me that the available credit doesn't update right away because their system doesn't allow it to update right away, which is not normal given the pattern of payments i've made. i make substantially large payments that would cover at least xxxxxxxx xxxx of the xxxx xxxx every few days or so because my intent was to use this card as an everyday card for purchases. capital one is treating it very differently. i also questioned the security of my information given that it is being accessed outside of my country. the xxxx expressed that they can not bring bags, cell phones, paper, pens, etc into their offices ( which i find hard to believe ). so i began to question how i know my information is secure, especially when being accessed from a mainframe in a different country from the headquartered location where no law enforcement can hold criminals accountable for stealing information belonging to people not residing within that country.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987207055091858
+}

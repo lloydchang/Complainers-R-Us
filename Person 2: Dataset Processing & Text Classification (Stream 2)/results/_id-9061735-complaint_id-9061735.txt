@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9061735,
+  "complaint_id": "9061735",
+  "product": "Credit card",
+  "complaint_what_happened": "Paypal says that I owe them {$15.00}. I have no knowledge of this debt I called on the phone and did not get any response.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20018",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "Paypal says that I owe them {$15.00}. I have no knowledge of this debt I called on the phone and did not get any response."
+}
+
+Chunk:
+paypal says that i owe them { $ 15. 00 }. i have no knowledge of this debt i called on the phone and did not get any response.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996575117111206
+}

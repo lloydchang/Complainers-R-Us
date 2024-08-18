@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9127146,
+  "complaint_id": "9127146",
+  "product": "Credit card",
+  "complaint_what_happened": "Dell account compromised on XX/XX/XXXX, fraudulent laptop order # XXXX to be sent to XXXX XXXX at a fake address at XXXX XXXX XXXX, XXXX XXXX, XXXX. Requested to close Dell account with Dell associate from XXXX confirmed over the phone he has closed the account to prevent future fraud attempts. Also contacted XXXX XXXX Police Department on XX/XX/XXXX making a police fraud report with Dell laptop. Notice from dell for billing for the amount {$2100.00} on Dell account # XXXX, creditor Comenity Capital Bank. XXXX XXXX XXXX, XXXX, OH XXXX. No auth signature for receiving the laptop from Dell. Dell claims another package was dropped off at my house at XXXX XXXX XXXX XXXX XXXX XXXX, Ca, XXXX where criminal suspects waited received the laptop they ordered by accessing my account where they used a different cell # on file on my online dell account.Poor quality Dell customer service lead me to purchased a XXXX XXXX XXXX model laptop from XXXX, at XXXX XXXX XXXX, XXXX, Ca XXXX on XX/XX/XXXX, XXXX bought in XX/XX/XXXX order # XXXX XXXX XXXX : XXXX. I disputed the case requesting for a refund or replacement with secure pickup at carrier with photo ID Auth & sign, Dell & Comenity Capital Bank denied my attempt for a settlement.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "95407",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Dell account compromised on XX/XX/XXXX, fraudulent laptop order # XXXX to be sent to XXXX XXXX at a fake address at XXXX XXXX XXXX, XXXX XXXX, XXXX. Requested to close Dell account with Dell associate from XXXX confirmed over the phone he has closed the account to prevent future fraud attempts. Also contacted XXXX XXXX Police Department on XX/XX/XXXX making a police fraud report with Dell laptop. Notice from dell for billing for the amount {$2100.00} on Dell account # XXXX, creditor Comenity Capital Bank. XXXX XXXX XXXX, XXXX, OH XXXX. No auth signature for receiving the laptop from Dell. Dell claims another package was dropped off at my house at XXXX XXXX XXXX XXXX XXXX XXXX, Ca, XXXX where criminal suspects waited received the laptop they ordered by accessing my account where they used a different cell # on file on my online dell account.Poor quality Dell customer service lead me to purchased a XXXX XXXX XXXX model laptop from XXXX, at XXXX XXXX XXXX, XXXX, Ca XXXX on XX/XX/XXXX, XXXX bought in XX/XX/XXXX order # XXXX XXXX XXXX : XXXX. I disputed the case requesting for a refund or replacement with secure pickup at carrier with photo ID Auth & sign, Dell & Comenity Capital Bank denied my attempt for a settlement."
+}
+
+Chunk:
+dell account compromised on xx / xx / xxxx, fraudulent laptop order # xxxx to be sent to xxxx xxxx at a fake address at xxxx xxxx xxxx, xxxx xxxx, xxxx. requested to close dell account with dell associate from xxxx confirmed over the phone he has closed the account to prevent future fraud attempts. also contacted xxxx xxxx police department on xx / xx / xxxx making a police fraud report with dell laptop. notice from dell for billing for the amount { $ 2100. 00 } on dell account # xxxx, creditor comenity capital bank. xxxx xxxx xxxx, xxxx, oh xxxx. no auth signature for receiving the laptop from dell. dell claims another package was dropped off at my house at xxxx xxxx xxxx xxxx xxxx xxxx, ca, xxxx where criminal suspects waited received the laptop they ordered by accessing my account where they used a different cell # on file on my online dell account. poor quality dell customer service lead me to purchased a xxxx xxxx xxxx model laptop from xxxx, at xxxx xxxx xxxx, xxxx, ca xxxx on xx / xx / xxxx, xxxx bought in xx / xx / xxxx order # xxxx xxxx xxxx : xxxx. i disputed the case requesting for a refund or replacement with secure pickup at carrier with photo id auth & sign, dell & comenity capital bank denied my attempt for a settlement.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995502829551697
+}

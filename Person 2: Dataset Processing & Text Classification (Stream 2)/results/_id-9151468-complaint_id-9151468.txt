@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151468,
+  "complaint_id": "9151468",
+  "product": "Credit card",
+  "complaint_what_happened": "I recieved an Email from Paypal, XXXX  morning XX/XX/2024. It was a receipt for a purchase on my XXXX card { XXXX XXXX } that i had linked to my Paypal account for online purchases. I was surprised to see a charge for {$1200.00} from XXXX XXXX XXXX. I called Paypal XXXX morning XX/XX/2024, and reported the unauthorized charge. Today XX/XX/2024 paypal sent email to me, saying : Thank you for reporting this case. After our review, we found that certain transactions weren't unauthorized and hence couldn't be covered by PayPal XXXX XXXX. But paypal did provide me with a XXXX tracking number they recieved from XXXX XXXX XXXX, who handles orders for XXXX XXXX. XXXX 's tracking infomation states package was delivered to XXXX, XXXX  XXXX, and was signed for by XXXX XXXX. { who apparently stole my paypal credentials some how } and made an online purchase at XXXX XXXX online. I have documentation for Paypal tranaction receipt and XXXX proof-of-delivery for tracking number. \nMy Paypal account Profile associated with this order will verify my name and address, i did not receive this order and did not sign for it.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23112",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I recieved an Email from Paypal, XXXX  morning XX/XX/2024. It was a receipt for a purchase on my XXXX card { XXXX XXXX } that i had linked to my Paypal account for online purchases. I was surprised to see a charge for {$1200.00} from XXXX XXXX XXXX. I called Paypal XXXX morning XX/XX/2024, and reported the unauthorized charge. Today XX/XX/2024 paypal sent email to me, saying : Thank you for reporting this case. After our review, we found that certain transactions weren't unauthorized and hence couldn't be covered by PayPal XXXX XXXX. But paypal did provide me with a XXXX tracking number they recieved from XXXX XXXX XXXX, who handles orders for XXXX XXXX. XXXX 's tracking infomation states package was delivered to XXXX, XXXX  XXXX, and was signed for by XXXX XXXX. { who apparently stole my paypal credentials some how } and made an online purchase at XXXX XXXX online. I have documentation for Paypal tranaction receipt and XXXX proof-of-delivery for tracking number. \nMy Paypal account Profile associated with this order will verify my name and address, i did not receive this order and did not sign for it."
+}
+
+Chunk:
+i recieved an email from paypal, xxxx morning xx / xx / 2024. it was a receipt for a purchase on my xxxx card { xxxx xxxx } that i had linked to my paypal account for online purchases. i was surprised to see a charge for { $ 1200. 00 } from xxxx xxxx xxxx. i called paypal xxxx morning xx / xx / 2024, and reported the unauthorized charge. today xx / xx / 2024 paypal sent email to me, saying : thank you for reporting this case. after our review, we found that certain transactions weren't unauthorized and hence couldn't be covered by paypal xxxx xxxx. but paypal did provide me with a xxxx tracking number they recieved from xxxx xxxx xxxx, who handles orders for xxxx xxxx. xxxx's tracking infomation states package was delivered to xxxx, xxxx xxxx, and was signed for by xxxx xxxx. { who apparently stole my paypal credentials some how } and made an online purchase at xxxx xxxx online. i have documentation for paypal tranaction receipt and xxxx proof - of - delivery for tracking number. my paypal account profile associated with this order will verify my name and address, i did not receive this order and did not sign for it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.995840311050415
+}

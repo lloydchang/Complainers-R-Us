@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9080602,
+  "complaint_id": "9080602",
+  "product": "Credit card",
+  "complaint_what_happened": "Please excuse any typos as this is voice texting. Synchrony reduced my credit line for XXXX XXXX, and didnt give me a letter or anything. I just noticed it on the website as I went to pay a bill and just found out recently when I went to pay a bill again that my Lowes credit card was canceled and it was paid on time I owed nothing but XXXX XXXX  on my account, the reasoning was my credit worthiness and Ive had this card for a few months already proven that Im paying my bill on time. Do I have debt? I have debt like any other American I pay mortgage. I pay credit card debt. I pay condo fee. I pay hospital bills and struggle to pay bills by God am I doing it? Yes, I am doing it. I called them and they said oh yeah we just closed it today. You should be getting a letter in the mail. There has got to be something illegal about these practices. Why approve me for the credit card and then just close it after seeing that I paid it on time on youre judging me on my credit worthiness, But the bill is getting paid. Someone needs to make it make sense to me. Synchrony business practices are unethical and if you look at their XXXX page, Im not the only one that theyve done this to.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "20020",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "DC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Please excuse any typos as this is voice texting. Synchrony reduced my credit line for XXXX XXXX, and didnt give me a letter or anything. I just noticed it on the website as I went to pay a bill and just found out recently when I went to pay a bill again that my Lowes credit card was canceled and it was paid on time I owed nothing but XXXX XXXX  on my account, the reasoning was my credit worthiness and Ive had this card for a few months already proven that Im paying my bill on time. Do I have debt? I have debt like any other American I pay mortgage. I pay credit card debt. I pay condo fee. I pay hospital bills and struggle to pay bills by God am I doing it? Yes, I am doing it. I called them and they said oh yeah we just closed it today. You should be getting a letter in the mail. There has got to be something illegal about these practices. Why approve me for the credit card and then just close it after seeing that I paid it on time on youre judging me on my credit worthiness, But the bill is getting paid. Someone needs to make it make sense to me. Synchrony business practices are unethical and if you look at their XXXX page, Im not the only one that theyve done this to."
+}
+
+Chunk:
+please excuse any typos as this is voice texting. synchrony reduced my credit line for xxxx xxxx, and didnt give me a letter or anything. i just noticed it on the website as i went to pay a bill and just found out recently when i went to pay a bill again that my lowes credit card was canceled and it was paid on time i owed nothing but xxxx xxxx on my account, the reasoning was my credit worthiness and ive had this card for a few months already proven that im paying my bill on time. do i have debt? i have debt like any other american i pay mortgage. i pay credit card debt. i pay condo fee. i pay hospital bills and struggle to pay bills by god am i doing it? yes, i am doing it. i called them and they said oh yeah we just closed it today. you should be getting a letter in the mail. there has got to be something illegal about these practices. why approve me for the credit card and then just close it after seeing that i paid it on time on youre judging me on my credit worthiness, but the bill is getting paid. someone needs to make it make sense to me. synchrony business practices are unethical and if you look at their xxxx page, im not the only one that theyve done this to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994778037071228
+}

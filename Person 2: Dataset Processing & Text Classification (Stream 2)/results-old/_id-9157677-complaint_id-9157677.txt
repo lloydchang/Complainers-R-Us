@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9157677,
+  "complaint_id": "9157677",
+  "product": "Credit card",
+  "complaint_what_happened": "I had a JCPenney store account charge card that had expired, and in order to receive the purchase discount, the cashier said I needed to re-apply for the account. Nothing was ever disclosed about it being XXXX with 34.99 % instead of just a store revolving account",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76182",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "I had a JCPenney store account charge card that had expired, and in order to receive the purchase discount, the cashier said I needed to re-apply for the account. Nothing was ever disclosed about it being XXXX with 34.99 % instead of just a store revolving account"
+}
+
+Chunk:
+i had a jcpenney store account charge card that had expired, and in order to receive the purchase discount, the cashier said i needed to re - apply for the account. nothing was ever disclosed about it being xxxx with 34. 99 % instead of just a store revolving account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994457364082336
+}

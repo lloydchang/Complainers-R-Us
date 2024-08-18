@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9070004,
+  "complaint_id": "9070004",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased several appliances from XXXX XXXX financed through 'Citizens pay ' by Citizens Bank . This was on approximately XX/XX/XXXX. I also purchased {$800.00} worth of warranties for the appliances. I did receive the appliances, but around XX/XX/XXXX, I was informed that XXXX XXXX ( the business selling the products ) went out of business and never paid for the warranties to the third party supplier. Citizens bank was informed by me and others about the situation, but after 3 months still has not removed the amount I paid for the warranties. I have provided them with invoices and information about the situation and they keep telling me there is no update. These charges were financed through Citizens Bank and will begin to incur interest in XXXX of XXXX. I am still making monthly payments, which is a percentage of the total amount, which does include the warranties. \n\nI need to have these warranty charges removed because I never received the products.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80013",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIZENS FINANCIAL GROUP, INC.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased several appliances from XXXX XXXX financed through 'Citizens pay ' by Citizens Bank . This was on approximately XX/XX/XXXX. I also purchased {$800.00} worth of warranties for the appliances. I did receive the appliances, but around XX/XX/XXXX, I was informed that XXXX XXXX ( the business selling the products ) went out of business and never paid for the warranties to the third party supplier. Citizens bank was informed by me and others about the situation, but after 3 months still has not removed the amount I paid for the warranties. I have provided them with invoices and information about the situation and they keep telling me there is no update. These charges were financed through Citizens Bank and will begin to incur interest in XXXX of XXXX. I am still making monthly payments, which is a percentage of the total amount, which does include the warranties. \n\nI need to have these warranty charges removed because I never received the products."
+}
+
+Chunk:
+i purchased several appliances from xxxx xxxx financed through'citizens pay'by citizens bank. this was on approximately xx / xx / xxxx. i also purchased { $ 800. 00 } worth of warranties for the appliances. i did receive the appliances, but around xx / xx / xxxx, i was informed that xxxx xxxx ( the business selling the products ) went out of business and never paid for the warranties to the third party supplier. citizens bank was informed by me and others about the situation, but after 3 months still has not removed the amount i paid for the warranties. i have provided them with invoices and information about the situation and they keep telling me there is no update. these charges were financed through citizens bank and will begin to incur interest in xxxx of xxxx. i am still making monthly payments, which is a percentage of the total amount, which does include the warranties. i need to have these warranty charges removed because i never received the products.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993274211883545
+}

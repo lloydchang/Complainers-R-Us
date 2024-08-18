@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023910,
+  "complaint_id": "9023910",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a hotel room from XXXX for one night at XXXX XXXX at XXXX XXXX. I paid XXXX in full {$87.00} ( Receipt Attached ) for the room. When I arrived at the hotel they added {$17.00} to my bill. They claimed it was a resort fee. I pointed out to them that I had a paid in full receipt and the fact that their swimming pool and hot tub were both under maintenance and were unusable. The clerk stated he would remove it from my bill since the {$17.00} is a junk fee. He did not remove the fee and my credit card company Navy Federal Credit Union refuses to confront the hotel over the fraudulent charge.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78254",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased a hotel room from XXXX for one night at XXXX XXXX at XXXX XXXX. I paid XXXX in full {$87.00} ( Receipt Attached ) for the room. When I arrived at the hotel they added {$17.00} to my bill. They claimed it was a resort fee. I pointed out to them that I had a paid in full receipt and the fact that their swimming pool and hot tub were both under maintenance and were unusable. The clerk stated he would remove it from my bill since the {$17.00} is a junk fee. He did not remove the fee and my credit card company Navy Federal Credit Union refuses to confront the hotel over the fraudulent charge."
+}
+
+Chunk:
+i purchased a hotel room from xxxx for one night at xxxx xxxx at xxxx xxxx. i paid xxxx in full { $ 87. 00 } ( receipt attached ) for the room. when i arrived at the hotel they added { $ 17. 00 } to my bill. they claimed it was a resort fee. i pointed out to them that i had a paid in full receipt and the fact that their swimming pool and hot tub were both under maintenance and were unusable. the clerk stated he would remove it from my bill since the { $ 17. 00 } is a junk fee. he did not remove the fee and my credit card company navy federal credit union refuses to confront the hotel over the fraudulent charge.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987564086914062
+}

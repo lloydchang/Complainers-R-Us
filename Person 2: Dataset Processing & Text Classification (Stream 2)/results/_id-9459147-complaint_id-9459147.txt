@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9459147,
+  "complaint_id": "9459147",
+  "product": "Credit card",
+  "complaint_what_happened": "I had my identity stolen by a family member and he opened 3 credit cards in my name while adding himself as an authorized user. I did not approve this, nor would I allow anyone to use my credit as it was near the best possible score. It took 2 months to find out that he opened Citi Bank Best Buy Card, ( {$4000.00} limit ) XXXX XXXX XXXX, ( {$2900.00} limit ) And XXXX XXXX ( {$10000.00} limit ) I have letters from XXXX showing that it was fraud, along with XXXX XXXX. I filed the proper paperwork with FTC 3times, a fraud report with the New York State Police and followed every direction I was given. I pressed charges, the credit card companies promised to do the same, YET Best Buy refuses to acknowledge that I am the victim of identity theft and fraud. I was never notified that my case was denied even though the department supervisor I was working with hours on end assured me that I would receive a letter from Best Buy being released from the fraud. And now I am receiving calls and have a delinquent account on my credit report that has NEVER been late since I opened my first bank account, or credit card. I have been dealing with this since XXXXXXXX XXXX XXXX  and the person who stole my identity and committed the fraud has not been charged but has openly flaunted the crime to others and myself. This is an unacceptable practice by Best Buy, I have done EVERY SINGLE THING that the FTC has informed me to and still I am being punished for a crime I did not commit. This system is flawed and sadly even as XXXX XXXX XXXX, not one person has ever helped me through this process. I have had to go through this for 6 long months to find out just how little I matter and all the sacrifice I have made has been for absolutely nothing! Disgraceful companies!",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "13440",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I had my identity stolen by a family member and he opened 3 credit cards in my name while adding himself as an authorized user. I did not approve this, nor would I allow anyone to use my credit as it was near the best possible score. It took 2 months to find out that he opened Citi Bank Best Buy Card, ( {$4000.00} limit ) XXXX XXXX XXXX, ( {$2900.00} limit ) And XXXX XXXX ( {$10000.00} limit ) I have letters from XXXX showing that it was fraud, along with XXXX XXXX. I filed the proper paperwork with FTC 3times, a fraud report with the New York State Police and followed every direction I was given. I pressed charges, the credit card companies promised to do the same, YET Best Buy refuses to acknowledge that I am the victim of identity theft and fraud. I was never notified that my case was denied even though the department supervisor I was working with hours on end assured me that I would receive a letter from Best Buy being released from the fraud. And now I am receiving calls and have a delinquent account on my credit report that has NEVER been late since I opened my first bank account, or credit card. I have been dealing with this since XXXXXXXX XXXX XXXX  and the person who stole my identity and committed the fraud has not been charged but has openly flaunted the crime to others and myself. This is an unacceptable practice by Best Buy, I have done EVERY SINGLE THING that the FTC has informed me to and still I am being punished for a crime I did not commit. This system is flawed and sadly even as XXXX XXXX XXXX, not one person has ever helped me through this process. I have had to go through this for 6 long months to find out just how little I matter and all the sacrifice I have made has been for absolutely nothing! Disgraceful companies!"
+}
+
+Chunk:
+i had my identity stolen by a family member and he opened 3 credit cards in my name while adding himself as an authorized user. i did not approve this, nor would i allow anyone to use my credit as it was near the best possible score. it took 2 months to find out that he opened citi bank best buy card, ( { $ 4000. 00 } limit ) xxxx xxxx xxxx, ( { $ 2900. 00 } limit ) and xxxx xxxx ( { $ 10000. 00 } limit ) i have letters from xxxx showing that it was fraud, along with xxxx xxxx. i filed the proper paperwork with ftc 3times, a fraud report with the new york state police and followed every direction i was given. i pressed charges, the credit card companies promised to do the same, yet best buy refuses to acknowledge that i am the victim of identity theft and fraud. i was never notified that my case was denied even though the department supervisor i was working with hours on end assured me that i would receive a letter from best buy being released from the fraud. and now i am receiving calls and have a delinquent account on my credit report that has never been late since i opened my first bank account, or credit card. i have been dealing with this since xxxxxxxx xxxx xxxx and the person who stole my identity and committed the fraud has not been charged but has openly flaunted the crime to others and myself. this is an unacceptable practice by best buy, i have done every single thing that the ftc has informed me to and still i am being punished for a crime i did not commit. this system is flawed and sadly even as xxxx xxxx xxxx, not one person has ever helped me through this process. i have had to go through this for 6 long months to find out just how little i matter and all the sacrifice i have made has been for absolutely nothing! disgraceful companies!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995818734169006
+}

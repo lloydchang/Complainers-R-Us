@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037375,
+  "complaint_id": "9037375",
+  "product": "Credit card",
+  "complaint_what_happened": "Due to the covid-19 global pandemic I was unable to make payments on credit card debit. I went through a government program to help resolve this issue in XXXX. A judgement was filed against me on XX/XX/XXXX stating that I am to pay a Principal of XXXX Now I am receiving notice of execution on XX/XX/XXXX. This Discover Bank account was supposed to be a full discharge of debt. I need answers as soon as possible.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "299XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "SC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "Due to the covid-19 global pandemic I was unable to make payments on credit card debit. I went through a government program to help resolve this issue in XXXX. A judgement was filed against me on XX/XX/XXXX stating that I am to pay a Principal of XXXX Now I am receiving notice of execution on XX/XX/XXXX. This Discover Bank account was supposed to be a full discharge of debt. I need answers as soon as possible."
+}
+
+Chunk:
+due to the covid - 19 global pandemic i was unable to make payments on credit card debit. i went through a government program to help resolve this issue in xxxx. a judgement was filed against me on xx / xx / xxxx stating that i am to pay a principal of xxxx now i am receiving notice of execution on xx / xx / xxxx. this discover bank account was supposed to be a full discharge of debt. i need answers as soon as possible.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992209672927856
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9331365,
+  "complaint_id": "9331365",
+  "product": "Credit card",
+  "complaint_what_happened": "Between XXXX XXXX XXXX, my account received fraudulent charges. By XXXX, Citibank had resolved the issue. \n\nIn XXXX, I received an alert that my account was overdue by 30 days for {$2.00}, and my XXXX XXXX dropped on all XXXX bureaus. Additionally, I received a letter stating that my {$10000.00} credit limit was decreased to {$350.00} due to my account being delinquent. However, my account became delinquent due to an interest charge that Citibank issued me on a fraudulent charge. \n\nAfter over XXXX XXXX minute phone calls, over XXXX transfers to different departments and people, and contacting them every way I can other than by mail, the charges have been removed, but my credit report still shows a late payment and my credit limit is still {$350.00}. \n\nThey have done nothing to own up to the mistake or to even help me reach a resolution. This is my final step before filing a civil lawsuit for the damages that have been caused by Citibank to myself and my credit. Ive",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "85306",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Between XXXX XXXX XXXX, my account received fraudulent charges. By XXXX, Citibank had resolved the issue. \n\nIn XXXX, I received an alert that my account was overdue by 30 days for {$2.00}, and my XXXX XXXX dropped on all XXXX bureaus. Additionally, I received a letter stating that my {$10000.00} credit limit was decreased to {$350.00} due to my account being delinquent. However, my account became delinquent due to an interest charge that Citibank issued me on a fraudulent charge. \n\nAfter over XXXX XXXX minute phone calls, over XXXX transfers to different departments and people, and contacting them every way I can other than by mail, the charges have been removed, but my credit report still shows a late payment and my credit limit is still {$350.00}. \n\nThey have done nothing to own up to the mistake or to even help me reach a resolution. This is my final step before filing a civil lawsuit for the damages that have been caused by Citibank to myself and my credit. Ive"
+}
+
+Chunk:
+between xxxx xxxx xxxx, my account received fraudulent charges. by xxxx, citibank had resolved the issue. in xxxx, i received an alert that my account was overdue by 30 days for { $ 2. 00 }, and my xxxx xxxx dropped on all xxxx bureaus. additionally, i received a letter stating that my { $ 10000. 00 } credit limit was decreased to { $ 350. 00 } due to my account being delinquent. however, my account became delinquent due to an interest charge that citibank issued me on a fraudulent charge. after over xxxx xxxx minute phone calls, over xxxx transfers to different departments and people, and contacting them every way i can other than by mail, the charges have been removed, but my credit report still shows a late payment and my credit limit is still { $ 350. 00 }. they have done nothing to own up to the mistake or to even help me reach a resolution. this is my final step before filing a civil lawsuit for the damages that have been caused by citibank to myself and my credit. ive
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988752007484436
+}

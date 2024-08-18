@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9350912,
+  "complaint_id": "9350912",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi failed to declined a charge on my credit card in which I disputed less than 24 hours from the charge date/time and while it's still in pending status, Citi fail to handle this issue as a result of relaying on automated systems and/or AI rather than a human review of the disputed charge when first reported, and now Citi reporting the charge to credit reporting services as a late and/or unpaid payments, and I keep getting alert from XXXX that there is late unpaid payment reported by Citi.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75013",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Citi failed to declined a charge on my credit card in which I disputed less than 24 hours from the charge date/time and while it's still in pending status, Citi fail to handle this issue as a result of relaying on automated systems and/or AI rather than a human review of the disputed charge when first reported, and now Citi reporting the charge to credit reporting services as a late and/or unpaid payments, and I keep getting alert from XXXX that there is late unpaid payment reported by Citi."
+}
+
+Chunk:
+citi failed to declined a charge on my credit card in which i disputed less than 24 hours from the charge date / time and while it's still in pending status, citi fail to handle this issue as a result of relaying on automated systems and / or ai rather than a human review of the disputed charge when first reported, and now citi reporting the charge to credit reporting services as a late and / or unpaid payments, and i keep getting alert from xxxx that there is late unpaid payment reported by citi.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997525811195374
+}

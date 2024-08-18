@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9177747,
+  "complaint_id": "9177747",
+  "product": "Credit card",
+  "complaint_what_happened": "Received letter from one main financial dated XX/XX/year> stating we have exercised all investigation and resolution options available and unable to assist with the dispute because it was not received within XXXX days of the charge. This is not true. I did contact Customer Service within the XXXX day timeline. Customer Service never opened the dispute. Claim number XXXX",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "OneMain Finance Corporation",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Received letter from one main financial dated XX/XX/year> stating we have exercised all investigation and resolution options available and unable to assist with the dispute because it was not received within XXXX days of the charge. This is not true. I did contact Customer Service within the XXXX day timeline. Customer Service never opened the dispute. Claim number XXXX"
+}
+
+Chunk:
+received letter from one main financial dated xx / xx / year > stating we have exercised all investigation and resolution options available and unable to assist with the dispute because it was not received within xxxx days of the charge. this is not true. i did contact customer service within the xxxx day timeline. customer service never opened the dispute. claim number xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993051290512085
+}

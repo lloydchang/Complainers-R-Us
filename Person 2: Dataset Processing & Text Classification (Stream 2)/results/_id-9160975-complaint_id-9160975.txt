@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9160975,
+  "complaint_id": "9160975",
+  "product": "Credit card",
+  "complaint_what_happened": "In XXXX I made a purchase of storm door together with the installation service from the HomeDepot. For several months the contracted installer was not able to install and made severe damage to the building. After numerous conversation with the supervisor of the project, the local store manager and the online customer service, the purchase was refunded, hoever the damage to the property was never resolved. \n\nIn XXXX this case was brought to the district court, JUDGEMENT FOR PLAINTIFF ( S ) DOCKET NUMBER XXXX Trial Court of Massachusetts District Court Department. JUDGEME\n\nNT TOTAL PAYABLE TO PLAINTIFF ( S ) {$4800.00}.\n\nThe Homedepot never fullfilled the court order.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01945",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "In XXXX I made a purchase of storm door together with the installation service from the HomeDepot. For several months the contracted installer was not able to install and made severe damage to the building. After numerous conversation with the supervisor of the project, the local store manager and the online customer service, the purchase was refunded, hoever the damage to the property was never resolved. \n\nIn XXXX this case was brought to the district court, JUDGEMENT FOR PLAINTIFF ( S ) DOCKET NUMBER XXXX Trial Court of Massachusetts District Court Department. JUDGEME\n\nNT TOTAL PAYABLE TO PLAINTIFF ( S ) {$4800.00}.\n\nThe Homedepot never fullfilled the court order."
+}
+
+Chunk:
+in xxxx i made a purchase of storm door together with the installation service from the homedepot. for several months the contracted installer was not able to install and made severe damage to the building. after numerous conversation with the supervisor of the project, the local store manager and the online customer service, the purchase was refunded, hoever the damage to the property was never resolved. in xxxx this case was brought to the district court, judgement for plaintiff ( s ) docket number xxxx trial court of massachusetts district court department. judgeme nt total payable to plaintiff ( s ) { $ 4800. 00 }. the homedepot never fullfilled the court order.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994181394577026
+}

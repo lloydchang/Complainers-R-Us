@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9175623,
+  "complaint_id": "9175623",
+  "product": "Credit card",
+  "complaint_what_happened": "I closed my Capital One credit card on XX/XX/year>. I had a {$0.00} ( ZERO ) balance due. Upon which time I deleted the app and account information on my end. \nI received my 'final statement ' by mail for XX/XX/year> showing a - {$10.00} credit balance. I assumed eventually they would mail me a check for the balance owed. \nThen I received a letter, by mail, stating upon review of my account, I owed {$1100.00}. I called to inquired what this was for and asked for details to be sent to me which I never received. \nHowever, after looking on my end, I saw it was a duplicate credit and I owed a balance. \nI immediately sent payment on XX/XX/year> ( ACH ). \n- {$10.00} ( credit ) + {$1100.00} ( duplicate credit ) + {$19.00} ( interest ) = {$1100.00} I assumed case closed, account closed .... DONE. \nInstead they continue to charge my CLOSED account with interest and late fees. I had NO IDEA this was happening because the account was closed and I deleted the app. NO NOTIFICATION ever received by mail or email from Capital One either. \nI have called XXXX trying to get it resolved. I only get a call center somewhere in the world that tells me they have no power to do anything. No other recourse. \nI mailed a letter to them XX/XX/year> disputing all of this. I will never pay this amount as it is not owed. I think this is a deplorable practice and should not be allowed.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33410",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I closed my Capital One credit card on XX/XX/year>. I had a {$0.00} ( ZERO ) balance due. Upon which time I deleted the app and account information on my end. \nI received my 'final statement ' by mail for XX/XX/year> showing a - {$10.00} credit balance. I assumed eventually they would mail me a check for the balance owed. \nThen I received a letter, by mail, stating upon review of my account, I owed {$1100.00}. I called to inquired what this was for and asked for details to be sent to me which I never received. \nHowever, after looking on my end, I saw it was a duplicate credit and I owed a balance. \nI immediately sent payment on XX/XX/year> ( ACH ). \n- {$10.00} ( credit ) + {$1100.00} ( duplicate credit ) + {$19.00} ( interest ) = {$1100.00} I assumed case closed, account closed .... DONE. \nInstead they continue to charge my CLOSED account with interest and late fees. I had NO IDEA this was happening because the account was closed and I deleted the app. NO NOTIFICATION ever received by mail or email from Capital One either. \nI have called XXXX trying to get it resolved. I only get a call center somewhere in the world that tells me they have no power to do anything. No other recourse. \nI mailed a letter to them XX/XX/year> disputing all of this. I will never pay this amount as it is not owed. I think this is a deplorable practice and should not be allowed."
+}
+
+Chunk:
+i closed my capital one credit card on xx / xx / year >. i had a { $ 0. 00 } ( zero ) balance due. upon which time i deleted the app and account information on my end. i received my'final statement'by mail for xx / xx / year > showing a - { $ 10. 00 } credit balance. i assumed eventually they would mail me a check for the balance owed. then i received a letter, by mail, stating upon review of my account, i owed { $ 1100. 00 }. i called to inquired what this was for and asked for details to be sent to me which i never received. however, after looking on my end, i saw it was a duplicate credit and i owed a balance. i immediately sent payment on xx / xx / year > ( ach ). - { $ 10. 00 } ( credit ) + { $ 1100. 00 } ( duplicate credit ) + { $ 19. 00 } ( interest ) = { $ 1100. 00 } i assumed case closed, account closed.... done. instead they continue to charge my closed account with interest and late fees. i had no idea this was happening because the account was closed and i deleted the app. no notification ever received by mail or email from capital one either. i have called xxxx trying to get it resolved. i only get a call center somewhere in the world that tells me they have no power to do anything. no other recourse. i mailed a letter to them xx / xx / year > disputing all of this. i will never pay this amount as it is not owed. i think this is a deplorable practice and should not be allowed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995980858802795
+}

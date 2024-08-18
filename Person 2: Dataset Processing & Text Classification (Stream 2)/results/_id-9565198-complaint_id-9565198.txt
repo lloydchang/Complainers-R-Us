@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9565198,
+  "complaint_id": "9565198",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I applied on line for a Best Buy Store credit card at the Best Buy website. The Link to me to Citi Bank that issues the credit cards. The card offer was for a no fee card that offered a 10 % discount on your first purchase in reward points. I was denied for the promotional card but offered another Citi Bank card with a {$59.00} annual fee. I investigated the reason for the denial and was told it was for \" Insufficient Credit Experience ''. Reference # XXXX by associate XXXX. Now here is the twist.. \nI am XXXX XXXX XXXX, have a lifetime of established excellent credit and a credit score over XXXX. There should be no reason for any denial and certainly for an \" upsell ''. This is clearly a Bait & Switch operation that includes false financial advertising.",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "140XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year> I applied on line for a Best Buy Store credit card at the Best Buy website. The Link to me to Citi Bank that issues the credit cards. The card offer was for a no fee card that offered a 10 % discount on your first purchase in reward points. I was denied for the promotional card but offered another Citi Bank card with a {$59.00} annual fee. I investigated the reason for the denial and was told it was for \" Insufficient Credit Experience ''. Reference # XXXX by associate XXXX. Now here is the twist.. \nI am XXXX XXXX XXXX, have a lifetime of established excellent credit and a credit score over XXXX. There should be no reason for any denial and certainly for an \" upsell ''. This is clearly a Bait & Switch operation that includes false financial advertising."
+}
+
+Chunk:
+on xx / xx / year > i applied on line for a best buy store credit card at the best buy website. the link to me to citi bank that issues the credit cards. the card offer was for a no fee card that offered a 10 % discount on your first purchase in reward points. i was denied for the promotional card but offered another citi bank card with a { $ 59. 00 } annual fee. i investigated the reason for the denial and was told it was for " insufficient credit experience''. reference # xxxx by associate xxxx. now here is the twist.. i am xxxx xxxx xxxx, have a lifetime of established excellent credit and a credit score over xxxx. there should be no reason for any denial and certainly for an " upsell''. this is clearly a bait & switch operation that includes false financial advertising.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994958639144897
+}

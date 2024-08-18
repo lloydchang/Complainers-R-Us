@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9010723,
+  "complaint_id": "9010723",
+  "product": "Credit card",
+  "complaint_what_happened": "Went to XXXX XXXX and ordered product. Product was {$110.00} total. XXXX XXXX  made duplicate charge for same day - XX/XX/2024 and for same amount and submitted charges to Credit card. This is a duplicate charge from XXXX  XXXX company. Contacted credit card and submitted dispute. Credit card obtained documentation from XXXX  XXXX which shows 1 invoice, 1 charge for {$110.00} on XX/XX/2024. XXXX  XXXX did not submit any documentation for 2 charges of {$110.00} each. \nCredit card statement of XX/XX/2024 shows 2 duplicate charges. \n\nCredit card will not reverse the 2nd charge of {$110.00}. Credit card is Citi Bank Costco Anywhere credit card. Citi Bank  card needs to reverse this charge as they received information from XXXX  XXXX. Citi Bank mishandled this situation and needs to fix it immediately.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30813",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Overcharged for something you did purchase with the card",
+  "text": "Went to XXXX XXXX and ordered product. Product was {$110.00} total. XXXX XXXX  made duplicate charge for same day - XX/XX/2024 and for same amount and submitted charges to Credit card. This is a duplicate charge from XXXX  XXXX company. Contacted credit card and submitted dispute. Credit card obtained documentation from XXXX  XXXX which shows 1 invoice, 1 charge for {$110.00} on XX/XX/2024. XXXX  XXXX did not submit any documentation for 2 charges of {$110.00} each. \nCredit card statement of XX/XX/2024 shows 2 duplicate charges. \n\nCredit card will not reverse the 2nd charge of {$110.00}. Credit card is Citi Bank Costco Anywhere credit card. Citi Bank  card needs to reverse this charge as they received information from XXXX  XXXX. Citi Bank mishandled this situation and needs to fix it immediately."
+}
+
+Chunk:
+went to xxxx xxxx and ordered product. product was { $ 110. 00 } total. xxxx xxxx made duplicate charge for same day - xx / xx / 2024 and for same amount and submitted charges to credit card. this is a duplicate charge from xxxx xxxx company. contacted credit card and submitted dispute. credit card obtained documentation from xxxx xxxx which shows 1 invoice, 1 charge for { $ 110. 00 } on xx / xx / 2024. xxxx xxxx did not submit any documentation for 2 charges of { $ 110. 00 } each. credit card statement of xx / xx / 2024 shows 2 duplicate charges. credit card will not reverse the 2nd charge of { $ 110. 00 }. credit card is citi bank costco anywhere credit card. citi bank card needs to reverse this charge as they received information from xxxx xxxx. citi bank mishandled this situation and needs to fix it immediately.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983003735542297
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9142343,
+  "complaint_id": "9142343",
+  "product": "Credit card",
+  "complaint_what_happened": "I got a phone call from \" XXXX XXXX '' supposedly from US Bank Fraud Services. His phone number was XXXX. He told me that my XXXX  from Pennsylvania tried to use my credit card information. I told him I do not have a XXXX  in Pennsylvania. He asked me to verify my last charges and when he said XXXX XXXX XXXX, I could not understand him. I logged on to my account and my password was changed. I told him that something was wrong and HE told me the new password was XXXX XXXX  XXXX I used the new password and was able to verify the last charge. I asked was he sending me a new card and he said NO, we are putting special tracers on this account so \" we can put these people behind bars ''. I ended the call and called the US Bank and told them what happened. They blocked my online account and issued me a new credit card. The XXXX Banking tech support told me to contact them when the new card comes in so I can get it re-setup with new card information.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I got a phone call from \" XXXX XXXX '' supposedly from US Bank Fraud Services. His phone number was XXXX. He told me that my XXXX  from Pennsylvania tried to use my credit card information. I told him I do not have a XXXX  in Pennsylvania. He asked me to verify my last charges and when he said XXXX XXXX XXXX, I could not understand him. I logged on to my account and my password was changed. I told him that something was wrong and HE told me the new password was XXXX XXXX  XXXX I used the new password and was able to verify the last charge. I asked was he sending me a new card and he said NO, we are putting special tracers on this account so \" we can put these people behind bars ''. I ended the call and called the US Bank and told them what happened. They blocked my online account and issued me a new credit card. The XXXX Banking tech support told me to contact them when the new card comes in so I can get it re-setup with new card information."
+}
+
+Chunk:
+i got a phone call from " xxxx xxxx'' supposedly from us bank fraud services. his phone number was xxxx. he told me that my xxxx from pennsylvania tried to use my credit card information. i told him i do not have a xxxx in pennsylvania. he asked me to verify my last charges and when he said xxxx xxxx xxxx, i could not understand him. i logged on to my account and my password was changed. i told him that something was wrong and he told me the new password was xxxx xxxx xxxx i used the new password and was able to verify the last charge. i asked was he sending me a new card and he said no, we are putting special tracers on this account so " we can put these people behind bars''. i ended the call and called the us bank and told them what happened. they blocked my online account and issued me a new credit card. the xxxx banking tech support told me to contact them when the new card comes in so i can get it re - setup with new card information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994478821754456
+}

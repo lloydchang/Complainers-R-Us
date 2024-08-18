@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068008,
+  "complaint_id": "9068008",
+  "product": "Credit card",
+  "complaint_what_happened": "We filed a dispute against a XXXX on our Citi Bank XXXX on XXXX XXXX 2024 in the amount of {$5300.00} Citi XXXX in its dispute process that it will be like a tennis match back and forth and will give us an opportunity to rebuttal what the other party submits. None of this happened we are still yet to be presented with the contractors statements from the dispute. \n\nCiti sided with the XXXX and we submitted documents from professionals backing up our claims to why we disputed the charges so we can only assume they never really looked at the incident and all the information in the dispute. \n\nbelow is a short synopsis of what happened We hired a XXXX to Fix our XXXX and used Citi bank XXXX as our form of payment ( to protect us from a situation like this ). The XXXX did everything wrong as far as the work goes and we supplied Citi with plenty of documentation on the situation from outside professionals and contractors. Citi XXXX with The XXXX because we didn't let them continue/finish the work which would have cause further damage and we couldn't return the permanently installed fiberglass not our fault they did it wrong & that we had to spend many thousands of dollars to remove and repair. \n\nWe will supply images and documentation we submitted to this complaint as well as pictures in XXXX of the professionals document Citi Refused to look at.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "346XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "We filed a dispute against a XXXX on our Citi Bank XXXX on XXXX XXXX 2024 in the amount of {$5300.00} Citi XXXX in its dispute process that it will be like a tennis match back and forth and will give us an opportunity to rebuttal what the other party submits. None of this happened we are still yet to be presented with the contractors statements from the dispute. \n\nCiti sided with the XXXX and we submitted documents from professionals backing up our claims to why we disputed the charges so we can only assume they never really looked at the incident and all the information in the dispute. \n\nbelow is a short synopsis of what happened We hired a XXXX to Fix our XXXX and used Citi bank XXXX as our form of payment ( to protect us from a situation like this ). The XXXX did everything wrong as far as the work goes and we supplied Citi with plenty of documentation on the situation from outside professionals and contractors. Citi XXXX with The XXXX because we didn't let them continue/finish the work which would have cause further damage and we couldn't return the permanently installed fiberglass not our fault they did it wrong & that we had to spend many thousands of dollars to remove and repair. \n\nWe will supply images and documentation we submitted to this complaint as well as pictures in XXXX of the professionals document Citi Refused to look at."
+}
+
+Chunk:
+we filed a dispute against a xxxx on our citi bank xxxx on xxxx xxxx 2024 in the amount of { $ 5300. 00 } citi xxxx in its dispute process that it will be like a tennis match back and forth and will give us an opportunity to rebuttal what the other party submits. none of this happened we are still yet to be presented with the contractors statements from the dispute. citi sided with the xxxx and we submitted documents from professionals backing up our claims to why we disputed the charges so we can only assume they never really looked at the incident and all the information in the dispute. below is a short synopsis of what happened we hired a xxxx to fix our xxxx and used citi bank xxxx as our form of payment ( to protect us from a situation like this ). the xxxx did everything wrong as far as the work goes and we supplied citi with plenty of documentation on the situation from outside professionals and contractors. citi xxxx with the xxxx because we didn't let them continue / finish the work which would have cause further damage and we couldn't return the permanently installed fiberglass not our fault they did it wrong & that we had to spend many thousands of dollars to remove and repair. we will supply images and documentation we submitted to this complaint as well as pictures in xxxx of the professionals document citi refused to look at.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974480867385864
+}

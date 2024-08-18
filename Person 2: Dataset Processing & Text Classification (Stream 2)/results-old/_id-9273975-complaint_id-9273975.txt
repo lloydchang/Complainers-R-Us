@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9273975,
+  "complaint_id": "9273975",
+  "product": "Credit card",
+  "complaint_what_happened": "In the past month I had 3 fraudulent charges on just Best Buy credit card. They closed account & sent new cars. I didn't even open envelope with new card & a week later I had fraudulent charges. Called & they canceled that card & were sending out new card with lock on it. I haven't even received that card & got text that fraudulent charges on it. I think this fraud is internal.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "070XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "In the past month I had 3 fraudulent charges on just Best Buy credit card. They closed account & sent new cars. I didn't even open envelope with new card & a week later I had fraudulent charges. Called & they canceled that card & were sending out new card with lock on it. I haven't even received that card & got text that fraudulent charges on it. I think this fraud is internal."
+}
+
+Chunk:
+in the past month i had 3 fraudulent charges on just best buy credit card. they closed account & sent new cars. i didn't even open envelope with new card & a week later i had fraudulent charges. called & they canceled that card & were sending out new card with lock on it. i haven't even received that card & got text that fraudulent charges on it. i think this fraud is internal.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993177652359009
+}

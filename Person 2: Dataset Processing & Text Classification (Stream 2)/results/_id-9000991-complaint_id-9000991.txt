@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9000991,
+  "complaint_id": "9000991",
+  "product": "Credit card",
+  "complaint_what_happened": "CTI has not honored the terms of their agreement, please see attachment.\n\nI has been more than 7 business days since their letter.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48910",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "CTI has not honored the terms of their agreement, please see attachment.\n\nI has been more than 7 business days since their letter."
+}
+
+Chunk:
+cti has not honored the terms of their agreement, please see attachment. i has been more than 7 business days since their letter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991344809532166
+}

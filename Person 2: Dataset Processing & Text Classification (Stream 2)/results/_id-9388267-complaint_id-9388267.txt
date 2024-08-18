@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9388267,
+  "complaint_id": "9388267",
+  "product": "Credit card",
+  "complaint_what_happened": "I discovered that my credit card accounts had been closed only when they suddenly disappeared from the online banking website. There was no communication from Bank of America informing me about these closures. \nMoreover, I suspect that some of the closed accounts may have had negative balances ( some of them were requested by me and I think there were negative balances, however I can't track as they also disappeared from the website ). In such cases, I am entitled to receive refund checks for any remaining credits on those accounts. \n\nMy attempts to resolve this issue through customer service have been futile. I was informed that they can not access any information regarding my previous credit card accounts, which is unacceptable.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98103",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "I discovered that my credit card accounts had been closed only when they suddenly disappeared from the online banking website. There was no communication from Bank of America informing me about these closures. \nMoreover, I suspect that some of the closed accounts may have had negative balances ( some of them were requested by me and I think there were negative balances, however I can't track as they also disappeared from the website ). In such cases, I am entitled to receive refund checks for any remaining credits on those accounts. \n\nMy attempts to resolve this issue through customer service have been futile. I was informed that they can not access any information regarding my previous credit card accounts, which is unacceptable."
+}
+
+Chunk:
+i discovered that my credit card accounts had been closed only when they suddenly disappeared from the online banking website. there was no communication from bank of america informing me about these closures. moreover, i suspect that some of the closed accounts may have had negative balances ( some of them were requested by me and i think there were negative balances, however i can't track as they also disappeared from the website ). in such cases, i am entitled to receive refund checks for any remaining credits on those accounts. my attempts to resolve this issue through customer service have been futile. i was informed that they can not access any information regarding my previous credit card accounts, which is unacceptable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996964931488037
+}

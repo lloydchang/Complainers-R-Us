@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071551,
+  "complaint_id": "9071551",
+  "product": "Credit card",
+  "complaint_what_happened": "Problems with my account on the website. \nAutopay is set to pay an amount greater than the Account Balance. \nI had many failed attempts to change autopay to : statement balance. \nAfter removing autopay, I had multiple failed attempts to set up autopay to : statement balance. \nWhile making a one-time payment of {$120.00} to pay the full balance, the transactions frequency was described as MONTHLY. \n\nAll three ExtendPay plans have a {$0.00} Principal remaining. ( in other words, they are not active ). They were paid off early. \n\nU.S. Bank ExtendPay screen says ExtendPay is not available.\n\nWhile trying to set up autopay, set up autopay screen states, You have an ExtendPay. \nTrying to set up autopay results in : Spinning icon : Loading your Experience, Screen disappears. Autopay is not on the dashboard.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97306",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Problems with my account on the website. \nAutopay is set to pay an amount greater than the Account Balance. \nI had many failed attempts to change autopay to : statement balance. \nAfter removing autopay, I had multiple failed attempts to set up autopay to : statement balance. \nWhile making a one-time payment of {$120.00} to pay the full balance, the transactions frequency was described as MONTHLY. \n\nAll three ExtendPay plans have a {$0.00} Principal remaining. ( in other words, they are not active ). They were paid off early. \n\nU.S. Bank ExtendPay screen says ExtendPay is not available.\n\nWhile trying to set up autopay, set up autopay screen states, You have an ExtendPay. \nTrying to set up autopay results in : Spinning icon : Loading your Experience, Screen disappears. Autopay is not on the dashboard."
+}
+
+Chunk:
+problems with my account on the website. autopay is set to pay an amount greater than the account balance. i had many failed attempts to change autopay to : statement balance. after removing autopay, i had multiple failed attempts to set up autopay to : statement balance. while making a one - time payment of { $ 120. 00 } to pay the full balance, the transactions frequency was described as monthly. all three extendpay plans have a { $ 0. 00 } principal remaining. ( in other words, they are not active ). they were paid off early. u. s. bank extendpay screen says extendpay is not available. while trying to set up autopay, set up autopay screen states, you have an extendpay. trying to set up autopay results in : spinning icon : loading your experience, screen disappears. autopay is not on the dashboard.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997556805610657
+}

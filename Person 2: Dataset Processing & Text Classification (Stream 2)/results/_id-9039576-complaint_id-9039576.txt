@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9039576,
+  "complaint_id": "9039576",
+  "product": "Credit card",
+  "complaint_what_happened": "I did no agree to or purchase the add-on XXXX XXXX It did not show up on earlier statements. I also went through a couple of months where they were making corrections to my account and just noticed the add on charge. I did not agree to the add-on and want the funds refunded.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "80920",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I did no agree to or purchase the add-on XXXX XXXX It did not show up on earlier statements. I also went through a couple of months where they were making corrections to my account and just noticed the add on charge. I did not agree to the add-on and want the funds refunded."
+}
+
+Chunk:
+i did no agree to or purchase the add - on xxxx xxxx it did not show up on earlier statements. i also went through a couple of months where they were making corrections to my account and just noticed the add on charge. i did not agree to the add - on and want the funds refunded.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996529817581177
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256813,
+  "complaint_id": "9256813",
+  "product": "Credit card",
+  "complaint_what_happened": "I used my credit card to place a XXXX deposit for a cybertruck. I no longer want and trying to get a refund. I requested a refund on their website and it states error. From what I can tell this is a problem many are facing. Called XXXX and they transferred me to sales and they have no people to answer the calls or to leave voicemail.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "435XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Tesla, Inc.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes the complaint provided an opportunity to answer consumer's questions",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I used my credit card to place a XXXX deposit for a cybertruck. I no longer want and trying to get a refund. I requested a refund on their website and it states error. From what I can tell this is a problem many are facing. Called XXXX and they transferred me to sales and they have no people to answer the calls or to leave voicemail."
+}
+
+Chunk:
+i used my credit card to place a xxxx deposit for a cybertruck. i no longer want and trying to get a refund. i requested a refund on their website and it states error. from what i can tell this is a problem many are facing. called xxxx and they transferred me to sales and they have no people to answer the calls or to leave voicemail.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997746348381042
+}

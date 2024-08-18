@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9189669,
+  "complaint_id": "9189669",
+  "product": "Credit card",
+  "complaint_what_happened": "I'm a XXXX XXXX XXXX who uses XXXX XXXX XXXX XXXX for XXXX XXXX through the XXXX website, purchased as a subscription-based platform. I typically make purchases for different licenses through this subscription-based platform and I'm usually careful with what I purchase using my card. One of the monthly subscriptions overcharged me for a non-agreed amount. I initially bought it as a one-time recurring monthly amount of XXXX dollars and depending on how many people I add to this license it would then increase this amount to reflect the amount of people licensed. Unfortunately, the company decided to charge me upfront for XXXX people, when there are only XXXX people in XXXX XXXX. I have tried to rectify the situation myself but the charges went through, and contacting them directly is impossible because they do not respond. They only respond via email and refuse to work with me regarding this refund. I contacted XXXX the day of. No response or they refuse to work with me on this issue. I need a full refund, no partials or pro-rated the subscribed item was barely used.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "302XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "VYSTAR CREDIT UNION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I'm a XXXX XXXX XXXX who uses XXXX XXXX XXXX XXXX for XXXX XXXX through the XXXX website, purchased as a subscription-based platform. I typically make purchases for different licenses through this subscription-based platform and I'm usually careful with what I purchase using my card. One of the monthly subscriptions overcharged me for a non-agreed amount. I initially bought it as a one-time recurring monthly amount of XXXX dollars and depending on how many people I add to this license it would then increase this amount to reflect the amount of people licensed. Unfortunately, the company decided to charge me upfront for XXXX people, when there are only XXXX people in XXXX XXXX. I have tried to rectify the situation myself but the charges went through, and contacting them directly is impossible because they do not respond. They only respond via email and refuse to work with me regarding this refund. I contacted XXXX the day of. No response or they refuse to work with me on this issue. I need a full refund, no partials or pro-rated the subscribed item was barely used."
+}
+
+Chunk:
+i'm a xxxx xxxx xxxx who uses xxxx xxxx xxxx xxxx for xxxx xxxx through the xxxx website, purchased as a subscription - based platform. i typically make purchases for different licenses through this subscription - based platform and i'm usually careful with what i purchase using my card. one of the monthly subscriptions overcharged me for a non - agreed amount. i initially bought it as a one - time recurring monthly amount of xxxx dollars and depending on how many people i add to this license it would then increase this amount to reflect the amount of people licensed. unfortunately, the company decided to charge me upfront for xxxx people, when there are only xxxx people in xxxx xxxx. i have tried to rectify the situation myself but the charges went through, and contacting them directly is impossible because they do not respond. they only respond via email and refuse to work with me regarding this refund. i contacted xxxx the day of. no response or they refuse to work with me on this issue. i need a full refund, no partials or pro - rated the subscribed item was barely used.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991142153739929
+}

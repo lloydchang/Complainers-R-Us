@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9115652,
+  "complaint_id": "9115652",
+  "product": "Credit card",
+  "complaint_what_happened": "I noticed several accounts in my credit profile that i didn't apply for, and don't relate to any transactions i've made. They were opened without my consent. \nFor example : XXXX Account number : XXXXXXXX XXXX Account number : XXXX XXXX XXXX XXXX Account number : XXXX",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "33990",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I noticed several accounts in my credit profile that i didn't apply for, and don't relate to any transactions i've made. They were opened without my consent. \nFor example : XXXX Account number : XXXXXXXX XXXX Account number : XXXX XXXX XXXX XXXX Account number : XXXX"
+}
+
+Chunk:
+i noticed several accounts in my credit profile that i didn't apply for, and don't relate to any transactions i've made. they were opened without my consent. for example : xxxx account number : xxxxxxxx xxxx account number : xxxx xxxx xxxx xxxx account number : xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9972332119941711
+}

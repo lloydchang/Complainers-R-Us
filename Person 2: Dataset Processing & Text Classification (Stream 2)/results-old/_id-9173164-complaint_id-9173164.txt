@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173164,
+  "complaint_id": "9173164",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I made a payment to my Citibank account through the mobile banking app. I wanted to make a payment of {$80.00}, but on the app two options were somehow selected. The \" make a custom payment '' option and the \" pay the remaining balance '' option, I deselected the \" pay the remaining balance option '' and continued thinking that my \" make a custom payment '' option would go through. The {$80.00} payment did not occur and I instead unintentionally paid off the remaining balance of this credit card, which I did not want to do. I immediately called Citibank and let them know my mistake and was told that this would be corrected and that the overpayment would be returned to me so I could make the correct payment. What happened instead is Citibank deciding to close my account after an honest mistake that I attempted to correct. I was not contacted about this closure and only learned it after attempting to make a second payment on my credit card on XX/XX/year>. I contacted Citibank and was told that I should have received a letter, but I have not. I would not expect to receive a letter since I've signed up for paperless billing anyway. A representative directed me to the letters and statement portion on the Citibank website, this section of the website also did not contain a letter with the reasoning for my account closure. I only learned of my account closure over a phone call with a representative. I am a young adult and this random account closure will have lasting affects on my credit score. If I had known that asking for the overpayment to be returned would have resulted in my account being closed, I would have just allowed the overpayment to go through and paid off my credit card to avoid an account closure.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "40160",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/year> I made a payment to my Citibank account through the mobile banking app. I wanted to make a payment of {$80.00}, but on the app two options were somehow selected. The \" make a custom payment '' option and the \" pay the remaining balance '' option, I deselected the \" pay the remaining balance option '' and continued thinking that my \" make a custom payment '' option would go through. The {$80.00} payment did not occur and I instead unintentionally paid off the remaining balance of this credit card, which I did not want to do. I immediately called Citibank and let them know my mistake and was told that this would be corrected and that the overpayment would be returned to me so I could make the correct payment. What happened instead is Citibank deciding to close my account after an honest mistake that I attempted to correct. I was not contacted about this closure and only learned it after attempting to make a second payment on my credit card on XX/XX/year>. I contacted Citibank and was told that I should have received a letter, but I have not. I would not expect to receive a letter since I've signed up for paperless billing anyway. A representative directed me to the letters and statement portion on the Citibank website, this section of the website also did not contain a letter with the reasoning for my account closure. I only learned of my account closure over a phone call with a representative. I am a young adult and this random account closure will have lasting affects on my credit score. If I had known that asking for the overpayment to be returned would have resulted in my account being closed, I would have just allowed the overpayment to go through and paid off my credit card to avoid an account closure."
+}
+
+Chunk:
+on xx / xx / year > i made a payment to my citibank account through the mobile banking app. i wanted to make a payment of { $ 80. 00 }, but on the app two options were somehow selected. the " make a custom payment'' option and the " pay the remaining balance'' option, i deselected the " pay the remaining balance option'' and continued thinking that my " make a custom payment'' option would go through. the { $ 80. 00 } payment did not occur and i instead unintentionally paid off the remaining balance of this credit card, which i did not want to do. i immediately called citibank and let them know my mistake and was told that this would be corrected and that the overpayment would be returned to me so i could make the correct payment. what happened instead is citibank deciding to close my account after an honest mistake that i attempted to correct. i was not contacted about this closure and only learned it after attempting to make a second payment on my credit card on xx / xx / year >. i contacted citibank and was told that i should have received a letter, but i have not. i would not expect to receive a letter since i've signed up for paperless billing anyway. a representative directed me to the letters and statement portion on the citibank website, this section of the website also did not contain a letter with the reasoning for my account closure. i only learned of my account closure over a phone call with a representative. i am a young adult and this random account closure will have lasting affects on my credit score. if i had known that asking for the overpayment to be returned would have resulted in my account being closed, i would have just allowed the overpayment to go through and paid off my credit card to avoid an account closure.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995540976524353
+}

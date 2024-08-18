@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9319243,
+  "complaint_id": "9319243",
+  "product": "Credit card",
+  "complaint_what_happened": "I rented a car with allied car rental using my CITI XXXX XXXX card. During this time I received a XXXX $ parking ticket which I paid online. I then received a charge for XXXX from allied car rental saying it was for a parking ticket. I provided them the details about paying said ticket including the confirmation of payment email. I asked them to provide me further information or reverse the charge. They denied. I filed a report with CITI banks saying it was a fraudulent charge. CITI opened a case and closed it promptly not reversing the charge. They proceeded to charge my card again for XXXX with no explanation. I filed another billing dispute / fraud dispute with CITI and it has not been resolved for over 3 months. They havent issued a credit for this unauthorized charge and it is incurring late fees and interest. I called to ask them why they didnt issue a credit while its under investigation and they said not to pay it yet that it wouldnt incur charges or have a late fee. That person lied and now I have a late payment that is shown on my credit report. CITI has been no help resolving this issue and no representative seems to understand what is going on. Ive been on the phone with them for over XXXX hours being transferred and hung up on.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "96740",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I rented a car with allied car rental using my CITI XXXX XXXX card. During this time I received a XXXX $ parking ticket which I paid online. I then received a charge for XXXX from allied car rental saying it was for a parking ticket. I provided them the details about paying said ticket including the confirmation of payment email. I asked them to provide me further information or reverse the charge. They denied. I filed a report with CITI banks saying it was a fraudulent charge. CITI opened a case and closed it promptly not reversing the charge. They proceeded to charge my card again for XXXX with no explanation. I filed another billing dispute / fraud dispute with CITI and it has not been resolved for over 3 months. They havent issued a credit for this unauthorized charge and it is incurring late fees and interest. I called to ask them why they didnt issue a credit while its under investigation and they said not to pay it yet that it wouldnt incur charges or have a late fee. That person lied and now I have a late payment that is shown on my credit report. CITI has been no help resolving this issue and no representative seems to understand what is going on. Ive been on the phone with them for over XXXX hours being transferred and hung up on."
+}
+
+Chunk:
+i rented a car with allied car rental using my citi xxxx xxxx card. during this time i received a xxxx $ parking ticket which i paid online. i then received a charge for xxxx from allied car rental saying it was for a parking ticket. i provided them the details about paying said ticket including the confirmation of payment email. i asked them to provide me further information or reverse the charge. they denied. i filed a report with citi banks saying it was a fraudulent charge. citi opened a case and closed it promptly not reversing the charge. they proceeded to charge my card again for xxxx with no explanation. i filed another billing dispute / fraud dispute with citi and it has not been resolved for over 3 months. they havent issued a credit for this unauthorized charge and it is incurring late fees and interest. i called to ask them why they didnt issue a credit while its under investigation and they said not to pay it yet that it wouldnt incur charges or have a late fee. that person lied and now i have a late payment that is shown on my credit report. citi has been no help resolving this issue and no representative seems to understand what is going on. ive been on the phone with them for over xxxx hours being transferred and hung up on.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991239905357361
+}

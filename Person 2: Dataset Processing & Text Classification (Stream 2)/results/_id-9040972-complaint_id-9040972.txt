@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9040972,
+  "complaint_id": "9040972",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, I went to buy a phone at Best Buy with opening a line. I paid for the phone outright but was told that in order to purchase the phone I would have to get authorized for financing. I was told that this was just an authorization, and account would be closed automatically in 5 days upon not using it. I found out that the store representative had opened up a best buy visa card on my behalf, perhaps to get a commission for herself, and believe I was lied to when I was told that this authorization was mandatory when purchasing my phone.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10001",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Hello, I went to buy a phone at Best Buy with opening a line. I paid for the phone outright but was told that in order to purchase the phone I would have to get authorized for financing. I was told that this was just an authorization, and account would be closed automatically in 5 days upon not using it. I found out that the store representative had opened up a best buy visa card on my behalf, perhaps to get a commission for herself, and believe I was lied to when I was told that this authorization was mandatory when purchasing my phone."
+}
+
+Chunk:
+hello, i went to buy a phone at best buy with opening a line. i paid for the phone outright but was told that in order to purchase the phone i would have to get authorized for financing. i was told that this was just an authorization, and account would be closed automatically in 5 days upon not using it. i found out that the store representative had opened up a best buy visa card on my behalf, perhaps to get a commission for herself, and believe i was lied to when i was told that this authorization was mandatory when purchasing my phone.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992727637290955
+}

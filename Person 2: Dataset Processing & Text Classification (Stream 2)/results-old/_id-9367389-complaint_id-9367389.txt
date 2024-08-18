@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9367389,
+  "complaint_id": "9367389",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> - Upon closing the account I did not apply for, the company ( Barclays ) created a 2nd account ( without my knowledge ) and transferred the charges from the fraudulent account to the 2nd account. I became aware of the 2nd account on XX/XX/year>. During the interim, and since XX/XX/year>, there does not appear to have been any investigation, and interest and late fees were being added to the account. I have spoken to the company a total of 7 times ( XXXX XXXX XXXX XXXX XXXX XXXX with no resolution and continued interest, late fees, and flagging as past due. Detailed account of each communication is attached with documents.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "765XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "XX/XX/year> - Upon closing the account I did not apply for, the company ( Barclays ) created a 2nd account ( without my knowledge ) and transferred the charges from the fraudulent account to the 2nd account. I became aware of the 2nd account on XX/XX/year>. During the interim, and since XX/XX/year>, there does not appear to have been any investigation, and interest and late fees were being added to the account. I have spoken to the company a total of 7 times ( XXXX XXXX XXXX XXXX XXXX XXXX with no resolution and continued interest, late fees, and flagging as past due. Detailed account of each communication is attached with documents."
+}
+
+Chunk:
+xx / xx / year > - upon closing the account i did not apply for, the company ( barclays ) created a 2nd account ( without my knowledge ) and transferred the charges from the fraudulent account to the 2nd account. i became aware of the 2nd account on xx / xx / year >. during the interim, and since xx / xx / year >, there does not appear to have been any investigation, and interest and late fees were being added to the account. i have spoken to the company a total of 7 times ( xxxx xxxx xxxx xxxx xxxx xxxx with no resolution and continued interest, late fees, and flagging as past due. detailed account of each communication is attached with documents.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.993188738822937
+}

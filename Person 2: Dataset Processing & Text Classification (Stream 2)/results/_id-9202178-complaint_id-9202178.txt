@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9202178,
+  "complaint_id": "9202178",
+  "product": "Credit card",
+  "complaint_what_happened": "Initially, I had received an official email from XXXXXXXX XXXX on XX/XX/year> that an application had been submitted for credit in my name. Immediately, I responded back indicating that I had not applied for credit. Additionally, I noticed that my XXXX Score was lower than usual. In obtaining a credit report on XX/XX/XXXX, I noticed a new account had been opened XX/XX/year> from Barclays Bank Delaware. Without my knowledge, a Jet Blue World Elite card, with a total credit line of {$19000.00} had been opened. I immediately contacted the company to notify them that I did not apply for the credit card. Eventually, I was connected to their fraud department. I was informed that an investigation would be conducted. Also, that I would not be held responsible for the {$7000.00} purchase made on the card. I was also, informed that a followup letter would be mailed, verifying the closure of the fraudulent account. To date, I have not received any correspondence from the company. Understandably, I am upset that a credit line of {$19000.00} could be established without proper verification to begin with. Furthermore, I have spent countless hours in an effort to avoid further fraud, and/or misuse of my identity. At a minimum, due to their negligence I am paying a monthly fee of approximately {$25.00} for added credit card monitoring. An expense that should be offered to me free of charge by the credit card company responsible for opening this account to begin with.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92131",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "Initially, I had received an official email from XXXXXXXX XXXX on XX/XX/year> that an application had been submitted for credit in my name. Immediately, I responded back indicating that I had not applied for credit. Additionally, I noticed that my XXXX Score was lower than usual. In obtaining a credit report on XX/XX/XXXX, I noticed a new account had been opened XX/XX/year> from Barclays Bank Delaware. Without my knowledge, a Jet Blue World Elite card, with a total credit line of {$19000.00} had been opened. I immediately contacted the company to notify them that I did not apply for the credit card. Eventually, I was connected to their fraud department. I was informed that an investigation would be conducted. Also, that I would not be held responsible for the {$7000.00} purchase made on the card. I was also, informed that a followup letter would be mailed, verifying the closure of the fraudulent account. To date, I have not received any correspondence from the company. Understandably, I am upset that a credit line of {$19000.00} could be established without proper verification to begin with. Furthermore, I have spent countless hours in an effort to avoid further fraud, and/or misuse of my identity. At a minimum, due to their negligence I am paying a monthly fee of approximately {$25.00} for added credit card monitoring. An expense that should be offered to me free of charge by the credit card company responsible for opening this account to begin with."
+}
+
+Chunk:
+initially, i had received an official email from xxxxxxxx xxxx on xx / xx / year > that an application had been submitted for credit in my name. immediately, i responded back indicating that i had not applied for credit. additionally, i noticed that my xxxx score was lower than usual. in obtaining a credit report on xx / xx / xxxx, i noticed a new account had been opened xx / xx / year > from barclays bank delaware. without my knowledge, a jet blue world elite card, with a total credit line of { $ 19000. 00 } had been opened. i immediately contacted the company to notify them that i did not apply for the credit card. eventually, i was connected to their fraud department. i was informed that an investigation would be conducted. also, that i would not be held responsible for the { $ 7000. 00 } purchase made on the card. i was also, informed that a followup letter would be mailed, verifying the closure of the fraudulent account. to date, i have not received any correspondence from the company. understandably, i am upset that a credit line of { $ 19000. 00 } could be established without proper verification to begin with. furthermore, i have spent countless hours in an effort to avoid further fraud, and / or misuse of my identity. at a minimum, due to their negligence i am paying a monthly fee of approximately { $ 25. 00 } for added credit card monitoring. an expense that should be offered to me free of charge by the credit card company responsible for opening this account to begin with.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994569420814514
+}

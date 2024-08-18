@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9178103,
+  "complaint_id": "9178103",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX. \nI called Wells Fargo since they denied my credit card to XXXX XXXX. I already had a credit card, and it was not use so in XXXX, it was canceled. I tried to explain to Wells Fargo Agent that I can not give them my Social Security number since I was compromised XXXX years ago. I get a pin number every year from the US Government, and it changes to file my taxes. \nI asked if they could proceed without social security number they said, No. I asked if I give them the last XXXX digits of it, they said, No. \nReally??? There has to be another way and the agents said, No. \nThat is why I am filing a complaint against Wells Fargo Bank, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  I was to call by XX/XX/XXXX. I complied. \nThank you.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "32092",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "XX/XX/XXXX. \nI called Wells Fargo since they denied my credit card to XXXX XXXX. I already had a credit card, and it was not use so in XXXX, it was canceled. I tried to explain to Wells Fargo Agent that I can not give them my Social Security number since I was compromised XXXX years ago. I get a pin number every year from the US Government, and it changes to file my taxes. \nI asked if they could proceed without social security number they said, No. I asked if I give them the last XXXX digits of it, they said, No. \nReally??? There has to be another way and the agents said, No. \nThat is why I am filing a complaint against Wells Fargo Bank, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  I was to call by XX/XX/XXXX. I complied. \nThank you."
+}
+
+Chunk:
+xx / xx / xxxx. i called wells fargo since they denied my credit card to xxxx xxxx. i already had a credit card, and it was not use so in xxxx, it was canceled. i tried to explain to wells fargo agent that i can not give them my social security number since i was compromised xxxx years ago. i get a pin number every year from the us government, and it changes to file my taxes. i asked if they could proceed without social security number they said, no. i asked if i give them the last xxxx digits of it, they said, no. really??? there has to be another way and the agents said, no. that is why i am filing a complaint against wells fargo bank, xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx i was to call by xx / xx / xxxx. i complied. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.992598295211792
+}

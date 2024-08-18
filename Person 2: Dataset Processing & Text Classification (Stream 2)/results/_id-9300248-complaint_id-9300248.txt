@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9300248,
+  "complaint_id": "9300248",
+  "product": "Credit card",
+  "complaint_what_happened": "Care Credit ( dental credit card ) On XX/XX/XXXX I noticed a charge from a security card fee of 50 % of my monthly due payment from synchrony bank. I called them and was told in XXXX that it was a one time fee for using the card, in XXXX was told it was a service for card protection I signed up for. I didn't sign up for this, I asked that it be cancelled, I was sent to another number it was cancelled via phone, I called back the syncrony bank to tell it was cancelled and they wouldn't refund my money. On XX/XX/XXXX the company took again a 50 % fee of what my payment balance was, I called again and was told it would take XXXX to XXXX payment cycles to cancel this and I would be contiually be charged on my card and look for a letter in the mail to my home in 60 days of reimbursement decision. I was lied to and told this was a 3rd party servicer once I took it to the top I was told it is actually a company under the umberella of syncrony bank. I expressed to them I do not authorize any more charges on this card and they would not comply. I so far been charged {$510.00} unauthroized charges. I was told to call back tomorrow when their affilate security card services is open. I will call put after months of deal with this I feel their is no choice but to file a complaint and hopefully get this resolved so I can move on and be protected and not charge fraudulant unauthroized charges and receive a refund of charges made and will continue to make according to this company for another XXXX to XXXX payment cycles which will put this total up to approximately {$76000.00} and growing. After dealing with Care Credit and supervisor 's I do not see them stopping charges or resolving this issue.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "98664",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Care Credit ( dental credit card ) On XX/XX/XXXX I noticed a charge from a security card fee of 50 % of my monthly due payment from synchrony bank. I called them and was told in XXXX that it was a one time fee for using the card, in XXXX was told it was a service for card protection I signed up for. I didn't sign up for this, I asked that it be cancelled, I was sent to another number it was cancelled via phone, I called back the syncrony bank to tell it was cancelled and they wouldn't refund my money. On XX/XX/XXXX the company took again a 50 % fee of what my payment balance was, I called again and was told it would take XXXX to XXXX payment cycles to cancel this and I would be contiually be charged on my card and look for a letter in the mail to my home in 60 days of reimbursement decision. I was lied to and told this was a 3rd party servicer once I took it to the top I was told it is actually a company under the umberella of syncrony bank. I expressed to them I do not authorize any more charges on this card and they would not comply. I so far been charged {$510.00} unauthroized charges. I was told to call back tomorrow when their affilate security card services is open. I will call put after months of deal with this I feel their is no choice but to file a complaint and hopefully get this resolved so I can move on and be protected and not charge fraudulant unauthroized charges and receive a refund of charges made and will continue to make according to this company for another XXXX to XXXX payment cycles which will put this total up to approximately {$76000.00} and growing. After dealing with Care Credit and supervisor 's I do not see them stopping charges or resolving this issue."
+}
+
+Chunk:
+care credit ( dental credit card ) on xx / xx / xxxx i noticed a charge from a security card fee of 50 % of my monthly due payment from synchrony bank. i called them and was told in xxxx that it was a one time fee for using the card, in xxxx was told it was a service for card protection i signed up for. i didn't sign up for this, i asked that it be cancelled, i was sent to another number it was cancelled via phone, i called back the syncrony bank to tell it was cancelled and they wouldn't refund my money. on xx / xx / xxxx the company took again a 50 % fee of what my payment balance was, i called again and was told it would take xxxx to xxxx payment cycles to cancel this and i would be contiually be charged on my card and look for a letter in the mail to my home in 60 days of reimbursement decision. i was lied to and told this was a 3rd party servicer once i took it to the top i was told it is actually a company under the umberella of syncrony bank. i expressed to them i do not authorize any more charges on this card and they would not comply. i so far been charged { $ 510. 00 } unauthroized charges. i was told to call back tomorrow when their affilate security card services is open. i will call put after months of deal with this i feel their is no choice but to file a complaint and hopefully get this resolved so i can move on and be protected and not charge fraudulant unauthroized charges and receive a refund of charges made and will continue to make according to this company for another xxxx to xxxx payment cycles which will put this total up to approximately { $ 76000. 00 } and growing. after dealing with care credit and supervisor's i do not see them stopping charges or resolving this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992644190788269
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9420889,
+  "complaint_id": "9420889",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a letter from BARCLAYS asking that I forward them copies of my license, social security card and utility bills for them to review regarding a JetBlue Plus Credit Card that I did NOT apply for.",
+  "date_sent_to_company": "2024-07-04T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "30214",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-04T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a letter from BARCLAYS asking that I forward them copies of my license, social security card and utility bills for them to review regarding a JetBlue Plus Credit Card that I did NOT apply for."
+}
+
+Chunk:
+i received a letter from barclays asking that i forward them copies of my license, social security card and utility bills for them to review regarding a jetblue plus credit card that i did not apply for.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9911144971847534
+}

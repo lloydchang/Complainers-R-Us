@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125805,
+  "complaint_id": "9125805",
+  "product": "Credit card",
+  "complaint_what_happened": "I have contacted the company, Fifth Third Bank, over the course of three years ( XXXX ) to send out a physical card for use. The bank has stated they would send out a card on multiple occasions and never did. XXXX of XXXX, Fifth Third Bank closed my account due to inactivity. I contacted the bank asking for proof that they actually sent out a physical card and they could not provide me with this information. I asked for an explanation as to why my account was closed if they did not send an active physical card and received no explanation.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60617",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIFTH THIRD FINANCIAL CORPORATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have contacted the company, Fifth Third Bank, over the course of three years ( XXXX ) to send out a physical card for use. The bank has stated they would send out a card on multiple occasions and never did. XXXX of XXXX, Fifth Third Bank closed my account due to inactivity. I contacted the bank asking for proof that they actually sent out a physical card and they could not provide me with this information. I asked for an explanation as to why my account was closed if they did not send an active physical card and received no explanation."
+}
+
+Chunk:
+i have contacted the company, fifth third bank, over the course of three years ( xxxx ) to send out a physical card for use. the bank has stated they would send out a card on multiple occasions and never did. xxxx of xxxx, fifth third bank closed my account due to inactivity. i contacted the bank asking for proof that they actually sent out a physical card and they could not provide me with this information. i asked for an explanation as to why my account was closed if they did not send an active physical card and received no explanation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996412992477417
+}

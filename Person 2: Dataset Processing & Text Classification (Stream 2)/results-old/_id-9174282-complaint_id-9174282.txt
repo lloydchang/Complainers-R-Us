@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9174282,
+  "complaint_id": "9174282",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX XXXX it was a late payment that took place with a a credit card company called self lender. The company issued a late payment. Late Payments CFPB 15 U.S.C 1666 ( b ) - A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for ANY PURPOSE. 12 CFR. 1026.13 ( d ) ( 2 ) - Adverse credit reports prohibited. The creditor or its agent shall not ( directly or indirectly ) make or threaten to make an adverse report to any person about the consumer 's credit standing, or report that an amount or account is delinquent, because the consumer failed to pay the disputed amount or related finance or other charges. They are in violation of my privacy rights per the Privacy Act of 1974. It is illegal to report transaction history therefore reporting inquiries and any transaction history with a financial institution is illegal. All inquiries being reported are to be DELETED from this report as it is illegal.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30305",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "On XX/XX/XXXX XXXX it was a late payment that took place with a a credit card company called self lender. The company issued a late payment. Late Payments CFPB 15 U.S.C 1666 ( b ) - A creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for ANY PURPOSE. 12 CFR. 1026.13 ( d ) ( 2 ) - Adverse credit reports prohibited. The creditor or its agent shall not ( directly or indirectly ) make or threaten to make an adverse report to any person about the consumer 's credit standing, or report that an amount or account is delinquent, because the consumer failed to pay the disputed amount or related finance or other charges. They are in violation of my privacy rights per the Privacy Act of 1974. It is illegal to report transaction history therefore reporting inquiries and any transaction history with a financial institution is illegal. All inquiries being reported are to be DELETED from this report as it is illegal."
+}
+
+Chunk:
+on xx / xx / xxxx xxxx it was a late payment that took place with a a credit card company called self lender. the company issued a late payment. late payments cfpb 15 u. s. c 1666 ( b ) - a creditor may not treat a payment on a credit card account under an open end consumer credit plan as late for any purpose. 12 cfr. 1026. 13 ( d ) ( 2 ) - adverse credit reports prohibited. the creditor or its agent shall not ( directly or indirectly ) make or threaten to make an adverse report to any person about the consumer's credit standing, or report that an amount or account is delinquent, because the consumer failed to pay the disputed amount or related finance or other charges. they are in violation of my privacy rights per the privacy act of 1974. it is illegal to report transaction history therefore reporting inquiries and any transaction history with a financial institution is illegal. all inquiries being reported are to be deleted from this report as it is illegal.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991664886474609
+}

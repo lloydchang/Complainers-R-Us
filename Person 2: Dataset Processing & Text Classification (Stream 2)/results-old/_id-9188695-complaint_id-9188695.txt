@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9188695,
+  "complaint_id": "9188695",
+  "product": "Credit card",
+  "complaint_what_happened": "I'm filing a complaont against destiny card for mishandling my fraud case I filed a fraud case XX/XX/XXXX with destiny card letting them know I never received my card in the mail ending in XXXX and that the card had unauthorized charges on it on my account I reported the charges and destiny card has yet to reversed them I told I had no access to the card cause I never received it now they have my account in the negative because of this issue I have the charges listed below and would like a investigation in this matter to be resolved with this issue",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60201",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I'm filing a complaont against destiny card for mishandling my fraud case I filed a fraud case XX/XX/XXXX with destiny card letting them know I never received my card in the mail ending in XXXX and that the card had unauthorized charges on it on my account I reported the charges and destiny card has yet to reversed them I told I had no access to the card cause I never received it now they have my account in the negative because of this issue I have the charges listed below and would like a investigation in this matter to be resolved with this issue"
+}
+
+Chunk:
+i'm filing a complaont against destiny card for mishandling my fraud case i filed a fraud case xx / xx / xxxx with destiny card letting them know i never received my card in the mail ending in xxxx and that the card had unauthorized charges on it on my account i reported the charges and destiny card has yet to reversed them i told i had no access to the card cause i never received it now they have my account in the negative because of this issue i have the charges listed below and would like a investigation in this matter to be resolved with this issue
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986445307731628
+}

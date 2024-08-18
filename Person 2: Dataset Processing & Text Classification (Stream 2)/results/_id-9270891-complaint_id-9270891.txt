@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9270891,
+  "complaint_id": "9270891",
+  "product": "Credit card",
+  "complaint_what_happened": "Given below are two examples of the charges on my US BANK VISA card bill : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX There were 13 charges of this type. I did not recognize these charges so I contacted US BANK over the weekend to get more information and was told that the only way I could get more information on these charges is to claim fraud, in which case I would have had to get a new card. \n\nI then contacted the above telephone number, XXXX, which turned out to be the telephone number of XXXX. I called that number repeatedly and they were never able to find these charges on their system. \n\nAfter calling US BANK a number of times and getting the same message that I had to claim fraud to get more info on these charges, I finally got to someone at US BANK that was willing to violate that policy. \n\nHe told me that all the charges came from places in Connecticut. From that I figured out that a wealthy relative had accidentally charged restaurant bills on my credit card. He fixed the problem and is going to send me a check for the false charges. This resolves the immediate problem. \n\n-- -- -- -- -- -- -- -- -- -- - It should be much easier for me to get more info on US BANK charges without having to claim fraud. XXXX is partially at fault for not being able to find information on the above charges. \n\nI hope that the CFPB can persuade US BANK to make it easy for me to get more information on specific charges without having to claim fraud.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "53217",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-15T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Given below are two examples of the charges on my US BANK VISA card bill : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX There were 13 charges of this type. I did not recognize these charges so I contacted US BANK over the weekend to get more information and was told that the only way I could get more information on these charges is to claim fraud, in which case I would have had to get a new card. \n\nI then contacted the above telephone number, XXXX, which turned out to be the telephone number of XXXX. I called that number repeatedly and they were never able to find these charges on their system. \n\nAfter calling US BANK a number of times and getting the same message that I had to claim fraud to get more info on these charges, I finally got to someone at US BANK that was willing to violate that policy. \n\nHe told me that all the charges came from places in Connecticut. From that I figured out that a wealthy relative had accidentally charged restaurant bills on my credit card. He fixed the problem and is going to send me a check for the false charges. This resolves the immediate problem. \n\n-- -- -- -- -- -- -- -- -- -- - It should be much easier for me to get more info on US BANK charges without having to claim fraud. XXXX is partially at fault for not being able to find information on the above charges. \n\nI hope that the CFPB can persuade US BANK to make it easy for me to get more information on specific charges without having to claim fraud."
+}
+
+Chunk:
+given below are two examples of the charges on my us bank visa card bill : xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx there were 13 charges of this type. i did not recognize these charges so i contacted us bank over the weekend to get more information and was told that the only way i could get more information on these charges is to claim fraud, in which case i would have had to get a new card. i then contacted the above telephone number, xxxx, which turned out to be the telephone number of xxxx. i called that number repeatedly and they were never able to find these charges on their system. after calling us bank a number of times and getting the same message that i had to claim fraud to get more info on these charges, i finally got to someone at us bank that was willing to violate that policy. he told me that all the charges came from places in connecticut. from that i figured out that a wealthy relative had accidentally charged restaurant bills on my credit card. he fixed the problem and is going to send me a check for the false charges. this resolves the immediate problem. - - - - - - - - - - - - - - - - - - - - - it should be much easier for me to get more info on us bank charges without having to claim fraud. xxxx is partially at fault for not being able to find information on the above charges. i hope that the cfpb can persuade us bank to make it easy for me to get more information on specific charges without having to claim fraud.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994551539421082
+}

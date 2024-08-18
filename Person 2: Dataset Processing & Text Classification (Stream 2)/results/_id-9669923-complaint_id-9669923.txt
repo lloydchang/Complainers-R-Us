@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9669923,
+  "complaint_id": "9669923",
+  "product": "Credit card",
+  "complaint_what_happened": "Our company citibusiness credit card number ( not physical card ) was stolen and used to make several fraudulent purchases in XXXX ( we are in the USA ) between XX/XX/year> and XX/XX/year>. We called Citibank and reported the charges to be fraudulent. They conducted an investigation and determined that these charges are customer responsibility even though they are clearly fraudulent. Citibank even cancelled and replaced the card. When we called to follow up on why there would be no fraud credit the agent refused to give any further information and said nothing could be done. We have never had this experience before so just seeing if there is something else we can do.",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90069",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Our company citibusiness credit card number ( not physical card ) was stolen and used to make several fraudulent purchases in XXXX ( we are in the USA ) between XX/XX/year> and XX/XX/year>. We called Citibank and reported the charges to be fraudulent. They conducted an investigation and determined that these charges are customer responsibility even though they are clearly fraudulent. Citibank even cancelled and replaced the card. When we called to follow up on why there would be no fraud credit the agent refused to give any further information and said nothing could be done. We have never had this experience before so just seeing if there is something else we can do."
+}
+
+Chunk:
+our company citibusiness credit card number ( not physical card ) was stolen and used to make several fraudulent purchases in xxxx ( we are in the usa ) between xx / xx / year > and xx / xx / year >. we called citibank and reported the charges to be fraudulent. they conducted an investigation and determined that these charges are customer responsibility even though they are clearly fraudulent. citibank even cancelled and replaced the card. when we called to follow up on why there would be no fraud credit the agent refused to give any further information and said nothing could be done. we have never had this experience before so just seeing if there is something else we can do.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990469813346863
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9358691,
+  "complaint_id": "9358691",
+  "product": "Credit card",
+  "complaint_what_happened": "Complaint regarding Wells Fargo. We DO NOT have an active relationship with this bank. On XX/XX/year> I received an email stating, Your Wells Fargo credit card has shipped. They further stated it should arrive within XXXX days. \n\nToday, XX/XX/year>, we received a signature card for myself and my husband with a stated credit limit of {$20000.00}. \n\nWe DID NOT request a card. Again, we DO NOT have a relationship with this bank. \n\nThis appears to be the same bad behavior this bank was doing by opening accounts that people did not ask for and without their knowledge or authorization.",
+  "date_sent_to_company": "2024-06-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "988XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-28T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "Complaint regarding Wells Fargo. We DO NOT have an active relationship with this bank. On XX/XX/year> I received an email stating, Your Wells Fargo credit card has shipped. They further stated it should arrive within XXXX days. \n\nToday, XX/XX/year>, we received a signature card for myself and my husband with a stated credit limit of {$20000.00}. \n\nWe DID NOT request a card. Again, we DO NOT have a relationship with this bank. \n\nThis appears to be the same bad behavior this bank was doing by opening accounts that people did not ask for and without their knowledge or authorization."
+}
+
+Chunk:
+complaint regarding wells fargo. we do not have an active relationship with this bank. on xx / xx / year > i received an email stating, your wells fargo credit card has shipped. they further stated it should arrive within xxxx days. today, xx / xx / year >, we received a signature card for myself and my husband with a stated credit limit of { $ 20000. 00 }. we did not request a card. again, we do not have a relationship with this bank. this appears to be the same bad behavior this bank was doing by opening accounts that people did not ask for and without their knowledge or authorization.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993558526039124
+}

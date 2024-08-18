@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210786,
+  "complaint_id": "9210786",
+  "product": "Credit card",
+  "complaint_what_happened": "Information, and the importance of that information in order for the consumer to make informed proper decisions with the respect to using credit or choosing not to use credit. Is paramount in relation to the ramifications that a decision made out of being unaware when there was no formally Visceral inherent way of knowledge no know how of a change that was made without there knowing. It is with respect of this institution that I say this in a sense of frustration. To make a change without making the consumer fully and evidently aware is a UDAAP Violation. So in order to attempt perhaps make sense of this further, and hopefully come to some reasonable resolve I am filing this referral in relation to the credit decisions that was allegedly made on my United airlines chase credit card account. Originally my credit limit was XXXX dollars This limit was lowered without my knowledge. The ramifications of this effected not only myself but the person I attend to because I have an individual living with me that I support that XXXX XXXX XXXX XXXX years ago and I there only source in this country to help. This not only will possibly effect the reputation of chase but could effect much more. Out of the natural assumptions that this limit would be at XXXX because of falling slightly behind due to a family members illness and having to take of work for a few weeks I had the credit card set up for paying towards my auto insurance. Which covers not only myself but the person that I care for that lives with me and there car. While I will be able to pay for the auto insurance this change in limit that was not properly disclosed effects everything else because it increases the usage limits and then suddenly changes my whole budget aspect when I already must deal with the ramifications of recovering from the pandemic still because of the added stresses of having to attend to another that lost their job. On top of this all the fact that work for a bank and I am in the position that reports these type of regulatory violation to the executive office is surprising albeit beneficial int eh same respects as I see first hand the frustrations of not being evidently aware and how those lack of Knowledge to the unaware persons effects them. My aim is to resolve this process by hopefully bringing my limit back to the original agreed upon amount of XXXX dollars. With respects I will say that I have the outmost respect for chase they are a stellar bank. However when something like this happens they should call directly leave a voicemail at least let it be known so that someone like me wont make a choice that will cause an issue.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Information, and the importance of that information in order for the consumer to make informed proper decisions with the respect to using credit or choosing not to use credit. Is paramount in relation to the ramifications that a decision made out of being unaware when there was no formally Visceral inherent way of knowledge no know how of a change that was made without there knowing. It is with respect of this institution that I say this in a sense of frustration. To make a change without making the consumer fully and evidently aware is a UDAAP Violation. So in order to attempt perhaps make sense of this further, and hopefully come to some reasonable resolve I am filing this referral in relation to the credit decisions that was allegedly made on my United airlines chase credit card account. Originally my credit limit was XXXX dollars This limit was lowered without my knowledge. The ramifications of this effected not only myself but the person I attend to because I have an individual living with me that I support that XXXX XXXX XXXX XXXX years ago and I there only source in this country to help. This not only will possibly effect the reputation of chase but could effect much more. Out of the natural assumptions that this limit would be at XXXX because of falling slightly behind due to a family members illness and having to take of work for a few weeks I had the credit card set up for paying towards my auto insurance. Which covers not only myself but the person that I care for that lives with me and there car. While I will be able to pay for the auto insurance this change in limit that was not properly disclosed effects everything else because it increases the usage limits and then suddenly changes my whole budget aspect when I already must deal with the ramifications of recovering from the pandemic still because of the added stresses of having to attend to another that lost their job. On top of this all the fact that work for a bank and I am in the position that reports these type of regulatory violation to the executive office is surprising albeit beneficial int eh same respects as I see first hand the frustrations of not being evidently aware and how those lack of Knowledge to the unaware persons effects them. My aim is to resolve this process by hopefully bringing my limit back to the original agreed upon amount of XXXX dollars. With respects I will say that I have the outmost respect for chase they are a stellar bank. However when something like this happens they should call directly leave a voicemail at least let it be known so that someone like me wont make a choice that will cause an issue."
+}
+
+Chunk:
+that will cause an issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.8005096912384033
+}

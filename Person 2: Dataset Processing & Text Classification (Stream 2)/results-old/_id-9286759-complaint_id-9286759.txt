@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9286759,
+  "complaint_id": "9286759",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America has a due date. I have always scheduled the payment to be withdrawn from our checking and it has not been an issue. Until about XXXX months ago they started delaying the payment process saying it takes a couple of days, even though its an electronic transfer. I have had to go in and cancel the scheduled on and apply one immediate ( which works and it is electronic ). And twice they have ignored the canceled scheduled payment and double withdrew from our checking which caused over drafts. Then they decreased our spending limit due to late payment. My husband travels and we XXXX our card almost monthly, we also pay it off monthly. But if they run late, not our fault, then they shut the card down which leaves us in a mess. Im going to drop the company but people should know.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "978XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Bank of America has a due date. I have always scheduled the payment to be withdrawn from our checking and it has not been an issue. Until about XXXX months ago they started delaying the payment process saying it takes a couple of days, even though its an electronic transfer. I have had to go in and cancel the scheduled on and apply one immediate ( which works and it is electronic ). And twice they have ignored the canceled scheduled payment and double withdrew from our checking which caused over drafts. Then they decreased our spending limit due to late payment. My husband travels and we XXXX our card almost monthly, we also pay it off monthly. But if they run late, not our fault, then they shut the card down which leaves us in a mess. Im going to drop the company but people should know."
+}
+
+Chunk:
+bank of america has a due date. i have always scheduled the payment to be withdrawn from our checking and it has not been an issue. until about xxxx months ago they started delaying the payment process saying it takes a couple of days, even though its an electronic transfer. i have had to go in and cancel the scheduled on and apply one immediate ( which works and it is electronic ). and twice they have ignored the canceled scheduled payment and double withdrew from our checking which caused over drafts. then they decreased our spending limit due to late payment. my husband travels and we xxxx our card almost monthly, we also pay it off monthly. but if they run late, not our fault, then they shut the card down which leaves us in a mess. im going to drop the company but people should know.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989786148071289
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9279479,
+  "complaint_id": "9279479",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello. \n\nI noticed a series of transactions that were charged to a credit card on XX/XX/XXXX / XXXX. The total amount charged was approximately {$5800.00}. I contacted Barclays immediately when i noted these on XX/XX/XXXX and notified Barclays of the unauthorized charges. I was advised that the charges would be reviewed/investigated and it could take a few days to investigate/ reverse the charges. A few days later I called them again to obtain an update. An update was not yet available. I contacted them again on XX/XX/XXXX. During the XX/XX/XXXX discussion with Barclays, Barclays informed me that my initial two calls were incorrectly processed by the bank and that nothing had been done regarding my account. I was then told that a proper request had now been submitted and that my inquiry would now be properly investigated and Barclays apologized for their error on the first two calls.\n\nAs of today, I still see the unauthorized charges on my account and Barclays has not provided any real explanation. Based on details and timing, i strongly believe that the charges were related to attempted fraud and that Barclays was at fault for allowing this to occur. This is just my belief as Barclays only provided details related to dates, etc. They did not provide me any more particulars. They did however confirm that my card was re-issued PRIOR to my first call or request for a re-issue. \n\nI would like these charges reversed and I would prefer to terminate the account given the poor customer experience.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Hello. \n\nI noticed a series of transactions that were charged to a credit card on XX/XX/XXXX / XXXX. The total amount charged was approximately {$5800.00}. I contacted Barclays immediately when i noted these on XX/XX/XXXX and notified Barclays of the unauthorized charges. I was advised that the charges would be reviewed/investigated and it could take a few days to investigate/ reverse the charges. A few days later I called them again to obtain an update. An update was not yet available. I contacted them again on XX/XX/XXXX. During the XX/XX/XXXX discussion with Barclays, Barclays informed me that my initial two calls were incorrectly processed by the bank and that nothing had been done regarding my account. I was then told that a proper request had now been submitted and that my inquiry would now be properly investigated and Barclays apologized for their error on the first two calls.\n\nAs of today, I still see the unauthorized charges on my account and Barclays has not provided any real explanation. Based on details and timing, i strongly believe that the charges were related to attempted fraud and that Barclays was at fault for allowing this to occur. This is just my belief as Barclays only provided details related to dates, etc. They did not provide me any more particulars. They did however confirm that my card was re-issued PRIOR to my first call or request for a re-issue. \n\nI would like these charges reversed and I would prefer to terminate the account given the poor customer experience."
+}
+
+Chunk:
+hello. i noticed a series of transactions that were charged to a credit card on xx / xx / xxxx / xxxx. the total amount charged was approximately { $ 5800. 00 }. i contacted barclays immediately when i noted these on xx / xx / xxxx and notified barclays of the unauthorized charges. i was advised that the charges would be reviewed / investigated and it could take a few days to investigate / reverse the charges. a few days later i called them again to obtain an update. an update was not yet available. i contacted them again on xx / xx / xxxx. during the xx / xx / xxxx discussion with barclays, barclays informed me that my initial two calls were incorrectly processed by the bank and that nothing had been done regarding my account. i was then told that a proper request had now been submitted and that my inquiry would now be properly investigated and barclays apologized for their error on the first two calls. as of today, i still see the unauthorized charges on my account and barclays has not provided any real explanation. based on details and timing, i strongly believe that the charges were related to attempted fraud and that barclays was at fault for allowing this to occur. this is just my belief as barclays only provided details related to dates, etc. they did not provide me any more particulars. they did however confirm that my card was re - issued prior to my first call or request for a re - issue. i would like these charges reversed and i would prefer to terminate the account given the poor customer experience.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994245767593384
+}

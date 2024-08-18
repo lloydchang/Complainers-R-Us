@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9000661,
+  "complaint_id": "9000661",
+  "product": "Credit card",
+  "complaint_what_happened": "I consistently make timely payments. I'm certain about this. What I'm unsure about is why this company is reporting me as late for certain months, which shouldn't be the case. According to USC 1666b, any billing errors should be corrected, or they'll be liable to pay me {$1000.00} for each account reporting inaccurately.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60101",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "I consistently make timely payments. I'm certain about this. What I'm unsure about is why this company is reporting me as late for certain months, which shouldn't be the case. According to USC 1666b, any billing errors should be corrected, or they'll be liable to pay me {$1000.00} for each account reporting inaccurately."
+}
+
+Chunk:
+i consistently make timely payments. i'm certain about this. what i'm unsure about is why this company is reporting me as late for certain months, which shouldn't be the case. according to usc 1666b, any billing errors should be corrected, or they'll be liable to pay me { $ 1000. 00 } for each account reporting inaccurately.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9438475966453552
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151123,
+  "complaint_id": "9151123",
+  "product": "Credit card",
+  "complaint_what_happened": "the goldman sach apple card support team or customer service team his hard to work with, they have a very high interest rate and the principal balances does not go down the interest rate has variable movements. pay more less interest rate pay less high interest rate. they have no team in place to help customer get back on track.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Charged too much interest",
+  "text": "the goldman sach apple card support team or customer service team his hard to work with, they have a very high interest rate and the principal balances does not go down the interest rate has variable movements. pay more less interest rate pay less high interest rate. they have no team in place to help customer get back on track."
+}
+
+Chunk:
+the goldman sach apple card support team or customer service team his hard to work with, they have a very high interest rate and the principal balances does not go down the interest rate has variable movements. pay more less interest rate pay less high interest rate. they have no team in place to help customer get back on track.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9885292649269104
+}

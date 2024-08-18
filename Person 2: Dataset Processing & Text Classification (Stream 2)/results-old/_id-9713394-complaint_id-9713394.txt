@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9713394,
+  "complaint_id": "9713394",
+  "product": "Credit card",
+  "complaint_what_happened": "On my credit report, I discovered that a Barclays credit card account had been opened on XX/XX/year>, without my consent. The card has a {$10000.00} limit, and {$8600.00} was immediately charged to the account, according to all credit bureaus. I informed Barclays over the phone that it was a bogus account and that I had not given anyone authorization to open it. I ask for the account to be closed and deleted off my credit report right away because it is a fraudulentaccountand I am not able to access it. They assured me that they fully understood, that the account would be closed immediately, and that their investigative team would be tasked with looking into the matter. On XX/XX/year>, I received a letter informing me that the account was determined to be valid. I remain responsible toBarclays Bank {$8600.00}, and they will keep reporting the account to credit bureaus as legitimate, which will negatively affect my credit history.I discovered this unauthorized account on XXXX XXXX when I was informed about the account on my credit report, which I immediately disputed with XXXX. Since then, I have been concerned about the potential impact on my credit history and financial security.",
+  "date_sent_to_company": "2024-08-05T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78245",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-08-05T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On my credit report, I discovered that a Barclays credit card account had been opened on XX/XX/year>, without my consent. The card has a {$10000.00} limit, and {$8600.00} was immediately charged to the account, according to all credit bureaus. I informed Barclays over the phone that it was a bogus account and that I had not given anyone authorization to open it. I ask for the account to be closed and deleted off my credit report right away because it is a fraudulentaccountand I am not able to access it. They assured me that they fully understood, that the account would be closed immediately, and that their investigative team would be tasked with looking into the matter. On XX/XX/year>, I received a letter informing me that the account was determined to be valid. I remain responsible toBarclays Bank {$8600.00}, and they will keep reporting the account to credit bureaus as legitimate, which will negatively affect my credit history.I discovered this unauthorized account on XXXX XXXX when I was informed about the account on my credit report, which I immediately disputed with XXXX. Since then, I have been concerned about the potential impact on my credit history and financial security."
+}
+
+Chunk:
+on my credit report, i discovered that a barclays credit card account had been opened on xx / xx / year >, without my consent. the card has a { $ 10000. 00 } limit, and { $ 8600. 00 } was immediately charged to the account, according to all credit bureaus. i informed barclays over the phone that it was a bogus account and that i had not given anyone authorization to open it. i ask for the account to be closed and deleted off my credit report right away because it is a fraudulentaccountand i am not able to access it. they assured me that they fully understood, that the account would be closed immediately, and that their investigative team would be tasked with looking into the matter. on xx / xx / year >, i received a letter informing me that the account was determined to be valid. i remain responsible tobarclays bank { $ 8600. 00 }, and they will keep reporting the account to credit bureaus as legitimate, which will negatively affect my credit history. i discovered this unauthorized account on xxxx xxxx when i was informed about the account on my credit report, which i immediately disputed with xxxx. since then, i have been concerned about the potential impact on my credit history and financial security.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995086193084717
+}

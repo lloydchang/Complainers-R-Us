@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9198075,
+  "complaint_id": "9198075",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a late payment on my credit report. I called & spoke with multiple representatives who assured me i was not late. I made payments on time every month. This is the 3rd maybe 4th time now i have had a problem with Wells Fargo. I even just made my payment of {$330.00} & have another payment scheduled for the XXXX of XXXX. The amount of issues i have been having with WF is very stressful. This happened last month as well & they removed the late payment. Im not sure why i keep having a problem but i am extremely disappointed.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "Store credit card",
+  "zip_code": "078XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "I received a late payment on my credit report. I called & spoke with multiple representatives who assured me i was not late. I made payments on time every month. This is the 3rd maybe 4th time now i have had a problem with Wells Fargo. I even just made my payment of {$330.00} & have another payment scheduled for the XXXX of XXXX. The amount of issues i have been having with WF is very stressful. This happened last month as well & they removed the late payment. Im not sure why i keep having a problem but i am extremely disappointed."
+}
+
+Chunk:
+i received a late payment on my credit report. i called & spoke with multiple representatives who assured me i was not late. i made payments on time every month. this is the 3rd maybe 4th time now i have had a problem with wells fargo. i even just made my payment of { $ 330. 00 } & have another payment scheduled for the xxxx of xxxx. the amount of issues i have been having with wf is very stressful. this happened last month as well & they removed the late payment. im not sure why i keep having a problem but i am extremely disappointed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9967246651649475
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9322969,
+  "complaint_id": "9322969",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony Bank XXXX XXXX XXXX XXXX XXXX XXXX XXXX FL XXXX Dear sir, Regarding the letter prepared on XX/XX/year>, I have already closed the account of your company, Synchrony Bank. I have already notified the credit bureaus and sent the complaints and disputes to CFPB and the NJ office of the attorney general. Since I already closed the account of your company, Synchrony Bank, and do not have any idea and intention to re-open the account with your bank credit card, I do not think I need to initiate an investigation and flag my information in your company system. I do not know what kind of system you have ; I believe due to the nature of your company, my card was closed ; therefore, I do not want to open any account with your company. I consider that your company does not have the right to obtain my personal information since the closure of my credit card with your company was suspicious. I consider you do not have the right to ask me to provide the personal information to flag in your company system. If you dare to flag my information in your company system, you need to clarify and notify the lists of your connected companies in your system to let the customers consider the security of personal information and give them the opportunities whether it is secure to provide the information in your system or network. You do not have the right to provide the customers information in your company network or system without the consent of customers. Therefore, I decline your idea of flag. \nSince I already have the identity theft report, I enclose the copy of it. \nSincerely,",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "076XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Synchrony Bank XXXX XXXX XXXX XXXX XXXX XXXX XXXX FL XXXX Dear sir, Regarding the letter prepared on XX/XX/year>, I have already closed the account of your company, Synchrony Bank. I have already notified the credit bureaus and sent the complaints and disputes to CFPB and the NJ office of the attorney general. Since I already closed the account of your company, Synchrony Bank, and do not have any idea and intention to re-open the account with your bank credit card, I do not think I need to initiate an investigation and flag my information in your company system. I do not know what kind of system you have ; I believe due to the nature of your company, my card was closed ; therefore, I do not want to open any account with your company. I consider that your company does not have the right to obtain my personal information since the closure of my credit card with your company was suspicious. I consider you do not have the right to ask me to provide the personal information to flag in your company system. If you dare to flag my information in your company system, you need to clarify and notify the lists of your connected companies in your system to let the customers consider the security of personal information and give them the opportunities whether it is secure to provide the information in your system or network. You do not have the right to provide the customers information in your company network or system without the consent of customers. Therefore, I decline your idea of flag. \nSince I already have the identity theft report, I enclose the copy of it. \nSincerely,"
+}
+
+Chunk:
+synchrony bank xxxx xxxx xxxx xxxx xxxx xxxx xxxx fl xxxx dear sir, regarding the letter prepared on xx / xx / year >, i have already closed the account of your company, synchrony bank. i have already notified the credit bureaus and sent the complaints and disputes to cfpb and the nj office of the attorney general. since i already closed the account of your company, synchrony bank, and do not have any idea and intention to re - open the account with your bank credit card, i do not think i need to initiate an investigation and flag my information in your company system. i do not know what kind of system you have ; i believe due to the nature of your company, my card was closed ; therefore, i do not want to open any account with your company. i consider that your company does not have the right to obtain my personal information since the closure of my credit card with your company was suspicious. i consider you do not have the right to ask me to provide the personal information to flag in your company system. if you dare to flag my information in your company system, you need to clarify and notify the lists of your connected companies in your system to let the customers consider the security of personal information and give them the opportunities whether it is secure to provide the information in your system or network. you do not have the right to provide the customers information in your company network or system without the consent of customers. therefore, i decline your idea of flag. since i already have the identity theft report, i enclose the copy of it. sincerely,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999119222164154
+}

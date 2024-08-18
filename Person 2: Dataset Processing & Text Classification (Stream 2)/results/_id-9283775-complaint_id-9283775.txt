@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9283775,
+  "complaint_id": "9283775",
+  "product": "Credit card",
+  "complaint_what_happened": "I just spoke with XXXX at carnival cruise master card through Barclays. They told me theres a balance from the interest on the account that was closed and was supposed to be 0 % to begin with. That was from the previous complaint, but since they responded to that one, I was unable to add this additional, new issue.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "73072",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "OK",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I just spoke with XXXX at carnival cruise master card through Barclays. They told me theres a balance from the interest on the account that was closed and was supposed to be 0 % to begin with. That was from the previous complaint, but since they responded to that one, I was unable to add this additional, new issue."
+}
+
+Chunk:
+i just spoke with xxxx at carnival cruise master card through barclays. they told me theres a balance from the interest on the account that was closed and was supposed to be 0 % to begin with. that was from the previous complaint, but since they responded to that one, i was unable to add this additional, new issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992805123329163
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9551720,
+  "complaint_id": "9551720",
+  "product": "Credit card",
+  "complaint_what_happened": "I have opened membership with Costco where they facilitate the customer to open a credit card with Citi, I had given my information SSN, address everything and they checked I was approved for credit card. Its approved on XX/XX/year> which suppose to be deliver in week but never delivered. I have called many times to Citi and Costco both but it didn't help. every time agent on call said \" your card will be delivered through XXXX we will expedite ''. It is around 2 months for calling them but nobody helped me. \nI have XXXX card but Costco do not allow payments with XXXX so I can not do my groceries from Costco even I paid for their membership. Citi and Costco forcing me to call back and forth to each other by saying thats is not thier issue.",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20148",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Delay in processing application",
+  "text": "I have opened membership with Costco where they facilitate the customer to open a credit card with Citi, I had given my information SSN, address everything and they checked I was approved for credit card. Its approved on XX/XX/year> which suppose to be deliver in week but never delivered. I have called many times to Citi and Costco both but it didn't help. every time agent on call said \" your card will be delivered through XXXX we will expedite ''. It is around 2 months for calling them but nobody helped me. \nI have XXXX card but Costco do not allow payments with XXXX so I can not do my groceries from Costco even I paid for their membership. Citi and Costco forcing me to call back and forth to each other by saying thats is not thier issue."
+}
+
+Chunk:
+i have opened membership with costco where they facilitate the customer to open a credit card with citi, i had given my information ssn, address everything and they checked i was approved for credit card. its approved on xx / xx / year > which suppose to be deliver in week but never delivered. i have called many times to citi and costco both but it didn't help. every time agent on call said " your card will be delivered through xxxx we will expedite''. it is around 2 months for calling them but nobody helped me. i have xxxx card but costco do not allow payments with xxxx so i can not do my groceries from costco even i paid for their membership. citi and costco forcing me to call back and forth to each other by saying thats is not thier issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974713325500488
+}

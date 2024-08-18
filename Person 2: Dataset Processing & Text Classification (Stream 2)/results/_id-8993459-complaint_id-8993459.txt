@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8993459,
+  "complaint_id": "8993459",
+  "product": "Credit card",
+  "complaint_what_happened": "I am missing XXXX XXXX points earned with my new JP Morgan Chase XXXX XXXX XXXX in XXXX. \n\nThe XXXX points earned were transferred to the wrong XXXX account number. Chase transferred it to the secondary card holder ( my husband ) instead of me, the primary card holder. \n\nXXXX, Supervisor at Chase told me XXXX XXXX XXXX told them on XX/XX/2024 that I need to call their Customer Service and request a merge of our accounts. \n\nXXXX at XXXX XXXX XXXX said that this is not a \" merge '' request. It's a correction request that only Chase can make.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am missing XXXX XXXX points earned with my new JP Morgan Chase XXXX XXXX XXXX in XXXX. \n\nThe XXXX points earned were transferred to the wrong XXXX account number. Chase transferred it to the secondary card holder ( my husband ) instead of me, the primary card holder. \n\nXXXX, Supervisor at Chase told me XXXX XXXX XXXX told them on XX/XX/2024 that I need to call their Customer Service and request a merge of our accounts. \n\nXXXX at XXXX XXXX XXXX said that this is not a \" merge '' request. It's a correction request that only Chase can make."
+}
+
+Chunk:
+i am missing xxxx xxxx points earned with my new jp morgan chase xxxx xxxx xxxx in xxxx. the xxxx points earned were transferred to the wrong xxxx account number. chase transferred it to the secondary card holder ( my husband ) instead of me, the primary card holder. xxxx, supervisor at chase told me xxxx xxxx xxxx told them on xx / xx / 2024 that i need to call their customer service and request a merge of our accounts. xxxx at xxxx xxxx xxxx said that this is not a " merge'' request. it's a correction request that only chase can make.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995902180671692
+}

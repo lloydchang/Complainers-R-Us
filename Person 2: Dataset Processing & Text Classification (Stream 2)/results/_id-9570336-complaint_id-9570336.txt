@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9570336,
+  "complaint_id": "9570336",
+  "product": "Credit card",
+  "complaint_what_happened": "I have tried multiple times over the past year to access my account. Citicards has consistently not been available to support, and online services lock me out of managing my card. I have been a customer for over 20 years, so I had a log in and password, but one day it stopped working and would not let me reset. I called, and the automated message said they weren't allowed to assist over the phone. I got to a human in customer support and they said they could only give me the tech support line. The tech support line disconnected the call multiple times, and also, once I was able to enter in a credit card number, told me they had no record of my account. I was able to access a chat support line where they were unable to generate a new log in code for my cell number, again that has been on file for 20 years. As of right now, I do not have access to view or pay or close my account and have consistently been blocked from getting access to it.",
+  "date_sent_to_company": "2024-07-20T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98407",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-20T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I have tried multiple times over the past year to access my account. Citicards has consistently not been available to support, and online services lock me out of managing my card. I have been a customer for over 20 years, so I had a log in and password, but one day it stopped working and would not let me reset. I called, and the automated message said they weren't allowed to assist over the phone. I got to a human in customer support and they said they could only give me the tech support line. The tech support line disconnected the call multiple times, and also, once I was able to enter in a credit card number, told me they had no record of my account. I was able to access a chat support line where they were unable to generate a new log in code for my cell number, again that has been on file for 20 years. As of right now, I do not have access to view or pay or close my account and have consistently been blocked from getting access to it."
+}
+
+Chunk:
+i have tried multiple times over the past year to access my account. citicards has consistently not been available to support, and online services lock me out of managing my card. i have been a customer for over 20 years, so i had a log in and password, but one day it stopped working and would not let me reset. i called, and the automated message said they weren't allowed to assist over the phone. i got to a human in customer support and they said they could only give me the tech support line. the tech support line disconnected the call multiple times, and also, once i was able to enter in a credit card number, told me they had no record of my account. i was able to access a chat support line where they were unable to generate a new log in code for my cell number, again that has been on file for 20 years. as of right now, i do not have access to view or pay or close my account and have consistently been blocked from getting access to it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995381832122803
+}

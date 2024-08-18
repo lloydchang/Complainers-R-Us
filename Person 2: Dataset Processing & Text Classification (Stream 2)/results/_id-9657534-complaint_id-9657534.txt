@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9657534,
+  "complaint_id": "9657534",
+  "product": "Credit card",
+  "complaint_what_happened": "Citi is demanding that I pay for a mattress that I cancelled in a timely fashion and did not take possession of. \n\n\nCiti.com sided with a merchant who denied my legal right to cancel an order within XXXX hours. \n\nOn an XX/XX/year> phone call, the owner of XXXX XXXX talked me into giving him my credit card number. He immediately charged my card for the standard, second-tier mattress model he wanted to sell me. He did not have a store. \n\nI decided to try mattresses in a store and canceled the order within XXXX hours. The mattress manufacturer, XXXX, states on its website that he could have canceled the order in that time frame. \n\nHe did not cancel the order with XXXX as I instructed but continued to push and harass me to take the mattress in a series of emails. \n\nOn XX/XX/XXXX, Citi emailed me my dispute erroneously listed goods not as described as the reason for the dispute, not as cancelled order. Cancelled order is what I had requested. The woman who took my dispute insisted on not as described, although I complained. Citi did not indicate they would fix the error. \n\nCiti gave the merchant until XX/XX/XXXX to respond. He responded with a bogus invoice that I had never seen or signed, I have only communicated with him by phone or email. That invoice is not in my emails. \n\nI protested and Citi reopened the case, but on XXXXXXXX XXXX, sent me a letter saying they had sided with the merchant who evaded my lawful right to cancel. Citi helped him. \n\nThat is a shabby way to treat me, a loyal Citicard holder for 25 years. \n\nI cancelled the order in a timely manner and have never taken possession of the mattress.",
+  "date_sent_to_company": "2024-08-02T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "08540",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Citi is demanding that I pay for a mattress that I cancelled in a timely fashion and did not take possession of. \n\n\nCiti.com sided with a merchant who denied my legal right to cancel an order within XXXX hours. \n\nOn an XX/XX/year> phone call, the owner of XXXX XXXX talked me into giving him my credit card number. He immediately charged my card for the standard, second-tier mattress model he wanted to sell me. He did not have a store. \n\nI decided to try mattresses in a store and canceled the order within XXXX hours. The mattress manufacturer, XXXX, states on its website that he could have canceled the order in that time frame. \n\nHe did not cancel the order with XXXX as I instructed but continued to push and harass me to take the mattress in a series of emails. \n\nOn XX/XX/XXXX, Citi emailed me my dispute erroneously listed goods not as described as the reason for the dispute, not as cancelled order. Cancelled order is what I had requested. The woman who took my dispute insisted on not as described, although I complained. Citi did not indicate they would fix the error. \n\nCiti gave the merchant until XX/XX/XXXX to respond. He responded with a bogus invoice that I had never seen or signed, I have only communicated with him by phone or email. That invoice is not in my emails. \n\nI protested and Citi reopened the case, but on XXXXXXXX XXXX, sent me a letter saying they had sided with the merchant who evaded my lawful right to cancel. Citi helped him. \n\nThat is a shabby way to treat me, a loyal Citicard holder for 25 years. \n\nI cancelled the order in a timely manner and have never taken possession of the mattress."
+}
+
+Chunk:
+citi is demanding that i pay for a mattress that i cancelled in a timely fashion and did not take possession of. citi. com sided with a merchant who denied my legal right to cancel an order within xxxx hours. on an xx / xx / year > phone call, the owner of xxxx xxxx talked me into giving him my credit card number. he immediately charged my card for the standard, second - tier mattress model he wanted to sell me. he did not have a store. i decided to try mattresses in a store and canceled the order within xxxx hours. the mattress manufacturer, xxxx, states on its website that he could have canceled the order in that time frame. he did not cancel the order with xxxx as i instructed but continued to push and harass me to take the mattress in a series of emails. on xx / xx / xxxx, citi emailed me my dispute erroneously listed goods not as described as the reason for the dispute, not as cancelled order. cancelled order is what i had requested. the woman who took my dispute insisted on not as described, although i complained. citi did not indicate they would fix the error. citi gave the merchant until xx / xx / xxxx to respond. he responded with a bogus invoice that i had never seen or signed, i have only communicated with him by phone or email. that invoice is not in my emails. i protested and citi reopened the case, but on xxxxxxxx xxxx, sent me a letter saying they had sided with the merchant who evaded my lawful right to cancel. citi helped him. that is a shabby way to treat me, a loyal citicard holder for 25 years. i cancelled the order in a timely manner and have never taken possession of the mattress.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990230798721313
+}

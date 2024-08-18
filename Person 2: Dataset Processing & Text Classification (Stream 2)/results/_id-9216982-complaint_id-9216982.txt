@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9216982,
+  "complaint_id": "9216982",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, which was yesterday, I paid on my Macys bill online on their website. It was paid online well before midnight Eastern time. I received a confirmation email stating the payment amount ( {$120.00} ), the scheduled posting date ( XX/XX/year> ), and my confirmation number ( I can provide it per your request ). On this same email with said information, it also says Payment requests received by midnight Eastern time will apply to your account the same day. If my payment was indeed late, the posting date would be different but it was not. The email says XX/XX/year>. Today I was charged an unjustifiable {$30.00} late fee on my account. I reached out to Macys immediately. I requested them to remove the late fee immediately because I paid my bill on time. Macys refused. This is frustrating to have babysit this account. I love shopping at Macys but this is definitely changing my relationship with them. I have been targeted while being a loyal paying customer and always pay my bill on time or even early. I should have to go through all of this, yet here I am again due to Macys. So disappointing and not right. Please remove the unjustified {$30.00} late fee immediately and provide more than just your apology. This takes a lot of time and effort to have to contact Macys, try to get this resolved with no resolve then have to come to CFPB to file a complaint for something Macys could have fixed the first time I contacted them or not have to fix at all if the charge was not charged when the bill was paid on time. Why treat me, a loyal paying customer, this way?",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "77089",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "On XX/XX/year>, which was yesterday, I paid on my Macys bill online on their website. It was paid online well before midnight Eastern time. I received a confirmation email stating the payment amount ( {$120.00} ), the scheduled posting date ( XX/XX/year> ), and my confirmation number ( I can provide it per your request ). On this same email with said information, it also says Payment requests received by midnight Eastern time will apply to your account the same day. If my payment was indeed late, the posting date would be different but it was not. The email says XX/XX/year>. Today I was charged an unjustifiable {$30.00} late fee on my account. I reached out to Macys immediately. I requested them to remove the late fee immediately because I paid my bill on time. Macys refused. This is frustrating to have babysit this account. I love shopping at Macys but this is definitely changing my relationship with them. I have been targeted while being a loyal paying customer and always pay my bill on time or even early. I should have to go through all of this, yet here I am again due to Macys. So disappointing and not right. Please remove the unjustified {$30.00} late fee immediately and provide more than just your apology. This takes a lot of time and effort to have to contact Macys, try to get this resolved with no resolve then have to come to CFPB to file a complaint for something Macys could have fixed the first time I contacted them or not have to fix at all if the charge was not charged when the bill was paid on time. Why treat me, a loyal paying customer, this way?"
+}
+
+Chunk:
+on xx / xx / year >, which was yesterday, i paid on my macys bill online on their website. it was paid online well before midnight eastern time. i received a confirmation email stating the payment amount ( { $ 120. 00 } ), the scheduled posting date ( xx / xx / year > ), and my confirmation number ( i can provide it per your request ). on this same email with said information, it also says payment requests received by midnight eastern time will apply to your account the same day. if my payment was indeed late, the posting date would be different but it was not. the email says xx / xx / year >. today i was charged an unjustifiable { $ 30. 00 } late fee on my account. i reached out to macys immediately. i requested them to remove the late fee immediately because i paid my bill on time. macys refused. this is frustrating to have babysit this account. i love shopping at macys but this is definitely changing my relationship with them. i have been targeted while being a loyal paying customer and always pay my bill on time or even early. i should have to go through all of this, yet here i am again due to macys. so disappointing and not right. please remove the unjustified { $ 30. 00 } late fee immediately and provide more than just your apology. this takes a lot of time and effort to have to contact macys, try to get this resolved with no resolve then have to come to cfpb to file a complaint for something macys could have fixed the first time i contacted them or not have to fix at all if the charge was not charged when the bill was paid on time. why treat me, a loyal paying customer, this way?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987643957138062
+}

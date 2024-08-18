@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9310269,
+  "complaint_id": "9310269",
+  "product": "Credit card",
+  "complaint_what_happened": "I have repeatedly requested that Citibank close my account, they tell me it's closed and yet they continue to process charges on a closed account and send me bills. Just now, I received a notice for a bill on account ending in XXXX in the amount of {$3.00}. This is just plain harassment.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "I have repeatedly requested that Citibank close my account, they tell me it's closed and yet they continue to process charges on a closed account and send me bills. Just now, I received a notice for a bill on account ending in XXXX in the amount of {$3.00}. This is just plain harassment."
+}
+
+Chunk:
+i have repeatedly requested that citibank close my account, they tell me it's closed and yet they continue to process charges on a closed account and send me bills. just now, i received a notice for a bill on account ending in xxxx in the amount of { $ 3. 00 }. this is just plain harassment.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996023774147034
+}

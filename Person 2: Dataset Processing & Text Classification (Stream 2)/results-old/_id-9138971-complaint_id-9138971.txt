@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9138971,
+  "complaint_id": "9138971",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to file a formal complaint regarding an unresolved issue with Klarna and XXXX. In XX/XX/year>, I placed an order on XXXX using a prepaid credit card issued by Klarna for the transaction. Unfortunately, I never received the ordered item. XXXX has acknowledged that the order did not arrive but informed me that the order is outside their refund window and advised me to contact my credit card issuer, Klarna. \n\nHowever, Klarna has refused to dispute the charge, citing XXXX 's refund policy. I have explained to Klarna that XXXX 's policy should not be relevant in this case, as this is a matter of a charge on my credit card for a product that was never delivered. Despite my explanation, Klarna remains uncooperative, leaving me without the product or a refund. \n\nI request the Consumer Financial Protection Bureau 's assistance in resolving this matter promptly.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11216",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Klarna AB",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to file a formal complaint regarding an unresolved issue with Klarna and XXXX. In XX/XX/year>, I placed an order on XXXX using a prepaid credit card issued by Klarna for the transaction. Unfortunately, I never received the ordered item. XXXX has acknowledged that the order did not arrive but informed me that the order is outside their refund window and advised me to contact my credit card issuer, Klarna. \n\nHowever, Klarna has refused to dispute the charge, citing XXXX 's refund policy. I have explained to Klarna that XXXX 's policy should not be relevant in this case, as this is a matter of a charge on my credit card for a product that was never delivered. Despite my explanation, Klarna remains uncooperative, leaving me without the product or a refund. \n\nI request the Consumer Financial Protection Bureau 's assistance in resolving this matter promptly."
+}
+
+Chunk:
+i am writing to file a formal complaint regarding an unresolved issue with klarna and xxxx. in xx / xx / year >, i placed an order on xxxx using a prepaid credit card issued by klarna for the transaction. unfortunately, i never received the ordered item. xxxx has acknowledged that the order did not arrive but informed me that the order is outside their refund window and advised me to contact my credit card issuer, klarna. however, klarna has refused to dispute the charge, citing xxxx's refund policy. i have explained to klarna that xxxx's policy should not be relevant in this case, as this is a matter of a charge on my credit card for a product that was never delivered. despite my explanation, klarna remains uncooperative, leaving me without the product or a refund. i request the consumer financial protection bureau's assistance in resolving this matter promptly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996048808097839
+}

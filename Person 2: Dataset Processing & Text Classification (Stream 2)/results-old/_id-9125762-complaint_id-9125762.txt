@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125762,
+  "complaint_id": "9125762",
+  "product": "Credit card",
+  "complaint_what_happened": "The credit card company offers travel insurance as a benefit of the card.Travel insurance covers trip delay.I submitted a claim for a trip delay however the company requests that I provide documentation form the airline about the delay and the airline doesnt provide this kind of information.I provided alternative notification about the delay but the credit card company is not accepting it, they also claim that they are not able to verify the delay of the flight.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20854",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Add-on products and services",
+  "text": "The credit card company offers travel insurance as a benefit of the card.Travel insurance covers trip delay.I submitted a claim for a trip delay however the company requests that I provide documentation form the airline about the delay and the airline doesnt provide this kind of information.I provided alternative notification about the delay but the credit card company is not accepting it, they also claim that they are not able to verify the delay of the flight."
+}
+
+Chunk:
+the credit card company offers travel insurance as a benefit of the card. travel insurance covers trip delay. i submitted a claim for a trip delay however the company requests that i provide documentation form the airline about the delay and the airline doesnt provide this kind of information. i provided alternative notification about the delay but the credit card company is not accepting it, they also claim that they are not able to verify the delay of the flight.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994685053825378
+}

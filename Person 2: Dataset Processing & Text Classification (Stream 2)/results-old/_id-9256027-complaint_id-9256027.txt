@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9256027,
+  "complaint_id": "9256027",
+  "product": "Credit card",
+  "complaint_what_happened": "I had closed my Macys credit card years ago because of high interest rates, so I currently do not have an open account with them. I received multiple emails stating my email had been changed on my Macys account, my shipping address had been changed and that two purchases totaling nearly XXXX had been charged on this card. The purchases were for two diamond rings for men, XXXX gold rings. At the same time my husband who has a discover card was receiving the same emails on his fraud messages for his discover about purchases thru Macys. It appears that someone used my husbands discover card account to open a guest Macys card and use my name, change the shipping and email addresses and charge these purchases. My husbands card had to be shut down and will be automatically refunded, but I have to wait to have macys receive their product back and have that money credited to that account before my credit is resolved. This affects my credit score.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "047XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "ME",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I had closed my Macys credit card years ago because of high interest rates, so I currently do not have an open account with them. I received multiple emails stating my email had been changed on my Macys account, my shipping address had been changed and that two purchases totaling nearly XXXX had been charged on this card. The purchases were for two diamond rings for men, XXXX gold rings. At the same time my husband who has a discover card was receiving the same emails on his fraud messages for his discover about purchases thru Macys. It appears that someone used my husbands discover card account to open a guest Macys card and use my name, change the shipping and email addresses and charge these purchases. My husbands card had to be shut down and will be automatically refunded, but I have to wait to have macys receive their product back and have that money credited to that account before my credit is resolved. This affects my credit score."
+}
+
+Chunk:
+i had closed my macys credit card years ago because of high interest rates, so i currently do not have an open account with them. i received multiple emails stating my email had been changed on my macys account, my shipping address had been changed and that two purchases totaling nearly xxxx had been charged on this card. the purchases were for two diamond rings for men, xxxx gold rings. at the same time my husband who has a discover card was receiving the same emails on his fraud messages for his discover about purchases thru macys. it appears that someone used my husbands discover card account to open a guest macys card and use my name, change the shipping and email addresses and charge these purchases. my husbands card had to be shut down and will be automatically refunded, but i have to wait to have macys receive their product back and have that money credited to that account before my credit is resolved. this affects my credit score.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993389248847961
+}

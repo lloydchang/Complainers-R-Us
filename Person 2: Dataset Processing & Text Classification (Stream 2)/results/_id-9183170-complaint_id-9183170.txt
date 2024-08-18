@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9183170,
+  "complaint_id": "9183170",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased online furniture and was allowed to apply for the record and even put things in my shopping cart. I later went and logged in the shopping cart was empty. And I was told a flat out misleading lie. I didnt have an account how can I be denied my own credit? I wasnt denied they got paid for the items I ordered them in attempt to defraud they claim. I didnt have account then it went I didnt qualify. Whatever lie they chose to try and continue to defraud is there issue. Im just seeking the things I chose to be delivered to address given. Without anymore attempts to defraud or steal. I will not play how much do I know legal games with the company. If ALL/EVERY item I chose I wish to be delivered to me XXXX hours from day they receive this complaint / notice thats is being given on a government platform. To start sending me my past, current and future debts. That way I can buy ky own furniture etc I do not want to be contacted unless their trying to set up a deliver date and where to send my debts. In the order stated if we can come to a swift fair. Ethical decision and agreement then I look forward to speaking to someone. This is a NOTICE as well as a complaint. I got the furniture for. Business I have and due to all this, it has hindered my business from moving forward and lost of potential income. Which goes into federal tort cause of action claim/complaint.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "39648",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "MS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I purchased online furniture and was allowed to apply for the record and even put things in my shopping cart. I later went and logged in the shopping cart was empty. And I was told a flat out misleading lie. I didnt have an account how can I be denied my own credit? I wasnt denied they got paid for the items I ordered them in attempt to defraud they claim. I didnt have account then it went I didnt qualify. Whatever lie they chose to try and continue to defraud is there issue. Im just seeking the things I chose to be delivered to address given. Without anymore attempts to defraud or steal. I will not play how much do I know legal games with the company. If ALL/EVERY item I chose I wish to be delivered to me XXXX hours from day they receive this complaint / notice thats is being given on a government platform. To start sending me my past, current and future debts. That way I can buy ky own furniture etc I do not want to be contacted unless their trying to set up a deliver date and where to send my debts. In the order stated if we can come to a swift fair. Ethical decision and agreement then I look forward to speaking to someone. This is a NOTICE as well as a complaint. I got the furniture for. Business I have and due to all this, it has hindered my business from moving forward and lost of potential income. Which goes into federal tort cause of action claim/complaint."
+}
+
+Chunk:
+i purchased online furniture and was allowed to apply for the record and even put things in my shopping cart. i later went and logged in the shopping cart was empty. and i was told a flat out misleading lie. i didnt have an account how can i be denied my own credit? i wasnt denied they got paid for the items i ordered them in attempt to defraud they claim. i didnt have account then it went i didnt qualify. whatever lie they chose to try and continue to defraud is there issue. im just seeking the things i chose to be delivered to address given. without anymore attempts to defraud or steal. i will not play how much do i know legal games with the company. if all / every item i chose i wish to be delivered to me xxxx hours from day they receive this complaint / notice thats is being given on a government platform. to start sending me my past, current and future debts. that way i can buy ky own furniture etc i do not want to be contacted unless their trying to set up a deliver date and where to send my debts. in the order stated if we can come to a swift fair. ethical decision and agreement then i look forward to speaking to someone. this is a notice as well as a complaint. i got the furniture for. business i have and due to all this, it has hindered my business from moving forward and lost of potential income. which goes into federal tort cause of action claim / complaint.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999093770980835
+}

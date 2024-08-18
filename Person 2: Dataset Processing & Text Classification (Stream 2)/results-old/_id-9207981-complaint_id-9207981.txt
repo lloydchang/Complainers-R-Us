@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9207981,
+  "complaint_id": "9207981",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, Chase and Southwest were offering a promotion where you spend $ XXXX in 3mo and you'd receive XXXX points and a Southwest XXXX XXXX. I signed paperwork for this promotion and applied/was approved on XX/XX/XXXX during the promotion window. I hit the required spend amount, but instead of giving me the XXXX + XXXX XXXX  promotion, they gave me XXXX points and no XXXX XXXX. After escalating this with Chase, their market research team came to the conclusion that I had received the correct offer of XXXX points and XXXX XXXX XXXX. They informed me that no further escalation could be made. \n\nThis is my last resort, as Chase has gone back on our cardmember agreement and refuses to honor the promotion I signed up for. I have email receipts showing I signed up on XX/XX/XXXX, but they still insist I got a different promotion. They have cost me thousands of dollars in lost rewards.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "21228",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year>, Chase and Southwest were offering a promotion where you spend $ XXXX in 3mo and you'd receive XXXX points and a Southwest XXXX XXXX. I signed paperwork for this promotion and applied/was approved on XX/XX/XXXX during the promotion window. I hit the required spend amount, but instead of giving me the XXXX + XXXX XXXX  promotion, they gave me XXXX points and no XXXX XXXX. After escalating this with Chase, their market research team came to the conclusion that I had received the correct offer of XXXX points and XXXX XXXX XXXX. They informed me that no further escalation could be made. \n\nThis is my last resort, as Chase has gone back on our cardmember agreement and refuses to honor the promotion I signed up for. I have email receipts showing I signed up on XX/XX/XXXX, but they still insist I got a different promotion. They have cost me thousands of dollars in lost rewards."
+}
+
+Chunk:
+on xx / xx / year >, chase and southwest were offering a promotion where you spend $ xxxx in 3mo and you'd receive xxxx points and a southwest xxxx xxxx. i signed paperwork for this promotion and applied / was approved on xx / xx / xxxx during the promotion window. i hit the required spend amount, but instead of giving me the xxxx + xxxx xxxx promotion, they gave me xxxx points and no xxxx xxxx. after escalating this with chase, their market research team came to the conclusion that i had received the correct offer of xxxx points and xxxx xxxx xxxx. they informed me that no further escalation could be made. this is my last resort, as chase has gone back on our cardmember agreement and refuses to honor the promotion i signed up for. i have email receipts showing i signed up on xx / xx / xxxx, but they still insist i got a different promotion. they have cost me thousands of dollars in lost rewards.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990586638450623
+}

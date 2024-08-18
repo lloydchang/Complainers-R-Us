@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9231066,
+  "complaint_id": "9231066",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX credit calls from Home Depot, XXXX XXXX, and Best buy.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "Store credit card",
+  "zip_code": "19808",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem canceling credit monitoring or identify theft protection service",
+  "text": "XXXX credit calls from Home Depot, XXXX XXXX, and Best buy."
+}
+
+Chunk:
+xxxx credit calls from home depot, xxxx xxxx, and best buy.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.989294171333313
+}

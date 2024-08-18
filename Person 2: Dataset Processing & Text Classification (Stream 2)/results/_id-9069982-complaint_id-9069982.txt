@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9069982,
+  "complaint_id": "9069982",
+  "product": "Credit card",
+  "complaint_what_happened": "My payment was one day late on XX/XX/XXXX rather than XX/XX/XXXX & first time ever. PNC charged me {$27.00} late fee on XX/XX/XXXX on my XXXXXXXX XXXX. I thought these fees were capped at {$8.00}?",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19147",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "My payment was one day late on XX/XX/XXXX rather than XX/XX/XXXX & first time ever. PNC charged me {$27.00} late fee on XX/XX/XXXX on my XXXXXXXX XXXX. I thought these fees were capped at {$8.00}?"
+}
+
+Chunk:
+my payment was one day late on xx / xx / xxxx rather than xx / xx / xxxx & first time ever. pnc charged me { $ 27. 00 } late fee on xx / xx / xxxx on my xxxxxxxx xxxx. i thought these fees were capped at { $ 8. 00 }?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9954026937484741
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9244512,
+  "complaint_id": "9244512",
+  "product": "Credit card",
+  "complaint_what_happened": "I paid off my credit card and per the disclosures I had there was no fee for not using the card. I couldnt use the card if I wanted to. The card did not work. \n\nI called to cancel my card after I got notice I owed {$12.00} for not using my card. I was notified my card had a block on it due to them not receiving photo ID from me. I was never notified that they needed this. They are adamant they sent me notice but I strongly disagree. \n\nThere is something wrong with this. This is a violation of XXXX XXXX XXXX in lending since they are citing disclosures that were not provided to me.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "281XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CLGF Holdco 1, LLC",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I paid off my credit card and per the disclosures I had there was no fee for not using the card. I couldnt use the card if I wanted to. The card did not work. \n\nI called to cancel my card after I got notice I owed {$12.00} for not using my card. I was notified my card had a block on it due to them not receiving photo ID from me. I was never notified that they needed this. They are adamant they sent me notice but I strongly disagree. \n\nThere is something wrong with this. This is a violation of XXXX XXXX XXXX in lending since they are citing disclosures that were not provided to me."
+}
+
+Chunk:
+i paid off my credit card and per the disclosures i had there was no fee for not using the card. i couldnt use the card if i wanted to. the card did not work. i called to cancel my card after i got notice i owed { $ 12. 00 } for not using my card. i was notified my card had a block on it due to them not receiving photo id from me. i was never notified that they needed this. they are adamant they sent me notice but i strongly disagree. there is something wrong with this. this is a violation of xxxx xxxx xxxx in lending since they are citing disclosures that were not provided to me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993465542793274
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9288717,
+  "complaint_id": "9288717",
+  "product": "Credit card",
+  "complaint_what_happened": "Convenience checks should not be sent to card holders unsolicited, and THE CARD ISSUER SHOULD BE REQUIRED TO PROVIDE PROMINENT INSTRUCTIONS AND DIRECT PHONE NUMBERS FOR OPTING OUT. Opt-out should take effect immediately, not with a 30-day grace period for the card issuer. Unsolicited checks are a serious security risk, especially since a mail thief could cash the checks before the account holder is aware that unsolicited checks were sent. \n\nOn XX/XX/year> I received XXXX unsolicited convenience checks associated with my Barclays Bank credit card without any information or phone number indicating that I could refuse the checks or opt out of future convenience check solicitations. The same day, it took XXXX tries calling the number on the back of my credit card to reach a live Barclays Bank customer service rep to enquire about opting out. The rep executed the opt-out order but told me that it could take 30 days for the opt-out to take effect.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90275",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with convenience check",
+  "text": "Convenience checks should not be sent to card holders unsolicited, and THE CARD ISSUER SHOULD BE REQUIRED TO PROVIDE PROMINENT INSTRUCTIONS AND DIRECT PHONE NUMBERS FOR OPTING OUT. Opt-out should take effect immediately, not with a 30-day grace period for the card issuer. Unsolicited checks are a serious security risk, especially since a mail thief could cash the checks before the account holder is aware that unsolicited checks were sent. \n\nOn XX/XX/year> I received XXXX unsolicited convenience checks associated with my Barclays Bank credit card without any information or phone number indicating that I could refuse the checks or opt out of future convenience check solicitations. The same day, it took XXXX tries calling the number on the back of my credit card to reach a live Barclays Bank customer service rep to enquire about opting out. The rep executed the opt-out order but told me that it could take 30 days for the opt-out to take effect."
+}
+
+Chunk:
+convenience checks should not be sent to card holders unsolicited, and the card issuer should be required to provide prominent instructions and direct phone numbers for opting out. opt - out should take effect immediately, not with a 30 - day grace period for the card issuer. unsolicited checks are a serious security risk, especially since a mail thief could cash the checks before the account holder is aware that unsolicited checks were sent. on xx / xx / year > i received xxxx unsolicited convenience checks associated with my barclays bank credit card without any information or phone number indicating that i could refuse the checks or opt out of future convenience check solicitations. the same day, it took xxxx tries calling the number on the back of my credit card to reach a live barclays bank customer service rep to enquire about opting out. the rep executed the opt - out order but told me that it could take 30 days for the opt - out to take effect.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982448816299438
+}

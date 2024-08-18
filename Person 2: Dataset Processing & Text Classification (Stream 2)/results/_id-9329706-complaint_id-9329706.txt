@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9329706,
+  "complaint_id": "9329706",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, my name is XXXX XXXX I have been reporting this account for also a XXXX XXXX XXXX I have never opened this account this and XXXX other accounts was open in my name and my identity has been compromised. I been telling that I have not open this account. The transactions are not mines. I dont even know what the card look like. I never received anything until my credit went from XXXX now its in the XXXX because someone open an account in my name. I need this report off my credit. I didnt know about this account & legally didnt sign for it.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48224",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Hello, my name is XXXX XXXX I have been reporting this account for also a XXXX XXXX XXXX I have never opened this account this and XXXX other accounts was open in my name and my identity has been compromised. I been telling that I have not open this account. The transactions are not mines. I dont even know what the card look like. I never received anything until my credit went from XXXX now its in the XXXX because someone open an account in my name. I need this report off my credit. I didnt know about this account & legally didnt sign for it."
+}
+
+Chunk:
+hello, my name is xxxx xxxx i have been reporting this account for also a xxxx xxxx xxxx i have never opened this account this and xxxx other accounts was open in my name and my identity has been compromised. i been telling that i have not open this account. the transactions are not mines. i dont even know what the card look like. i never received anything until my credit went from xxxx now its in the xxxx because someone open an account in my name. i need this report off my credit. i didnt know about this account & legally didnt sign for it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977344274520874
+}

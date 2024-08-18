@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9220207,
+  "complaint_id": "9220207",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a credit card thinking it's soft pull but it seems to be a hard pull. I'm requesting removal of inquire due to false advertisement. Thank you.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76244",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for a credit card thinking it's soft pull but it seems to be a hard pull. I'm requesting removal of inquire due to false advertisement. Thank you."
+}
+
+Chunk:
+i applied for a credit card thinking it's soft pull but it seems to be a hard pull. i'm requesting removal of inquire due to false advertisement. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9959167838096619
+}

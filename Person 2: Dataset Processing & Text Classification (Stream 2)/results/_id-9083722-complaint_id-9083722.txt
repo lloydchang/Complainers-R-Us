@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083722,
+  "complaint_id": "9083722",
+  "product": "Credit card",
+  "complaint_what_happened": "I wanted to sign into my Capital One account to apply for a savings/checking account and regain access to my Quicksilver card. When I called customer service, they said they could send a verification code to my new number to process the number change. This option did not work, so they asked me to send a copy of my drivers license using a link they emailed me. \n\nI did as requested, but the request was denied because the images were blurry. The second time, they asked me to resend the picture of my drivers license along with a screenshot of the reference number. I complied again, and it was denied once more. \n\nI called a third time about this issue, expressing my frustration as a customer. They then asked me to resend my drivers license along with a copy of the reference number and a written log of my address. Today, the claim was denied yet again. However, I applied for a new Capital One card using the same images requested to change my phone number and was approved. \n\nThey could not explain how my identity was verified for a new Capital One card application, yet still couldn't be verified for changing the phone number on my account, to sign in.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "308XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I wanted to sign into my Capital One account to apply for a savings/checking account and regain access to my Quicksilver card. When I called customer service, they said they could send a verification code to my new number to process the number change. This option did not work, so they asked me to send a copy of my drivers license using a link they emailed me. \n\nI did as requested, but the request was denied because the images were blurry. The second time, they asked me to resend the picture of my drivers license along with a screenshot of the reference number. I complied again, and it was denied once more. \n\nI called a third time about this issue, expressing my frustration as a customer. They then asked me to resend my drivers license along with a copy of the reference number and a written log of my address. Today, the claim was denied yet again. However, I applied for a new Capital One card using the same images requested to change my phone number and was approved. \n\nThey could not explain how my identity was verified for a new Capital One card application, yet still couldn't be verified for changing the phone number on my account, to sign in."
+}
+
+Chunk:
+i wanted to sign into my capital one account to apply for a savings / checking account and regain access to my quicksilver card. when i called customer service, they said they could send a verification code to my new number to process the number change. this option did not work, so they asked me to send a copy of my drivers license using a link they emailed me. i did as requested, but the request was denied because the images were blurry. the second time, they asked me to resend the picture of my drivers license along with a screenshot of the reference number. i complied again, and it was denied once more. i called a third time about this issue, expressing my frustration as a customer. they then asked me to resend my drivers license along with a copy of the reference number and a written log of my address. today, the claim was denied yet again. however, i applied for a new capital one card using the same images requested to change my phone number and was approved. they could not explain how my identity was verified for a new capital one card application, yet still couldn't be verified for changing the phone number on my account, to sign in.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999360978603363
+}

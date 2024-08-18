@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9012955,
+  "complaint_id": "9012955",
+  "product": "Credit card",
+  "complaint_what_happened": "Encountering an error suggesting a late payment on my account is unsettling, particularly because I have consistently adhered to payment deadlines. This inconsistency is generating unnecessary stress, and I implore you to swiftly rectify the situation by updating my records accordingly.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "53705",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Experian Information Solutions Inc.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Account status incorrect",
+  "text": "Encountering an error suggesting a late payment on my account is unsettling, particularly because I have consistently adhered to payment deadlines. This inconsistency is generating unnecessary stress, and I implore you to swiftly rectify the situation by updating my records accordingly."
+}
+
+Chunk:
+encountering an error suggesting a late payment on my account is unsettling, particularly because i have consistently adhered to payment deadlines. this inconsistency is generating unnecessary stress, and i implore you to swiftly rectify the situation by updating my records accordingly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994137287139893
+}

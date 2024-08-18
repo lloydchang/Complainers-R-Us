@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9213546,
+  "complaint_id": "9213546",
+  "product": "Credit card",
+  "complaint_what_happened": "A store clerk opened a Sephora store Credit Card without my consent. The date is unknown. The Credit Card displaying my name was never physically used by me for any purchase. I reached out to XXXX XXXX at XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX, MI XXXX, and was informed by their representative they are unaware of the invoice for the charges however, there is a total balance due of USD XXXX. \n\nI have not received an invoice for the charges to file a police report. \n\nI've contacted Sephora several times and was ignored after the attempts. \n\nSephora reported unpaid charges on my credit report for over ( 2 ) years and then sold the balance to a debt collector.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "10026",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "A store clerk opened a Sephora store Credit Card without my consent. The date is unknown. The Credit Card displaying my name was never physically used by me for any purchase. I reached out to XXXX XXXX at XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX, MI XXXX, and was informed by their representative they are unaware of the invoice for the charges however, there is a total balance due of USD XXXX. \n\nI have not received an invoice for the charges to file a police report. \n\nI've contacted Sephora several times and was ignored after the attempts. \n\nSephora reported unpaid charges on my credit report for over ( 2 ) years and then sold the balance to a debt collector."
+}
+
+Chunk:
+a store clerk opened a sephora store credit card without my consent. the date is unknown. the credit card displaying my name was never physically used by me for any purchase. i reached out to xxxx xxxx at xxxxxxxx xxxx xxxx xxxx xxxx xxxxxxxx, mi xxxx, and was informed by their representative they are unaware of the invoice for the charges however, there is a total balance due of usd xxxx. i have not received an invoice for the charges to file a police report. i've contacted sephora several times and was ignored after the attempts. sephora reported unpaid charges on my credit report for over ( 2 ) years and then sold the balance to a debt collector.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986574649810791
+}

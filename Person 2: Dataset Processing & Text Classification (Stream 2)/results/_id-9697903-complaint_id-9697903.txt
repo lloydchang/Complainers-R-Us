@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9697903,
+  "complaint_id": "9697903",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony back charged a total interest of {$1300.00} over the past two months.After tirelessly following up, they refunded {$980.00} and {$190.00} on two separate instances..But still a {$190.00} of interest is remaining for the full amount to be refunded, which I called customer care and got a response system not allowing. I'm logging this additional complaint to urge them to get that amount also refunded without fail..When i paid off the amount, that resulted in overpaying the outstanding balance..Included the statement showing the payment of {$3300.00} last month for a payoff. \n\nPlease note that through out the last year i was making regulat payments via autopay and suddently this high interests got changed in the month of may.As soon as i noticed this, paid off the full principal amount, with the interests remained in my account. Need assistance in getting this to correct this error and have them settle this reminder balance also.",
+  "date_sent_to_company": "2024-08-03T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "33579",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-08-03T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "Synchrony back charged a total interest of {$1300.00} over the past two months.After tirelessly following up, they refunded {$980.00} and {$190.00} on two separate instances..But still a {$190.00} of interest is remaining for the full amount to be refunded, which I called customer care and got a response system not allowing. I'm logging this additional complaint to urge them to get that amount also refunded without fail..When i paid off the amount, that resulted in overpaying the outstanding balance..Included the statement showing the payment of {$3300.00} last month for a payoff. \n\nPlease note that through out the last year i was making regulat payments via autopay and suddently this high interests got changed in the month of may.As soon as i noticed this, paid off the full principal amount, with the interests remained in my account. Need assistance in getting this to correct this error and have them settle this reminder balance also."
+}
+
+Chunk:
+synchrony back charged a total interest of { $ 1300. 00 } over the past two months. after tirelessly following up, they refunded { $ 980. 00 } and { $ 190. 00 } on two separate instances.. but still a { $ 190. 00 } of interest is remaining for the full amount to be refunded, which i called customer care and got a response system not allowing. i'm logging this additional complaint to urge them to get that amount also refunded without fail.. when i paid off the amount, that resulted in overpaying the outstanding balance.. included the statement showing the payment of { $ 3300. 00 } last month for a payoff. please note that through out the last year i was making regulat payments via autopay and suddently this high interests got changed in the month of may. as soon as i noticed this, paid off the full principal amount, with the interests remained in my account. need assistance in getting this to correct this error and have them settle this reminder balance also.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973289966583252
+}

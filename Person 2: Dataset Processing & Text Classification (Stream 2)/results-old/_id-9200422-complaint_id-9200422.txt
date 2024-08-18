@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9200422,
+  "complaint_id": "9200422",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a puppy from your business on XX/XX/2024. \n\nI was sold a puppy under fraudulent terms, specifically that she would be XXXX registered, which is not the case. Additionally, she is not in good health as promised. I was also told for the credit i took out, there would be no interest accrued for XXXX year and would pay a minimum of XXXX per month towards the balance. However, I got the paper billing statement 4 days ago, with the bill due in 2 days notice, and 29.99 % interest rate applies immediatley! These misrepresentations are a clear breach of our agreement and violate consumer protection laws.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "Store credit card",
+  "zip_code": "77546",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I purchased a puppy from your business on XX/XX/2024. \n\nI was sold a puppy under fraudulent terms, specifically that she would be XXXX registered, which is not the case. Additionally, she is not in good health as promised. I was also told for the credit i took out, there would be no interest accrued for XXXX year and would pay a minimum of XXXX per month towards the balance. However, I got the paper billing statement 4 days ago, with the bill due in 2 days notice, and 29.99 % interest rate applies immediatley! These misrepresentations are a clear breach of our agreement and violate consumer protection laws."
+}
+
+Chunk:
+i purchased a puppy from your business on xx / xx / 2024. i was sold a puppy under fraudulent terms, specifically that she would be xxxx registered, which is not the case. additionally, she is not in good health as promised. i was also told for the credit i took out, there would be no interest accrued for xxxx year and would pay a minimum of xxxx per month towards the balance. however, i got the paper billing statement 4 days ago, with the bill due in 2 days notice, and 29. 99 % interest rate applies immediatley! these misrepresentations are a clear breach of our agreement and violate consumer protection laws.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993898868560791
+}

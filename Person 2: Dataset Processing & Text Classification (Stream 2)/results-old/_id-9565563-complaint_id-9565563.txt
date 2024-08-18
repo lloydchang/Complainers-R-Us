@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9565563,
+  "complaint_id": "9565563",
+  "product": "Credit card",
+  "complaint_what_happened": "Late XX/XX/XXXX I received a Text from my credit union PenFed : -FreeMsg PenFed Fraud Alert We declined {$180.00} at XXXX XXXX XXXX XXXX for card ending XXXX on XX/XX/XXXX Was this you? Reply Y or N STOP to end alerts- I also received an email for the same information, which I responded to both immediately. Now as I read through everything, it does not indicate that the charge will now go through, so I call PenFed at XXXX and asked that exact question. She tells me that I am free to charge again. I ask, what does that mean? Do you go back and now allow the charge to go through? She says : NO, I have to do it because she can't ; and rudely mentions ; \" she is not me ''. Sadly at this point I was really upset about her attitude and matter-of-factly, lack of concern for anything at this top. I asked what was the criteria to decide if something was a fraud charge or now. And all she could say was ; \" the criteria for fraud changes all the time ''. I ask again, and further explain this charge to this company, has been made by me, every 6-8 weeks for years. How could this possibly be considered fraud? And her answer was the same. I then said, it sounds to me like PenFed is arbitrarily just pulling charges to be able to say \" we are doing all we can for fraud concerns ''. Which she said nothing and was quiet, I had to ask if she was still there. I know I was upset because I knew this would delay the automatic shipment of the much-needed XXXX dog  food that I was going to run out of this Sunday. So I told her I was not made at her and even apologize and mention I was mad at PF, and their random selection of what they could count as fraud to show, again they are doing their part.\n\nRight now, I'm really disappointed with PF because I've talked a few of my friends and relatives into moving to PF. About a month ago one of them mentioned that most of their credit card charges are being held or stopped saying FRAUD. I was surprised and mentioned that I've been with them for years and in most cases very happy with them. Now I'm embarrassed that I got them to move, because now I know the unbelievable inconvenience that can be for \" random charges being treated as FRAUD ''",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PENTAGON FEDERAL CREDIT UNION",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Late XX/XX/XXXX I received a Text from my credit union PenFed : -FreeMsg PenFed Fraud Alert We declined {$180.00} at XXXX XXXX XXXX XXXX for card ending XXXX on XX/XX/XXXX Was this you? Reply Y or N STOP to end alerts- I also received an email for the same information, which I responded to both immediately. Now as I read through everything, it does not indicate that the charge will now go through, so I call PenFed at XXXX and asked that exact question. She tells me that I am free to charge again. I ask, what does that mean? Do you go back and now allow the charge to go through? She says : NO, I have to do it because she can't ; and rudely mentions ; \" she is not me ''. Sadly at this point I was really upset about her attitude and matter-of-factly, lack of concern for anything at this top. I asked what was the criteria to decide if something was a fraud charge or now. And all she could say was ; \" the criteria for fraud changes all the time ''. I ask again, and further explain this charge to this company, has been made by me, every 6-8 weeks for years. How could this possibly be considered fraud? And her answer was the same. I then said, it sounds to me like PenFed is arbitrarily just pulling charges to be able to say \" we are doing all we can for fraud concerns ''. Which she said nothing and was quiet, I had to ask if she was still there. I know I was upset because I knew this would delay the automatic shipment of the much-needed XXXX dog  food that I was going to run out of this Sunday. So I told her I was not made at her and even apologize and mention I was mad at PF, and their random selection of what they could count as fraud to show, again they are doing their part.\n\nRight now, I'm really disappointed with PF because I've talked a few of my friends and relatives into moving to PF. About a month ago one of them mentioned that most of their credit card charges are being held or stopped saying FRAUD. I was surprised and mentioned that I've been with them for years and in most cases very happy with them. Now I'm embarrassed that I got them to move, because now I know the unbelievable inconvenience that can be for \" random charges being treated as FRAUD ''"
+}
+
+Chunk:
+inconvenience that can be for " random charges being treated as fraud''
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990026354789734
+}

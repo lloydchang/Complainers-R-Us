@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9284774,
+  "complaint_id": "9284774",
+  "product": "Credit card",
+  "complaint_what_happened": "I mailed in a cashier 's check in XXXXXXXX XXXX XXXX in which they cashed at the end of XX/XX/year>. Since then Citi Bank Costco Card has not applied the payment to my account. They continue to request a payment when one was mailed to them. I even mailed a copy of the processed check showing that they cashed it and they still will not post a payment. I've launched payment investigations with them and they will not respond back with any results.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "219XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I mailed in a cashier 's check in XXXXXXXX XXXX XXXX in which they cashed at the end of XX/XX/year>. Since then Citi Bank Costco Card has not applied the payment to my account. They continue to request a payment when one was mailed to them. I even mailed a copy of the processed check showing that they cashed it and they still will not post a payment. I've launched payment investigations with them and they will not respond back with any results."
+}
+
+Chunk:
+i mailed in a cashier's check in xxxxxxxx xxxx xxxx in which they cashed at the end of xx / xx / year >. since then citi bank costco card has not applied the payment to my account. they continue to request a payment when one was mailed to them. i even mailed a copy of the processed check showing that they cashed it and they still will not post a payment. i've launched payment investigations with them and they will not respond back with any results.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988759160041809
+}

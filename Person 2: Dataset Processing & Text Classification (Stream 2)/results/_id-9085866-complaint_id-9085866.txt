@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085866,
+  "complaint_id": "9085866",
+  "product": "Credit card",
+  "complaint_what_happened": "Details : we were on the trip with XXXX in XXXX. We were riding taxi in XXXX XXXX  XXXX from XXXX XXXX to our XXXX XXXX XXXX. The charge on my account from XXXX XXXX XXXX XXXX XXXX. We have never been in any restaurants that day. I am not even sure such restaurant exists. The taxi driver took my card and swiped it thru his portable reader. No receipt was given to me. \nMy account is setup so I get emails as soon as any charge more then XXXX cent appears on my account. When we came to the Hotel, my phone picked up network and I received an email with this charge of {$420.00}. I immediately called Citi card and explain what happened. I didn't know if taxi driver have saved my card information on his devise and I requested cards replacement. \nThe charge is still on my account. Citi security explanation of why dispute rejected is because card was physically used. \nThere were 4 of us in the taxi - my wife and my friends. I can provide their address and phone numbers if necessary. They are the witnesses of this fraudulent charge. \nWe have been with this credit card for more then 30 year, knowing that CITI cards will protect us from any kind of fraud transactions. CITI is NOT wiling to protect us from XXXX thieves. \nPlease help. \nXXXX XXXX",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48322",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Details : we were on the trip with XXXX in XXXX. We were riding taxi in XXXX XXXX  XXXX from XXXX XXXX to our XXXX XXXX XXXX. The charge on my account from XXXX XXXX XXXX XXXX XXXX. We have never been in any restaurants that day. I am not even sure such restaurant exists. The taxi driver took my card and swiped it thru his portable reader. No receipt was given to me. \nMy account is setup so I get emails as soon as any charge more then XXXX cent appears on my account. When we came to the Hotel, my phone picked up network and I received an email with this charge of {$420.00}. I immediately called Citi card and explain what happened. I didn't know if taxi driver have saved my card information on his devise and I requested cards replacement. \nThe charge is still on my account. Citi security explanation of why dispute rejected is because card was physically used. \nThere were 4 of us in the taxi - my wife and my friends. I can provide their address and phone numbers if necessary. They are the witnesses of this fraudulent charge. \nWe have been with this credit card for more then 30 year, knowing that CITI cards will protect us from any kind of fraud transactions. CITI is NOT wiling to protect us from XXXX thieves. \nPlease help. \nXXXX XXXX"
+}
+
+Chunk:
+details : we were on the trip with xxxx in xxxx. we were riding taxi in xxxx xxxx xxxx from xxxx xxxx to our xxxx xxxx xxxx. the charge on my account from xxxx xxxx xxxx xxxx xxxx. we have never been in any restaurants that day. i am not even sure such restaurant exists. the taxi driver took my card and swiped it thru his portable reader. no receipt was given to me. my account is setup so i get emails as soon as any charge more then xxxx cent appears on my account. when we came to the hotel, my phone picked up network and i received an email with this charge of { $ 420. 00 }. i immediately called citi card and explain what happened. i didn't know if taxi driver have saved my card information on his devise and i requested cards replacement. the charge is still on my account. citi security explanation of why dispute rejected is because card was physically used. there were 4 of us in the taxi - my wife and my friends. i can provide their address and phone numbers if necessary. they are the witnesses of this fraudulent charge. we have been with this credit card for more then 30 year, knowing that citi cards will protect us from any kind of fraud transactions. citi is not wiling to protect us from xxxx thieves. please help. xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977479577064514
+}

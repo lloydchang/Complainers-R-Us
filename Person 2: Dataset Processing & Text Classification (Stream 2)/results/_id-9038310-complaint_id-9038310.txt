@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9038310,
+  "complaint_id": "9038310",
+  "product": "Credit card",
+  "complaint_what_happened": "They talked me into signing up for a credit card or a wage access credit card and then they told me to put my direct deposit to that bank account that then they gave me a spending limit of {$100.00} until my paycheck went through on the next pay period well today was the next pay period my check was supposed to be direct deposited into my XXXX account after they took the XXXX dollars and now my check was deposited into their account, but there is no money to be found not in my account not in myReset account and not in my XXXX account so my paycheck is nowhere to be found. They won't email me back. They don't have a phone number to call them. I reached out several times. I have also contacted my employer and asked them if they could see if my check was sent to that account and they confirmed it was! So my paycheck is no where to be found and now I can't pay my rent or my car payment!",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "824XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Reset Financial Technologies, Inc.",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "WY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes the complaint is the result of a misunderstanding",
+  "sub_issue": "Other problem",
+  "text": "They talked me into signing up for a credit card or a wage access credit card and then they told me to put my direct deposit to that bank account that then they gave me a spending limit of {$100.00} until my paycheck went through on the next pay period well today was the next pay period my check was supposed to be direct deposited into my XXXX account after they took the XXXX dollars and now my check was deposited into their account, but there is no money to be found not in my account not in myReset account and not in my XXXX account so my paycheck is nowhere to be found. They won't email me back. They don't have a phone number to call them. I reached out several times. I have also contacted my employer and asked them if they could see if my check was sent to that account and they confirmed it was! So my paycheck is no where to be found and now I can't pay my rent or my car payment!"
+}
+
+Chunk:
+they talked me into signing up for a credit card or a wage access credit card and then they told me to put my direct deposit to that bank account that then they gave me a spending limit of { $ 100. 00 } until my paycheck went through on the next pay period well today was the next pay period my check was supposed to be direct deposited into my xxxx account after they took the xxxx dollars and now my check was deposited into their account, but there is no money to be found not in my account not in myreset account and not in my xxxx account so my paycheck is nowhere to be found. they won't email me back. they don't have a phone number to call them. i reached out several times. i have also contacted my employer and asked them if they could see if my check was sent to that account and they confirmed it was! so my paycheck is no where to be found and now i can't pay my rent or my car payment!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992881417274475
+}

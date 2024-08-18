@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9238744,
+  "complaint_id": "9238744",
+  "product": "Credit card",
+  "complaint_what_happened": "1. applied for XXXX XXXXXXXX credit card, no annual fee 0 % interest for 12 months on purchases and balance transfers. approved. got XXXX XXXX card in mail and set it up online. within one billing cycle I was charged 29.99 % interest. Tried to resolve with XXXX and was told my card doesnt have those terms. no assistance or resolutiuon 2. Edward Jones XXXX XXXXr Card, approved XX/XX/year>, managed by elan financial services. Exact same fraud noted in this credit card as listed in point one. I moved my expiring 0 % balances from other credit cards to Edward Jones for a 12 month 0 % interest APR on balance transfers and purchases then was with large fees for balance transfers, interest at 29.99 % on transfers and purchases. Spoke to XXXX on XX/XX/year> rep ID XXXX who was unable to assist me",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "18042",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "1. applied for XXXX XXXXXXXX credit card, no annual fee 0 % interest for 12 months on purchases and balance transfers. approved. got XXXX XXXX card in mail and set it up online. within one billing cycle I was charged 29.99 % interest. Tried to resolve with XXXX and was told my card doesnt have those terms. no assistance or resolutiuon 2. Edward Jones XXXX XXXXr Card, approved XX/XX/year>, managed by elan financial services. Exact same fraud noted in this credit card as listed in point one. I moved my expiring 0 % balances from other credit cards to Edward Jones for a 12 month 0 % interest APR on balance transfers and purchases then was with large fees for balance transfers, interest at 29.99 % on transfers and purchases. Spoke to XXXX on XX/XX/year> rep ID XXXX who was unable to assist me"
+}
+
+Chunk:
+1. applied for xxxx xxxxxxxx credit card, no annual fee 0 % interest for 12 months on purchases and balance transfers. approved. got xxxx xxxx card in mail and set it up online. within one billing cycle i was charged 29. 99 % interest. tried to resolve with xxxx and was told my card doesnt have those terms. no assistance or resolutiuon 2. edward jones xxxx xxxxr card, approved xx / xx / year >, managed by elan financial services. exact same fraud noted in this credit card as listed in point one. i moved my expiring 0 % balances from other credit cards to edward jones for a 12 month 0 % interest apr on balance transfers and purchases then was with large fees for balance transfers, interest at 29. 99 % on transfers and purchases. spoke to xxxx on xx / xx / year > rep id xxxx who was unable to assist me
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987407326698303
+}

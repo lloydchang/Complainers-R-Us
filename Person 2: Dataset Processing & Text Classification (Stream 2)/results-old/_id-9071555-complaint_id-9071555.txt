@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071555,
+  "complaint_id": "9071555",
+  "product": "Credit card",
+  "complaint_what_happened": "Barclays Bank had me on a payment plan that ended, and when it did I had a significant increase in medical bills that made it even more difficult to meet monthly payments. I missed one month and they dropped the payment plan and refused to work with me on creating a new one, and increased my minimum payment from {$220.00} to nearly {$1000.00}, which is impossible for me to pay with thousands of dollars of medical costs. I called every month to try to work with them and was told \" there is nothing we can do until you pay ''. I was now sent to collections for a XXXX XXXX  that I can not pay. I also have a {$220.00} scheduled payment through Barclays that I can not cancel online and the call representative told me to talk to XXXXXXXX XXXX XXXX XXXX XXXX even though the payment is scheduled through Barclays. It is very upsetting to be sent to collections despite being in constant contact with them and telling them that I am struggling financially. Also, they called constantly and I answered every time but the line dropped. I want to be able to pay my debt, I just need patience getting there and they were not willing to work with me at all.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Struggling to pay your bill",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60560",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't work with you while you're going through financial hardship",
+  "text": "Barclays Bank had me on a payment plan that ended, and when it did I had a significant increase in medical bills that made it even more difficult to meet monthly payments. I missed one month and they dropped the payment plan and refused to work with me on creating a new one, and increased my minimum payment from {$220.00} to nearly {$1000.00}, which is impossible for me to pay with thousands of dollars of medical costs. I called every month to try to work with them and was told \" there is nothing we can do until you pay ''. I was now sent to collections for a XXXX XXXX  that I can not pay. I also have a {$220.00} scheduled payment through Barclays that I can not cancel online and the call representative told me to talk to XXXXXXXX XXXX XXXX XXXX XXXX even though the payment is scheduled through Barclays. It is very upsetting to be sent to collections despite being in constant contact with them and telling them that I am struggling financially. Also, they called constantly and I answered every time but the line dropped. I want to be able to pay my debt, I just need patience getting there and they were not willing to work with me at all."
+}
+
+Chunk:
+barclays bank had me on a payment plan that ended, and when it did i had a significant increase in medical bills that made it even more difficult to meet monthly payments. i missed one month and they dropped the payment plan and refused to work with me on creating a new one, and increased my minimum payment from { $ 220. 00 } to nearly { $ 1000. 00 }, which is impossible for me to pay with thousands of dollars of medical costs. i called every month to try to work with them and was told " there is nothing we can do until you pay''. i was now sent to collections for a xxxx xxxx that i can not pay. i also have a { $ 220. 00 } scheduled payment through barclays that i can not cancel online and the call representative told me to talk to xxxxxxxx xxxx xxxx xxxx xxxx even though the payment is scheduled through barclays. it is very upsetting to be sent to collections despite being in constant contact with them and telling them that i am struggling financially. also, they called constantly and i answered every time but the line dropped. i want to be able to pay my debt, i just need patience getting there and they were not willing to work with me at all.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991210103034973
+}

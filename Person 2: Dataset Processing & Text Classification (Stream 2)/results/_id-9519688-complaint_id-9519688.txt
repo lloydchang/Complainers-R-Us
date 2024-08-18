@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9519688,
+  "complaint_id": "9519688",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment on or around the week of XX/XX/year>. The payment was for my Citibank credit card in the amount of {$100.00}. The payment was via XXXX from my checking account. The payment cleared and was credited to my account. I then made a second payment that same week for another {$100.00}. This time it was brought to my attention Citibank placed a hold on my payment until XX/XX/year> ; causing an undue delay. This is unfair and abusive. Please be advised I am submitting this same complaint with the BBB, FTC and OCC.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "907XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I made a payment on or around the week of XX/XX/year>. The payment was for my Citibank credit card in the amount of {$100.00}. The payment was via XXXX from my checking account. The payment cleared and was credited to my account. I then made a second payment that same week for another {$100.00}. This time it was brought to my attention Citibank placed a hold on my payment until XX/XX/year> ; causing an undue delay. This is unfair and abusive. Please be advised I am submitting this same complaint with the BBB, FTC and OCC."
+}
+
+Chunk:
+i made a payment on or around the week of xx / xx / year >. the payment was for my citibank credit card in the amount of { $ 100. 00 }. the payment was via xxxx from my checking account. the payment cleared and was credited to my account. i then made a second payment that same week for another { $ 100. 00 }. this time it was brought to my attention citibank placed a hold on my payment until xx / xx / year > ; causing an undue delay. this is unfair and abusive. please be advised i am submitting this same complaint with the bbb, ftc and occ.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993405938148499
+}

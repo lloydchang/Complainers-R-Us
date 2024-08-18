@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9213213,
+  "complaint_id": "9213213",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I received an email from Capitalone stating I am over {$430.00} over my credit limit, but my account has a negative balance of {$1300.00} for overpayment, yet they have my {$900.00} available credit unavailable plus saying I owe the XXXX over {$400.00}. But I paid that account to the point that I have a credit. If my account is showing a credit then how can I owe a balance as well. They cant explain that and this is not the first time this has taken place and usually I just paid.they keep performing fraud and charging me again for things Ive already paid. Even if I have a dispute, I still pay that amount. They need to be investigated for scams and fraud.",
+  "date_sent_to_company": "2024-06-09T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11230",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "XX/XX/XXXX I received an email from Capitalone stating I am over {$430.00} over my credit limit, but my account has a negative balance of {$1300.00} for overpayment, yet they have my {$900.00} available credit unavailable plus saying I owe the XXXX over {$400.00}. But I paid that account to the point that I have a credit. If my account is showing a credit then how can I owe a balance as well. They cant explain that and this is not the first time this has taken place and usually I just paid.they keep performing fraud and charging me again for things Ive already paid. Even if I have a dispute, I still pay that amount. They need to be investigated for scams and fraud."
+}
+
+Chunk:
+xx / xx / xxxx i received an email from capitalone stating i am over { $ 430. 00 } over my credit limit, but my account has a negative balance of { $ 1300. 00 } for overpayment, yet they have my { $ 900. 00 } available credit unavailable plus saying i owe the xxxx over { $ 400. 00 }. but i paid that account to the point that i have a credit. if my account is showing a credit then how can i owe a balance as well. they cant explain that and this is not the first time this has taken place and usually i just paid. they keep performing fraud and charging me again for things ive already paid. even if i have a dispute, i still pay that amount. they need to be investigated for scams and fraud.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984257221221924
+}

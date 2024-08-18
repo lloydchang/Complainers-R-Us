@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9351290,
+  "complaint_id": "9351290",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Consumer Financial Protection Bureau, I am writing to express my concern regarding a recent transaction with XXXX XXXX in XXXX, Texas, involving the purchase of a hot tub through a merchants purchasing agreement with Wells Fargo. I was not informed that this transaction would result in the issuance of a new credit card. I was led to believe that Wells Fargo was a guarantor of a loan. \n\nUpon receiving a new Wells Fargo credit card in the mail, I immediately contacted the salesman who handled the transaction. He expressed surprise and stated he was unaware that the agreement required opening a new credit card account ( which negatively affects credit scores ). He further verified with his accounting department, who confirmed that the Wells Fargo account involved was not classified as a credit card. However, my subsequent conversation with Wells Fargo confirmed that a new credit card account had indeed been opened in my name. \n\nI relayed my dissatisfaction to the salesman, who assured me he would inform his colleagues about the issue. Despite this, I am still deeply concerned about the lack of transparency and the misleading information provided during the transaction. \n\nI request your assistance in investigating this matter and ensuring that such practices are addressed to prevent future occurrences. \n\nThank you for your attention to this issue. \n\nSincerely,",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "77083",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Dear Consumer Financial Protection Bureau, I am writing to express my concern regarding a recent transaction with XXXX XXXX in XXXX, Texas, involving the purchase of a hot tub through a merchants purchasing agreement with Wells Fargo. I was not informed that this transaction would result in the issuance of a new credit card. I was led to believe that Wells Fargo was a guarantor of a loan. \n\nUpon receiving a new Wells Fargo credit card in the mail, I immediately contacted the salesman who handled the transaction. He expressed surprise and stated he was unaware that the agreement required opening a new credit card account ( which negatively affects credit scores ). He further verified with his accounting department, who confirmed that the Wells Fargo account involved was not classified as a credit card. However, my subsequent conversation with Wells Fargo confirmed that a new credit card account had indeed been opened in my name. \n\nI relayed my dissatisfaction to the salesman, who assured me he would inform his colleagues about the issue. Despite this, I am still deeply concerned about the lack of transparency and the misleading information provided during the transaction. \n\nI request your assistance in investigating this matter and ensuring that such practices are addressed to prevent future occurrences. \n\nThank you for your attention to this issue. \n\nSincerely,"
+}
+
+Chunk:
+dear consumer financial protection bureau, i am writing to express my concern regarding a recent transaction with xxxx xxxx in xxxx, texas, involving the purchase of a hot tub through a merchants purchasing agreement with wells fargo. i was not informed that this transaction would result in the issuance of a new credit card. i was led to believe that wells fargo was a guarantor of a loan. upon receiving a new wells fargo credit card in the mail, i immediately contacted the salesman who handled the transaction. he expressed surprise and stated he was unaware that the agreement required opening a new credit card account ( which negatively affects credit scores ). he further verified with his accounting department, who confirmed that the wells fargo account involved was not classified as a credit card. however, my subsequent conversation with wells fargo confirmed that a new credit card account had indeed been opened in my name. i relayed my dissatisfaction to the salesman, who assured me he would inform his colleagues about the issue. despite this, i am still deeply concerned about the lack of transparency and the misleading information provided during the transaction. i request your assistance in investigating this matter and ensuring that such practices are addressed to prevent future occurrences. thank you for your attention to this issue. sincerely,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.6056283712387085
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9512330,
+  "complaint_id": "9512330",
+  "product": "Credit card",
+  "complaint_what_happened": "As of XX/XX/XXXX Barclay Bank of Delaware, reported on my credit report a credit card as a charge off. A 1099-c was not provided in reference to this account. \n\n\nAccount name BARCLAYS BANK DELAWARE Account number XXXX Account type Credit Card Responsibility Individual Date opened XX/XX/XXXX Status Account charged off. {$3.00}, XXXX written off. {$4.00}, XXXX past due as of XX/XX/XXXX. \nStatus updated XX/XX/XXXX Balance {$4800.00} Balance updated XX/XX/XXXX",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "43040",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "OH",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "As of XX/XX/XXXX Barclay Bank of Delaware, reported on my credit report a credit card as a charge off. A 1099-c was not provided in reference to this account. \n\n\nAccount name BARCLAYS BANK DELAWARE Account number XXXX Account type Credit Card Responsibility Individual Date opened XX/XX/XXXX Status Account charged off. {$3.00}, XXXX written off. {$4.00}, XXXX past due as of XX/XX/XXXX. \nStatus updated XX/XX/XXXX Balance {$4800.00} Balance updated XX/XX/XXXX"
+}
+
+Chunk:
+as of xx / xx / xxxx barclay bank of delaware, reported on my credit report a credit card as a charge off. a 1099 - c was not provided in reference to this account. account name barclays bank delaware account number xxxx account type credit card responsibility individual date opened xx / xx / xxxx status account charged off. { $ 3. 00 }, xxxx written off. { $ 4. 00 }, xxxx past due as of xx / xx / xxxx. status updated xx / xx / xxxx balance { $ 4800. 00 } balance updated xx / xx / xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9967603087425232
+}

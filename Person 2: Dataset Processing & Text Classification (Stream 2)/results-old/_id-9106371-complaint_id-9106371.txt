@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9106371,
+  "complaint_id": "9106371",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I have filed three complaints on Synchrony Bank for not closing a fake account in my name in XX/XX/XXXX. Synchrony refused to close the card which w\n\nas an Amazon credit card. Then when they closed the card, It was a balance over {$5000.00}. Synchrony Bak put on my credit report and runin my credit score. I contact the credit report company and sent information about how I contact the bank and the report I filed with the XXXX  and the credit report company XXXX XXXX report the information off of my credit report. \n\nThen a few months later I started getting letters from Amazon Credit Card. Synchrony Bank is still trying to ruin my credit score. I get at least one bill a month from Amazon Credit card. The Amaonzon credit card is issue by Synchrony Bank. This bank is still trying to ruin my finacial record.\n\nI need CFPB to do something here. This is unethical and you know it.\n\nI want to file the complaint against Amazon Credit Card Company. They are filling report on my credit report after XXXX XXXX removed the false information.",
+  "date_sent_to_company": "2024-05-27T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "30909",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-27T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "XX/XX/XXXX I have filed three complaints on Synchrony Bank for not closing a fake account in my name in XX/XX/XXXX. Synchrony refused to close the card which w\n\nas an Amazon credit card. Then when they closed the card, It was a balance over {$5000.00}. Synchrony Bak put on my credit report and runin my credit score. I contact the credit report company and sent information about how I contact the bank and the report I filed with the XXXX  and the credit report company XXXX XXXX report the information off of my credit report. \n\nThen a few months later I started getting letters from Amazon Credit Card. Synchrony Bank is still trying to ruin my credit score. I get at least one bill a month from Amazon Credit card. The Amaonzon credit card is issue by Synchrony Bank. This bank is still trying to ruin my finacial record.\n\nI need CFPB to do something here. This is unethical and you know it.\n\nI want to file the complaint against Amazon Credit Card Company. They are filling report on my credit report after XXXX XXXX removed the false information."
+}
+
+Chunk:
+xx / xx / xxxx i have filed three complaints on synchrony bank for not closing a fake account in my name in xx / xx / xxxx. synchrony refused to close the card which w as an amazon credit card. then when they closed the card, it was a balance over { $ 5000. 00 }. synchrony bak put on my credit report and runin my credit score. i contact the credit report company and sent information about how i contact the bank and the report i filed with the xxxx and the credit report company xxxx xxxx report the information off of my credit report. then a few months later i started getting letters from amazon credit card. synchrony bank is still trying to ruin my credit score. i get at least one bill a month from amazon credit card. the amaonzon credit card is issue by synchrony bank. this bank is still trying to ruin my finacial record. i need cfpb to do something here. this is unethical and you know it. i want to file the complaint against amazon credit card company. they are filling report on my credit report after xxxx xxxx removed the false information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996539354324341
+}

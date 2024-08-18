@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9265544,
+  "complaint_id": "9265544",
+  "product": "Credit card",
+  "complaint_what_happened": "Credit card was at a 0 % interest rate when reviewed account noticed I was charged an interest charge, I paid the account in full immediately and called Capital One to find out why I was not notified. There is a change in the interest rate and a statement ( which I did not received ). One proceeded to tell me that it is not there practice to notify customers of a change in the interest rate. This practice is very deceptive and unfair as rate change a customer should be notified or made aware of.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60060",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Credit card was at a 0 % interest rate when reviewed account noticed I was charged an interest charge, I paid the account in full immediately and called Capital One to find out why I was not notified. There is a change in the interest rate and a statement ( which I did not received ). One proceeded to tell me that it is not there practice to notify customers of a change in the interest rate. This practice is very deceptive and unfair as rate change a customer should be notified or made aware of."
+}
+
+Chunk:
+credit card was at a 0 % interest rate when reviewed account noticed i was charged an interest charge, i paid the account in full immediately and called capital one to find out why i was not notified. there is a change in the interest rate and a statement ( which i did not received ). one proceeded to tell me that it is not there practice to notify customers of a change in the interest rate. this practice is very deceptive and unfair as rate change a customer should be notified or made aware of.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993077516555786
+}

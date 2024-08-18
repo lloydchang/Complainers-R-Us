@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9709971,
+  "complaint_id": "9709971",
+  "product": "Credit card",
+  "complaint_what_happened": "I was misled and wrongfully charged at XXXX XXXX  monthly maintenance fee on my XXXX statement when on the bottom of the XXXX statement where it specifically States \" please note '' on the second part of the paragraph it says if you wish to avoid being charged a monthly maintenance fee you must close your account before the end of the current billing cycle which I did I close it on XX/XX/XXXX and the end of the current billing cycle was XX/XX/XXXX. Once I close the account with the representative at surge customer service I specifically asked her if I would be charged a monthly maintenance fee and she said I would not. Also when it asks for the credit card number I only put the last XXXX of the credit card number I no longer have the card once I close the account I destroyed it.",
+  "date_sent_to_company": "2024-08-05T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "660XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-08-05T12:00:00-05:00",
+  "state": "KS",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I was misled and wrongfully charged at XXXX XXXX  monthly maintenance fee on my XXXX statement when on the bottom of the XXXX statement where it specifically States \" please note '' on the second part of the paragraph it says if you wish to avoid being charged a monthly maintenance fee you must close your account before the end of the current billing cycle which I did I close it on XX/XX/XXXX and the end of the current billing cycle was XX/XX/XXXX. Once I close the account with the representative at surge customer service I specifically asked her if I would be charged a monthly maintenance fee and she said I would not. Also when it asks for the credit card number I only put the last XXXX of the credit card number I no longer have the card once I close the account I destroyed it."
+}
+
+Chunk:
+i was misled and wrongfully charged at xxxx xxxx monthly maintenance fee on my xxxx statement when on the bottom of the xxxx statement where it specifically states " please note'' on the second part of the paragraph it says if you wish to avoid being charged a monthly maintenance fee you must close your account before the end of the current billing cycle which i did i close it on xx / xx / xxxx and the end of the current billing cycle was xx / xx / xxxx. once i close the account with the representative at surge customer service i specifically asked her if i would be charged a monthly maintenance fee and she said i would not. also when it asks for the credit card number i only put the last xxxx of the credit card number i no longer have the card once i close the account i destroyed it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994669556617737
+}

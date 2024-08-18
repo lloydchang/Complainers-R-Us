@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9219685,
+  "complaint_id": "9219685",
+  "product": "Credit card",
+  "complaint_what_happened": "I was informed on XX/XX/year> that an XXXX XXXX  subscription, that I did not want to renew, was set to renew. So I went in, logged into the account, cancelled the auto renew, and informed them that I did not wish to renew via email, and got no response from them via email. The next day, I called them, and they said the renewal already went through and therefore I could not cancel a subscription I did not want or need. I had used my Target Red Card at the time for this transaction. So I put in a dispute with Target and explained the situation. They did not solve my dispute, sent mail to my mail box that would arrive the same exact day they wanted the mail to be returned by to proceed with the dispute, and generally did not seem very keen on wanting to help me with my dispute the way that XXXX XXXX has always managed to when I had issues with a merchant. I got a denial letter of my dispute from Target Card Services saying incorrectly that I tried to cancel on XX/XX/XXXX, when in reality I cancelled XX/XX/XXXX. Additionally, my credit card charge for XXXX XXXX had been in the pending stage when I had first attempted to dispute the charge, meaning I did attempt to cancel the subscription before it was even an official charge on my statement, and XXXX XXXX cited a policy that counts on Americans forgetting about their subscriptions and being charged for them. I did not intend to use American Greetings this year, and I would like some resolution because both companies have failed me. Even if CFPB can not help solve this issue, at least I tried.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60657",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was informed on XX/XX/year> that an XXXX XXXX  subscription, that I did not want to renew, was set to renew. So I went in, logged into the account, cancelled the auto renew, and informed them that I did not wish to renew via email, and got no response from them via email. The next day, I called them, and they said the renewal already went through and therefore I could not cancel a subscription I did not want or need. I had used my Target Red Card at the time for this transaction. So I put in a dispute with Target and explained the situation. They did not solve my dispute, sent mail to my mail box that would arrive the same exact day they wanted the mail to be returned by to proceed with the dispute, and generally did not seem very keen on wanting to help me with my dispute the way that XXXX XXXX has always managed to when I had issues with a merchant. I got a denial letter of my dispute from Target Card Services saying incorrectly that I tried to cancel on XX/XX/XXXX, when in reality I cancelled XX/XX/XXXX. Additionally, my credit card charge for XXXX XXXX had been in the pending stage when I had first attempted to dispute the charge, meaning I did attempt to cancel the subscription before it was even an official charge on my statement, and XXXX XXXX cited a policy that counts on Americans forgetting about their subscriptions and being charged for them. I did not intend to use American Greetings this year, and I would like some resolution because both companies have failed me. Even if CFPB can not help solve this issue, at least I tried."
+}
+
+Chunk:
+i was informed on xx / xx / year > that an xxxx xxxx subscription, that i did not want to renew, was set to renew. so i went in, logged into the account, cancelled the auto renew, and informed them that i did not wish to renew via email, and got no response from them via email. the next day, i called them, and they said the renewal already went through and therefore i could not cancel a subscription i did not want or need. i had used my target red card at the time for this transaction. so i put in a dispute with target and explained the situation. they did not solve my dispute, sent mail to my mail box that would arrive the same exact day they wanted the mail to be returned by to proceed with the dispute, and generally did not seem very keen on wanting to help me with my dispute the way that xxxx xxxx has always managed to when i had issues with a merchant. i got a denial letter of my dispute from target card services saying incorrectly that i tried to cancel on xx / xx / xxxx, when in reality i cancelled xx / xx / xxxx. additionally, my credit card charge for xxxx xxxx had been in the pending stage when i had first attempted to dispute the charge, meaning i did attempt to cancel the subscription before it was even an official charge on my statement, and xxxx xxxx cited a policy that counts on americans forgetting about their subscriptions and being charged for them. i did not intend to use american greetings this year, and i would like some resolution because both companies have failed me. even if cfpb can not help solve this issue, at least i tried.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991768002510071
+}

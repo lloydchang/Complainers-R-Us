@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9032729,
+  "complaint_id": "9032729",
+  "product": "Credit card",
+  "complaint_what_happened": "Synchrony bank closed an account ( XXXX XXXX XXXX XXXX ) with someone's personal slanderous, maligning opinion. \" Activity in account ( XXXX ) with synchrony bank indicative of high risk of \" failure to pay. '' Account they are referring to has never had a late payment ever and I did NOT enroll this account as I felt justified in paying entire amount. Second I am in a XXXX XXXX XXXX XXXX, in which I have already settled 75 % accounts with these bloodsuckers including their \" inflation '' charges. They put another negative statement on my credit where it would have shown I paid it all off and closed in good standing. If I were at high risk of failure to pay, why are they getting paid above principal on amounts they have jacked up another 30 % bs fees on? This company is NOT willing to work with consumers. Until you bring in a third party, they are worthless. This company is an ambulance chaser buying up all credit card companies, putting the working person in financial bankruptcy. I could have filed, or just not paid a dime and let them write them all off. Really motivates me to NOT want to pay these vampires another dime on any remaining accounts.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "Store credit card",
+  "zip_code": "985XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "Synchrony bank closed an account ( XXXX XXXX XXXX XXXX ) with someone's personal slanderous, maligning opinion. \" Activity in account ( XXXX ) with synchrony bank indicative of high risk of \" failure to pay. '' Account they are referring to has never had a late payment ever and I did NOT enroll this account as I felt justified in paying entire amount. Second I am in a XXXX XXXX XXXX XXXX, in which I have already settled 75 % accounts with these bloodsuckers including their \" inflation '' charges. They put another negative statement on my credit where it would have shown I paid it all off and closed in good standing. If I were at high risk of failure to pay, why are they getting paid above principal on amounts they have jacked up another 30 % bs fees on? This company is NOT willing to work with consumers. Until you bring in a third party, they are worthless. This company is an ambulance chaser buying up all credit card companies, putting the working person in financial bankruptcy. I could have filed, or just not paid a dime and let them write them all off. Really motivates me to NOT want to pay these vampires another dime on any remaining accounts."
+}
+
+Chunk:
+synchrony bank closed an account ( xxxx xxxx xxxx xxxx ) with someone's personal slanderous, maligning opinion. " activity in account ( xxxx ) with synchrony bank indicative of high risk of " failure to pay.'' account they are referring to has never had a late payment ever and i did not enroll this account as i felt justified in paying entire amount. second i am in a xxxx xxxx xxxx xxxx, in which i have already settled 75 % accounts with these bloodsuckers including their " inflation'' charges. they put another negative statement on my credit where it would have shown i paid it all off and closed in good standing. if i were at high risk of failure to pay, why are they getting paid above principal on amounts they have jacked up another 30 % bs fees on? this company is not willing to work with consumers. until you bring in a third party, they are worthless. this company is an ambulance chaser buying up all credit card companies, putting the working person in financial bankruptcy. i could have filed, or just not paid a dime and let them write them all off. really motivates me to not want to pay these vampires another dime on any remaining accounts.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999466598033905
+}

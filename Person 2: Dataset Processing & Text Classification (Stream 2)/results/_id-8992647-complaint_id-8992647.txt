@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 8992647,
+  "complaint_id": "8992647",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX I proceeded to make a payment on an account with Wells Fargo. I was wanting to make XXXX of the last XXXX payments to my Wells Fargo account. The final amount was {$800.00}. When I went on-line to make a payment, a message appeared on the page telling me that I had exceeded the daily or monthly payments of on-line payments this month. This was a promotional item that was purchased a year ago in XXXX. If I dont pay it by XXXX, I will accrue the interest since the date of purchase. Didnt know that you can only make XXXX on-line payments a month, or daily with Wells Fargo. This is a fine example of consumer price gouging. Never heard of a company, bank, or government only allowing a consumer XXXX payments per day or month. This institution is only interested in making money, and not taking care of customers. They need to be XXXX in a corner and XXXX. Just like they are doing to us.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "AR",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "XXXX I proceeded to make a payment on an account with Wells Fargo. I was wanting to make XXXX of the last XXXX payments to my Wells Fargo account. The final amount was {$800.00}. When I went on-line to make a payment, a message appeared on the page telling me that I had exceeded the daily or monthly payments of on-line payments this month. This was a promotional item that was purchased a year ago in XXXX. If I dont pay it by XXXX, I will accrue the interest since the date of purchase. Didnt know that you can only make XXXX on-line payments a month, or daily with Wells Fargo. This is a fine example of consumer price gouging. Never heard of a company, bank, or government only allowing a consumer XXXX payments per day or month. This institution is only interested in making money, and not taking care of customers. They need to be XXXX in a corner and XXXX. Just like they are doing to us."
+}
+
+Chunk:
+xxxx i proceeded to make a payment on an account with wells fargo. i was wanting to make xxxx of the last xxxx payments to my wells fargo account. the final amount was { $ 800. 00 }. when i went on - line to make a payment, a message appeared on the page telling me that i had exceeded the daily or monthly payments of on - line payments this month. this was a promotional item that was purchased a year ago in xxxx. if i dont pay it by xxxx, i will accrue the interest since the date of purchase. didnt know that you can only make xxxx on - line payments a month, or daily with wells fargo. this is a fine example of consumer price gouging. never heard of a company, bank, or government only allowing a consumer xxxx payments per day or month. this institution is only interested in making money, and not taking care of customers. they need to be xxxx in a corner and xxxx. just like they are doing to us.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979616403579712
+}

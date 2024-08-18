@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9299246,
+  "complaint_id": "9299246",
+  "product": "Credit card",
+  "complaint_what_happened": "I have an XXXX branded card through Synchrony bank. Four days ago my card was just over it's credit limit of {$1500.00} so I made a payment of {$1500.00}. Now the bank is saying because it was a large payment it is suspicious so they are going to wait a total of 9 days before actually reflecting the payment on my available balance. So the money is no longer in my checking account, but I can't use the credit card, so I can't buy necessary items. They are completely unwilling to make any exception. Their proposed solution in the future is to make multiple, smaller payments, spread out over several weeks. That sounds like a scam designed to generate more interest payments for them. \n\nI honestly feel like this is deliberate, predatory behavior.",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "80123",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have an XXXX branded card through Synchrony bank. Four days ago my card was just over it's credit limit of {$1500.00} so I made a payment of {$1500.00}. Now the bank is saying because it was a large payment it is suspicious so they are going to wait a total of 9 days before actually reflecting the payment on my available balance. So the money is no longer in my checking account, but I can't use the credit card, so I can't buy necessary items. They are completely unwilling to make any exception. Their proposed solution in the future is to make multiple, smaller payments, spread out over several weeks. That sounds like a scam designed to generate more interest payments for them. \n\nI honestly feel like this is deliberate, predatory behavior."
+}
+
+Chunk:
+i have an xxxx branded card through synchrony bank. four days ago my card was just over it's credit limit of { $ 1500. 00 } so i made a payment of { $ 1500. 00 }. now the bank is saying because it was a large payment it is suspicious so they are going to wait a total of 9 days before actually reflecting the payment on my available balance. so the money is no longer in my checking account, but i can't use the credit card, so i can't buy necessary items. they are completely unwilling to make any exception. their proposed solution in the future is to make multiple, smaller payments, spread out over several weeks. that sounds like a scam designed to generate more interest payments for them. i honestly feel like this is deliberate, predatory behavior.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994058609008789
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9440951,
+  "complaint_id": "9440951",
+  "product": "Credit card",
+  "complaint_what_happened": "I am asking for this to be reconsidered as I don't qualify for the legal aid. I have received an updated letter from XXXX XXXX which better states the problem. I'm trying to rectify what happened : they cancelled all my cards, tanked my credit rating, and kept about {$1000.00} in cash rewards. \n\nThis is what happened : I went into the Citi site and changed my XXXX from XXXX. Balance to pay in XXXX payments. That is the only action I took in this case. I did not place a stop payment on any transaction. I tried several times to make an interim payment but everytime, the payment was rejected by XXXX XXXX. \n\nWhen I changed my autopay, XXXX XXXX automatically created a stop payment on the account which also affect all subsequent payment attempts. XXXX from XXXX XXXX attached. \n\nI never stopped payment on anything, I have never been late on my payments or abused the credit.",
+  "date_sent_to_company": "2024-07-07T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89701",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-07T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with personal statement of dispute",
+  "text": "I am asking for this to be reconsidered as I don't qualify for the legal aid. I have received an updated letter from XXXX XXXX which better states the problem. I'm trying to rectify what happened : they cancelled all my cards, tanked my credit rating, and kept about {$1000.00} in cash rewards. \n\nThis is what happened : I went into the Citi site and changed my XXXX from XXXX. Balance to pay in XXXX payments. That is the only action I took in this case. I did not place a stop payment on any transaction. I tried several times to make an interim payment but everytime, the payment was rejected by XXXX XXXX. \n\nWhen I changed my autopay, XXXX XXXX automatically created a stop payment on the account which also affect all subsequent payment attempts. XXXX from XXXX XXXX attached. \n\nI never stopped payment on anything, I have never been late on my payments or abused the credit."
+}
+
+Chunk:
+i am asking for this to be reconsidered as i don't qualify for the legal aid. i have received an updated letter from xxxx xxxx which better states the problem. i'm trying to rectify what happened : they cancelled all my cards, tanked my credit rating, and kept about { $ 1000. 00 } in cash rewards. this is what happened : i went into the citi site and changed my xxxx from xxxx. balance to pay in xxxx payments. that is the only action i took in this case. i did not place a stop payment on any transaction. i tried several times to make an interim payment but everytime, the payment was rejected by xxxx xxxx. when i changed my autopay, xxxx xxxx automatically created a stop payment on the account which also affect all subsequent payment attempts. xxxx from xxxx xxxx attached. i never stopped payment on anything, i have never been late on my payments or abused the credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974114298820496
+}

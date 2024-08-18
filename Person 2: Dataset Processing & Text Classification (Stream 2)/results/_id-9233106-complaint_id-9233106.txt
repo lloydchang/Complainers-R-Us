@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9233106,
+  "complaint_id": "9233106",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a company Credit Card from Citi Bank without my permission. I called the bank to verify, and the bank confirmed the issuance of the card. However, the bank refused to share with me any information and asked me to contact my company ( the company I work for ). I contacted the Finance department at my company and they confirmed not to have applied for any credit cards ( Note : I am the solo representative of the company in the US, but I still fulfilled the bank request to ask ). The bank continued to refuse to share with me any information, and even refuse to cancel the card even though it holds my name and perhaps my social security number being attached to its application. \n\nI did share with the bank that the last company I worked for and had a Citi Bank card with them was XXXX XXXX. But that was 10 years ago and switched to 4 other employers after that. I now work for XXXX XXXX and I shared that with Cit Bank. I also told them we do not deal with Citi Bank, but we deal with XXXXXXXX XXXX therefore they have to cancel the card for a fraud reason. \n\nI am very concerned this may have been an identity theft, and that my personal information were breached by Citi Bank or some entity that deals with Cit Bank. Your prompt assistance in this would be appreciated. I need them to cancel the card immediately, remove my information from their database, and restore any damages or breaches that might have occurred without my knowledge. \n\nNote : Your system asked me for the Billing Address of the card, and of course I do not know it because I did not apply for this card nor did the company I work for. So I have no idea what address this card is tied to. Just FYI. \n\nThank you!",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28209",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "I received a company Credit Card from Citi Bank without my permission. I called the bank to verify, and the bank confirmed the issuance of the card. However, the bank refused to share with me any information and asked me to contact my company ( the company I work for ). I contacted the Finance department at my company and they confirmed not to have applied for any credit cards ( Note : I am the solo representative of the company in the US, but I still fulfilled the bank request to ask ). The bank continued to refuse to share with me any information, and even refuse to cancel the card even though it holds my name and perhaps my social security number being attached to its application. \n\nI did share with the bank that the last company I worked for and had a Citi Bank card with them was XXXX XXXX. But that was 10 years ago and switched to 4 other employers after that. I now work for XXXX XXXX and I shared that with Cit Bank. I also told them we do not deal with Citi Bank, but we deal with XXXXXXXX XXXX therefore they have to cancel the card for a fraud reason. \n\nI am very concerned this may have been an identity theft, and that my personal information were breached by Citi Bank or some entity that deals with Cit Bank. Your prompt assistance in this would be appreciated. I need them to cancel the card immediately, remove my information from their database, and restore any damages or breaches that might have occurred without my knowledge. \n\nNote : Your system asked me for the Billing Address of the card, and of course I do not know it because I did not apply for this card nor did the company I work for. So I have no idea what address this card is tied to. Just FYI. \n\nThank you!"
+}
+
+Chunk:
+i received a company credit card from citi bank without my permission. i called the bank to verify, and the bank confirmed the issuance of the card. however, the bank refused to share with me any information and asked me to contact my company ( the company i work for ). i contacted the finance department at my company and they confirmed not to have applied for any credit cards ( note : i am the solo representative of the company in the us, but i still fulfilled the bank request to ask ). the bank continued to refuse to share with me any information, and even refuse to cancel the card even though it holds my name and perhaps my social security number being attached to its application. i did share with the bank that the last company i worked for and had a citi bank card with them was xxxx xxxx. but that was 10 years ago and switched to 4 other employers after that. i now work for xxxx xxxx and i shared that with cit bank. i also told them we do not deal with citi bank, but we deal with xxxxxxxx xxxx therefore they have to cancel the card for a fraud reason. i am very concerned this may have been an identity theft, and that my personal information were breached by citi bank or some entity that deals with cit bank. your prompt assistance in this would be appreciated. i need them to cancel the card immediately, remove my information from their database, and restore any damages or breaches that might have occurred without my knowledge. note : your system asked me for the billing address of the card, and of course i do not know it because i did not apply for this card nor did the company i work for. so i have no idea what address this card is tied to. just fyi. thank you!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985106587409973
+}

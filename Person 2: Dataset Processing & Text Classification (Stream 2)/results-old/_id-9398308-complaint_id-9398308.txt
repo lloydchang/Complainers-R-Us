@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9398308,
+  "complaint_id": "9398308",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I requested Barclays to close the account. I lost my hearing on XX/XX/year> and the card is a reward card for XXXX XXXX, which with my hearing lost I will not be traveling anytime in the near future. They either ignore my request or refuse to act on it until the annual membership was due of {$99.00}. I disputed the charge and now they are telling me since it is an annual membership fee and they can disputed/waived, but I had requested the card to be closed on XX/XX/year> and they did not act on it.",
+  "date_sent_to_company": "2024-07-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "96789",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-01T12:00:00-05:00",
+  "state": "HI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "On XX/XX/year> I requested Barclays to close the account. I lost my hearing on XX/XX/year> and the card is a reward card for XXXX XXXX, which with my hearing lost I will not be traveling anytime in the near future. They either ignore my request or refuse to act on it until the annual membership was due of {$99.00}. I disputed the charge and now they are telling me since it is an annual membership fee and they can disputed/waived, but I had requested the card to be closed on XX/XX/year> and they did not act on it."
+}
+
+Chunk:
+on xx / xx / year > i requested barclays to close the account. i lost my hearing on xx / xx / year > and the card is a reward card for xxxx xxxx, which with my hearing lost i will not be traveling anytime in the near future. they either ignore my request or refuse to act on it until the annual membership was due of { $ 99. 00 }. i disputed the charge and now they are telling me since it is an annual membership fee and they can disputed / waived, but i had requested the card to be closed on xx / xx / year > and they did not act on it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995498061180115
+}

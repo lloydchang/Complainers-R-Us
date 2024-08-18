@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9115685,
+  "complaint_id": "9115685",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a purchase online through a store on XXXX XXXX, called XXXX XXXX, on XX/XX/year>. The purchase was for {$11.00} and I used my Discover Card for payment. I made a second purchase with a different financial institutions card from the same store. On XX/XX/year> both of the packages were out for delivery. Both went to different addresses, neither in my city or county, and I believe this to be part of a Package Redirection Scam. I attempted to contact the store and sent emails regarding the packages. They did not respond. I reviewed them on XXXX XXXX, so did other individuals, who stated they had the same issue. The next day the store on XXXX XXXX was closed. I believe this store was opened for a short period of time to defraud customers. I called both banks immediately to file disputes since I did not receive the items that I purchased. One bank investigated and refunded my money. Discover took my dispute over the phone, I provided them with receipts and tracking information to show I did not receive the package. They denied my dispute. When I called customer service and spoke with the dispute department, they told me the transaction was valid and they, nor XXXX ( the delivery service ) could refund my money because they are both third parties. The bank is always a third party when it comes to Reg Z or Reg E disputes, so that line of reasoning makes no sense. I asked for the dispute to be reopened and Discover once again reviewed the information and stated the transaction was valid, even though I did not receive the products purchased, which is a valid reason to file a dispute under Reg Z.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "229XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I made a purchase online through a store on XXXX XXXX, called XXXX XXXX, on XX/XX/year>. The purchase was for {$11.00} and I used my Discover Card for payment. I made a second purchase with a different financial institutions card from the same store. On XX/XX/year> both of the packages were out for delivery. Both went to different addresses, neither in my city or county, and I believe this to be part of a Package Redirection Scam. I attempted to contact the store and sent emails regarding the packages. They did not respond. I reviewed them on XXXX XXXX, so did other individuals, who stated they had the same issue. The next day the store on XXXX XXXX was closed. I believe this store was opened for a short period of time to defraud customers. I called both banks immediately to file disputes since I did not receive the items that I purchased. One bank investigated and refunded my money. Discover took my dispute over the phone, I provided them with receipts and tracking information to show I did not receive the package. They denied my dispute. When I called customer service and spoke with the dispute department, they told me the transaction was valid and they, nor XXXX ( the delivery service ) could refund my money because they are both third parties. The bank is always a third party when it comes to Reg Z or Reg E disputes, so that line of reasoning makes no sense. I asked for the dispute to be reopened and Discover once again reviewed the information and stated the transaction was valid, even though I did not receive the products purchased, which is a valid reason to file a dispute under Reg Z."
+}
+
+Chunk:
+i made a purchase online through a store on xxxx xxxx, called xxxx xxxx, on xx / xx / year >. the purchase was for { $ 11. 00 } and i used my discover card for payment. i made a second purchase with a different financial institutions card from the same store. on xx / xx / year > both of the packages were out for delivery. both went to different addresses, neither in my city or county, and i believe this to be part of a package redirection scam. i attempted to contact the store and sent emails regarding the packages. they did not respond. i reviewed them on xxxx xxxx, so did other individuals, who stated they had the same issue. the next day the store on xxxx xxxx was closed. i believe this store was opened for a short period of time to defraud customers. i called both banks immediately to file disputes since i did not receive the items that i purchased. one bank investigated and refunded my money. discover took my dispute over the phone, i provided them with receipts and tracking information to show i did not receive the package. they denied my dispute. when i called customer service and spoke with the dispute department, they told me the transaction was valid and they, nor xxxx ( the delivery service ) could refund my money because they are both third parties. the bank is always a third party when it comes to reg z or reg e disputes, so that line of reasoning makes no sense. i asked for the dispute to be reopened and discover once again reviewed the information and stated the transaction was valid, even though i did not receive the products purchased, which is a valid reason to file a dispute under reg z.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990484118461609
+}

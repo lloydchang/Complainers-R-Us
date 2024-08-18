@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9195180,
+  "complaint_id": "9195180",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied online on XX/XX/year> for a Chase Saphire Reserve credit card from Chase bank, and I received an email that day thanking me for applying. On XX/XX/year>, I received an email stating that I \" have a new letter, '' which I was unable to access online due to not having any accounts currently open with Chase. I called customer service inquiring about the contents of the letter, and they said that the letter said I would hear a determination on my credit card approval or denial in writing within 14 days. Today, XX/XX/year>, I called Chase customer service again due to not heard anything from Chase via mail or email regarding the status of my application since my last contact with them on XXXX, and I have not received any communication requesting additional information, which I am willing to provide if needed to verify my income, etc. I was told by customer service that my application is still \" under review. '' I inquired about a timeline for hearing a determination, and they were unable to provide any information. I also asked to speak with someone about the possible timeline, reasons for this delay in approval/denial, and any information that they might need from me, and they said there was no one I could talk to.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "49525",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Delay in processing application",
+  "text": "I applied online on XX/XX/year> for a Chase Saphire Reserve credit card from Chase bank, and I received an email that day thanking me for applying. On XX/XX/year>, I received an email stating that I \" have a new letter, '' which I was unable to access online due to not having any accounts currently open with Chase. I called customer service inquiring about the contents of the letter, and they said that the letter said I would hear a determination on my credit card approval or denial in writing within 14 days. Today, XX/XX/year>, I called Chase customer service again due to not heard anything from Chase via mail or email regarding the status of my application since my last contact with them on XXXX, and I have not received any communication requesting additional information, which I am willing to provide if needed to verify my income, etc. I was told by customer service that my application is still \" under review. '' I inquired about a timeline for hearing a determination, and they were unable to provide any information. I also asked to speak with someone about the possible timeline, reasons for this delay in approval/denial, and any information that they might need from me, and they said there was no one I could talk to."
+}
+
+Chunk:
+i applied online on xx / xx / year > for a chase saphire reserve credit card from chase bank, and i received an email that day thanking me for applying. on xx / xx / year >, i received an email stating that i " have a new letter,'' which i was unable to access online due to not having any accounts currently open with chase. i called customer service inquiring about the contents of the letter, and they said that the letter said i would hear a determination on my credit card approval or denial in writing within 14 days. today, xx / xx / year >, i called chase customer service again due to not heard anything from chase via mail or email regarding the status of my application since my last contact with them on xxxx, and i have not received any communication requesting additional information, which i am willing to provide if needed to verify my income, etc. i was told by customer service that my application is still " under review.'' i inquired about a timeline for hearing a determination, and they were unable to provide any information. i also asked to speak with someone about the possible timeline, reasons for this delay in approval / denial, and any information that they might need from me, and they said there was no one i could talk to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995928406715393
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9034314,
+  "complaint_id": "9034314",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/year> - I searched for flights online and found which I wanted. When I went to Capital One Travel, all of the prices for the same flights were higher. When I called Capital One, they transferred me to XXXX. XXXX said there was nothing to be done. When I asked for the call center representative 's name, she said she could not give it to me. When I asked for a case number, she said she could not give it to me. When I asked for a supervisor, she put me on hold until I was redirected to a feedback auto message.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "958XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with rewards from credit card",
+  "text": "XX/XX/year> - I searched for flights online and found which I wanted. When I went to Capital One Travel, all of the prices for the same flights were higher. When I called Capital One, they transferred me to XXXX. XXXX said there was nothing to be done. When I asked for the call center representative 's name, she said she could not give it to me. When I asked for a case number, she said she could not give it to me. When I asked for a supervisor, she put me on hold until I was redirected to a feedback auto message."
+}
+
+Chunk:
+xx / xx / year > - i searched for flights online and found which i wanted. when i went to capital one travel, all of the prices for the same flights were higher. when i called capital one, they transferred me to xxxx. xxxx said there was nothing to be done. when i asked for the call center representative's name, she said she could not give it to me. when i asked for a case number, she said she could not give it to me. when i asked for a supervisor, she put me on hold until i was redirected to a feedback auto message.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987552165985107
+}

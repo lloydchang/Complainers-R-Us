@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9197490,
+  "complaint_id": "9197490",
+  "product": "Credit card",
+  "complaint_what_happened": "Capital One solicited me for a SavorOne credit card based on my credit history, with 0 % APR on purchases for the XXXX 15 months and 0 % APR on balance transfers for the 1st 15 months. I accepted their offer and card was mailed out to me. upon receipt, in setting up my online account via their Capital One app I found that they did not honor their 0 % APR in balance transfers. they listed 29.99 % APR on my account. numerous phone calls, discussions with their balance transfer \" team '' - beginning with my 1st call/complaint on XX/XX/XXXX - Capital One/SavorOne have not reversed the 29.99 % APR on my account. I offered to scan to them what I received IN WRITING from Capital One/Savor One when my account was approved and credit card mailed out to me ( which plainly states my account has both 0 % APR for both purchases and balance transfers ).",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23451",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with balance transfer",
+  "text": "Capital One solicited me for a SavorOne credit card based on my credit history, with 0 % APR on purchases for the XXXX 15 months and 0 % APR on balance transfers for the 1st 15 months. I accepted their offer and card was mailed out to me. upon receipt, in setting up my online account via their Capital One app I found that they did not honor their 0 % APR in balance transfers. they listed 29.99 % APR on my account. numerous phone calls, discussions with their balance transfer \" team '' - beginning with my 1st call/complaint on XX/XX/XXXX - Capital One/SavorOne have not reversed the 29.99 % APR on my account. I offered to scan to them what I received IN WRITING from Capital One/Savor One when my account was approved and credit card mailed out to me ( which plainly states my account has both 0 % APR for both purchases and balance transfers )."
+}
+
+Chunk:
+capital one solicited me for a savorone credit card based on my credit history, with 0 % apr on purchases for the xxxx 15 months and 0 % apr on balance transfers for the 1st 15 months. i accepted their offer and card was mailed out to me. upon receipt, in setting up my online account via their capital one app i found that they did not honor their 0 % apr in balance transfers. they listed 29. 99 % apr on my account. numerous phone calls, discussions with their balance transfer " team'' - beginning with my 1st call / complaint on xx / xx / xxxx - capital one / savorone have not reversed the 29. 99 % apr on my account. i offered to scan to them what i received in writing from capital one / savor one when my account was approved and credit card mailed out to me ( which plainly states my account has both 0 % apr for both purchases and balance transfers ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985479712486267
+}

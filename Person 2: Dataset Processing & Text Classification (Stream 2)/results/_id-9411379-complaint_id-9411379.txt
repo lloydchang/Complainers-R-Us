@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9411379,
+  "complaint_id": "9411379",
+  "product": "Credit card",
+  "complaint_what_happened": "I SUBMITTED MY DISPUTE for Transaction Error Date : XX/XX/XXXX, XXXX THE POLICE WHO THEN REFERRED ME TO THE CALIFORNIA STATE BAR. \nhowever, the credit card responded with, \" We now consider this matter resolved and have completed our investigation. \" due to the dispute is beyond 90 days. '' Any amount placed in dispute will still elitist along with the credit agency will be notified. \n\nIt is important to point out that, I am charged {$2000.00} and I never received any good or services. This is \" Unjust Enrichment! \".",
+  "date_sent_to_company": "2024-07-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "91941",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I SUBMITTED MY DISPUTE for Transaction Error Date : XX/XX/XXXX, XXXX THE POLICE WHO THEN REFERRED ME TO THE CALIFORNIA STATE BAR. \nhowever, the credit card responded with, \" We now consider this matter resolved and have completed our investigation. \" due to the dispute is beyond 90 days. '' Any amount placed in dispute will still elitist along with the credit agency will be notified. \n\nIt is important to point out that, I am charged {$2000.00} and I never received any good or services. This is \" Unjust Enrichment! \"."
+}
+
+Chunk:
+i submitted my dispute for transaction error date : xx / xx / xxxx, xxxx the police who then referred me to the california state bar. however, the credit card responded with, " we now consider this matter resolved and have completed our investigation. " due to the dispute is beyond 90 days.'' any amount placed in dispute will still elitist along with the credit agency will be notified. it is important to point out that, i am charged { $ 2000. 00 } and i never received any good or services. this is " unjust enrichment! ".
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9968737363815308
+}

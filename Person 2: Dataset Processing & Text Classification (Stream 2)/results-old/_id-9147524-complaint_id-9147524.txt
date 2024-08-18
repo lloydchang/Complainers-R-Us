@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9147524,
+  "complaint_id": "9147524",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I received a notification on my phone for a purchase of {$1500.00} on XXXX. I immediately contacted them and PayPal regarding an authorized charge. PayPal immediately denied my request and said it was because they saw no unauthorized logins to PayPal. I contacted XXXX and they responded that they agreed to the refund and unauthorized charges. They returned the digital product back to their site and said they completed my return and it would be 3-5 business days for the money to show up. I reached back out to PayPal to contest their denial explaining that the login was not on PayPal but on XXXX. I also stated that the reason needed to be changed because the company said they were processing the refund, but I had not yet received it. They then denied that request stating that the issue had been addressed correctly. If that were the case then I would have my money. XXXX just tells me to contact the financial institution. No one is assisting me to get my money back. And today passed the 5 business day mark that I was quoted.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20176",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year> I received a notification on my phone for a purchase of {$1500.00} on XXXX. I immediately contacted them and PayPal regarding an authorized charge. PayPal immediately denied my request and said it was because they saw no unauthorized logins to PayPal. I contacted XXXX and they responded that they agreed to the refund and unauthorized charges. They returned the digital product back to their site and said they completed my return and it would be 3-5 business days for the money to show up. I reached back out to PayPal to contest their denial explaining that the login was not on PayPal but on XXXX. I also stated that the reason needed to be changed because the company said they were processing the refund, but I had not yet received it. They then denied that request stating that the issue had been addressed correctly. If that were the case then I would have my money. XXXX just tells me to contact the financial institution. No one is assisting me to get my money back. And today passed the 5 business day mark that I was quoted."
+}
+
+Chunk:
+on xx / xx / year > i received a notification on my phone for a purchase of { $ 1500. 00 } on xxxx. i immediately contacted them and paypal regarding an authorized charge. paypal immediately denied my request and said it was because they saw no unauthorized logins to paypal. i contacted xxxx and they responded that they agreed to the refund and unauthorized charges. they returned the digital product back to their site and said they completed my return and it would be 3 - 5 business days for the money to show up. i reached back out to paypal to contest their denial explaining that the login was not on paypal but on xxxx. i also stated that the reason needed to be changed because the company said they were processing the refund, but i had not yet received it. they then denied that request stating that the issue had been addressed correctly. if that were the case then i would have my money. xxxx just tells me to contact the financial institution. no one is assisting me to get my money back. and today passed the 5 business day mark that i was quoted.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997779905796051
+}

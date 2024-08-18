@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9125714,
+  "complaint_id": "9125714",
+  "product": "Credit card",
+  "complaint_what_happened": "This is the start of the problem when purchased the wheels and it went down XXXX from there. wanted to reach out about an experience I had buying a set of wheels from a company called extreme wheels. I originally purchased a set of XXXX, XXXX and XXXX in XXXX, the company didn't have the XXXX in stock so they charged me an extra {$250.00} bucks for powder coating them XXXX ( all the wheels are XXXX btw ) so I paid well over XXXX for the set and when I got them they had chips on them and every wheel was scratched up. They said that the manufacturer wanted me to fully detail them and to see if it goes away. I said I would not because there's no way to fix them with chips and all by detailing them and that I paid over XXXX for the set so they should be flawless and ready to mount, they them came back after XXXX emails and said we will give u XXXX to basically shut your mouth and take the wheels so I said no and started a dispute with my credit card company because they never responded to my emails after that. I'm not happy and something should be done about this, I have pics, I have all documents showing I never got a refund and that it was disputed over 4 times which the credit card company is screwing me over as well.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "346XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This is the start of the problem when purchased the wheels and it went down XXXX from there. wanted to reach out about an experience I had buying a set of wheels from a company called extreme wheels. I originally purchased a set of XXXX, XXXX and XXXX in XXXX, the company didn't have the XXXX in stock so they charged me an extra {$250.00} bucks for powder coating them XXXX ( all the wheels are XXXX btw ) so I paid well over XXXX for the set and when I got them they had chips on them and every wheel was scratched up. They said that the manufacturer wanted me to fully detail them and to see if it goes away. I said I would not because there's no way to fix them with chips and all by detailing them and that I paid over XXXX for the set so they should be flawless and ready to mount, they them came back after XXXX emails and said we will give u XXXX to basically shut your mouth and take the wheels so I said no and started a dispute with my credit card company because they never responded to my emails after that. I'm not happy and something should be done about this, I have pics, I have all documents showing I never got a refund and that it was disputed over 4 times which the credit card company is screwing me over as well."
+}
+
+Chunk:
+this is the start of the problem when purchased the wheels and it went down xxxx from there. wanted to reach out about an experience i had buying a set of wheels from a company called extreme wheels. i originally purchased a set of xxxx, xxxx and xxxx in xxxx, the company didn't have the xxxx in stock so they charged me an extra { $ 250. 00 } bucks for powder coating them xxxx ( all the wheels are xxxx btw ) so i paid well over xxxx for the set and when i got them they had chips on them and every wheel was scratched up. they said that the manufacturer wanted me to fully detail them and to see if it goes away. i said i would not because there's no way to fix them with chips and all by detailing them and that i paid over xxxx for the set so they should be flawless and ready to mount, they them came back after xxxx emails and said we will give u xxxx to basically shut your mouth and take the wheels so i said no and started a dispute with my credit card company because they never responded to my emails after that. i'm not happy and something should be done about this, i have pics, i have all documents showing i never got a refund and that it was disputed over 4 times which the credit card company is screwing me over as well.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990507960319519
+}

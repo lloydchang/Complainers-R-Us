@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9230138,
+  "complaint_id": "9230138",
+  "product": "Credit card",
+  "complaint_what_happened": "Citibank excessively delayed refund due to me and requested by me and bank did not pay me any interest while holding my money",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "068XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "Citibank excessively delayed refund due to me and requested by me and bank did not pay me any interest while holding my money"
+}
+
+Chunk:
+citibank excessively delayed refund due to me and requested by me and bank did not pay me any interest while holding my money
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992617964744568
+}

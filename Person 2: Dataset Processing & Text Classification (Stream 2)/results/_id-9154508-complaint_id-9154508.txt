@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9154508,
+  "complaint_id": "9154508",
+  "product": "Credit card",
+  "complaint_what_happened": "I am filing a complaint against Chase Bank regarding the denial of my Chase Visa Signature Business Card application. \n\nOn XX/XX/year>, I received a denial letter from Chase stating that my application was denied solely due to a past bankruptcy. The letter explicitly states, \" Your credit report reflects a bankruptcy. '' This decision appears to have been made without considering other critical financial factors such as my high income, low debt levels, and fair credit score. \n\nUnder the Equal Credit Opportunity Act ( ECOA ), creditors can not deny credit solely on the basis of a past bankruptcy without considering the entire financial profile of the applicant. The denial letter from Chase does not indicate that any other financial factors were taken into account, suggesting a potential violation of the ECOA.\n\nI request the CFPB to investigate this matter and ensure that Chase Bank complies with the ECOA. I have attached the denial letter from Chase for your reference.\n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "761XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "I am filing a complaint against Chase Bank regarding the denial of my Chase Visa Signature Business Card application. \n\nOn XX/XX/year>, I received a denial letter from Chase stating that my application was denied solely due to a past bankruptcy. The letter explicitly states, \" Your credit report reflects a bankruptcy. '' This decision appears to have been made without considering other critical financial factors such as my high income, low debt levels, and fair credit score. \n\nUnder the Equal Credit Opportunity Act ( ECOA ), creditors can not deny credit solely on the basis of a past bankruptcy without considering the entire financial profile of the applicant. The denial letter from Chase does not indicate that any other financial factors were taken into account, suggesting a potential violation of the ECOA.\n\nI request the CFPB to investigate this matter and ensure that Chase Bank complies with the ECOA. I have attached the denial letter from Chase for your reference.\n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+i am filing a complaint against chase bank regarding the denial of my chase visa signature business card application. on xx / xx / year >, i received a denial letter from chase stating that my application was denied solely due to a past bankruptcy. the letter explicitly states, " your credit report reflects a bankruptcy.'' this decision appears to have been made without considering other critical financial factors such as my high income, low debt levels, and fair credit score. under the equal credit opportunity act ( ecoa ), creditors can not deny credit solely on the basis of a past bankruptcy without considering the entire financial profile of the applicant. the denial letter from chase does not indicate that any other financial factors were taken into account, suggesting a potential violation of the ecoa. i request the cfpb to investigate this matter and ensure that chase bank complies with the ecoa. i have attached the denial letter from chase for your reference. thank you for your attention to this matter. sincerely, xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.5452057719230652
+}

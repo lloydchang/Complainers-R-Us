@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9096905,
+  "complaint_id": "9096905",
+  "product": "Credit card",
+  "complaint_what_happened": "I am greatly concerned about the inclusion of this late payment on my account, as my payment history has consistently been punctual. This situation is causing me considerable distress, and I implore you to correct this mistake by promptly removing it from my account.",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76123",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "I am greatly concerned about the inclusion of this late payment on my account, as my payment history has consistently been punctual. This situation is causing me considerable distress, and I implore you to correct this mistake by promptly removing it from my account."
+}
+
+Chunk:
+i am greatly concerned about the inclusion of this late payment on my account, as my payment history has consistently been punctual. this situation is causing me considerable distress, and i implore you to correct this mistake by promptly removing it from my account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9965248703956604
+}

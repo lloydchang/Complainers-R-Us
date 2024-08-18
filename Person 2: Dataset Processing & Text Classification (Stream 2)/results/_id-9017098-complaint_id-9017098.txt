@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017098,
+  "complaint_id": "9017098",
+  "product": "Credit card",
+  "complaint_what_happened": "Its in collections and it fraud",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19151",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Self Financial Inc.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Its in collections and it fraud"
+}
+
+Chunk:
+its in collections and it fraud
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973129630088806
+}

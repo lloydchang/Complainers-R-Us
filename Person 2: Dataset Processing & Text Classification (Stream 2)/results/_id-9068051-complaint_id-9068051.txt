@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9068051,
+  "complaint_id": "9068051",
+  "product": "Credit card",
+  "complaint_what_happened": "I was trying to buy tickets for an event in XX/XX/year>. \nDuring my online search for tickets, I mistakenly ended up on XXXX. \nThe website 's layout and presentation made it seem like they were the official ticket seller for the venue. \n\nI purchased tickets through XXXX, but unfortunately, they were not valid for entry to the event at XXXX XXXX XXXX, XXXX, Colorado. \n\nUnfortunately, the tickets I purchased through XXXX were unusable for entry to the event. This appears to be a recurring issue, as hundreds of similar complaints exist on the XXXX XXXX XXXX XXXX XXXX  ) regarding XXXX 's deceptive practices. \n\nI contacted my bank, USAA, to dispute the charge. I provided detailed documentation ( screenshots, emails, etc. ) highlighting XXXX 's misleading tactics and the unusable tickets. \n\nDisappointingly, USAA mishandled my dispute. According to a USAA representative, they received my documents but failed to review them. They repeatedly requested the same documentation I had already submitted and provided a general customer service number with no extension when I attempted to reach the representative who handled my case.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80120",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I was trying to buy tickets for an event in XX/XX/year>. \nDuring my online search for tickets, I mistakenly ended up on XXXX. \nThe website 's layout and presentation made it seem like they were the official ticket seller for the venue. \n\nI purchased tickets through XXXX, but unfortunately, they were not valid for entry to the event at XXXX XXXX XXXX, XXXX, Colorado. \n\nUnfortunately, the tickets I purchased through XXXX were unusable for entry to the event. This appears to be a recurring issue, as hundreds of similar complaints exist on the XXXX XXXX XXXX XXXX XXXX  ) regarding XXXX 's deceptive practices. \n\nI contacted my bank, USAA, to dispute the charge. I provided detailed documentation ( screenshots, emails, etc. ) highlighting XXXX 's misleading tactics and the unusable tickets. \n\nDisappointingly, USAA mishandled my dispute. According to a USAA representative, they received my documents but failed to review them. They repeatedly requested the same documentation I had already submitted and provided a general customer service number with no extension when I attempted to reach the representative who handled my case."
+}
+
+Chunk:
+i was trying to buy tickets for an event in xx / xx / year >. during my online search for tickets, i mistakenly ended up on xxxx. the website's layout and presentation made it seem like they were the official ticket seller for the venue. i purchased tickets through xxxx, but unfortunately, they were not valid for entry to the event at xxxx xxxx xxxx, xxxx, colorado. unfortunately, the tickets i purchased through xxxx were unusable for entry to the event. this appears to be a recurring issue, as hundreds of similar complaints exist on the xxxx xxxx xxxx xxxx xxxx ) regarding xxxx's deceptive practices. i contacted my bank, usaa, to dispute the charge. i provided detailed documentation ( screenshots, emails, etc. ) highlighting xxxx's misleading tactics and the unusable tickets. disappointingly, usaa mishandled my dispute. according to a usaa representative, they received my documents but failed to review them. they repeatedly requested the same documentation i had already submitted and provided a general customer service number with no extension when i attempted to reach the representative who handled my case.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992916584014893
+}

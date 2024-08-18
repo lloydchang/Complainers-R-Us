@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9271488,
+  "complaint_id": "9271488",
+  "product": "Credit card",
+  "complaint_what_happened": "I called earlier today on XX/XX/XXXX, about my credit card XXXX that was opened in XXXX I never recieved a card then and only noticed this account was opened when I received a bill to pay I tried to call then. I was referred by the online chat to call the customer service line. I called the customer service line and the call was picked up and told they could not help me and to call back in 1-2 hours. I told the online customer service support this and they told me that I should call back again. Ultimately, I asked to speak to someone who could better assist me and was referred back to the number that is not working. \n\nAt the end, I was defeated after having paid a previous fee that I never spent and struggled to close this account for several months.",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94545",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I called earlier today on XX/XX/XXXX, about my credit card XXXX that was opened in XXXX I never recieved a card then and only noticed this account was opened when I received a bill to pay I tried to call then. I was referred by the online chat to call the customer service line. I called the customer service line and the call was picked up and told they could not help me and to call back in 1-2 hours. I told the online customer service support this and they told me that I should call back again. Ultimately, I asked to speak to someone who could better assist me and was referred back to the number that is not working. \n\nAt the end, I was defeated after having paid a previous fee that I never spent and struggled to close this account for several months."
+}
+
+Chunk:
+i called earlier today on xx / xx / xxxx, about my credit card xxxx that was opened in xxxx i never recieved a card then and only noticed this account was opened when i received a bill to pay i tried to call then. i was referred by the online chat to call the customer service line. i called the customer service line and the call was picked up and told they could not help me and to call back in 1 - 2 hours. i told the online customer service support this and they told me that i should call back again. ultimately, i asked to speak to someone who could better assist me and was referred back to the number that is not working. at the end, i was defeated after having paid a previous fee that i never spent and struggled to close this account for several months.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996331930160522
+}

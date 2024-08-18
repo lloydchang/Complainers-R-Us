@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9083492,
+  "complaint_id": "9083492",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an email from XXXX at my work email address stating that my Chase credit card was temporarily closed. I have a Chase credit card, but it has no balance at this time and is in no way connected to my work email so I believe that this is a phishing email intending to get my information and access my account. This email is very very good. As in no spelling/grammatical mistakes and it looks like a real Chase Bank email .",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "598XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "MT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I received an email from XXXX at my work email address stating that my Chase credit card was temporarily closed. I have a Chase credit card, but it has no balance at this time and is in no way connected to my work email so I believe that this is a phishing email intending to get my information and access my account. This email is very very good. As in no spelling/grammatical mistakes and it looks like a real Chase Bank email ."
+}
+
+Chunk:
+i received an email from xxxx at my work email address stating that my chase credit card was temporarily closed. i have a chase credit card, but it has no balance at this time and is in no way connected to my work email so i believe that this is a phishing email intending to get my information and access my account. this email is very very good. as in no spelling / grammatical mistakes and it looks like a real chase bank email.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9948275685310364
+}

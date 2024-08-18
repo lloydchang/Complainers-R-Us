@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071506,
+  "complaint_id": "9071506",
+  "product": "Credit card",
+  "complaint_what_happened": "the chime credit builder card by XXXX isnt reporting to the bureas properly. most other users have reported that theyve stopped reporting to XXXX around XXXX XXXX for me, they still have yet to even report to XXXX in addition to XXXX",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "625XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Chime Financial Inc",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information is missing that should be on the report",
+  "text": "the chime credit builder card by XXXX isnt reporting to the bureas properly. most other users have reported that theyve stopped reporting to XXXX around XXXX XXXX for me, they still have yet to even report to XXXX in addition to XXXX"
+}
+
+Chunk:
+the chime credit builder card by xxxx isnt reporting to the bureas properly. most other users have reported that theyve stopped reporting to xxxx around xxxx xxxx for me, they still have yet to even report to xxxx in addition to xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994474053382874
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9074407,
+  "complaint_id": "9074407",
+  "product": "Credit card",
+  "complaint_what_happened": "I have not used my Truist XXXX since XX/XX/XXXX, which I paid in full on XX/XX/XXXX. I have never used the card since. Fraudulent charges appeared on my account on XX/XX/XXXX. I opened a fraud report with Truist fraud department that same day, Truist case number XXXX. Since then, Truist has failed to investigate the fraudulent activity. My monthly statement does not show a dispute or fraud claim was made. They have now added interest and late charges on top of the charges I did not make. Yesterday XX/XX/XXXX I was called by Truist 's collection department. Despite telling the agent that the charges were in a fraud complaint, the agent continued to demand I pay the balance. I believe Truist is attempting to defraud me by pressuring me into paying something I do not owe. They should never have allowed the fraudulent charges to post to my account in the first place.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "371XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have not used my Truist XXXX since XX/XX/XXXX, which I paid in full on XX/XX/XXXX. I have never used the card since. Fraudulent charges appeared on my account on XX/XX/XXXX. I opened a fraud report with Truist fraud department that same day, Truist case number XXXX. Since then, Truist has failed to investigate the fraudulent activity. My monthly statement does not show a dispute or fraud claim was made. They have now added interest and late charges on top of the charges I did not make. Yesterday XX/XX/XXXX I was called by Truist 's collection department. Despite telling the agent that the charges were in a fraud complaint, the agent continued to demand I pay the balance. I believe Truist is attempting to defraud me by pressuring me into paying something I do not owe. They should never have allowed the fraudulent charges to post to my account in the first place."
+}
+
+Chunk:
+i have not used my truist xxxx since xx / xx / xxxx, which i paid in full on xx / xx / xxxx. i have never used the card since. fraudulent charges appeared on my account on xx / xx / xxxx. i opened a fraud report with truist fraud department that same day, truist case number xxxx. since then, truist has failed to investigate the fraudulent activity. my monthly statement does not show a dispute or fraud claim was made. they have now added interest and late charges on top of the charges i did not make. yesterday xx / xx / xxxx i was called by truist's collection department. despite telling the agent that the charges were in a fraud complaint, the agent continued to demand i pay the balance. i believe truist is attempting to defraud me by pressuring me into paying something i do not owe. they should never have allowed the fraudulent charges to post to my account in the first place.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991769194602966
+}

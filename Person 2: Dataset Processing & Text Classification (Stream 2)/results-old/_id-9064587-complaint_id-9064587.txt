@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9064587,
+  "complaint_id": "9064587",
+  "product": "Credit card",
+  "complaint_what_happened": "This account entirely is credit card fraud these transaction were not done by me.. I ONLY MADE XXXX PURCHASE OFF OF XXXX XX/XX/XXXX for XXXX they kept letting charges go through and have a recorded conversation that is not myself giving my credit card information out to make a purchase where I never was at in the first place.. Ive sent XXXX document and a police report which they have NEVER contacted the sheriffs office about now they want me to pay over XXXX for a vacuum I purchased .. not paying this amount until this gets handled the right way",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "835XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "ID",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "This account entirely is credit card fraud these transaction were not done by me.. I ONLY MADE XXXX PURCHASE OFF OF XXXX XX/XX/XXXX for XXXX they kept letting charges go through and have a recorded conversation that is not myself giving my credit card information out to make a purchase where I never was at in the first place.. Ive sent XXXX document and a police report which they have NEVER contacted the sheriffs office about now they want me to pay over XXXX for a vacuum I purchased .. not paying this amount until this gets handled the right way"
+}
+
+Chunk:
+this account entirely is credit card fraud these transaction were not done by me.. i only made xxxx purchase off of xxxx xx / xx / xxxx for xxxx they kept letting charges go through and have a recorded conversation that is not myself giving my credit card information out to make a purchase where i never was at in the first place.. ive sent xxxx document and a police report which they have never contacted the sheriffs office about now they want me to pay over xxxx for a vacuum i purchased.. not paying this amount until this gets handled the right way
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9975718855857849
+}

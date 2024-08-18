@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9122014,
+  "complaint_id": "9122014",
+  "product": "Credit card",
+  "complaint_what_happened": "In my second statement received from Synchrony Bank for my purchases at Sam 's Club only {$71.00} were made by me and $ {$140.00} were fraudulent charges. When I tried to call the number on the statement, I had no option of \" disputed charges '' or something close to that and was subjected to insults and humiliation.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "In my second statement received from Synchrony Bank for my purchases at Sam 's Club only {$71.00} were made by me and $ {$140.00} were fraudulent charges. When I tried to call the number on the statement, I had no option of \" disputed charges '' or something close to that and was subjected to insults and humiliation."
+}
+
+Chunk:
+in my second statement received from synchrony bank for my purchases at sam's club only { $ 71. 00 } were made by me and $ { $ 140. 00 } were fraudulent charges. when i tried to call the number on the statement, i had no option of " disputed charges'' or something close to that and was subjected to insults and humiliation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996823072433472
+}

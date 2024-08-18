@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9140816,
+  "complaint_id": "9140816",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a credit card for XXXX XXXX. As soon as I got the card in the mail I activated it and paid my bill. Shortly after I got a bill for a late fee??? I called the number on my bill. The guy apologized and said he did see a payment and wasn't sure why I got the late fee. That he would be reversing it. I said thank you and thought it was over. The month after that I got a bill for the entire original bill, plus all these late fees since now it is obviously months behind. I called that lady said that the first payment has been returned and I'm responsible for all these fees. I said I will pay whatever I owe IN FULL AND I WANT THE ACCOUNT CLOSED. I paid the full amount, keep in mind one months late fee is XXXX dollars. I got a letter in the mail stating that my account is at XXXX and has been closed. I have once again received another late fee bill for XXXX dollars?! They won't reverse the late fees because 'the account is closed but I will continue to get bills until is paid or it goes to collections '",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "180XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I opened a credit card for XXXX XXXX. As soon as I got the card in the mail I activated it and paid my bill. Shortly after I got a bill for a late fee??? I called the number on my bill. The guy apologized and said he did see a payment and wasn't sure why I got the late fee. That he would be reversing it. I said thank you and thought it was over. The month after that I got a bill for the entire original bill, plus all these late fees since now it is obviously months behind. I called that lady said that the first payment has been returned and I'm responsible for all these fees. I said I will pay whatever I owe IN FULL AND I WANT THE ACCOUNT CLOSED. I paid the full amount, keep in mind one months late fee is XXXX dollars. I got a letter in the mail stating that my account is at XXXX and has been closed. I have once again received another late fee bill for XXXX dollars?! They won't reverse the late fees because 'the account is closed but I will continue to get bills until is paid or it goes to collections '"
+}
+
+Chunk:
+i opened a credit card for xxxx xxxx. as soon as i got the card in the mail i activated it and paid my bill. shortly after i got a bill for a late fee??? i called the number on my bill. the guy apologized and said he did see a payment and wasn't sure why i got the late fee. that he would be reversing it. i said thank you and thought it was over. the month after that i got a bill for the entire original bill, plus all these late fees since now it is obviously months behind. i called that lady said that the first payment has been returned and i'm responsible for all these fees. i said i will pay whatever i owe in full and i want the account closed. i paid the full amount, keep in mind one months late fee is xxxx dollars. i got a letter in the mail stating that my account is at xxxx and has been closed. i have once again received another late fee bill for xxxx dollars?! they won't reverse the late fees because'the account is closed but i will continue to get bills until is paid or it goes to collections '
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987177848815918
+}

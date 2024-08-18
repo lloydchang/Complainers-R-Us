@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9563810,
+  "complaint_id": "9563810",
+  "product": "Credit card",
+  "complaint_what_happened": "Dear Sir/Madam, I am writing to formally lodge a complaint against Wells Fargo Bank regarding their inadequate handling of a dispute I raised. \n\nOn XXXX XXXX contacted Wells Fargo to dispute a transaction that appeared on my account statement. The details of the disputed transaction are as follows : Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX XXXX  Amount of Transaction : XXXX Card Number : XXXX Status : Call Us Despite providing all necessary documentation and clearly explaining the issue, Wells Fargo has failed to resolve the dispute satisfactorily. Here is a summary of my interactions with Wells Fargo regarding this matter : 1. Initial Contact : On [ date ], I reported the dispute to Wells Fargos customer service and provided all requested information and supporting documents.\n\n2. Follow-Up : Despite multiple follow-up calls and emails on [ specific dates ], I received either inadequate responses or no response at all.\n\n3. Resolution Timeline : According to the banks policy, the dispute should have been resolved within days. However, it has now been days/weeks/months, and the issue remains unresolved.\n\n4. Current Status : As of today, [ date ], I have not received any satisfactory resolution or even an update on the status of my dispute.\n\nThe lack of communication and resolution from Wells Fargo has caused me significant stress and inconvenience. I am requesting the CFPBs assistance in resolving this matter promptly and ensuring that Wells Fargo complies with all relevant consumer protection regulations. \n\nI have attached copies of all relevant correspondence and documentation for your review. Please let me know if you require any additional information. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Dear Sir/Madam, I am writing to formally lodge a complaint against Wells Fargo Bank regarding their inadequate handling of a dispute I raised. \n\nOn XXXX XXXX contacted Wells Fargo to dispute a transaction that appeared on my account statement. The details of the disputed transaction are as follows : Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX XXXX  Amount of Transaction : XXXX Card Number : XXXX Status : Call Us Despite providing all necessary documentation and clearly explaining the issue, Wells Fargo has failed to resolve the dispute satisfactorily. Here is a summary of my interactions with Wells Fargo regarding this matter : 1. Initial Contact : On [ date ], I reported the dispute to Wells Fargos customer service and provided all requested information and supporting documents.\n\n2. Follow-Up : Despite multiple follow-up calls and emails on [ specific dates ], I received either inadequate responses or no response at all.\n\n3. Resolution Timeline : According to the banks policy, the dispute should have been resolved within days. However, it has now been days/weeks/months, and the issue remains unresolved.\n\n4. Current Status : As of today, [ date ], I have not received any satisfactory resolution or even an update on the status of my dispute.\n\nThe lack of communication and resolution from Wells Fargo has caused me significant stress and inconvenience. I am requesting the CFPBs assistance in resolving this matter promptly and ensuring that Wells Fargo complies with all relevant consumer protection regulations. \n\nI have attached copies of all relevant correspondence and documentation for your review. Please let me know if you require any additional information. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX"
+}
+
+Chunk:
+dear sir / madam, i am writing to formally lodge a complaint against wells fargo bank regarding their inadequate handling of a dispute i raised. on xxxx xxxx contacted wells fargo to dispute a transaction that appeared on my account statement. the details of the disputed transaction are as follows : dispute number : xxxx date posted : xx / xx / year > merchant name : xxxx xxxx amount of transaction : xxxx card number : xxxx status : call us despite providing all necessary documentation and clearly explaining the issue, wells fargo has failed to resolve the dispute satisfactorily. here is a summary of my interactions with wells fargo regarding this matter : 1. initial contact : on [ date ], i reported the dispute to wells fargos customer service and provided all requested information and supporting documents. 2. follow - up : despite multiple follow - up calls and emails on [ specific dates ], i received either inadequate responses or no response at all. 3. resolution timeline : according to the banks policy, the dispute should have been resolved within days. however, it has now been days / weeks / months, and the issue remains unresolved. 4. current status : as of today, [ date ], i have not received any satisfactory resolution or even an update on the status of my dispute. the lack of communication and resolution from wells fargo has caused me significant stress and inconvenience. i am requesting the cfpbs assistance in resolving this matter promptly and ensuring that wells fargo complies with all relevant consumer protection regulations. i have attached copies of all relevant correspondence and documentation for your review. please let me know if you require any additional information. thank you for your attention to this matter. sincerely, xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991870522499084
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037630,
+  "complaint_id": "9037630",
+  "product": "Credit card",
+  "complaint_what_happened": "IS U.S. Code $ 1681c-2 a consumer reporting agency shail block the reporting of any Information in the fle of a consumer that the consumer identifies as information that results from an alleged identity theft, not later than 4 business days after the date of receipe. it has been 30 days and you are in VIOLATION of this law because I am a victim of identty theftil Please delete these items IMMEDLATELY!\n\nThese accounts should not be furnished on my consumer report as they are in VIOLATION Under, 15 US Code 1681b - Permissible purposes of consumer reports ( ) IN GENERAL SUb to subsection ( c ) any consumer reporting agency may furnish a consumer report under the following circumstances and no other : ( 2 ) in accordance with the WRITTEN INSTRUCTION c consumer to whom it relates. I NEVER gave any consumer reporting agency WRITTEN CON to report amything on my consumer report which violates my rights as a federal protected consumer. NO CONSENT IS IDENTITY THEFT. As a consumer im demanding the deletion of accounts listed IMMEDIATELY!",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "303XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Credit Card Receivables Fund Incorporated",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "IS U.S. Code $ 1681c-2 a consumer reporting agency shail block the reporting of any Information in the fle of a consumer that the consumer identifies as information that results from an alleged identity theft, not later than 4 business days after the date of receipe. it has been 30 days and you are in VIOLATION of this law because I am a victim of identty theftil Please delete these items IMMEDLATELY!\n\nThese accounts should not be furnished on my consumer report as they are in VIOLATION Under, 15 US Code 1681b - Permissible purposes of consumer reports ( ) IN GENERAL SUb to subsection ( c ) any consumer reporting agency may furnish a consumer report under the following circumstances and no other : ( 2 ) in accordance with the WRITTEN INSTRUCTION c consumer to whom it relates. I NEVER gave any consumer reporting agency WRITTEN CON to report amything on my consumer report which violates my rights as a federal protected consumer. NO CONSENT IS IDENTITY THEFT. As a consumer im demanding the deletion of accounts listed IMMEDIATELY!"
+}
+
+Chunk:
+is u. s. code $ 1681c - 2 a consumer reporting agency shail block the reporting of any information in the fle of a consumer that the consumer identifies as information that results from an alleged identity theft, not later than 4 business days after the date of receipe. it has been 30 days and you are in violation of this law because i am a victim of identty theftil please delete these items immedlately! these accounts should not be furnished on my consumer report as they are in violation under, 15 us code 1681b - permissible purposes of consumer reports ( ) in general sub to subsection ( c ) any consumer reporting agency may furnish a consumer report under the following circumstances and no other : ( 2 ) in accordance with the written instruction c consumer to whom it relates. i never gave any consumer reporting agency written con to report amything on my consumer report which violates my rights as a federal protected consumer. no consent is identity theft. as a consumer im demanding the deletion of accounts listed immediately!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996033310890198
+}

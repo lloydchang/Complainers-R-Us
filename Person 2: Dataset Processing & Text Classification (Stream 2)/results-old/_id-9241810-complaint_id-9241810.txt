@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9241810,
+  "complaint_id": "9241810",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had a card for over 2 years. Never had a late payment till now. \n\nI recently had a rejected payment on my account due to lack of funds. My fault, a transfer hadn't gone through in time. \n\nIn attempting to fix the problem I tried to make a few payments from another account, as each one went through I confidently sent another. I didnt realize at the time that this account couldn't make outside payments and a week later I saw the rejections. \n\nI understand that my account was closed due to multiple rejected payments in a weeks time. \n\nHowever, they never told me the reason, I can only surmise this is the reason. They did offer to help me open a new card ..... \n\nThey have kept 2 years worth of rewards points and refuse to give the cash value. \n\nThey had no trouble closing the account without notice so I couldnt cash in the rewards in time. \n\nI just want my rewards points. I earned them. I paid {$95.00} a year for them. \n\nI also want my {$95.00} back since I can no longer use the card.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "971XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have had a card for over 2 years. Never had a late payment till now. \n\nI recently had a rejected payment on my account due to lack of funds. My fault, a transfer hadn't gone through in time. \n\nIn attempting to fix the problem I tried to make a few payments from another account, as each one went through I confidently sent another. I didnt realize at the time that this account couldn't make outside payments and a week later I saw the rejections. \n\nI understand that my account was closed due to multiple rejected payments in a weeks time. \n\nHowever, they never told me the reason, I can only surmise this is the reason. They did offer to help me open a new card ..... \n\nThey have kept 2 years worth of rewards points and refuse to give the cash value. \n\nThey had no trouble closing the account without notice so I couldnt cash in the rewards in time. \n\nI just want my rewards points. I earned them. I paid {$95.00} a year for them. \n\nI also want my {$95.00} back since I can no longer use the card."
+}
+
+Chunk:
+i have had a card for over 2 years. never had a late payment till now. i recently had a rejected payment on my account due to lack of funds. my fault, a transfer hadn't gone through in time. in attempting to fix the problem i tried to make a few payments from another account, as each one went through i confidently sent another. i didnt realize at the time that this account couldn't make outside payments and a week later i saw the rejections. i understand that my account was closed due to multiple rejected payments in a weeks time. however, they never told me the reason, i can only surmise this is the reason. they did offer to help me open a new card..... they have kept 2 years worth of rewards points and refuse to give the cash value. they had no trouble closing the account without notice so i couldnt cash in the rewards in time. i just want my rewards points. i earned them. i paid { $ 95. 00 } a year for them. i also want my { $ 95. 00 } back since i can no longer use the card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9929798245429993
+}

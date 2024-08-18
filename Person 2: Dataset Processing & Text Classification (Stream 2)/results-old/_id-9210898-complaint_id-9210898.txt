@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210898,
+  "complaint_id": "9210898",
+  "product": "Credit card",
+  "complaint_what_happened": "Wal-Mart XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX, i have store website i always shop on.I spend over XXXX XXXX dollars a month with our my XXXX, other goods.I shop using my Capital One Wal-Mart credit card online at this store.My order was on XXXX XXXX i order my 2nd purchase for identical Orbic cell phone prepaid XXXX, its same i bought my wife week before this one we got it by XXXXThis time Wal-Mart as i understand it was sold by Wal-Mart and website advertising, orders over {$35.00} gets 2day shipping fom XXXX  or XXXX.Today is Friday XXXX i tried getting support from ecommerce online Wal-Mart to cancel out order not got my XXXX XXXX XXXX took order my default address is XXXX, Utah ... XXXX  can't deliver me item they took pick-up from Wal-Mart should not take order, they done this so manytimes i never get my items.Wal-Mart email says its doesn't support since XX/XX/year> emails customer service..Trying to get full refunded unable.Capital one always ask for proof.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "840XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "UT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Wal-Mart XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX, i have store website i always shop on.I spend over XXXX XXXX dollars a month with our my XXXX, other goods.I shop using my Capital One Wal-Mart credit card online at this store.My order was on XXXX XXXX i order my 2nd purchase for identical Orbic cell phone prepaid XXXX, its same i bought my wife week before this one we got it by XXXXThis time Wal-Mart as i understand it was sold by Wal-Mart and website advertising, orders over {$35.00} gets 2day shipping fom XXXX  or XXXX.Today is Friday XXXX i tried getting support from ecommerce online Wal-Mart to cancel out order not got my XXXX XXXX XXXX took order my default address is XXXX, Utah ... XXXX  can't deliver me item they took pick-up from Wal-Mart should not take order, they done this so manytimes i never get my items.Wal-Mart email says its doesn't support since XX/XX/year> emails customer service..Trying to get full refunded unable.Capital one always ask for proof."
+}
+
+Chunk:
+wal - mart xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxxxxxx, i have store website i always shop on. i spend over xxxx xxxx dollars a month with our my xxxx, other goods. i shop using my capital one wal - mart credit card online at this store. my order was on xxxx xxxx i order my 2nd purchase for identical orbic cell phone prepaid xxxx, its same i bought my wife week before this one we got it by xxxxthis time wal - mart as i understand it was sold by wal - mart and website advertising, orders over { $ 35. 00 } gets 2day shipping fom xxxx or xxxx. today is friday xxxx i tried getting support from ecommerce online wal - mart to cancel out order not got my xxxx xxxx xxxx took order my default address is xxxx, utah... xxxx can't deliver me item they took pick - up from wal - mart should not take order, they done this so manytimes i never get my items. wal - mart email says its doesn't support since xx / xx / year > emails customer service.. trying to get full refunded unable. capital one always ask for proof.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987897276878357
+}

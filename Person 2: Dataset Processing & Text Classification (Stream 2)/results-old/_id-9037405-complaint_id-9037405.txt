@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037405,
+  "complaint_id": "9037405",
+  "product": "Credit card",
+  "complaint_what_happened": "I hope all is well. The reason why Im writing is because my Bank of America credit card ending in XXXX all my payment methods ( bank accounts ) have been deleted and its not allowing me to add any of my bank accounts to make a payment for the future payments. Can you please fix the issue? So it allows me to add my bank accounts when its time to make a payment. I have had this account for over 10 years and I havent ever had this issue before please fix it. Thank you for your time.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28314",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I hope all is well. The reason why Im writing is because my Bank of America credit card ending in XXXX all my payment methods ( bank accounts ) have been deleted and its not allowing me to add any of my bank accounts to make a payment for the future payments. Can you please fix the issue? So it allows me to add my bank accounts when its time to make a payment. I have had this account for over 10 years and I havent ever had this issue before please fix it. Thank you for your time."
+}
+
+Chunk:
+i hope all is well. the reason why im writing is because my bank of america credit card ending in xxxx all my payment methods ( bank accounts ) have been deleted and its not allowing me to add any of my bank accounts to make a payment for the future payments. can you please fix the issue? so it allows me to add my bank accounts when its time to make a payment. i have had this account for over 10 years and i havent ever had this issue before please fix it. thank you for your time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9954121708869934
+}

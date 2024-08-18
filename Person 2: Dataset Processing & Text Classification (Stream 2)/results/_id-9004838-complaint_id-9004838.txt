@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9004838,
+  "complaint_id": "9004838",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I call about capital one about some fraudulent charges on my account XXXX of them they cancel the card and claimed that they mail out another card to me. I have not gotten that card. I dont know who them mail out my cards too, and them are. Charge the card and hold me responsible for it when I reported those XXXX fraudulent transaction XXXX weeks later, they are saying that I am responsible for it how can I be responsible for that? I am not in the country for almost XXXX months Ive been in XXXX from XXXX. How can I benefit from a charge when I am XXXX miles away from this country I can send my Itinerary on my flight ticket to tell you when I leave this country and when I return, I will not be responsible for someone else charge",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10469",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX I call about capital one about some fraudulent charges on my account XXXX of them they cancel the card and claimed that they mail out another card to me. I have not gotten that card. I dont know who them mail out my cards too, and them are. Charge the card and hold me responsible for it when I reported those XXXX fraudulent transaction XXXX weeks later, they are saying that I am responsible for it how can I be responsible for that? I am not in the country for almost XXXX months Ive been in XXXX from XXXX. How can I benefit from a charge when I am XXXX miles away from this country I can send my Itinerary on my flight ticket to tell you when I leave this country and when I return, I will not be responsible for someone else charge"
+}
+
+Chunk:
+on xx / xx / xxxx i call about capital one about some fraudulent charges on my account xxxx of them they cancel the card and claimed that they mail out another card to me. i have not gotten that card. i dont know who them mail out my cards too, and them are. charge the card and hold me responsible for it when i reported those xxxx fraudulent transaction xxxx weeks later, they are saying that i am responsible for it how can i be responsible for that? i am not in the country for almost xxxx months ive been in xxxx from xxxx. how can i benefit from a charge when i am xxxx miles away from this country i can send my itinerary on my flight ticket to tell you when i leave this country and when i return, i will not be responsible for someone else charge
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988716244697571
+}

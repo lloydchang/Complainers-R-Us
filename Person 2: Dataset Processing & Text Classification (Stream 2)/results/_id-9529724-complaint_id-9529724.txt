@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9529724,
+  "complaint_id": "9529724",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, while traveling in XXXX, XXXX my wallet was stolen while on the subway. When I returned to my hotel I called and reported my cards stolen and cancelled my accounts with XXXX XXXX  XXXX  and Barclays Aviator American Airlines AAdvantage. At this time the thieves had already made XXXX charges which when questioned I told the phone representative from Barclays I had not made and they said they would remove these charges and a new was card was issued. \nWhen I returned home by XX/XX/XXXX and checked by account the fraudulent charges did not appear on my statement. However later XX/XX/XXXX I was sent a letter from Barclays stating that they had conducted an investigation and the charges would be returned to by bill. Subsequently, the XXXX charges : XX/XX/XXXX XXXX XXXX XXXX for {$1700.00} and XX/XX/XXXX XXXX XXXX XXXX for {$1400.00} re-appeared on my account. \nI spoke at length with Barclays XX/XX/XXXX and was under the impression that a new investigation was being opened. I also called back again later in XXXX and was told I had to wait 30 days. \nI reported both transactions as fraud on my online account. I also sent a number of messages on my online account and received similar information. \nToday, XX/XX/XXXX, I again called and was told no new investigation had been started in XXXX, and that they would start a new one today with the # XXXX and this may take another 30 days to complete. \nAt this time I am reaching out to you for assistance, as I strongly feel that I should not have to pay these fradulent charges and am frustrated with Barclays handling of this entire matter, as well as charging my account interest on these charges. \nLook forward to hearing from you",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "013XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On XX/XX/XXXX, while traveling in XXXX, XXXX my wallet was stolen while on the subway. When I returned to my hotel I called and reported my cards stolen and cancelled my accounts with XXXX XXXX  XXXX  and Barclays Aviator American Airlines AAdvantage. At this time the thieves had already made XXXX charges which when questioned I told the phone representative from Barclays I had not made and they said they would remove these charges and a new was card was issued. \nWhen I returned home by XX/XX/XXXX and checked by account the fraudulent charges did not appear on my statement. However later XX/XX/XXXX I was sent a letter from Barclays stating that they had conducted an investigation and the charges would be returned to by bill. Subsequently, the XXXX charges : XX/XX/XXXX XXXX XXXX XXXX for {$1700.00} and XX/XX/XXXX XXXX XXXX XXXX for {$1400.00} re-appeared on my account. \nI spoke at length with Barclays XX/XX/XXXX and was under the impression that a new investigation was being opened. I also called back again later in XXXX and was told I had to wait 30 days. \nI reported both transactions as fraud on my online account. I also sent a number of messages on my online account and received similar information. \nToday, XX/XX/XXXX, I again called and was told no new investigation had been started in XXXX, and that they would start a new one today with the # XXXX and this may take another 30 days to complete. \nAt this time I am reaching out to you for assistance, as I strongly feel that I should not have to pay these fradulent charges and am frustrated with Barclays handling of this entire matter, as well as charging my account interest on these charges. \nLook forward to hearing from you"
+}
+
+Chunk:
+on xx / xx / xxxx, while traveling in xxxx, xxxx my wallet was stolen while on the subway. when i returned to my hotel i called and reported my cards stolen and cancelled my accounts with xxxx xxxx xxxx and barclays aviator american airlines aadvantage. at this time the thieves had already made xxxx charges which when questioned i told the phone representative from barclays i had not made and they said they would remove these charges and a new was card was issued. when i returned home by xx / xx / xxxx and checked by account the fraudulent charges did not appear on my statement. however later xx / xx / xxxx i was sent a letter from barclays stating that they had conducted an investigation and the charges would be returned to by bill. subsequently, the xxxx charges : xx / xx / xxxx xxxx xxxx xxxx for { $ 1700. 00 } and xx / xx / xxxx xxxx xxxx xxxx for { $ 1400. 00 } re - appeared on my account. i spoke at length with barclays xx / xx / xxxx and was under the impression that a new investigation was being opened. i also called back again later in xxxx and was told i had to wait 30 days. i reported both transactions as fraud on my online account. i also sent a number of messages on my online account and received similar information. today, xx / xx / xxxx, i again called and was told no new investigation had been started in xxxx, and that they would start a new one today with the # xxxx and this may take another 30 days to complete. at this time i am reaching out to you for assistance, as i strongly feel that i should not have to pay these fradulent charges and am frustrated with barclays handling of this entire matter, as well as charging my account interest on these charges. look forward to hearing from you
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983060359954834
+}

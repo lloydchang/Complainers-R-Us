@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027811,
+  "complaint_id": "9027811",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a secured credit card with capital one. I paid a {$300.00} security deposit and have a {$300.00} credit limit. My last 2 payments have posted and cleared my bank and capital one but they put a 26 day hold on my payments for absolutely no reason. No one can tell me why. I've never had a payment returned or declined. I pay my card off every time I use it. I have talked to at least 6 people at capital one and none of them can give me a legitimate explanation. I'm ready to just close this card and move on. It's absolutely ridiculous that I can't use my own money.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32404",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I have a secured credit card with capital one. I paid a {$300.00} security deposit and have a {$300.00} credit limit. My last 2 payments have posted and cleared my bank and capital one but they put a 26 day hold on my payments for absolutely no reason. No one can tell me why. I've never had a payment returned or declined. I pay my card off every time I use it. I have talked to at least 6 people at capital one and none of them can give me a legitimate explanation. I'm ready to just close this card and move on. It's absolutely ridiculous that I can't use my own money."
+}
+
+Chunk:
+i have a secured credit card with capital one. i paid a { $ 300. 00 } security deposit and have a { $ 300. 00 } credit limit. my last 2 payments have posted and cleared my bank and capital one but they put a 26 day hold on my payments for absolutely no reason. no one can tell me why. i've never had a payment returned or declined. i pay my card off every time i use it. i have talked to at least 6 people at capital one and none of them can give me a legitimate explanation. i'm ready to just close this card and move on. it's absolutely ridiculous that i can't use my own money.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995878338813782
+}

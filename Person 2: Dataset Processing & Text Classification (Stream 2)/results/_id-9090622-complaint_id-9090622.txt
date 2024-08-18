@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9090622,
+  "complaint_id": "9090622",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a Care Credit account through Synchrony Bank in XX/XX/XXXX and scheduled automatic payments. At that time their webpage said I could set up automatic payments up to 1 year, so I did this. In XXXX and XXXX, auto payments were taken out, however, starting in XX/XX/XXXX, they stopped. I did not realize this until 2 months later when I received my statement in the mail advising I owed them late payment fees. ( I originally had the statements electronically sent. ) I called Care Credit ; I spoke with a nice lady, and she explained to me that somehow my automatic payments did not set up, she would set me up for automatic payments, ( this is supposed to have all been on a recording ), and that I needed to pay {$77.00} to bring my account up to date, which I did. \nNow, for XX/XX/XXXX, the auto payment did not come out of my checking account, ( it was due on XX/XX/XXXX ), because, again, no automatic payment schedule is set up. I called this morning at XXXXXXXX XXXX. ( PST ), I spoke with someone that I could not understand, but he said, again, that he had no record of my automatic payment scheduled, and he too advised he would set up automatic payments, again, and this was also recorded, but that I still had to pay the late fee of {$41.00}. I asked him to explain to me why automatic payment schedule was removed again from my account, and he said he could not say, so he transferred me to another representative who placed me on hold for XXXX hr. XXXX min. and never returning to the phone. I called back at XXXX spoke with another woman who again placed me on hold, this time for XXXX minutes but then hung up on me. \nI am totally frustrated ; I do not understand why they keep canceling my auto payments thus causing me to have to pay them {$41.00} in late fees. All of my other creditors have me on auto payments, I have never been late on any payments as you can see on my credit reports, and for some reason Care Credit keeps doing this to me. I think this is a scam of some sort to get late fees out of me. I have tried to get satisfaction from them, and I get ignored. This is the reason why I feel I should file a complaint as I can not seem to get any help from Care Credit/Synchrony Bank .",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I opened a Care Credit account through Synchrony Bank in XX/XX/XXXX and scheduled automatic payments. At that time their webpage said I could set up automatic payments up to 1 year, so I did this. In XXXX and XXXX, auto payments were taken out, however, starting in XX/XX/XXXX, they stopped. I did not realize this until 2 months later when I received my statement in the mail advising I owed them late payment fees. ( I originally had the statements electronically sent. ) I called Care Credit ; I spoke with a nice lady, and she explained to me that somehow my automatic payments did not set up, she would set me up for automatic payments, ( this is supposed to have all been on a recording ), and that I needed to pay {$77.00} to bring my account up to date, which I did. \nNow, for XX/XX/XXXX, the auto payment did not come out of my checking account, ( it was due on XX/XX/XXXX ), because, again, no automatic payment schedule is set up. I called this morning at XXXXXXXX XXXX. ( PST ), I spoke with someone that I could not understand, but he said, again, that he had no record of my automatic payment scheduled, and he too advised he would set up automatic payments, again, and this was also recorded, but that I still had to pay the late fee of {$41.00}. I asked him to explain to me why automatic payment schedule was removed again from my account, and he said he could not say, so he transferred me to another representative who placed me on hold for XXXX hr. XXXX min. and never returning to the phone. I called back at XXXX spoke with another woman who again placed me on hold, this time for XXXX minutes but then hung up on me. \nI am totally frustrated ; I do not understand why they keep canceling my auto payments thus causing me to have to pay them {$41.00} in late fees. All of my other creditors have me on auto payments, I have never been late on any payments as you can see on my credit reports, and for some reason Care Credit keeps doing this to me. I think this is a scam of some sort to get late fees out of me. I have tried to get satisfaction from them, and I get ignored. This is the reason why I feel I should file a complaint as I can not seem to get any help from Care Credit/Synchrony Bank ."
+}
+
+Chunk:
+complaint as i can not seem to get any help from care credit / synchrony bank.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996325969696045
+}

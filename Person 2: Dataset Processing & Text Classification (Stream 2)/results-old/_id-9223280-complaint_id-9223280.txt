@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9223280,
+  "complaint_id": "9223280",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I received a promotional email communication from Chase offering a {$900.00} reward if I open up a checking & savings bank account with them and complete several conditions. As part of this communication, they clearly state in the email : \" Plus, boost your earnings to 2 % back on everyday purchases up to an additional {$200.00} in rewards with your Amazon Visa. '' In the fine print, this bonus is detailed to be a 1 % boost to the existing 1 % cash back perk on the Amazon Visa card ( totaling to the 2 % advertised rate in the email ) ; however, despite completing both of the criteria for the new checking & savings checking account ( which isn't even an outlined requirement as part of this promotional communication ), I do not have any mention on my account of a 2 % cash back promotion. \n\nI have called multiple times ( most recently on XX/XX/year> ) and was bounced between their Retail & Card support agents, with both agents confirming that they do not see any promotion on my account relating to a 2 % offer for the Amazon Visa. I want Chase to fulfill their advertised 2 % everyday cash back rate on this card. I have used this card extensively since receiving this communication due to the language leading me to believe that I would have 2 % cash back on purchases. If I knew this was not the case, I would not have purchased ( $ XXXX in spend ) with the Amazon Visa card.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "22015",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "On XX/XX/year>, I received a promotional email communication from Chase offering a {$900.00} reward if I open up a checking & savings bank account with them and complete several conditions. As part of this communication, they clearly state in the email : \" Plus, boost your earnings to 2 % back on everyday purchases up to an additional {$200.00} in rewards with your Amazon Visa. '' In the fine print, this bonus is detailed to be a 1 % boost to the existing 1 % cash back perk on the Amazon Visa card ( totaling to the 2 % advertised rate in the email ) ; however, despite completing both of the criteria for the new checking & savings checking account ( which isn't even an outlined requirement as part of this promotional communication ), I do not have any mention on my account of a 2 % cash back promotion. \n\nI have called multiple times ( most recently on XX/XX/year> ) and was bounced between their Retail & Card support agents, with both agents confirming that they do not see any promotion on my account relating to a 2 % offer for the Amazon Visa. I want Chase to fulfill their advertised 2 % everyday cash back rate on this card. I have used this card extensively since receiving this communication due to the language leading me to believe that I would have 2 % cash back on purchases. If I knew this was not the case, I would not have purchased ( $ XXXX in spend ) with the Amazon Visa card."
+}
+
+Chunk:
+on xx / xx / year >, i received a promotional email communication from chase offering a { $ 900. 00 } reward if i open up a checking & savings bank account with them and complete several conditions. as part of this communication, they clearly state in the email : " plus, boost your earnings to 2 % back on everyday purchases up to an additional { $ 200. 00 } in rewards with your amazon visa.'' in the fine print, this bonus is detailed to be a 1 % boost to the existing 1 % cash back perk on the amazon visa card ( totaling to the 2 % advertised rate in the email ) ; however, despite completing both of the criteria for the new checking & savings checking account ( which isn't even an outlined requirement as part of this promotional communication ), i do not have any mention on my account of a 2 % cash back promotion. i have called multiple times ( most recently on xx / xx / year > ) and was bounced between their retail & card support agents, with both agents confirming that they do not see any promotion on my account relating to a 2 % offer for the amazon visa. i want chase to fulfill their advertised 2 % everyday cash back rate on this card. i have used this card extensively since receiving this communication due to the language leading me to believe that i would have 2 % cash back on purchases. if i knew this was not the case, i would not have purchased ( $ xxxx in spend ) with the amazon visa card.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9959371089935303
+}

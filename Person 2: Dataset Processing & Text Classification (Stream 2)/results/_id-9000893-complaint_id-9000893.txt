@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9000893,
+  "complaint_id": "9000893",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX XXXX XXXX XXXX {$10.00} per month since new issuer took over from XXXX XXXX  to Continental Finance After the XXXX {$10.00} charge, which I attempted to pay was declined by CONTINENTAL, I called to request an explanation which they could not satisfactorily provide. I attempted to pay the {$10.00} again, but they did not accept it. I called again to complain, and told them that I never agreed to any new servicer that would be assessing monthly maintenance fees on silent, unused accounts. I asked for my card and account to be closed. Since then, despite not making any purchases on the card AT ALL, I have been charged fees amounting to {$60.00}. I'm on the phone with them AGAIN asking for the appropriate action. The fees have adversely affected my credit report. I don't know what else to do!!!",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "210XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't close your account",
+  "text": "XXXX XXXX XXXX XXXX XXXX {$10.00} per month since new issuer took over from XXXX XXXX  to Continental Finance After the XXXX {$10.00} charge, which I attempted to pay was declined by CONTINENTAL, I called to request an explanation which they could not satisfactorily provide. I attempted to pay the {$10.00} again, but they did not accept it. I called again to complain, and told them that I never agreed to any new servicer that would be assessing monthly maintenance fees on silent, unused accounts. I asked for my card and account to be closed. Since then, despite not making any purchases on the card AT ALL, I have been charged fees amounting to {$60.00}. I'm on the phone with them AGAIN asking for the appropriate action. The fees have adversely affected my credit report. I don't know what else to do!!!"
+}
+
+Chunk:
+xxxx xxxx xxxx xxxx xxxx { $ 10. 00 } per month since new issuer took over from xxxx xxxx to continental finance after the xxxx { $ 10. 00 } charge, which i attempted to pay was declined by continental, i called to request an explanation which they could not satisfactorily provide. i attempted to pay the { $ 10. 00 } again, but they did not accept it. i called again to complain, and told them that i never agreed to any new servicer that would be assessing monthly maintenance fees on silent, unused accounts. i asked for my card and account to be closed. since then, despite not making any purchases on the card at all, i have been charged fees amounting to { $ 60. 00 }. i'm on the phone with them again asking for the appropriate action. the fees have adversely affected my credit report. i don't know what else to do!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993979930877686
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9197411,
+  "complaint_id": "9197411",
+  "product": "Credit card",
+  "complaint_what_happened": "The Capital One Credit card company sent a credit card letter stating that they closed my account on XX/XX/year>. They stated no adequate reason for doing so. I then called the company and they refused to give me any other understanding reason on why they did so. The closing dropped my credit score a whopping XXXX points. They gave me deficient info regarding why they did and didnt want to give me any more info on the matter.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "78664",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "The Capital One Credit card company sent a credit card letter stating that they closed my account on XX/XX/year>. They stated no adequate reason for doing so. I then called the company and they refused to give me any other understanding reason on why they did so. The closing dropped my credit score a whopping XXXX points. They gave me deficient info regarding why they did and didnt want to give me any more info on the matter."
+}
+
+Chunk:
+the capital one credit card company sent a credit card letter stating that they closed my account on xx / xx / year >. they stated no adequate reason for doing so. i then called the company and they refused to give me any other understanding reason on why they did so. the closing dropped my credit score a whopping xxxx points. they gave me deficient info regarding why they did and didnt want to give me any more info on the matter.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997760653495789
+}

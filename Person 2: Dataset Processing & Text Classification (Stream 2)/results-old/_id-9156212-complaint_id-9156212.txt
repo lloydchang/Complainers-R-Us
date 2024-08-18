@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156212,
+  "complaint_id": "9156212",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XX/XX/2024 : I opened up a time payment plan offered by Chase Bank which allowed me to set monthly payment of {$1000.00} per month over a 12 month period interest free. I called to inquire if the plan could be paid early without penalty. I was only advise that I would have to pay the TOTAL amount owed on the plan. I could not apply additional payments solely against the plan. WHAT I WASN'T ADVISED WAS THAT ALL REFUNDS FROM PREVIOUS PURCHASES WOULD BE APPLIED TOWARDS THE INTEREST FREE PLAN AND NOT MY CREDIT CARD PURCHASES. THIS INTEREST FREE PLAN HAS BEEN REDUCED FROM {$12000.00} TO {$5000.00}. IN TWO MONTHS.\n\nI only realized what was happening after a second billing cycle which showed my interest free plan had been reduced by several XXXX of dollars. I call Customer Service. The bank has records of my calls about my issue. The first representative stated my issue would be referred to the escalations department. Last week I spoke to supervisor who assured me it was being looked into. Only, during these conversations, was I advised re : the credit card refund policy to the plan. I was also advised to expect a follow up in writing. \n\nOn XXXX XX/XX/2024, I made another called to the bank and was passed onto a person in the escalations department. He reiterated the plan policy and flatly stated nothing could be done to fix this issue. He gave me the address to write a letter to Chase Card Services. I wanted the funds moved from the plan to the credit card purchases making up my balance. \n\nI called again later in the afternoon. I asked the representative where -in writing- is the policy advising the consumer that all refunds to my credit card would be applied to the plan first and NOT back against the original purchases.. I also asked where can I see the itemized list of the refund transactions applied to the plan. I only see total amounts reducing the amount owed on plan. My rewards points of over {$1300.00} was cashed in and I do not know if the moneys were applied against the plan. \n\nWhen I set up the pay over time payment plan, there was no accompanying documentation. I question if this is a fair practice and even fraudulent. To avoid paying interest on my credit card, I have had to pay a larger interest saving balance. It contradicts the reason why I set it up the plan in the first place. Certainly not in the best interest of the consumer.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20169",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "XXXX XX/XX/2024 : I opened up a time payment plan offered by Chase Bank which allowed me to set monthly payment of {$1000.00} per month over a 12 month period interest free. I called to inquire if the plan could be paid early without penalty. I was only advise that I would have to pay the TOTAL amount owed on the plan. I could not apply additional payments solely against the plan. WHAT I WASN'T ADVISED WAS THAT ALL REFUNDS FROM PREVIOUS PURCHASES WOULD BE APPLIED TOWARDS THE INTEREST FREE PLAN AND NOT MY CREDIT CARD PURCHASES. THIS INTEREST FREE PLAN HAS BEEN REDUCED FROM {$12000.00} TO {$5000.00}. IN TWO MONTHS.\n\nI only realized what was happening after a second billing cycle which showed my interest free plan had been reduced by several XXXX of dollars. I call Customer Service. The bank has records of my calls about my issue. The first representative stated my issue would be referred to the escalations department. Last week I spoke to supervisor who assured me it was being looked into. Only, during these conversations, was I advised re : the credit card refund policy to the plan. I was also advised to expect a follow up in writing. \n\nOn XXXX XX/XX/2024, I made another called to the bank and was passed onto a person in the escalations department. He reiterated the plan policy and flatly stated nothing could be done to fix this issue. He gave me the address to write a letter to Chase Card Services. I wanted the funds moved from the plan to the credit card purchases making up my balance. \n\nI called again later in the afternoon. I asked the representative where -in writing- is the policy advising the consumer that all refunds to my credit card would be applied to the plan first and NOT back against the original purchases.. I also asked where can I see the itemized list of the refund transactions applied to the plan. I only see total amounts reducing the amount owed on plan. My rewards points of over {$1300.00} was cashed in and I do not know if the moneys were applied against the plan. \n\nWhen I set up the pay over time payment plan, there was no accompanying documentation. I question if this is a fair practice and even fraudulent. To avoid paying interest on my credit card, I have had to pay a larger interest saving balance. It contradicts the reason why I set it up the plan in the first place. Certainly not in the best interest of the consumer."
+}
+
+Chunk:
+the best interest of the consumer.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9992635846138
+}

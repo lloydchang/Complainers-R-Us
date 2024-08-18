@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9692937,
+  "complaint_id": "9692937",
+  "product": "Credit card",
+  "complaint_what_happened": "Hello, My ShopYourWay Mastercard is running a promotion for {$70.00} when you spend {$1000.00} online. Recently I made a purchase of {$1600.00} for a business conference I am going to in XXXX. However, I used the wrong credit card ( my XXXX XXXX ). I called the merchant and asked for them to refund the purchase so I can use my ShopYourWay Mastercard to get the {$70.00} promotional credit. While on the phone with the merchant they advised I could go back online to make the purchase or they could simply take my card number right there. I had a brain lapse and completely forgot about the online piece of the promotion and gave them the card number over the phone. I then called customer service, told them the story, and asked them to make a one time courtesy adjustment given the hoops I'm going through to use the card to get this promotion, and they wouldn't help me, so I am now submitting this complaint in hopes that you'll help. Just so you can see I am not making up some looney story, I attached a screenshot of my XXXX XXXX - still awaiting for the credit to hit. I've also attached screenshots showing that making the purchase online is clearly an option.",
+  "date_sent_to_company": "2024-08-02T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-02T12:00:00-05:00",
+  "state": "DE",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "Hello, My ShopYourWay Mastercard is running a promotion for {$70.00} when you spend {$1000.00} online. Recently I made a purchase of {$1600.00} for a business conference I am going to in XXXX. However, I used the wrong credit card ( my XXXX XXXX ). I called the merchant and asked for them to refund the purchase so I can use my ShopYourWay Mastercard to get the {$70.00} promotional credit. While on the phone with the merchant they advised I could go back online to make the purchase or they could simply take my card number right there. I had a brain lapse and completely forgot about the online piece of the promotion and gave them the card number over the phone. I then called customer service, told them the story, and asked them to make a one time courtesy adjustment given the hoops I'm going through to use the card to get this promotion, and they wouldn't help me, so I am now submitting this complaint in hopes that you'll help. Just so you can see I am not making up some looney story, I attached a screenshot of my XXXX XXXX - still awaiting for the credit to hit. I've also attached screenshots showing that making the purchase online is clearly an option."
+}
+
+Chunk:
+hello, my shopyourway mastercard is running a promotion for { $ 70. 00 } when you spend { $ 1000. 00 } online. recently i made a purchase of { $ 1600. 00 } for a business conference i am going to in xxxx. however, i used the wrong credit card ( my xxxx xxxx ). i called the merchant and asked for them to refund the purchase so i can use my shopyourway mastercard to get the { $ 70. 00 } promotional credit. while on the phone with the merchant they advised i could go back online to make the purchase or they could simply take my card number right there. i had a brain lapse and completely forgot about the online piece of the promotion and gave them the card number over the phone. i then called customer service, told them the story, and asked them to make a one time courtesy adjustment given the hoops i'm going through to use the card to get this promotion, and they wouldn't help me, so i am now submitting this complaint in hopes that you'll help. just so you can see i am not making up some looney story, i attached a screenshot of my xxxx xxxx - still awaiting for the credit to hit. i've also attached screenshots showing that making the purchase online is clearly an option.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989270567893982
+}

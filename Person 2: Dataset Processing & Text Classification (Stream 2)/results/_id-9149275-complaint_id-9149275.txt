@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9149275,
+  "complaint_id": "9149275",
+  "product": "Credit card",
+  "complaint_what_happened": "This debt collector engaged in abusive, deceptive, and unfair practices of the FDCPA which it prohibits. They furnished this account that we didn't agree upon and I didn't sign an agreement on. A legal contract is signed by two parties and I did not participate in any of it. More so they didn't follow the proper 5 step validation procedure which make this unfair practices. According to the FDCPA I'm entitled to XXXX dollars per violation and clearly they violated my rights.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "75063",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "This debt collector engaged in abusive, deceptive, and unfair practices of the FDCPA which it prohibits. They furnished this account that we didn't agree upon and I didn't sign an agreement on. A legal contract is signed by two parties and I did not participate in any of it. More so they didn't follow the proper 5 step validation procedure which make this unfair practices. According to the FDCPA I'm entitled to XXXX dollars per violation and clearly they violated my rights."
+}
+
+Chunk:
+this debt collector engaged in abusive, deceptive, and unfair practices of the fdcpa which it prohibits. they furnished this account that we didn't agree upon and i didn't sign an agreement on. a legal contract is signed by two parties and i did not participate in any of it. more so they didn't follow the proper 5 step validation procedure which make this unfair practices. according to the fdcpa i'm entitled to xxxx dollars per violation and clearly they violated my rights.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999416708946228
+}

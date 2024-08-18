@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9116197,
+  "complaint_id": "9116197",
+  "product": "Credit card",
+  "complaint_what_happened": "We received a gift card from visa for our wedding gift. After opening the cover we noticed the card number was half removed and so is the security code. I've tried several times to send documents and resolve this with XXXX from debit visa to no success. Can you please help?",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60614",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Incomm Holdings Inc.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem getting a working replacement card",
+  "text": "We received a gift card from visa for our wedding gift. After opening the cover we noticed the card number was half removed and so is the security code. I've tried several times to send documents and resolve this with XXXX from debit visa to no success. Can you please help?"
+}
+
+Chunk:
+we received a gift card from visa for our wedding gift. after opening the cover we noticed the card number was half removed and so is the security code. i've tried several times to send documents and resolve this with xxxx from debit visa to no success. can you please help?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996155500411987
+}

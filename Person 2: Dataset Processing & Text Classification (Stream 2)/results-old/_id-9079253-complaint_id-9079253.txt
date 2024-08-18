@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9079253,
+  "complaint_id": "9079253",
+  "product": "Credit card",
+  "complaint_what_happened": "I have spoken to 5 people in the Dispute Dept. XXXX XXXX XXXX XXXX XXXX XXXX. None of them refunded the {$450.00} due to the merchant, as I authorized. A Dispute Dept. manager XXXX XXXX ) who I spoke to on XX/XX/XXXX gave me inaccurate info stating that the merchant would have the refund on XX/XX/XXXX. I have a piece of furniture that was delivered damaged which is being promised to me to be replaced by the merchant, but they want their {$450.00} paid to them first. Visa 's Dispute Dept. was told by me and my husband on XX/XX/XXXX to release the disputed amount and even when I spoke to 4 other people in the Dispute Dept. on XXXX XXXX XXXX XXXX XXXX XXXX nobody did what I instructed/authorized and then when I finally asked for a supervisor on XX/XX/XXXX, the employee I talked to said a supervisor wouldn't tell me anything different. I had to tell that employee twice to get me a supervisor. The supervisor gave me incorrect info according to the supervisor I spoke to on XX/XX/XXXX who also told me there was nobody else to escalate this issue to and now the merchant has to wait until possibly XX/XX/XXXX to get their money which means I have been waiting over 59 days for the issue to be resolved through the Dispute Department which they have failed at on now 6 different calls. I want someone to get to a high level executive at Chase Bank Visa where this credit card is from and make them aware of the lousy way this has been handled.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60543",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have spoken to 5 people in the Dispute Dept. XXXX XXXX XXXX XXXX XXXX XXXX. None of them refunded the {$450.00} due to the merchant, as I authorized. A Dispute Dept. manager XXXX XXXX ) who I spoke to on XX/XX/XXXX gave me inaccurate info stating that the merchant would have the refund on XX/XX/XXXX. I have a piece of furniture that was delivered damaged which is being promised to me to be replaced by the merchant, but they want their {$450.00} paid to them first. Visa 's Dispute Dept. was told by me and my husband on XX/XX/XXXX to release the disputed amount and even when I spoke to 4 other people in the Dispute Dept. on XXXX XXXX XXXX XXXX XXXX XXXX nobody did what I instructed/authorized and then when I finally asked for a supervisor on XX/XX/XXXX, the employee I talked to said a supervisor wouldn't tell me anything different. I had to tell that employee twice to get me a supervisor. The supervisor gave me incorrect info according to the supervisor I spoke to on XX/XX/XXXX who also told me there was nobody else to escalate this issue to and now the merchant has to wait until possibly XX/XX/XXXX to get their money which means I have been waiting over 59 days for the issue to be resolved through the Dispute Department which they have failed at on now 6 different calls. I want someone to get to a high level executive at Chase Bank Visa where this credit card is from and make them aware of the lousy way this has been handled."
+}
+
+Chunk:
+i have spoken to 5 people in the dispute dept. xxxx xxxx xxxx xxxx xxxx xxxx. none of them refunded the { $ 450. 00 } due to the merchant, as i authorized. a dispute dept. manager xxxx xxxx ) who i spoke to on xx / xx / xxxx gave me inaccurate info stating that the merchant would have the refund on xx / xx / xxxx. i have a piece of furniture that was delivered damaged which is being promised to me to be replaced by the merchant, but they want their { $ 450. 00 } paid to them first. visa's dispute dept. was told by me and my husband on xx / xx / xxxx to release the disputed amount and even when i spoke to 4 other people in the dispute dept. on xxxx xxxx xxxx xxxx xxxx xxxx nobody did what i instructed / authorized and then when i finally asked for a supervisor on xx / xx / xxxx, the employee i talked to said a supervisor wouldn't tell me anything different. i had to tell that employee twice to get me a supervisor. the supervisor gave me incorrect info according to the supervisor i spoke to on xx / xx / xxxx who also told me there was nobody else to escalate this issue to and now the merchant has to wait until possibly xx / xx / xxxx to get their money which means i have been waiting over 59 days for the issue to be resolved through the dispute department which they have failed at on now 6 different calls. i want someone to get to a high level executive at chase bank visa where this credit card is from and make them aware of the lousy way this has been handled.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994719624519348
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9571097,
+  "complaint_id": "9571097",
+  "product": "Credit card",
+  "complaint_what_happened": "I was scammed and the salesman knew there is no way I would hv agreed to paying to separate companies for alarm systems I sent a copy of my socia security card with my signature on it please compare",
+  "date_sent_to_company": "2024-07-21T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "322XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-07-21T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I was scammed and the salesman knew there is no way I would hv agreed to paying to separate companies for alarm systems I sent a copy of my socia security card with my signature on it please compare"
+}
+
+Chunk:
+i was scammed and the salesman knew there is no way i would hv agreed to paying to separate companies for alarm systems i sent a copy of my socia security card with my signature on it please compare
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980939030647278
+}

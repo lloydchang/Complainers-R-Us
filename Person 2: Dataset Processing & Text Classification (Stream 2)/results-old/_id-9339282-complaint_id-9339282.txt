@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9339282,
+  "complaint_id": "9339282",
+  "product": "Credit card",
+  "complaint_what_happened": "the following complaint is in regard to the previous complaints that have been ignored, disregarded and even marked as duplicate, even tho the complaint was in fact not duplicate.The following account ending XXXX is to be marked as in dispute and has yet be resolved. paypalcredit/synchrony bank closed my account without permission, lowered my credit limit andused my non public private information without consent XXXX XXXX the consumer in fact reached out to paypalcredit/synchrony bank multiple times and once again have been ignored they only respond when i put complaints in via CFPB. I sent an affidavit of facts, debt verification request along with exhibits of paypal credit /synchrony banks deceptive acts and practices and violations of my consumer rights and applicable consumer protection laws specifically but not limited to the FCRA and all its mandated requirements it was delivered on XXXX tracking number # XXXX the file was too big to include the affidavit in pdf form CC : XXXX XXXX ( senoir specialist corporate consumer relations synchrony bank attn # XXXX CC : XXXX ( senoir specialist corporate consumer relations synchrony bank attn # XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX : XXXX XXXX ( Ceo paypal ), CC : XXXX XXXX ( XXXX Paypal ) CC : XXXX XXXX ( Ceo of synchrony bank ) CC : XXXX XXXX XXXX ( CFO synchrony bank )",
+  "date_sent_to_company": "2024-07-03T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10001",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "the following complaint is in regard to the previous complaints that have been ignored, disregarded and even marked as duplicate, even tho the complaint was in fact not duplicate.The following account ending XXXX is to be marked as in dispute and has yet be resolved. paypalcredit/synchrony bank closed my account without permission, lowered my credit limit andused my non public private information without consent XXXX XXXX the consumer in fact reached out to paypalcredit/synchrony bank multiple times and once again have been ignored they only respond when i put complaints in via CFPB. I sent an affidavit of facts, debt verification request along with exhibits of paypal credit /synchrony banks deceptive acts and practices and violations of my consumer rights and applicable consumer protection laws specifically but not limited to the FCRA and all its mandated requirements it was delivered on XXXX tracking number # XXXX the file was too big to include the affidavit in pdf form CC : XXXX XXXX ( senoir specialist corporate consumer relations synchrony bank attn # XXXX CC : XXXX ( senoir specialist corporate consumer relations synchrony bank attn # XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX : XXXX XXXX ( Ceo paypal ), CC : XXXX XXXX ( XXXX Paypal ) CC : XXXX XXXX ( Ceo of synchrony bank ) CC : XXXX XXXX XXXX ( CFO synchrony bank )"
+}
+
+Chunk:
+the following complaint is in regard to the previous complaints that have been ignored, disregarded and even marked as duplicate, even tho the complaint was in fact not duplicate. the following account ending xxxx is to be marked as in dispute and has yet be resolved. paypalcredit / synchrony bank closed my account without permission, lowered my credit limit andused my non public private information without consent xxxx xxxx the consumer in fact reached out to paypalcredit / synchrony bank multiple times and once again have been ignored they only respond when i put complaints in via cfpb. i sent an affidavit of facts, debt verification request along with exhibits of paypal credit / synchrony banks deceptive acts and practices and violations of my consumer rights and applicable consumer protection laws specifically but not limited to the fcra and all its mandated requirements it was delivered on xxxx tracking number # xxxx the file was too big to include the affidavit in pdf form cc : xxxx xxxx ( senoir specialist corporate consumer relations synchrony bank attn # xxxx cc : xxxx ( senoir specialist corporate consumer relations synchrony bank attn # xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx : xxxx xxxx ( ceo paypal ), cc : xxxx xxxx ( xxxx paypal ) cc : xxxx xxxx ( ceo of synchrony bank ) cc : xxxx xxxx xxxx ( cfo synchrony bank )
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992198944091797
+}

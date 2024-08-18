@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9226699,
+  "complaint_id": "9226699",
+  "product": "Credit card",
+  "complaint_what_happened": "For dispute XXXX I made my concession that I would accept the bill as long as the merchant sent me the certificate of the bracelet back. But XXXX said they lost it, so what did I get for all the money I paid?? \n\nThis is already suspected of defrauding consumers. It is ridiculous that Amex is still on the side of the merchants.",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94538",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-12T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "For dispute XXXX I made my concession that I would accept the bill as long as the merchant sent me the certificate of the bracelet back. But XXXX said they lost it, so what did I get for all the money I paid?? \n\nThis is already suspected of defrauding consumers. It is ridiculous that Amex is still on the side of the merchants."
+}
+
+Chunk:
+for dispute xxxx i made my concession that i would accept the bill as long as the merchant sent me the certificate of the bracelet back. but xxxx said they lost it, so what did i get for all the money i paid?? this is already suspected of defrauding consumers. it is ridiculous that amex is still on the side of the merchants.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995521903038025
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9337448,
+  "complaint_id": "9337448",
+  "product": "Credit card",
+  "complaint_what_happened": "Letter was sent to me dated XXXX, stating they had enrolled me in a Credit Protection Program from XXXX to XXXX that I didn't authorize nor was I aware of. In that time time frame they took {$340.00} in fees. They did not make me aware of this until over 20 years later. Considering they had access to these funds for over two decades, and how banks use Fractional Reserve Banking to 10 times the amount of these of funds, it's easy to see that they made quite a bit of money in over 20 years time using it.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89014",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "Letter was sent to me dated XXXX, stating they had enrolled me in a Credit Protection Program from XXXX to XXXX that I didn't authorize nor was I aware of. In that time time frame they took {$340.00} in fees. They did not make me aware of this until over 20 years later. Considering they had access to these funds for over two decades, and how banks use Fractional Reserve Banking to 10 times the amount of these of funds, it's easy to see that they made quite a bit of money in over 20 years time using it."
+}
+
+Chunk:
+letter was sent to me dated xxxx, stating they had enrolled me in a credit protection program from xxxx to xxxx that i didn't authorize nor was i aware of. in that time time frame they took { $ 340. 00 } in fees. they did not make me aware of this until over 20 years later. considering they had access to these funds for over two decades, and how banks use fractional reserve banking to 10 times the amount of these of funds, it's easy to see that they made quite a bit of money in over 20 years time using it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9894647598266602
+}

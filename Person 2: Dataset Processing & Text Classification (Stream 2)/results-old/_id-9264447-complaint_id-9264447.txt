@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9264447,
+  "complaint_id": "9264447",
+  "product": "Credit card",
+  "complaint_what_happened": "I phone to pay off a deferred interest balance and was told that they could not direct my payment, that only the minimum payment, which THEY dictate, would be applied and the rest to the remaining higher interest rate balance, EVEN THOUGH THE INTEREST DEFERRED PROMOTION EXPIRES TOMORROW, XX/XX/year>. Law specifies the payments in the last two billing cycles apply to the deferred interest balance, but Capitol One is NOT abiding by that law. It seems, in my opinion based on my experience, at the least fraudulent and misleading when pushing the interest deferred balance transfer promotion with no clear information given that one could not direct payments, that there was no way to pay off the amount if any other charges were added.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37042",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I phone to pay off a deferred interest balance and was told that they could not direct my payment, that only the minimum payment, which THEY dictate, would be applied and the rest to the remaining higher interest rate balance, EVEN THOUGH THE INTEREST DEFERRED PROMOTION EXPIRES TOMORROW, XX/XX/year>. Law specifies the payments in the last two billing cycles apply to the deferred interest balance, but Capitol One is NOT abiding by that law. It seems, in my opinion based on my experience, at the least fraudulent and misleading when pushing the interest deferred balance transfer promotion with no clear information given that one could not direct payments, that there was no way to pay off the amount if any other charges were added."
+}
+
+Chunk:
+i phone to pay off a deferred interest balance and was told that they could not direct my payment, that only the minimum payment, which they dictate, would be applied and the rest to the remaining higher interest rate balance, even though the interest deferred promotion expires tomorrow, xx / xx / year >. law specifies the payments in the last two billing cycles apply to the deferred interest balance, but capitol one is not abiding by that law. it seems, in my opinion based on my experience, at the least fraudulent and misleading when pushing the interest deferred balance transfer promotion with no clear information given that one could not direct payments, that there was no way to pay off the amount if any other charges were added.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995155334472656
+}

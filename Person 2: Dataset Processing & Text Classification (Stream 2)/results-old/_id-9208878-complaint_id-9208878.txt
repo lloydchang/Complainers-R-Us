@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9208878,
+  "complaint_id": "9208878",
+  "product": "Credit card",
+  "complaint_what_happened": "I received an advertising email from Apple Card indicating if I signed up by the deadline I will get {$20.00} bonus promo per month for 10 months to get {$200.00}. Terms were as follows. I clicked on the link in the promo email and did everything correctly but have not been receiving the promo bonuses. When I escalated they told me I did not click on the link, which is not true. I definitely clicked on the link and even have all the backup to prove that which I already submitted to them. I also filed several complaints after and they didnt even respond back. Please help me resolve this. \n\nOffer promo is valid only for new Apple Card holders who apply under this promotion and open an account in between XX/XX/year> - XX/XX/year>, and makes a minimum of ten ( 10 ) purchase transactions on their new Apple Card account each month during Purchase Period. {$200.00} is the maximum total bonus Daily Cash that can be earned during the Purchase Period. Purchases can only be made by the new Apple Card Owner.",
+  "date_sent_to_company": "2024-06-08T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91302",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I received an advertising email from Apple Card indicating if I signed up by the deadline I will get {$20.00} bonus promo per month for 10 months to get {$200.00}. Terms were as follows. I clicked on the link in the promo email and did everything correctly but have not been receiving the promo bonuses. When I escalated they told me I did not click on the link, which is not true. I definitely clicked on the link and even have all the backup to prove that which I already submitted to them. I also filed several complaints after and they didnt even respond back. Please help me resolve this. \n\nOffer promo is valid only for new Apple Card holders who apply under this promotion and open an account in between XX/XX/year> - XX/XX/year>, and makes a minimum of ten ( 10 ) purchase transactions on their new Apple Card account each month during Purchase Period. {$200.00} is the maximum total bonus Daily Cash that can be earned during the Purchase Period. Purchases can only be made by the new Apple Card Owner."
+}
+
+Chunk:
+i received an advertising email from apple card indicating if i signed up by the deadline i will get { $ 20. 00 } bonus promo per month for 10 months to get { $ 200. 00 }. terms were as follows. i clicked on the link in the promo email and did everything correctly but have not been receiving the promo bonuses. when i escalated they told me i did not click on the link, which is not true. i definitely clicked on the link and even have all the backup to prove that which i already submitted to them. i also filed several complaints after and they didnt even respond back. please help me resolve this. offer promo is valid only for new apple card holders who apply under this promotion and open an account in between xx / xx / year > - xx / xx / year >, and makes a minimum of ten ( 10 ) purchase transactions on their new apple card account each month during purchase period. { $ 200. 00 } is the maximum total bonus daily cash that can be earned during the purchase period. purchases can only be made by the new apple card owner.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981284737586975
+}

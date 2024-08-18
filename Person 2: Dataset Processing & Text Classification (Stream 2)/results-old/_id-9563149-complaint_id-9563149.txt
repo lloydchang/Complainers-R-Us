@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9563149,
+  "complaint_id": "9563149",
+  "product": "Credit card",
+  "complaint_what_happened": "My wife filed two disputes against Home Depot regarding payments that were not credited to my account. My grandson, XXXX XXXX ( who is an authorized user ), made a payment to Home Depot online on XXXX XXXX XXXXXX/XX/year> in the amount of {$120.00} and another payment on XX/XX/XXXX in the amount of {$220.00}. \n\nThe {$120.00} payment was made with his XXXX XXXX credit card and the {$220.00} payment was made with his XXXX credit card. Citibank refuses to credit my account or return the money. \n\nHome Depot Credit Card XXXX XXXX XXXX Account # XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "70560",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "My wife filed two disputes against Home Depot regarding payments that were not credited to my account. My grandson, XXXX XXXX ( who is an authorized user ), made a payment to Home Depot online on XXXX XXXX XXXXXX/XX/year> in the amount of {$120.00} and another payment on XX/XX/XXXX in the amount of {$220.00}. \n\nThe {$120.00} payment was made with his XXXX XXXX credit card and the {$220.00} payment was made with his XXXX credit card. Citibank refuses to credit my account or return the money. \n\nHome Depot Credit Card XXXX XXXX XXXX Account # XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+my wife filed two disputes against home depot regarding payments that were not credited to my account. my grandson, xxxx xxxx ( who is an authorized user ), made a payment to home depot online on xxxx xxxx xxxxxx / xx / year > in the amount of { $ 120. 00 } and another payment on xx / xx / xxxx in the amount of { $ 220. 00 }. the { $ 120. 00 } payment was made with his xxxx xxxx credit card and the { $ 220. 00 } payment was made with his xxxx credit card. citibank refuses to credit my account or return the money. home depot credit card xxxx xxxx xxxx account # xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99727863073349
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9329620,
+  "complaint_id": "9329620",
+  "product": "Credit card",
+  "complaint_what_happened": "Bank of America messed up my credit card payments. Here are the timeline : XXXX  I have a statement balance of XXXX in XX/XX/XXXX. At the beginning of XXXX, out of nowhere, boa initiated two identical payments of XXXX from my checking account at XXXX XXXX XXXX. I called on XXXX and the representative initiated a return of payment on my of the two identical payments, and told me that the money would be returned to my checking account in a week XXXX. Not seeing the money, I called again on XXXX or XX/XX/XXXX and was told that the money would be there in two more days. \nXXXX. Still not seeing the money, I called again around XX/XX/XXXX, and was told that due to this being a transfer to a different bank for more than XXXX, it require extra approval which might take up to 60 days XXXX. On XX/XX/XXXX, I got a message from boa collection department saying that the other payment at the beginning of the month was also returned, and I'm thus past due. \n\nAs you could apparent see, none of these makes sense to me, because I've paid my balance, and actually overpaid it due to some unknown reason on boa side, and I've yet to see any of the overpaid money back on my account My requests are : XXXX. For boa to sort out the second return payment issue, and mark my credit card bill as fully paid XXXX. For boa to return one of the two identical payments to me XXXX. For boa to compensate me for the interest loss on XXXX dollars, at the current fed rate of 5 % per year, for the duration between XX/XX/XXXX to the date when I get my extra payment back",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33133",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "Bank of America messed up my credit card payments. Here are the timeline : XXXX  I have a statement balance of XXXX in XX/XX/XXXX. At the beginning of XXXX, out of nowhere, boa initiated two identical payments of XXXX from my checking account at XXXX XXXX XXXX. I called on XXXX and the representative initiated a return of payment on my of the two identical payments, and told me that the money would be returned to my checking account in a week XXXX. Not seeing the money, I called again on XXXX or XX/XX/XXXX and was told that the money would be there in two more days. \nXXXX. Still not seeing the money, I called again around XX/XX/XXXX, and was told that due to this being a transfer to a different bank for more than XXXX, it require extra approval which might take up to 60 days XXXX. On XX/XX/XXXX, I got a message from boa collection department saying that the other payment at the beginning of the month was also returned, and I'm thus past due. \n\nAs you could apparent see, none of these makes sense to me, because I've paid my balance, and actually overpaid it due to some unknown reason on boa side, and I've yet to see any of the overpaid money back on my account My requests are : XXXX. For boa to sort out the second return payment issue, and mark my credit card bill as fully paid XXXX. For boa to return one of the two identical payments to me XXXX. For boa to compensate me for the interest loss on XXXX dollars, at the current fed rate of 5 % per year, for the duration between XX/XX/XXXX to the date when I get my extra payment back"
+}
+
+Chunk:
+bank of america messed up my credit card payments. here are the timeline : xxxx i have a statement balance of xxxx in xx / xx / xxxx. at the beginning of xxxx, out of nowhere, boa initiated two identical payments of xxxx from my checking account at xxxx xxxx xxxx. i called on xxxx and the representative initiated a return of payment on my of the two identical payments, and told me that the money would be returned to my checking account in a week xxxx. not seeing the money, i called again on xxxx or xx / xx / xxxx and was told that the money would be there in two more days. xxxx. still not seeing the money, i called again around xx / xx / xxxx, and was told that due to this being a transfer to a different bank for more than xxxx, it require extra approval which might take up to 60 days xxxx. on xx / xx / xxxx, i got a message from boa collection department saying that the other payment at the beginning of the month was also returned, and i'm thus past due. as you could apparent see, none of these makes sense to me, because i've paid my balance, and actually overpaid it due to some unknown reason on boa side, and i've yet to see any of the overpaid money back on my account my requests are : xxxx. for boa to sort out the second return payment issue, and mark my credit card bill as fully paid xxxx. for boa to return one of the two identical payments to me xxxx. for boa to compensate me for the interest loss on xxxx dollars, at the current fed rate of 5 % per year, for the duration between xx / xx / xxxx to the date when i get my extra payment back
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995391368865967
+}

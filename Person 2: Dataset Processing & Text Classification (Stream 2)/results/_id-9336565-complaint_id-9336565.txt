@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9336565,
+  "complaint_id": "9336565",
+  "product": "Credit card",
+  "complaint_what_happened": "Around XX/XX/2024 we noticed our Costco Citi Visa credit card was being charged at various XXXXXXXX XXXX  around XXXX  and XXXX  for similar value charges ( ~ {$99.00} each time ). There were 14 charges going back to XX/XX/2024 for a total of around {$1400.00}. It appears that our credit card was skimmed at some point, since we were still in possession of the card. \n\nCiti investigated and responded with \" Customer Responsible ''. We believe Citi 's fraud detection algorithms should have caught this in XXXX, since there were 3 charges on 3 consecutive days at 3 different XXXX 's for the same amount and that we should be reimbursed for the charges.",
+  "date_sent_to_company": "2024-06-25T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "01824",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-25T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Around XX/XX/2024 we noticed our Costco Citi Visa credit card was being charged at various XXXXXXXX XXXX  around XXXX  and XXXX  for similar value charges ( ~ {$99.00} each time ). There were 14 charges going back to XX/XX/2024 for a total of around {$1400.00}. It appears that our credit card was skimmed at some point, since we were still in possession of the card. \n\nCiti investigated and responded with \" Customer Responsible ''. We believe Citi 's fraud detection algorithms should have caught this in XXXX, since there were 3 charges on 3 consecutive days at 3 different XXXX 's for the same amount and that we should be reimbursed for the charges."
+}
+
+Chunk:
+around xx / xx / 2024 we noticed our costco citi visa credit card was being charged at various xxxxxxxx xxxx around xxxx and xxxx for similar value charges ( ~ { $ 99. 00 } each time ). there were 14 charges going back to xx / xx / 2024 for a total of around { $ 1400. 00 }. it appears that our credit card was skimmed at some point, since we were still in possession of the card. citi investigated and responded with " customer responsible''. we believe citi's fraud detection algorithms should have caught this in xxxx, since there were 3 charges on 3 consecutive days at 3 different xxxx's for the same amount and that we should be reimbursed for the charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979854822158813
+}

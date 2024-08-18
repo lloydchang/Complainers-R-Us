@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9163053,
+  "complaint_id": "9163053",
+  "product": "Credit card",
+  "complaint_what_happened": "I regularly monitor my credit report and noticed a recent unauthorized inquiry from chase using my personal information. I immediately got in contact with chase bank only to find out it was initiated using my personal info. It occurred on the date of XX/XX/year>. I have contacted the credit bureaus immediately after chase and they couldn't help much.. Chase notified that they will investigate it and get back to me. It has now been 6 months without any follow up/ update on this matter. I respectfully request that you guys investigate this incident and take appropriate action to address this identity theft and prevent misuse of my personal information.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "563XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I regularly monitor my credit report and noticed a recent unauthorized inquiry from chase using my personal information. I immediately got in contact with chase bank only to find out it was initiated using my personal info. It occurred on the date of XX/XX/year>. I have contacted the credit bureaus immediately after chase and they couldn't help much.. Chase notified that they will investigate it and get back to me. It has now been 6 months without any follow up/ update on this matter. I respectfully request that you guys investigate this incident and take appropriate action to address this identity theft and prevent misuse of my personal information."
+}
+
+Chunk:
+i regularly monitor my credit report and noticed a recent unauthorized inquiry from chase using my personal information. i immediately got in contact with chase bank only to find out it was initiated using my personal info. it occurred on the date of xx / xx / year >. i have contacted the credit bureaus immediately after chase and they couldn't help much.. chase notified that they will investigate it and get back to me. it has now been 6 months without any follow up / update on this matter. i respectfully request that you guys investigate this incident and take appropriate action to address this identity theft and prevent misuse of my personal information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9675700664520264
+}

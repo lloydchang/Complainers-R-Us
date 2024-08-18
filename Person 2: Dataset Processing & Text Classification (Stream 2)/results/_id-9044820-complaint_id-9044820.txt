@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044820,
+  "complaint_id": "9044820",
+  "product": "Credit card",
+  "complaint_what_happened": "Reported a fradulent account to paypal who is scamming people. Paypal dismissed the claim and refused to even take note of the account or perform any action to stop anyone else from getting scammed by the fradulent account.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02155",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Reported a fradulent account to paypal who is scamming people. Paypal dismissed the claim and refused to even take note of the account or perform any action to stop anyone else from getting scammed by the fradulent account."
+}
+
+Chunk:
+reported a fradulent account to paypal who is scamming people. paypal dismissed the claim and refused to even take note of the account or perform any action to stop anyone else from getting scammed by the fradulent account.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995734095573425
+}

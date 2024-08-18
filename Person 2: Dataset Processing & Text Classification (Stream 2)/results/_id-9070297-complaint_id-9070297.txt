@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9070297,
+  "complaint_id": "9070297",
+  "product": "Credit card",
+  "complaint_what_happened": "I booked a flight through American Express Travel for travel in XXXX of XXXX. I cancelled this flight due to unexpected circumstances and received a credit of {$580.00} for the cost of the flight. \nIn attempting to utilize this credit, I was only able to utilize the base fair of {$510.00} for the new flight. They retained the ~ {$70.00} in original taxes and fees and charged an addition {$140.00} in taxes and fees for the new flight, which I could not apply the residual credit value to. \nI see this as collection of taxes for services not rendered / double taxation and deserve a refund of the original taxes and fees paid to American Express Travel.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30316",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "I booked a flight through American Express Travel for travel in XXXX of XXXX. I cancelled this flight due to unexpected circumstances and received a credit of {$580.00} for the cost of the flight. \nIn attempting to utilize this credit, I was only able to utilize the base fair of {$510.00} for the new flight. They retained the ~ {$70.00} in original taxes and fees and charged an addition {$140.00} in taxes and fees for the new flight, which I could not apply the residual credit value to. \nI see this as collection of taxes for services not rendered / double taxation and deserve a refund of the original taxes and fees paid to American Express Travel."
+}
+
+Chunk:
+i booked a flight through american express travel for travel in xxxx of xxxx. i cancelled this flight due to unexpected circumstances and received a credit of { $ 580. 00 } for the cost of the flight. in attempting to utilize this credit, i was only able to utilize the base fair of { $ 510. 00 } for the new flight. they retained the ~ { $ 70. 00 } in original taxes and fees and charged an addition { $ 140. 00 } in taxes and fees for the new flight, which i could not apply the residual credit value to. i see this as collection of taxes for services not rendered / double taxation and deserve a refund of the original taxes and fees paid to american express travel.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987280964851379
+}

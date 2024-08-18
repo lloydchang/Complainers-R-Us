@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9266200,
+  "complaint_id": "9266200",
+  "product": "Credit card",
+  "complaint_what_happened": "hello, I stated this hotel in the month of XXXX and there was plenty of issues with the lack of cleanliness and service issues overall. Management approved me for me to get a refund in the amount of {$230.00}. The issue was the hotel city that they couldnt refund me initially because I went through a XXXX-party, XXXX. I went to XXXX and notified them as issue and stated that the hotel wanted to give me a refund and they investigated and determined that I should get a refund in the amount of {$230.00}. At this time due to initial issues with The hotel started to claim with PayPal to dispute a portion of the hotel fees. Investigation PayPal was only XXXX that denied the claim and cost everything to be delayed in regards to refund. They have stated that it has been processed correctly or that they did not receive documentation for me, which they did. I am Infuriated that their dispute department Doesnt do their due diligence with investigations. This was an easy dispute and yet they denied it and I provided confirmation that I was entitled to a refund.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98144",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Paypal Holdings, Inc",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "hello, I stated this hotel in the month of XXXX and there was plenty of issues with the lack of cleanliness and service issues overall. Management approved me for me to get a refund in the amount of {$230.00}. The issue was the hotel city that they couldnt refund me initially because I went through a XXXX-party, XXXX. I went to XXXX and notified them as issue and stated that the hotel wanted to give me a refund and they investigated and determined that I should get a refund in the amount of {$230.00}. At this time due to initial issues with The hotel started to claim with PayPal to dispute a portion of the hotel fees. Investigation PayPal was only XXXX that denied the claim and cost everything to be delayed in regards to refund. They have stated that it has been processed correctly or that they did not receive documentation for me, which they did. I am Infuriated that their dispute department Doesnt do their due diligence with investigations. This was an easy dispute and yet they denied it and I provided confirmation that I was entitled to a refund."
+}
+
+Chunk:
+hello, i stated this hotel in the month of xxxx and there was plenty of issues with the lack of cleanliness and service issues overall. management approved me for me to get a refund in the amount of { $ 230. 00 }. the issue was the hotel city that they couldnt refund me initially because i went through a xxxx - party, xxxx. i went to xxxx and notified them as issue and stated that the hotel wanted to give me a refund and they investigated and determined that i should get a refund in the amount of { $ 230. 00 }. at this time due to initial issues with the hotel started to claim with paypal to dispute a portion of the hotel fees. investigation paypal was only xxxx that denied the claim and cost everything to be delayed in regards to refund. they have stated that it has been processed correctly or that they did not receive documentation for me, which they did. i am infuriated that their dispute department doesnt do their due diligence with investigations. this was an easy dispute and yet they denied it and i provided confirmation that i was entitled to a refund.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997952938079834
+}

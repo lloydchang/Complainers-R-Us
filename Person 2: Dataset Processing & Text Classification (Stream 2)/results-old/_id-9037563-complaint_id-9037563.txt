@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037563,
+  "complaint_id": "9037563",
+  "product": "Credit card",
+  "complaint_what_happened": "I went online and thought I was talking to a XXXX rep who they identified as but according to my billing statement it was not. I advised I was taking the dog and if I could book him now with my ticket and they said yes, but it would be under two different charges so I agreed thinking that the dog was booked for the fair when I got to the airport they told me no you can not book an animal through an agency so when I got to the airport, they canceled my original flight for that day and re-issued a ticket but told me to go after XXXX XXXX to get my refund for the booking of the dog in which I tried to call, they answered the phone and told me that the individual that made the reservation had to call me. I asked why and thats all they said so left my number. They never never called contacted Capital One and advised them and as of this date have sent him numerous information like Im sending you with no response as of XXXX. They still have not even contacted XXXX for my refund.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "02132",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I went online and thought I was talking to a XXXX rep who they identified as but according to my billing statement it was not. I advised I was taking the dog and if I could book him now with my ticket and they said yes, but it would be under two different charges so I agreed thinking that the dog was booked for the fair when I got to the airport they told me no you can not book an animal through an agency so when I got to the airport, they canceled my original flight for that day and re-issued a ticket but told me to go after XXXX XXXX to get my refund for the booking of the dog in which I tried to call, they answered the phone and told me that the individual that made the reservation had to call me. I asked why and thats all they said so left my number. They never never called contacted Capital One and advised them and as of this date have sent him numerous information like Im sending you with no response as of XXXX. They still have not even contacted XXXX for my refund."
+}
+
+Chunk:
+i went online and thought i was talking to a xxxx rep who they identified as but according to my billing statement it was not. i advised i was taking the dog and if i could book him now with my ticket and they said yes, but it would be under two different charges so i agreed thinking that the dog was booked for the fair when i got to the airport they told me no you can not book an animal through an agency so when i got to the airport, they canceled my original flight for that day and re - issued a ticket but told me to go after xxxx xxxx to get my refund for the booking of the dog in which i tried to call, they answered the phone and told me that the individual that made the reservation had to call me. i asked why and thats all they said so left my number. they never never called contacted capital one and advised them and as of this date have sent him numerous information like im sending you with no response as of xxxx. they still have not even contacted xxxx for my refund.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980154037475586
+}

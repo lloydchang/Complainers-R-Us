@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9160403,
+  "complaint_id": "9160403",
+  "product": "Credit card",
+  "complaint_what_happened": "CitiBank double cash credit card had multiple fraud charges made on it from XXXX XXXX XXXX XXXX} and {$110.00} were not taken off, but two fraud charges were from the same place. \nI got alerted right away and on that same day, XX/XX/XXXX, I contacted CitiBank and they closed the credit card down and sent me a new card ( s ) immediately. Upon my new card account being opened, I saw that two of the fraudulent charges were transferred to my new account from my old. I have called four times to get this fixed, being told that the charges would be taken off because of the fraud. \nTODAY, I get on the account again, and I read on the fraud charges that the dispute has been resolved and I am responsible for the charges. I called AGAIN stating that this was FRAUD from XX/XX/XXXX and why am I responsible. I told their fraud department that there were TWO charges for a supermarket and one was taken off, but not the other. \nThey still have not taken the charges of my card, even though I received my new cards today. BOTH of my old credit card physical cards were in our home in upstate NY when these fraudulent charges on the XXXX XXXX happened. I seem to be running in circles with this bank on getting these fraud charges reversed, even though they claim 100 % fraud protection liability. \nThank You XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "121XX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "CitiBank double cash credit card had multiple fraud charges made on it from XXXX XXXX XXXX XXXX} and {$110.00} were not taken off, but two fraud charges were from the same place. \nI got alerted right away and on that same day, XX/XX/XXXX, I contacted CitiBank and they closed the credit card down and sent me a new card ( s ) immediately. Upon my new card account being opened, I saw that two of the fraudulent charges were transferred to my new account from my old. I have called four times to get this fixed, being told that the charges would be taken off because of the fraud. \nTODAY, I get on the account again, and I read on the fraud charges that the dispute has been resolved and I am responsible for the charges. I called AGAIN stating that this was FRAUD from XX/XX/XXXX and why am I responsible. I told their fraud department that there were TWO charges for a supermarket and one was taken off, but not the other. \nThey still have not taken the charges of my card, even though I received my new cards today. BOTH of my old credit card physical cards were in our home in upstate NY when these fraudulent charges on the XXXX XXXX happened. I seem to be running in circles with this bank on getting these fraud charges reversed, even though they claim 100 % fraud protection liability. \nThank You XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+citibank double cash credit card had multiple fraud charges made on it from xxxx xxxx xxxx xxxx } and { $ 110. 00 } were not taken off, but two fraud charges were from the same place. i got alerted right away and on that same day, xx / xx / xxxx, i contacted citibank and they closed the credit card down and sent me a new card ( s ) immediately. upon my new card account being opened, i saw that two of the fraudulent charges were transferred to my new account from my old. i have called four times to get this fixed, being told that the charges would be taken off because of the fraud. today, i get on the account again, and i read on the fraud charges that the dispute has been resolved and i am responsible for the charges. i called again stating that this was fraud from xx / xx / xxxx and why am i responsible. i told their fraud department that there were two charges for a supermarket and one was taken off, but not the other. they still have not taken the charges of my card, even though i received my new cards today. both of my old credit card physical cards were in our home in upstate ny when these fraudulent charges on the xxxx xxxx happened. i seem to be running in circles with this bank on getting these fraud charges reversed, even though they claim 100 % fraud protection liability. thank you xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973002076148987
+}

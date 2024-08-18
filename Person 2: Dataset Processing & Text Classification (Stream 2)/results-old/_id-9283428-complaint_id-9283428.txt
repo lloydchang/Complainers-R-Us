@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9283428,
+  "complaint_id": "9283428",
+  "product": "Credit card",
+  "complaint_what_happened": "-I have reached out to the company and credit bureaus more than 10 times -filed complaints with all credit bureaus -filed complaint and dispute with FTC -filed complaint with CFPB -sent disputed certified mail, more than once, spend money on mail CITI is sending the information to a address in XXXX Ca and was not able to verify me because it's not my account someone is using my info but different address and number",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "-I have reached out to the company and credit bureaus more than 10 times -filed complaints with all credit bureaus -filed complaint and dispute with FTC -filed complaint with CFPB -sent disputed certified mail, more than once, spend money on mail CITI is sending the information to a address in XXXX Ca and was not able to verify me because it's not my account someone is using my info but different address and number"
+}
+
+Chunk:
+- i have reached out to the company and credit bureaus more than 10 times - filed complaints with all credit bureaus - filed complaint and dispute with ftc - filed complaint with cfpb - sent disputed certified mail, more than once, spend money on mail citi is sending the information to a address in xxxx ca and was not able to verify me because it's not my account someone is using my info but different address and number
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9970467686653137
+}

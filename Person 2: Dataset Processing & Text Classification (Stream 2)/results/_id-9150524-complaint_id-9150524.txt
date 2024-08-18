@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9150524,
+  "complaint_id": "9150524",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year> I found a surprise new {$1.00} fee on my Synchrony Lowes account. I contacted them and asked what it was for and that they remove it since I never authorized it. They claimed that it was a new paper statement fee that I had to accept if I wished to continue receiving a mailed statement each month. They also claimed that they had informed me of this previously, even though I was not aware of it. They gave me a one time \" courtesy '' reversal and I begrudgingly accepted paperless statements. \n\nThen on XX/XX/year> I found several articles indicating that this policy is not lawful in several states, and that CA is one of them ( Found here - XXXX XXXX XXXXXXXX ). They state that CA has a prohibition against CC companies charging customers additional fees to receive paper statements. I contacted Synchrony Lowes again and specifically asked why they were trying to charge for paper statements when it was prohibited in CA and they refused to directly answer that question. They said I could either agree to be charged for paper statements, go paperless, or have my account closed. \n\nBoth times their \" support '' agents refused to provide me with a copy of the \" support '' chat transcript, claiming that Synchrony \" doesn't use email '', even though they'd told me in the same chat session that \" Synchrony would be emailing me a statement ''. \n\nI can provide additional info if requested.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "93720",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "On XX/XX/year> I found a surprise new {$1.00} fee on my Synchrony Lowes account. I contacted them and asked what it was for and that they remove it since I never authorized it. They claimed that it was a new paper statement fee that I had to accept if I wished to continue receiving a mailed statement each month. They also claimed that they had informed me of this previously, even though I was not aware of it. They gave me a one time \" courtesy '' reversal and I begrudgingly accepted paperless statements. \n\nThen on XX/XX/year> I found several articles indicating that this policy is not lawful in several states, and that CA is one of them ( Found here - XXXX XXXX XXXXXXXX ). They state that CA has a prohibition against CC companies charging customers additional fees to receive paper statements. I contacted Synchrony Lowes again and specifically asked why they were trying to charge for paper statements when it was prohibited in CA and they refused to directly answer that question. They said I could either agree to be charged for paper statements, go paperless, or have my account closed. \n\nBoth times their \" support '' agents refused to provide me with a copy of the \" support '' chat transcript, claiming that Synchrony \" doesn't use email '', even though they'd told me in the same chat session that \" Synchrony would be emailing me a statement ''. \n\nI can provide additional info if requested."
+}
+
+Chunk:
+on xx / xx / year > i found a surprise new { $ 1. 00 } fee on my synchrony lowes account. i contacted them and asked what it was for and that they remove it since i never authorized it. they claimed that it was a new paper statement fee that i had to accept if i wished to continue receiving a mailed statement each month. they also claimed that they had informed me of this previously, even though i was not aware of it. they gave me a one time " courtesy'' reversal and i begrudgingly accepted paperless statements. then on xx / xx / year > i found several articles indicating that this policy is not lawful in several states, and that ca is one of them ( found here - xxxx xxxx xxxxxxxx ). they state that ca has a prohibition against cc companies charging customers additional fees to receive paper statements. i contacted synchrony lowes again and specifically asked why they were trying to charge for paper statements when it was prohibited in ca and they refused to directly answer that question. they said i could either agree to be charged for paper statements, go paperless, or have my account closed. both times their " support'' agents refused to provide me with a copy of the " support'' chat transcript, claiming that synchrony " doesn't use email'', even though they'd told me in the same chat session that " synchrony would be emailing me a statement''. i can provide additional info if requested.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987925291061401
+}

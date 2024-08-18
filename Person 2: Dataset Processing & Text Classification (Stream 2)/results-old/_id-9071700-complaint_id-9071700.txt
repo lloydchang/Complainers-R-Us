@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071700,
+  "complaint_id": "9071700",
+  "product": "Credit card",
+  "complaint_what_happened": "Budget Car Rental charged me for tolls after telling me the car I rented was too new to have a transponder and I had my own transponder. Apparently, the rental car did have a transponder so it overrode mine. I later was willing to pay the amount of the tolls charged with a transponder but not any fees or extras and they refused to refund {$8.00}. \n\nI also asked Capital One to request proof of authorization for the charges from the merchant and Capital One refused and stated that it is the consumer 's burden to disprove a merchant was authorized to make a charge and they required an invoice that does not exist. \n\nI entered the last XXXX digits of my venture x card number in the following step and will provide full card number if you would like.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60302",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Budget Car Rental charged me for tolls after telling me the car I rented was too new to have a transponder and I had my own transponder. Apparently, the rental car did have a transponder so it overrode mine. I later was willing to pay the amount of the tolls charged with a transponder but not any fees or extras and they refused to refund {$8.00}. \n\nI also asked Capital One to request proof of authorization for the charges from the merchant and Capital One refused and stated that it is the consumer 's burden to disprove a merchant was authorized to make a charge and they required an invoice that does not exist. \n\nI entered the last XXXX digits of my venture x card number in the following step and will provide full card number if you would like."
+}
+
+Chunk:
+budget car rental charged me for tolls after telling me the car i rented was too new to have a transponder and i had my own transponder. apparently, the rental car did have a transponder so it overrode mine. i later was willing to pay the amount of the tolls charged with a transponder but not any fees or extras and they refused to refund { $ 8. 00 }. i also asked capital one to request proof of authorization for the charges from the merchant and capital one refused and stated that it is the consumer's burden to disprove a merchant was authorized to make a charge and they required an invoice that does not exist. i entered the last xxxx digits of my venture x card number in the following step and will provide full card number if you would like.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991310238838196
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9315222,
+  "complaint_id": "9315222",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I contacted Prosper Credit Card to make a payment. The person took my payment. I asked if they can assist me with the app so I can make payments and not have to call. When the person came back to the line, he stated he had to back out of my payment because my account went to a XXXX Attorney. My account was one day late and I made a payment the prior month. He stated to contact XXXX XXXX XXXX @ XXXX. I was in disbelief and waited a few days. I called the XXXX XXXX on the following days XX/XX/XXXX, XXXX, XXXX and last time XX/XX/XXXX. Each time I spoke to a different agent and each time was told they have no record of me by name, SS # & or DOB. I contacted Prosper again each time and each time they refer me back to the XXXX XXXX that has no record of me. Each time I speak to a Prosper XXXX they see it was sent but can not tell me when, nor have they given me any notification. Of course I have not received one from the XXXX agency, because they have no record of my paperwork. As noted I first made contact on XX/XX/XXXX, tomorrow will be one month and each month shows me more delinquent as Prosper states they can not take any money from me. I told them now I just want to pay the entire amount off to rectify my credit status but am in limbo. \nProsper put in an issue report # XXXX, on XX/XX/XXXX that was addressed to my XXXX XXXX name XXXX XXXX whom I divorced XXXX yrs ago, to which we never had a joint credit card account. I am baffled and exhausted as to what to do. I just want to make sure my credit rating is not going to be affected by this issue. \nI just checked my credit report and it list ACCOUNT STATUS-Closed XXXX then it states REMARKS - Cancelled by XXXX XXXX. States last payment made XX/XX/XXXX. \nPlease help me make sense of this as Prosper is not helping. Thank you.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "07083",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Prosper Marketplace, Inc.",
+  "date_received": "2024-06-22T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "On XX/XX/XXXX, I contacted Prosper Credit Card to make a payment. The person took my payment. I asked if they can assist me with the app so I can make payments and not have to call. When the person came back to the line, he stated he had to back out of my payment because my account went to a XXXX Attorney. My account was one day late and I made a payment the prior month. He stated to contact XXXX XXXX XXXX @ XXXX. I was in disbelief and waited a few days. I called the XXXX XXXX on the following days XX/XX/XXXX, XXXX, XXXX and last time XX/XX/XXXX. Each time I spoke to a different agent and each time was told they have no record of me by name, SS # & or DOB. I contacted Prosper again each time and each time they refer me back to the XXXX XXXX that has no record of me. Each time I speak to a Prosper XXXX they see it was sent but can not tell me when, nor have they given me any notification. Of course I have not received one from the XXXX agency, because they have no record of my paperwork. As noted I first made contact on XX/XX/XXXX, tomorrow will be one month and each month shows me more delinquent as Prosper states they can not take any money from me. I told them now I just want to pay the entire amount off to rectify my credit status but am in limbo. \nProsper put in an issue report # XXXX, on XX/XX/XXXX that was addressed to my XXXX XXXX name XXXX XXXX whom I divorced XXXX yrs ago, to which we never had a joint credit card account. I am baffled and exhausted as to what to do. I just want to make sure my credit rating is not going to be affected by this issue. \nI just checked my credit report and it list ACCOUNT STATUS-Closed XXXX then it states REMARKS - Cancelled by XXXX XXXX. States last payment made XX/XX/XXXX. \nPlease help me make sense of this as Prosper is not helping. Thank you."
+}
+
+Chunk:
+on xx / xx / xxxx, i contacted prosper credit card to make a payment. the person took my payment. i asked if they can assist me with the app so i can make payments and not have to call. when the person came back to the line, he stated he had to back out of my payment because my account went to a xxxx attorney. my account was one day late and i made a payment the prior month. he stated to contact xxxx xxxx xxxx @ xxxx. i was in disbelief and waited a few days. i called the xxxx xxxx on the following days xx / xx / xxxx, xxxx, xxxx and last time xx / xx / xxxx. each time i spoke to a different agent and each time was told they have no record of me by name, ss # & or dob. i contacted prosper again each time and each time they refer me back to the xxxx xxxx that has no record of me. each time i speak to a prosper xxxx they see it was sent but can not tell me when, nor have they given me any notification. of course i have not received one from the xxxx agency, because they have no record of my paperwork. as noted i first made contact on xx / xx / xxxx, tomorrow will be one month and each month shows me more delinquent as prosper states they can not take any money from me. i told them now i just want to pay the entire amount off to rectify my credit status but am in limbo. prosper put in an issue report # xxxx, on xx / xx / xxxx that was addressed to my xxxx xxxx name xxxx xxxx whom i divorced xxxx yrs ago, to which we never had a joint credit card account. i am baffled and exhausted as to what to do. i just want to make sure my credit rating is not going to be affected by this issue. i just checked my credit report and it list account status - closed xxxx then it states remarks - cancelled by xxxx xxxx. states last payment made xx / xx / xxxx. please help me make sense of this as prosper is not helping. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991790652275085
+}

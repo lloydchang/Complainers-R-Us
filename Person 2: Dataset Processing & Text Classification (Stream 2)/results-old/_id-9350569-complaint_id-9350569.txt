@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9350569,
+  "complaint_id": "9350569",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a card with XXXX XXXX a while ago and never received a card for it. I never knew why. I made a purchase for clothing on their website a few weeks ago, ( see attached documents ) and the shipping address was pulled from their database. IT is an address that I moved from in XXXX, with a phone number I have never used. I did not realize this until the clothing failed to deliver to my home, which is weird because they have delivered items to my current address before this. I contacted them when I did not receive anything in the mail, and the customer service agent and I discussed the issue and she and I discovered the address was incorrect. She noted that I never got a card in the mail and said the cards had been sent to this old address as well. This would explain man issues with this company in the past. She had me open a request for a refund telling me that the refund would process within XXXX  days or so, and then placed a reorder for the items and repay for the order with another credit card. She emailed me the link to open the refund request and the receipts for the new order which is all attached in the documentation. Later the same day I received a rejection notice for the refund of the original items that I ordered and never received. I called and got the run around and after being on hold and told the claims department has this answer and put on hold again. I believe I spoke with XXXX the floor lead, and she forwarded me to the claims department, XXXX who was very nice but unable to refund the money. \n\nI finally decided to submit a complaint as I just want my original amount refunded, and I'm sick of wasting my time and getting the runaround.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "75068",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Can't use card to make purchases",
+  "text": "I opened a card with XXXX XXXX a while ago and never received a card for it. I never knew why. I made a purchase for clothing on their website a few weeks ago, ( see attached documents ) and the shipping address was pulled from their database. IT is an address that I moved from in XXXX, with a phone number I have never used. I did not realize this until the clothing failed to deliver to my home, which is weird because they have delivered items to my current address before this. I contacted them when I did not receive anything in the mail, and the customer service agent and I discussed the issue and she and I discovered the address was incorrect. She noted that I never got a card in the mail and said the cards had been sent to this old address as well. This would explain man issues with this company in the past. She had me open a request for a refund telling me that the refund would process within XXXX  days or so, and then placed a reorder for the items and repay for the order with another credit card. She emailed me the link to open the refund request and the receipts for the new order which is all attached in the documentation. Later the same day I received a rejection notice for the refund of the original items that I ordered and never received. I called and got the run around and after being on hold and told the claims department has this answer and put on hold again. I believe I spoke with XXXX the floor lead, and she forwarded me to the claims department, XXXX who was very nice but unable to refund the money. \n\nI finally decided to submit a complaint as I just want my original amount refunded, and I'm sick of wasting my time and getting the runaround."
+}
+
+Chunk:
+i opened a card with xxxx xxxx a while ago and never received a card for it. i never knew why. i made a purchase for clothing on their website a few weeks ago, ( see attached documents ) and the shipping address was pulled from their database. it is an address that i moved from in xxxx, with a phone number i have never used. i did not realize this until the clothing failed to deliver to my home, which is weird because they have delivered items to my current address before this. i contacted them when i did not receive anything in the mail, and the customer service agent and i discussed the issue and she and i discovered the address was incorrect. she noted that i never got a card in the mail and said the cards had been sent to this old address as well. this would explain man issues with this company in the past. she had me open a request for a refund telling me that the refund would process within xxxx days or so, and then placed a reorder for the items and repay for the order with another credit card. she emailed me the link to open the refund request and the receipts for the new order which is all attached in the documentation. later the same day i received a rejection notice for the refund of the original items that i ordered and never received. i called and got the run around and after being on hold and told the claims department has this answer and put on hold again. i believe i spoke with xxxx the floor lead, and she forwarded me to the claims department, xxxx who was very nice but unable to refund the money. i finally decided to submit a complaint as i just want my original amount refunded, and i'm sick of wasting my time and getting the runaround.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992947578430176
+}

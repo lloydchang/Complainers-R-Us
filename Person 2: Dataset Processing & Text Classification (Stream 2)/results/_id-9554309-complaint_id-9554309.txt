@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9554309,
+  "complaint_id": "9554309",
+  "product": "Credit card",
+  "complaint_what_happened": "Truist credit Card appears to have been opened in XXXX and then reoopened in XXXX. \nThis is not my credit card and I need it removed immediately. \nI never opened a Truist credit card",
+  "date_sent_to_company": "2024-07-18T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "770XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TRUIST FINANCIAL CORPORATION",
+  "date_received": "2024-07-18T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "Truist credit Card appears to have been opened in XXXX and then reoopened in XXXX. \nThis is not my credit card and I need it removed immediately. \nI never opened a Truist credit card"
+}
+
+Chunk:
+truist credit card appears to have been opened in xxxx and then reoopened in xxxx. this is not my credit card and i need it removed immediately. i never opened a truist credit card
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994138479232788
+}

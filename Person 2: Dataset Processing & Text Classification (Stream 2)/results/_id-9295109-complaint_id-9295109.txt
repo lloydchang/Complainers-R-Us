@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9295109,
+  "complaint_id": "9295109",
+  "product": "Credit card",
+  "complaint_what_happened": "Several months ago Citi bank sent me a notice that the terms of my Home Depot store credit card would be changing from a risk based model to a fixed 29.99 % APR. I have never been late, never missed a payment, and always pay the account as agreed. \n\nI called them and demanded justification for the unwarranted change in the card terms. They're response was that they didn't have one, it was a business decision that affected everyone. \n\nHowever, they recently sent me a promotional offer for a \" valued cardmember '' that listed the advertised rate for the credit card as the original risk based model that I signed up for. XXXX % APR based on credit. If it was a business decision that affected all card holders, then why are they still advertising a risk based interest rate? Are they falsely advertising, or are they discriminating against me by only raising my interest rate and not everyone 's as they claim?",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "20191",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "Several months ago Citi bank sent me a notice that the terms of my Home Depot store credit card would be changing from a risk based model to a fixed 29.99 % APR. I have never been late, never missed a payment, and always pay the account as agreed. \n\nI called them and demanded justification for the unwarranted change in the card terms. They're response was that they didn't have one, it was a business decision that affected everyone. \n\nHowever, they recently sent me a promotional offer for a \" valued cardmember '' that listed the advertised rate for the credit card as the original risk based model that I signed up for. XXXX % APR based on credit. If it was a business decision that affected all card holders, then why are they still advertising a risk based interest rate? Are they falsely advertising, or are they discriminating against me by only raising my interest rate and not everyone 's as they claim?"
+}
+
+Chunk:
+several months ago citi bank sent me a notice that the terms of my home depot store credit card would be changing from a risk based model to a fixed 29. 99 % apr. i have never been late, never missed a payment, and always pay the account as agreed. i called them and demanded justification for the unwarranted change in the card terms. they're response was that they didn't have one, it was a business decision that affected everyone. however, they recently sent me a promotional offer for a " valued cardmember'' that listed the advertised rate for the credit card as the original risk based model that i signed up for. xxxx % apr based on credit. if it was a business decision that affected all card holders, then why are they still advertising a risk based interest rate? are they falsely advertising, or are they discriminating against me by only raising my interest rate and not everyone's as they claim?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9954984188079834
+}

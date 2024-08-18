@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9151873,
+  "complaint_id": "9151873",
+  "product": "Credit card",
+  "complaint_what_happened": "On or about XXXX XXXX, 2023 I answered an email from XXXX offering a special price on their product & I could cancel at any time. At that time it was specified that by signing up it was agreed that future shipments for {$40.00} would be sent unless canceled. \n\nThe above statement is the problem. When I signed up, I took no notice of XXXX 's \" Rules of Cancellation '', so on XX/XX/XXXX XXXX sent them an email thinking that this cancellation was sufficient. So when requested by Citi, I stated that I had no knowledge signing a subscription agreement, then later when I found that I did agree until cancelled, I reversed my previous statement. So Citi states in enclosed attachment : \" due to conflicting statements ''. In stating that I did agree unless canceled I was merely correcting the statement in which I stated that I did not sign up for a subscription. Citi bases their decision on just this and not the overwhelming evidence which I sent to them. \n\nXXXX states that I emailed them stating that I could not locate my account requesting they cancel my subscription.This is a false statement. Attached is my email of XX/XX/XXXX telling me that they, XXXX, could not locate my subscription.So, instead of responding to the sender of this email, XXXX, they send their answer and all future emails to a very old email address never used but XXXX time several years ago that I never received. How can I cancel without their \" rules ''. I tried to cancel by email every time that I refused a shipment from the XXXX which was XXXX times & received no response because it appears they were sending emails to \" XXXX '' whoever that my be.",
+  "date_sent_to_company": "2024-06-02T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "24502",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-02T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On or about XXXX XXXX, 2023 I answered an email from XXXX offering a special price on their product & I could cancel at any time. At that time it was specified that by signing up it was agreed that future shipments for {$40.00} would be sent unless canceled. \n\nThe above statement is the problem. When I signed up, I took no notice of XXXX 's \" Rules of Cancellation '', so on XX/XX/XXXX XXXX sent them an email thinking that this cancellation was sufficient. So when requested by Citi, I stated that I had no knowledge signing a subscription agreement, then later when I found that I did agree until cancelled, I reversed my previous statement. So Citi states in enclosed attachment : \" due to conflicting statements ''. In stating that I did agree unless canceled I was merely correcting the statement in which I stated that I did not sign up for a subscription. Citi bases their decision on just this and not the overwhelming evidence which I sent to them. \n\nXXXX states that I emailed them stating that I could not locate my account requesting they cancel my subscription.This is a false statement. Attached is my email of XX/XX/XXXX telling me that they, XXXX, could not locate my subscription.So, instead of responding to the sender of this email, XXXX, they send their answer and all future emails to a very old email address never used but XXXX time several years ago that I never received. How can I cancel without their \" rules ''. I tried to cancel by email every time that I refused a shipment from the XXXX which was XXXX times & received no response because it appears they were sending emails to \" XXXX '' whoever that my be."
+}
+
+Chunk:
+on or about xxxx xxxx, 2023 i answered an email from xxxx offering a special price on their product & i could cancel at any time. at that time it was specified that by signing up it was agreed that future shipments for { $ 40. 00 } would be sent unless canceled. the above statement is the problem. when i signed up, i took no notice of xxxx's " rules of cancellation'', so on xx / xx / xxxx xxxx sent them an email thinking that this cancellation was sufficient. so when requested by citi, i stated that i had no knowledge signing a subscription agreement, then later when i found that i did agree until cancelled, i reversed my previous statement. so citi states in enclosed attachment : " due to conflicting statements''. in stating that i did agree unless canceled i was merely correcting the statement in which i stated that i did not sign up for a subscription. citi bases their decision on just this and not the overwhelming evidence which i sent to them. xxxx states that i emailed them stating that i could not locate my account requesting they cancel my subscription. this is a false statement. attached is my email of xx / xx / xxxx telling me that they, xxxx, could not locate my subscription. so, instead of responding to the sender of this email, xxxx, they send their answer and all future emails to a very old email address never used but xxxx time several years ago that i never received. how can i cancel without their " rules''. i tried to cancel by email every time that i refused a shipment from the xxxx which was xxxx times & received no response because it appears they were sending emails to " xxxx'' whoever that my be.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99962317943573
+}

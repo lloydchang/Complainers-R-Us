@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9048232,
+  "complaint_id": "9048232",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a phone call in XXXX of XXXX from a collection agency, trying to collect a debt. This debt was for a Credit card through Chase bank that had been opened without my knowledge or permission. I then proceeded to called Chase bank in an attempt to speak to someone in the fraud department. I made dozens of calls over the next period of time. Chase will not transfer you to their fraud department and instead will send a ticket for them to investigate. Below are the correspondence to follow. \n\nOn XX/XX/XXXX I received a letter from Chase bank that I was responsible for a credit card account ending in XXXX after they deemed this non-fraudulent activity. I over the next XXXX  months continued to follow up with Chase bank about this issue as I did not open this credit line or buy anything with this account. After many contact attempts on XX/XX/XXXX I received a letter from Chase bank saying, \" We closed this account to protect your information '' This letter said they would continue their research to determine if this account is valid or not and that I should personally reach out to the credit agencies to add fraud alert. The next letter to follow would be on XX/XX/XXXX saying I was still responsible for the {$920.00} dollar balance on said credit account. On this letter they offered me a \" deal '' to pay in XXXX parts of XXXX dollars lowering my payoff balance to {$410.00} dollars in total. \n\nOn XX/XX/XXXX, I was able to speak to a representative of Chase bank named XXXX XXXX XXXX XXXX. During this call I was able to determine that this account was opened on XX/XX/XXXX. The account was opened with an address XXXX XXXX XXXX XXXX ( I do have the full address if needed ) and a phone number that with a quick XXXX search is associated with several fraudulent XXXX accounts. I can provide this number. I have never received a statement for this account as I DO NOT live in XXXX XXXX XXXX. I live in XXXX XXXX and have for nearly XXXX  years. The Chase representative informed me that a {$700.00} dollar charge to XXXX account in XXXX was made with this account. With all of this information the Representative would not let me speak to anyone in the XXXX department and would not send me copies of the statements for this account. Once I said I would be filing a complaint with the CFPB the representative become fully unhelp and even combative. I have exhausted all the resources that I know of to have this handled properly.",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "152XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a phone call in XXXX of XXXX from a collection agency, trying to collect a debt. This debt was for a Credit card through Chase bank that had been opened without my knowledge or permission. I then proceeded to called Chase bank in an attempt to speak to someone in the fraud department. I made dozens of calls over the next period of time. Chase will not transfer you to their fraud department and instead will send a ticket for them to investigate. Below are the correspondence to follow. \n\nOn XX/XX/XXXX I received a letter from Chase bank that I was responsible for a credit card account ending in XXXX after they deemed this non-fraudulent activity. I over the next XXXX  months continued to follow up with Chase bank about this issue as I did not open this credit line or buy anything with this account. After many contact attempts on XX/XX/XXXX I received a letter from Chase bank saying, \" We closed this account to protect your information '' This letter said they would continue their research to determine if this account is valid or not and that I should personally reach out to the credit agencies to add fraud alert. The next letter to follow would be on XX/XX/XXXX saying I was still responsible for the {$920.00} dollar balance on said credit account. On this letter they offered me a \" deal '' to pay in XXXX parts of XXXX dollars lowering my payoff balance to {$410.00} dollars in total. \n\nOn XX/XX/XXXX, I was able to speak to a representative of Chase bank named XXXX XXXX XXXX XXXX. During this call I was able to determine that this account was opened on XX/XX/XXXX. The account was opened with an address XXXX XXXX XXXX XXXX ( I do have the full address if needed ) and a phone number that with a quick XXXX search is associated with several fraudulent XXXX accounts. I can provide this number. I have never received a statement for this account as I DO NOT live in XXXX XXXX XXXX. I live in XXXX XXXX and have for nearly XXXX  years. The Chase representative informed me that a {$700.00} dollar charge to XXXX account in XXXX was made with this account. With all of this information the Representative would not let me speak to anyone in the XXXX department and would not send me copies of the statements for this account. Once I said I would be filing a complaint with the CFPB the representative become fully unhelp and even combative. I have exhausted all the resources that I know of to have this handled properly."
+}
+
+Chunk:
+with the cfpb the representative become fully unhelp and even combative. i have exhausted all the resources that i know of to have this handled properly.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982587695121765
+}

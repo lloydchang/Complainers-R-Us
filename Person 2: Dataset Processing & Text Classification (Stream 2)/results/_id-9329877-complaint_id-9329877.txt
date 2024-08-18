@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9329877,
+  "complaint_id": "9329877",
+  "product": "Credit card",
+  "complaint_what_happened": "I have emailed Tally several times ask for an itemized list of all of my payments and interest combined. They have yet to provide and accurate breakdown. They only communicate via email and although you request a call back they never call. \n\nThey have failed to provide me a signed contract. The contract provided only shows date no initials or signature. They also paid a credit card that was closed and charged me {$3000.00} without my permission and now I can not get my money back from the company.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60419",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Tally Technologies",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have emailed Tally several times ask for an itemized list of all of my payments and interest combined. They have yet to provide and accurate breakdown. They only communicate via email and although you request a call back they never call. \n\nThey have failed to provide me a signed contract. The contract provided only shows date no initials or signature. They also paid a credit card that was closed and charged me {$3000.00} without my permission and now I can not get my money back from the company."
+}
+
+Chunk:
+i have emailed tally several times ask for an itemized list of all of my payments and interest combined. they have yet to provide and accurate breakdown. they only communicate via email and although you request a call back they never call. they have failed to provide me a signed contract. the contract provided only shows date no initials or signature. they also paid a credit card that was closed and charged me { $ 3000. 00 } without my permission and now i can not get my money back from the company.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996004700660706
+}

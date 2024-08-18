@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9132984,
+  "complaint_id": "9132984",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone got into my Chase bank account, changed my mailing address, and stoled my money",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98092",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Privacy issues",
+  "text": "Someone got into my Chase bank account, changed my mailing address, and stoled my money"
+}
+
+Chunk:
+someone got into my chase bank account, changed my mailing address, and stoled my money
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988512992858887
+}

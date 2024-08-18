@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9001466,
+  "complaint_id": "9001466",
+  "product": "Credit card",
+  "complaint_what_happened": "I had closed my account with this credit card company last year but they didn't prevent charges from going through after I closed the account. I continued to make payments to the company but then they locked my access via the website and started to send me short emails that I have payments to make for $ XXXX to pay off the balance. I made the payments and then the emails stopped and they never sent me a closing statement nor a full monthly statement by mail. \nTwo months after getting the last email statement they sent me another email notification I have a balance. I paid off the remaining balance in XX/XX/2024. \nNow they're reporting to XXXX  I am 30days late payment and are refusing to remove it",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "20876",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "I had closed my account with this credit card company last year but they didn't prevent charges from going through after I closed the account. I continued to make payments to the company but then they locked my access via the website and started to send me short emails that I have payments to make for $ XXXX to pay off the balance. I made the payments and then the emails stopped and they never sent me a closing statement nor a full monthly statement by mail. \nTwo months after getting the last email statement they sent me another email notification I have a balance. I paid off the remaining balance in XX/XX/2024. \nNow they're reporting to XXXX  I am 30days late payment and are refusing to remove it"
+}
+
+Chunk:
+i had closed my account with this credit card company last year but they didn't prevent charges from going through after i closed the account. i continued to make payments to the company but then they locked my access via the website and started to send me short emails that i have payments to make for $ xxxx to pay off the balance. i made the payments and then the emails stopped and they never sent me a closing statement nor a full monthly statement by mail. two months after getting the last email statement they sent me another email notification i have a balance. i paid off the remaining balance in xx / xx / 2024. now they're reporting to xxxx i am 30days late payment and are refusing to remove it
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966024160385132
+}

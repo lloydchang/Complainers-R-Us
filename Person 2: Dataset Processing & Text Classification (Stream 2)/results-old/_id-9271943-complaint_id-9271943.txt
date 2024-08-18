@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9271943,
+  "complaint_id": "9271943",
+  "product": "Credit card",
+  "complaint_what_happened": "Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX Fee Amount of Transaction : XXXX Card Number : XXXX Status : Closed - Dispute Declined Our investigation of your dispute is complete. \n\nUnfortunately, we must turn down your request for credit based on the information we gathered. \n\n*Visa requires specific information from the cardholder in order for the bank to file a dispute. Since the requirements to file a dispute have not been met, we have no recourse but to close the dispute at this time. \n\n* A notation may appear on your next billing statement advising you that the amount of your dispute is not required for payment. This notice will be removed after the statement period closes, unless you have another dispute open or under review. Waiting until the statement closes ensures that you will not be charged any finance charges or fees on the disputed transaction while under investigation. \nIf we temporarily credited your account while we investigated your dispute, we will remove this credit by re-charging your account. \n\nYou will be financially responsible for the transaction, and your dispute is now closed. \n\nIf you still feel you should get a refund, please work directly with the merchant. \nQuestions about your dispute? \n\nCall us at XXXX Sun- Sat : XXXX XXXX XXXX XXXX XXXX  Central Time Fax Number XXXX Sincerely, Wells Fargo Claims Assistance Center Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX Fee Amount of Transaction : XXXX Card Number : XXXX Status : Dispute Initiated We received your inquiry about a disputed transaction on your account. We appreciate your patience while we research your dispute and will let you know our findings as soon as our research is complete. Please send us any supporting documents you may have, such as those described below.\n\nWhat you need to do 1. If you havent already sent these documents to us, please gather copies of documents related to the dispute, including but not limited to these examples : Letter detailing reason for the dispute Copy of invoice, sales or return receipt Copy of delivery or pick-up receipts Front and back copies of checks or bank statements 2. Send us the documents in any of the following ways : FAX : to XXXX Mail : to XXXX XXXX XXXX XXXX XXXX, IA XXXX E-Mail : to XXXX If you have questions, please call us at XXXX, Sun - Sat : XXXX XXXX XXXX XXXX XXXX  Central Time XXXX For customers with hearing or speech disabilities, we accept telecommunications relay service calls. \nQuestions about your dispute? \n\nCall us at XXXX Sun - Sat : XXXX XXXX XXXX XXXX XXXX  Central Time Fax Number XXXX",
+  "date_sent_to_company": "2024-06-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "32225",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-16T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX Fee Amount of Transaction : XXXX Card Number : XXXX Status : Closed - Dispute Declined Our investigation of your dispute is complete. \n\nUnfortunately, we must turn down your request for credit based on the information we gathered. \n\n*Visa requires specific information from the cardholder in order for the bank to file a dispute. Since the requirements to file a dispute have not been met, we have no recourse but to close the dispute at this time. \n\n* A notation may appear on your next billing statement advising you that the amount of your dispute is not required for payment. This notice will be removed after the statement period closes, unless you have another dispute open or under review. Waiting until the statement closes ensures that you will not be charged any finance charges or fees on the disputed transaction while under investigation. \nIf we temporarily credited your account while we investigated your dispute, we will remove this credit by re-charging your account. \n\nYou will be financially responsible for the transaction, and your dispute is now closed. \n\nIf you still feel you should get a refund, please work directly with the merchant. \nQuestions about your dispute? \n\nCall us at XXXX Sun- Sat : XXXX XXXX XXXX XXXX XXXX  Central Time Fax Number XXXX Sincerely, Wells Fargo Claims Assistance Center Dispute Number : XXXX Date Posted : XX/XX/year> Merchant Name : XXXX Fee Amount of Transaction : XXXX Card Number : XXXX Status : Dispute Initiated We received your inquiry about a disputed transaction on your account. We appreciate your patience while we research your dispute and will let you know our findings as soon as our research is complete. Please send us any supporting documents you may have, such as those described below.\n\nWhat you need to do 1. If you havent already sent these documents to us, please gather copies of documents related to the dispute, including but not limited to these examples : Letter detailing reason for the dispute Copy of invoice, sales or return receipt Copy of delivery or pick-up receipts Front and back copies of checks or bank statements 2. Send us the documents in any of the following ways : FAX : to XXXX Mail : to XXXX XXXX XXXX XXXX XXXX, IA XXXX E-Mail : to XXXX If you have questions, please call us at XXXX, Sun - Sat : XXXX XXXX XXXX XXXX XXXX  Central Time XXXX For customers with hearing or speech disabilities, we accept telecommunications relay service calls. \nQuestions about your dispute? \n\nCall us at XXXX Sun - Sat : XXXX XXXX XXXX XXXX XXXX  Central Time Fax Number XXXX"
+}
+
+Chunk:
+we accept telecommunications relay service calls. questions about your dispute? call us at xxxx sun - sat : xxxx xxxx xxxx xxxx xxxx central time fax number xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9937893748283386
+}

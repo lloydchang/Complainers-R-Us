@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9519960,
+  "complaint_id": "9519960",
+  "product": "Credit card",
+  "complaint_what_happened": "Dispute XXXX. I bought XXXX pairs of pants from merchant XXXX XXXX. XXXX XXXX provided me with subpar clothing that ripped easily and were of completely different sizing ( some size XXXX fit like size XXXX, some size XXXX fit like size XXXX, etc ), I requested a return and XXXX XXXX provided me with a return shipping label. However package was lost in transit and XXXX stated they have an agreement with XXXX XXXX that it is XXXX XXXX 's responsibility to compensate me. \n\nXXXX XXXX responded to my dispute with a tracking number showing that the original XXXX pairs of pants were delivered to my house. This is completely irrelevant to my dispute. \n\nInstead, Citi ruled that XXXX XXXX is not responsible, and that I should be charged, despite XXXX providing documentation in support of my situation. \n\nI called Citi and yelled at them for siding with merchant, despite the fact that XXXX has clearly stated the merchant is responsible. They hung up on me and then a supervisor again stated they will refuse to refund me. \n\nMy dispute with Citi is that they refused to look at any of my documentation, and furthermore they sided with the merchant who provided an irrelevant response. This is completely negligent.",
+  "date_sent_to_company": "2024-07-16T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77006",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Dispute XXXX. I bought XXXX pairs of pants from merchant XXXX XXXX. XXXX XXXX provided me with subpar clothing that ripped easily and were of completely different sizing ( some size XXXX fit like size XXXX, some size XXXX fit like size XXXX, etc ), I requested a return and XXXX XXXX provided me with a return shipping label. However package was lost in transit and XXXX stated they have an agreement with XXXX XXXX that it is XXXX XXXX 's responsibility to compensate me. \n\nXXXX XXXX responded to my dispute with a tracking number showing that the original XXXX pairs of pants were delivered to my house. This is completely irrelevant to my dispute. \n\nInstead, Citi ruled that XXXX XXXX is not responsible, and that I should be charged, despite XXXX providing documentation in support of my situation. \n\nI called Citi and yelled at them for siding with merchant, despite the fact that XXXX has clearly stated the merchant is responsible. They hung up on me and then a supervisor again stated they will refuse to refund me. \n\nMy dispute with Citi is that they refused to look at any of my documentation, and furthermore they sided with the merchant who provided an irrelevant response. This is completely negligent."
+}
+
+Chunk:
+dispute xxxx. i bought xxxx pairs of pants from merchant xxxx xxxx. xxxx xxxx provided me with subpar clothing that ripped easily and were of completely different sizing ( some size xxxx fit like size xxxx, some size xxxx fit like size xxxx, etc ), i requested a return and xxxx xxxx provided me with a return shipping label. however package was lost in transit and xxxx stated they have an agreement with xxxx xxxx that it is xxxx xxxx's responsibility to compensate me. xxxx xxxx responded to my dispute with a tracking number showing that the original xxxx pairs of pants were delivered to my house. this is completely irrelevant to my dispute. instead, citi ruled that xxxx xxxx is not responsible, and that i should be charged, despite xxxx providing documentation in support of my situation. i called citi and yelled at them for siding with merchant, despite the fact that xxxx has clearly stated the merchant is responsible. they hung up on me and then a supervisor again stated they will refuse to refund me. my dispute with citi is that they refused to look at any of my documentation, and furthermore they sided with the merchant who provided an irrelevant response. this is completely negligent.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988253712654114
+}

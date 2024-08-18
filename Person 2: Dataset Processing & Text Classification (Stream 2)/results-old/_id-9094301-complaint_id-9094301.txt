@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9094301,
+  "complaint_id": "9094301",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally complain about Capital One, who engaged in predatory lending practices that have adversely impacted my credit standing. \n\nRecently, Capital One pulled my credit report and initiated multiple email communications requesting verification of my income as part of a process to increase my credit limit. Despite complying promptly and providing all requested information, my application for a credit limit increase was immediately declined. This action has resulted in a significant drop in my credit score.\n\nI believe that this sequence of events is indicative of predatory behavior, aimed at generating unnecessary hard inquiries on my credit report, which in turn damages my credit score",
+  "date_sent_to_company": "2024-05-24T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "27513",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-24T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "I am writing to formally complain about Capital One, who engaged in predatory lending practices that have adversely impacted my credit standing. \n\nRecently, Capital One pulled my credit report and initiated multiple email communications requesting verification of my income as part of a process to increase my credit limit. Despite complying promptly and providing all requested information, my application for a credit limit increase was immediately declined. This action has resulted in a significant drop in my credit score.\n\nI believe that this sequence of events is indicative of predatory behavior, aimed at generating unnecessary hard inquiries on my credit report, which in turn damages my credit score"
+}
+
+Chunk:
+i am writing to formally complain about capital one, who engaged in predatory lending practices that have adversely impacted my credit standing. recently, capital one pulled my credit report and initiated multiple email communications requesting verification of my income as part of a process to increase my credit limit. despite complying promptly and providing all requested information, my application for a credit limit increase was immediately declined. this action has resulted in a significant drop in my credit score. i believe that this sequence of events is indicative of predatory behavior, aimed at generating unnecessary hard inquiries on my credit report, which in turn damages my credit score
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996271133422852
+}

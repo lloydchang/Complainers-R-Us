@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9505456,
+  "complaint_id": "9505456",
+  "product": "Credit card",
+  "complaint_what_happened": "This dispute is due to a {$29.00} final payment that was due and paid via checking account and payment cleared on XX/XX/year>. Per the representative. the check was returned by my bank. when checking my statement the payment was processed which made my final payment, but several late fees were charged to me and reported to the credit bureau tremendously reducing my credit score to XXXX and I've XXXX been below XXXX. I've asked to have the late fees removed because I've satisfied the account, and now it's reporting to the bureau, I ; ve also tried to pay with the Bureau of Public Debt which they are not allowing me to because it's already being used by them double dipping.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "21206",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "This dispute is due to a {$29.00} final payment that was due and paid via checking account and payment cleared on XX/XX/year>. Per the representative. the check was returned by my bank. when checking my statement the payment was processed which made my final payment, but several late fees were charged to me and reported to the credit bureau tremendously reducing my credit score to XXXX and I've XXXX been below XXXX. I've asked to have the late fees removed because I've satisfied the account, and now it's reporting to the bureau, I ; ve also tried to pay with the Bureau of Public Debt which they are not allowing me to because it's already being used by them double dipping."
+}
+
+Chunk:
+this dispute is due to a { $ 29. 00 } final payment that was due and paid via checking account and payment cleared on xx / xx / year >. per the representative. the check was returned by my bank. when checking my statement the payment was processed which made my final payment, but several late fees were charged to me and reported to the credit bureau tremendously reducing my credit score to xxxx and i've xxxx been below xxxx. i've asked to have the late fees removed because i've satisfied the account, and now it's reporting to the bureau, i ; ve also tried to pay with the bureau of public debt which they are not allowing me to because it's already being used by them double dipping.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986478686332703
+}

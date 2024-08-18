@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9233473,
+  "complaint_id": "9233473",
+  "product": "Credit card",
+  "complaint_what_happened": "I called my credit card Capital One and essentially set up a payment plan so my credit would not be affected or have any late dues, as I could not pay the $ XXXX  monthly minimum fee they started requesting out of no where. I agreed to pay {$400.00} a month for XXXX months auto pay and theyre still trying to charge more and even adding on late fees. This agreement was supposed to set my minimum temporarily but theyre still saying I need the full amount ( XXXX plus ) plus the agreed upon amount, when it was supposed to be in place of. Its hurting my credit terribly and anytime I have called no one can help me further. \nIf I could pay XXXX monthly on the card I wouldve already so Im not sure why the payment plan is even set up.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34652",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I called my credit card Capital One and essentially set up a payment plan so my credit would not be affected or have any late dues, as I could not pay the $ XXXX  monthly minimum fee they started requesting out of no where. I agreed to pay {$400.00} a month for XXXX months auto pay and theyre still trying to charge more and even adding on late fees. This agreement was supposed to set my minimum temporarily but theyre still saying I need the full amount ( XXXX plus ) plus the agreed upon amount, when it was supposed to be in place of. Its hurting my credit terribly and anytime I have called no one can help me further. \nIf I could pay XXXX monthly on the card I wouldve already so Im not sure why the payment plan is even set up."
+}
+
+Chunk:
+i called my credit card capital one and essentially set up a payment plan so my credit would not be affected or have any late dues, as i could not pay the $ xxxx monthly minimum fee they started requesting out of no where. i agreed to pay { $ 400. 00 } a month for xxxx months auto pay and theyre still trying to charge more and even adding on late fees. this agreement was supposed to set my minimum temporarily but theyre still saying i need the full amount ( xxxx plus ) plus the agreed upon amount, when it was supposed to be in place of. its hurting my credit terribly and anytime i have called no one can help me further. if i could pay xxxx monthly on the card i wouldve already so im not sure why the payment plan is even set up.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995890259742737
+}

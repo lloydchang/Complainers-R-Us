@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9367089,
+  "complaint_id": "9367089",
+  "product": "Credit card",
+  "complaint_what_happened": "I was emailed a promotional offer from US Bank to establish an Extend Pay option on my purchases with my XXXX Credit Card. I meet the parameters of the promotion but when I attempt to initiate the Extend Pay feature online, it rejects me as it claims I do not have a valid email address which is false as I received the offer through email in the first place. I have called the card service reps and they have submitted a ticket for their IT department but I have not heard back from them. As of today I am still trying to establish the Extend Pay feature on my purchases but I still receive the same error message.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94565",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I was emailed a promotional offer from US Bank to establish an Extend Pay option on my purchases with my XXXX Credit Card. I meet the parameters of the promotion but when I attempt to initiate the Extend Pay feature online, it rejects me as it claims I do not have a valid email address which is false as I received the offer through email in the first place. I have called the card service reps and they have submitted a ticket for their IT department but I have not heard back from them. As of today I am still trying to establish the Extend Pay feature on my purchases but I still receive the same error message."
+}
+
+Chunk:
+i was emailed a promotional offer from us bank to establish an extend pay option on my purchases with my xxxx credit card. i meet the parameters of the promotion but when i attempt to initiate the extend pay feature online, it rejects me as it claims i do not have a valid email address which is false as i received the offer through email in the first place. i have called the card service reps and they have submitted a ticket for their it department but i have not heard back from them. as of today i am still trying to establish the extend pay feature on my purchases but i still receive the same error message.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996213912963867
+}

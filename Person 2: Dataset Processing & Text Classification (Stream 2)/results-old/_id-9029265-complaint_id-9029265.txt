@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029265,
+  "complaint_id": "9029265",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I applied for the XXXX XXXX XXXX American Express card. \n\nRef Number : XXXX I filled my application correctly with very high income vs debt. I got a bankruptcy XXXX on XXXX  at around XXXX. This bankruptcy is the only negative hit on my credit. All my payments have always been on time. I even have a score that ranges from XXXX. I called american express to see if my application could be manually reviewed since I have never hold and account with American express and i have such a high income and almost cero debt with good credit. They confirm my application was solely denied due to a bankruptcy and nothing could be done to review this or have a decision reverted. This is direct discrimination on behalf of American Express to me as a business.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "761XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "On XX/XX/XXXX I applied for the XXXX XXXX XXXX American Express card. \n\nRef Number : XXXX I filled my application correctly with very high income vs debt. I got a bankruptcy XXXX on XXXX  at around XXXX. This bankruptcy is the only negative hit on my credit. All my payments have always been on time. I even have a score that ranges from XXXX. I called american express to see if my application could be manually reviewed since I have never hold and account with American express and i have such a high income and almost cero debt with good credit. They confirm my application was solely denied due to a bankruptcy and nothing could be done to review this or have a decision reverted. This is direct discrimination on behalf of American Express to me as a business."
+}
+
+Chunk:
+on xx / xx / xxxx i applied for the xxxx xxxx xxxx american express card. ref number : xxxx i filled my application correctly with very high income vs debt. i got a bankruptcy xxxx on xxxx at around xxxx. this bankruptcy is the only negative hit on my credit. all my payments have always been on time. i even have a score that ranges from xxxx. i called american express to see if my application could be manually reviewed since i have never hold and account with american express and i have such a high income and almost cero debt with good credit. they confirm my application was solely denied due to a bankruptcy and nothing could be done to review this or have a decision reverted. this is direct discrimination on behalf of american express to me as a business.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998403012752533
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9061597,
+  "complaint_id": "9061597",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a Navy Federal Credit Union Credit Card on XX/XX/XXXX but due to Natural Causes ( Hurricane Maria ) I lost my job which led to became delinquent for this account XXXX. The total amount is {$1300.00}. The account its been reported to continue on record until XX/XX/XXXX, despite that the first day of delinquency was XX/XX/XXXX. \n\nAccording to FCRA 623 ( a ) ( 5 ) the furnisher shall notify the agency the date of delinquency on the account, which shall be the month and year of the commencement of the delinquency on the account that immediately preceded the action. \n\nPlease, I would appreciate this record to be removed at the earliest convenience, according to the FCRA regulations.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33617",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "NAVY FEDERAL CREDIT UNION",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Information is missing that should be on the report",
+  "text": "I received a Navy Federal Credit Union Credit Card on XX/XX/XXXX but due to Natural Causes ( Hurricane Maria ) I lost my job which led to became delinquent for this account XXXX. The total amount is {$1300.00}. The account its been reported to continue on record until XX/XX/XXXX, despite that the first day of delinquency was XX/XX/XXXX. \n\nAccording to FCRA 623 ( a ) ( 5 ) the furnisher shall notify the agency the date of delinquency on the account, which shall be the month and year of the commencement of the delinquency on the account that immediately preceded the action. \n\nPlease, I would appreciate this record to be removed at the earliest convenience, according to the FCRA regulations."
+}
+
+Chunk:
+i received a navy federal credit union credit card on xx / xx / xxxx but due to natural causes ( hurricane maria ) i lost my job which led to became delinquent for this account xxxx. the total amount is { $ 1300. 00 }. the account its been reported to continue on record until xx / xx / xxxx, despite that the first day of delinquency was xx / xx / xxxx. according to fcra 623 ( a ) ( 5 ) the furnisher shall notify the agency the date of delinquency on the account, which shall be the month and year of the commencement of the delinquency on the account that immediately preceded the action. please, i would appreciate this record to be removed at the earliest convenience, according to the fcra regulations.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9962618947029114
+}

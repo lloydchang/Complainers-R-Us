@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9121872,
+  "complaint_id": "9121872",
+  "product": "Credit card",
+  "complaint_what_happened": "My issue is with the company Sychrony and their business practices that are going to start making payments harder and fees incurred by the consumer. \n\nOriginally approved for a credit card via XXXX XXXX, a local store in XXXX Illinois. Did not know it was Synchrony. \n\nPaid about 1/2 of the 18 months of no interest, the company changed their policy. Paper statements would cost {$1.00}. Tried to change my account for 5 days to go paperless. Not an option. The other card from XXXX XXXX  XXXX, managed by them the option was available. \n\nLetter dated XX/XX/year> I received XX/XX/year> about the changes. I tried on XXXX, XXXX and XXXX for multiple days to change my account to paperless. Also in the letter was something about finance charges but I stopped trying to read it and paid off my card. \n\nThen I opened a Paypal credit line. I was very unhappy to find out Synchrony manages this. I had trouble finding the credit line information on PayPal but last week found a way to pay via snail mail. Went to the application today and could not find the information anymore. GONE on XX/XX/XXXX. Looked on the web. Many people having issues finding their credit line in the Paypal application and how to pay. I searched on the web and found many complaints. \n\nSo again you can't find your information but they will charge {$1.00} I am sure for sending out paper too for Paypal. I was told by Paypal customer service that I have to LINK my Paypal credit to Paypal. That was never communicated. And maybe Synchrony had a system change. But I never received any communication. \n\nI have a Synchrony App on my phone and that does not show my Paypal credit line either. \n\nSynchrony is giving little or no assistance to the consumer which will result in fees, late payments and confusion. \n\nWe already have people struggling with debt. I think Synchrony is going to or is already making money off of people not taking the time, don't have the time to make sure their bills are paid off. \n\nI think their business practices are inappropriate and they are doing whatever they want. \n\nNot everyone can pay off a credit card that was originally no interest. And not everyone has the time to check that all their bills came in to be paid. I no longer work. I have XXXX. And I have time to complain to whomever will listen about this company. Their lack of planning or IT resources should not be placed on the consumers bill.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "60031",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "My issue is with the company Sychrony and their business practices that are going to start making payments harder and fees incurred by the consumer. \n\nOriginally approved for a credit card via XXXX XXXX, a local store in XXXX Illinois. Did not know it was Synchrony. \n\nPaid about 1/2 of the 18 months of no interest, the company changed their policy. Paper statements would cost {$1.00}. Tried to change my account for 5 days to go paperless. Not an option. The other card from XXXX XXXX  XXXX, managed by them the option was available. \n\nLetter dated XX/XX/year> I received XX/XX/year> about the changes. I tried on XXXX, XXXX and XXXX for multiple days to change my account to paperless. Also in the letter was something about finance charges but I stopped trying to read it and paid off my card. \n\nThen I opened a Paypal credit line. I was very unhappy to find out Synchrony manages this. I had trouble finding the credit line information on PayPal but last week found a way to pay via snail mail. Went to the application today and could not find the information anymore. GONE on XX/XX/XXXX. Looked on the web. Many people having issues finding their credit line in the Paypal application and how to pay. I searched on the web and found many complaints. \n\nSo again you can't find your information but they will charge {$1.00} I am sure for sending out paper too for Paypal. I was told by Paypal customer service that I have to LINK my Paypal credit to Paypal. That was never communicated. And maybe Synchrony had a system change. But I never received any communication. \n\nI have a Synchrony App on my phone and that does not show my Paypal credit line either. \n\nSynchrony is giving little or no assistance to the consumer which will result in fees, late payments and confusion. \n\nWe already have people struggling with debt. I think Synchrony is going to or is already making money off of people not taking the time, don't have the time to make sure their bills are paid off. \n\nI think their business practices are inappropriate and they are doing whatever they want. \n\nNot everyone can pay off a credit card that was originally no interest. And not everyone has the time to check that all their bills came in to be paid. I no longer work. I have XXXX. And I have time to complain to whomever will listen about this company. Their lack of planning or IT resources should not be placed on the consumers bill."
+}
+
+Chunk:
+time to complain to whomever will listen about this company. their lack of planning or it resources should not be placed on the consumers bill.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996951818466187
+}

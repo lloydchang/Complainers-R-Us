@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9134892,
+  "complaint_id": "9134892",
+  "product": "Credit card",
+  "complaint_what_happened": "There is an XXXX XXXX installment balance on my Apple Card of {$790.00} with no date and is not paying down. Goldman says theres no record of the transaction on my account so they cant remove it from my installments but Apple can. Ive tried 3 different times with Apple and 3 times with Goldman and nobody seems capable of resolving my issue,",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55416",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "There is an XXXX XXXX installment balance on my Apple Card of {$790.00} with no date and is not paying down. Goldman says theres no record of the transaction on my account so they cant remove it from my installments but Apple can. Ive tried 3 different times with Apple and 3 times with Goldman and nobody seems capable of resolving my issue,"
+}
+
+Chunk:
+there is an xxxx xxxx installment balance on my apple card of { $ 790. 00 } with no date and is not paying down. goldman says theres no record of the transaction on my account so they cant remove it from my installments but apple can. ive tried 3 different times with apple and 3 times with goldman and nobody seems capable of resolving my issue,
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995641112327576
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9322252,
+  "complaint_id": "9322252",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been a victim of identity theft for the past 4 years. There have been Fraudulent Items being reported to my Credit Report. The following account THE GOLDEN 1 CREDIT UN ( Account Number : XXXX ). Date Opened : XX/XX/year>. XXXX {$100.00}. I have never had an account with this company. Cease the reporting of the fraudulent item being reporting immediately. I am not liable for this debt with THE GOLDEN 1 CREDIT UN. I have attached a copy of my ID and FTC report. ( Please see attachments ).",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94534",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDEN 1 CREDIT UNION, THE",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Information belongs to someone else",
+  "text": "I have been a victim of identity theft for the past 4 years. There have been Fraudulent Items being reported to my Credit Report. The following account THE GOLDEN 1 CREDIT UN ( Account Number : XXXX ). Date Opened : XX/XX/year>. XXXX {$100.00}. I have never had an account with this company. Cease the reporting of the fraudulent item being reporting immediately. I am not liable for this debt with THE GOLDEN 1 CREDIT UN. I have attached a copy of my ID and FTC report. ( Please see attachments )."
+}
+
+Chunk:
+i have been a victim of identity theft for the past 4 years. there have been fraudulent items being reported to my credit report. the following account the golden 1 credit un ( account number : xxxx ). date opened : xx / xx / year >. xxxx { $ 100. 00 }. i have never had an account with this company. cease the reporting of the fraudulent item being reporting immediately. i am not liable for this debt with the golden 1 credit un. i have attached a copy of my id and ftc report. ( please see attachments ).
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974207878112793
+}

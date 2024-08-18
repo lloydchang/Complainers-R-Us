@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042084,
+  "complaint_id": "9042084",
+  "product": "Credit card",
+  "complaint_what_happened": "The company authorized a prior authorized user who was removed from a former account to charge purchases to that account when the account was closed. The company advised in writing that the account was closed and the authorized user removed on XX/XX/XXXX. The charges for those purchases were transferred to my then current account. The company has removed some of the charges but as of XX/XX/XXXX, {$79.00} remains in dispute. On the pretense of resolving the dispute, the company misappropriated a payment submitted for a charge in the amount of {$140.00} on XX/XX/XXXX and applied it to the {$79.00} balance in dispute on XXXX XXXX, XXXX, claiming the {$140.00} was disputed. When notified the {$140.00} was not disputed, the company reaffirmed its resolution on XX/XX/XXXX. \nThe company received my formal dispute by certified mail on XX/XX/XXXX and was required to resolve by XX/XX/XXXX, maximum 90 days from receipt. \nIn applying the {$79.00} disputed balance to the {$140.00} prior payment, the company changed the amount in dispute and is thereby required to provide explanation of any change in the amount disputed. The company did not provide that explanation in its statement of resolution or otherwise. \nBoth actions violate the Consumer Credit Protection Act.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The company authorized a prior authorized user who was removed from a former account to charge purchases to that account when the account was closed. The company advised in writing that the account was closed and the authorized user removed on XX/XX/XXXX. The charges for those purchases were transferred to my then current account. The company has removed some of the charges but as of XX/XX/XXXX, {$79.00} remains in dispute. On the pretense of resolving the dispute, the company misappropriated a payment submitted for a charge in the amount of {$140.00} on XX/XX/XXXX and applied it to the {$79.00} balance in dispute on XXXX XXXX, XXXX, claiming the {$140.00} was disputed. When notified the {$140.00} was not disputed, the company reaffirmed its resolution on XX/XX/XXXX. \nThe company received my formal dispute by certified mail on XX/XX/XXXX and was required to resolve by XX/XX/XXXX, maximum 90 days from receipt. \nIn applying the {$79.00} disputed balance to the {$140.00} prior payment, the company changed the amount in dispute and is thereby required to provide explanation of any change in the amount disputed. The company did not provide that explanation in its statement of resolution or otherwise. \nBoth actions violate the Consumer Credit Protection Act."
+}
+
+Chunk:
+the company authorized a prior authorized user who was removed from a former account to charge purchases to that account when the account was closed. the company advised in writing that the account was closed and the authorized user removed on xx / xx / xxxx. the charges for those purchases were transferred to my then current account. the company has removed some of the charges but as of xx / xx / xxxx, { $ 79. 00 } remains in dispute. on the pretense of resolving the dispute, the company misappropriated a payment submitted for a charge in the amount of { $ 140. 00 } on xx / xx / xxxx and applied it to the { $ 79. 00 } balance in dispute on xxxx xxxx, xxxx, claiming the { $ 140. 00 } was disputed. when notified the { $ 140. 00 } was not disputed, the company reaffirmed its resolution on xx / xx / xxxx. the company received my formal dispute by certified mail on xx / xx / xxxx and was required to resolve by xx / xx / xxxx, maximum 90 days from receipt. in applying the { $ 79. 00 } disputed balance to the { $ 140. 00 } prior payment, the company changed the amount in dispute and is thereby required to provide explanation of any change in the amount disputed. the company did not provide that explanation in its statement of resolution or otherwise. both actions violate the consumer credit protection act.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977618455886841
+}

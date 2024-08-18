@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9498345,
+  "complaint_id": "9498345",
+  "product": "Credit card",
+  "complaint_what_happened": "I booked a hotel with a specific room type through Citi XXXX. They booked the wrong room type, but would not acknowledge their mistake. I have waited 2 weeks and Citi kept saying they do not have a resolution. The customer representative was very rude and refused to describe what resolution she would be trying to achieve. \n\nThis is the second time Citi XXXX made the same mistake of booking the wrong room type at the hotel. Citi is ripping consumers off by charging a high price for better room types and just booking inferior room types. It is misrepresenting to customers. If I had not called the hotel, I would not even know Citi made a mistake and Citi can just take my money and give me an inferior product.",
+  "date_sent_to_company": "2024-07-13T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10036",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-13T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I booked a hotel with a specific room type through Citi XXXX. They booked the wrong room type, but would not acknowledge their mistake. I have waited 2 weeks and Citi kept saying they do not have a resolution. The customer representative was very rude and refused to describe what resolution she would be trying to achieve. \n\nThis is the second time Citi XXXX made the same mistake of booking the wrong room type at the hotel. Citi is ripping consumers off by charging a high price for better room types and just booking inferior room types. It is misrepresenting to customers. If I had not called the hotel, I would not even know Citi made a mistake and Citi can just take my money and give me an inferior product."
+}
+
+Chunk:
+i booked a hotel with a specific room type through citi xxxx. they booked the wrong room type, but would not acknowledge their mistake. i have waited 2 weeks and citi kept saying they do not have a resolution. the customer representative was very rude and refused to describe what resolution she would be trying to achieve. this is the second time citi xxxx made the same mistake of booking the wrong room type at the hotel. citi is ripping consumers off by charging a high price for better room types and just booking inferior room types. it is misrepresenting to customers. if i had not called the hotel, i would not even know citi made a mistake and citi can just take my money and give me an inferior product.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996955394744873
+}

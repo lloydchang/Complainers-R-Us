@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9183503,
+  "complaint_id": "9183503",
+  "product": "Credit card",
+  "complaint_what_happened": "I owned a business credit card for XXXX XXXX from Citibank. \n\nI had a dispute with the merchant XXXX XXXX which got finally resolved and I decided to retract the dispute. \n\nI called Citibank to cancel the dispute process as I had the resolution from the merchant XXXX  XXXX  afterwards of filing the dispute. \n\nThe amount was {$190.00} for the transaction dated XX/XX/year> that was already paid in full for the XXXX statement cycle on XX/XX/year> which was the due date of the business credit card. \n\nThe dispute was filed was way later in XXXXXXXX XXXX  and I got a credit balance ( negative ) of {$190.00} as the immediate credit post filing the dispute. \n\nBut, when I decided to \" Cancel '' the dispute, Citibank erroneously reversed the charge TWICE and not ready to accept their mistake of billing me twice for the same transaction.",
+  "date_sent_to_company": "2024-06-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28277",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-06T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I owned a business credit card for XXXX XXXX from Citibank. \n\nI had a dispute with the merchant XXXX XXXX which got finally resolved and I decided to retract the dispute. \n\nI called Citibank to cancel the dispute process as I had the resolution from the merchant XXXX  XXXX  afterwards of filing the dispute. \n\nThe amount was {$190.00} for the transaction dated XX/XX/year> that was already paid in full for the XXXX statement cycle on XX/XX/year> which was the due date of the business credit card. \n\nThe dispute was filed was way later in XXXXXXXX XXXX  and I got a credit balance ( negative ) of {$190.00} as the immediate credit post filing the dispute. \n\nBut, when I decided to \" Cancel '' the dispute, Citibank erroneously reversed the charge TWICE and not ready to accept their mistake of billing me twice for the same transaction."
+}
+
+Chunk:
+i owned a business credit card for xxxx xxxx from citibank. i had a dispute with the merchant xxxx xxxx which got finally resolved and i decided to retract the dispute. i called citibank to cancel the dispute process as i had the resolution from the merchant xxxx xxxx afterwards of filing the dispute. the amount was { $ 190. 00 } for the transaction dated xx / xx / year > that was already paid in full for the xxxx statement cycle on xx / xx / year > which was the due date of the business credit card. the dispute was filed was way later in xxxxxxxx xxxx and i got a credit balance ( negative ) of { $ 190. 00 } as the immediate credit post filing the dispute. but, when i decided to " cancel'' the dispute, citibank erroneously reversed the charge twice and not ready to accept their mistake of billing me twice for the same transaction.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994575381278992
+}

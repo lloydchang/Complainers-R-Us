@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9049204,
+  "complaint_id": "9049204",
+  "product": "Credit card",
+  "complaint_what_happened": "The XXXX XXXX XXXX XXXX  in XXXX, IL charged me for XXXX or XXXX nights when I only stayed XXXX night ( Monday night ). I provided proof that I stayed the rest of the week at the XXXX XXXX XXXX  for a variety of reasons ; the main reason was the rude and crude way I was treated by the night clerk when I checked in, and the manager the next morning when I tried to check out...\n\nThey claim I booked through a 3rd party ( XXXX ) which was NOT true. I booked through XXXX XXXX XXXX web site... \nI have disputed charge XXXX in less than the 60 day limit but Capital One refuses to dismiss the charge for XXXX or XXXX nights!!!",
+  "date_sent_to_company": "2024-05-20T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-20T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The XXXX XXXX XXXX XXXX  in XXXX, IL charged me for XXXX or XXXX nights when I only stayed XXXX night ( Monday night ). I provided proof that I stayed the rest of the week at the XXXX XXXX XXXX  for a variety of reasons ; the main reason was the rude and crude way I was treated by the night clerk when I checked in, and the manager the next morning when I tried to check out...\n\nThey claim I booked through a 3rd party ( XXXX ) which was NOT true. I booked through XXXX XXXX XXXX web site... \nI have disputed charge XXXX in less than the 60 day limit but Capital One refuses to dismiss the charge for XXXX or XXXX nights!!!"
+}
+
+Chunk:
+the xxxx xxxx xxxx xxxx in xxxx, il charged me for xxxx or xxxx nights when i only stayed xxxx night ( monday night ). i provided proof that i stayed the rest of the week at the xxxx xxxx xxxx for a variety of reasons ; the main reason was the rude and crude way i was treated by the night clerk when i checked in, and the manager the next morning when i tried to check out... they claim i booked through a 3rd party ( xxxx ) which was not true. i booked through xxxx xxxx xxxx web site... i have disputed charge xxxx in less than the 60 day limit but capital one refuses to dismiss the charge for xxxx or xxxx nights!!!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969161748886108
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9149806,
+  "complaint_id": "9149806",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX Contacted Capital One to verify the additional credit card account I discovered when reviewing my credit report. They were unable to see it under my account as I ( to my knowledge ) only have two credit card accounts with them. \nXX/XX/XXXX I contacted XXXX to verify if the additional account was visible on my report. It was not. \nXX/XX/XXXX Contacted XXXX to verify the additional credit card account on my credit report and was able to verify that an account had been opened on my behalf and shows an account that went delinquent as of XX/XX/XXXX XX/XX/XXXX In pursuit of wanting to report an extended fraud alert through Capital One, I was directed that until I have either filed a police report or have legit documentation for proof of stolen identity/fraud, I am unable to submit an official report to get that process started. \n\n\nUnder XXXX credit report, I was able to confirm a third credit card account that has a credit limit of {$2500.00} that was opened XX/XX/XXXX when I was XXXX that I had no knowledge of. Payments on that account have been consistently paid up until XX/XX/XXXX. The account now has missed payments and an outstanding balance of {$2900.00}. This has affected my credit score and is devastating to find out.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "97030",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "OR",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XX/XX/XXXX Contacted Capital One to verify the additional credit card account I discovered when reviewing my credit report. They were unable to see it under my account as I ( to my knowledge ) only have two credit card accounts with them. \nXX/XX/XXXX I contacted XXXX to verify if the additional account was visible on my report. It was not. \nXX/XX/XXXX Contacted XXXX to verify the additional credit card account on my credit report and was able to verify that an account had been opened on my behalf and shows an account that went delinquent as of XX/XX/XXXX XX/XX/XXXX In pursuit of wanting to report an extended fraud alert through Capital One, I was directed that until I have either filed a police report or have legit documentation for proof of stolen identity/fraud, I am unable to submit an official report to get that process started. \n\n\nUnder XXXX credit report, I was able to confirm a third credit card account that has a credit limit of {$2500.00} that was opened XX/XX/XXXX when I was XXXX that I had no knowledge of. Payments on that account have been consistently paid up until XX/XX/XXXX. The account now has missed payments and an outstanding balance of {$2900.00}. This has affected my credit score and is devastating to find out."
+}
+
+Chunk:
+xx / xx / xxxx contacted capital one to verify the additional credit card account i discovered when reviewing my credit report. they were unable to see it under my account as i ( to my knowledge ) only have two credit card accounts with them. xx / xx / xxxx i contacted xxxx to verify if the additional account was visible on my report. it was not. xx / xx / xxxx contacted xxxx to verify the additional credit card account on my credit report and was able to verify that an account had been opened on my behalf and shows an account that went delinquent as of xx / xx / xxxx xx / xx / xxxx in pursuit of wanting to report an extended fraud alert through capital one, i was directed that until i have either filed a police report or have legit documentation for proof of stolen identity / fraud, i am unable to submit an official report to get that process started. under xxxx credit report, i was able to confirm a third credit card account that has a credit limit of { $ 2500. 00 } that was opened xx / xx / xxxx when i was xxxx that i had no knowledge of. payments on that account have been consistently paid up until xx / xx / xxxx. the account now has missed payments and an outstanding balance of { $ 2900. 00 }. this has affected my credit score and is devastating to find out.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990894794464111
+}

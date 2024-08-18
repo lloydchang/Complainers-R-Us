@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9176462,
+  "complaint_id": "9176462",
+  "product": "Credit card",
+  "complaint_what_happened": "Someone applied for a CITI Master card credit card in XX/XX/year>. \nXXXX was mailed to me XX/XX/year>. \nI called and had account cancelled. They tried to get XXXX balance transfers of {$4700.00} & {$6800.00}. \n\nCiti Fraud indicated they would stop those transfers.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11361",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Sent card you never applied for",
+  "text": "Someone applied for a CITI Master card credit card in XX/XX/year>. \nXXXX was mailed to me XX/XX/year>. \nI called and had account cancelled. They tried to get XXXX balance transfers of {$4700.00} & {$6800.00}. \n\nCiti Fraud indicated they would stop those transfers."
+}
+
+Chunk:
+someone applied for a citi master card credit card in xx / xx / year >. xxxx was mailed to me xx / xx / year >. i called and had account cancelled. they tried to get xxxx balance transfers of { $ 4700. 00 } & { $ 6800. 00 }. citi fraud indicated they would stop those transfers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996040463447571
+}

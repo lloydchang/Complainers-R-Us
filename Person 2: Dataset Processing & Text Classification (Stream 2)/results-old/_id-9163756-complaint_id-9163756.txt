@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9163756,
+  "complaint_id": "9163756",
+  "product": "Credit card",
+  "complaint_what_happened": "I have had issues trying to log into my online account to view statement, charges, pay bill each time I contact Comenity Bank for my UltaXXXXCard they tell me to reset my password wait 10 days and resign in to no avail. I've been going through this since XX/XX/year> and tried to log in to day and I am unable to.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77494",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "I have had issues trying to log into my online account to view statement, charges, pay bill each time I contact Comenity Bank for my UltaXXXXCard they tell me to reset my password wait 10 days and resign in to no avail. I've been going through this since XX/XX/year> and tried to log in to day and I am unable to."
+}
+
+Chunk:
+i have had issues trying to log into my online account to view statement, charges, pay bill each time i contact comenity bank for my ultaxxxxcard they tell me to reset my password wait 10 days and resign in to no avail. i've been going through this since xx / xx / year > and tried to log in to day and i am unable to.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993738532066345
+}

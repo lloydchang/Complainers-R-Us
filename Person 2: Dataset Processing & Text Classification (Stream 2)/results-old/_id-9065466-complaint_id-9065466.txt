@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9065466,
+  "complaint_id": "9065466",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I used my Capital One credit card to purchase services from a merchant for {$1000.00}. \nI was then told by him that the account was not able to accept payments and he issued me a refund for {$1000.00}. \nI then paid him the entire amount by check. \nI contacted Capital One on XX/XX/XXXX and questioned if they could stop the payment for the {$1000.00} and I was told to wait until it was posted and then file a dispute. I sent copies of the invoice, the pending refund and the check. \nOn XX/XX/XXXX, the amount was posted to my account and I contacted Capital one and started a dispute. \nOn XXXX I received a letter from Capital One stating the dispute was closed because the \" merchant confirmed that no other payment was received for the purchase ''. I then contacted Capital one by phone and questioned what information they needed. I was told they could not accept the check and I needed to send the front/back of the cancelled check. I then sent this to them on XX/XX/XXXX. \nI contacted them by phone that day and I was told that my account would be reviewed. \nXXXX XX/XX/XXXX I received a letter stating my dispute was denied because my information \" lacks all the requested information to validate my claim. I then questioned what information they needed and I was told to get a \" valid credit receipt ''. \nOn XX/XX/XXXX I contacted the merchant and we had a 3 way call with XXXXXXXX XXXX. I was told that they could not do a refund because of the dispute and they could not issue a refund until XX/XX/XXXX. They also stated that the initial refund was rejected by Capital One on XX/XX/XXXX and he sent a document to validate this. I have sent this additional information to Capital One on XX/XX/XXXX. \nI would be happy to send any other information that I have.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "656XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXX I used my Capital One credit card to purchase services from a merchant for {$1000.00}. \nI was then told by him that the account was not able to accept payments and he issued me a refund for {$1000.00}. \nI then paid him the entire amount by check. \nI contacted Capital One on XX/XX/XXXX and questioned if they could stop the payment for the {$1000.00} and I was told to wait until it was posted and then file a dispute. I sent copies of the invoice, the pending refund and the check. \nOn XX/XX/XXXX, the amount was posted to my account and I contacted Capital one and started a dispute. \nOn XXXX I received a letter from Capital One stating the dispute was closed because the \" merchant confirmed that no other payment was received for the purchase ''. I then contacted Capital one by phone and questioned what information they needed. I was told they could not accept the check and I needed to send the front/back of the cancelled check. I then sent this to them on XX/XX/XXXX. \nI contacted them by phone that day and I was told that my account would be reviewed. \nXXXX XX/XX/XXXX I received a letter stating my dispute was denied because my information \" lacks all the requested information to validate my claim. I then questioned what information they needed and I was told to get a \" valid credit receipt ''. \nOn XX/XX/XXXX I contacted the merchant and we had a 3 way call with XXXXXXXX XXXX. I was told that they could not do a refund because of the dispute and they could not issue a refund until XX/XX/XXXX. They also stated that the initial refund was rejected by Capital One on XX/XX/XXXX and he sent a document to validate this. I have sent this additional information to Capital One on XX/XX/XXXX. \nI would be happy to send any other information that I have."
+}
+
+Chunk:
+on xx / xx / xxxx i used my capital one credit card to purchase services from a merchant for { $ 1000. 00 }. i was then told by him that the account was not able to accept payments and he issued me a refund for { $ 1000. 00 }. i then paid him the entire amount by check. i contacted capital one on xx / xx / xxxx and questioned if they could stop the payment for the { $ 1000. 00 } and i was told to wait until it was posted and then file a dispute. i sent copies of the invoice, the pending refund and the check. on xx / xx / xxxx, the amount was posted to my account and i contacted capital one and started a dispute. on xxxx i received a letter from capital one stating the dispute was closed because the " merchant confirmed that no other payment was received for the purchase''. i then contacted capital one by phone and questioned what information they needed. i was told they could not accept the check and i needed to send the front / back of the cancelled check. i then sent this to them on xx / xx / xxxx. i contacted them by phone that day and i was told that my account would be reviewed. xxxx xx / xx / xxxx i received a letter stating my dispute was denied because my information " lacks all the requested information to validate my claim. i then questioned what information they needed and i was told to get a " valid credit receipt''. on xx / xx / xxxx i contacted the merchant and we had a 3 way call with xxxxxxxx xxxx. i was told that they could not do a refund because of the dispute and they could not issue a refund until xx / xx / xxxx. they also stated that the initial refund was rejected by capital one on xx / xx / xxxx and he sent a document to validate this. i have sent this additional information to capital one on xx / xx / xxxx. i would be happy to send any other information that i have.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992302656173706
+}

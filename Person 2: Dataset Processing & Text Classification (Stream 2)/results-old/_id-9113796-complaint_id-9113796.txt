@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9113796,
+  "complaint_id": "9113796",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, 3 credit cards were opened and purchases made in my name without my consent or knowledge. One was Comenity/Kay with a charge in the amount of {$9100.00} charged in XXXX, FL per the representative that I spoke with named XXXX. The second account that was opened and purchases made without my knowledge or consent is XXXX XXXX XXXXXXXX XXXX XXXX amount of {$490.00}. The third credit account that was opened without my consent and purchases made was XXXX in the amount of {$380.00}.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "34266",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On XX/XX/year>, 3 credit cards were opened and purchases made in my name without my consent or knowledge. One was Comenity/Kay with a charge in the amount of {$9100.00} charged in XXXX, FL per the representative that I spoke with named XXXX. The second account that was opened and purchases made without my knowledge or consent is XXXX XXXX XXXXXXXX XXXX XXXX amount of {$490.00}. The third credit account that was opened without my consent and purchases made was XXXX in the amount of {$380.00}."
+}
+
+Chunk:
+on xx / xx / year >, 3 credit cards were opened and purchases made in my name without my consent or knowledge. one was comenity / kay with a charge in the amount of { $ 9100. 00 } charged in xxxx, fl per the representative that i spoke with named xxxx. the second account that was opened and purchases made without my knowledge or consent is xxxx xxxx xxxxxxxx xxxx xxxx amount of { $ 490. 00 }. the third credit account that was opened without my consent and purchases made was xxxx in the amount of { $ 380. 00 }.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9966909885406494
+}

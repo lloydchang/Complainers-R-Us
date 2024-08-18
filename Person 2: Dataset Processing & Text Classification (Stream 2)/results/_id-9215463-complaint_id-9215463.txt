@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9215463,
+  "complaint_id": "9215463",
+  "product": "Credit card",
+  "complaint_what_happened": "They have stolen {$1500.00} at this point. I REFUSE to pay them again. They stopped applying my payments halfway through the billing cycle and didnt send the checks back, they claimed the shred them. That money is not in my account and supposedly never hit theres. This is improper. They then asked me to send a duplicate payment to a different address with different account numbers and the persons who can barely speak XXXX assured me this was correct. Like an XXXX, I tried it. It has not been applying. They are racking up fees onto the account. Ridiculous. I am NOT paying this in XXXX",
+  "date_sent_to_company": "2024-06-12T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92128",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-09T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "They have stolen {$1500.00} at this point. I REFUSE to pay them again. They stopped applying my payments halfway through the billing cycle and didnt send the checks back, they claimed the shred them. That money is not in my account and supposedly never hit theres. This is improper. They then asked me to send a duplicate payment to a different address with different account numbers and the persons who can barely speak XXXX assured me this was correct. Like an XXXX, I tried it. It has not been applying. They are racking up fees onto the account. Ridiculous. I am NOT paying this in XXXX"
+}
+
+Chunk:
+they have stolen { $ 1500. 00 } at this point. i refuse to pay them again. they stopped applying my payments halfway through the billing cycle and didnt send the checks back, they claimed the shred them. that money is not in my account and supposedly never hit theres. this is improper. they then asked me to send a duplicate payment to a different address with different account numbers and the persons who can barely speak xxxx assured me this was correct. like an xxxx, i tried it. it has not been applying. they are racking up fees onto the account. ridiculous. i am not paying this in xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990750551223755
+}

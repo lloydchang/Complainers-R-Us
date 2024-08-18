@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9231950,
+  "complaint_id": "9231950",
+  "product": "Credit card",
+  "complaint_what_happened": "Chase bank received a payment in a coordinated effort to steal XXXX dollars from me for services rendered. I specifically verified that all funds had been posted that day. A coordination of transactions was involved in multiple accounts. This allowed a former client to defraud me of XXXX in deposited payments for my service. Then claiming 4 days later that a \" return \" actually an illegal \" reversal '' of charges was now debiting my account. The bank was clearly complicit in my losses including XXXX in business expenses associated with the criminal accomplice clients. They do not have the legal right to mislead and deceive their clients using defined terms unraveled to suit scammers.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90039",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Other problem",
+  "text": "Chase bank received a payment in a coordinated effort to steal XXXX dollars from me for services rendered. I specifically verified that all funds had been posted that day. A coordination of transactions was involved in multiple accounts. This allowed a former client to defraud me of XXXX in deposited payments for my service. Then claiming 4 days later that a \" return \" actually an illegal \" reversal '' of charges was now debiting my account. The bank was clearly complicit in my losses including XXXX in business expenses associated with the criminal accomplice clients. They do not have the legal right to mislead and deceive their clients using defined terms unraveled to suit scammers."
+}
+
+Chunk:
+chase bank received a payment in a coordinated effort to steal xxxx dollars from me for services rendered. i specifically verified that all funds had been posted that day. a coordination of transactions was involved in multiple accounts. this allowed a former client to defraud me of xxxx in deposited payments for my service. then claiming 4 days later that a " return " actually an illegal " reversal'' of charges was now debiting my account. the bank was clearly complicit in my losses including xxxx in business expenses associated with the criminal accomplice clients. they do not have the legal right to mislead and deceive their clients using defined terms unraveled to suit scammers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9865598678588867
+}

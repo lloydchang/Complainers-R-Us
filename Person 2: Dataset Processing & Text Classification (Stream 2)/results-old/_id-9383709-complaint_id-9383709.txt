@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9383709,
+  "complaint_id": "9383709",
+  "product": "Credit card",
+  "complaint_what_happened": "On approximately XX/XX/year> a charge posted to my credit card account in the amount of XXXX. I did not make or authorize the charge. When I later found out about the charge I disputed the charge with the credit card company and they denied my dispute saying that I would be held responsible for the charge. I called the company XXXX  times to no avail. They provided no acceptable reason for holding me responsible for the fraudulent charge on my account. I do not believe the bank did any investigation at all regarding this issue. The company is the Imagine Credit Card. The Imagine app indicates that the Imagine credit card is issued by XXXX.",
+  "date_sent_to_company": "2024-06-30T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "191XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Atlanticus Services Corporation",
+  "date_received": "2024-06-30T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "On approximately XX/XX/year> a charge posted to my credit card account in the amount of XXXX. I did not make or authorize the charge. When I later found out about the charge I disputed the charge with the credit card company and they denied my dispute saying that I would be held responsible for the charge. I called the company XXXX  times to no avail. They provided no acceptable reason for holding me responsible for the fraudulent charge on my account. I do not believe the bank did any investigation at all regarding this issue. The company is the Imagine Credit Card. The Imagine app indicates that the Imagine credit card is issued by XXXX."
+}
+
+Chunk:
+on approximately xx / xx / year > a charge posted to my credit card account in the amount of xxxx. i did not make or authorize the charge. when i later found out about the charge i disputed the charge with the credit card company and they denied my dispute saying that i would be held responsible for the charge. i called the company xxxx times to no avail. they provided no acceptable reason for holding me responsible for the fraudulent charge on my account. i do not believe the bank did any investigation at all regarding this issue. the company is the imagine credit card. the imagine app indicates that the imagine credit card is issued by xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993333220481873
+}

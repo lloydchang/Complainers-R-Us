@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9472317,
+  "complaint_id": "9472317",
+  "product": "Credit card",
+  "complaint_what_happened": "When purchasing a computer at the Best Buy XXXX XXXX store in XXXX XXXX, Kansas on XX/XX/year>, the sales agent told me that I could save {$45.00} if I signed up for a Best Buy credit card. It was not until after completing the purchase that I was provided with any information about the terms and agreements for the card. At that point, I realized that I was not saving {$45.00} but rather would receive {$45.00} in rewards that can only be redeemed at Best Buy. When these rewards finally posted to my account on XX/XX/XXXX, I saw that the points expire on XXXX XXXX, 2024. I have no immediate needs for additional technology purchases, and so in no sense have I \" saved '' {$45.00}. Rather, this is a scheme to force me to spend even more money at Best Buy. The sales agent did not disclose, and in fact misrepresented, the terms of the credit card agreement. On XX/XX/XXXX I called Citibank who is the card issuer because of problems with activating the card. The agent at Citibank acknowledged the fraudulent nature in which Best Buy had issued the card, and encouraged me to call the manager at the Best Buy store. I immediately did so. On the first attempt, XXXX hung up on me. On the second attempt, XXXX told me that rather than putting me through to a manager he would request a call back that I would receive in XXXX to XXXX hours. When 24 hrs later I was still waiting for a call I called ( XXXX ) XXXX again only to discover that I was NOT talking to someone at the store as I thought but that the calls had been routed to a call center. I spoke with XXXX who indicated that my case had been marked closed, and routed my call back to Citibank -- who I already had talked to yesterday thereby being thrown into a hopeless circle with Best Buy refusing to acknowledge or take responsibility for its fraudulent actions.",
+  "date_sent_to_company": "2024-07-10T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "63501",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-10T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "When purchasing a computer at the Best Buy XXXX XXXX store in XXXX XXXX, Kansas on XX/XX/year>, the sales agent told me that I could save {$45.00} if I signed up for a Best Buy credit card. It was not until after completing the purchase that I was provided with any information about the terms and agreements for the card. At that point, I realized that I was not saving {$45.00} but rather would receive {$45.00} in rewards that can only be redeemed at Best Buy. When these rewards finally posted to my account on XX/XX/XXXX, I saw that the points expire on XXXX XXXX, 2024. I have no immediate needs for additional technology purchases, and so in no sense have I \" saved '' {$45.00}. Rather, this is a scheme to force me to spend even more money at Best Buy. The sales agent did not disclose, and in fact misrepresented, the terms of the credit card agreement. On XX/XX/XXXX I called Citibank who is the card issuer because of problems with activating the card. The agent at Citibank acknowledged the fraudulent nature in which Best Buy had issued the card, and encouraged me to call the manager at the Best Buy store. I immediately did so. On the first attempt, XXXX hung up on me. On the second attempt, XXXX told me that rather than putting me through to a manager he would request a call back that I would receive in XXXX to XXXX hours. When 24 hrs later I was still waiting for a call I called ( XXXX ) XXXX again only to discover that I was NOT talking to someone at the store as I thought but that the calls had been routed to a call center. I spoke with XXXX who indicated that my case had been marked closed, and routed my call back to Citibank -- who I already had talked to yesterday thereby being thrown into a hopeless circle with Best Buy refusing to acknowledge or take responsibility for its fraudulent actions."
+}
+
+Chunk:
+when purchasing a computer at the best buy xxxx xxxx store in xxxx xxxx, kansas on xx / xx / year >, the sales agent told me that i could save { $ 45. 00 } if i signed up for a best buy credit card. it was not until after completing the purchase that i was provided with any information about the terms and agreements for the card. at that point, i realized that i was not saving { $ 45. 00 } but rather would receive { $ 45. 00 } in rewards that can only be redeemed at best buy. when these rewards finally posted to my account on xx / xx / xxxx, i saw that the points expire on xxxx xxxx, 2024. i have no immediate needs for additional technology purchases, and so in no sense have i " saved'' { $ 45. 00 }. rather, this is a scheme to force me to spend even more money at best buy. the sales agent did not disclose, and in fact misrepresented, the terms of the credit card agreement. on xx / xx / xxxx i called citibank who is the card issuer because of problems with activating the card. the agent at citibank acknowledged the fraudulent nature in which best buy had issued the card, and encouraged me to call the manager at the best buy store. i immediately did so. on the first attempt, xxxx hung up on me. on the second attempt, xxxx told me that rather than putting me through to a manager he would request a call back that i would receive in xxxx to xxxx hours. when 24 hrs later i was still waiting for a call i called ( xxxx ) xxxx again only to discover that i was not talking to someone at the store as i thought but that the calls had been routed to a call center. i spoke with xxxx who indicated that my case had been marked closed, and routed my call back to citibank - - who i already had talked to yesterday thereby being thrown into a hopeless circle with best buy refusing to acknowledge or take responsibility for its fraudulent actions.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994691014289856
+}

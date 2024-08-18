@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9117090,
+  "complaint_id": "9117090",
+  "product": "Credit card",
+  "complaint_what_happened": "My Father, XXXX XXXX XXXX passed away XX/XX/XXXX. XX/XX/XXXX or XXXX, XXXX, I visited PNC Bank at XXXX, XXXX, Illinois and met with XXXX XXXX XXXX ID XXXX to discuss need to close two credit card accounts, and possibly open a Trust asset account. XXXX XXXX was given original copies of all the legal documents-death certificate, filed copy of Will, and the Trust. She told me that all had to be reviewed by the legal department, and it would take a couple of weeks, then she would set an appointment with me to go over paperwork. The 2nd appointment was on XX/XX/XXXX. The paperwork all had to do with the opening of the Trust asset account. XXXX XXXX told me the credit cards would be closed, and expect my father 's online banking access to cease; suggested I set the cards to \" Locked '', so charges could not be made before it was closed. I never had any paperwork specific to the credit cards ( 2 accounts ), but I had asked what needed to be done, did everything I was told, but the accounts were NOT CLOSED and an automatic payment to my dad 's internet provider was continued to be paid by PNC, even though I tried to dispute the charges through his online access, for SIX MONTHS. PNC Credit as well as Fraud departments always told me they could not talk to me because I wasn't listed on the account, to which I'd reply, Legal or XXXXrobate Department has all the legal documents! Noone can give an answer as to why the legal documents are not available to the credit department. In XX/XX/XXXX, received a letter from PNC that they closed one credit card for lack of use. The week of XX/XX/XXXX, I drove 51 miles, each way to the nearest branch in XXXX and spoke to XXXX XXXX, who confirmed nothing had been done to close the account. I had to produce additional death certificates ( PNC had my stepmom 's since XXXX ) and once again request closure. In the months in between, Fraud Prevention would call me when someone was attempting purchases, I'd explain he's dead & account SHOULD be closed. I have spent HOURS trying to get this resolved, and they claim they are closing the account, but have NO PROOF of this. PNC Bank and Others should not be allowed to issue credit and sell their \" Services '' if they can not manage the services they offer.",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "226XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "PNC Bank N.A.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "My Father, XXXX XXXX XXXX passed away XX/XX/XXXX. XX/XX/XXXX or XXXX, XXXX, I visited PNC Bank at XXXX, XXXX, Illinois and met with XXXX XXXX XXXX ID XXXX to discuss need to close two credit card accounts, and possibly open a Trust asset account. XXXX XXXX was given original copies of all the legal documents-death certificate, filed copy of Will, and the Trust. She told me that all had to be reviewed by the legal department, and it would take a couple of weeks, then she would set an appointment with me to go over paperwork. The 2nd appointment was on XX/XX/XXXX. The paperwork all had to do with the opening of the Trust asset account. XXXX XXXX told me the credit cards would be closed, and expect my father 's online banking access to cease; suggested I set the cards to \" Locked '', so charges could not be made before it was closed. I never had any paperwork specific to the credit cards ( 2 accounts ), but I had asked what needed to be done, did everything I was told, but the accounts were NOT CLOSED and an automatic payment to my dad 's internet provider was continued to be paid by PNC, even though I tried to dispute the charges through his online access, for SIX MONTHS. PNC Credit as well as Fraud departments always told me they could not talk to me because I wasn't listed on the account, to which I'd reply, Legal or XXXXrobate Department has all the legal documents! Noone can give an answer as to why the legal documents are not available to the credit department. In XX/XX/XXXX, received a letter from PNC that they closed one credit card for lack of use. The week of XX/XX/XXXX, I drove 51 miles, each way to the nearest branch in XXXX and spoke to XXXX XXXX, who confirmed nothing had been done to close the account. I had to produce additional death certificates ( PNC had my stepmom 's since XXXX ) and once again request closure. In the months in between, Fraud Prevention would call me when someone was attempting purchases, I'd explain he's dead & account SHOULD be closed. I have spent HOURS trying to get this resolved, and they claim they are closing the account, but have NO PROOF of this. PNC Bank and Others should not be allowed to issue credit and sell their \" Services '' if they can not manage the services they offer."
+}
+
+Chunk:
+allowed to issue credit and sell their " services'' if they can not manage the services they offer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9703561663627625
+}

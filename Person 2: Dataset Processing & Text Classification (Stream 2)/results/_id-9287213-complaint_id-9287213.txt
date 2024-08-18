@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9287213,
+  "complaint_id": "9287213",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a Home Depot credit card that I never applied for. Separately on XX/XX/year>, I received an Account Statement from Home Depot with a balance in sum of {$8100.00}. I immediately called Home Depot and reported FRAUD. Home Depot representative gave me a CASE ID number XXXX. I also disputed the Credit Card account to XXXX.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "11040",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a Home Depot credit card that I never applied for. Separately on XX/XX/year>, I received an Account Statement from Home Depot with a balance in sum of {$8100.00}. I immediately called Home Depot and reported FRAUD. Home Depot representative gave me a CASE ID number XXXX. I also disputed the Credit Card account to XXXX."
+}
+
+Chunk:
+i received a home depot credit card that i never applied for. separately on xx / xx / year >, i received an account statement from home depot with a balance in sum of { $ 8100. 00 }. i immediately called home depot and reported fraud. home depot representative gave me a case id number xxxx. i also disputed the credit card account to xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9977293610572815
+}

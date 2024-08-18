@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9044518,
+  "complaint_id": "9044518",
+  "product": "Credit card",
+  "complaint_what_happened": "[ XXXX ] ( XXXX XXXX XXXX  ) XXXX - {$5300.00} I opened a dispute on my chase card ending in XXXX on XX/XX/XXXX. \n\nThe item ( s ) : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX were ordered XX/XX/XXXX XXXX \n\nIt was supposed to be delivered on XX/XX/XXXX. The item was not received by me and never signed for by me, but by a name I do not know. I have contacted the merchant and confirmed that the address it was shipped to matched, but nothing was received by me at the location at the time of delivery. \n\nI requested a new one reshipped to me, they refused after persisting for the next 2 months, even after filing a police report confirming that it was not received as a result of theft or misdelivery. \n\nI contacted my credit card company ( Chase ) to open a dispute on XX/XX/XXXX, I submitted the purchasing invoices, the tracking numbers associated with the order, proof of delivery, and a police report filed with the local authorities and was declined my chargeback on XX/XX/XXXX.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "92626",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "[ XXXX ] ( XXXX XXXX XXXX  ) XXXX - {$5300.00} I opened a dispute on my chase card ending in XXXX on XX/XX/XXXX. \n\nThe item ( s ) : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX were ordered XX/XX/XXXX XXXX \n\nIt was supposed to be delivered on XX/XX/XXXX. The item was not received by me and never signed for by me, but by a name I do not know. I have contacted the merchant and confirmed that the address it was shipped to matched, but nothing was received by me at the location at the time of delivery. \n\nI requested a new one reshipped to me, they refused after persisting for the next 2 months, even after filing a police report confirming that it was not received as a result of theft or misdelivery. \n\nI contacted my credit card company ( Chase ) to open a dispute on XX/XX/XXXX, I submitted the purchasing invoices, the tracking numbers associated with the order, proof of delivery, and a police report filed with the local authorities and was declined my chargeback on XX/XX/XXXX."
+}
+
+Chunk:
+[ xxxx ] ( xxxx xxxx xxxx ) xxxx - { $ 5300. 00 } i opened a dispute on my chase card ending in xxxx on xx / xx / xxxx. the item ( s ) : xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx were ordered xx / xx / xxxx xxxx it was supposed to be delivered on xx / xx / xxxx. the item was not received by me and never signed for by me, but by a name i do not know. i have contacted the merchant and confirmed that the address it was shipped to matched, but nothing was received by me at the location at the time of delivery. i requested a new one reshipped to me, they refused after persisting for the next 2 months, even after filing a police report confirming that it was not received as a result of theft or misdelivery. i contacted my credit card company ( chase ) to open a dispute on xx / xx / xxxx, i submitted the purchasing invoices, the tracking numbers associated with the order, proof of delivery, and a police report filed with the local authorities and was declined my chargeback on xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989455342292786
+}

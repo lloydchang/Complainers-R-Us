@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9127430,
+  "complaint_id": "9127430",
+  "product": "Credit card",
+  "complaint_what_happened": "To Whom It May Concern : I paid a XXXXXXXX $ XXXX in XX/XX/XXXX for a dream trip to XXXX and paid for a XXXX XXXX in the desert in XXXX . After the XXXX told me that she was doing me a favor '. \n\nThis XXXX  didnt do what she was paid to do. She did what she wanted and charged me for a full XXXX. The XXXX that was done wasnt what I paid for. I was initially willing to pay for half of the cost of the $ XXXX I paid for but the vendor didnt respond. Apple Card/Goldman Sach keeps automatically declining my request which is unfair and proves that no one is bothering to follow up. \n\nITS BEEN MONTHS AND I STILL DONT HAVE A RESOLUTION. GS KEEP CHARGING MY CARD FOR {$180.00} for me to pay. I KEEP REQUESTING THAT THE WHOLE AMOUNT BE CREDITED TO MY ACCOUNT. THE VENDOR DIDNT RESPOND TO MY CALLS, IT'S BEEN SIX MONTHS, AND THIS PROCESS TO COMPLAIN AND DISPUTE charges with Goldman Sachs TAKES MONTHS. \n\nCard-holders shouldnt have to wait 90 days at a time when all the information has been supplied to investigate an issue. I sent two photos each time to GS/Apple to indicate what I paid for versus the XXXX I received. \n\nFurther, the process to file a dispute takes WAY too long. \n\nHere are the following dispute numbers that were opened then closed without any communication. Additionally, it appears that Goldman Sachs purposefully does this to discourage the dispute, which ultimately ends up in the consumers hands to pay. \n\nI spoke with XXXX and then XXXX at GS on XX/XX/XXXX - Dispute was closed without anyone contacting me. \nContacted again on XX/XX/XXXX - Dispute was closed by XXXX then XXXXGS - it was for the reversal of {$180.00} - I ASKED FOR THE ENTIRE AMOUNT. No one contacted me. \nXXXX XXXX indicated that the issue was reopned when it shouldn't have been closed! \nXXXX - XXXXGS - sent him pics via text message. Issue was closed. \nCalled on Wednesday XX/XX/XXXX when I rec 'd a bill for {$180.00} but I asked for the entire amount to be refunded. To date, NO RESOLUTION has been made. No one texted me back. The consumer shouldn't have to text someone for a resoution. Its a guranteed no-win for the card holder.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "23227",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "VA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "To Whom It May Concern : I paid a XXXXXXXX $ XXXX in XX/XX/XXXX for a dream trip to XXXX and paid for a XXXX XXXX in the desert in XXXX . After the XXXX told me that she was doing me a favor '. \n\nThis XXXX  didnt do what she was paid to do. She did what she wanted and charged me for a full XXXX. The XXXX that was done wasnt what I paid for. I was initially willing to pay for half of the cost of the $ XXXX I paid for but the vendor didnt respond. Apple Card/Goldman Sach keeps automatically declining my request which is unfair and proves that no one is bothering to follow up. \n\nITS BEEN MONTHS AND I STILL DONT HAVE A RESOLUTION. GS KEEP CHARGING MY CARD FOR {$180.00} for me to pay. I KEEP REQUESTING THAT THE WHOLE AMOUNT BE CREDITED TO MY ACCOUNT. THE VENDOR DIDNT RESPOND TO MY CALLS, IT'S BEEN SIX MONTHS, AND THIS PROCESS TO COMPLAIN AND DISPUTE charges with Goldman Sachs TAKES MONTHS. \n\nCard-holders shouldnt have to wait 90 days at a time when all the information has been supplied to investigate an issue. I sent two photos each time to GS/Apple to indicate what I paid for versus the XXXX I received. \n\nFurther, the process to file a dispute takes WAY too long. \n\nHere are the following dispute numbers that were opened then closed without any communication. Additionally, it appears that Goldman Sachs purposefully does this to discourage the dispute, which ultimately ends up in the consumers hands to pay. \n\nI spoke with XXXX and then XXXX at GS on XX/XX/XXXX - Dispute was closed without anyone contacting me. \nContacted again on XX/XX/XXXX - Dispute was closed by XXXX then XXXXGS - it was for the reversal of {$180.00} - I ASKED FOR THE ENTIRE AMOUNT. No one contacted me. \nXXXX XXXX indicated that the issue was reopned when it shouldn't have been closed! \nXXXX - XXXXGS - sent him pics via text message. Issue was closed. \nCalled on Wednesday XX/XX/XXXX when I rec 'd a bill for {$180.00} but I asked for the entire amount to be refunded. To date, NO RESOLUTION has been made. No one texted me back. The consumer shouldn't have to text someone for a resoution. Its a guranteed no-win for the card holder."
+}
+
+Chunk:
+no - win for the card holder.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983515739440918
+}

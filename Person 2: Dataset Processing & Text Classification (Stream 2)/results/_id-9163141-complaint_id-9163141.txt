@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9163141,
+  "complaint_id": "9163141",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally lodge a complaint against Capital Ones Kohls Credit Card Services for what I believe to be deliberate obstructions and unauthorized actions taken on my account, which have impeded my ability to make payments since XX/XX/2024. \n\nHistorically, I received phone calls to remind me of upcoming payments. However, these calls ceased without explanation, and I was unable to access my online account as my login credentials were inexplicably non-functional. Efforts to reset these credentials were unsuccessful, and no alternative solutions were provided by Kohls. \n\nIn XX/XX/2024, upon realizing that I had not made my XXXX payment and was unable to make my XXXX payment, I reached out to Kohls customer service via web chat. During this interaction, I discovered an unauthorized phone restriction had been placed on my account, preventing me from making payments. This restriction was added without my consent, and I believe this action was taken to intentionally sabotage my ability to maintain my account standing. \n\nDespite multiple attempts to resolve these issues and regain access to my account, my communications have been met with inadequate responses and no substantive resolution has been provided. This has led to an accrue of penalties and fees, for which I am now being unfairly penalized.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "89032",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "I am writing to formally lodge a complaint against Capital Ones Kohls Credit Card Services for what I believe to be deliberate obstructions and unauthorized actions taken on my account, which have impeded my ability to make payments since XX/XX/2024. \n\nHistorically, I received phone calls to remind me of upcoming payments. However, these calls ceased without explanation, and I was unable to access my online account as my login credentials were inexplicably non-functional. Efforts to reset these credentials were unsuccessful, and no alternative solutions were provided by Kohls. \n\nIn XX/XX/2024, upon realizing that I had not made my XXXX payment and was unable to make my XXXX payment, I reached out to Kohls customer service via web chat. During this interaction, I discovered an unauthorized phone restriction had been placed on my account, preventing me from making payments. This restriction was added without my consent, and I believe this action was taken to intentionally sabotage my ability to maintain my account standing. \n\nDespite multiple attempts to resolve these issues and regain access to my account, my communications have been met with inadequate responses and no substantive resolution has been provided. This has led to an accrue of penalties and fees, for which I am now being unfairly penalized."
+}
+
+Chunk:
+i am writing to formally lodge a complaint against capital ones kohls credit card services for what i believe to be deliberate obstructions and unauthorized actions taken on my account, which have impeded my ability to make payments since xx / xx / 2024. historically, i received phone calls to remind me of upcoming payments. however, these calls ceased without explanation, and i was unable to access my online account as my login credentials were inexplicably non - functional. efforts to reset these credentials were unsuccessful, and no alternative solutions were provided by kohls. in xx / xx / 2024, upon realizing that i had not made my xxxx payment and was unable to make my xxxx payment, i reached out to kohls customer service via web chat. during this interaction, i discovered an unauthorized phone restriction had been placed on my account, preventing me from making payments. this restriction was added without my consent, and i believe this action was taken to intentionally sabotage my ability to maintain my account standing. despite multiple attempts to resolve these issues and regain access to my account, my communications have been met with inadequate responses and no substantive resolution has been provided. this has led to an accrue of penalties and fees, for which i am now being unfairly penalized.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997115731239319
+}

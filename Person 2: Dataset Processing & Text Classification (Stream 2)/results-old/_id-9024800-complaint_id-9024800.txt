@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9024800,
+  "complaint_id": "9024800",
+  "product": "Credit card",
+  "complaint_what_happened": "Primary credit card owner died XXXX. Discover sent a letter dated XXXX to the primary address stating we had 21 days to work with Discover before Discover sending the account to a collection agency for resolution. I called Discover on XXXX to find out the amount of the debt ( the final statement was still in the mail ) and make payment. Discover had already sent the account to the collection agency - sent for recovery before the 21 days expired. My name was also on the credit card account. I never used the card and forgot that my name was on it. I paid the debt with Deceased Case Management and fear that the delinquent debt will appear on my credit report and affect my credit score. No one at Discover could explain why the debt was sent for collection before expiration of the 21 days or why we did not have the opportunity to pay the debt after the last statement was delivered to the deceased address..",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "70072",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "Primary credit card owner died XXXX. Discover sent a letter dated XXXX to the primary address stating we had 21 days to work with Discover before Discover sending the account to a collection agency for resolution. I called Discover on XXXX to find out the amount of the debt ( the final statement was still in the mail ) and make payment. Discover had already sent the account to the collection agency - sent for recovery before the 21 days expired. My name was also on the credit card account. I never used the card and forgot that my name was on it. I paid the debt with Deceased Case Management and fear that the delinquent debt will appear on my credit report and affect my credit score. No one at Discover could explain why the debt was sent for collection before expiration of the 21 days or why we did not have the opportunity to pay the debt after the last statement was delivered to the deceased address.."
+}
+
+Chunk:
+primary credit card owner died xxxx. discover sent a letter dated xxxx to the primary address stating we had 21 days to work with discover before discover sending the account to a collection agency for resolution. i called discover on xxxx to find out the amount of the debt ( the final statement was still in the mail ) and make payment. discover had already sent the account to the collection agency - sent for recovery before the 21 days expired. my name was also on the credit card account. i never used the card and forgot that my name was on it. i paid the debt with deceased case management and fear that the delinquent debt will appear on my credit report and affect my credit score. no one at discover could explain why the debt was sent for collection before expiration of the 21 days or why we did not have the opportunity to pay the debt after the last statement was delivered to the deceased address..
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9983022212982178
+}

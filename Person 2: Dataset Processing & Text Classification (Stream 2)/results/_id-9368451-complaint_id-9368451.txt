@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9368451,
+  "complaint_id": "9368451",
+  "product": "Credit card",
+  "complaint_what_happened": "I was XXXX XXXX XXXX XXXX XXXX My husband took care of our finances. He got a cc from Citi Bank and they gave him a XXXX credit limit. There was a second card in my name. I earned the money that paid for the cc. He now has XXXX and I opened another Citi card in my name only and cancelled his card. They gave me a credit limit of XXXX. I asked for the same credit limit my husband had and they declined. We are the same family and the same income. The only difference is that this cc is in my name. I know that this is sexist. I want the same credit limit that we had for years.",
+  "date_sent_to_company": "2024-06-23T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I was XXXX XXXX XXXX XXXX XXXX My husband took care of our finances. He got a cc from Citi Bank and they gave him a XXXX credit limit. There was a second card in my name. I earned the money that paid for the cc. He now has XXXX and I opened another Citi card in my name only and cancelled his card. They gave me a credit limit of XXXX. I asked for the same credit limit my husband had and they declined. We are the same family and the same income. The only difference is that this cc is in my name. I know that this is sexist. I want the same credit limit that we had for years."
+}
+
+Chunk:
+i was xxxx xxxx xxxx xxxx xxxx my husband took care of our finances. he got a cc from citi bank and they gave him a xxxx credit limit. there was a second card in my name. i earned the money that paid for the cc. he now has xxxx and i opened another citi card in my name only and cancelled his card. they gave me a credit limit of xxxx. i asked for the same credit limit my husband had and they declined. we are the same family and the same income. the only difference is that this cc is in my name. i know that this is sexist. i want the same credit limit that we had for years.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992740750312805
+}

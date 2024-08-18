@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045119,
+  "complaint_id": "9045119",
+  "product": "Credit card",
+  "complaint_what_happened": "The company Macys is directly violating my consumer protection rights as they have not proved the requested balances and fraudulent transactions were authorized/made by me. Company has limited access to U.S. Representatives- many which are untrained and unable to provide assistance in legal matters or those that breach consumer rights. Macys is refusing to investigate further account activity, then later closed the account without authorization to access the credit file which they stated is the reason of account closing. Macys used deceptive, unethical business tactics in several occurrences not limited to, reducing credit limits significantly despite on time payment history ( resulting in continuous high utilization ), inflation of fees accessed, failure to provide consumer friendly platform ( online servicing/out-sourced representatives ), negligence to notify consumer of account details, and withholding information. Despite the response to previous compliant, senior executive at Macys did not respond to calls or emails left to further investigate/ discuss issues and how consumer rights were violated.",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "46235",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "The company Macys is directly violating my consumer protection rights as they have not proved the requested balances and fraudulent transactions were authorized/made by me. Company has limited access to U.S. Representatives- many which are untrained and unable to provide assistance in legal matters or those that breach consumer rights. Macys is refusing to investigate further account activity, then later closed the account without authorization to access the credit file which they stated is the reason of account closing. Macys used deceptive, unethical business tactics in several occurrences not limited to, reducing credit limits significantly despite on time payment history ( resulting in continuous high utilization ), inflation of fees accessed, failure to provide consumer friendly platform ( online servicing/out-sourced representatives ), negligence to notify consumer of account details, and withholding information. Despite the response to previous compliant, senior executive at Macys did not respond to calls or emails left to further investigate/ discuss issues and how consumer rights were violated."
+}
+
+Chunk:
+the company macys is directly violating my consumer protection rights as they have not proved the requested balances and fraudulent transactions were authorized / made by me. company has limited access to u. s. representatives - many which are untrained and unable to provide assistance in legal matters or those that breach consumer rights. macys is refusing to investigate further account activity, then later closed the account without authorization to access the credit file which they stated is the reason of account closing. macys used deceptive, unethical business tactics in several occurrences not limited to, reducing credit limits significantly despite on time payment history ( resulting in continuous high utilization ), inflation of fees accessed, failure to provide consumer friendly platform ( online servicing / out - sourced representatives ), negligence to notify consumer of account details, and withholding information. despite the response to previous compliant, senior executive at macys did not respond to calls or emails left to further investigate / discuss issues and how consumer rights were violated.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995307922363281
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9021949,
+  "complaint_id": "9021949",
+  "product": "Credit card",
+  "complaint_what_happened": "This issue involves PayPal Cashback MasterCard. \n\nOn XX/XX/2024 I had a balance of {$11000.00}. \nI paid the minimum balance of {$360.00} on the due date XX/XX/2024. \nOn XXXX XXXX I paid the remaining amount of {$11000.00} and the balance on the account went to {$0.00}. \nOn XX/XX/XXXX I was charged an interest charge of {$190.00}. \nI called the paypal customer service number the same day and asked why I was being charged interest on a balance of {$0.00}. The representative explained that if I pay the minimum balance and carry a balance past the due date I would be charged interest of the remaining balance 7 days later which would be for {$190.00} on the XXXX of XXXX. \nOn XX/XX/2024 I paid the remaining balance of {$190.00}, XXXX weeks before the due date to avoid any other \" interest charges ''. \nFrom XX/XX/XXXX to XX/XX/XXXX, I had no balance due, but today, XX/XX/2024, I noticed an interest charge of {$2.00} on the account. I called PayPal customer service again and the first person I spoke with was rude and hung up on me when I tried to explain the situation. I called back and spoke with a different person and she was just as rude but a little more helpful. First she tried to explain to me that I made a late payment which wasn't true, and I explained what was on the statement and how I was not charged a late fee, because the payment was made on time and I didn't have a balance on the due date because I paid the account off two weeks before the due date. Eventually she told me they would waive the the XXXXXXXX XXXX off of the account and I 'should n't ' see another interest charge on the account again. I'm reluctant to believe this considering it's the third time I've heard that from their customer service.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "80132",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "CO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "This issue involves PayPal Cashback MasterCard. \n\nOn XX/XX/2024 I had a balance of {$11000.00}. \nI paid the minimum balance of {$360.00} on the due date XX/XX/2024. \nOn XXXX XXXX I paid the remaining amount of {$11000.00} and the balance on the account went to {$0.00}. \nOn XX/XX/XXXX I was charged an interest charge of {$190.00}. \nI called the paypal customer service number the same day and asked why I was being charged interest on a balance of {$0.00}. The representative explained that if I pay the minimum balance and carry a balance past the due date I would be charged interest of the remaining balance 7 days later which would be for {$190.00} on the XXXX of XXXX. \nOn XX/XX/2024 I paid the remaining balance of {$190.00}, XXXX weeks before the due date to avoid any other \" interest charges ''. \nFrom XX/XX/XXXX to XX/XX/XXXX, I had no balance due, but today, XX/XX/2024, I noticed an interest charge of {$2.00} on the account. I called PayPal customer service again and the first person I spoke with was rude and hung up on me when I tried to explain the situation. I called back and spoke with a different person and she was just as rude but a little more helpful. First she tried to explain to me that I made a late payment which wasn't true, and I explained what was on the statement and how I was not charged a late fee, because the payment was made on time and I didn't have a balance on the due date because I paid the account off two weeks before the due date. Eventually she told me they would waive the the XXXXXXXX XXXX off of the account and I 'should n't ' see another interest charge on the account again. I'm reluctant to believe this considering it's the third time I've heard that from their customer service."
+}
+
+Chunk:
+this issue involves paypal cashback mastercard. on xx / xx / 2024 i had a balance of { $ 11000. 00 }. i paid the minimum balance of { $ 360. 00 } on the due date xx / xx / 2024. on xxxx xxxx i paid the remaining amount of { $ 11000. 00 } and the balance on the account went to { $ 0. 00 }. on xx / xx / xxxx i was charged an interest charge of { $ 190. 00 }. i called the paypal customer service number the same day and asked why i was being charged interest on a balance of { $ 0. 00 }. the representative explained that if i pay the minimum balance and carry a balance past the due date i would be charged interest of the remaining balance 7 days later which would be for { $ 190. 00 } on the xxxx of xxxx. on xx / xx / 2024 i paid the remaining balance of { $ 190. 00 }, xxxx weeks before the due date to avoid any other " interest charges''. from xx / xx / xxxx to xx / xx / xxxx, i had no balance due, but today, xx / xx / 2024, i noticed an interest charge of { $ 2. 00 } on the account. i called paypal customer service again and the first person i spoke with was rude and hung up on me when i tried to explain the situation. i called back and spoke with a different person and she was just as rude but a little more helpful. first she tried to explain to me that i made a late payment which wasn't true, and i explained what was on the statement and how i was not charged a late fee, because the payment was made on time and i didn't have a balance on the due date because i paid the account off two weeks before the due date. eventually she told me they would waive the the xxxxxxxx xxxx off of the account and i'shouldn't'see another interest charge on the account again. i'm reluctant to believe this considering it's the third time i've heard that from their customer service.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986512064933777
+}

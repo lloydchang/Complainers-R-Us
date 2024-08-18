@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9005782,
+  "complaint_id": "9005782",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a XXXX credit card, through Synchrony Bank. Rather than getting electronic statements, I prefer to get paper statement for this account. They are charging me a fee of {$1.00} for month to do this. I have always thought that I am entitled to get a paper statement. I would like the {$1.00} and any interest I might have been charged as a result of the fee refunded to me.",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "275XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have a XXXX credit card, through Synchrony Bank. Rather than getting electronic statements, I prefer to get paper statement for this account. They are charging me a fee of {$1.00} for month to do this. I have always thought that I am entitled to get a paper statement. I would like the {$1.00} and any interest I might have been charged as a result of the fee refunded to me."
+}
+
+Chunk:
+i have a xxxx credit card, through synchrony bank. rather than getting electronic statements, i prefer to get paper statement for this account. they are charging me a fee of { $ 1. 00 } for month to do this. i have always thought that i am entitled to get a paper statement. i would like the { $ 1. 00 } and any interest i might have been charged as a result of the fee refunded to me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9929197430610657
+}

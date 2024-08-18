@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9287877,
+  "complaint_id": "9287877",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing about my XXXX XXXX XXXXXXXX XXXX  ( MySynchrony.com ). I am not sure this is something you can help with but I thought I would check. \nWe have used the card for years with no problems and make our payments in full every month. We have recently received notice been that in order to continue using the card, we would be required to pay a monthly fee of {$1.00} to continue getting paper billing statements and the ability to make payments using personal checks. If we choose not to do this, we are being given an option of giving them our bank account number and either set up automatic payments or be allowed to make manual transfers from our bank to pay the bill each month. \nWhat I would like to know is this legitimate? Can they really do this? I dont feel comfortable giving my bank account to any entity unless it is a critical necessity ( mortgage, etc. ). Please advise. Thank you.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "Store credit card",
+  "zip_code": "95124",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I am writing about my XXXX XXXX XXXXXXXX XXXX  ( MySynchrony.com ). I am not sure this is something you can help with but I thought I would check. \nWe have used the card for years with no problems and make our payments in full every month. We have recently received notice been that in order to continue using the card, we would be required to pay a monthly fee of {$1.00} to continue getting paper billing statements and the ability to make payments using personal checks. If we choose not to do this, we are being given an option of giving them our bank account number and either set up automatic payments or be allowed to make manual transfers from our bank to pay the bill each month. \nWhat I would like to know is this legitimate? Can they really do this? I dont feel comfortable giving my bank account to any entity unless it is a critical necessity ( mortgage, etc. ). Please advise. Thank you."
+}
+
+Chunk:
+i am writing about my xxxx xxxx xxxxxxxx xxxx ( mysynchrony. com ). i am not sure this is something you can help with but i thought i would check. we have used the card for years with no problems and make our payments in full every month. we have recently received notice been that in order to continue using the card, we would be required to pay a monthly fee of { $ 1. 00 } to continue getting paper billing statements and the ability to make payments using personal checks. if we choose not to do this, we are being given an option of giving them our bank account number and either set up automatic payments or be allowed to make manual transfers from our bank to pay the bill each month. what i would like to know is this legitimate? can they really do this? i dont feel comfortable giving my bank account to any entity unless it is a critical necessity ( mortgage, etc. ). please advise. thank you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.6018992066383362
+}

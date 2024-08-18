@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9027223,
+  "complaint_id": "9027223",
+  "product": "Credit card",
+  "complaint_what_happened": "USAA appears to be in another world on this account. It charges a {$45.00} late fee, does not process payments, and has reported the account as delinquent XXXX times over the last XXXX  months. Out and out fraud",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "188XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem during payment process",
+  "text": "USAA appears to be in another world on this account. It charges a {$45.00} late fee, does not process payments, and has reported the account as delinquent XXXX times over the last XXXX  months. Out and out fraud"
+}
+
+Chunk:
+usaa appears to be in another world on this account. it charges a { $ 45. 00 } late fee, does not process payments, and has reported the account as delinquent xxxx times over the last xxxx months. out and out fraud
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995259046554565
+}

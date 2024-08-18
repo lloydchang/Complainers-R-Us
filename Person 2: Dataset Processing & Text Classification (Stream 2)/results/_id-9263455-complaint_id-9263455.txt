@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9263455,
+  "complaint_id": "9263455",
+  "product": "Credit card",
+  "complaint_what_happened": "Tried to make purchase XX/XX/23 electronically from what turned out to be a spoofed website of a fishing tackle retailer ( I got this information of the actual business the \" scammer '' purported to be. ) Who confirmed there was a fake website created to imitate them. \nI got a XXXX reciept in XXXX writing. I notified my bank USAA immediately that I tried to make a purchase and got a very strange reciept. They classified it as fraud dispute somehow, I never once said I did not try to make the transaction in question myself. I have been trying to get refunded on basis of never receiving a product for nearly 7 months, and they refuse to process as no product received dispute. I sent emails to \" vendor email '' never getting a response, and have made 15+ calls to USAA trying to resolve this dispute and get my money for a product I never received. They have not provided me any clear direction as to what, I need to resolve this issue. I sent them all information via their online document submittal portal for bank disputes. Last conversation I had ( after 5 or 6 previous ) with their member problem resolution team stated, I would recieve further feed back I have not received anything since then. I somehow got refunded for a very similar transaction attempted tge day before the one on question on XX/XX/23.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30024",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes complaint represents an opportunity for improvement to better serve consumers",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "Tried to make purchase XX/XX/23 electronically from what turned out to be a spoofed website of a fishing tackle retailer ( I got this information of the actual business the \" scammer '' purported to be. ) Who confirmed there was a fake website created to imitate them. \nI got a XXXX reciept in XXXX writing. I notified my bank USAA immediately that I tried to make a purchase and got a very strange reciept. They classified it as fraud dispute somehow, I never once said I did not try to make the transaction in question myself. I have been trying to get refunded on basis of never receiving a product for nearly 7 months, and they refuse to process as no product received dispute. I sent emails to \" vendor email '' never getting a response, and have made 15+ calls to USAA trying to resolve this dispute and get my money for a product I never received. They have not provided me any clear direction as to what, I need to resolve this issue. I sent them all information via their online document submittal portal for bank disputes. Last conversation I had ( after 5 or 6 previous ) with their member problem resolution team stated, I would recieve further feed back I have not received anything since then. I somehow got refunded for a very similar transaction attempted tge day before the one on question on XX/XX/23."
+}
+
+Chunk:
+tried to make purchase xx / xx / 23 electronically from what turned out to be a spoofed website of a fishing tackle retailer ( i got this information of the actual business the " scammer'' purported to be. ) who confirmed there was a fake website created to imitate them. i got a xxxx reciept in xxxx writing. i notified my bank usaa immediately that i tried to make a purchase and got a very strange reciept. they classified it as fraud dispute somehow, i never once said i did not try to make the transaction in question myself. i have been trying to get refunded on basis of never receiving a product for nearly 7 months, and they refuse to process as no product received dispute. i sent emails to " vendor email'' never getting a response, and have made 15 + calls to usaa trying to resolve this dispute and get my money for a product i never received. they have not provided me any clear direction as to what, i need to resolve this issue. i sent them all information via their online document submittal portal for bank disputes. last conversation i had ( after 5 or 6 previous ) with their member problem resolution team stated, i would recieve further feed back i have not received anything since then. i somehow got refunded for a very similar transaction attempted tge day before the one on question on xx / xx / 23.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990295171737671
+}

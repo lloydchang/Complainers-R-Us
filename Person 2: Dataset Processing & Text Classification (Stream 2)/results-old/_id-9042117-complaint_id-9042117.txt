@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042117,
+  "complaint_id": "9042117",
+  "product": "Credit card",
+  "complaint_what_happened": "Have had this card for about XXXX years now - no issues. XXXX credit limit, paid regularly. Always on time. My credit score took a dip recently but I just did a ton of work to get the funds to pay across debtors including especially my Apple Card since I like to use this one often and clear the balance. I paid nearly XXXX first week of XXXX and another XXXX on XX/XX/XXXX clearing my balance completely. I received an email on XX/XX/XXXX stating my funds were still be held AND that now I will have only a XXXX credit limit without warning. By law this requires 45 day notice - I would have been more strategic paying other things had u known and wouldnt assume Id have that as back up in case. No help when I call just keep telling me its because my credit decreased which i understand however I have a solid history with Apple and pay all my bills. This was suppose to help my credit and now has made it even worse and harder. Im just told to reapply for new limit which is ridiculous. As a consumer I had no time to prepare for this and in turn had caused additional hardship to my credit standing despite great efforts to clean it up. Please help - it cant be legal to hold money over a week then notify same day that you now cant access XXXX XXXX of it. XXXX and Goldman Sachs idk who is liable but I know that they both play a part in the shadiness of this situation",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "28012",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't use card to make purchases",
+  "text": "Have had this card for about XXXX years now - no issues. XXXX credit limit, paid regularly. Always on time. My credit score took a dip recently but I just did a ton of work to get the funds to pay across debtors including especially my Apple Card since I like to use this one often and clear the balance. I paid nearly XXXX first week of XXXX and another XXXX on XX/XX/XXXX clearing my balance completely. I received an email on XX/XX/XXXX stating my funds were still be held AND that now I will have only a XXXX credit limit without warning. By law this requires 45 day notice - I would have been more strategic paying other things had u known and wouldnt assume Id have that as back up in case. No help when I call just keep telling me its because my credit decreased which i understand however I have a solid history with Apple and pay all my bills. This was suppose to help my credit and now has made it even worse and harder. Im just told to reapply for new limit which is ridiculous. As a consumer I had no time to prepare for this and in turn had caused additional hardship to my credit standing despite great efforts to clean it up. Please help - it cant be legal to hold money over a week then notify same day that you now cant access XXXX XXXX of it. XXXX and Goldman Sachs idk who is liable but I know that they both play a part in the shadiness of this situation"
+}
+
+Chunk:
+have had this card for about xxxx years now - no issues. xxxx credit limit, paid regularly. always on time. my credit score took a dip recently but i just did a ton of work to get the funds to pay across debtors including especially my apple card since i like to use this one often and clear the balance. i paid nearly xxxx first week of xxxx and another xxxx on xx / xx / xxxx clearing my balance completely. i received an email on xx / xx / xxxx stating my funds were still be held and that now i will have only a xxxx credit limit without warning. by law this requires 45 day notice - i would have been more strategic paying other things had u known and wouldnt assume id have that as back up in case. no help when i call just keep telling me its because my credit decreased which i understand however i have a solid history with apple and pay all my bills. this was suppose to help my credit and now has made it even worse and harder. im just told to reapply for new limit which is ridiculous. as a consumer i had no time to prepare for this and in turn had caused additional hardship to my credit standing despite great efforts to clean it up. please help - it cant be legal to hold money over a week then notify same day that you now cant access xxxx xxxx of it. xxxx and goldman sachs idk who is liable but i know that they both play a part in the shadiness of this situation
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982905983924866
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9018916,
+  "complaint_id": "9018916",
+  "product": "Credit card",
+  "complaint_what_happened": "On this account, I've always made sure to pay on time, ensuring that payments are never overdue. However, I'm unsure why there are reports of late payment remarks on my accounts. According to 15 USC 1666b - Billing Error, corrections should be made.",
+  "date_sent_to_company": "2024-05-15T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33179",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "TRANSUNION INTERMEDIATE HOLDINGS, INC.",
+  "date_received": "2024-05-15T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Was not notified of investigation status or results",
+  "text": "On this account, I've always made sure to pay on time, ensuring that payments are never overdue. However, I'm unsure why there are reports of late payment remarks on my accounts. According to 15 USC 1666b - Billing Error, corrections should be made."
+}
+
+Chunk:
+on this account, i've always made sure to pay on time, ensuring that payments are never overdue. however, i'm unsure why there are reports of late payment remarks on my accounts. according to 15 usc 1666b - billing error, corrections should be made.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9937025308609009
+}

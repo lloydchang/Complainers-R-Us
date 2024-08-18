@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9261473,
+  "complaint_id": "9261473",
+  "product": "Credit card",
+  "complaint_what_happened": "I placed an order for 2 watches on XX/XX/XXXX. The company ( XXXX XXXX ) was unable to fulfill the order. I requested cancellation in writing. They acknowledged the cancelled order. They also agreed to the credit. The charged amount was {$32000.00}. I never received the credit so i issued a dispute with Goldman Sachs Mastercard. The charge still remains after 4 attempts to dispute and no one from Goldman Sachs ever reaches out or resolves the issue. The company has never sent over any proof that i received the watches ( which I did not ). I have submitted proof to Goldman Sachs in XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX and again in XX/XX/XXXX that this order was cancelled but the still ignore the dispute and keep charging me.",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "06877",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I placed an order for 2 watches on XX/XX/XXXX. The company ( XXXX XXXX ) was unable to fulfill the order. I requested cancellation in writing. They acknowledged the cancelled order. They also agreed to the credit. The charged amount was {$32000.00}. I never received the credit so i issued a dispute with Goldman Sachs Mastercard. The charge still remains after 4 attempts to dispute and no one from Goldman Sachs ever reaches out or resolves the issue. The company has never sent over any proof that i received the watches ( which I did not ). I have submitted proof to Goldman Sachs in XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX and again in XX/XX/XXXX that this order was cancelled but the still ignore the dispute and keep charging me."
+}
+
+Chunk:
+i placed an order for 2 watches on xx / xx / xxxx. the company ( xxxx xxxx ) was unable to fulfill the order. i requested cancellation in writing. they acknowledged the cancelled order. they also agreed to the credit. the charged amount was { $ 32000. 00 }. i never received the credit so i issued a dispute with goldman sachs mastercard. the charge still remains after 4 attempts to dispute and no one from goldman sachs ever reaches out or resolves the issue. the company has never sent over any proof that i received the watches ( which i did not ). i have submitted proof to goldman sachs in xx / xx / xxxx, xx / xx / xxxx, xx / xx / xxxx and again in xx / xx / xxxx that this order was cancelled but the still ignore the dispute and keep charging me.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982744455337524
+}

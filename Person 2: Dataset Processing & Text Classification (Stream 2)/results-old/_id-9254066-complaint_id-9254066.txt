@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9254066,
+  "complaint_id": "9254066",
+  "product": "Credit card",
+  "complaint_what_happened": "My recently active American Express credit card # : XXXX My name : XXXX XXXX The offer is : will get XXXX miles if I spend at least {$3000.00} within 3 months. \nI did it within 3 months and spent $ XXXX. But AX declined the offer and didn't explain any reason -- -no any written notice, no any call. \nThis is an absolutely scam. I need AX send me a letter to explain it.",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "217XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-13T12:00:00-05:00",
+  "state": "MD",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "My recently active American Express credit card # : XXXX My name : XXXX XXXX The offer is : will get XXXX miles if I spend at least {$3000.00} within 3 months. \nI did it within 3 months and spent $ XXXX. But AX declined the offer and didn't explain any reason -- -no any written notice, no any call. \nThis is an absolutely scam. I need AX send me a letter to explain it."
+}
+
+Chunk:
+my recently active american express credit card # : xxxx my name : xxxx xxxx the offer is : will get xxxx miles if i spend at least { $ 3000. 00 } within 3 months. i did it within 3 months and spent $ xxxx. but ax declined the offer and didn't explain any reason - - - no any written notice, no any call. this is an absolutely scam. i need ax send me a letter to explain it.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996023774147034
+}

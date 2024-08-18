@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9137708,
+  "complaint_id": "9137708",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I made a charge of {$1000.00} dollars on deferred interest payments until XX/XX/XXXX. On XX/XX/XXXX I charged {$1400.00} to the credit card. Also another charge on XX/XX/XXXX for {$770.00} dollars.It was deferred interest until XX/XX/XXXX. On XX/XX/XXXX, I made a payment of {$4900.00} dollars and specifically requested that the amounts on deferred payments be paid first ( XXXX dollars total ) from that amount. However, I realized that on XX/XX/XXXX a deferred interest on the amount of {$770.00} was charged deferred interest for {$420.00} dollars I called them and was given credit. However, on XX/XX/XXXX I was charged with deferred interest on the other XXXX amounts, a total deferred interest of {$1300.00} dollars. I REPEAT ALL THOSE AMOUNTS ON DEFERRED INTEREST PAYMENT WERE PAID ON XX/XX/XXXX. THE CREDIT CARD REFUSED TO CREDIT THE DEFERRED INTEREST PAYMENTS.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10977",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "On XX/XX/XXXX I made a charge of {$1000.00} dollars on deferred interest payments until XX/XX/XXXX. On XX/XX/XXXX I charged {$1400.00} to the credit card. Also another charge on XX/XX/XXXX for {$770.00} dollars.It was deferred interest until XX/XX/XXXX. On XX/XX/XXXX, I made a payment of {$4900.00} dollars and specifically requested that the amounts on deferred payments be paid first ( XXXX dollars total ) from that amount. However, I realized that on XX/XX/XXXX a deferred interest on the amount of {$770.00} was charged deferred interest for {$420.00} dollars I called them and was given credit. However, on XX/XX/XXXX I was charged with deferred interest on the other XXXX amounts, a total deferred interest of {$1300.00} dollars. I REPEAT ALL THOSE AMOUNTS ON DEFERRED INTEREST PAYMENT WERE PAID ON XX/XX/XXXX. THE CREDIT CARD REFUSED TO CREDIT THE DEFERRED INTEREST PAYMENTS."
+}
+
+Chunk:
+on xx / xx / xxxx i made a charge of { $ 1000. 00 } dollars on deferred interest payments until xx / xx / xxxx. on xx / xx / xxxx i charged { $ 1400. 00 } to the credit card. also another charge on xx / xx / xxxx for { $ 770. 00 } dollars. it was deferred interest until xx / xx / xxxx. on xx / xx / xxxx, i made a payment of { $ 4900. 00 } dollars and specifically requested that the amounts on deferred payments be paid first ( xxxx dollars total ) from that amount. however, i realized that on xx / xx / xxxx a deferred interest on the amount of { $ 770. 00 } was charged deferred interest for { $ 420. 00 } dollars i called them and was given credit. however, on xx / xx / xxxx i was charged with deferred interest on the other xxxx amounts, a total deferred interest of { $ 1300. 00 } dollars. i repeat all those amounts on deferred interest payment were paid on xx / xx / xxxx. the credit card refused to credit the deferred interest payments.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9969637989997864
+}

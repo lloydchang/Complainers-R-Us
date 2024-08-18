@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340668,
+  "complaint_id": "9340668",
+  "product": "Credit card",
+  "complaint_what_happened": "This company continues to check my credit every two to three months and lowers my credit limit. This has been happening for over a year now. I have filed multiple complaints with this agency and the company Citi Cards will draft a weak response and nothing happens. I am being targeted and discriminated against. This poorly impacts my credit when they check my report and lower my available credit. As I have stated before nothing has changed on my credit report. I am never late, I have no missed payments. I filed a fraud charge over a year ago and they immediately checked my credit and started lower my limit. I am going to file a suit at this point, and I am sure I am not the only person who they are doing this to. They also have started doing it with my Home Depot credit card. I will file a separate complaint against that being lowered recently. Other companies are increasing my limits and this one is constantly decreasing them. There should be some accountability from the government for this abuse. I am writing the companies that they represent and the Vice President. In an election year, we should get some rules changes I am sure.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "This company continues to check my credit every two to three months and lowers my credit limit. This has been happening for over a year now. I have filed multiple complaints with this agency and the company Citi Cards will draft a weak response and nothing happens. I am being targeted and discriminated against. This poorly impacts my credit when they check my report and lower my available credit. As I have stated before nothing has changed on my credit report. I am never late, I have no missed payments. I filed a fraud charge over a year ago and they immediately checked my credit and started lower my limit. I am going to file a suit at this point, and I am sure I am not the only person who they are doing this to. They also have started doing it with my Home Depot credit card. I will file a separate complaint against that being lowered recently. Other companies are increasing my limits and this one is constantly decreasing them. There should be some accountability from the government for this abuse. I am writing the companies that they represent and the Vice President. In an election year, we should get some rules changes I am sure."
+}
+
+Chunk:
+this company continues to check my credit every two to three months and lowers my credit limit. this has been happening for over a year now. i have filed multiple complaints with this agency and the company citi cards will draft a weak response and nothing happens. i am being targeted and discriminated against. this poorly impacts my credit when they check my report and lower my available credit. as i have stated before nothing has changed on my credit report. i am never late, i have no missed payments. i filed a fraud charge over a year ago and they immediately checked my credit and started lower my limit. i am going to file a suit at this point, and i am sure i am not the only person who they are doing this to. they also have started doing it with my home depot credit card. i will file a separate complaint against that being lowered recently. other companies are increasing my limits and this one is constantly decreasing them. there should be some accountability from the government for this abuse. i am writing the companies that they represent and the vice president. in an election year, we should get some rules changes i am sure.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992774128913879
+}

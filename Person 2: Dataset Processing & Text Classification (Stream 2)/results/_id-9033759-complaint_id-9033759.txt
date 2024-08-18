@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9033759,
+  "complaint_id": "9033759",
+  "product": "Credit card",
+  "complaint_what_happened": "$ XXXX was never the amount owed. Our bank handled this dispute over XXXX years ago but its reported on the charge off date rather than the dispute date. It should have fallen off credit report and still affects our credit score. Never used this card and have travelled for over XXXX times with XXXX XXXX XXXX. Please remove from Credit report.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Credit monitoring or identity theft protection services",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "35242",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "AL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Billing dispute for services",
+  "text": "$ XXXX was never the amount owed. Our bank handled this dispute over XXXX years ago but its reported on the charge off date rather than the dispute date. It should have fallen off credit report and still affects our credit score. Never used this card and have travelled for over XXXX times with XXXX XXXX XXXX. Please remove from Credit report."
+}
+
+Chunk:
+$ xxxx was never the amount owed. our bank handled this dispute over xxxx years ago but its reported on the charge off date rather than the dispute date. it should have fallen off credit report and still affects our credit score. never used this card and have travelled for over xxxx times with xxxx xxxx xxxx. please remove from credit report.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998822033405304
+}

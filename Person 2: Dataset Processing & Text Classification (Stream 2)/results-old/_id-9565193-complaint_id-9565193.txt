@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9565193,
+  "complaint_id": "9565193",
+  "product": "Credit card",
+  "complaint_what_happened": "My husband used bill pay to pay our bills. He meant to click on a XXXX  card payment but clicked on CITIBANK instead. He paid {$1000.00} to an OLD CITIBANK account with last four digits are XXXX, instead of paying XXXX bank. We went to our bank they tried to help but CITIBANK says they need last 5 digits on card. We dont even have the card anymore all we have are old bills from XXXX which has last 4 digits. When we call CITIBANK they say they dont see an account with last 4 digits XXXX which was connected to that bill pay. The payment was CASHED BY CITIBANK ON XX/XX/XXXX. So they CASHED it NOT having any record of this older account. We do have bank copy of it being cashed and CITIBANK just keeps giving us the run around! Its over {$1000.00} and no one will help us!",
+  "date_sent_to_company": "2024-07-19T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "064XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-19T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "My husband used bill pay to pay our bills. He meant to click on a XXXX  card payment but clicked on CITIBANK instead. He paid {$1000.00} to an OLD CITIBANK account with last four digits are XXXX, instead of paying XXXX bank. We went to our bank they tried to help but CITIBANK says they need last 5 digits on card. We dont even have the card anymore all we have are old bills from XXXX which has last 4 digits. When we call CITIBANK they say they dont see an account with last 4 digits XXXX which was connected to that bill pay. The payment was CASHED BY CITIBANK ON XX/XX/XXXX. So they CASHED it NOT having any record of this older account. We do have bank copy of it being cashed and CITIBANK just keeps giving us the run around! Its over {$1000.00} and no one will help us!"
+}
+
+Chunk:
+my husband used bill pay to pay our bills. he meant to click on a xxxx card payment but clicked on citibank instead. he paid { $ 1000. 00 } to an old citibank account with last four digits are xxxx, instead of paying xxxx bank. we went to our bank they tried to help but citibank says they need last 5 digits on card. we dont even have the card anymore all we have are old bills from xxxx which has last 4 digits. when we call citibank they say they dont see an account with last 4 digits xxxx which was connected to that bill pay. the payment was cashed by citibank on xx / xx / xxxx. so they cashed it not having any record of this older account. we do have bank copy of it being cashed and citibank just keeps giving us the run around! its over { $ 1000. 00 } and no one will help us!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996196031570435
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9045567,
+  "complaint_id": "9045567",
+  "product": "Credit card",
+  "complaint_what_happened": "I have disputed {$690.00} to American Express about receiving damage products from a merchant ( bed bath beyond ). American Express has failed to give my money back. \n\nThey have stated that I never used the ''online return tap from the merchant 's website. This clearly is an insult to anyone 's intelligent, as I called the merchant toll free customer service number to notify about the product ( s ) defects. Further more the merchant XXXX  XXXX call center Representative failed to understand my situation. \n\nI even stated to American Express that the merchant has deny me even the simple requests of a return label. \n\nAmerican Express has failed clearly time and time again denied my claim even after providing pictures of the damage product. I feel they targeting me for no reason, which is clear after providing the pictures, and forcing me to pay for something that is defective. \n\nReference number XXXX XXXX",
+  "date_sent_to_company": "2024-05-19T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33126",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-05-19T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have disputed {$690.00} to American Express about receiving damage products from a merchant ( bed bath beyond ). American Express has failed to give my money back. \n\nThey have stated that I never used the ''online return tap from the merchant 's website. This clearly is an insult to anyone 's intelligent, as I called the merchant toll free customer service number to notify about the product ( s ) defects. Further more the merchant XXXX  XXXX call center Representative failed to understand my situation. \n\nI even stated to American Express that the merchant has deny me even the simple requests of a return label. \n\nAmerican Express has failed clearly time and time again denied my claim even after providing pictures of the damage product. I feel they targeting me for no reason, which is clear after providing the pictures, and forcing me to pay for something that is defective. \n\nReference number XXXX XXXX"
+}
+
+Chunk:
+i have disputed { $ 690. 00 } to american express about receiving damage products from a merchant ( bed bath beyond ). american express has failed to give my money back. they have stated that i never used the'' online return tap from the merchant's website. this clearly is an insult to anyone's intelligent, as i called the merchant toll free customer service number to notify about the product ( s ) defects. further more the merchant xxxx xxxx call center representative failed to understand my situation. i even stated to american express that the merchant has deny me even the simple requests of a return label. american express has failed clearly time and time again denied my claim even after providing pictures of the damage product. i feel they targeting me for no reason, which is clear after providing the pictures, and forcing me to pay for something that is defective. reference number xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997573494911194
+}

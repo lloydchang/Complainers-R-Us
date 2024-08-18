@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9340778,
+  "complaint_id": "9340778",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been paying on four promotional balances through Care Credit. Each plan carries a unique expiration date. While I have made payments of more than {$2700.00} over the past year, none of my accounts have been reduced by the equivalent credit. Moreover, the company can not explain where my money has been going. I am left on hold until they disconnect the line.",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77573",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have been paying on four promotional balances through Care Credit. Each plan carries a unique expiration date. While I have made payments of more than {$2700.00} over the past year, none of my accounts have been reduced by the equivalent credit. Moreover, the company can not explain where my money has been going. I am left on hold until they disconnect the line."
+}
+
+Chunk:
+i have been paying on four promotional balances through care credit. each plan carries a unique expiration date. while i have made payments of more than { $ 2700. 00 } over the past year, none of my accounts have been reduced by the equivalent credit. moreover, the company can not explain where my money has been going. i am left on hold until they disconnect the line.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992019534111023
+}

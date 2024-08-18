@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9156721,
+  "complaint_id": "9156721",
+  "product": "Credit card",
+  "complaint_what_happened": "The following information is to the best of my knowledge and memory because of timeframe. \n\nI have booked a package trip with XXXX and paid for it with my American Express credit card in XXXX of 2018 for {$2900.00}. About XXXX hours before my trip, XXXX called me on XXXX and said that my flight is cancelled ( no reason provided ) and XXXX wont be able to accommodate any other flight therefore they are refunding me 100 % of my trip. I have received a refund of {$1900.00} to my American Express credit card for the flights and the remaining refund of {$1000.00} was to be credited in the next ten business days and it never happened. At this point XXXX stopped responding to my requests for refund status. \n\nI called my American Express credit card and started a dispute on the {$1000.00} charge providing all necessary documentation including chat log with XXXX representative approving the refund. American Express disputed the charge. My account was at {$0.00} at this point and I decided to close my credit card account. Fast forward four months American Express sends me a bill for {$1000.00}. \n\nAmerican Express is now showing on my credit report with a balance of {$1000.00} - something I am not responsible for.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60634",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "AMERICAN EXPRESS COMPANY",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "The following information is to the best of my knowledge and memory because of timeframe. \n\nI have booked a package trip with XXXX and paid for it with my American Express credit card in XXXX of 2018 for {$2900.00}. About XXXX hours before my trip, XXXX called me on XXXX and said that my flight is cancelled ( no reason provided ) and XXXX wont be able to accommodate any other flight therefore they are refunding me 100 % of my trip. I have received a refund of {$1900.00} to my American Express credit card for the flights and the remaining refund of {$1000.00} was to be credited in the next ten business days and it never happened. At this point XXXX stopped responding to my requests for refund status. \n\nI called my American Express credit card and started a dispute on the {$1000.00} charge providing all necessary documentation including chat log with XXXX representative approving the refund. American Express disputed the charge. My account was at {$0.00} at this point and I decided to close my credit card account. Fast forward four months American Express sends me a bill for {$1000.00}. \n\nAmerican Express is now showing on my credit report with a balance of {$1000.00} - something I am not responsible for."
+}
+
+Chunk:
+the following information is to the best of my knowledge and memory because of timeframe. i have booked a package trip with xxxx and paid for it with my american express credit card in xxxx of 2018 for { $ 2900. 00 }. about xxxx hours before my trip, xxxx called me on xxxx and said that my flight is cancelled ( no reason provided ) and xxxx wont be able to accommodate any other flight therefore they are refunding me 100 % of my trip. i have received a refund of { $ 1900. 00 } to my american express credit card for the flights and the remaining refund of { $ 1000. 00 } was to be credited in the next ten business days and it never happened. at this point xxxx stopped responding to my requests for refund status. i called my american express credit card and started a dispute on the { $ 1000. 00 } charge providing all necessary documentation including chat log with xxxx representative approving the refund. american express disputed the charge. my account was at { $ 0. 00 } at this point and i decided to close my credit card account. fast forward four months american express sends me a bill for { $ 1000. 00 }. american express is now showing on my credit report with a balance of { $ 1000. 00 } - something i am not responsible for.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994872808456421
+}

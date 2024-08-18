@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9098164,
+  "complaint_id": "9098164",
+  "product": "Credit card",
+  "complaint_what_happened": "Misleading advertising a {$30000.00} trade line with the monthly fee of XXXX no way to cancel membership no contact the company to cancel services and has been taken XXXX out of my account since XX/XX/2023.",
+  "date_sent_to_company": "2024-05-26T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60620",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TomoCredit Inc.",
+  "date_received": "2024-05-26T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "Misleading advertising a {$30000.00} trade line with the monthly fee of XXXX no way to cancel membership no contact the company to cancel services and has been taken XXXX out of my account since XX/XX/2023."
+}
+
+Chunk:
+misleading advertising a { $ 30000. 00 } trade line with the monthly fee of xxxx no way to cancel membership no contact the company to cancel services and has been taken xxxx out of my account since xx / xx / 2023.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996589422225952
+}

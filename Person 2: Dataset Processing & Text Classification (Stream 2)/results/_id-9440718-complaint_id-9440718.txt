@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9440718,
+  "complaint_id": "9440718",
+  "product": "Credit card",
+  "complaint_what_happened": "Funds of the amounts {$51.00} were unable to be deposited then so, the money were never returned. Later the issued checks expired. When they sold their accts to XXXX, it mentioned that it did not have the money either. Had me ask BofA for the money. Also, it claimed card XXXX was lost when it was not, it then issued card XXXX in place of it? Unsure of what it was doing? Why? Truly confusing",
+  "date_sent_to_company": "2024-07-08T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "91770",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-07-08T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "Funds of the amounts {$51.00} were unable to be deposited then so, the money were never returned. Later the issued checks expired. When they sold their accts to XXXX, it mentioned that it did not have the money either. Had me ask BofA for the money. Also, it claimed card XXXX was lost when it was not, it then issued card XXXX in place of it? Unsure of what it was doing? Why? Truly confusing"
+}
+
+Chunk:
+funds of the amounts { $ 51. 00 } were unable to be deposited then so, the money were never returned. later the issued checks expired. when they sold their accts to xxxx, it mentioned that it did not have the money either. had me ask bofa for the money. also, it claimed card xxxx was lost when it was not, it then issued card xxxx in place of it? unsure of what it was doing? why? truly confusing
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995230436325073
+}

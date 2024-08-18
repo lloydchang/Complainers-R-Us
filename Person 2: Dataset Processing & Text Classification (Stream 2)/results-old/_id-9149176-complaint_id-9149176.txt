@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9149176,
+  "complaint_id": "9149176",
+  "product": "Credit card",
+  "complaint_what_happened": "I was a victim of an identity theft ring. In XXXX, I reached out to Fifth Third Bank about charges made on my credit card as a result of late payment. I wasn't able to resolve this issue with Fifth Third and was instructed by legal aid to wait until the case that was taken of by the Department of Justice finalize before continuing to contact bank. \nTo prevent any further damages done, I paid off the card. I have provided, various times, evidence of identity theft to the company and in return they have sent back letters stating that the account and the card ( in which I do not and never had any possession of ) is valid. \nI am not asking to validate the account but I am asking for the late payments as a result of unauthorized charges be removed and account be reopened",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60617",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIFTH THIRD FINANCIAL CORPORATION",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I was a victim of an identity theft ring. In XXXX, I reached out to Fifth Third Bank about charges made on my credit card as a result of late payment. I wasn't able to resolve this issue with Fifth Third and was instructed by legal aid to wait until the case that was taken of by the Department of Justice finalize before continuing to contact bank. \nTo prevent any further damages done, I paid off the card. I have provided, various times, evidence of identity theft to the company and in return they have sent back letters stating that the account and the card ( in which I do not and never had any possession of ) is valid. \nI am not asking to validate the account but I am asking for the late payments as a result of unauthorized charges be removed and account be reopened"
+}
+
+Chunk:
+i was a victim of an identity theft ring. in xxxx, i reached out to fifth third bank about charges made on my credit card as a result of late payment. i wasn't able to resolve this issue with fifth third and was instructed by legal aid to wait until the case that was taken of by the department of justice finalize before continuing to contact bank. to prevent any further damages done, i paid off the card. i have provided, various times, evidence of identity theft to the company and in return they have sent back letters stating that the account and the card ( in which i do not and never had any possession of ) is valid. i am not asking to validate the account but i am asking for the late payments as a result of unauthorized charges be removed and account be reopened
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9982343912124634
+}

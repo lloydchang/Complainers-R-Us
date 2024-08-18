@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9279872,
+  "complaint_id": "9279872",
+  "product": "Credit card",
+  "complaint_what_happened": "This is a complaint about an unsuspected credit card \" convenience fee '' imposed by a local retail store, XXXX XXXX XXXX, XXXX XXXX XXXX  XXXX XXXX, XXXX, PA XXXX. The credit receipt showed a total of {$42.00}. My just received XXXX XXXX XXXX XXXX by Citi monthly statement showed a charge of {$43.00}. \n\nThe difference, {$1.00}, upon closer examination of the receipt is due to a \" 4 % Credit Card Convenience Fee for all Credit/Debit Card Payments '' .\n\nHere are the details, which will prove the store 's 4 % surcharge incorporates the sales tax charge not just 4 % of the sub-total. \nSub Total : {$38.00} Tax : XXXX XXXX : {$42.00} Thank you for the work you do to protect consumers against these added fees. \nAdditional documentation is available should you request it. You can reach me at XXXX or via email.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19119",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-17T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "This is a complaint about an unsuspected credit card \" convenience fee '' imposed by a local retail store, XXXX XXXX XXXX, XXXX XXXX XXXX  XXXX XXXX, XXXX, PA XXXX. The credit receipt showed a total of {$42.00}. My just received XXXX XXXX XXXX XXXX by Citi monthly statement showed a charge of {$43.00}. \n\nThe difference, {$1.00}, upon closer examination of the receipt is due to a \" 4 % Credit Card Convenience Fee for all Credit/Debit Card Payments '' .\n\nHere are the details, which will prove the store 's 4 % surcharge incorporates the sales tax charge not just 4 % of the sub-total. \nSub Total : {$38.00} Tax : XXXX XXXX : {$42.00} Thank you for the work you do to protect consumers against these added fees. \nAdditional documentation is available should you request it. You can reach me at XXXX or via email."
+}
+
+Chunk:
+this is a complaint about an unsuspected credit card " convenience fee'' imposed by a local retail store, xxxx xxxx xxxx, xxxx xxxx xxxx xxxx xxxx, xxxx, pa xxxx. the credit receipt showed a total of { $ 42. 00 }. my just received xxxx xxxx xxxx xxxx by citi monthly statement showed a charge of { $ 43. 00 }. the difference, { $ 1. 00 }, upon closer examination of the receipt is due to a " 4 % credit card convenience fee for all credit / debit card payments''. here are the details, which will prove the store's 4 % surcharge incorporates the sales tax charge not just 4 % of the sub - total. sub total : { $ 38. 00 } tax : xxxx xxxx : { $ 42. 00 } thank you for the work you do to protect consumers against these added fees. additional documentation is available should you request it. you can reach me at xxxx or via email.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961724877357483
+}

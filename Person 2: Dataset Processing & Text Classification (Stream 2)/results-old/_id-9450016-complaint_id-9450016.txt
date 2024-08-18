@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9450016,
+  "complaint_id": "9450016",
+  "product": "Credit card",
+  "complaint_what_happened": "I was one day late on my care credit payment and charged a XXXX dollar late fee. Per the new rules, this should only be XXXX dollars. Due date is the XXXX if every month. I paid it but know the fee is an overcharge due to the new rule",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "61107",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I was one day late on my care credit payment and charged a XXXX dollar late fee. Per the new rules, this should only be XXXX dollars. Due date is the XXXX if every month. I paid it but know the fee is an overcharge due to the new rule"
+}
+
+Chunk:
+i was one day late on my care credit payment and charged a xxxx dollar late fee. per the new rules, this should only be xxxx dollars. due date is the xxxx if every month. i paid it but know the fee is an overcharge due to the new rule
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9980072379112244
+}

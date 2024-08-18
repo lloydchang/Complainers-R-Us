@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9312741,
+  "complaint_id": "9312741",
+  "product": "Credit card",
+  "complaint_what_happened": "I would like for these inquiries to be deleted from my credit profile because I did not authorize these companies to run my credit.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "60411",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I would like for these inquiries to be deleted from my credit profile because I did not authorize these companies to run my credit."
+}
+
+Chunk:
+i would like for these inquiries to be deleted from my credit profile because i did not authorize these companies to run my credit.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997016787528992
+}

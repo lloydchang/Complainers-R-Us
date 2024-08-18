@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9145425,
+  "complaint_id": "9145425",
+  "product": "Credit card",
+  "complaint_what_happened": "Notice is hereby given to XXXX Goldman Sachs Bank, APPLE CARD that on or about XX/XX/XXXX, APPLE CARD CASE # XXXX was open without Plaintiff/Affiant 's consent or authorization, an individual engaged in identity theft and used Plaintiff/Affiant 's personal identifying information to open the Fraudulent Account with GS Bank, account number XXXX, dated opened on XX/XX/XXXX. \nPlaintiff/Affiant requests that GS Bank immediately close the Fraudulent Account and cease reporting it or any information relating to it to any consumer reporting agency. \nNotice is also hereby given to the major consumer reporting agencies, XXXX, XXXX, and XXXX, that on or about XX/XX/XXXX, without Plaintiff/Affiant 's consent or authorization, an individual engaged in identity theft and used Plaintiff/Affiant 's personal identifying information to open the Fraudulent Account. \nPlaintiff/Affiant requests that the consumer reporting agencies investigate the Fraudulent Account and any inquiries relating to it, and block any information regarding the Fraudulent Account from appearing in Plaintiff/Affiant 's consumer reports.\n\nPlaintiff/Affiant 's personal identifying information, including but not limited name, address, date of birth, and Social Security number were compromised and used without consent to open the Fraudulent Account.\n\nPlaintiff/Affiant certifies that they did not authorize the Fraudulent Account and is a victim of identity theft as defined by 15 USC 1681c-2 and 12 CFR 1022, Regulation V.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33317",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Notice is hereby given to XXXX Goldman Sachs Bank, APPLE CARD that on or about XX/XX/XXXX, APPLE CARD CASE # XXXX was open without Plaintiff/Affiant 's consent or authorization, an individual engaged in identity theft and used Plaintiff/Affiant 's personal identifying information to open the Fraudulent Account with GS Bank, account number XXXX, dated opened on XX/XX/XXXX. \nPlaintiff/Affiant requests that GS Bank immediately close the Fraudulent Account and cease reporting it or any information relating to it to any consumer reporting agency. \nNotice is also hereby given to the major consumer reporting agencies, XXXX, XXXX, and XXXX, that on or about XX/XX/XXXX, without Plaintiff/Affiant 's consent or authorization, an individual engaged in identity theft and used Plaintiff/Affiant 's personal identifying information to open the Fraudulent Account. \nPlaintiff/Affiant requests that the consumer reporting agencies investigate the Fraudulent Account and any inquiries relating to it, and block any information regarding the Fraudulent Account from appearing in Plaintiff/Affiant 's consumer reports.\n\nPlaintiff/Affiant 's personal identifying information, including but not limited name, address, date of birth, and Social Security number were compromised and used without consent to open the Fraudulent Account.\n\nPlaintiff/Affiant certifies that they did not authorize the Fraudulent Account and is a victim of identity theft as defined by 15 USC 1681c-2 and 12 CFR 1022, Regulation V."
+}
+
+Chunk:
+notice is hereby given to xxxx goldman sachs bank, apple card that on or about xx / xx / xxxx, apple card case # xxxx was open without plaintiff / affiant's consent or authorization, an individual engaged in identity theft and used plaintiff / affiant's personal identifying information to open the fraudulent account with gs bank, account number xxxx, dated opened on xx / xx / xxxx. plaintiff / affiant requests that gs bank immediately close the fraudulent account and cease reporting it or any information relating to it to any consumer reporting agency. notice is also hereby given to the major consumer reporting agencies, xxxx, xxxx, and xxxx, that on or about xx / xx / xxxx, without plaintiff / affiant's consent or authorization, an individual engaged in identity theft and used plaintiff / affiant's personal identifying information to open the fraudulent account. plaintiff / affiant requests that the consumer reporting agencies investigate the fraudulent account and any inquiries relating to it, and block any information regarding the fraudulent account from appearing in plaintiff / affiant's consumer reports. plaintiff / affiant's personal identifying information, including but not limited name, address, date of birth, and social security number were compromised and used without consent to open the fraudulent account. plaintiff / affiant certifies that they did not authorize the fraudulent account and is a victim of identity theft as defined by 15 usc 1681c - 2 and 12 cfr 1022, regulation v.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9986396431922913
+}

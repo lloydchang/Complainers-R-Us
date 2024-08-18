@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9231788,
+  "complaint_id": "9231788",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, the mobile game \" XXXX XXXX XXXX XXXX '' had a promotion for a XXXX free trial, and then after that be charged {$9.00}. I accepted the free trial but was immediately hit with a fraudulent charge I never agreed to. My credit card, Apple Card, has refused to accept the mountain of evidence against these charges and is refusing to refund my stolen money. Over XXXX people online have complained about this exact fraudulent charge, and Apple does nothing. I have spent hours with representatives trying to get back money Apple has stolen from me, at this point I think it's best if the CFPB steps in. I would honestly love it if you guys penalized them monetarily or something, it's incredible to me that a company can simply steal money like this without any repercussions. In addition, when I reached out to Apple Card regarding the dispute, I'm told they refused to do so on in-app purchases. Lovely!",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10314",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/year>, the mobile game \" XXXX XXXX XXXX XXXX '' had a promotion for a XXXX free trial, and then after that be charged {$9.00}. I accepted the free trial but was immediately hit with a fraudulent charge I never agreed to. My credit card, Apple Card, has refused to accept the mountain of evidence against these charges and is refusing to refund my stolen money. Over XXXX people online have complained about this exact fraudulent charge, and Apple does nothing. I have spent hours with representatives trying to get back money Apple has stolen from me, at this point I think it's best if the CFPB steps in. I would honestly love it if you guys penalized them monetarily or something, it's incredible to me that a company can simply steal money like this without any repercussions. In addition, when I reached out to Apple Card regarding the dispute, I'm told they refused to do so on in-app purchases. Lovely!"
+}
+
+Chunk:
+on xx / xx / year >, the mobile game " xxxx xxxx xxxx xxxx'' had a promotion for a xxxx free trial, and then after that be charged { $ 9. 00 }. i accepted the free trial but was immediately hit with a fraudulent charge i never agreed to. my credit card, apple card, has refused to accept the mountain of evidence against these charges and is refusing to refund my stolen money. over xxxx people online have complained about this exact fraudulent charge, and apple does nothing. i have spent hours with representatives trying to get back money apple has stolen from me, at this point i think it's best if the cfpb steps in. i would honestly love it if you guys penalized them monetarily or something, it's incredible to me that a company can simply steal money like this without any repercussions. in addition, when i reached out to apple card regarding the dispute, i'm told they refused to do so on in - app purchases. lovely!
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.5157605409622192
+}

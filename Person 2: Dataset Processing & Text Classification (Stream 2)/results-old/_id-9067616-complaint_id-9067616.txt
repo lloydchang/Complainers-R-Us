@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9067616,
+  "complaint_id": "9067616",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a credit for {$32.00}, but XXXX cant find any information about the original purchase.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "466XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "IN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I received a credit for {$32.00}, but XXXX cant find any information about the original purchase."
+}
+
+Chunk:
+i received a credit for { $ 32. 00 }, but xxxx cant find any information about the original purchase.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994460940361023
+}

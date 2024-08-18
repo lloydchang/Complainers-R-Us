@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9231625,
+  "complaint_id": "9231625",
+  "product": "Credit card",
+  "complaint_what_happened": "I have processed a balance transfer with Bank of America XXXX on XX/XX/year> for {$2500.00}. I have provided the correct information to transfer {$2500.00} to XXXX XXXX XXXX. I have received an email confirming where the balance transfer is being processed to which had the correct information. Bank of America XXXX XXXX XXXX, a completely different company, with the transfer on XX/XX/year>. I have called and a case was opened to fix the issue or look into it. I was told to wait XXXX days, when I called back for a follow up I was told to wait XXXX days, then XXXX days. Now still nothing is being done and now I owe {$2500.00} to XXXX XXXX XXXX and {$2500.00} + fees to Bank of America for the balance transfer that was done to XXXX XXXX, a company I dont even have an account with. XX/XX/XXXX I am being told that a new case will be opened. I have provided the email confirmation from Bank of America confirming a balance transfer to be paid to XXXX XXXX XXXX. I have done a balance transfer to XXXX XXXX XXXX using the exact same information with other credit card companies with no issues. I use the exact same information that was provided for the balance transfer to pay my bill with Bank of America bill pay with no issues. There is no reason why Bank of America XXXX XXXX XXXX, and it seems nothing is being done.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "853XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with balance transfer",
+  "text": "I have processed a balance transfer with Bank of America XXXX on XX/XX/year> for {$2500.00}. I have provided the correct information to transfer {$2500.00} to XXXX XXXX XXXX. I have received an email confirming where the balance transfer is being processed to which had the correct information. Bank of America XXXX XXXX XXXX, a completely different company, with the transfer on XX/XX/year>. I have called and a case was opened to fix the issue or look into it. I was told to wait XXXX days, when I called back for a follow up I was told to wait XXXX days, then XXXX days. Now still nothing is being done and now I owe {$2500.00} to XXXX XXXX XXXX and {$2500.00} + fees to Bank of America for the balance transfer that was done to XXXX XXXX, a company I dont even have an account with. XX/XX/XXXX I am being told that a new case will be opened. I have provided the email confirmation from Bank of America confirming a balance transfer to be paid to XXXX XXXX XXXX. I have done a balance transfer to XXXX XXXX XXXX using the exact same information with other credit card companies with no issues. I use the exact same information that was provided for the balance transfer to pay my bill with Bank of America bill pay with no issues. There is no reason why Bank of America XXXX XXXX XXXX, and it seems nothing is being done."
+}
+
+Chunk:
+i have processed a balance transfer with bank of america xxxx on xx / xx / year > for { $ 2500. 00 }. i have provided the correct information to transfer { $ 2500. 00 } to xxxx xxxx xxxx. i have received an email confirming where the balance transfer is being processed to which had the correct information. bank of america xxxx xxxx xxxx, a completely different company, with the transfer on xx / xx / year >. i have called and a case was opened to fix the issue or look into it. i was told to wait xxxx days, when i called back for a follow up i was told to wait xxxx days, then xxxx days. now still nothing is being done and now i owe { $ 2500. 00 } to xxxx xxxx xxxx and { $ 2500. 00 } + fees to bank of america for the balance transfer that was done to xxxx xxxx, a company i dont even have an account with. xx / xx / xxxx i am being told that a new case will be opened. i have provided the email confirmation from bank of america confirming a balance transfer to be paid to xxxx xxxx xxxx. i have done a balance transfer to xxxx xxxx xxxx using the exact same information with other credit card companies with no issues. i use the exact same information that was provided for the balance transfer to pay my bill with bank of america bill pay with no issues. there is no reason why bank of america xxxx xxxx xxxx, and it seems nothing is being done.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9988992214202881
+}

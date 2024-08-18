@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9723523,
+  "complaint_id": "9723523",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX I had 4 charges to my XXXX XXXX Citi card that I did not make. All charges were made at stores in the other side of the country as well. One was a charge from XXXX for {$250.00}. The other 3 were from XXXX in Ohio for {$300.00}. I went through the Citi fraud process and they will not issue a credit to my account. I have followed all necessary steps to request information on how to resolve this but to no avail.",
+  "date_sent_to_company": "2024-08-06T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98502",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-08-06T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "On XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX I had 4 charges to my XXXX XXXX Citi card that I did not make. All charges were made at stores in the other side of the country as well. One was a charge from XXXX for {$250.00}. The other 3 were from XXXX in Ohio for {$300.00}. I went through the Citi fraud process and they will not issue a credit to my account. I have followed all necessary steps to request information on how to resolve this but to no avail."
+}
+
+Chunk:
+on xx / xx / xxxxxxxx xxxx xxxx xxxx xxxx xxxxxxxx i had 4 charges to my xxxx xxxx citi card that i did not make. all charges were made at stores in the other side of the country as well. one was a charge from xxxx for { $ 250. 00 }. the other 3 were from xxxx in ohio for { $ 300. 00 }. i went through the citi fraud process and they will not issue a credit to my account. i have followed all necessary steps to request information on how to resolve this but to no avail.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999138355255127
+}

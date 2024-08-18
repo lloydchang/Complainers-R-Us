@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9116063,
+  "complaint_id": "9116063",
+  "product": "Credit card",
+  "complaint_what_happened": "I added chase offer of spend {$XXXX or more then get {$XXXX} back to my account and made sufficient purchases. The chase offer does not successfully triggered now shows expired. XXXX XXXX XXXX XXXX XXXX XXXXXXXX",
+  "date_sent_to_company": "2024-05-28T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "94588",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-28T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Didn't receive advertised or promotional terms",
+  "text": "I added chase offer of spend {$XXXX or more then get {$XXXX} back to my account and made sufficient purchases. The chase offer does not successfully triggered now shows expired. XXXX XXXX XXXX XXXX XXXX XXXXXXXX"
+}
+
+Chunk:
+i added chase offer of spend { $ xxxx or more then get { $ xxxx } back to my account and made sufficient purchases. the chase offer does not successfully triggered now shows expired. xxxx xxxx xxxx xxxx xxxx xxxxxxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978979825973511
+}

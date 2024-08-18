@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9307535,
+  "complaint_id": "9307535",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a Venmo Visa Card with a {$5000.00} credit limit. XX/XX/XXXX the balance was {$4200.00}. I made a payment of over {$4000.00} XX/XX/XXXX. They lowered my available credit the payment amount. Not sure how they can do that. And with out my knowledge of this I made a small purchase maybe {$200.00} and they now they have reported me over my limit. And now my credit rating went down. XX/XX/XXXX I called them thinking there is a mistake. They informed my that a large payment can take up to 14 days to go thru. The payment went thru from my bank on exactly XX/XX/XXXX. This is so maddening and confusing. I am XXXX  and I am making every effort to keep my credit score up. This is ridiculous and inexcusable.",
+  "date_sent_to_company": "2024-06-20T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "60014",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-20T12:00:00-05:00",
+  "state": "IL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I have a Venmo Visa Card with a {$5000.00} credit limit. XX/XX/XXXX the balance was {$4200.00}. I made a payment of over {$4000.00} XX/XX/XXXX. They lowered my available credit the payment amount. Not sure how they can do that. And with out my knowledge of this I made a small purchase maybe {$200.00} and they now they have reported me over my limit. And now my credit rating went down. XX/XX/XXXX I called them thinking there is a mistake. They informed my that a large payment can take up to 14 days to go thru. The payment went thru from my bank on exactly XX/XX/XXXX. This is so maddening and confusing. I am XXXX  and I am making every effort to keep my credit score up. This is ridiculous and inexcusable."
+}
+
+Chunk:
+i have a venmo visa card with a { $ 5000. 00 } credit limit. xx / xx / xxxx the balance was { $ 4200. 00 }. i made a payment of over { $ 4000. 00 } xx / xx / xxxx. they lowered my available credit the payment amount. not sure how they can do that. and with out my knowledge of this i made a small purchase maybe { $ 200. 00 } and they now they have reported me over my limit. and now my credit rating went down. xx / xx / xxxx i called them thinking there is a mistake. they informed my that a large payment can take up to 14 days to go thru. the payment went thru from my bank on exactly xx / xx / xxxx. this is so maddening and confusing. i am xxxx and i am making every effort to keep my credit score up. this is ridiculous and inexcusable.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996224641799927
+}

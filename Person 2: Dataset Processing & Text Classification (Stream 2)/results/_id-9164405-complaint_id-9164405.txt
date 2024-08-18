@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9164405,
+  "complaint_id": "9164405",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/2024, I made a payment of {$2000.00} to my XXXX credit card with Wells Fargo theough WF 's portal. Typically, the funds are immediately available and so that is what I expected. However, when the funds were showing as unavailable, I called the number on the back of my XXXX card and I was told the funds would be available the next day, which was also my final day to pay my rent without a late fee being accessed. The next day the funds were still not available so I called again and I was told that there was a hold on the payment and the matter was escalated. The next person told me that they would send an email to the appropriate department requesting the hold be removed and I would get an email on the decision within a few hours. After about 6 or 7 hours, I had received nothing so I called back in and asked to speak to someone in that same escalated department. The gentleman was very rude and he told me that WF should not even be handling my call and they were doing me a favor by taking my call and I actually needed to be calling XXXX directly. I explained that I called the number on the back of my card and he then gave me another number which ultimately brought me back to WF again. At this point, I spoke with a supervisor that explained to me that a possible reason for the hold was a returned payment. In XXXX, I was transitioning to another bank account and I accidentally chose the wrong account to make my payment from. Once I realized the mistake, I immediately corrected it. Once she told me that, I was more understanding of them wanting to verify the funds but I never recieved an email requesting the verification so I ended uo with a late fee being added to XXXX 's rent. The funds would become available 4 days after my initial payment. On XX/XX/XXXX, I made another payment through the WF portal for {$1000.00}. As of XX/XX/XXXX, the funds are still unavailable and I am now being told there is a 15 day hold on the payment. I was told that if I opened a WF checking or savings account there would be no hold but since I'm paying from an outside bank there is a hold. Even when I went into a WF branch and made a payment to the card using cash, the funds were still not available until the next day. I declined to open an account and reached out to their executive team as suggested by their customer service rep. I was then told it could take up to 30 days for someone to get back to me, and I still have no explanation how the hold went from 4 days the first time and now to 15 days.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30312",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "On XX/XX/2024, I made a payment of {$2000.00} to my XXXX credit card with Wells Fargo theough WF 's portal. Typically, the funds are immediately available and so that is what I expected. However, when the funds were showing as unavailable, I called the number on the back of my XXXX card and I was told the funds would be available the next day, which was also my final day to pay my rent without a late fee being accessed. The next day the funds were still not available so I called again and I was told that there was a hold on the payment and the matter was escalated. The next person told me that they would send an email to the appropriate department requesting the hold be removed and I would get an email on the decision within a few hours. After about 6 or 7 hours, I had received nothing so I called back in and asked to speak to someone in that same escalated department. The gentleman was very rude and he told me that WF should not even be handling my call and they were doing me a favor by taking my call and I actually needed to be calling XXXX directly. I explained that I called the number on the back of my card and he then gave me another number which ultimately brought me back to WF again. At this point, I spoke with a supervisor that explained to me that a possible reason for the hold was a returned payment. In XXXX, I was transitioning to another bank account and I accidentally chose the wrong account to make my payment from. Once I realized the mistake, I immediately corrected it. Once she told me that, I was more understanding of them wanting to verify the funds but I never recieved an email requesting the verification so I ended uo with a late fee being added to XXXX 's rent. The funds would become available 4 days after my initial payment. On XX/XX/XXXX, I made another payment through the WF portal for {$1000.00}. As of XX/XX/XXXX, the funds are still unavailable and I am now being told there is a 15 day hold on the payment. I was told that if I opened a WF checking or savings account there would be no hold but since I'm paying from an outside bank there is a hold. Even when I went into a WF branch and made a payment to the card using cash, the funds were still not available until the next day. I declined to open an account and reached out to their executive team as suggested by their customer service rep. I was then told it could take up to 30 days for someone to get back to me, and I still have no explanation how the hold went from 4 days the first time and now to 15 days."
+}
+
+Chunk:
+and reached out to their executive team as suggested by their customer service rep. i was then told it could take up to 30 days for someone to get back to me, and i still have no explanation how the hold went from 4 days the first time and now to 15 days.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.998794674873352
+}

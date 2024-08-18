@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9173731,
+  "complaint_id": "9173731",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a really bad experience with discover I have issues with XXXX things XXXX I received a request from discover to send my irs XXXX returns through XXXX XXXX I told them I dont have them. Because in the email it said to call them if I havent filed taxes. I was told to submit the form anyway. I kept on calling them to see if the restriction has been lifted. They proceeded to cancel my account without reaching out to me and told me to just open a new account and go through the whole process again. They refused to tell me the reason why they canceled my account I had to call them 7 times just to get the reason. It was cause i had not filed taxes. \n\nXXXX I asked them to refund my security deposit of XXXX dollars they told me I have to wait 3 months to get my money back. I told them I couldnt wait that long and it would financially constraint me as Im currently unemployed. They said they are going expedite it through ach and Ill see my money in my account in 14 days. I called them a couple of days back for a status update they said they dont know and they cant tell me and I should see my money in a couple of days. \nI called them again today now they are telling me I have to wait 3 months to get my money.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90813",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I have a really bad experience with discover I have issues with XXXX things XXXX I received a request from discover to send my irs XXXX returns through XXXX XXXX I told them I dont have them. Because in the email it said to call them if I havent filed taxes. I was told to submit the form anyway. I kept on calling them to see if the restriction has been lifted. They proceeded to cancel my account without reaching out to me and told me to just open a new account and go through the whole process again. They refused to tell me the reason why they canceled my account I had to call them 7 times just to get the reason. It was cause i had not filed taxes. \n\nXXXX I asked them to refund my security deposit of XXXX dollars they told me I have to wait 3 months to get my money back. I told them I couldnt wait that long and it would financially constraint me as Im currently unemployed. They said they are going expedite it through ach and Ill see my money in my account in 14 days. I called them a couple of days back for a status update they said they dont know and they cant tell me and I should see my money in a couple of days. \nI called them again today now they are telling me I have to wait 3 months to get my money."
+}
+
+Chunk:
+i have a really bad experience with discover i have issues with xxxx things xxxx i received a request from discover to send my irs xxxx returns through xxxx xxxx i told them i dont have them. because in the email it said to call them if i havent filed taxes. i was told to submit the form anyway. i kept on calling them to see if the restriction has been lifted. they proceeded to cancel my account without reaching out to me and told me to just open a new account and go through the whole process again. they refused to tell me the reason why they canceled my account i had to call them 7 times just to get the reason. it was cause i had not filed taxes. xxxx i asked them to refund my security deposit of xxxx dollars they told me i have to wait 3 months to get my money back. i told them i couldnt wait that long and it would financially constraint me as im currently unemployed. they said they are going expedite it through ach and ill see my money in my account in 14 days. i called them a couple of days back for a status update they said they dont know and they cant tell me and i should see my money in a couple of days. i called them again today now they are telling me i have to wait 3 months to get my money.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993649125099182
+}

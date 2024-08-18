@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9124997,
+  "complaint_id": "9124997",
+  "product": "Credit card",
+  "complaint_what_happened": "This is with the Apple Card. Administered by Goldman Sachs. On XXXX XXXX, I attempted to make a payment in full on my balance. With all of my other credit cards, this has been posted almost immediately, and my credit limit has been adjusted. This is what I assumed, and was surprised to find out that the payment had not been applied. When I called them, they claimed that I had added a second bank account ( this is true ) and they were not familiar with that account so they were going to hold my payment until the XXXX. Surprised me because Ive never had any other credit card company care which account I paid from. I argued a little bit, and then on the XXXX, received an email saying that my payment had been reversed. So, on the XXXX, I paid from the original account I had set up. BTW they say payment due on the last day of the month. They had accepted payment from that account the first time I paid my card. ( Ive only had the card two months ) .again this payment was not applied toward my credit card. They say that they will apply it on XX/XX/XXXX. They say its because the other payment got reversed. Even though they reversed the payment. I feel that what they are doing is holding my money that has been withdrawn from my account for bogus reasons, and they are earning interest on it ( think of this multiplied by millions of users ). Theres no reason payments should not be posted immediately to my account if the money is in my bank account. I feel that this is illegal, actually. I think this is a very nefarious practice. And I see that its been happening to others when I google it on online. And this is a larger amount of money - the first held payment around XXXX ( then reversed ), the second held payment XXXX.",
+  "date_sent_to_company": "2024-05-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "830XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "WY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem during payment process",
+  "text": "This is with the Apple Card. Administered by Goldman Sachs. On XXXX XXXX, I attempted to make a payment in full on my balance. With all of my other credit cards, this has been posted almost immediately, and my credit limit has been adjusted. This is what I assumed, and was surprised to find out that the payment had not been applied. When I called them, they claimed that I had added a second bank account ( this is true ) and they were not familiar with that account so they were going to hold my payment until the XXXX. Surprised me because Ive never had any other credit card company care which account I paid from. I argued a little bit, and then on the XXXX, received an email saying that my payment had been reversed. So, on the XXXX, I paid from the original account I had set up. BTW they say payment due on the last day of the month. They had accepted payment from that account the first time I paid my card. ( Ive only had the card two months ) .again this payment was not applied toward my credit card. They say that they will apply it on XX/XX/XXXX. They say its because the other payment got reversed. Even though they reversed the payment. I feel that what they are doing is holding my money that has been withdrawn from my account for bogus reasons, and they are earning interest on it ( think of this multiplied by millions of users ). Theres no reason payments should not be posted immediately to my account if the money is in my bank account. I feel that this is illegal, actually. I think this is a very nefarious practice. And I see that its been happening to others when I google it on online. And this is a larger amount of money - the first held payment around XXXX ( then reversed ), the second held payment XXXX."
+}
+
+Chunk:
+this is with the apple card. administered by goldman sachs. on xxxx xxxx, i attempted to make a payment in full on my balance. with all of my other credit cards, this has been posted almost immediately, and my credit limit has been adjusted. this is what i assumed, and was surprised to find out that the payment had not been applied. when i called them, they claimed that i had added a second bank account ( this is true ) and they were not familiar with that account so they were going to hold my payment until the xxxx. surprised me because ive never had any other credit card company care which account i paid from. i argued a little bit, and then on the xxxx, received an email saying that my payment had been reversed. so, on the xxxx, i paid from the original account i had set up. btw they say payment due on the last day of the month. they had accepted payment from that account the first time i paid my card. ( ive only had the card two months ). again this payment was not applied toward my credit card. they say that they will apply it on xx / xx / xxxx. they say its because the other payment got reversed. even though they reversed the payment. i feel that what they are doing is holding my money that has been withdrawn from my account for bogus reasons, and they are earning interest on it ( think of this multiplied by millions of users ). theres no reason payments should not be posted immediately to my account if the money is in my bank account. i feel that this is illegal, actually. i think this is a very nefarious practice. and i see that its been happening to others when i google it on online. and this is a larger amount of money - the first held payment around xxxx ( then reversed ), the second held payment xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9981054067611694
+}

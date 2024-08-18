@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9191858,
+  "complaint_id": "9191858",
+  "product": "Credit card",
+  "complaint_what_happened": "I have sent you the information to the fraud department compliance on my account is in tact. \n\nYou should be receiving a lawsuit from me as soon as next week for your failure to comply with the FCRA causing me to lose over XXXX due to negligence of reporting on a credit card that is fraudulent. \n\nFailure to comply with the FCRA is a serious violation of the law.",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "321XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "DISCOVER BANK",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I have sent you the information to the fraud department compliance on my account is in tact. \n\nYou should be receiving a lawsuit from me as soon as next week for your failure to comply with the FCRA causing me to lose over XXXX due to negligence of reporting on a credit card that is fraudulent. \n\nFailure to comply with the FCRA is a serious violation of the law."
+}
+
+Chunk:
+i have sent you the information to the fraud department compliance on my account is in tact. you should be receiving a lawsuit from me as soon as next week for your failure to comply with the fcra causing me to lose over xxxx due to negligence of reporting on a credit card that is fraudulent. failure to comply with the fcra is a serious violation of the law.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999031662940979
+}

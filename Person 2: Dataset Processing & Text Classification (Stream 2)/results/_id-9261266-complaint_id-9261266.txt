@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9261266,
+  "complaint_id": "9261266",
+  "product": "Credit card",
+  "complaint_what_happened": "My name is XXXX XXXX, I filed an arbitration against National Credit Adjusters XXXX l.l.C., however, I have received a notice from the XXXX XXXX XXXX, informing me that National Credit Adjusters, l.l.C., failed to comply with the AAAs policies regarding consumer claims, out of compliance and therefore XXXX can not process any arbitrations with National Credit Adjusters , l.l.C. This means they are not only in breach of contract with me but with every other account, National Credit Adjusters , l.l.C is servicing. I am requesting the Consumer Financial Protection Bureau launch a class action against National Credit Adjusters , l.l.C, on behalf of all other consumers. This company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting",
+  "date_sent_to_company": "2024-06-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33460",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "National Credit Adjusters, LLC",
+  "date_received": "2024-06-14T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company forcing arbitration",
+  "text": "My name is XXXX XXXX, I filed an arbitration against National Credit Adjusters XXXX l.l.C., however, I have received a notice from the XXXX XXXX XXXX, informing me that National Credit Adjusters, l.l.C., failed to comply with the AAAs policies regarding consumer claims, out of compliance and therefore XXXX can not process any arbitrations with National Credit Adjusters , l.l.C. This means they are not only in breach of contract with me but with every other account, National Credit Adjusters , l.l.C is servicing. I am requesting the Consumer Financial Protection Bureau launch a class action against National Credit Adjusters , l.l.C, on behalf of all other consumers. This company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting"
+}
+
+Chunk:
+my name is xxxx xxxx, i filed an arbitration against national credit adjusters xxxx l. l. c., however, i have received a notice from the xxxx xxxx xxxx, informing me that national credit adjusters, l. l. c., failed to comply with the aaas policies regarding consumer claims, out of compliance and therefore xxxx can not process any arbitrations with national credit adjusters, l. l. c. this means they are not only in breach of contract with me but with every other account, national credit adjusters, l. l. c is servicing. i am requesting the consumer financial protection bureau launch a class action against national credit adjusters, l. l. c, on behalf of all other consumers. this company is in breach of contract and failed to comply with the arbitration provision on the debt they are collecting
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994955062866211
+}

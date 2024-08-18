@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9023538,
+  "complaint_id": "9023538",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/year>, I enrolled in a payment plan with Capital One to make payments towards my Capital One Savor Card ending in XXXX. Per the terms of the payment plan, I would be making 3 payments per the payment schedule that was given which showed my first payment due on XX/XX/XXXX. I was told that by enrolling in the plan, my account would stay in good standing. One of the disclosures states, \" If you complete this plan 's payments, this account will reflect a current status. Any returned payments after completion may result in this account reverting back to a delinquent status. '' Based on what I was told and the way the disclosures read, the account should be in current status as long as the payments are made per the schedule ; however, Capital One reported this account 30 days late. The disclosures do not indicate that your account will still be reported to the credit bureau as late which is why I enrolled. In addition, the statement and schedule provided to me from Capital One do not indicate that there was a past due amount. Capital One mislead me into thinking that my account was in good standing and that the next payment was due on XX/XX/XXXX. Even my XXXX Statement does not show a past due amount. Please have the 30 day late removed from my credit reports immediately and investigate Capital One 's practices, so that this does not happen to other consumers.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "38018",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "You never received your bill or did not know a payment was due",
+  "text": "On XX/XX/year>, I enrolled in a payment plan with Capital One to make payments towards my Capital One Savor Card ending in XXXX. Per the terms of the payment plan, I would be making 3 payments per the payment schedule that was given which showed my first payment due on XX/XX/XXXX. I was told that by enrolling in the plan, my account would stay in good standing. One of the disclosures states, \" If you complete this plan 's payments, this account will reflect a current status. Any returned payments after completion may result in this account reverting back to a delinquent status. '' Based on what I was told and the way the disclosures read, the account should be in current status as long as the payments are made per the schedule ; however, Capital One reported this account 30 days late. The disclosures do not indicate that your account will still be reported to the credit bureau as late which is why I enrolled. In addition, the statement and schedule provided to me from Capital One do not indicate that there was a past due amount. Capital One mislead me into thinking that my account was in good standing and that the next payment was due on XX/XX/XXXX. Even my XXXX Statement does not show a past due amount. Please have the 30 day late removed from my credit reports immediately and investigate Capital One 's practices, so that this does not happen to other consumers."
+}
+
+Chunk:
+on xx / xx / year >, i enrolled in a payment plan with capital one to make payments towards my capital one savor card ending in xxxx. per the terms of the payment plan, i would be making 3 payments per the payment schedule that was given which showed my first payment due on xx / xx / xxxx. i was told that by enrolling in the plan, my account would stay in good standing. one of the disclosures states, " if you complete this plan's payments, this account will reflect a current status. any returned payments after completion may result in this account reverting back to a delinquent status.'' based on what i was told and the way the disclosures read, the account should be in current status as long as the payments are made per the schedule ; however, capital one reported this account 30 days late. the disclosures do not indicate that your account will still be reported to the credit bureau as late which is why i enrolled. in addition, the statement and schedule provided to me from capital one do not indicate that there was a past due amount. capital one mislead me into thinking that my account was in good standing and that the next payment was due on xx / xx / xxxx. even my xxxx statement does not show a past due amount. please have the 30 day late removed from my credit reports immediately and investigate capital one's practices, so that this does not happen to other consumers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9973471164703369
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9133032,
+  "complaint_id": "9133032",
+  "product": "Credit card",
+  "complaint_what_happened": "I applied for a WELLSFARGO credit card thinking it was a Business Credit card on or about XX/XX/XXXX ; at that time I was not approved for the WELLSFARGO Credit card. However, I received a credit card in the mail from WELLFARGO on or about XX/XX/XXXX ; with a total credit limit of {$12000.00} and a Cash advance limit of {$2500.00}. I contact WELLSFARGO and spoke to a representative who I informed I was not approved for the credit card but received a card through the mail. I informed the WELLSFARGO representative to close the account ; the account was Officially CLOSED ; XX/XX/XXXX. As of XXXX, XXXX and XXXX of XXXX, Wellsfargo has continuously \" reported '' to the Credit Reporting Agencies XXXX, XXXX and XXXX that the balance on the account has increased by imposing a {$40.00} LATE FEE on a CLOSED account that has caused my credit score to decreased on a monthly basis. The account is now reporting CLOSED with a - XXXX - balance as of XX/XX/XXXX.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "28216",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-05-30T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "I applied for a WELLSFARGO credit card thinking it was a Business Credit card on or about XX/XX/XXXX ; at that time I was not approved for the WELLSFARGO Credit card. However, I received a credit card in the mail from WELLFARGO on or about XX/XX/XXXX ; with a total credit limit of {$12000.00} and a Cash advance limit of {$2500.00}. I contact WELLSFARGO and spoke to a representative who I informed I was not approved for the credit card but received a card through the mail. I informed the WELLSFARGO representative to close the account ; the account was Officially CLOSED ; XX/XX/XXXX. As of XXXX, XXXX and XXXX of XXXX, Wellsfargo has continuously \" reported '' to the Credit Reporting Agencies XXXX, XXXX and XXXX that the balance on the account has increased by imposing a {$40.00} LATE FEE on a CLOSED account that has caused my credit score to decreased on a monthly basis. The account is now reporting CLOSED with a - XXXX - balance as of XX/XX/XXXX."
+}
+
+Chunk:
+i applied for a wellsfargo credit card thinking it was a business credit card on or about xx / xx / xxxx ; at that time i was not approved for the wellsfargo credit card. however, i received a credit card in the mail from wellfargo on or about xx / xx / xxxx ; with a total credit limit of { $ 12000. 00 } and a cash advance limit of { $ 2500. 00 }. i contact wellsfargo and spoke to a representative who i informed i was not approved for the credit card but received a card through the mail. i informed the wellsfargo representative to close the account ; the account was officially closed ; xx / xx / xxxx. as of xxxx, xxxx and xxxx of xxxx, wellsfargo has continuously " reported'' to the credit reporting agencies xxxx, xxxx and xxxx that the balance on the account has increased by imposing a { $ 40. 00 } late fee on a closed account that has caused my credit score to decreased on a monthly basis. the account is now reporting closed with a - xxxx - balance as of xx / xx / xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978538155555725
+}

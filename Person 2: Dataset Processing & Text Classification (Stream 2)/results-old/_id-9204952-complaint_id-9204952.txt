@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9204952,
+  "complaint_id": "9204952",
+  "product": "Credit card",
+  "complaint_what_happened": "TJX Synchrony Bank credit card is now charging {$1.00} for receiving paper statements. I consider this a junk fee. For a senior going to an online statement is difficult because it takes me forever to figure out where to find my statement, printing it off ( when my printer works ), reading it and most painful remembering my password. Synchrony Bank Net Income has more than doubled since XXXX  Amazing that they started this fee after all of the XXXX and XXXX XXXX work on reducing excessive fees. \nThank you for looking into this",
+  "date_sent_to_company": "2024-06-13T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89128",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "TJX Synchrony Bank credit card is now charging {$1.00} for receiving paper statements. I consider this a junk fee. For a senior going to an online statement is difficult because it takes me forever to figure out where to find my statement, printing it off ( when my printer works ), reading it and most painful remembering my password. Synchrony Bank Net Income has more than doubled since XXXX  Amazing that they started this fee after all of the XXXX and XXXX XXXX work on reducing excessive fees. \nThank you for looking into this"
+}
+
+Chunk:
+tjx synchrony bank credit card is now charging { $ 1. 00 } for receiving paper statements. i consider this a junk fee. for a senior going to an online statement is difficult because it takes me forever to figure out where to find my statement, printing it off ( when my printer works ), reading it and most painful remembering my password. synchrony bank net income has more than doubled since xxxx amazing that they started this fee after all of the xxxx and xxxx xxxx work on reducing excessive fees. thank you for looking into this
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985206723213196
+}

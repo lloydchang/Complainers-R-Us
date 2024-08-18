@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9141549,
+  "complaint_id": "9141549",
+  "product": "Credit card",
+  "complaint_what_happened": "Every month when I pay my Total Credit Card on the due date ( XXXX of every month ), I am charged a late fee despite paying the payment on the due date. Despite making the payments on the XXXX, when they are due, Total Credit Card is intentionally documenting my credit card as being paid a day later, which intentionally results in me incurring a late charge. I have had to contact the company numerous times to make an adjustment to my account. In reviewing my account from the time that I was issued the card, this has occurred 3-4 times. I recently tried to fax in my dispute to the company, however my faxes can never go through. There is absolutely no reason why I am being charged a late fee almost every month when my payment is being made on time, and there is no reason why I should be forced to contact the company every month whether via telephonically, fax, or otherwise to address this issue.",
+  "date_sent_to_company": "2024-06-01T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "89147",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST PORTFOLIO SERVICING INC",
+  "date_received": "2024-06-01T12:00:00-05:00",
+  "state": "NV",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Problem with fees",
+  "text": "Every month when I pay my Total Credit Card on the due date ( XXXX of every month ), I am charged a late fee despite paying the payment on the due date. Despite making the payments on the XXXX, when they are due, Total Credit Card is intentionally documenting my credit card as being paid a day later, which intentionally results in me incurring a late charge. I have had to contact the company numerous times to make an adjustment to my account. In reviewing my account from the time that I was issued the card, this has occurred 3-4 times. I recently tried to fax in my dispute to the company, however my faxes can never go through. There is absolutely no reason why I am being charged a late fee almost every month when my payment is being made on time, and there is no reason why I should be forced to contact the company every month whether via telephonically, fax, or otherwise to address this issue."
+}
+
+Chunk:
+every month when i pay my total credit card on the due date ( xxxx of every month ), i am charged a late fee despite paying the payment on the due date. despite making the payments on the xxxx, when they are due, total credit card is intentionally documenting my credit card as being paid a day later, which intentionally results in me incurring a late charge. i have had to contact the company numerous times to make an adjustment to my account. in reviewing my account from the time that i was issued the card, this has occurred 3 - 4 times. i recently tried to fax in my dispute to the company, however my faxes can never go through. there is absolutely no reason why i am being charged a late fee almost every month when my payment is being made on time, and there is no reason why i should be forced to contact the company every month whether via telephonically, fax, or otherwise to address this issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9993846416473389
+}

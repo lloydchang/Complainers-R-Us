@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9111926,
+  "complaint_id": "9111926",
+  "product": "Credit card",
+  "complaint_what_happened": "Credit card had been established in my name without my knowledge or consent. Credit limit was maxed out and card was unpaid and neglected. I have notified the Attorney General to investigate charges.",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77044",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "Credit card had been established in my name without my knowledge or consent. Credit limit was maxed out and card was unpaid and neglected. I have notified the Attorney General to investigate charges."
+}
+
+Chunk:
+credit card had been established in my name without my knowledge or consent. credit limit was maxed out and card was unpaid and neglected. i have notified the attorney general to investigate charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.999231219291687
+}

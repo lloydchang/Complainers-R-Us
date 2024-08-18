@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9158933,
+  "complaint_id": "9158933",
+  "product": "Credit card",
+  "complaint_what_happened": "I purchased a ring on XXXX for pick up at my local XXXXXXXX XXXX store in XXXX, Ca. The order was fulfilled by a XXXX store in New York. The order was not fulfilled by the estimated date and I was never asked if I wanted to cancel my order. I went to pick up the item when it finally arrived only to open it and the jewelry pouch was empty. It was only the pouch. No ring was in the package. The manager at the store said she couldnt do anything and to submit a claim on the XXXX app that the item was not received. That claim was denied. In the interim I contacted the Nordstrom credit card I used to purchase the ring and they opened a claim. While waiting I went back to the store to resolve and again they said they couldnt do anything. I had already emailed Nordstrom.com multiple times. Also emailed their delivery department. No one has helped me. I just received a letter saying after their investigation they decided the charge was correct because the store said the item was in the box and that I had to pay the {$4600.00}. All they did was send me back to the XXXX store. I do not have the item I was charged for and Nordstrom credit card has done nothing to protect me as the consumer.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "945XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I purchased a ring on XXXX for pick up at my local XXXXXXXX XXXX store in XXXX, Ca. The order was fulfilled by a XXXX store in New York. The order was not fulfilled by the estimated date and I was never asked if I wanted to cancel my order. I went to pick up the item when it finally arrived only to open it and the jewelry pouch was empty. It was only the pouch. No ring was in the package. The manager at the store said she couldnt do anything and to submit a claim on the XXXX app that the item was not received. That claim was denied. In the interim I contacted the Nordstrom credit card I used to purchase the ring and they opened a claim. While waiting I went back to the store to resolve and again they said they couldnt do anything. I had already emailed Nordstrom.com multiple times. Also emailed their delivery department. No one has helped me. I just received a letter saying after their investigation they decided the charge was correct because the store said the item was in the box and that I had to pay the {$4600.00}. All they did was send me back to the XXXX store. I do not have the item I was charged for and Nordstrom credit card has done nothing to protect me as the consumer."
+}
+
+Chunk:
+i purchased a ring on xxxx for pick up at my local xxxxxxxx xxxx store in xxxx, ca. the order was fulfilled by a xxxx store in new york. the order was not fulfilled by the estimated date and i was never asked if i wanted to cancel my order. i went to pick up the item when it finally arrived only to open it and the jewelry pouch was empty. it was only the pouch. no ring was in the package. the manager at the store said she couldnt do anything and to submit a claim on the xxxx app that the item was not received. that claim was denied. in the interim i contacted the nordstrom credit card i used to purchase the ring and they opened a claim. while waiting i went back to the store to resolve and again they said they couldnt do anything. i had already emailed nordstrom. com multiple times. also emailed their delivery department. no one has helped me. i just received a letter saying after their investigation they decided the charge was correct because the store said the item was in the box and that i had to pay the { $ 4600. 00 }. all they did was send me back to the xxxx store. i do not have the item i was charged for and nordstrom credit card has done nothing to protect me as the consumer.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994162321090698
+}

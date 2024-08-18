@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9037027,
+  "complaint_id": "9037027",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I paid a credit card deposit to XXXX XXXX XXXX of {$1200.00}. \nXX/XX/XXXX I paid an additional credit card of {$300.00} deposit to XXXX XXXX XXXX. \nXX/XX/XXXX XXXX sent XXXX XXXX XXXX XXXX movers XX/XX/XXXX after several delays XXXX, the delivery driver, arrived to deliver my belongings but only brought half. \nXX/XX/XXXX after a week of calling the movers they said \" we looked everywhere, we can't find your things. We marked it lost, so you can stop calling and file a claim. '' Since this meant they \" lost '' over {$50000.00} of my belongings and refused to provide me with the GPS and digital tracking they claim to have, I disputed the charges since they failed to provide the service they promised which was safe delivery of my entire inventory. \nI was refunded the {$300.00} deposit from XX/XX/XXXX, but USAA said initially that the other financial institution refused to refund the {$1200.00} deposit. I reopened the dispute mutiple times with USAA and the credit card department agreed that it should be refunded, but they told me each time that a different department handled disputes and each time that dispute was refused. \nI then filed a small claim against the movers and had my claims hearing on XX/XX/XXXX. The movers never showed and I was awarded the full amount claimed. The movers did not pay the judgement within the 30 days, so in XX/XX/XXXX, I again reopened the dispute with USAA and uploaded the court judgement that stated that the company owes me the money and getting denied yet again, I asked that the dispute be escalated and at the final escalation the only explanation they had for declining it was that the timeframe to file the dispute had passed. So they agreed that the dispute was valid, but they acted like I was making a new dispute rather than reopening the original dispute. \nI do not believe that is an acceptable excuse to refuse to refund the money as the court process takes time that I can not rush and then after the judgement I had to allow 30 days for the company to abide by the court judgement. I also was not making a new dispute, I was reopening a dispute that was filed well within the timeframe. The refusal to refund the money has no justification. The {$300.00} was refunded based on the exact same dispute, so the {$1200.00} must also be refunded since both disputes had the same justification.",
+  "date_sent_to_company": "2024-05-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48237",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-05-17T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes complaint represents an opportunity for improvement to better serve consumers",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XX/XX/XXXX I paid a credit card deposit to XXXX XXXX XXXX of {$1200.00}. \nXX/XX/XXXX I paid an additional credit card of {$300.00} deposit to XXXX XXXX XXXX. \nXX/XX/XXXX XXXX sent XXXX XXXX XXXX XXXX movers XX/XX/XXXX after several delays XXXX, the delivery driver, arrived to deliver my belongings but only brought half. \nXX/XX/XXXX after a week of calling the movers they said \" we looked everywhere, we can't find your things. We marked it lost, so you can stop calling and file a claim. '' Since this meant they \" lost '' over {$50000.00} of my belongings and refused to provide me with the GPS and digital tracking they claim to have, I disputed the charges since they failed to provide the service they promised which was safe delivery of my entire inventory. \nI was refunded the {$300.00} deposit from XX/XX/XXXX, but USAA said initially that the other financial institution refused to refund the {$1200.00} deposit. I reopened the dispute mutiple times with USAA and the credit card department agreed that it should be refunded, but they told me each time that a different department handled disputes and each time that dispute was refused. \nI then filed a small claim against the movers and had my claims hearing on XX/XX/XXXX. The movers never showed and I was awarded the full amount claimed. The movers did not pay the judgement within the 30 days, so in XX/XX/XXXX, I again reopened the dispute with USAA and uploaded the court judgement that stated that the company owes me the money and getting denied yet again, I asked that the dispute be escalated and at the final escalation the only explanation they had for declining it was that the timeframe to file the dispute had passed. So they agreed that the dispute was valid, but they acted like I was making a new dispute rather than reopening the original dispute. \nI do not believe that is an acceptable excuse to refuse to refund the money as the court process takes time that I can not rush and then after the judgement I had to allow 30 days for the company to abide by the court judgement. I also was not making a new dispute, I was reopening a dispute that was filed well within the timeframe. The refusal to refund the money has no justification. The {$300.00} was refunded based on the exact same dispute, so the {$1200.00} must also be refunded since both disputes had the same justification."
+}
+
+Chunk:
+the timeframe. the refusal to refund the money has no justification. the { $ 300. 00 } was refunded based on the exact same dispute, so the { $ 1200. 00 } must also be refunded since both disputes had the same justification.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996658563613892
+}

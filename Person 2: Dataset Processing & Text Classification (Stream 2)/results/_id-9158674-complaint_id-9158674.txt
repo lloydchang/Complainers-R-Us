@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9158674,
+  "complaint_id": "9158674",
+  "product": "Credit card",
+  "complaint_what_happened": "I received a notice through the mail from Comenity Capital Bank that the Ulta Beauty Rewards Mastercard I applied for on XX/XX/2024 could not be opened due to a credit freeze being placed on my account. I did not apply for this card, it was done without my knowledge or permission. Luckily this identity theft was stopped this time by the credit freeze but I want to file this complaint so the matter is on record.",
+  "date_sent_to_company": "2024-06-04T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "40165",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "Bread Financial Holdings, Inc.",
+  "date_received": "2024-06-04T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "I received a notice through the mail from Comenity Capital Bank that the Ulta Beauty Rewards Mastercard I applied for on XX/XX/2024 could not be opened due to a credit freeze being placed on my account. I did not apply for this card, it was done without my knowledge or permission. Luckily this identity theft was stopped this time by the credit freeze but I want to file this complaint so the matter is on record."
+}
+
+Chunk:
+i received a notice through the mail from comenity capital bank that the ulta beauty rewards mastercard i applied for on xx / xx / 2024 could not be opened due to a credit freeze being placed on my account. i did not apply for this card, it was done without my knowledge or permission. luckily this identity theft was stopped this time by the credit freeze but i want to file this complaint so the matter is on record.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9936063289642334
+}

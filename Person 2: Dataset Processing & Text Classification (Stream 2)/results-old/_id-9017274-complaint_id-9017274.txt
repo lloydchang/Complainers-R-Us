@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9017274,
+  "complaint_id": "9017274",
+  "product": "Credit card",
+  "complaint_what_happened": "In XX/XX/2024, we opened a XXXXXXXX XXXX XXXXXXXX credit card ( serviced by Synchrony Bank ) that offered 0 % interest on purchases for 18 months. On XX/XX/2024, we received a letter from Synchrony Bank that they intend to charge a {$1.00} per month for a monthly paper statement and that they intended to charge a 2 % Promotional Fee on purchases to our account. While we were able to pay the remaining balance and close the account, for anyone not in a position to do that would incur unexpected fees and interest charges with little warning. They also charged a late because we did not provide a payment ( we were not obligated to make any payments for 18 months ). This company appears to suck you into a great no interest for 18 months then charge you late fees for not making any payments which they claim to be waived for the initial 18 months. Please call if you need any further information.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "284XX",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "In XX/XX/2024, we opened a XXXXXXXX XXXX XXXXXXXX credit card ( serviced by Synchrony Bank ) that offered 0 % interest on purchases for 18 months. On XX/XX/2024, we received a letter from Synchrony Bank that they intend to charge a {$1.00} per month for a monthly paper statement and that they intended to charge a 2 % Promotional Fee on purchases to our account. While we were able to pay the remaining balance and close the account, for anyone not in a position to do that would incur unexpected fees and interest charges with little warning. They also charged a late because we did not provide a payment ( we were not obligated to make any payments for 18 months ). This company appears to suck you into a great no interest for 18 months then charge you late fees for not making any payments which they claim to be waived for the initial 18 months. Please call if you need any further information."
+}
+
+Chunk:
+in xx / xx / 2024, we opened a xxxxxxxx xxxx xxxxxxxx credit card ( serviced by synchrony bank ) that offered 0 % interest on purchases for 18 months. on xx / xx / 2024, we received a letter from synchrony bank that they intend to charge a { $ 1. 00 } per month for a monthly paper statement and that they intended to charge a 2 % promotional fee on purchases to our account. while we were able to pay the remaining balance and close the account, for anyone not in a position to do that would incur unexpected fees and interest charges with little warning. they also charged a late because we did not provide a payment ( we were not obligated to make any payments for 18 months ). this company appears to suck you into a great no interest for 18 months then charge you late fees for not making any payments which they claim to be waived for the initial 18 months. please call if you need any further information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.996809184551239
+}

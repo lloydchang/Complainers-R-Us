@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9524960,
+  "complaint_id": "9524960",
+  "product": "Credit card",
+  "complaint_what_happened": "My credit card was charged through my XXXX account when it was hacked. I reported the fraud to XXXX and they said they would remove it. When they didn't I disputed it with my Credit Card company Citi Bank. Last week they closed the investigation saying I owe the charges. I spoke with Supervisor XXXX in the Fraud department and after asking me if I had every used XXXX in my life and I said yes she said then its not fraud. She refused to hear the details of my card being hacked. I have spoken with their department multiple times and they are just giving me the run around. The Fraud happened on XX/XX/year> and the Dispute began on XXXX. Today Citi charged me {$1300.00} and {$330.00} in my account",
+  "date_sent_to_company": "2024-07-17T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-17T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "My credit card was charged through my XXXX account when it was hacked. I reported the fraud to XXXX and they said they would remove it. When they didn't I disputed it with my Credit Card company Citi Bank. Last week they closed the investigation saying I owe the charges. I spoke with Supervisor XXXX in the Fraud department and after asking me if I had every used XXXX in my life and I said yes she said then its not fraud. She refused to hear the details of my card being hacked. I have spoken with their department multiple times and they are just giving me the run around. The Fraud happened on XX/XX/year> and the Dispute began on XXXX. Today Citi charged me {$1300.00} and {$330.00} in my account"
+}
+
+Chunk:
+my credit card was charged through my xxxx account when it was hacked. i reported the fraud to xxxx and they said they would remove it. when they didn't i disputed it with my credit card company citi bank. last week they closed the investigation saying i owe the charges. i spoke with supervisor xxxx in the fraud department and after asking me if i had every used xxxx in my life and i said yes she said then its not fraud. she refused to hear the details of my card being hacked. i have spoken with their department multiple times and they are just giving me the run around. the fraud happened on xx / xx / year > and the dispute began on xxxx. today citi charged me { $ 1300. 00 } and { $ 330. 00 } in my account
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9961374402046204
+}

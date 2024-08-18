@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9128449,
+  "complaint_id": "9128449",
+  "product": "Credit card",
+  "complaint_what_happened": "Multiple credit cards were opened up and purchases were made with credit cards in my name that are fraudulent and not made by me. \nI have contacted Macys/Citi Bank multiple times and they have incorrect information and are reporting incorrectly on my credit report. They have an account and credit card opened up in a name that is NOT MY LEGAL GOVERNMENT NAME",
+  "date_sent_to_company": "2024-05-29T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "08330",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-05-29T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "Multiple credit cards were opened up and purchases were made with credit cards in my name that are fraudulent and not made by me. \nI have contacted Macys/Citi Bank multiple times and they have incorrect information and are reporting incorrectly on my credit report. They have an account and credit card opened up in a name that is NOT MY LEGAL GOVERNMENT NAME"
+}
+
+Chunk:
+multiple credit cards were opened up and purchases were made with credit cards in my name that are fraudulent and not made by me. i have contacted macys / citi bank multiple times and they have incorrect information and are reporting incorrectly on my credit report. they have an account and credit card opened up in a name that is not my legal government name
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9953653812408447
+}

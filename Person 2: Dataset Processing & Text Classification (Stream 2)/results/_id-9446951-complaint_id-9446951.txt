@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9446951,
+  "complaint_id": "9446951",
+  "product": "Credit card",
+  "complaint_what_happened": "Went into Old Navy and bought a couple of things. At the register their POS said XXXX XXXX XXXX for the credit card. The clerk said XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  ... but alas the card was declined. This is so deceitful. I am sure in the fine print somewhere it says something. My problem is the wording. It didn't say XXXX XXXX XXXX XXXX. I know a lot of times an in-store app is XXXX because they can positively ID someone. But how can Old Navy and Barclays get away with this wording? This seems like pure and utter deceit to increase apps. But corporate is in on it! The clerk certainly couldn't have done anything to the POS. The interesting part too is I knew it declined because I had to pay with a different card. When questioned, the clerk said \" It has to go through final processing. You'll get the card in the mail in about XXXX  days ''. How? Just how are they getting away with this?",
+  "date_sent_to_company": "2024-07-06T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "98007",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-06T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Application denied",
+  "text": "Went into Old Navy and bought a couple of things. At the register their POS said XXXX XXXX XXXX for the credit card. The clerk said XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  ... but alas the card was declined. This is so deceitful. I am sure in the fine print somewhere it says something. My problem is the wording. It didn't say XXXX XXXX XXXX XXXX. I know a lot of times an in-store app is XXXX because they can positively ID someone. But how can Old Navy and Barclays get away with this wording? This seems like pure and utter deceit to increase apps. But corporate is in on it! The clerk certainly couldn't have done anything to the POS. The interesting part too is I knew it declined because I had to pay with a different card. When questioned, the clerk said \" It has to go through final processing. You'll get the card in the mail in about XXXX  days ''. How? Just how are they getting away with this?"
+}
+
+Chunk:
+went into old navy and bought a couple of things. at the register their pos said xxxx xxxx xxxx for the credit card. the clerk said xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx... but alas the card was declined. this is so deceitful. i am sure in the fine print somewhere it says something. my problem is the wording. it didn't say xxxx xxxx xxxx xxxx. i know a lot of times an in - store app is xxxx because they can positively id someone. but how can old navy and barclays get away with this wording? this seems like pure and utter deceit to increase apps. but corporate is in on it! the clerk certainly couldn't have done anything to the pos. the interesting part too is i knew it declined because i had to pay with a different card. when questioned, the clerk said " it has to go through final processing. you'll get the card in the mail in about xxxx days''. how? just how are they getting away with this?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9984270334243774
+}

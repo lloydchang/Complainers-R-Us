@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9230581,
+  "complaint_id": "9230581",
+  "product": "Credit card",
+  "complaint_what_happened": "I am disputing a transaction that I did not make from last year, XX/XX/year> and while waiting for an update that is taking much longer than it should I have collected interest and fees.",
+  "date_sent_to_company": "2024-06-11T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "76107",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-11T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I am disputing a transaction that I did not make from last year, XX/XX/year> and while waiting for an update that is taking much longer than it should I have collected interest and fees."
+}
+
+Chunk:
+i am disputing a transaction that i did not make from last year, xx / xx / year > and while waiting for an update that is taking much longer than it should i have collected interest and fees.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995866417884827
+}

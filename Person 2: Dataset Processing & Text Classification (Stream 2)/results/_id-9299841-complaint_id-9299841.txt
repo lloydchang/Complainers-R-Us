@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9299841,
+  "complaint_id": "9299841",
+  "product": "Credit card",
+  "complaint_what_happened": "was charged an over draft fee of {$40.00} XXXX mc charge card # XXXX, exp XX/XX/year> XXXX XXXX. sent 4 charge card payments car payment and 2 utilities, bills in at postoffice at the same time, not one was late, were mailed with plenty of time, got late payment notice in mail, made emergency payment on XXXX on XX/XX/XXXX they cashed the check for {$260.00} which must have mysteriously arrived! I ussuly pay the account on line, but this time mailed it in, I haven't been late on a payment in 40 years, this a good way for the charge card companies to raise the already high interest rate and if they do this to a few thousand people, I'm sure the CEO 'S get a huge bonus Sincerely XXXX XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-06-19T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "53066",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-06-19T12:00:00-05:00",
+  "state": "WI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "was charged an over draft fee of {$40.00} XXXX mc charge card # XXXX, exp XX/XX/year> XXXX XXXX. sent 4 charge card payments car payment and 2 utilities, bills in at postoffice at the same time, not one was late, were mailed with plenty of time, got late payment notice in mail, made emergency payment on XXXX on XX/XX/XXXX they cashed the check for {$260.00} which must have mysteriously arrived! I ussuly pay the account on line, but this time mailed it in, I haven't been late on a payment in 40 years, this a good way for the charge card companies to raise the already high interest rate and if they do this to a few thousand people, I'm sure the CEO 'S get a huge bonus Sincerely XXXX XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+was charged an over draft fee of { $ 40. 00 } xxxx mc charge card # xxxx, exp xx / xx / year > xxxx xxxx. sent 4 charge card payments car payment and 2 utilities, bills in at postoffice at the same time, not one was late, were mailed with plenty of time, got late payment notice in mail, made emergency payment on xxxx on xx / xx / xxxx they cashed the check for { $ 260. 00 } which must have mysteriously arrived! i ussuly pay the account on line, but this time mailed it in, i haven't been late on a payment in 40 years, this a good way for the charge card companies to raise the already high interest rate and if they do this to a few thousand people, i'm sure the ceo's get a huge bonus sincerely xxxx xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.5246465802192688
+}

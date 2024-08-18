@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9305353,
+  "complaint_id": "9305353",
+  "product": "Credit card",
+  "complaint_what_happened": "I added my child as an addon user to my Citibank DoubleCash credit card to help build credit history. I was asked to sign and send a form SSA-89 which I signed and sent back as the father of my minor child. However I got a letter in the mail after a couple of months from Citi saying that they were unable to get the SSN verified and that I should contact them. I contacted Citi over phone and the representative had no information about the case. She told me that I would be contacted by Citi but that turned out be a false promise since no one from Citi ever contacted me to get my issue fixed.",
+  "date_sent_to_company": "2024-06-21T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "98028",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-21T12:00:00-05:00",
+  "state": "WA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with customer service",
+  "text": "I added my child as an addon user to my Citibank DoubleCash credit card to help build credit history. I was asked to sign and send a form SSA-89 which I signed and sent back as the father of my minor child. However I got a letter in the mail after a couple of months from Citi saying that they were unable to get the SSN verified and that I should contact them. I contacted Citi over phone and the representative had no information about the case. She told me that I would be contacted by Citi but that turned out be a false promise since no one from Citi ever contacted me to get my issue fixed."
+}
+
+Chunk:
+i added my child as an addon user to my citibank doublecash credit card to help build credit history. i was asked to sign and send a form ssa - 89 which i signed and sent back as the father of my minor child. however i got a letter in the mail after a couple of months from citi saying that they were unable to get the ssn verified and that i should contact them. i contacted citi over phone and the representative had no information about the case. she told me that i would be contacted by citi but that turned out be a false promise since no one from citi ever contacted me to get my issue fixed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995157718658447
+}

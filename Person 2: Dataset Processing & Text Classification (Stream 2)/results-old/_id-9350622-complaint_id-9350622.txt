@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9350622,
+  "complaint_id": "9350622",
+  "product": "Credit card",
+  "complaint_what_happened": "I am writing to formally lodge a complaint regarding an unresolved chargeback issue involving my Citi credit card. Despite following the appropriate steps and contacting the merchant, who has confirmed that the refund has been processed on their end, I have yet to receive the credited funds from Citi. \n\nHere are the details of my situation : Merchant Interaction : I contacted the merchant directly regarding the transaction dispute. The merchant assured me that the chargeback had been completed successfully, and the funds had been withdrawn from their account as part of this process. \n\nCitis Inaction : Despite the merchants confirmation and my multiple attempts to resolve this matter with Citi, the funds have not been returned to my account. Citi continues to hold these funds without providing a legitimate explanation for the delay. \n\nThis situation has caused me significant inconvenience and financial strain. I believe that Citis failure to process the refund promptly is unacceptable and warrants your immediate attention. \n\nI am requesting the Consumer Financial Protection Bureaus intervention to resolve this matter expediently. If my claim is not resolved promptly, I will have no choice but to consider legal action to recover the funds that are rightfully mine. \n\nPlease find attached all relevant documentation, including correspondence with the merchant and Citi, as well as any other pertinent information to support my claim. \n\nThank you for your prompt attention to this matter. I look forward to a swift resolution.",
+  "date_sent_to_company": "2024-06-26T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "33180",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-26T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am writing to formally lodge a complaint regarding an unresolved chargeback issue involving my Citi credit card. Despite following the appropriate steps and contacting the merchant, who has confirmed that the refund has been processed on their end, I have yet to receive the credited funds from Citi. \n\nHere are the details of my situation : Merchant Interaction : I contacted the merchant directly regarding the transaction dispute. The merchant assured me that the chargeback had been completed successfully, and the funds had been withdrawn from their account as part of this process. \n\nCitis Inaction : Despite the merchants confirmation and my multiple attempts to resolve this matter with Citi, the funds have not been returned to my account. Citi continues to hold these funds without providing a legitimate explanation for the delay. \n\nThis situation has caused me significant inconvenience and financial strain. I believe that Citis failure to process the refund promptly is unacceptable and warrants your immediate attention. \n\nI am requesting the Consumer Financial Protection Bureaus intervention to resolve this matter expediently. If my claim is not resolved promptly, I will have no choice but to consider legal action to recover the funds that are rightfully mine. \n\nPlease find attached all relevant documentation, including correspondence with the merchant and Citi, as well as any other pertinent information to support my claim. \n\nThank you for your prompt attention to this matter. I look forward to a swift resolution."
+}
+
+Chunk:
+i am writing to formally lodge a complaint regarding an unresolved chargeback issue involving my citi credit card. despite following the appropriate steps and contacting the merchant, who has confirmed that the refund has been processed on their end, i have yet to receive the credited funds from citi. here are the details of my situation : merchant interaction : i contacted the merchant directly regarding the transaction dispute. the merchant assured me that the chargeback had been completed successfully, and the funds had been withdrawn from their account as part of this process. citis inaction : despite the merchants confirmation and my multiple attempts to resolve this matter with citi, the funds have not been returned to my account. citi continues to hold these funds without providing a legitimate explanation for the delay. this situation has caused me significant inconvenience and financial strain. i believe that citis failure to process the refund promptly is unacceptable and warrants your immediate attention. i am requesting the consumer financial protection bureaus intervention to resolve this matter expediently. if my claim is not resolved promptly, i will have no choice but to consider legal action to recover the funds that are rightfully mine. please find attached all relevant documentation, including correspondence with the merchant and citi, as well as any other pertinent information to support my claim. thank you for your prompt attention to this matter. i look forward to a swift resolution.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9897869825363159
+}

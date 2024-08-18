@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9516833,
+  "complaint_id": "9516833",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX XXXX admittedly charged us improperly ( totaling {$1000.00} ) on our Barclays XXXX XXXX AAdvantage Aviator Mastercard on XX/XX/year>. I have spoken to several representatives on the XXXX XXXX XXXX XXXX line and all have said we are due compensation however they can not issue the refund and only the refund department can do that. The XXXX XXXX XXXX department is non-responsive so we tried to dispute the charge through the credit card company. When filing the initial dispute with Barclays the representative told me it is very difficult to dispute a charge with the affiliate who is branding the card. I asked for the dispute anyways. Barclays sent a letter with the case numbers ( XXXX {$620.00}, XXXX {$620.00}, XXXX {$35.00}, and XXXX {$35.00} ). The letter stated a dispute XXXX was assigned and they would reach out if they needed more information, nowhere in the letter did it provide a way for me to submit information. Seven days later I received a notification in my credit card online account that they closed the dispute due to me not providing them information. I called to ask why nobody ever contacted me and they said the only way to reopen the dispute is to fax or mail in a request to reopen the dispute. I faxed the request in with details of all the ticket numbers and amounts and they still refuse to reopen the dispute. They are clearly not disputing it because it is a co-branded card with the merchant. I have copies of all the letters received, notes from my various calls with XXXX XXXX customer service reps which have all of the reservation and ticket numbers, and finally an XXXX spreadsheet accounting for the improper charges.",
+  "date_sent_to_company": "2024-07-15T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "37343",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BARCLAYS BANK DELAWARE",
+  "date_received": "2024-07-15T12:00:00-05:00",
+  "state": "TN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "XXXX XXXX admittedly charged us improperly ( totaling {$1000.00} ) on our Barclays XXXX XXXX AAdvantage Aviator Mastercard on XX/XX/year>. I have spoken to several representatives on the XXXX XXXX XXXX XXXX line and all have said we are due compensation however they can not issue the refund and only the refund department can do that. The XXXX XXXX XXXX department is non-responsive so we tried to dispute the charge through the credit card company. When filing the initial dispute with Barclays the representative told me it is very difficult to dispute a charge with the affiliate who is branding the card. I asked for the dispute anyways. Barclays sent a letter with the case numbers ( XXXX {$620.00}, XXXX {$620.00}, XXXX {$35.00}, and XXXX {$35.00} ). The letter stated a dispute XXXX was assigned and they would reach out if they needed more information, nowhere in the letter did it provide a way for me to submit information. Seven days later I received a notification in my credit card online account that they closed the dispute due to me not providing them information. I called to ask why nobody ever contacted me and they said the only way to reopen the dispute is to fax or mail in a request to reopen the dispute. I faxed the request in with details of all the ticket numbers and amounts and they still refuse to reopen the dispute. They are clearly not disputing it because it is a co-branded card with the merchant. I have copies of all the letters received, notes from my various calls with XXXX XXXX customer service reps which have all of the reservation and ticket numbers, and finally an XXXX spreadsheet accounting for the improper charges."
+}
+
+Chunk:
+xxxx xxxx admittedly charged us improperly ( totaling { $ 1000. 00 } ) on our barclays xxxx xxxx aadvantage aviator mastercard on xx / xx / year >. i have spoken to several representatives on the xxxx xxxx xxxx xxxx line and all have said we are due compensation however they can not issue the refund and only the refund department can do that. the xxxx xxxx xxxx department is non - responsive so we tried to dispute the charge through the credit card company. when filing the initial dispute with barclays the representative told me it is very difficult to dispute a charge with the affiliate who is branding the card. i asked for the dispute anyways. barclays sent a letter with the case numbers ( xxxx { $ 620. 00 }, xxxx { $ 620. 00 }, xxxx { $ 35. 00 }, and xxxx { $ 35. 00 } ). the letter stated a dispute xxxx was assigned and they would reach out if they needed more information, nowhere in the letter did it provide a way for me to submit information. seven days later i received a notification in my credit card online account that they closed the dispute due to me not providing them information. i called to ask why nobody ever contacted me and they said the only way to reopen the dispute is to fax or mail in a request to reopen the dispute. i faxed the request in with details of all the ticket numbers and amounts and they still refuse to reopen the dispute. they are clearly not disputing it because it is a co - branded card with the merchant. i have copies of all the letters received, notes from my various calls with xxxx xxxx customer service reps which have all of the reservation and ticket numbers, and finally an xxxx spreadsheet accounting for the improper charges.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992445707321167
+}

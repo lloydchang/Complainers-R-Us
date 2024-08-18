@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9215002,
+  "complaint_id": "9215002",
+  "product": "Credit card",
+  "complaint_what_happened": "I have a XXXX XXXX. A few monthes ago I asked for my interest rate to be lowered. She said I could go on a program to help me and it was available for XXXX  monthes. I signed up for this. When I went to pay my following payment the website and everything was gone. After figuring out who to contact I was not given access to my account. I always had paid on the website. I was told that I was on a hardship program and since my card was expired and I had asked for a new one to be sent during the intial conversation about my interest rate that a new card was not being sent. I was then told that my address was wrong they would not change it over the phone. I literally had to email a picture with a letter of my address. After all of this I still was not given access to my account. I called several times and told I can pay on the phone. I told them I was not blindly paying something that I could not see. I asked for statements to be sent. I never received one. Finally on XX/XX/XXXX amd this has been since my XXXX payment I spoke to a woman who helped me to get into my account. Was able to walk me through the entire sign up process. I then made a payment. When I submitted the payment it just kept saying processing. Then after a couple minutes it said processed. On XX/XX/XXXX I checked the history and pending payments and did not see anything. I started a chat on the site and the person said it was there and she could see it. On XX/XX/XXXX I saw it was still not there and had never come out of my account. I went on and paid again. I started another chat asking if they could see the history. They told me no that there is not a way for them to see the conversation I had on the XXXX. Yet it states when you chat that it may be recorded. So again makes no sense. Now on my credit report it states as of XX/XX/XXXX that I am behind. This is ridiculous. XXXX  XXXX was taken over by Continental Finance. They have not tried to help me in anyway. I want this off my report. This has been the worse experience I have ever had. I have never had an issue with a company like this. I do not understand how they are allowed to do this. I want my credit report fixed from them and for them to take responsibility. I have read that several people have had this same issue. So if I am not the only one how are they allowed to get away with this. I want this to be an official complaint. My next step will be an attorney if I need to. I want to purchase a house and this just set me back with the broker.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "165XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "Continental Finance Company, LLC",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "I have a XXXX XXXX. A few monthes ago I asked for my interest rate to be lowered. She said I could go on a program to help me and it was available for XXXX  monthes. I signed up for this. When I went to pay my following payment the website and everything was gone. After figuring out who to contact I was not given access to my account. I always had paid on the website. I was told that I was on a hardship program and since my card was expired and I had asked for a new one to be sent during the intial conversation about my interest rate that a new card was not being sent. I was then told that my address was wrong they would not change it over the phone. I literally had to email a picture with a letter of my address. After all of this I still was not given access to my account. I called several times and told I can pay on the phone. I told them I was not blindly paying something that I could not see. I asked for statements to be sent. I never received one. Finally on XX/XX/XXXX amd this has been since my XXXX payment I spoke to a woman who helped me to get into my account. Was able to walk me through the entire sign up process. I then made a payment. When I submitted the payment it just kept saying processing. Then after a couple minutes it said processed. On XX/XX/XXXX I checked the history and pending payments and did not see anything. I started a chat on the site and the person said it was there and she could see it. On XX/XX/XXXX I saw it was still not there and had never come out of my account. I went on and paid again. I started another chat asking if they could see the history. They told me no that there is not a way for them to see the conversation I had on the XXXX. Yet it states when you chat that it may be recorded. So again makes no sense. Now on my credit report it states as of XX/XX/XXXX that I am behind. This is ridiculous. XXXX  XXXX was taken over by Continental Finance. They have not tried to help me in anyway. I want this off my report. This has been the worse experience I have ever had. I have never had an issue with a company like this. I do not understand how they are allowed to do this. I want my credit report fixed from them and for them to take responsibility. I have read that several people have had this same issue. So if I am not the only one how are they allowed to get away with this. I want this to be an official complaint. My next step will be an attorney if I need to. I want to purchase a house and this just set me back with the broker."
+}
+
+Chunk:
+to take responsibility. i have read that several people have had this same issue. so if i am not the only one how are they allowed to get away with this. i want this to be an official complaint. my next step will be an attorney if i need to. i want to purchase a house and this just set me back with the broker.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9985175728797913
+}

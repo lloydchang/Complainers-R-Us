@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9159506,
+  "complaint_id": "9159506",
+  "product": "Credit card",
+  "complaint_what_happened": "The following inquiries were not authorized by me, please delete them. Never having given my permission for them to inquire about my credit status, they are unauthorized by me. Their continued presence on my credit report constitutes inaccurate information, which under the Fair Credit Reporting Act, must be removed. \n\nXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXX/XX/year> Furthermore, I would appreciate the names, addresses, and phone numbers of these companies so I may follow up. \n\nYour immediate attention to is matter is greatly appreciated.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "34677",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Application denied",
+  "text": "The following inquiries were not authorized by me, please delete them. Never having given my permission for them to inquire about my credit status, they are unauthorized by me. Their continued presence on my credit report constitutes inaccurate information, which under the Fair Credit Reporting Act, must be removed. \n\nXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXX/XX/year> Furthermore, I would appreciate the names, addresses, and phone numbers of these companies so I may follow up. \n\nYour immediate attention to is matter is greatly appreciated."
+}
+
+Chunk:
+the following inquiries were not authorized by me, please delete them. never having given my permission for them to inquire about my credit status, they are unauthorized by me. their continued presence on my credit report constitutes inaccurate information, which under the fair credit reporting act, must be removed. xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxxxx / xx / year > furthermore, i would appreciate the names, addresses, and phone numbers of these companies so i may follow up. your immediate attention to is matter is greatly appreciated.
+
+Result:
+{
+  "label": "POSITIVE",
+  "score": 0.9912329316139221
+}

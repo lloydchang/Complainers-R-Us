@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9085359,
+  "complaint_id": "9085359",
+  "product": "Credit card",
+  "complaint_what_happened": "I have been set up for bill payment alerts since at least XX/XX/year>. I get notifications whenever I schedule a payment or XXXX posts. The past XXXX months I received an alert that states my payment is overdue ( wasnt made ) with an associated late charge. Last month I thought perhaps I missed the alert that was payment was coming due and hasnt been made but this month I did not receive an alert as well. I searched their online help and found an article explaining alerts which I attached screen shot of. I also attached screen shot of the XXXX XXXX set up for payments that shows Im opted in and what I have had set up all along. What I learned today is that you have to go to their All Setting tab, scroll down and manually toggle the Payment Due alert on. All the other payment alerts are on already but this most important one requires manual set up? This seems very predatory to me as they get late fees when they dont send payment due alerts. I spoke with a representative who did reverse my late charges and a second representative in online/mobile banking who I expressed my concern over. He said he could take a note but that he couldnt change it and it wouldnt be changed unless they received enough complaints about it. He encouraged me to file a complaint with CFPB. They way their articles and quick alerts are stated, there would be no way a consumer would understand they need to set up payment alerts separately. This needs to be fixed. In the mean time, all consumers need to be aware that they need to manually turn this feature on.",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "95829",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I have been set up for bill payment alerts since at least XX/XX/year>. I get notifications whenever I schedule a payment or XXXX posts. The past XXXX months I received an alert that states my payment is overdue ( wasnt made ) with an associated late charge. Last month I thought perhaps I missed the alert that was payment was coming due and hasnt been made but this month I did not receive an alert as well. I searched their online help and found an article explaining alerts which I attached screen shot of. I also attached screen shot of the XXXX XXXX set up for payments that shows Im opted in and what I have had set up all along. What I learned today is that you have to go to their All Setting tab, scroll down and manually toggle the Payment Due alert on. All the other payment alerts are on already but this most important one requires manual set up? This seems very predatory to me as they get late fees when they dont send payment due alerts. I spoke with a representative who did reverse my late charges and a second representative in online/mobile banking who I expressed my concern over. He said he could take a note but that he couldnt change it and it wouldnt be changed unless they received enough complaints about it. He encouraged me to file a complaint with CFPB. They way their articles and quick alerts are stated, there would be no way a consumer would understand they need to set up payment alerts separately. This needs to be fixed. In the mean time, all consumers need to be aware that they need to manually turn this feature on."
+}
+
+Chunk:
+i have been set up for bill payment alerts since at least xx / xx / year >. i get notifications whenever i schedule a payment or xxxx posts. the past xxxx months i received an alert that states my payment is overdue ( wasnt made ) with an associated late charge. last month i thought perhaps i missed the alert that was payment was coming due and hasnt been made but this month i did not receive an alert as well. i searched their online help and found an article explaining alerts which i attached screen shot of. i also attached screen shot of the xxxx xxxx set up for payments that shows im opted in and what i have had set up all along. what i learned today is that you have to go to their all setting tab, scroll down and manually toggle the payment due alert on. all the other payment alerts are on already but this most important one requires manual set up? this seems very predatory to me as they get late fees when they dont send payment due alerts. i spoke with a representative who did reverse my late charges and a second representative in online / mobile banking who i expressed my concern over. he said he could take a note but that he couldnt change it and it wouldnt be changed unless they received enough complaints about it. he encouraged me to file a complaint with cfpb. they way their articles and quick alerts are stated, there would be no way a consumer would understand they need to set up payment alerts separately. this needs to be fixed. in the mean time, all consumers need to be aware that they need to manually turn this feature on.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987316727638245
+}

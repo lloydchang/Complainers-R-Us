@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9071835,
+  "complaint_id": "9071835",
+  "product": "Credit card",
+  "complaint_what_happened": "I am trying to remove my authorization from JPMorgan credit card. I called JPMorgan Chase credit card member services to ask for the removal of my information and authorization from this account but the said to me, I couldn't remove myself from the account. The member services representative said I had to get the card holder to call or get on the app to release my information.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "19138",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "In progress",
+  "submitted_via": "Web",
+  "company": "JPMORGAN CHASE & CO.",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "PA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Can't close your account",
+  "text": "I am trying to remove my authorization from JPMorgan credit card. I called JPMorgan Chase credit card member services to ask for the removal of my information and authorization from this account but the said to me, I couldn't remove myself from the account. The member services representative said I had to get the card holder to call or get on the app to release my information."
+}
+
+Chunk:
+i am trying to remove my authorization from jpmorgan credit card. i called jpmorgan chase credit card member services to ask for the removal of my information and authorization from this account but the said to me, i couldn't remove myself from the account. the member services representative said i had to get the card holder to call or get on the app to release my information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990399479866028
+}

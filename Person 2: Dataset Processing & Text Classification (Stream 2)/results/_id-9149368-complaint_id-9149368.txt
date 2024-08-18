@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9149368,
+  "complaint_id": "9149368",
+  "product": "Credit card",
+  "complaint_what_happened": "I am disputing your claim because I have no knowledge of any account or transaction with \" CMRE FINANCIAL SERVICES, INC. '' The account number you mentioned is unfamiliar to me. You have not provided any information or documentation proving the existence of such an account, beyond your initial letter, which is insufficient. I do not recall entering into any valid contract involving this account and believe none exists. Additionally, I was a victim of identity theft, and I suspect the account in question was opened fraudulently. Unless you can provide verification of a valid contract between myself and CMRE FINANCIAL SERVICES , INC . I request that you stop sending me misleading and unwanted correspondence. If you continue with this claim, I am legally entitled to demand validation of your claim per UCC 3-501 ( b ), to verify the existence of an account that legally or financially obligates me to you.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "912XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CMRE Financial Services, Inc.",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I am disputing your claim because I have no knowledge of any account or transaction with \" CMRE FINANCIAL SERVICES, INC. '' The account number you mentioned is unfamiliar to me. You have not provided any information or documentation proving the existence of such an account, beyond your initial letter, which is insufficient. I do not recall entering into any valid contract involving this account and believe none exists. Additionally, I was a victim of identity theft, and I suspect the account in question was opened fraudulently. Unless you can provide verification of a valid contract between myself and CMRE FINANCIAL SERVICES , INC . I request that you stop sending me misleading and unwanted correspondence. If you continue with this claim, I am legally entitled to demand validation of your claim per UCC 3-501 ( b ), to verify the existence of an account that legally or financially obligates me to you."
+}
+
+Chunk:
+i am disputing your claim because i have no knowledge of any account or transaction with " cmre financial services, inc.'' the account number you mentioned is unfamiliar to me. you have not provided any information or documentation proving the existence of such an account, beyond your initial letter, which is insufficient. i do not recall entering into any valid contract involving this account and believe none exists. additionally, i was a victim of identity theft, and i suspect the account in question was opened fraudulently. unless you can provide verification of a valid contract between myself and cmre financial services, inc. i request that you stop sending me misleading and unwanted correspondence. if you continue with this claim, i am legally entitled to demand validation of your claim per ucc 3 - 501 ( b ), to verify the existence of an account that legally or financially obligates me to you.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995273351669312
+}

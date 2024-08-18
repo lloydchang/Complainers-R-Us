@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9075869,
+  "complaint_id": "9075869",
+  "product": "Credit card",
+  "complaint_what_happened": "TJX credit card will increase their interest rate to XXXX in XXXX. My question is, is there a cap on what interest rate that they can charge. Are there ANY limits for interest rate ANY credit card or can they charge whatever they want?",
+  "date_sent_to_company": "2024-05-23T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "934XX",
+  "tags": "Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-23T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Unexpected increase in interest rate",
+  "text": "TJX credit card will increase their interest rate to XXXX in XXXX. My question is, is there a cap on what interest rate that they can charge. Are there ANY limits for interest rate ANY credit card or can they charge whatever they want?"
+}
+
+Chunk:
+tjx credit card will increase their interest rate to xxxx in xxxx. my question is, is there a cap on what interest rate that they can charge. are there any limits for interest rate any credit card or can they charge whatever they want?
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9950405955314636
+}

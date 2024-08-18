@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9449929,
+  "complaint_id": "9449929",
+  "product": "Credit card",
+  "complaint_what_happened": "FNBO sent me a card not like any credit card I have its very unusable almost paper material card. They told me that the card was going to be to me the next day. This was a lie the next day was the XXXX of XXXX the card came on the XXXX. \n\nIts been close to decade of having this card my score went down XXXX points from the was they reported. This company should not be in the public domain. They harm consumers with unusual reporting. \n\nThey a one start on the XXXX XXXX  website. They should not be allowed to harm consumers.",
+  "date_sent_to_company": "2024-07-09T12:00:00-05:00",
+  "issue": "Problem with a company's investigation into an existing problem",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "90710",
+  "tags": "Older American, Servicemember",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-07-09T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Their investigation did not fix an error on your report",
+  "text": "FNBO sent me a card not like any credit card I have its very unusable almost paper material card. They told me that the card was going to be to me the next day. This was a lie the next day was the XXXX of XXXX the card came on the XXXX. \n\nIts been close to decade of having this card my score went down XXXX points from the was they reported. This company should not be in the public domain. They harm consumers with unusual reporting. \n\nThey a one start on the XXXX XXXX  website. They should not be allowed to harm consumers."
+}
+
+Chunk:
+fnbo sent me a card not like any credit card i have its very unusable almost paper material card. they told me that the card was going to be to me the next day. this was a lie the next day was the xxxx of xxxx the card came on the xxxx. its been close to decade of having this card my score went down xxxx points from the was they reported. this company should not be in the public domain. they harm consumers with unusual reporting. they a one start on the xxxx xxxx website. they should not be allowed to harm consumers.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9979098439216614
+}

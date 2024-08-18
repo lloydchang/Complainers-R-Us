@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9160171,
+  "complaint_id": "9160171",
+  "product": "Credit card",
+  "complaint_what_happened": "I am trying to dispute a transaction made with my credit card for an ongoing service. The bank is stating I can't dispute a transaction because I already disputed it once and canceled it because the company resolved the issue.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "30909",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "GA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I am trying to dispute a transaction made with my credit card for an ongoing service. The bank is stating I can't dispute a transaction because I already disputed it once and canceled it because the company resolved the issue."
+}
+
+Chunk:
+i am trying to dispute a transaction made with my credit card for an ongoing service. the bank is stating i can't dispute a transaction because i already disputed it once and canceled it because the company resolved the issue.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974911212921143
+}

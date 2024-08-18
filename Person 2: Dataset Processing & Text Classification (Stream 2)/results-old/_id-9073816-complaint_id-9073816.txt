@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9073816,
+  "complaint_id": "9073816",
+  "product": "Credit card",
+  "complaint_what_happened": "Ive had a Lowes CC for 4 years. Without probable cause, Syncrony Bank decreased my credit limit from XXXX to XXXX, which is damaging to my credit score. Ive never been late with payments or any other opened account on my credit report. Ive never used above 30 % of my available credit on this card. Synchrony Bank has unethical business practices.",
+  "date_sent_to_company": "2024-05-22T12:00:00-05:00",
+  "issue": "Trouble using your card",
+  "sub_product": "Store credit card",
+  "zip_code": "75126",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-22T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company won't increase or decrease your credit limit",
+  "text": "Ive had a Lowes CC for 4 years. Without probable cause, Syncrony Bank decreased my credit limit from XXXX to XXXX, which is damaging to my credit score. Ive never been late with payments or any other opened account on my credit report. Ive never used above 30 % of my available credit on this card. Synchrony Bank has unethical business practices."
+}
+
+Chunk:
+ive had a lowes cc for 4 years. without probable cause, syncrony bank decreased my credit limit from xxxx to xxxx, which is damaging to my credit score. ive never been late with payments or any other opened account on my credit report. ive never used above 30 % of my available credit on this card. synchrony bank has unethical business practices.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987314343452454
+}

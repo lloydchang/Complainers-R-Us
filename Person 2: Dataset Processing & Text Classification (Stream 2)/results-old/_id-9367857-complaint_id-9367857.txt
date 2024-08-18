@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9367857,
+  "complaint_id": "9367857",
+  "product": "Credit card",
+  "complaint_what_happened": "This is in regards to complaint # XXXX with Wells Fargo that I reported earlier. Wells Fargo settle the account in the amount of {$3900.00} and still hold me accountable for {$2900.00}. I have asked them to provide all documents of their investigations which they didn't.\n\nI am not willing to pay for something I did not benefit from. THIS IS SO UNFAIR that Wells Fargo still making me pay {$2900.00}.\n\nPlease reach out to them and ask for all the proof of their investigations so I can go ahead and start my own investigation.",
+  "date_sent_to_company": "2024-06-27T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "77407",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "WELLS FARGO & COMPANY",
+  "date_received": "2024-06-23T12:00:00-05:00",
+  "state": "TX",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "This is in regards to complaint # XXXX with Wells Fargo that I reported earlier. Wells Fargo settle the account in the amount of {$3900.00} and still hold me accountable for {$2900.00}. I have asked them to provide all documents of their investigations which they didn't.\n\nI am not willing to pay for something I did not benefit from. THIS IS SO UNFAIR that Wells Fargo still making me pay {$2900.00}.\n\nPlease reach out to them and ask for all the proof of their investigations so I can go ahead and start my own investigation."
+}
+
+Chunk:
+this is in regards to complaint # xxxx with wells fargo that i reported earlier. wells fargo settle the account in the amount of { $ 3900. 00 } and still hold me accountable for { $ 2900. 00 }. i have asked them to provide all documents of their investigations which they didn't. i am not willing to pay for something i did not benefit from. this is so unfair that wells fargo still making me pay { $ 2900. 00 }. please reach out to them and ask for all the proof of their investigations so i can go ahead and start my own investigation.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994832277297974
+}

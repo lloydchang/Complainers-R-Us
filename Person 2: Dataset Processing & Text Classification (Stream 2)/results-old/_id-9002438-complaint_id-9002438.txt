@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9002438,
+  "complaint_id": "9002438",
+  "product": "Credit card",
+  "complaint_what_happened": "Phishing attempt, from claiming to be Bank Of America. A text message was sent to my cell phone : From : XXXX Reads as : BankOfAmerica : You tried to add \" XXXX XXXX '' as a mobile recipient on XXXX XXXX XXXX If this wasn't you, please cancel at the following link XXXX XXXX XXXX XXXX",
+  "date_sent_to_company": "2024-05-14T12:00:00-05:00",
+  "issue": "Other features, terms, or problems",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "067XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-14T12:00:00-05:00",
+  "state": "CT",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Other problem",
+  "text": "Phishing attempt, from claiming to be Bank Of America. A text message was sent to my cell phone : From : XXXX Reads as : BankOfAmerica : You tried to add \" XXXX XXXX '' as a mobile recipient on XXXX XXXX XXXX If this wasn't you, please cancel at the following link XXXX XXXX XXXX XXXX"
+}
+
+Chunk:
+phishing attempt, from claiming to be bank of america. a text message was sent to my cell phone : from : xxxx reads as : bankofamerica : you tried to add " xxxx xxxx'' as a mobile recipient on xxxx xxxx xxxx if this wasn't you, please cancel at the following link xxxx xxxx xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9994285702705383
+}

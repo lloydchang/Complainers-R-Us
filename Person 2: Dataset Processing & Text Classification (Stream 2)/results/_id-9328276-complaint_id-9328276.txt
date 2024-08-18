@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9328276,
+  "complaint_id": "9328276",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX I was in the middle of booking flights on XXXX. At that time as I was about to pay, they offered a credit card offer that would give me a {$400.00} statement credit and XXXX miles when I spent {$1000.00}. I accepted and got the offer and the card. My first statement was paid in full on XX/XX/XXXX but I never saw a credit of {$400.00} and never saw any mileage bonus. I called them on XXXX and after I finally got to a supervisor, he advised me that since I had another credit card with a bonus offer in the past XXXX months, I was ineligible for any statement or mileage credit. He said the disclosure was there and I say before they accepted the application under the terms they offered, they should have advised me that I would not be eligible. No letter to follow up on their end as well explaining this very important aspect. Its extremely deceptive. How is any regular person supposed to remember that they had a promotional offer on similar credit card in the last XXXX years. My wife and I have and manage about XXXX credit cards. I have been utilizing credit cards my entire adult life and I am XXXX XXXX XXXX. This was by far the most egregious abuse a credit card company ever gave me. The card is issued by Citi/AAdvantage Platinum Select World Elite Mastercard Thank you!",
+  "date_sent_to_company": "2024-06-24T12:00:00-05:00",
+  "issue": "Advertising and marketing, including promotional offers",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10003",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-06-24T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Confusing or misleading advertising about the credit card",
+  "text": "On XX/XX/XXXX I was in the middle of booking flights on XXXX. At that time as I was about to pay, they offered a credit card offer that would give me a {$400.00} statement credit and XXXX miles when I spent {$1000.00}. I accepted and got the offer and the card. My first statement was paid in full on XX/XX/XXXX but I never saw a credit of {$400.00} and never saw any mileage bonus. I called them on XXXX and after I finally got to a supervisor, he advised me that since I had another credit card with a bonus offer in the past XXXX months, I was ineligible for any statement or mileage credit. He said the disclosure was there and I say before they accepted the application under the terms they offered, they should have advised me that I would not be eligible. No letter to follow up on their end as well explaining this very important aspect. Its extremely deceptive. How is any regular person supposed to remember that they had a promotional offer on similar credit card in the last XXXX years. My wife and I have and manage about XXXX credit cards. I have been utilizing credit cards my entire adult life and I am XXXX XXXX XXXX. This was by far the most egregious abuse a credit card company ever gave me. The card is issued by Citi/AAdvantage Platinum Select World Elite Mastercard Thank you!"
+}
+
+Chunk:
+on xx / xx / xxxx i was in the middle of booking flights on xxxx. at that time as i was about to pay, they offered a credit card offer that would give me a { $ 400. 00 } statement credit and xxxx miles when i spent { $ 1000. 00 }. i accepted and got the offer and the card. my first statement was paid in full on xx / xx / xxxx but i never saw a credit of { $ 400. 00 } and never saw any mileage bonus. i called them on xxxx and after i finally got to a supervisor, he advised me that since i had another credit card with a bonus offer in the past xxxx months, i was ineligible for any statement or mileage credit. he said the disclosure was there and i say before they accepted the application under the terms they offered, they should have advised me that i would not be eligible. no letter to follow up on their end as well explaining this very important aspect. its extremely deceptive. how is any regular person supposed to remember that they had a promotional offer on similar credit card in the last xxxx years. my wife and i have and manage about xxxx credit cards. i have been utilizing credit cards my entire adult life and i am xxxx xxxx xxxx. this was by far the most egregious abuse a credit card company ever gave me. the card is issued by citi / aadvantage platinum select world elite mastercard thank you!
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9964565634727478
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9225756,
+  "complaint_id": "9225756",
+  "product": "Credit card",
+  "complaint_what_happened": "This company does not allow me to pay my credit card over the phone anymore and therefore my payment will be late this month. Their automated phone system asks for info I don't have multiple times like a PIN # or an extension number to reach someone to make a payment and if I get out of the automated system I'm stuck on hold for XXXX minutes. I'm unwilling to wait that long to give them my money. I stopped paying by mail a long time ago because it took too long to arrive and XXXX time it never got there. I don't use any online banking either. Here 's the deal. I entered my SS # or account # and it still won't allow me to make a payment. I used to be able to make these payments because the system recognized my phone number. Now nothing allows me to use their automated payment system or will allow me to connect to a XXXX who can take that payment. Now my payment is a couple days late. This is now a company I would recommend never doing business with no matter how good their offers looks. Anyone can look online to see the issues in both their insurance and banking business now under investigation or class action lawsuits to understand why I am warning everyone to stay away from this company. You can get much better rates on insurance by finding a good insurance agency in your state and you can find local and better banks and credit unions too. As for credit cards I highly recommend XXXX card over USAA. I can always pay my bill over the phone with them in under a minute.",
+  "date_sent_to_company": "2024-06-17T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "48169",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "UNITED SERVICES AUTOMOBILE ASSOCIATION",
+  "date_received": "2024-06-10T12:00:00-05:00",
+  "state": "MI",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company believes it acted appropriately as authorized by contract or law",
+  "sub_issue": "Problem during payment process",
+  "text": "This company does not allow me to pay my credit card over the phone anymore and therefore my payment will be late this month. Their automated phone system asks for info I don't have multiple times like a PIN # or an extension number to reach someone to make a payment and if I get out of the automated system I'm stuck on hold for XXXX minutes. I'm unwilling to wait that long to give them my money. I stopped paying by mail a long time ago because it took too long to arrive and XXXX time it never got there. I don't use any online banking either. Here 's the deal. I entered my SS # or account # and it still won't allow me to make a payment. I used to be able to make these payments because the system recognized my phone number. Now nothing allows me to use their automated payment system or will allow me to connect to a XXXX who can take that payment. Now my payment is a couple days late. This is now a company I would recommend never doing business with no matter how good their offers looks. Anyone can look online to see the issues in both their insurance and banking business now under investigation or class action lawsuits to understand why I am warning everyone to stay away from this company. You can get much better rates on insurance by finding a good insurance agency in your state and you can find local and better banks and credit unions too. As for credit cards I highly recommend XXXX card over USAA. I can always pay my bill over the phone with them in under a minute."
+}
+
+Chunk:
+this company does not allow me to pay my credit card over the phone anymore and therefore my payment will be late this month. their automated phone system asks for info i don't have multiple times like a pin # or an extension number to reach someone to make a payment and if i get out of the automated system i'm stuck on hold for xxxx minutes. i'm unwilling to wait that long to give them my money. i stopped paying by mail a long time ago because it took too long to arrive and xxxx time it never got there. i don't use any online banking either. here's the deal. i entered my ss # or account # and it still won't allow me to make a payment. i used to be able to make these payments because the system recognized my phone number. now nothing allows me to use their automated payment system or will allow me to connect to a xxxx who can take that payment. now my payment is a couple days late. this is now a company i would recommend never doing business with no matter how good their offers looks. anyone can look online to see the issues in both their insurance and banking business now under investigation or class action lawsuits to understand why i am warning everyone to stay away from this company. you can get much better rates on insurance by finding a good insurance agency in your state and you can find local and better banks and credit unions too. as for credit cards i highly recommend xxxx card over usaa. i can always pay my bill over the phone with them in under a minute.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9978982210159302
+}

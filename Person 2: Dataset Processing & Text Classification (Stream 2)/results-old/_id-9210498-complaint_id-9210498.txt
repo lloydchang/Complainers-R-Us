@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9210498,
+  "complaint_id": "9210498",
+  "product": "Credit card",
+  "complaint_what_happened": "On Thursday, XX/XX/year> around XXXX I made a purchase at XXXX XXXX XXXX XXXX Missouri XXXX in the beauty/cosmetics section. I asked the person at checkout ( XXXX ) to look up my JCPenney store card to put the purchase on it. She proceeds to tell me that my card is expired and that she needs to update my information. I specifically said this is only updating my information, correct? I do not want to apply for a new card. I said this 3 times to confirm that I was not applying for a new card and she reassured me this was just updating my old account and card ( my XXXX XXXX XXXX son was standing there and heard the whole conversation ). I am currently in the process of applying for a mortgage loan and do NOT want any more inquiries made to my credit report. I am very disappointed and aggravated that this girl did in fact apply me for a new credit card WITHOUT my consent and lied about doing so. I called the JCPenney Credit Card Customer Service line to which a lady named XXXX ( around XXXX once I received an Email notification that I had a new credit inquiry to my credit report ) said she put in a request to take the inquiry off my credit report. I also called and spoke to the XXXX of the XXXX XXXX in XXXX, MO to inform her of what happened. She said she would speak to the associate ( XXXX ) and all her associates to make sure that does not happen again. I do not want this affecting my XXXX XXXX.",
+  "date_sent_to_company": "2024-06-10T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "653XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-06-08T12:00:00-05:00",
+  "state": "MO",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "On Thursday, XX/XX/year> around XXXX I made a purchase at XXXX XXXX XXXX XXXX Missouri XXXX in the beauty/cosmetics section. I asked the person at checkout ( XXXX ) to look up my JCPenney store card to put the purchase on it. She proceeds to tell me that my card is expired and that she needs to update my information. I specifically said this is only updating my information, correct? I do not want to apply for a new card. I said this 3 times to confirm that I was not applying for a new card and she reassured me this was just updating my old account and card ( my XXXX XXXX XXXX son was standing there and heard the whole conversation ). I am currently in the process of applying for a mortgage loan and do NOT want any more inquiries made to my credit report. I am very disappointed and aggravated that this girl did in fact apply me for a new credit card WITHOUT my consent and lied about doing so. I called the JCPenney Credit Card Customer Service line to which a lady named XXXX ( around XXXX once I received an Email notification that I had a new credit inquiry to my credit report ) said she put in a request to take the inquiry off my credit report. I also called and spoke to the XXXX of the XXXX XXXX in XXXX, MO to inform her of what happened. She said she would speak to the associate ( XXXX ) and all her associates to make sure that does not happen again. I do not want this affecting my XXXX XXXX."
+}
+
+Chunk:
+on thursday, xx / xx / year > around xxxx i made a purchase at xxxx xxxx xxxx xxxx missouri xxxx in the beauty / cosmetics section. i asked the person at checkout ( xxxx ) to look up my jcpenney store card to put the purchase on it. she proceeds to tell me that my card is expired and that she needs to update my information. i specifically said this is only updating my information, correct? i do not want to apply for a new card. i said this 3 times to confirm that i was not applying for a new card and she reassured me this was just updating my old account and card ( my xxxx xxxx xxxx son was standing there and heard the whole conversation ). i am currently in the process of applying for a mortgage loan and do not want any more inquiries made to my credit report. i am very disappointed and aggravated that this girl did in fact apply me for a new credit card without my consent and lied about doing so. i called the jcpenney credit card customer service line to which a lady named xxxx ( around xxxx once i received an email notification that i had a new credit inquiry to my credit report ) said she put in a request to take the inquiry off my credit report. i also called and spoke to the xxxx of the xxxx xxxx in xxxx, mo to inform her of what happened. she said she would speak to the associate ( xxxx ) and all her associates to make sure that does not happen again. i do not want this affecting my xxxx xxxx.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987311959266663
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9290362,
+  "complaint_id": "9290362",
+  "product": "Credit card",
+  "complaint_what_happened": "XXXX of XXXX, Bank closed my account with no reason behind it, Ive made all my payments on time, never late. I contacted my bank about the inaccurate information, they looked into it and they had no reason themselves on why my account was closed.",
+  "date_sent_to_company": "2024-06-18T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "11729",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-06-18T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Company closed your account",
+  "text": "XXXX of XXXX, Bank closed my account with no reason behind it, Ive made all my payments on time, never late. I contacted my bank about the inaccurate information, they looked into it and they had no reason themselves on why my account was closed."
+}
+
+Chunk:
+xxxx of xxxx, bank closed my account with no reason behind it, ive made all my payments on time, never late. i contacted my bank about the inaccurate information, they looked into it and they had no reason themselves on why my account was closed.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990787506103516
+}

@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9029882,
+  "complaint_id": "9029882",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment at XXXX XXXX on XX/XX/2024 the date the payment was due. The company charged me a late fee because they claim it must be made by XXXX  EST. Nowhere does it say this in their app.",
+  "date_sent_to_company": "2024-05-16T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "Store credit card",
+  "zip_code": "70117",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-16T12:00:00-05:00",
+  "state": "LA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem with fees",
+  "text": "I made a payment at XXXX XXXX on XX/XX/2024 the date the payment was due. The company charged me a late fee because they claim it must be made by XXXX  EST. Nowhere does it say this in their app."
+}
+
+Chunk:
+i made a payment at xxxx xxxx on xx / xx / 2024 the date the payment was due. the company charged me a late fee because they claim it must be made by xxxx est. nowhere does it say this in their app.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9992295503616333
+}

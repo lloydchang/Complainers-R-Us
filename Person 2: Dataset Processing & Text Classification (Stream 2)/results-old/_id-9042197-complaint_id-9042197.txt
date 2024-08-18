@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9042197,
+  "complaint_id": "9042197",
+  "product": "Credit card",
+  "complaint_what_happened": "I was alerted on XX/XX/XXXX that there was a hard inquiry done against my credit. It was for TD Bank/target credit card. I never applied for this card so definitely suspected fraud. I put a freeze on my credit and s fraud alert. I called the company and they asked me if my email was outlook, I said no, they asked if the last 4 digits of my phone number was XXXX. I said no and they read off some numbers from a drivers license and I said no that wasn't mine. They said that they would not put the application through and I asked if I could have the number and email they used and they said no, obviously someone has my social security number and I want them investigated. This is wrong.",
+  "date_sent_to_company": "2024-05-18T12:00:00-05:00",
+  "issue": "Incorrect information on your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "014XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-18T12:00:00-05:00",
+  "state": "MA",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Information belongs to someone else",
+  "text": "I was alerted on XX/XX/XXXX that there was a hard inquiry done against my credit. It was for TD Bank/target credit card. I never applied for this card so definitely suspected fraud. I put a freeze on my credit and s fraud alert. I called the company and they asked me if my email was outlook, I said no, they asked if the last 4 digits of my phone number was XXXX. I said no and they read off some numbers from a drivers license and I said no that wasn't mine. They said that they would not put the application through and I asked if I could have the number and email they used and they said no, obviously someone has my social security number and I want them investigated. This is wrong."
+}
+
+Chunk:
+i was alerted on xx / xx / xxxx that there was a hard inquiry done against my credit. it was for td bank / target credit card. i never applied for this card so definitely suspected fraud. i put a freeze on my credit and s fraud alert. i called the company and they asked me if my email was outlook, i said no, they asked if the last 4 digits of my phone number was xxxx. i said no and they read off some numbers from a drivers license and i said no that wasn't mine. they said that they would not put the application through and i asked if i could have the number and email they used and they said no, obviously someone has my social security number and i want them investigated. this is wrong.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9995630383491516
+}

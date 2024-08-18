@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9593358,
+  "complaint_id": "9593358",
+  "product": "Credit card",
+  "complaint_what_happened": "Ive only ever had a XXXX XXXX card. Looks like someone tried to open a card up under my name which wasnt me actually opening it up. Checked my credit report and saw this was there.",
+  "date_sent_to_company": "2024-07-23T12:00:00-05:00",
+  "issue": "Improper use of your report",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "55330",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "FIRST NATIONAL BANK OF OMAHA",
+  "date_received": "2024-07-23T12:00:00-05:00",
+  "state": "MN",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Credit inquiries on your report that you don't recognize",
+  "text": "Ive only ever had a XXXX XXXX card. Looks like someone tried to open a card up under my name which wasnt me actually opening it up. Checked my credit report and saw this was there."
+}
+
+Chunk:
+ive only ever had a xxxx xxxx card. looks like someone tried to open a card up under my name which wasnt me actually opening it up. checked my credit report and saw this was there.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.99886155128479
+}

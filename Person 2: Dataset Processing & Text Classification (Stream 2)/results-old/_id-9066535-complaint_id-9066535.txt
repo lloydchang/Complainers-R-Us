@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9066535,
+  "complaint_id": "9066535",
+  "product": "Credit card",
+  "complaint_what_happened": "My last payment of a ) 5 interest purchase was sent on Wednesday XX/XX/year>, marked as received on Thursday XX/XX/year> through my bank. Due date of the payment was Saturday XX/XX/year>. The payment was posted to the card when they processed their transactions on Monday XX/XX/year>. I have used this timing for payments in the past with this credit card and have had no issues. A late fee was assessed to my account. I contacted them and they waived it as a \" courtesy ''. A few days later I see a {$2.00} interest charge due to the late processing of my last payment for the 0 % interest term. I contacted them again to waive the {$2.00} which should not have been charged as the payment was submitted and received by the due date otherwise it would not have been applied to my account on that Monday. The CC company told me I needed to make my payments at least 10 days prior to the due date. In the world of immediate payments that we now have, this is ridiculous. I instructed them to close my account. I asked them to log a formal complaint which they told me I needed to do in writing only. I feel that they should have to log a complaint in any format that it is received. XXXX  XXXX, chat, email, or letter. They need to be held to a higher standard and they need to be accountable for their processes, especially when they negatively affect the consumer. I would like an investigation into their practices and fees, including late fees and interest on the late fees and balances which should not have been considered past due. I would expect this to be a pervasive issue which has been going on for a long time.",
+  "date_sent_to_company": "2024-05-21T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "Store credit card",
+  "zip_code": "14043",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-05-21T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "My last payment of a ) 5 interest purchase was sent on Wednesday XX/XX/year>, marked as received on Thursday XX/XX/year> through my bank. Due date of the payment was Saturday XX/XX/year>. The payment was posted to the card when they processed their transactions on Monday XX/XX/year>. I have used this timing for payments in the past with this credit card and have had no issues. A late fee was assessed to my account. I contacted them and they waived it as a \" courtesy ''. A few days later I see a {$2.00} interest charge due to the late processing of my last payment for the 0 % interest term. I contacted them again to waive the {$2.00} which should not have been charged as the payment was submitted and received by the due date otherwise it would not have been applied to my account on that Monday. The CC company told me I needed to make my payments at least 10 days prior to the due date. In the world of immediate payments that we now have, this is ridiculous. I instructed them to close my account. I asked them to log a formal complaint which they told me I needed to do in writing only. I feel that they should have to log a complaint in any format that it is received. XXXX  XXXX, chat, email, or letter. They need to be held to a higher standard and they need to be accountable for their processes, especially when they negatively affect the consumer. I would like an investigation into their practices and fees, including late fees and interest on the late fees and balances which should not have been considered past due. I would expect this to be a pervasive issue which has been going on for a long time."
+}
+
+Chunk:
+my last payment of a ) 5 interest purchase was sent on wednesday xx / xx / year >, marked as received on thursday xx / xx / year > through my bank. due date of the payment was saturday xx / xx / year >. the payment was posted to the card when they processed their transactions on monday xx / xx / year >. i have used this timing for payments in the past with this credit card and have had no issues. a late fee was assessed to my account. i contacted them and they waived it as a " courtesy''. a few days later i see a { $ 2. 00 } interest charge due to the late processing of my last payment for the 0 % interest term. i contacted them again to waive the { $ 2. 00 } which should not have been charged as the payment was submitted and received by the due date otherwise it would not have been applied to my account on that monday. the cc company told me i needed to make my payments at least 10 days prior to the due date. in the world of immediate payments that we now have, this is ridiculous. i instructed them to close my account. i asked them to log a formal complaint which they told me i needed to do in writing only. i feel that they should have to log a complaint in any format that it is received. xxxx xxxx, chat, email, or letter. they need to be held to a higher standard and they need to be accountable for their processes, especially when they negatively affect the consumer. i would like an investigation into their practices and fees, including late fees and interest on the late fees and balances which should not have been considered past due. i would expect this to be a pervasive issue which has been going on for a long time.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9990788698196411
+}

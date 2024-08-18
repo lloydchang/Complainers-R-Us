@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9143249,
+  "complaint_id": "9143249",
+  "product": "Credit card",
+  "complaint_what_happened": "On XX/XX/XXXX, I received store credit cards from both Target ( Target Circle ) and XXXX XXXX XXXX Card. \n\nI did not apply for any of these cards and was not expecting either of them to come. I have not yet personally activated either of the cards. \n\nToday, XX/XX/XXXX, I contacted both XXXX XXXX and XXXX 's card departments. I was unable to reach a human representative at XXXX XXXX to explain my situation. However, I was able to reach someone at XXXX. I filed a report with their fraud department, but they also informed me that I have a balance of over {$400.00} from the in-store purchase of an XXXX on XX/XX/XXXX. I was neither in the store nor purchased an XXXX on XX/XX/XXXX. Their fraud department is supposed to be sending me paperwork within XXXX days so they can begin investigating whether it was fraud or not. \n\nI will be attempting to contact XXXX XXXX again today to see about talking to a person.",
+  "date_sent_to_company": "2024-05-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-05-31T12:00:00-05:00",
+  "state": "AZ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Sent card you never applied for",
+  "text": "On XX/XX/XXXX, I received store credit cards from both Target ( Target Circle ) and XXXX XXXX XXXX Card. \n\nI did not apply for any of these cards and was not expecting either of them to come. I have not yet personally activated either of the cards. \n\nToday, XX/XX/XXXX, I contacted both XXXX XXXX and XXXX 's card departments. I was unable to reach a human representative at XXXX XXXX to explain my situation. However, I was able to reach someone at XXXX. I filed a report with their fraud department, but they also informed me that I have a balance of over {$400.00} from the in-store purchase of an XXXX on XX/XX/XXXX. I was neither in the store nor purchased an XXXX on XX/XX/XXXX. Their fraud department is supposed to be sending me paperwork within XXXX days so they can begin investigating whether it was fraud or not. \n\nI will be attempting to contact XXXX XXXX again today to see about talking to a person."
+}
+
+Chunk:
+on xx / xx / xxxx, i received store credit cards from both target ( target circle ) and xxxx xxxx xxxx card. i did not apply for any of these cards and was not expecting either of them to come. i have not yet personally activated either of the cards. today, xx / xx / xxxx, i contacted both xxxx xxxx and xxxx's card departments. i was unable to reach a human representative at xxxx xxxx to explain my situation. however, i was able to reach someone at xxxx. i filed a report with their fraud department, but they also informed me that i have a balance of over { $ 400. 00 } from the in - store purchase of an xxxx on xx / xx / xxxx. i was neither in the store nor purchased an xxxx on xx / xx / xxxx. their fraud department is supposed to be sending me paperwork within xxxx days so they can begin investigating whether it was fraud or not. i will be attempting to contact xxxx xxxx again today to see about talking to a person.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9989884495735168
+}

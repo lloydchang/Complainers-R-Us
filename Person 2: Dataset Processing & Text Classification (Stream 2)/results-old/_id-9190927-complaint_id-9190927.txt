@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9190927,
+  "complaint_id": "9190927",
+  "product": "Credit card",
+  "complaint_what_happened": "I opened a secured credit card with TD Bank USA and the account was sent to collections. \n\nThe company is called XXXX XXXX XXXX XXXX XXXX. TD bank confirmed to me that i would have my {$500.00} secured deposit returned to me since it was sold it a 3rd party. Today he balance was deducted from my account and td bank kept the deposit. I need help getting my depsot back to me since the 3rd party now owns the account and the remaining balance was conformed by td bank that its to be returned to me but they kept it instead/",
+  "date_sent_to_company": "2024-06-07T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "349XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "TD BANK US HOLDING COMPANY",
+  "date_received": "2024-06-07T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Credit card company isn't resolving a dispute about a purchase on your statement",
+  "text": "I opened a secured credit card with TD Bank USA and the account was sent to collections. \n\nThe company is called XXXX XXXX XXXX XXXX XXXX. TD bank confirmed to me that i would have my {$500.00} secured deposit returned to me since it was sold it a 3rd party. Today he balance was deducted from my account and td bank kept the deposit. I need help getting my depsot back to me since the 3rd party now owns the account and the remaining balance was conformed by td bank that its to be returned to me but they kept it instead/"
+}
+
+Chunk:
+i opened a secured credit card with td bank usa and the account was sent to collections. the company is called xxxx xxxx xxxx xxxx xxxx. td bank confirmed to me that i would have my { $ 500. 00 } secured deposit returned to me since it was sold it a 3rd party. today he balance was deducted from my account and td bank kept the deposit. i need help getting my depsot back to me since the 3rd party now owns the account and the remaining balance was conformed by td bank that its to be returned to me but they kept it instead /
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.997075080871582
+}

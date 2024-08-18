@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9655861,
+  "complaint_id": "9655861",
+  "product": "Credit card",
+  "complaint_what_happened": "I am unable to hear and use XXXX XXXX XXXXXXXX ( XXXX ). I lived in XXXX for three months and before leaving for the XXXX, I made sure to pay all my bills using my credit cards and online banking. However, when I attempted to pay my bills, my home seemed may not have had a strong Wi-Fi connection. As a result, I thought the online bank transactions went through and closed my laptop in XX/XX/year>. I did not receive any XXXX  reminders or calls from USBank, possibly due to weak internet or network issues in XXXX. As I was busy with my university internship work as an advocate for an organization in XXXX, I didn't check my personal email regularly. When I finally had time to check my email at the end of XXXX, I was shocked to find out that my credit limits had been drastically reduced from {$4000.00} to {$600.00}. I contacted the company and was informed that it was due to missed payments. I explained my situation and how I had always been loyal to USBank and had never missed a payment in the past 30 months. However, the bank was firm and refused to reconsider. I was very upset by their decision, especially considering my loyalty to them over the years. I returned XXXX on XX/XX/year>.",
+  "date_sent_to_company": "2024-07-30T12:00:00-05:00",
+  "issue": "Problem when making payments",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "10566",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with monetary relief",
+  "submitted_via": "Web",
+  "company": "U.S. BANCORP",
+  "date_received": "2024-07-30T12:00:00-05:00",
+  "state": "NY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Problem during payment process",
+  "text": "I am unable to hear and use XXXX XXXX XXXXXXXX ( XXXX ). I lived in XXXX for three months and before leaving for the XXXX, I made sure to pay all my bills using my credit cards and online banking. However, when I attempted to pay my bills, my home seemed may not have had a strong Wi-Fi connection. As a result, I thought the online bank transactions went through and closed my laptop in XX/XX/year>. I did not receive any XXXX  reminders or calls from USBank, possibly due to weak internet or network issues in XXXX. As I was busy with my university internship work as an advocate for an organization in XXXX, I didn't check my personal email regularly. When I finally had time to check my email at the end of XXXX, I was shocked to find out that my credit limits had been drastically reduced from {$4000.00} to {$600.00}. I contacted the company and was informed that it was due to missed payments. I explained my situation and how I had always been loyal to USBank and had never missed a payment in the past 30 months. However, the bank was firm and refused to reconsider. I was very upset by their decision, especially considering my loyalty to them over the years. I returned XXXX on XX/XX/year>."
+}
+
+Chunk:
+i am unable to hear and use xxxx xxxx xxxxxxxx ( xxxx ). i lived in xxxx for three months and before leaving for the xxxx, i made sure to pay all my bills using my credit cards and online banking. however, when i attempted to pay my bills, my home seemed may not have had a strong wi - fi connection. as a result, i thought the online bank transactions went through and closed my laptop in xx / xx / year >. i did not receive any xxxx reminders or calls from usbank, possibly due to weak internet or network issues in xxxx. as i was busy with my university internship work as an advocate for an organization in xxxx, i didn't check my personal email regularly. when i finally had time to check my email at the end of xxxx, i was shocked to find out that my credit limits had been drastically reduced from { $ 4000. 00 } to { $ 600. 00 }. i contacted the company and was informed that it was due to missed payments. i explained my situation and how i had always been loyal to usbank and had never missed a payment in the past 30 months. however, the bank was firm and refused to reconsider. i was very upset by their decision, especially considering my loyalty to them over the years. i returned xxxx on xx / xx / year >.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9991750121116638
+}

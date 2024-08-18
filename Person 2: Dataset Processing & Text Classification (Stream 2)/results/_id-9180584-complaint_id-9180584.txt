@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9180584,
+  "complaint_id": "9180584",
+  "product": "Credit card",
+  "complaint_what_happened": "Apple Card with Goldmen Sacs has closed my card effective XXXX I have had the card for approximately 6 months made on time payments with no issue and multi payments in a month with over {$6000.00} in payment. \n\nI received a generic response via email stating-There was a failure to comply with the terms of the Customer Agreement. \nWhen I called apple card support, they are not able to provide any information.",
+  "date_sent_to_company": "2024-06-05T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "275XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "GOLDMAN SACHS BANK USA",
+  "date_received": "2024-06-05T12:00:00-05:00",
+  "state": "NC",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "Apple Card with Goldmen Sacs has closed my card effective XXXX I have had the card for approximately 6 months made on time payments with no issue and multi payments in a month with over {$6000.00} in payment. \n\nI received a generic response via email stating-There was a failure to comply with the terms of the Customer Agreement. \nWhen I called apple card support, they are not able to provide any information."
+}
+
+Chunk:
+apple card with goldmen sacs has closed my card effective xxxx i have had the card for approximately 6 months made on time payments with no issue and multi payments in a month with over { $ 6000. 00 } in payment. i received a generic response via email stating - there was a failure to comply with the terms of the customer agreement. when i called apple card support, they are not able to provide any information.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9996737241744995
+}

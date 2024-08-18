@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9158223,
+  "complaint_id": "9158223",
+  "product": "Credit card",
+  "complaint_what_happened": "I made a payment to capitol one and on that same day someone else deposited a check and my credit card payment bounced. \nThey closed my credit card and all my credit lines. \nThey stole my XXXX points without any warning and won't give me back any of it. \nIt had a cash value of XXXX and travel value of XXXX that I saved up for years to go on travel this summer. \nHow can they without warning steal all my points and still request they I pay my balance on the card that was worth less then the points they stole from me without any warning. \nI understand they can close the credit line even though it was a genuine mistake but how can they confiscate an asset of mine that I've worked on for years and still want me to pay off my balance that my points would have more then paid off. \nI can't afford this bull. Their must be some accountability for theivery like this! \nPlease advise.",
+  "date_sent_to_company": "2024-06-03T12:00:00-05:00",
+  "issue": "Closing your account",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "XXXXX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "CAPITAL ONE FINANCIAL CORPORATION",
+  "date_received": "2024-06-03T12:00:00-05:00",
+  "state": "NJ",
+  "consumer_disputed": "N/A",
+  "company_public_response": null,
+  "sub_issue": "Company closed your account",
+  "text": "I made a payment to capitol one and on that same day someone else deposited a check and my credit card payment bounced. \nThey closed my credit card and all my credit lines. \nThey stole my XXXX points without any warning and won't give me back any of it. \nIt had a cash value of XXXX and travel value of XXXX that I saved up for years to go on travel this summer. \nHow can they without warning steal all my points and still request they I pay my balance on the card that was worth less then the points they stole from me without any warning. \nI understand they can close the credit line even though it was a genuine mistake but how can they confiscate an asset of mine that I've worked on for years and still want me to pay off my balance that my points would have more then paid off. \nI can't afford this bull. Their must be some accountability for theivery like this! \nPlease advise."
+}
+
+Chunk:
+i made a payment to capitol one and on that same day someone else deposited a check and my credit card payment bounced. they closed my credit card and all my credit lines. they stole my xxxx points without any warning and won't give me back any of it. it had a cash value of xxxx and travel value of xxxx that i saved up for years to go on travel this summer. how can they without warning steal all my points and still request they i pay my balance on the card that was worth less then the points they stole from me without any warning. i understand they can close the credit line even though it was a genuine mistake but how can they confiscate an asset of mine that i've worked on for years and still want me to pay off my balance that my points would have more then paid off. i can't afford this bull. their must be some accountability for theivery like this! please advise.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9974900484085083
+}

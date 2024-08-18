@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9099251,
+  "complaint_id": "9099251",
+  "product": "Credit card",
+  "complaint_what_happened": "I realize this is falling on deaf ears banks have Congress in their back pockets but I feel that it is my duty as success\n\nful American to voice my complaint. How can Banks charge 30 % interest on consumers with\nexcellent credit and payment history? Each and every member of Congress and the Presidency should be ashamed of their inactivity on this matter. While I am not currently carrying balances on my cards, many hard-working Americans do out of necessity due to rampant inflation due to corporate greed and poor decisions by governing branches. SHAME ON EACH OF YOU!! \nIn closing, Im going to pick on Bank of America one of Americas most complaint laden companies. I have several cards from different banks ; how is that that XXXX continues to withdraw payments when balance is XXXX, and then takes months to reimburse? Other banks do not have problem figuring this out, why XXXX continue to pocket money not belonging to them?? And is ANYONE on our side? \nWE THE PEOPLE need someones help!? \n\nThanks, XXXX XXXX",
+  "date_sent_to_company": "2024-05-25T12:00:00-05:00",
+  "issue": "Fees or interest",
+  "sub_product": "General-purpose credit card or charge card",
+  "zip_code": "42303",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "BANK OF AMERICA, NATIONAL ASSOCIATION",
+  "date_received": "2024-05-25T12:00:00-05:00",
+  "state": "KY",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Charged too much interest",
+  "text": "I realize this is falling on deaf ears banks have Congress in their back pockets but I feel that it is my duty as success\n\nful American to voice my complaint. How can Banks charge 30 % interest on consumers with\nexcellent credit and payment history? Each and every member of Congress and the Presidency should be ashamed of their inactivity on this matter. While I am not currently carrying balances on my cards, many hard-working Americans do out of necessity due to rampant inflation due to corporate greed and poor decisions by governing branches. SHAME ON EACH OF YOU!! \nIn closing, Im going to pick on Bank of America one of Americas most complaint laden companies. I have several cards from different banks ; how is that that XXXX continues to withdraw payments when balance is XXXX, and then takes months to reimburse? Other banks do not have problem figuring this out, why XXXX continue to pocket money not belonging to them?? And is ANYONE on our side? \nWE THE PEOPLE need someones help!? \n\nThanks, XXXX XXXX"
+}
+
+Chunk:
+i realize this is falling on deaf ears banks have congress in their back pockets but i feel that it is my duty as success ful american to voice my complaint. how can banks charge 30 % interest on consumers with excellent credit and payment history? each and every member of congress and the presidency should be ashamed of their inactivity on this matter. while i am not currently carrying balances on my cards, many hard - working americans do out of necessity due to rampant inflation due to corporate greed and poor decisions by governing branches. shame on each of you!! in closing, im going to pick on bank of america one of americas most complaint laden companies. i have several cards from different banks ; how is that that xxxx continues to withdraw payments when balance is xxxx, and then takes months to reimburse? other banks do not have problem figuring this out, why xxxx continue to pocket money not belonging to them?? and is anyone on our side? we the people need someones help!? thanks, xxxx xxxx
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9941216111183167
+}

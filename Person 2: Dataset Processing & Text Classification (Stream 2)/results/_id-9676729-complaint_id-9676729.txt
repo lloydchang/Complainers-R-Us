@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9676729,
+  "complaint_id": "9676729",
+  "product": "Credit card",
+  "complaint_what_happened": "XX/XX/XXXX I was informed by XXXX in Fraud that charges had been made at Macys in XXXX CA that amounted in {$1000.00} the change took place on XX/XX/XXXX. I told them it was fraud it was investigated and removed. On XX/XX/XXXX I was contacted by the XXXX XXXX in my area that the XXXX XXXX XXXX needed to contact them ASAP. I was told they had arrested XXXX people in XXXX that had ID my my information but clearly werent me since they were XXXX. XX/XX/XXXX XXXX took place at XXXX. Based on this information security was placed on both cards. XX/XX/XXXX I started receiving calls from Macys so they said they spoke about an an account I had paid off, so I hung up and called back thinking this was another scam. I spoke with XXXX in Fraud and she assured me she would send the issue forward. In became frustrated that I closed the account and asked that only payments being allowed. XX/XX/XXXX I was informed that there had been an account opened in XXXX XXXX XXXX I told them that was not my account and I was assured by XXXX XXXX for XXXX that the matter would be investigated. I gave them the case # XXXX the officer explained that mail was stolen from my mail box and many others in the area.",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Getting a credit card",
+  "sub_product": "Store credit card",
+  "zip_code": "94565",
+  "tags": "Older American",
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with non-monetary relief",
+  "submitted_via": "Web",
+  "company": "CITIBANK, N.A.",
+  "date_received": "2024-07-31T12:00:00-05:00",
+  "state": "CA",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card opened without my consent or knowledge",
+  "text": "XX/XX/XXXX I was informed by XXXX in Fraud that charges had been made at Macys in XXXX CA that amounted in {$1000.00} the change took place on XX/XX/XXXX. I told them it was fraud it was investigated and removed. On XX/XX/XXXX I was contacted by the XXXX XXXX in my area that the XXXX XXXX XXXX needed to contact them ASAP. I was told they had arrested XXXX people in XXXX that had ID my my information but clearly werent me since they were XXXX. XX/XX/XXXX XXXX took place at XXXX. Based on this information security was placed on both cards. XX/XX/XXXX I started receiving calls from Macys so they said they spoke about an an account I had paid off, so I hung up and called back thinking this was another scam. I spoke with XXXX in Fraud and she assured me she would send the issue forward. In became frustrated that I closed the account and asked that only payments being allowed. XX/XX/XXXX I was informed that there had been an account opened in XXXX XXXX XXXX I told them that was not my account and I was assured by XXXX XXXX for XXXX that the matter would be investigated. I gave them the case # XXXX the officer explained that mail was stolen from my mail box and many others in the area."
+}
+
+Chunk:
+xx / xx / xxxx i was informed by xxxx in fraud that charges had been made at macys in xxxx ca that amounted in { $ 1000. 00 } the change took place on xx / xx / xxxx. i told them it was fraud it was investigated and removed. on xx / xx / xxxx i was contacted by the xxxx xxxx in my area that the xxxx xxxx xxxx needed to contact them asap. i was told they had arrested xxxx people in xxxx that had id my my information but clearly werent me since they were xxxx. xx / xx / xxxx xxxx took place at xxxx. based on this information security was placed on both cards. xx / xx / xxxx i started receiving calls from macys so they said they spoke about an an account i had paid off, so i hung up and called back thinking this was another scam. i spoke with xxxx in fraud and she assured me she would send the issue forward. in became frustrated that i closed the account and asked that only payments being allowed. xx / xx / xxxx i was informed that there had been an account opened in xxxx xxxx xxxx i told them that was not my account and i was assured by xxxx xxxx for xxxx that the matter would be investigated. i gave them the case # xxxx the officer explained that mail was stolen from my mail box and many others in the area.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9987779259681702
+}

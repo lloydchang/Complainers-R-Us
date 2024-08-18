@@ -1,0 +1,32 @@
+Original Data:
+{
+  "_id": 9664778,
+  "complaint_id": "9664778",
+  "product": "Credit card",
+  "complaint_what_happened": "I signed up a few years ago for an Amazon Credit Card, as I was a poor XXXX  XXXX  and wanted the {$50.00} gift card that came with it. Unbeknownst to me, Amazon went ahead and activated the card before it was delivered, and they automatically added the card as a default backup payment to my Amazon account. \n\nAt some point, I purchased something and went about my day. Amazon, unlike ANY other retailer I have experience with, waits up to 3 hours to charge debit cards ( which is to my understanding not a part of any industry standard policy ). In the hours that had passed, I can only guess that my balance changed for my debit card, and I had insufficient funds. Amazon decides that if you authorize payment with one financial institution it also means you're authorizing payment on an Amazon Credit Card, a card that I never even activated and never set as a default payment.\n\nAs my Amazon account was through a XXXX  email, I at some point lost access to my account. This seems abusive and it feels like a corporation fishing for low-hanging and financially disadvantaged fruit, especially in the context of users being at checkout, seeing a checkbox saying \" Get {$50.00} for free '', and not realizing it could cost them half a point on their credit score. \n\nIn short : Amazon 's credit card and transaction authorization policies are unethical, and predatory, and lack a clear boundary of consensual payment when handling credit/debit cards from different financial institutions.",
+  "date_sent_to_company": "2024-07-31T12:00:00-05:00",
+  "issue": "Problem with a purchase shown on your statement",
+  "sub_product": "Store credit card",
+  "zip_code": "349XX",
+  "tags": null,
+  "timely": "Yes",
+  "consumer_consent_provided": "Consent provided",
+  "company_response": "Closed with explanation",
+  "submitted_via": "Web",
+  "company": "SYNCHRONY FINANCIAL",
+  "date_received": "2024-07-31T12:00:00-05:00",
+  "state": "FL",
+  "consumer_disputed": "N/A",
+  "company_public_response": "Company has responded to the consumer and the CFPB and chooses not to provide a public response",
+  "sub_issue": "Card was charged for something you did not purchase with the card",
+  "text": "I signed up a few years ago for an Amazon Credit Card, as I was a poor XXXX  XXXX  and wanted the {$50.00} gift card that came with it. Unbeknownst to me, Amazon went ahead and activated the card before it was delivered, and they automatically added the card as a default backup payment to my Amazon account. \n\nAt some point, I purchased something and went about my day. Amazon, unlike ANY other retailer I have experience with, waits up to 3 hours to charge debit cards ( which is to my understanding not a part of any industry standard policy ). In the hours that had passed, I can only guess that my balance changed for my debit card, and I had insufficient funds. Amazon decides that if you authorize payment with one financial institution it also means you're authorizing payment on an Amazon Credit Card, a card that I never even activated and never set as a default payment.\n\nAs my Amazon account was through a XXXX  email, I at some point lost access to my account. This seems abusive and it feels like a corporation fishing for low-hanging and financially disadvantaged fruit, especially in the context of users being at checkout, seeing a checkbox saying \" Get {$50.00} for free '', and not realizing it could cost them half a point on their credit score. \n\nIn short : Amazon 's credit card and transaction authorization policies are unethical, and predatory, and lack a clear boundary of consensual payment when handling credit/debit cards from different financial institutions."
+}
+
+Chunk:
+i signed up a few years ago for an amazon credit card, as i was a poor xxxx xxxx and wanted the { $ 50. 00 } gift card that came with it. unbeknownst to me, amazon went ahead and activated the card before it was delivered, and they automatically added the card as a default backup payment to my amazon account. at some point, i purchased something and went about my day. amazon, unlike any other retailer i have experience with, waits up to 3 hours to charge debit cards ( which is to my understanding not a part of any industry standard policy ). in the hours that had passed, i can only guess that my balance changed for my debit card, and i had insufficient funds. amazon decides that if you authorize payment with one financial institution it also means you're authorizing payment on an amazon credit card, a card that i never even activated and never set as a default payment. as my amazon account was through a xxxx email, i at some point lost access to my account. this seems abusive and it feels like a corporation fishing for low - hanging and financially disadvantaged fruit, especially in the context of users being at checkout, seeing a checkbox saying " get { $ 50. 00 } for free'', and not realizing it could cost them half a point on their credit score. in short : amazon's credit card and transaction authorization policies are unethical, and predatory, and lack a clear boundary of consensual payment when handling credit / debit cards from different financial institutions.
+
+Result:
+{
+  "label": "NEGATIVE",
+  "score": 0.9997199177742004
+}
