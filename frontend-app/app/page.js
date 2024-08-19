@@ -31,7 +31,7 @@ export default function Home() {
 
       <div className={styles['image-container-home']}>
         <Image 
-          src="/Complainers Я Us.jpg" 
+          src="/complainers.jpg"
           alt="Complainers Я Us" 
           layout="fill"
           objectFit="cover"

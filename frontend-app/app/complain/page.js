@@ -208,7 +208,7 @@ useEffect(() => {
       <Grid item xs={12} sm={4}>
       <div className={styles['image-container-complain']}>
         <Image 
-          src="/Complainers Я Us.jpg" 
+          src="/complainers.jpg"
           alt="Description" 
           width={400}
           height={400}
